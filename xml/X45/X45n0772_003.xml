@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X45n0772">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 772 釋摩訶衍論贊玄疏</title>
+			<author>宋 法悟撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.7 $<date>$Date: 2011/11/29 07:56:26 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		<respStmt xml:id="resp2"><resp>corrections</resp><name>Xuzangjing</name></respStmt>
+		<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA</name></respStmt>
+	</editionStmt>
+	<extent>5卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/11/29 07:56:26 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 45, No. 772 </bibl>
+	<listWit>
+		<witness xml:id="wit1">【CBETA】</witness>
+		<witness xml:id="wit2">【磧砂】</witness>
+		<witness xml:id="wit3">【卍續】</witness>
+	</listWit>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00985">
+	<charName>CBETA CHARACTER CB00985</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[億-音+(夫*夫)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>愆</value>
+	</charProp>
+	<mapping type="unicode">U+2039D</mapping>
+	<mapping cb:dec="984025" type="PUA">U+F03D9</mapping>
+</char>
+<char xml:id="CB08059">
+	<charName>CBETA CHARACTER CB08059</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[蝷-虫]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>斥</value>
+	</charProp>
+	<mapping type="unicode">U+387F</mapping>
+	<mapping cb:dec="991099" type="PUA">U+F1F7B</mapping>
+</char>
+<char xml:id="CB08764">
+	<charName>CBETA CHARACTER CB08764</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宋-木+取]</value>
+	</charProp>
+	<mapping type="unicode">U+3761</mapping>
+	<mapping cb:dec="991804" type="PUA">U+F223C</mapping>
+</char>
+<char xml:id="CB18616">
+	<charName>CBETA CHARACTER CB18616</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[瑔-水+井]</value>
+	</charProp>
+	<mapping cb:dec="1001656" type="PUA">U+F48B8</mapping>
+</char>
+<char xml:id="CB18622">
+	<charName>CBETA CHARACTER CB18622</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宇-丁+(天/心)]</value>
+	</charProp>
+	<mapping cb:dec="1001662" type="PUA">U+F48BE</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2006-11-17T16:29:23">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">十剖析文義</cb:mulu><cb:div type="other">
+<pb ed="X" xml:id="X45.0772.0865b" n="0865b"/>
+<lb ed="X" n="0865b01"/><lb ed="R072" n="0899b07"/><milestone unit="juan" n="3"/><cb:mulu type="卷" n="3"></cb:mulu><cb:juan fun="open" n="3"><cb:jhead>釋摩訶衍論贊玄疏卷第三</cb:jhead></cb:juan>
+<lb ed="X" n="0865b02"/><lb ed="R072" n="0899b08"/><byline cb:type="author">中京報恩傳教寺崇祿大夫守司空詮圖</byline>
+<lb ed="X" n="0865b03"/><lb ed="R072" n="0899b09"/><byline cb:type="author">通法大師賜紫臣沙門　法悟奉　勑撰</byline>
+<lb ed="X" n="0865b04"/><lb ed="R072" n="0899b10"/><cb:div type="orig"><p xml:id="pX45p0865b0401"><anchor xml:id="beg_6a" type="cb-app"/>已<anchor xml:id="end_6a"/>說心真如門次說心生滅門。</p></cb:div>
+<lb ed="X" n="0865b05"/><lb ed="R072" n="0899b11"/><cb:div type="commentary"><p xml:id="pX45p0865b0501" rend="margin-left:1em">釋曰後心生滅門有二初結指。</p></cb:div>
+<lb ed="X" n="0865b06"/><lb ed="R072" n="0899b12"/><cb:div type="orig"><p xml:id="pX45p0865b0601">本曰<note place="inline">至</note>不覺義。</p></cb:div>
+<lb ed="X" n="0865b07"/><lb ed="R072" n="0899b13"/><cb:div type="commentary"><p xml:id="pX45p0865b0701" rend="margin-left:1em">釋曰後正示有三初生滅因緣相有四一釋前心
+<lb ed="X" n="0865b08"/><lb ed="R072" n="0899b14"/>生滅有二初略顯兩重總別相又二初唱本依如
+<lb ed="X" n="0865b09"/><lb ed="R072" n="0899b15"/>來藏故有生滅心即初重總別所謂不生不滅<anchor xml:id="beg_6b" type="cb-app"/>已<anchor xml:id="end_6b"/>
+<lb ed="X" n="0865b10"/><lb ed="R072" n="0899b16"/>下即後重總別。</p></cb:div>
+<lb ed="X" n="0865b11"/><lb ed="R072" n="0899b17"/><cb:div type="orig"><p xml:id="pX45p0865b1101">論曰<note place="inline">至</note>應觀察。</p></cb:div>
+<lb ed="X" n="0865b12"/><lb ed="R072" n="0899b18"/><cb:div type="commentary"><p xml:id="pX45p0865b1201" rend="margin-left:1em">釋曰後釋文有二初科分。</p></cb:div>
+<lb ed="X" n="0865b13"/><lb ed="R072" n="0900a01"/><cb:div type="orig"><p xml:id="pX45p0865b1301">謂生滅門<note place="inline">至</note>為依故。</p></cb:div>
+<lb ed="X" n="0865b14"/><lb ed="R072" n="0900a02"/><cb:div type="commentary"><p xml:id="pX45p0865b1401" rend="margin-left:1em">釋曰後開示有二初標配兩重第一重多一心為
+<lb ed="X" n="0865b15"/><lb ed="R072" n="0900a03"/>所依總相生滅門為能依別相第二重攝主梨耶
+<lb ed="X" n="0865b16"/><lb ed="R072" n="0900a04"/>為所依總相覺不覺義為能依別相將釋對本文
+<lb ed="X" n="0865b17"/><lb ed="R072" n="0900a05"/>周義顯。</p></cb:div>
+<lb ed="X" n="0865b18"/><lb ed="R072" n="0900a06"/><cb:div type="orig"><p xml:id="pX45p0865b1801">先說初門。</p></cb:div>
+<lb ed="X" n="0865b19"/><lb ed="R072" n="0900a07"/><cb:div type="commentary"><p xml:id="pX45p0865b1901" rend="margin-left:1em">釋曰後依次決擇有二初第一重能所又二初標
+<lb ed="X" n="0865b20"/><lb ed="R072" n="0900a08"/>門。</p></cb:div>
+<lb ed="X" n="0865b21"/><lb ed="R072" n="0900a09"/><cb:div type="orig"><p xml:id="pX45p0865b2101">心生滅者者唱上立下故。</p></cb:div>
+<lb ed="X" n="0865b22"/><lb ed="R072" n="0900a10"/><cb:div type="commentary"><p xml:id="pX45p0865b2201" rend="margin-left:1em">釋曰後辨相有二初牒指正牒立義心生滅言。</p></cb:div>
+<lb ed="X" n="0865b23"/><lb ed="R072" n="0900a11"/><cb:div type="orig"><p xml:id="pX45p0865b2301">依如來藏<note place="inline">至</note>生滅門故。</p></cb:div>
+<lb ed="X" n="0865b24"/><lb ed="R072" n="0900a12"/><cb:div type="commentary"><p xml:id="pX45p0865b2401" rend="margin-left:1em">釋曰後釋成有二初略辨二門如來藏言名通十
+<pb ed="X" xml:id="X45.0772.0865c" n="0865c"/>
+<lb ed="X" n="0865c01"/><lb ed="R072" n="0900a13"/>種此取第三所入十名此當第六二處皆是與行
+<lb ed="X" n="0865c02"/><lb ed="R072" n="0900a14"/>與相若配一心是多一心上心下降名如來藏以
+<lb ed="X" n="0865c03"/><lb ed="R072" n="0900a15"/>為總相言下降者上云心者洞照靈明之義今云
+<lb ed="X" n="0865c04"/><lb ed="R072" n="0900a16"/>藏者攝藏隱覆之義減其勝名彰乎劣名故云下
+<lb ed="X" n="0865c05"/><lb ed="R072" n="0900a17"/>降其生滅心具四無為及五有為以為別相。</p></cb:div>
+<lb ed="X" n="0865c06"/><lb ed="R072" n="0900a18"/><cb:div type="orig"><p xml:id="pX45p0865c0601">今當依經<note place="inline">至</note>何所攝耶。</p></cb:div>
+<lb ed="X" n="0865c07"/><lb ed="R072" n="0900b01"/><cb:div type="commentary"><p xml:id="pX45p0865c0701" rend="margin-left:1em">釋曰後應明初一有二初標徵。</p></cb:div>
+<lb ed="X" n="0865c08"/><lb ed="R072" n="0900b02"/><cb:div type="orig"><p xml:id="pX45p0865c0801">頌曰<note place="inline">至</note>與行與相攝。</p></cb:div>
+<lb ed="X" n="0865c09"/><lb ed="R072" n="0900b03"/><cb:div type="commentary"><p xml:id="pX45p0865c0901" rend="margin-left:1em">釋曰後通釋有二初結頌。</p></cb:div>
+<lb ed="X" n="0865c10"/><lb ed="R072" n="0900b04"/><cb:div type="orig"><p xml:id="pX45p0865c1001">論曰<note place="inline">至</note>云何為十。</p></cb:div>
+<lb ed="X" n="0865c11"/><lb ed="R072" n="0900b05"/><cb:div type="commentary"><p xml:id="pX45p0865c1101" rend="margin-left:1em">釋曰後開示有三初總指徵起。</p></cb:div>
+<lb ed="X" n="0865c12"/><lb ed="R072" n="0900b06"/><cb:div type="orig"><p xml:id="pX45p0865c1201">一者<note place="inline">至</note>攝持故。</p></cb:div>
+<lb ed="X" n="0865c13"/><lb ed="R072" n="0900b07"/><cb:div type="commentary"><p xml:id="pX45p0865c1301" rend="margin-left:1em">釋曰次列名教證有十一大總持此下十藏初一
+<lb ed="X" n="0865c14"/><lb ed="R072" n="0900b08"/>為總義當前重根本大乘後九為別皆是後重能
+<lb ed="X" n="0865c15"/><lb ed="R072" n="0900b09"/>所諸法若欲料揀知法體者第二即是真如所入
+<lb ed="X" n="0865c16"/><lb ed="R072" n="0900b10"/>第三即是生滅所入第四即是真如門理次五唯
+<lb ed="X" n="0865c17"/><lb ed="R072" n="0900b11"/>是生滅門藏第五唯取生滅門中性真如理第六
+<lb ed="X" n="0865c18"/><lb ed="R072" n="0900b12"/>唯取覆淨煩惱第七唯取被染覆德第八唯取本
+<lb ed="X" n="0865c19"/><lb ed="R072" n="0900b13"/>覺佛性第九唯取所斷染法第十通二或多一心
+<lb ed="X" n="0865c20"/><lb ed="R072" n="0900b14"/>隱沒染中故或本覺心沈沒染中故其如來體第
+<lb ed="X" n="0865c21"/><lb ed="R072" n="0900b15"/>一義諦真如本覺隨應屬故初一第九攝持名藏
+<lb ed="X" n="0865c22"/><lb ed="R072" n="0900b16"/>攝持有二初一攝持咸能包故第九攝持皆所斷
+<lb ed="X" n="0865c23"/><lb ed="R072" n="0900b17"/>故第二第四無雜名藏雖同無雜門法別故第三
+<lb ed="X" n="0865c24"/><lb ed="R072" n="0900b18"/>五六七八與十隱覆名藏雖同隱覆義各別故且
+<pb ed="X" xml:id="X45.0772.0866a" n="0866a"/>
+<lb ed="X" n="0866a01"/><lb ed="R072" n="0901a01"/>初藏中先舉名略示次引教廣明後徵義具釋下
+<lb ed="X" n="0866a02"/><lb ed="R072" n="0901a02"/>皆同此無繁各出大總持藏盡與一切諸如來藏
+<lb ed="X" n="0866a03"/><lb ed="R072" n="0901a03"/>為所依故如主如王同天同地故當前重根本大
+<lb ed="X" n="0866a04"/><lb ed="R072" n="0901a04"/>乘但非不二性海果分此帶言故彼離說故。</p></cb:div>
+<lb ed="X" n="0866a05"/><lb ed="R072" n="0901a05"/><cb:div type="orig"><p xml:id="pX45p0866a0501">二者<note place="inline">至</note>無雜故。</p></cb:div>
+<lb ed="X" n="0866a06"/><lb ed="R072" n="0901a06"/><cb:div type="commentary"><p xml:id="pX45p0866a0601" rend="margin-left:1em">釋曰二遠轉遠縛真如所入一一心體離生滅門
+<lb ed="X" n="0866a07"/><lb ed="R072" n="0901a07"/>諸流轉法惑因惑果名為遠轉根本為因枝末為
+<lb ed="X" n="0866a08"/><lb ed="R072" n="0901a08"/>果或二礙及業為因所感依正為果離隨染心諸
+<lb ed="X" n="0866a09"/><lb ed="R072" n="0901a09"/>慮知縛覺因覺果名為遠縛本覺為因始覺為果
+<lb ed="X" n="0866a10"/><lb ed="R072" n="0901a10"/>或等覺<anchor xml:id="beg_6c" type="cb-app"/>已<anchor xml:id="end_6c"/>還為因妙覺<anchor xml:id="beg_6d" type="cb-app"/>已<anchor xml:id="end_6d"/>去為果餘文可見。</p></cb:div>
+<lb ed="X" n="0866a11"/><lb ed="R072" n="0901a11"/><cb:div type="orig"><p xml:id="pX45p0866a1101">三者<note place="inline">至</note>令覆故。</p></cb:div>
+<lb ed="X" n="0866a12"/><lb ed="R072" n="0901a12"/><cb:div type="commentary"><p xml:id="pX45p0866a1201" rend="margin-left:1em">釋曰三與行與相生滅所入多一心體於惑與力
+<lb ed="X" n="0866a13"/><lb ed="R072" n="0901a13"/>出現生死之法名為與行行者遷流義故於覺與
+<lb ed="X" n="0866a14"/><lb ed="R072" n="0901a14"/>力出現涅槃之法名為與相相者真實體故或復
+<lb ed="X" n="0866a15"/><lb ed="R072" n="0901a15"/>反此與覺名行清淨行故與惑名相闇鈍相故然
+<lb ed="X" n="0866a16"/><lb ed="R072" n="0901a16"/>如來藏平等與力若望因緣行相別故譬如<anchor xml:id="beg_6e" type="cb-app"/>已<anchor xml:id="end_6e"/>下
+<lb ed="X" n="0866a17"/><lb ed="R072" n="0901a17"/>解前伎兒。</p></cb:div>
+<lb ed="X" n="0866a18"/><lb ed="R072" n="0901a18"/><cb:div type="orig"><p xml:id="pX45p0866a1801">四者<note place="inline">至</note>無他故。</p></cb:div>
+<lb ed="X" n="0866a19"/><lb ed="R072" n="0901b01"/><cb:div type="commentary"><p xml:id="pX45p0866a1901" rend="margin-left:1em">釋曰四真如真如謂真如門唯理理故非建立有
+<lb ed="X" n="0866a20"/><lb ed="R072" n="0901b02"/>非誹謗無平等一味無差別故。</p></cb:div>
+<lb ed="X" n="0866a21"/><lb ed="R072" n="0901b03"/><cb:div type="orig"><p xml:id="pX45p0866a2101">五者<note place="inline">至</note>被染故。</p></cb:div>
+<lb ed="X" n="0866a22"/><lb ed="R072" n="0901b04"/><cb:div type="commentary"><p xml:id="pX45p0866a2201" rend="margin-left:1em">釋曰五生滅真如生滅門中不生滅理證之成聖
+<lb ed="X" n="0866a23"/><lb ed="R072" n="0901b05"/>離無常故。</p></cb:div>
+<lb ed="X" n="0866a24"/><lb ed="R072" n="0901b06"/><cb:div type="orig"><p xml:id="pX45p0866a2401">六者<note place="inline">至</note>立其名故。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0866b" n="0866b"/>
+<lb ed="X" n="0866b01"/><lb ed="R072" n="0901b07"/><cb:div type="commentary"><p xml:id="pX45p0866b0101" rend="margin-left:1em">釋曰六空藏生滅門中恒沙染法幻化無實隱覆
+<lb ed="X" n="0866b02"/><lb ed="R072" n="0901b08"/>法身真體性德從能藏染立空名故。</p></cb:div>
+<lb ed="X" n="0866b03"/><lb ed="R072" n="0901b09"/><cb:div type="orig"><p xml:id="pX45p0866b0301">七者<note place="inline">至</note>立其名故。</p></cb:div>
+<lb ed="X" n="0866b04"/><lb ed="R072" n="0901b10"/><cb:div type="commentary"><p xml:id="pX45p0866b0401" rend="margin-left:1em">釋曰七不空生滅門中恒沙功德被染隱覆名如
+<lb ed="X" n="0866b05"/><lb ed="R072" n="0901b11"/>來藏從所藏淨得不空名。</p></cb:div>
+<lb ed="X" n="0866b06"/><lb ed="R072" n="0901b12"/><cb:div type="orig"><p xml:id="pX45p0866b0601">八者<note place="inline">至</note>立其名故。</p></cb:div>
+<lb ed="X" n="0866b07"/><lb ed="R072" n="0901b13"/><cb:div type="commentary"><p xml:id="pX45p0866b0701" rend="margin-left:1em">釋曰八能攝生滅門中能攝淨心所攝功德三智
+<lb ed="X" n="0866b08"/><lb ed="R072" n="0901b14"/>具足四德圓明由無明覆都不覺知從能所淨立
+<lb ed="X" n="0866b09"/><lb ed="R072" n="0901b15"/>能攝名。</p></cb:div>
+<lb ed="X" n="0866b10"/><lb ed="R072" n="0901b16"/><cb:div type="orig"><p xml:id="pX45p0866b1001">九者<note place="inline">至</note>攝持故。</p></cb:div>
+<lb ed="X" n="0866b11"/><lb ed="R072" n="0901b17"/><cb:div type="commentary"><p xml:id="pX45p0866b1101" rend="margin-left:1em">釋曰九所攝生滅門中究竟始覺攝諸染法咸能
+<lb ed="X" n="0866b12"/><lb ed="R072" n="0901b18"/>斷故。</p></cb:div>
+<lb ed="X" n="0866b13"/><lb ed="R072" n="0902a01"/><cb:div type="orig"><p xml:id="pX45p0866b1301">十者<note place="inline">至</note>未出現故。</p></cb:div>
+<lb ed="X" n="0866b14"/><lb ed="R072" n="0902a02"/><cb:div type="commentary"><p xml:id="pX45p0866b1401" rend="margin-left:1em">釋曰十隱覆此有二解一多一心體法身如來徧
+<lb ed="X" n="0866b15"/><lb ed="R072" n="0902a03"/>諸染淨不顯現故二本覺淨心法身如來沉沒染
+<lb ed="X" n="0866b16"/><lb ed="R072" n="0902a04"/>中未出現故。</p></cb:div>
+<lb ed="X" n="0866b17"/><lb ed="R072" n="0902a05"/><cb:div type="orig"><p xml:id="pX45p0866b1701">是名為十<note place="inline">至</note>與行與相。</p></cb:div>
+<lb ed="X" n="0866b18"/><lb ed="R072" n="0902a06"/><cb:div type="commentary"><p xml:id="pX45p0866b1801" rend="margin-left:1em">釋曰後結指屬當初句通結如是<anchor xml:id="beg_6f" type="cb-app"/>已<anchor xml:id="end_6f"/>下明此正要。</p></cb:div>
+<lb ed="X" n="0866b19"/><lb ed="R072" n="0902a07"/><cb:div type="orig"><p xml:id="pX45p0866b1901">論<anchor xml:id="beg_70" type="cb-app"/>已<anchor xml:id="end_70"/>說如來藏門次說阿梨耶識門。</p></cb:div>
+<lb ed="X" n="0866b20"/><lb ed="R072" n="0902a08"/><cb:div type="commentary"><p xml:id="pX45p0866b2001" rend="margin-left:1em">釋曰後第二重總別有二初結指。</p></cb:div>
+<lb ed="X" n="0866b21"/><lb ed="R072" n="0902a09"/><cb:div type="orig"><p xml:id="pX45p0866b2101">所謂<note place="inline">至</note>言未足故。</p></cb:div>
+<lb ed="X" n="0866b22"/><lb ed="R072" n="0902a10"/><cb:div type="commentary"><p xml:id="pX45p0866b2201" rend="margin-left:1em">釋曰後開示有二初所依總相門又二初牒指不
+<lb ed="X" n="0866b23"/><lb ed="R072" n="0902a11"/>云業等略去分名但言梨耶建立滿名不生滅等
+<lb ed="X" n="0866b24"/><lb ed="R072" n="0902a12"/>義雖不闕語未周圓顯說下熏影彰上轉故言未
+<pb ed="X" xml:id="X45.0772.0866c" n="0866c"/>
+<lb ed="X" n="0866c01"/><lb ed="R072" n="0902a13"/>足。</p></cb:div>
+<lb ed="X" n="0866c02"/><lb ed="R072" n="0902a14"/><cb:div type="orig"><p xml:id="pX45p0866c0201">此中所說<note place="inline">至</note>分際云何。</p></cb:div>
+<lb ed="X" n="0866c03"/><lb ed="R072" n="0902a15"/><cb:div type="commentary"><p xml:id="pX45p0866c0301" rend="margin-left:1em">釋曰後解釋有四一明下轉又四一六字顯有無
+<lb ed="X" n="0866c04"/><lb ed="R072" n="0902a16"/>為有三初明分際有二初問。</p></cb:div>
+<lb ed="X" n="0866c05"/><lb ed="R072" n="0902a17"/><cb:div type="orig"><p xml:id="pX45p0866c0501">頌曰<note place="inline">至</note>之總相故。</p></cb:div>
+<lb ed="X" n="0866c06"/><lb ed="R072" n="0902a18"/><cb:div type="commentary"><p xml:id="pX45p0866c0601" rend="margin-left:1em">釋曰後答凡諸無為不生滅攝以常住故凡諸有
+<lb ed="X" n="0866c07"/><lb ed="R072" n="0902b01"/>為俱生滅攝是無常故。</p></cb:div>
+<lb ed="X" n="0866c08"/><lb ed="R072" n="0902b02"/><cb:div type="orig"><p xml:id="pX45p0866c0801">如是<note place="inline">至</note>何等名字。</p></cb:div>
+<lb ed="X" n="0866c09"/><lb ed="R072" n="0902b03"/><cb:div type="commentary"><p xml:id="pX45p0866c0901" rend="margin-left:1em">釋曰次辨名數有二初問。</p></cb:div>
+<lb ed="X" n="0866c10"/><lb ed="R072" n="0902b04"/><cb:div type="orig"><p xml:id="pX45p0866c1001">頌曰<note place="inline">至</note>是名為五。</p></cb:div>
+<lb ed="X" n="0866c11"/><lb ed="R072" n="0902b05"/><cb:div type="commentary"><p xml:id="pX45p0866c1101" rend="margin-left:1em">釋曰後答。</p></cb:div>
+<lb ed="X" n="0866c12"/><lb ed="R072" n="0902b06"/><cb:div type="orig"><p xml:id="pX45p0866c1201">且四無為<note place="inline">至</note>有何等用。</p></cb:div>
+<lb ed="X" n="0866c13"/><lb ed="R072" n="0902b07"/><cb:div type="commentary"><p xml:id="pX45p0866c1301" rend="margin-left:1em">釋曰後顯體用有二初別明二法又二初四無為
+<lb ed="X" n="0866c14"/><lb ed="R072" n="0902b08"/>復二初問問且四無為何法何義為體為用。</p></cb:div>
+<lb ed="X" n="0866c15"/><lb ed="R072" n="0902b09"/><cb:div type="orig"><p xml:id="pX45p0866c1501">頌曰<note place="inline">至</note>隨釋應觀察。</p></cb:div>
+<lb ed="X" n="0866c16"/><lb ed="R072" n="0902b10"/><cb:div type="commentary"><p xml:id="pX45p0866c1601" rend="margin-left:1em">釋曰後答有二初結頌於其體用各具通別。</p></cb:div>
+<lb ed="X" n="0866c17"/><lb ed="R072" n="0902b11"/><cb:div type="orig"><p xml:id="pX45p0866c1701">論曰<note place="inline">至</note>是名二依。</p></cb:div>
+<lb ed="X" n="0866c18"/><lb ed="R072" n="0902b12"/><cb:div type="commentary"><p xml:id="pX45p0866c1801" rend="margin-left:1em">釋曰後釋文有三初別解二依四種通依一心為
+<lb ed="X" n="0866c19"/><lb ed="R072" n="0902b13"/>體通體無殊四種別依俱在門中靜理本智隨他
+<lb ed="X" n="0866c20"/><lb ed="R072" n="0902b14"/>無事如次為體。</p></cb:div>
+<lb ed="X" n="0866c21"/><lb ed="R072" n="0902b15"/><cb:div type="orig"><p xml:id="pX45p0866c2101">復次<note place="inline">至</note>是名二用。</p></cb:div>
+<lb ed="X" n="0866c22"/><lb ed="R072" n="0902b16"/><cb:div type="commentary"><p xml:id="pX45p0866c2201" rend="margin-left:1em">釋曰次各明二用通用隨緣義當染淨別用不變
+<lb ed="X" n="0866c23"/><lb ed="R072" n="0902b17"/>義當清淨。</p></cb:div>
+<lb ed="X" n="0866c24"/><lb ed="R072" n="0902b18"/><cb:div type="orig"><p xml:id="pX45p0866c2401">此中所說<note place="inline">至</note>自當顯說。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0867a" n="0867a"/>
+<lb ed="X" n="0867a01"/><lb ed="R072" n="0903a01"/><cb:div type="commentary"><p xml:id="pX45p0867a0101" rend="margin-left:1em">釋曰後辨義勸指通謂他義即多一心及四染淨
+<lb ed="X" n="0867a02"/><lb ed="R072" n="0903a02"/>別謂自義即門中體及四清淨廣在下明略此可
+<lb ed="X" n="0867a03"/><lb ed="R072" n="0903a03"/>悉。</p></cb:div>
+<lb ed="X" n="0867a04"/><lb ed="R072" n="0903a04"/><cb:div type="orig"><p xml:id="pX45p0867a0401">五種有為<note place="inline">至</note>有何等用。</p></cb:div>
+<lb ed="X" n="0867a05"/><lb ed="R072" n="0903a05"/><cb:div type="commentary"><p xml:id="pX45p0867a0501" rend="margin-left:1em">釋曰後五有為有二初問。</p></cb:div>
+<lb ed="X" n="0867a06"/><lb ed="R072" n="0903a06"/><cb:div type="orig"><p xml:id="pX45p0867a0601">頌曰<note place="inline">至</note>隨釋應觀察。</p></cb:div>
+<lb ed="X" n="0867a07"/><lb ed="R072" n="0903a07"/><cb:div type="commentary"><p xml:id="pX45p0867a0701" rend="margin-left:1em">釋曰後答有二初結頌。</p></cb:div>
+<lb ed="X" n="0867a08"/><lb ed="R072" n="0903a08"/><cb:div type="orig"><p xml:id="pX45p0867a0801">論曰<note place="inline">至</note>是名二依。</p></cb:div>
+<lb ed="X" n="0867a09"/><lb ed="R072" n="0903a09"/><cb:div type="commentary"><p xml:id="pX45p0867a0901" rend="margin-left:1em">釋曰後釋文有三初別解二依五種有為通依皆
+<lb ed="X" n="0867a10"/><lb ed="R072" n="0903a10"/>是一心本法以為體故別依俱在生滅門中大力
+<lb ed="X" n="0867a11"/><lb ed="R072" n="0903a11"/>住地為無明體業相細染為生相體轉現及智并
+<lb ed="X" n="0867a12"/><lb ed="R072" n="0903a12"/>相續染為住相體執計麤染為異相體業果麤染
+<lb ed="X" n="0867a13"/><lb ed="R072" n="0903a13"/>為滅相體。</p></cb:div>
+<lb ed="X" n="0867a14"/><lb ed="R072" n="0903a14"/><cb:div type="orig"><p xml:id="pX45p0867a1401">復次<note place="inline">至</note>是名二用。</p></cb:div>
+<lb ed="X" n="0867a15"/><lb ed="R072" n="0903a15"/><cb:div type="commentary"><p xml:id="pX45p0867a1501" rend="margin-left:1em">釋曰次各明二用別用礙事五種俱同通用力勢
+<lb ed="X" n="0867a16"/><lb ed="R072" n="0903a16"/>五種各異謂除初後中三上下隨其多少與力別
+<lb ed="X" n="0867a17"/><lb ed="R072" n="0903a17"/>故於滅相中通用於上與力易知及自與力其相
+<lb ed="X" n="0867a18"/><lb ed="R072" n="0903a18"/>云何以業及果同是滅相業果招酬互望與力名
+<lb ed="X" n="0867a19"/><lb ed="R072" n="0903b01"/>自與力影取住異自與亦然。</p></cb:div>
+<lb ed="X" n="0867a20"/><lb ed="R072" n="0903b02"/><cb:div type="orig"><p xml:id="pX45p0867a2001">種種別相<note place="inline">至</note>自當顯說。</p></cb:div>
+<lb ed="X" n="0867a21"/><lb ed="R072" n="0903b03"/><cb:div type="commentary"><p xml:id="pX45p0867a2101" rend="margin-left:1em">釋曰後指文當辨。</p></cb:div>
+<lb ed="X" n="0867a22"/><lb ed="R072" n="0903b04"/><cb:div type="orig"><p xml:id="pX45p0867a2201">以何義故<note place="inline">至</note>作如是說。</p></cb:div>
+<lb ed="X" n="0867a23"/><lb ed="R072" n="0903b05"/><cb:div type="commentary"><p xml:id="pX45p0867a2301" rend="margin-left:1em">釋曰後通證一心有二初問答指說有何所以生
+<lb ed="X" n="0867a24"/><lb ed="R072" n="0903b06"/>滅門中有為無為一心為體。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0867b" n="0867b"/>
+<lb ed="X" n="0867b01"/><lb ed="R072" n="0903b07"/><cb:div type="orig"><p xml:id="pX45p0867b0101">爾時<note place="inline">至</note>不可思議。</p></cb:div>
+<lb ed="X" n="0867b02"/><lb ed="R072" n="0903b08"/><cb:div type="commentary"><p xml:id="pX45p0867b0201" rend="margin-left:1em">釋曰後正引經文有二初法說論言具備重置恒
+<lb ed="X" n="0867b03"/><lb ed="R072" n="0903b09"/>沙顯有為無為各差別故謂攝主梨耶具足九法
+<lb ed="X" n="0867b04"/><lb ed="R072" n="0903b10"/>以誰為本而得依生佛答諸法生處殊勝所以者
+<lb ed="X" n="0867b05"/><lb ed="R072" n="0903b11"/>何一心本法非有為無為所生之法通有為無為
+<lb ed="X" n="0867b06"/><lb ed="R072" n="0903b12"/>故云殊勝不可思議能作一心即中道諦所生之
+<lb ed="X" n="0867b07"/><lb ed="R072" n="0903b13"/>法即真俗諦亦猶明鏡本非青黃而能對現青黃
+<lb ed="X" n="0867b08"/><lb ed="R072" n="0903b14"/>之色法合可知。</p></cb:div>
+<lb ed="X" n="0867b09"/><lb ed="R072" n="0903b15"/><cb:div type="orig"><p xml:id="pX45p0867b0901">復次<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0867b10"/><lb ed="R072" n="0903b16"/><cb:div type="commentary"><p xml:id="pX45p0867b1001" rend="margin-left:1em">釋曰後喻合初喻庶民之子有二所依一者是王
+<lb ed="X" n="0867b11"/><lb ed="R072" n="0903b17"/>如一心本法二者父母如寂靜理等後喻所生草
+<lb ed="X" n="0867b12"/><lb ed="R072" n="0903b18"/>木有二所依一者大地況一心本法二者種子況
+<lb ed="X" n="0867b13"/><lb ed="R072" n="0904a01"/>寂靜理等。</p></cb:div>
+<lb ed="X" n="0867b14"/><lb ed="R072" n="0904a02"/><cb:div type="orig"><p xml:id="pX45p0867b1401">與和合者<note place="inline">至</note>勝劣故。</p></cb:div>
+<lb ed="X" n="0867b15"/><lb ed="R072" n="0904a03"/><cb:div type="commentary"><p xml:id="pX45p0867b1501" rend="margin-left:1em">釋曰二三字示能所熏有二初牒指徵釋以不生
+<lb ed="X" n="0867b16"/><lb ed="R072" n="0904a04"/>滅為所熏即無力故通取生滅為能熏即有力故
+<lb ed="X" n="0867b17"/><lb ed="R072" n="0904a05"/>能所熏發互相與力染淨和合勝劣異故。</p></cb:div>
+<lb ed="X" n="0867b18"/><lb ed="R072" n="0904a06"/><cb:div type="orig"><p xml:id="pX45p0867b1801">今當作二門<note place="inline">至</note>不出此二。</p></cb:div>
+<lb ed="X" n="0867b19"/><lb ed="R072" n="0904a07"/><cb:div type="commentary"><p xml:id="pX45p0867b1901" rend="margin-left:1em">釋曰後廣明行相有三初總指若五有為能熏有
+<lb ed="X" n="0867b20"/><lb ed="R072" n="0904a08"/>力即成下轉若四無為能熏有力即成上轉名數
+<lb ed="X" n="0867b21"/><lb ed="R072" n="0904a09"/>雖九成轉唯二故生滅門不出此二。</p></cb:div>
+<lb ed="X" n="0867b22"/><lb ed="R072" n="0904a10"/><cb:div type="orig"><p xml:id="pX45p0867b2201">如是二門云何差別。</p></cb:div>
+<lb ed="X" n="0867b23"/><lb ed="R072" n="0904a11"/><cb:div type="commentary"><p xml:id="pX45p0867b2301" rend="margin-left:1em">釋曰次別明有二初問。</p></cb:div>
+<lb ed="X" n="0867b24"/><lb ed="R072" n="0904a12"/><cb:div type="orig"><p xml:id="pX45p0867b2401">頌曰<note place="inline">至</note>得成而<anchor xml:id="beg_71" type="cb-app"/>已<anchor xml:id="end_71"/>。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0867c" n="0867c"/>
+<lb ed="X" n="0867c01"/><lb ed="R072" n="0904a13"/><cb:div type="commentary"><p xml:id="pX45p0867c0101" rend="margin-left:1em">釋曰後答染淨互熏黑白交鬪妄勝真劣背自本
+<lb ed="X" n="0867c02"/><lb ed="R072" n="0904a14"/>覺約位所指十信<anchor xml:id="beg_72" type="cb-app"/>已<anchor xml:id="end_72"/>前俱成下轉真勝妄劣向自
+<lb ed="X" n="0867c03"/><lb ed="R072" n="0904a15"/>心源約位所指十信<anchor xml:id="beg_73" type="cb-app"/>已<anchor xml:id="end_73"/>去俱成上轉。</p></cb:div>
+<lb ed="X" n="0867c04"/><lb ed="R072" n="0904a16"/><cb:div type="orig"><p xml:id="pX45p0867c0401">今當先說初下轉門。</p></cb:div>
+<lb ed="X" n="0867c05"/><lb ed="R072" n="0904a17"/><cb:div type="commentary"><p xml:id="pX45p0867c0501" rend="margin-left:1em">釋曰後廣解有二初標門。</p></cb:div>
+<lb ed="X" n="0867c06"/><lb ed="R072" n="0904a18"/><cb:div type="orig"><p xml:id="pX45p0867c0601">根本無明<note place="inline">至</note>而作熏事。</p></cb:div>
+<lb ed="X" n="0867c07"/><lb ed="R072" n="0904b01"/><cb:div type="commentary"><p xml:id="pX45p0867c0701" rend="margin-left:1em">釋曰後示相有二初正明又二初無明熏習有三
+<lb ed="X" n="0867c08"/><lb ed="R072" n="0904b02"/>初伸二問一問何法為所熏二問何時正作熏。</p></cb:div>
+<lb ed="X" n="0867c09"/><lb ed="R072" n="0904b03"/><cb:div type="orig"><p xml:id="pX45p0867c0901">頌曰<note place="inline">至</note>如契經明說。</p></cb:div>
+<lb ed="X" n="0867c10"/><lb ed="R072" n="0904b04"/><cb:div type="commentary"><p xml:id="pX45p0867c1001" rend="margin-left:1em">釋曰次結頌答三句答前問二句答後問一句指
+<lb ed="X" n="0867c11"/><lb ed="R072" n="0904b05"/>教說。</p></cb:div>
+<lb ed="X" n="0867c12"/><lb ed="R072" n="0904b06"/><cb:div type="orig"><p xml:id="pX45p0867c1201">論曰<note place="inline">至</note>及四無為。</p></cb:div>
+<lb ed="X" n="0867c13"/><lb ed="R072" n="0904b07"/><cb:div type="commentary"><p xml:id="pX45p0867c1301" rend="margin-left:1em">釋曰後依文釋有三初答前問有二初所熏法數。</p></cb:div>
+<lb ed="X" n="0867c14"/><lb ed="R072" n="0904b08"/><cb:div type="orig"><p xml:id="pX45p0867c1401">熏一法界<note place="inline">至</note>非他所依故。</p></cb:div>
+<lb ed="X" n="0867c15"/><lb ed="R072" n="0904b09"/><cb:div type="commentary"><p xml:id="pX45p0867c1501" rend="margin-left:1em">釋曰後廣明熏相有二初熏一法界先問後答答
+<lb ed="X" n="0867c16"/><lb ed="R072" n="0904b10"/>中復有頌答論釋引經作證於一心法有二自在
+<lb ed="X" n="0867c17"/><lb ed="R072" n="0904b11"/>無明唯熏有為自在一心之法本非有為<anchor xml:id="beg_74" type="cb-app"/>但<anchor xml:id="end_74"/>從能
+<lb ed="X" n="0867c18"/><lb ed="R072" n="0904b12"/>熏以受其名以是有為之自在故無為自在立名
+<lb ed="X" n="0867c19"/><lb ed="R072" n="0904b13"/>亦然。</p></cb:div>
+<lb ed="X" n="0867c20"/><lb ed="R072" n="0904b14"/><cb:div type="orig"><p xml:id="pX45p0867c2001">熏真如法<note place="inline">至</note>非後用故。</p></cb:div>
+<lb ed="X" n="0867c21"/><lb ed="R072" n="0904b15"/><cb:div type="commentary"><p xml:id="pX45p0867c2101" rend="margin-left:1em">釋曰後熏四無為無明唯熏真如通用餘三無為
+<lb ed="X" n="0867c22"/><lb ed="R072" n="0904b16"/>亦熏通用。</p></cb:div>
+<lb ed="X" n="0867c23"/><lb ed="R072" n="0904b17"/><cb:div type="orig"><p xml:id="pX45p0867c2301">作熏時量<note place="inline">至</note>非別取故。</p></cb:div>
+<lb ed="X" n="0867c24"/><lb ed="R072" n="0904b18"/><cb:div type="commentary"><p xml:id="pX45p0867c2401" rend="margin-left:1em">釋曰次答後問正熏時分非初中後一時俱取初
+<pb ed="X" xml:id="X45.0772.0868a" n="0868a"/>
+<lb ed="X" n="0868a01"/><lb ed="R072" n="0905a01"/>中後故或據一念初後或就一期始終約迷亂說
+<lb ed="X" n="0868a02"/><lb ed="R072" n="0905a02"/>俱一時故。</p></cb:div>
+<lb ed="X" n="0868a03"/><lb ed="R072" n="0905a03"/><cb:div type="orig"><p xml:id="pX45p0868a0301">此中所說<note place="inline">至</note>名為所熏。</p></cb:div>
+<lb ed="X" n="0868a04"/><lb ed="R072" n="0905a04"/><cb:div type="commentary"><p xml:id="pX45p0868a0401" rend="margin-left:1em">釋曰後解熏義有三初徵釋熏習能所熏義其相
+<lb ed="X" n="0868a05"/><lb ed="R072" n="0905a05"/>云何能熏有九引彼所熏而與自體同共和合俱
+<lb ed="X" n="0868a06"/><lb ed="R072" n="0905a06"/>行轉故所熏無力還與能熏常相隨順不逆違故
+<lb ed="X" n="0868a07"/><lb ed="R072" n="0905a07"/>所言熏者擊發之義其猶水乳相投和合遞相不
+<lb ed="X" n="0868a08"/><lb ed="R072" n="0905a08"/>逆非同法相熏成種故。</p></cb:div>
+<lb ed="X" n="0868a09"/><lb ed="R072" n="0905a09"/><cb:div type="orig"><p xml:id="pX45p0868a0901">謂五有為法<note place="inline">至</note>同事俱轉。</p></cb:div>
+<lb ed="X" n="0868a10"/><lb ed="R072" n="0905a10"/><cb:div type="commentary"><p xml:id="pX45p0868a1001" rend="margin-left:1em">釋曰次指法顯示通明五種有為熏四無為并一
+<lb ed="X" n="0868a11"/><lb ed="R072" n="0905a11"/>法界所熏五法與能熏五不逆不違俱行俱轉成
+<lb ed="X" n="0868a12"/><lb ed="R072" n="0905a12"/>熏義故。</p></cb:div>
+<lb ed="X" n="0868a13"/><lb ed="R072" n="0905a13"/><cb:div type="orig"><p xml:id="pX45p0868a1301">是故說言<note place="inline">至</note>生滅和合。</p></cb:div>
+<lb ed="X" n="0868a14"/><lb ed="R072" n="0905a14"/><cb:div type="commentary"><p xml:id="pX45p0868a1401" rend="margin-left:1em">釋曰後合歸本論。</p></cb:div>
+<lb ed="X" n="0868a15"/><lb ed="R072" n="0905a15"/><cb:div type="orig"><p xml:id="pX45p0868a1501">如大無明<note place="inline">至</note>應如是知。</p></cb:div>
+<lb ed="X" n="0868a16"/><lb ed="R072" n="0905a16"/><cb:div type="commentary"><p xml:id="pX45p0868a1601" rend="margin-left:1em">釋曰後例餘熏習如大無明能熏一心有為自在
+<lb ed="X" n="0868a17"/><lb ed="R072" n="0905a17"/>又能熏發四種無為通達作用義既如是餘四有
+<lb ed="X" n="0868a18"/><lb ed="R072" n="0905a18"/>為熏五亦然。</p></cb:div>
+<lb ed="X" n="0868a19"/><lb ed="R072" n="0905b01"/><cb:div type="orig"><p xml:id="pX45p0868a1901">如是等義<note place="inline">至</note>其理分明。</p></cb:div>
+<lb ed="X" n="0868a20"/><lb ed="R072" n="0905b02"/><cb:div type="commentary"><p xml:id="pX45p0868a2001" rend="margin-left:1em">釋曰後指下。</p></cb:div>
+<lb ed="X" n="0868a21"/><lb ed="R072" n="0905b03"/><cb:div type="orig"><p xml:id="pX45p0868a2101">非一非異<note place="inline">至</note>差別故。</p></cb:div>
+<lb ed="X" n="0868a22"/><lb ed="R072" n="0905b04"/><cb:div type="commentary"><p xml:id="pX45p0868a2201" rend="margin-left:1em">釋曰三四字明同異義有二初牒指顯五有為與
+<lb ed="X" n="0868a23"/><lb ed="R072" n="0905b05"/>四無為同異義相。</p></cb:div>
+<lb ed="X" n="0868a24"/><lb ed="R072" n="0905b06"/><cb:div type="orig"><p xml:id="pX45p0868a2401">云何開示。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0868b" n="0868b"/>
+<lb ed="X" n="0868b01"/><lb ed="R072" n="0905b07"/><cb:div type="commentary"><p xml:id="pX45p0868b0101" rend="margin-left:1em">釋曰後徵釋有二初問起。</p></cb:div>
+<lb ed="X" n="0868b02"/><lb ed="R072" n="0905b08"/><cb:div type="orig"><p xml:id="pX45p0868b0201">所謂顯示<note place="inline">至</note>名為非異。</p></cb:div>
+<lb ed="X" n="0868b03"/><lb ed="R072" n="0905b09"/><cb:div type="commentary"><p xml:id="pX45p0868b0301" rend="margin-left:1em">釋曰後分疏有二初通別用異受熏同二種自在
+<lb ed="X" n="0868b04"/><lb ed="R072" n="0905b10"/>二種作用相望不同名為非一一心法界有為自
+<lb ed="X" n="0868b05"/><lb ed="R072" n="0905b11"/>在及四無為通達作用與五有為能熏相合義理
+<lb ed="X" n="0868b06"/><lb ed="R072" n="0905b12"/>無差名為非異此中不說五種有為二種作用不
+<lb ed="X" n="0868b07"/><lb ed="R072" n="0905b13"/>同理故名為非一又亦不說五種有為唯通達用
+<lb ed="X" n="0868b08"/><lb ed="R072" n="0905b14"/>作能熏事與所熏法無別理故名為非異應細詳
+<lb ed="X" n="0868b09"/><lb ed="R072" n="0905b15"/>之方委知耳。</p></cb:div>
+<lb ed="X" n="0868b10"/><lb ed="R072" n="0905b16"/><cb:div type="orig"><p xml:id="pX45p0868b1001">復次所熏<note place="inline">至</note>名為非異。</p></cb:div>
+<lb ed="X" n="0868b11"/><lb ed="R072" n="0905b17"/><cb:div type="commentary"><p xml:id="pX45p0868b1101" rend="margin-left:1em">釋曰後能所熏異一心同所熏無為能熏有為染
+<lb ed="X" n="0868b12"/><lb ed="R072" n="0905b18"/>淨不同故名非一能染所淨不離一心第一義諦
+<lb ed="X" n="0868b13"/><lb ed="R072" n="0906a01"/>故名非異。</p></cb:div>
+<lb ed="X" n="0868b14"/><lb ed="R072" n="0906a02"/><cb:div type="orig"><p xml:id="pX45p0868b1401">名為<note place="inline">至</note>圓滿字。</p></cb:div>
+<lb ed="X" n="0868b15"/><lb ed="R072" n="0906a03"/><cb:div type="commentary"><p xml:id="pX45p0868b1501" rend="margin-left:1em">釋曰四五字結藏識名十梨耶中正取初一兼或
+<lb ed="X" n="0868b16"/><lb ed="R072" n="0906a04"/>通十故名圓滿。</p></cb:div>
+<lb ed="X" n="0868b17"/><lb ed="R072" n="0906a05"/><cb:div type="orig"><p xml:id="pX45p0868b1701"><anchor xml:id="beg_75" type="cb-app"/>已<anchor xml:id="end_75"/>說下轉門次說上轉門。</p></cb:div>
+<lb ed="X" n="0868b18"/><lb ed="R072" n="0906a06"/><cb:div type="commentary"><p xml:id="pX45p0868b1801" rend="margin-left:1em">釋曰二證上轉有三初結指。</p></cb:div>
+<lb ed="X" n="0868b19"/><lb ed="R072" n="0906a07"/><cb:div type="orig"><p xml:id="pX45p0868b1901">若欲成立<note place="inline">至</note>他來依我故。</p></cb:div>
+<lb ed="X" n="0868b20"/><lb ed="R072" n="0906a08"/><cb:div type="commentary"><p xml:id="pX45p0868b2001" rend="margin-left:1em">釋曰次指引所引經文具有二轉。</p></cb:div>
+<lb ed="X" n="0868b21"/><lb ed="R072" n="0906a09"/><cb:div type="orig"><p xml:id="pX45p0868b2101">此經文<note place="inline">至</note>即是上轉。</p></cb:div>
+<lb ed="X" n="0868b22"/><lb ed="R072" n="0906a10"/><cb:div type="commentary"><p xml:id="pX45p0868b2201" rend="margin-left:1em">釋曰後徵釋有二初總問答。</p></cb:div>
+<lb ed="X" n="0868b23"/><lb ed="R072" n="0906a11"/><cb:div type="orig"><p xml:id="pX45p0868b2301">此義云何<note place="inline">至</note>是下轉門。</p></cb:div>
+<lb ed="X" n="0868b24"/><lb ed="R072" n="0906a12"/><cb:div type="commentary"><p xml:id="pX45p0868b2401" rend="margin-left:1em">釋曰後別解釋有四一辨下轉初句總徵次下略
+<pb ed="X" xml:id="X45.0772.0868c" n="0868c"/>
+<lb ed="X" n="0868c01"/><lb ed="R072" n="0906a13"/>釋謂明本覺受無明熏成下轉門文顯可知。</p></cb:div>
+<lb ed="X" n="0868c02"/><lb ed="R072" n="0906a14"/><cb:div type="orig"><p xml:id="pX45p0868c0201">若欲成立<note place="inline">至</note>則存斯詞。</p></cb:div>
+<lb ed="X" n="0868c03"/><lb ed="R072" n="0906a15"/><cb:div type="commentary"><p xml:id="pX45p0868c0301" rend="margin-left:1em">釋曰二明上轉再安論句重整佛經迴下轉而作
+<lb ed="X" n="0868c04"/><lb ed="R072" n="0906a16"/>上熏順自文而援他據妙之至矣孰不欽歟。</p></cb:div>
+<lb ed="X" n="0868c05"/><lb ed="R072" n="0906a17"/><cb:div type="orig"><p xml:id="pX45p0868c0501">馬鳴菩薩<note place="inline">至</note>闕失過咎。</p></cb:div>
+<lb ed="X" n="0868c06"/><lb ed="R072" n="0906a18"/><cb:div type="commentary"><p xml:id="pX45p0868c0601" rend="margin-left:1em">釋曰三出論意。</p></cb:div>
+<lb ed="X" n="0868c07"/><lb ed="R072" n="0906b01"/><cb:div type="orig"><p xml:id="pX45p0868c0701">上轉門義<note place="inline">至</note>其理自明。</p></cb:div>
+<lb ed="X" n="0868c08"/><lb ed="R072" n="0906b02"/><cb:div type="commentary"><p xml:id="pX45p0868c0801" rend="margin-left:1em">釋曰四指具處。</p></cb:div>
+<lb ed="X" n="0868c09"/><lb ed="R072" n="0906b03"/><cb:div type="orig"><p xml:id="pX45p0868c0901"><anchor xml:id="beg_76" type="cb-app"/>已<anchor xml:id="end_76"/>說上轉門次說該攝安立門。</p></cb:div>
+<lb ed="X" n="0868c10"/><lb ed="R072" n="0906b04"/><cb:div type="commentary"><p xml:id="pX45p0868c1001" rend="margin-left:1em">釋曰三安立門有二初結指。</p></cb:div>
+<lb ed="X" n="0868c11"/><lb ed="R072" n="0906b05"/><cb:div type="orig"><p xml:id="pX45p0868c1101">諸識差別<note place="inline">至</note>幾種識。</p></cb:div>
+<lb ed="X" n="0868c12"/><lb ed="R072" n="0906b06"/><cb:div type="commentary"><p xml:id="pX45p0868c1201" rend="margin-left:1em">釋曰後開示有二初問諸識有幾數何經說幾種。</p></cb:div>
+<lb ed="X" n="0868c13"/><lb ed="R072" n="0906b07"/><cb:div type="orig"><p xml:id="pX45p0868c1301">頌曰<note place="inline">至</note>分明顯說故。</p></cb:div>
+<lb ed="X" n="0868c14"/><lb ed="R072" n="0906b08"/><cb:div type="commentary"><p xml:id="pX45p0868c1401" rend="margin-left:1em">釋曰後答有二初結頌通依一代聖教增數說識
+<lb ed="X" n="0868c15"/><lb ed="R072" n="0906b09"/>始從一種乃至成十所云歸本等者合言一心等
+<lb ed="X" n="0868c16"/><lb ed="R072" n="0906b10"/>以此十識乃是一心阿梨耶等經中列釋非是歸
+<lb ed="X" n="0868c17"/><lb ed="R072" n="0906b11"/>本契經說故歸本但是百本一數應悞書爾。</p></cb:div>
+<lb ed="X" n="0868c18"/><lb ed="R072" n="0906b12"/><cb:div type="orig"><p xml:id="pX45p0868c1801">論曰<note place="inline">至</note>差別經。</p></cb:div>
+<lb ed="X" n="0868c19"/><lb ed="R072" n="0906b13"/><cb:div type="commentary"><p xml:id="pX45p0868c1901" rend="margin-left:1em">釋曰後釋文有三初總指總徵指十種故徵十相
+<lb ed="X" n="0868c20"/><lb ed="R072" n="0906b14"/>故。</p></cb:div>
+<lb ed="X" n="0868c21"/><lb ed="R072" n="0906b15"/><cb:div type="orig"><p xml:id="pX45p0868c2101">一者<note place="inline">至</note>云何為四。</p></cb:div>
+<lb ed="X" n="0868c22"/><lb ed="R072" n="0906b16"/><cb:div type="commentary"><p xml:id="pX45p0868c2201" rend="margin-left:1em">釋曰次別立別釋有十一一識有三初標徵。</p></cb:div>
+<lb ed="X" n="0868c23"/><lb ed="R072" n="0906b17"/><cb:div type="orig"><p xml:id="pX45p0868c2301">一者<note place="inline">至</note>非建立焉故。</p></cb:div>
+<lb ed="X" n="0868c24"/><lb ed="R072" n="0906b18"/><cb:div type="commentary"><p xml:id="pX45p0868c2401" rend="margin-left:1em">釋曰次別釋有四一依一心經多一心識具二自
+<pb ed="X" xml:id="X45.0772.0869a" n="0869a"/>
+<lb ed="X" n="0869a01"/><lb ed="R072" n="0907a01"/>在有種種力無所不作故立一識非立餘焉。</p></cb:div>
+<lb ed="X" n="0869a02"/><lb ed="R072" n="0907a02"/><cb:div type="orig"><p xml:id="pX45p0869a0201">二者<note place="inline">至</note>為總相故。</p></cb:div>
+<lb ed="X" n="0869a03"/><lb ed="R072" n="0907a03"/><cb:div type="commentary"><p xml:id="pX45p0869a0301" rend="margin-left:1em">釋曰二依梨耶經此當攝主阿梨耶識具障礙義
+<lb ed="X" n="0869a04"/><lb ed="R072" n="0907a04"/>即五有為無障礙義即四無為九法通依即大攝
+<lb ed="X" n="0869a05"/><lb ed="R072" n="0907a05"/>主。</p></cb:div>
+<lb ed="X" n="0869a06"/><lb ed="R072" n="0907a06"/><cb:div type="orig"><p xml:id="pX45p0869a0601">三者<note place="inline">至</note>無所不作故。</p></cb:div>
+<lb ed="X" n="0869a07"/><lb ed="R072" n="0907a07"/><cb:div type="commentary"><p xml:id="pX45p0869a0701" rend="margin-left:1em">釋曰三依顯了經此末那識具十一種謂大無明
+<lb ed="X" n="0869a08"/><lb ed="R072" n="0907a08"/>五相五識無所不作故。</p></cb:div>
+<lb ed="X" n="0869a09"/><lb ed="R072" n="0907a09"/><cb:div type="orig"><p xml:id="pX45p0869a0901">四者<note place="inline">至</note>無餘七事故。</p></cb:div>
+<lb ed="X" n="0869a10"/><lb ed="R072" n="0907a10"/><cb:div type="commentary"><p xml:id="pX45p0869a1001" rend="margin-left:1em">釋曰四依七化經此一意識具七轉變如一幻師
+<lb ed="X" n="0869a11"/><lb ed="R072" n="0907a11"/>變作七人愚見謂七智見唯一意識幻師義亦復
+<lb ed="X" n="0869a12"/><lb ed="R072" n="0907a12"/>然。</p></cb:div>
+<lb ed="X" n="0869a13"/><lb ed="R072" n="0907a13"/><cb:div type="orig"><p xml:id="pX45p0869a1301">是名建立<note place="inline">至</note>四種契經。</p></cb:div>
+<lb ed="X" n="0869a14"/><lb ed="R072" n="0907a14"/><cb:div type="commentary"><p xml:id="pX45p0869a1401" rend="margin-left:1em">釋曰後結據。</p></cb:div>
+<lb ed="X" n="0869a15"/><lb ed="R072" n="0907a15"/><cb:div type="orig"><p xml:id="pX45p0869a1501">二者<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0869a16"/><lb ed="R072" n="0907a16"/><cb:div type="commentary"><p xml:id="pX45p0869a1601" rend="margin-left:1em">釋曰二二識梨耶引證名了別識具業轉現意識
+<lb ed="X" n="0869a17"/><lb ed="R072" n="0907a17"/>引證名分別事攝前七識故。</p></cb:div>
+<lb ed="X" n="0869a18"/><lb ed="R072" n="0907a18"/><cb:div type="orig"><p xml:id="pX45p0869a1801">三者<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0869a19"/><lb ed="R072" n="0907b01"/><cb:div type="commentary"><p xml:id="pX45p0869a1901" rend="margin-left:1em">釋曰三三識梨耶收業等三末那唯目意根意識
+<lb ed="X" n="0869a20"/><lb ed="R072" n="0907b02"/>總攝前六引證與列名異體同。</p></cb:div>
+<lb ed="X" n="0869a21"/><lb ed="R072" n="0907b03"/><cb:div type="orig"><p xml:id="pX45p0869a2101">四者<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0869a22"/><lb ed="R072" n="0907b04"/><cb:div type="commentary"><p xml:id="pX45p0869a2201" rend="margin-left:1em">釋曰四四識上三識前加一心識引證易了。</p></cb:div>
+<lb ed="X" n="0869a23"/><lb ed="R072" n="0907b05"/><cb:div type="orig"><p xml:id="pX45p0869a2301">五者<note place="inline">至</note>徧轉識故。</p></cb:div>
+<lb ed="X" n="0869a24"/><lb ed="R072" n="0907b06"/><cb:div type="commentary"><p xml:id="pX45p0869a2401" rend="margin-left:1em">釋曰五五識更加隨順徧轉識者屬體義當隨染
+<pb ed="X" xml:id="X45.0772.0869b" n="0869b"/>
+<lb ed="X" n="0869b01"/><lb ed="R072" n="0907b07"/>本覺即下所引楞伽王識或可即是大攝主識於
+<lb ed="X" n="0869b02"/><lb ed="R072" n="0907b08"/>有為無為徧轉隨順故。</p></cb:div>
+<lb ed="X" n="0869b03"/><lb ed="R072" n="0907b09"/><cb:div type="orig"><p xml:id="pX45p0869b0301">六者<note place="inline">至</note>作如是唱故。</p></cb:div>
+<lb ed="X" n="0869b04"/><lb ed="R072" n="0907b10"/><cb:div type="commentary"><p xml:id="pX45p0869b0401" rend="margin-left:1em">釋曰六六識佛為小根說前六識以密就實意中
+<lb ed="X" n="0869b05"/><lb ed="R072" n="0907b11"/>包含性相諸識具一切故。</p></cb:div>
+<lb ed="X" n="0869b06"/><lb ed="R072" n="0907b12"/><cb:div type="orig"><p xml:id="pX45p0869b0601">七者<note place="inline">至</note>分別之依故。</p></cb:div>
+<lb ed="X" n="0869b07"/><lb ed="R072" n="0907b13"/><cb:div type="commentary"><p xml:id="pX45p0869b0701" rend="margin-left:1em">釋曰七七識前六識上加末那識此第七識有力
+<lb ed="X" n="0869b08"/><lb ed="R072" n="0907b14"/>能作第八識用故有力亦作前六識依故。</p></cb:div>
+<lb ed="X" n="0869b09"/><lb ed="R072" n="0907b15"/><cb:div type="orig"><p xml:id="pX45p0869b0901">八者<note place="inline">至</note>不出此數故。</p></cb:div>
+<lb ed="X" n="0869b10"/><lb ed="R072" n="0907b16"/><cb:div type="commentary"><p xml:id="pX45p0869b1001" rend="margin-left:1em">釋曰八八識。</p></cb:div>
+<lb ed="X" n="0869b11"/><lb ed="R072" n="0907b17"/><cb:div type="orig"><p xml:id="pX45p0869b1101">九者<note place="inline">至</note>入唵摩羅故。</p></cb:div>
+<lb ed="X" n="0869b12"/><lb ed="R072" n="0907b18"/><cb:div type="commentary"><p xml:id="pX45p0869b1201" rend="margin-left:1em">釋曰九九識前八識上加本覺識唵摩羅者此云
+<lb ed="X" n="0869b13"/><lb ed="R072" n="0908a01"/>本覺。</p></cb:div>
+<lb ed="X" n="0869b14"/><lb ed="R072" n="0908a02"/><cb:div type="orig"><p xml:id="pX45p0869b1401">十者<note place="inline">至</note>異說契經。</p></cb:div>
+<lb ed="X" n="0869b15"/><lb ed="R072" n="0908a03"/><cb:div type="commentary"><p xml:id="pX45p0869b1501" rend="margin-left:1em">釋曰十十識前九識上加多一心故此十識包含
+<lb ed="X" n="0869b16"/><lb ed="R072" n="0908a04"/>無量是名<anchor xml:id="beg_77" type="cb-app"/>已<anchor xml:id="end_77"/>下乘文帶結。</p></cb:div>
+<lb ed="X" n="0869b17"/><lb ed="R072" n="0908a05"/><cb:div type="orig"><p xml:id="pX45p0869b1701">如是十種<note place="inline">至</note>云何安立。</p></cb:div>
+<lb ed="X" n="0869b18"/><lb ed="R072" n="0908a06"/><cb:div type="commentary"><p xml:id="pX45p0869b1801" rend="margin-left:1em">釋曰後以彼屬此有二初問通前十識向此論中
+<lb ed="X" n="0869b19"/><lb ed="R072" n="0908a07"/>何文該攝何文安立。</p></cb:div>
+<lb ed="X" n="0869b20"/><lb ed="R072" n="0908a08"/><cb:div type="orig"><p xml:id="pX45p0869b2001">頌曰<note place="inline">至</note>屬斯論總言。</p></cb:div>
+<lb ed="X" n="0869b21"/><lb ed="R072" n="0908a09"/><cb:div type="commentary"><p xml:id="pX45p0869b2101" rend="margin-left:1em">釋曰後答有二初結頌。</p></cb:div>
+<lb ed="X" n="0869b22"/><lb ed="R072" n="0908a10"/><cb:div type="orig"><p xml:id="pX45p0869b2201">論曰<note place="inline">至</note>屬當論言。</p></cb:div>
+<lb ed="X" n="0869b23"/><lb ed="R072" n="0908a11"/><cb:div type="commentary"><p xml:id="pX45p0869b2301" rend="margin-left:1em">釋曰後釋文有二初總指。</p></cb:div>
+<lb ed="X" n="0869b24"/><lb ed="R072" n="0908a12"/><cb:div type="orig"><p xml:id="pX45p0869b2401">所謂<note place="inline">至</note>義加前說。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0869c" n="0869c"/>
+<lb ed="X" n="0869c01"/><lb ed="R072" n="0908a13"/><cb:div type="commentary"><p xml:id="pX45p0869c0101" rend="margin-left:1em">釋曰後別屬有五一攝一心說一法界攝者即前
+<lb ed="X" n="0869c02"/><lb ed="R072" n="0908a14"/>本論依如來藏生滅所入名多一心名一法界舉
+<lb ed="X" n="0869c03"/><lb ed="R072" n="0908a15"/>異名攝不爽正意。</p></cb:div>
+<lb ed="X" n="0869c04"/><lb ed="R072" n="0908a16"/><cb:div type="orig"><p xml:id="pX45p0869c0401">阿梨耶識<note place="inline">至</note>不覺義故。</p></cb:div>
+<lb ed="X" n="0869c05"/><lb ed="R072" n="0908a17"/><cb:div type="commentary"><p xml:id="pX45p0869c0501" rend="margin-left:1em">釋曰二攝梨耶說第二重中所依總相阿梨耶識
+<lb ed="X" n="0869c06"/><lb ed="R072" n="0908a18"/>攝彼總識以具覺義不覺義故引別相者欲顯總
+<lb ed="X" n="0869c07"/><lb ed="R072" n="0908b01"/>故。</p></cb:div>
+<lb ed="X" n="0869c08"/><lb ed="R072" n="0908b02"/><cb:div type="orig"><p xml:id="pX45p0869c0801">顯了契經<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0869c09"/><lb ed="R072" n="0908b03"/><cb:div type="commentary"><p xml:id="pX45p0869c0901" rend="margin-left:1em">釋曰三攝顯了說謂此論中根本無明五相五識
+<lb ed="X" n="0869c10"/><lb ed="R072" n="0908b04"/>共十一意攝彼末那故。</p></cb:div>
+<lb ed="X" n="0869c11"/><lb ed="R072" n="0908b05"/><cb:div type="orig"><p xml:id="pX45p0869c1101">七化契經<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0869c12"/><lb ed="R072" n="0908b06"/><cb:div type="commentary"><p xml:id="pX45p0869c1201" rend="margin-left:1em">釋曰四攝七化說三種凡夫麤分意識攝七化經
+<lb ed="X" n="0869c13"/><lb ed="R072" n="0908b07"/>總一意識。</p></cb:div>
+<lb ed="X" n="0869c14"/><lb ed="R072" n="0908b08"/><cb:div type="orig"><p xml:id="pX45p0869c1401">如是如是<note place="inline">至</note>應如如配。</p></cb:div>
+<lb ed="X" n="0869c15"/><lb ed="R072" n="0908b09"/><cb:div type="commentary"><p xml:id="pX45p0869c1501" rend="margin-left:1em">釋曰五指餘九說從楞伽二識至法門十識令諸
+<lb ed="X" n="0869c16"/><lb ed="R072" n="0908b10"/>學者法前體例以此論文攝彼經識以義昭著故
+<lb ed="X" n="0869c17"/><lb ed="R072" n="0908b11"/>不具出。</p></cb:div>
+<lb ed="X" n="0869c18"/><lb ed="R072" n="0908b12"/><cb:div type="orig"><p xml:id="pX45p0869c1801"><anchor xml:id="beg_78" type="cb-app"/>已<anchor xml:id="end_78"/>說該攝<note place="inline">至</note>割字門。</p></cb:div>
+<lb ed="X" n="0869c19"/><lb ed="R072" n="0908b13"/><cb:div type="commentary"><p xml:id="pX45p0869c1901" rend="margin-left:1em">釋曰四藏識門有二初結指。</p></cb:div>
+<lb ed="X" n="0869c20"/><lb ed="R072" n="0908b14"/><cb:div type="orig"><p xml:id="pX45p0869c2001">阿梨耶識<note place="inline">至</note>屬何等處。</p></cb:div>
+<lb ed="X" n="0869c21"/><lb ed="R072" n="0908b15"/><cb:div type="commentary"><p xml:id="pX45p0869c2101" rend="margin-left:1em">釋曰後開示有二初伸問此中有三一問名數二
+<lb ed="X" n="0869c22"/><lb ed="R072" n="0908b16"/>問名相三問攝處。</p></cb:div>
+<lb ed="X" n="0869c23"/><lb ed="R072" n="0908b17"/><cb:div type="orig"><p xml:id="pX45p0869c2301">頌曰<note place="inline">至</note>隨應各配屬。</p></cb:div>
+<lb ed="X" n="0869c24"/><lb ed="R072" n="0908b18"/><cb:div type="commentary"><p xml:id="pX45p0869c2401" rend="margin-left:1em">釋曰後述答有二初結頌初二句答數指教次十
+<pb ed="X" xml:id="X45.0772.0870a" n="0870a"/>
+<lb ed="X" n="0870a01"/><lb ed="R072" n="0909a01"/>句答其名相後四句答於攝處。</p></cb:div>
+<lb ed="X" n="0870a02"/><lb ed="R072" n="0909a02"/><cb:div type="orig"><p xml:id="pX45p0870a0201">論曰<note place="inline">至</note>云何為十。</p></cb:div>
+<lb ed="X" n="0870a03"/><lb ed="R072" n="0909a03"/><cb:div type="commentary"><p xml:id="pX45p0870a0301" rend="margin-left:1em">釋曰後釋文有三初總指總徵。</p></cb:div>
+<lb ed="X" n="0870a04"/><lb ed="R072" n="0909a04"/><cb:div type="orig"><p xml:id="pX45p0870a0401">一者<note place="inline">至</note>義如前說。</p></cb:div>
+<lb ed="X" n="0870a05"/><lb ed="R072" n="0909a05"/><cb:div type="commentary"><p xml:id="pX45p0870a0501" rend="margin-left:1em">釋曰次別列別證有十一攝主識如前所謂不生
+<lb ed="X" n="0870a06"/><lb ed="R072" n="0909a06"/>不滅乃至名為阿梨耶識即是此中大攝主識。</p></cb:div>
+<lb ed="X" n="0870a07"/><lb ed="R072" n="0909a07"/><cb:div type="orig"><p xml:id="pX45p0870a0701">二者<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0870a08"/><lb ed="R072" n="0909a08"/><cb:div type="commentary"><p xml:id="pX45p0870a0801" rend="margin-left:1em">釋曰二無明識先標名釋義次引教顯相後屬論
+<lb ed="X" n="0870a09"/><lb ed="R072" n="0909a09"/>攝處下八皆然不繁具出此論不覺即攝彼識。</p></cb:div>
+<lb ed="X" n="0870a10"/><lb ed="R072" n="0909a10"/><cb:div type="orig"><p xml:id="pX45p0870a1001">三者<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0870a11"/><lb ed="R072" n="0909a11"/><cb:div type="commentary"><p xml:id="pX45p0870a1101" rend="margin-left:1em">釋曰三清淨本覺此論四鏡即攝彼識。</p></cb:div>
+<lb ed="X" n="0870a12"/><lb ed="R072" n="0909a12"/><cb:div type="orig"><p xml:id="pX45p0870a1201">四者<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0870a13"/><lb ed="R072" n="0909a13"/><cb:div type="commentary"><p xml:id="pX45p0870a1301" rend="margin-left:1em">釋曰四染淨本覺喻況甚顯當此論說自性清淨
+<lb ed="X" n="0870a14"/><lb ed="R072" n="0909a14"/>心因無明風動等即攝彼經楞伽王識。</p></cb:div>
+<lb ed="X" n="0870a15"/><lb ed="R072" n="0909a15"/><cb:div type="orig"><p xml:id="pX45p0870a1501">五者<note place="inline">至</note>不離因故。</p></cb:div>
+<lb ed="X" n="0870a16"/><lb ed="R072" n="0909a16"/><cb:div type="commentary"><p xml:id="pX45p0870a1601" rend="margin-left:1em">釋曰五業相識以生相位根本業相若以無明而
+<lb ed="X" n="0870a17"/><lb ed="R072" n="0909a17"/>為根本根本之業相若對轉等而為根本根本即
+<lb ed="X" n="0870a18"/><lb ed="R072" n="0909a18"/>業相又此業相及與業識皆具包藏名為梨耶餘
+<lb ed="X" n="0870a19"/><lb ed="R072" n="0909b01"/>例此知然業相識能緣所緣心王念法不可析別
+<lb ed="X" n="0870a20"/><lb ed="R072" n="0909b02"/>唯由精動隱流義者此有二解一云本覺淨心名
+<lb ed="X" n="0870a21"/><lb ed="R072" n="0909b03"/>之為精由受染熏淨心則隱但隨染緣成動成流
+<lb ed="X" n="0870a22"/><lb ed="R072" n="0909b04"/>名相名識持染名藏故下論云如是動流祇由不
+<lb ed="X" n="0870a23"/><lb ed="R072" n="0909b05"/>覺若覺不動動則有苦二云精者細也屬業相識
+<lb ed="X" n="0870a24"/><lb ed="R072" n="0909b06"/>自體至細微隱流動唯佛能了餘不能知鍵摩云
+<pb ed="X" xml:id="X45.0772.0870b" n="0870b"/>
+<lb ed="X" n="0870b01"/><lb ed="R072" n="0909b07"/>識即業相耳。</p></cb:div>
+<lb ed="X" n="0870b02"/><lb ed="R072" n="0909b08"/><cb:div type="orig"><p xml:id="pX45p0870b0201">六者<note place="inline">至</note>則無見故。</p></cb:div>
+<lb ed="X" n="0870b03"/><lb ed="R072" n="0909b09"/><cb:div type="commentary"><p xml:id="pX45p0870b0301" rend="margin-left:1em">釋曰六轉相識有見見轉者謂於此位有能了見
+<lb ed="X" n="0870b04"/><lb ed="R072" n="0909b10"/>見起名轉意目此位具能緣見此即正攬前位動
+<lb ed="X" n="0870b05"/><lb ed="R072" n="0909b11"/>業成斯見也無見見起者覺體不動名為無見隨
+<lb ed="X" n="0870b06"/><lb ed="R072" n="0909b12"/>熏動轉名為見起。</p></cb:div>
+<lb ed="X" n="0870b07"/><lb ed="R072" n="0909b13"/><cb:div type="orig"><p xml:id="pX45p0870b0701">七者<note place="inline">至</note>則無境界故。</p></cb:div>
+<lb ed="X" n="0870b08"/><lb ed="R072" n="0909b14"/><cb:div type="commentary"><p xml:id="pX45p0870b0801" rend="margin-left:1em">釋曰七現相識別異別異者謂能緣心行解差別
+<lb ed="X" n="0870b09"/><lb ed="R072" n="0909b15"/>有多種故相異相異者即所緣相境界不一具無
+<lb ed="X" n="0870b10"/><lb ed="R072" n="0909b16"/>量故或復翻此或復雙通上據生法次第而論下
+<lb ed="X" n="0870b11"/><lb ed="R072" n="0909b17"/>就招生分段而說故指現識正是異熟無記之法
+<lb ed="X" n="0870b12"/><lb ed="R072" n="0909b18"/>淨白之相以依現識方能成就業繫苦相總報之
+<lb ed="X" n="0870b13"/><lb ed="R072" n="0910a01"/>果所招果相不離能起現相識故依此現識建立
+<lb ed="X" n="0870b14"/><lb ed="R072" n="0910a02"/>分段生死報故略辨如前委陳在下此論攝彼於
+<lb ed="X" n="0870b15"/><lb ed="R072" n="0910a03"/>文可見。</p></cb:div>
+<lb ed="X" n="0870b16"/><lb ed="R072" n="0910a04"/><cb:div type="orig"><p xml:id="pX45p0870b1601">八者<note place="inline">至</note>真如攝故。</p></cb:div>
+<lb ed="X" n="0870b17"/><lb ed="R072" n="0910a05"/><cb:div type="commentary"><p xml:id="pX45p0870b1701" rend="margin-left:1em">釋曰八性真如理是性識攝非相識故此說淨覺
+<lb ed="X" n="0870b18"/><lb ed="R072" n="0910a06"/>所證果攝。</p></cb:div>
+<lb ed="X" n="0870b19"/><lb ed="R072" n="0910a07"/><cb:div type="orig"><p xml:id="pX45p0870b1901">九者<note place="inline">至</note>即同本覺故。</p></cb:div>
+<lb ed="X" n="0870b20"/><lb ed="R072" n="0910a08"/><cb:div type="commentary"><p xml:id="pX45p0870b2001" rend="margin-left:1em">釋曰九清淨始覺謂二淨覺彼此不離法爾隨逐
+<lb ed="X" n="0870b21"/><lb ed="R072" n="0910a09"/>常俱轉故體用有殊名非同種尅性無差名非異
+<lb ed="X" n="0870b22"/><lb ed="R072" n="0910a10"/>種論攝可知。</p></cb:div>
+<lb ed="X" n="0870b23"/><lb ed="R072" n="0910a11"/><cb:div type="orig"><p xml:id="pX45p0870b2301">十者<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0870b24"/><lb ed="R072" n="0910a12"/><cb:div type="commentary"><p xml:id="pX45p0870b2401" rend="margin-left:1em">釋曰十染淨始覺二染淨覺彼此不離治惑次第
+<pb ed="X" xml:id="X45.0772.0870c" n="0870c"/>
+<lb ed="X" n="0870c01"/><lb ed="R072" n="0910a13"/>上下別故論攝可知。</p></cb:div>
+<lb ed="X" n="0870c02"/><lb ed="R072" n="0910a14"/><cb:div type="orig"><p xml:id="pX45p0870c0201">如是等義<note place="inline">至</note>今略而<anchor xml:id="beg_79" type="cb-app"/>已<anchor xml:id="end_79"/>。</p></cb:div>
+<lb ed="X" n="0870c03"/><lb ed="R072" n="0910a15"/><cb:div type="commentary"><p xml:id="pX45p0870c0301" rend="margin-left:1em">釋曰後指廣如下謂前諸識末那意識具如下文。</p></cb:div>
+<lb ed="X" n="0870c04"/><lb ed="R072" n="0910a16"/><cb:div type="orig"><p xml:id="pX45p0870c0401"><anchor xml:id="beg_7a" type="cb-app"/>已<anchor xml:id="end_7a"/>說藏識<note place="inline">至</note>圓滿門。</p></cb:div>
+<lb ed="X" n="0870c05"/><lb ed="R072" n="0910a17"/><cb:div type="commentary"><p xml:id="pX45p0870c0501" rend="margin-left:1em">釋曰後能依別相門有二初結指。</p></cb:div>
+<lb ed="X" n="0870c06"/><lb ed="R072" n="0910a18"/><cb:div type="orig"><p xml:id="pX45p0870c0601">此識<note place="inline">至</note>圓滿相故。</p></cb:div>
+<lb ed="X" n="0870c07"/><lb ed="R072" n="0910b01"/><cb:div type="commentary"><p xml:id="pX45p0870c0701" rend="margin-left:1em">釋曰後開示有三初牒本標以覺不覺攝有無為
+<lb ed="X" n="0870c08"/><lb ed="R072" n="0910b02"/>顯殊勝識具圓滿相。</p></cb:div>
+<lb ed="X" n="0870c09"/><lb ed="R072" n="0910b03"/><cb:div type="orig"><p xml:id="pX45p0870c0901">此義云何<note place="inline">至</note>諸過患故。</p></cb:div>
+<lb ed="X" n="0870c10"/><lb ed="R072" n="0910b04"/><cb:div type="commentary"><p xml:id="pX45p0870c1001" rend="margin-left:1em">釋曰次委徵釋四種無為諸淨功德望與覺性自
+<lb ed="X" n="0870c11"/><lb ed="R072" n="0910b05"/>不離彼彼不離自名為不離又此功德一向妙有
+<lb ed="X" n="0870c12"/><lb ed="R072" n="0910b06"/>非除遣法名為不斷唯以覺義能攝生故五種有
+<lb ed="X" n="0870c13"/><lb ed="R072" n="0910b07"/>為諸染過患由於覺性恒違逆故名為若離又此
+<lb ed="X" n="0870c14"/><lb ed="R072" n="0910b08"/>過患由於覺性恒映蔽故名為若脫唯以不覺能
+<lb ed="X" n="0870c15"/><lb ed="R072" n="0910b09"/>攝生故。</p></cb:div>
+<lb ed="X" n="0870c16"/><lb ed="R072" n="0910b10"/><cb:div type="orig"><p xml:id="pX45p0870c1601">如是種種<note place="inline">至</note>分明顯示。</p></cb:div>
+<lb ed="X" n="0870c17"/><lb ed="R072" n="0910b11"/><cb:div type="commentary"><p xml:id="pX45p0870c1701" rend="margin-left:1em">釋曰後指下辨相攝相生熏習別相如下具明。</p></cb:div>
+<lb ed="X" n="0870c18"/><lb ed="R072" n="0910b12"/><cb:div type="orig"><p xml:id="pX45p0870c1801"><anchor xml:id="nkr_note_orig_0870001" n="0870001"/><anchor xml:id="beg_7b" type="cb-app"/>已<anchor xml:id="end_7b"/>說總識<note place="inline">至</note>散說門。</p></cb:div>
+<lb ed="X" n="0870c19"/><lb ed="R072" n="0910b13"/><cb:div type="commentary"><p xml:id="pX45p0870c1901" rend="margin-left:1em">釋曰後廣釋後重能依相有二初結指。</p></cb:div>
+<lb ed="X" n="0870c20"/><lb ed="R072" n="0910b14"/><cb:div type="orig"><p xml:id="pX45p0870c2001">本曰<note place="inline">至</note>非究竟覺。</p></cb:div>
+<lb ed="X" n="0870c21"/><lb ed="R072" n="0910b15"/><cb:div type="commentary"><p xml:id="pX45p0870c2101" rend="margin-left:1em">釋曰後開示有二初別說功德過患門有二初兩
+<lb ed="X" n="0870c22"/><lb ed="R072" n="0910b16"/>覺決擇安立門又二初略說兩覺安立門復二初
+<lb ed="X" n="0870c23"/><lb ed="R072" n="0910b17"/>唱本。</p></cb:div>
+<lb ed="X" n="0870c24"/><lb ed="R072" n="0910b18"/><cb:div type="orig"><p xml:id="pX45p0870c2401">論曰<note place="inline">至</note>始覺門。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0871a" n="0871a"/>
+<lb ed="X" n="0871a01"/><lb ed="R072" n="0911a01"/><cb:div type="commentary"><p xml:id="pX45p0871a0101" rend="margin-left:1em">釋曰後釋文有二初懸敘門又二初科分。</p></cb:div>
+<lb ed="X" n="0871a02"/><lb ed="R072" n="0911a02"/><cb:div type="orig"><p xml:id="pX45p0871a0201">云何<note place="inline">至</note>無斷絕故。</p></cb:div>
+<lb ed="X" n="0871a03"/><lb ed="R072" n="0911a03"/><cb:div type="commentary"><p xml:id="pX45p0871a0301" rend="margin-left:1em">釋曰後解釋有二初略辨體相又二初明二覺相
+<lb ed="X" n="0871a04"/><lb ed="R072" n="0911a04"/>復二初徵釋本覺本有法身有不變義具德常明
+<lb ed="X" n="0871a05"/><lb ed="R072" n="0911a05"/>故自性淨心有隨緣義受染熏轉故。</p></cb:div>
+<lb ed="X" n="0871a06"/><lb ed="R072" n="0911a06"/><cb:div type="orig"><p xml:id="pX45p0871a0601">云何<note place="inline">至</note>不能離故。</p></cb:div>
+<lb ed="X" n="0871a07"/><lb ed="R072" n="0911a07"/><cb:div type="commentary"><p xml:id="pX45p0871a0701" rend="margin-left:1em">釋曰後徵釋始覺無漏性智有不變用不受染熏
+<lb ed="X" n="0871a08"/><lb ed="R072" n="0911a08"/>故始覺般若有隨緣用善受染熏故。</p></cb:div>
+<lb ed="X" n="0871a09"/><lb ed="R072" n="0911a09"/><cb:div type="orig"><p xml:id="pX45p0871a0901">如是<note place="inline">至</note>亦復如是。</p></cb:div>
+<lb ed="X" n="0871a10"/><lb ed="R072" n="0911a10"/><cb:div type="commentary"><p xml:id="pX45p0871a1001" rend="margin-left:1em">釋曰後辨二理體有二初承前問答本始四覺證
+<lb ed="X" n="0871a11"/><lb ed="R072" n="0911a11"/>何理體二如二空為所證故。</p></cb:div>
+<lb ed="X" n="0871a12"/><lb ed="R072" n="0911a12"/><cb:div type="orig"><p xml:id="pX45p0871a1201">云何<note place="inline">至</note>亦復如是。</p></cb:div>
+<lb ed="X" n="0871a13"/><lb ed="R072" n="0911a13"/><cb:div type="commentary"><p xml:id="pX45p0871a1301" rend="margin-left:1em">釋曰後就別徵釋清淨二覺所證二理離染熏故
+<lb ed="X" n="0871a14"/><lb ed="R072" n="0911a14"/>染淨二覺所證二理受染熏故。</p></cb:div>
+<lb ed="X" n="0871a15"/><lb ed="R072" n="0911a15"/><cb:div type="orig"><p xml:id="pX45p0871a1501">以何<note place="inline">至</note>其相云何。</p></cb:div>
+<lb ed="X" n="0871a16"/><lb ed="R072" n="0911a16"/><cb:div type="commentary"><p xml:id="pX45p0871a1601" rend="margin-left:1em">釋曰後廣明字事有三初明二覺有二初本覺分
+<lb ed="X" n="0871a17"/><lb ed="R072" n="0911a17"/>三初清淨本覺有二初問。</p></cb:div>
+<lb ed="X" n="0871a18"/><lb ed="R072" n="0911a18"/><cb:div type="orig"><p xml:id="pX45p0871a1801">頌曰<note place="inline">至</note>謂根鏡等義。</p></cb:div>
+<lb ed="X" n="0871a19"/><lb ed="R072" n="0911b01"/><cb:div type="commentary"><p xml:id="pX45p0871a1901" rend="margin-left:1em">釋曰後答有二初偈頌對本具根等十義覺具鏡
+<lb ed="X" n="0871a20"/><lb ed="R072" n="0911b02"/>等十義。</p></cb:div>
+<lb ed="X" n="0871a21"/><lb ed="R072" n="0911b03"/><cb:div type="orig"><p xml:id="pX45p0871a2101">論曰本覺各十。</p></cb:div>
+<lb ed="X" n="0871a22"/><lb ed="R072" n="0911b04"/><cb:div type="commentary"><p xml:id="pX45p0871a2201" rend="margin-left:1em">釋曰後長行釋有三初解初後句有二初總標。</p></cb:div>
+<lb ed="X" n="0871a23"/><lb ed="R072" n="0911b05"/><cb:div type="orig"><p xml:id="pX45p0871a2301">云何<note place="inline">至</note>是名為十。</p></cb:div>
+<lb ed="X" n="0871a24"/><lb ed="R072" n="0911b06"/><cb:div type="commentary"><p xml:id="pX45p0871a2401" rend="margin-left:1em">釋曰後別顯有二初本十義本字偏就法身體解
+<pb ed="X" xml:id="X45.0772.0871b" n="0871b"/>
+<lb ed="X" n="0871b01"/><lb ed="R072" n="0911b07"/>初一約喻後九就法訓釋多端不局常例委辨義
+<lb ed="X" n="0871b02"/><lb ed="R072" n="0911b08"/>名亦無相濫。</p></cb:div>
+<lb ed="X" n="0871b03"/><lb ed="R072" n="0911b09"/><cb:div type="orig"><p xml:id="pX45p0871b0301">云何<note place="inline">至</note>是名為十。</p></cb:div>
+<lb ed="X" n="0871b04"/><lb ed="R072" n="0911b10"/><cb:div type="commentary"><p xml:id="pX45p0871b0401" rend="margin-left:1em">釋曰後覺十義覺字偏就般若慧解初一喻況後
+<lb ed="X" n="0871b05"/><lb ed="R072" n="0911b11"/>九法說以義屬名如文可悉。</p></cb:div>
+<lb ed="X" n="0871b06"/><lb ed="R072" n="0911b12"/><cb:div type="orig"><p xml:id="pX45p0871b0601">如是<note place="inline">至</note>無別而<anchor xml:id="beg_7c" type="cb-app"/>已<anchor xml:id="end_7c"/>。</p></cb:div>
+<lb ed="X" n="0871b07"/><lb ed="R072" n="0911b13"/><cb:div type="commentary"><p xml:id="pX45p0871b0701" rend="margin-left:1em">釋曰次明中二句事義差別分十本十覺性智無
+<lb ed="X" n="0871b08"/><lb ed="R072" n="0911b14"/>殊唯一體一相。</p></cb:div>
+<lb ed="X" n="0871b09"/><lb ed="R072" n="0911b15"/><cb:div type="orig"><p xml:id="pX45p0871b0901">此中<note place="inline">至</note>非染淨本覺。</p></cb:div>
+<lb ed="X" n="0871b10"/><lb ed="R072" n="0911b16"/><cb:div type="commentary"><p xml:id="pX45p0871b1001" rend="margin-left:1em">釋曰後結淨非染。</p></cb:div>
+<lb ed="X" n="0871b11"/><lb ed="R072" n="0911b17"/><cb:div type="orig"><p xml:id="pX45p0871b1101">染淨<note place="inline">至</note>依向應知。</p></cb:div>
+<lb ed="X" n="0871b12"/><lb ed="R072" n="0911b18"/><cb:div type="commentary"><p xml:id="pX45p0871b1201" rend="margin-left:1em">釋曰次染淨本覺十本十覺不守自性即是此中
+<lb ed="X" n="0871b13"/><lb ed="R072" n="0912a01"/>離性本覺十種字事。</p></cb:div>
+<lb ed="X" n="0871b14"/><lb ed="R072" n="0912a02"/><cb:div type="orig"><p xml:id="pX45p0871b1401">如是<note place="inline">至</note>皆非而<anchor xml:id="beg_7d" type="cb-app"/>已<anchor xml:id="end_7d"/>。</p></cb:div>
+<lb ed="X" n="0871b15"/><lb ed="R072" n="0912a03"/><cb:div type="commentary"><p xml:id="pX45p0871b1501" rend="margin-left:1em">釋曰後總辨同異非同者不變隨緣各不同故同
+<lb ed="X" n="0871b16"/><lb ed="R072" n="0912a04"/>故者以二本覺體無別故非異者本性尅體無別
+<lb ed="X" n="0871b17"/><lb ed="R072" n="0912a05"/>異故異故者以其不變隨緣別故或同或異前二
+<lb ed="X" n="0871b18"/><lb ed="R072" n="0912a06"/>偏句或非是同或非是異解前非同及非異故皆
+<lb ed="X" n="0871b19"/><lb ed="R072" n="0912a07"/>是乃屬俱是句故皆非即當俱非句故。</p></cb:div>
+<lb ed="X" n="0871b20"/><lb ed="R072" n="0912a08"/><cb:div type="orig"><p xml:id="pX45p0871b2001">以何<note place="inline">至</note>其相云何。</p></cb:div>
+<lb ed="X" n="0871b21"/><lb ed="R072" n="0912a09"/><cb:div type="commentary"><p xml:id="pX45p0871b2101" rend="margin-left:1em">釋曰後始覺有二初清淨始覺又二初問。</p></cb:div>
+<lb ed="X" n="0871b22"/><lb ed="R072" n="0912a10"/><cb:div type="orig"><p xml:id="pX45p0871b2201">頌曰<note place="inline">至</note>故名為始覺。</p></cb:div>
+<lb ed="X" n="0871b23"/><lb ed="R072" n="0912a11"/><cb:div type="commentary"><p xml:id="pX45p0871b2301" rend="margin-left:1em">釋曰後答有二初偈頌對無始無惑今始初覺。</p></cb:div>
+<lb ed="X" n="0871b24"/><lb ed="R072" n="0912a12"/><cb:div type="orig"><p xml:id="pX45p0871b2401">論曰<note place="inline">至</note>故名始覺。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0871c" n="0871c"/>
+<lb ed="X" n="0871c01"/><lb ed="R072" n="0912a13"/><cb:div type="commentary"><p xml:id="pX45p0871c0101" rend="margin-left:1em">釋曰後長行釋有二初解頌法爾通治無諸惑時
+<lb ed="X" n="0871c02"/><lb ed="R072" n="0912a14"/>理常今初故名始覺。</p></cb:div>
+<lb ed="X" n="0871c03"/><lb ed="R072" n="0912a15"/><cb:div type="orig"><p xml:id="pX45p0871c0301">如是<note place="inline">至</note>非染淨始覺。</p></cb:div>
+<lb ed="X" n="0871c04"/><lb ed="R072" n="0912a16"/><cb:div type="commentary"><p xml:id="pX45p0871c0401" rend="margin-left:1em">釋曰後顯淨。</p></cb:div>
+<lb ed="X" n="0871c05"/><lb ed="R072" n="0912a17"/><cb:div type="orig"><p xml:id="pX45p0871c0501">染淨<note place="inline">至</note>染淨始覺。</p></cb:div>
+<lb ed="X" n="0871c06"/><lb ed="R072" n="0912a18"/><cb:div type="commentary"><p xml:id="pX45p0871c0601" rend="margin-left:1em">釋曰後染淨始覺有問答釋而於釋中無惑時用
+<lb ed="X" n="0871c07"/><lb ed="R072" n="0912b01"/>不守自性能受染熏由隨緣故立染淨名此之四
+<lb ed="X" n="0871c08"/><lb ed="R072" n="0912b02"/>覺本唯一體所以者何十梨耶中清淨始覺依清
+<lb ed="X" n="0871c09"/><lb ed="R072" n="0912b03"/>淨本離不變體無不變用故染淨始覺依染淨本
+<lb ed="X" n="0871c10"/><lb ed="R072" n="0912b04"/>離隨緣體無隨緣用故今覺義中染淨本覺全淨
+<lb ed="X" n="0871c11"/><lb ed="R072" n="0912b05"/>本覺即體論體隨緣成故染淨始覺全淨始覺即
+<lb ed="X" n="0871c12"/><lb ed="R072" n="0912b06"/>用論用隨緣成故驗知四覺曾何四體不唯四覺
+<lb ed="X" n="0871c13"/><lb ed="R072" n="0912b07"/>元是一體三十二種法體無殊但義異故。</p></cb:div>
+<lb ed="X" n="0871c14"/><lb ed="R072" n="0912b08"/><cb:div type="orig"><p xml:id="pX45p0871c1401">以何<note place="inline">至</note>其相云何。</p></cb:div>
+<lb ed="X" n="0871c15"/><lb ed="R072" n="0912b09"/><cb:div type="commentary"><p xml:id="pX45p0871c1501" rend="margin-left:1em">釋曰次辨二理有二初真如又二初清淨真如復
+<lb ed="X" n="0871c16"/><lb ed="R072" n="0912b10"/>二初問。</p></cb:div>
+<lb ed="X" n="0871c17"/><lb ed="R072" n="0912b11"/><cb:div type="orig"><p xml:id="pX45p0871c1701">頌曰<note place="inline">至</note>故名為真如。</p></cb:div>
+<lb ed="X" n="0871c18"/><lb ed="R072" n="0912b12"/><cb:div type="commentary"><p xml:id="pX45p0871c1801" rend="margin-left:1em">釋曰後答有二初結頌性平等故無一多故。</p></cb:div>
+<lb ed="X" n="0871c19"/><lb ed="R072" n="0912b13"/><cb:div type="orig"><p xml:id="pX45p0871c1901">論曰<note place="inline">至</note>名為真如。</p></cb:div>
+<lb ed="X" n="0871c20"/><lb ed="R072" n="0912b14"/><cb:div type="commentary"><p xml:id="pX45p0871c2001" rend="margin-left:1em">釋曰後釋文有四一解頌以離同異緣故無一多
+<lb ed="X" n="0871c21"/><lb ed="R072" n="0912b15"/>相。</p></cb:div>
+<lb ed="X" n="0871c22"/><lb ed="R072" n="0912b16"/><cb:div type="orig"><p xml:id="pX45p0871c2201">如是<note place="inline">至</note>親所內證。</p></cb:div>
+<lb ed="X" n="0871c23"/><lb ed="R072" n="0912b17"/><cb:div type="commentary"><p xml:id="pX45p0871c2301" rend="margin-left:1em">釋曰二配智二種淨覺法爾親證。</p></cb:div>
+<lb ed="X" n="0871c24"/><lb ed="R072" n="0912b18"/><cb:div type="orig"><p xml:id="pX45p0871c2401">復次<note place="inline">至</note>表示而<anchor xml:id="beg_7e" type="cb-app"/>已<anchor xml:id="end_7e"/>。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0872a" n="0872a"/>
+<lb ed="X" n="0872a01"/><lb ed="R072" n="0913a01"/><cb:div type="commentary"><p xml:id="pX45p0872a0101" rend="margin-left:1em">釋曰三述義有二初各十字事此真十義梯本十
+<lb ed="X" n="0872a02"/><lb ed="R072" n="0913a02"/>義人法不離故本與真同名表示又如十義梯覺
+<lb ed="X" n="0872a03"/><lb ed="R072" n="0913a03"/>十義理智相應故覺與如同名表示。</p></cb:div>
+<lb ed="X" n="0872a04"/><lb ed="R072" n="0913a04"/><cb:div type="orig"><p xml:id="pX45p0872a0401">所以<note place="inline">至</note>作如是示。</p></cb:div>
+<lb ed="X" n="0872a05"/><lb ed="R072" n="0913a05"/><cb:div type="commentary"><p xml:id="pX45p0872a0501" rend="margin-left:1em">釋曰後徵釋重示此有二解一云真理為因有法
+<lb ed="X" n="0872a06"/><lb ed="R072" n="0913a06"/>身德如理為因有般若覺二云法身能為顯真方
+<lb ed="X" n="0872a07"/><lb ed="R072" n="0913a07"/>便般若能為顯如方便以此重示義分明故。</p></cb:div>
+<lb ed="X" n="0872a08"/><lb ed="R072" n="0913a08"/><cb:div type="orig"><p xml:id="pX45p0872a0801">此中所說<note place="inline">至</note>非染淨真如。</p></cb:div>
+<lb ed="X" n="0872a09"/><lb ed="R072" n="0913a09"/><cb:div type="commentary"><p xml:id="pX45p0872a0901" rend="margin-left:1em">釋曰四顯淨。</p></cb:div>
+<lb ed="X" n="0872a10"/><lb ed="R072" n="0913a10"/><cb:div type="orig"><p xml:id="pX45p0872a1001">染淨真如<note place="inline">至</note>染淨真如。</p></cb:div>
+<lb ed="X" n="0872a11"/><lb ed="R072" n="0913a11"/><cb:div type="commentary"><p xml:id="pX45p0872a1101" rend="margin-left:1em">釋曰後染淨真如有二初伸問述答淨理隨緣受
+<lb ed="X" n="0872a12"/><lb ed="R072" n="0913a12"/>染熏故。</p></cb:div>
+<lb ed="X" n="0872a13"/><lb ed="R072" n="0913a13"/><cb:div type="orig"><p xml:id="pX45p0872a1301">如是真如<note place="inline">至</note>比類應知。</p></cb:div>
+<lb ed="X" n="0872a14"/><lb ed="R072" n="0913a14"/><cb:div type="commentary"><p xml:id="pX45p0872a1401" rend="margin-left:1em">釋曰後配智指勸染淨本始親所證故次下例指
+<lb ed="X" n="0872a15"/><lb ed="R072" n="0913a15"/>同前清淨本覺真如十本十真十覺十如但當染
+<lb ed="X" n="0872a16"/><lb ed="R072" n="0913a16"/>淨相應不離故。</p></cb:div>
+<lb ed="X" n="0872a17"/><lb ed="R072" n="0913a17"/><cb:div type="orig"><p xml:id="pX45p0872a1701">以何義故<note place="inline">至</note>無別而<anchor xml:id="beg_7f" type="cb-app"/>已<anchor xml:id="end_7f"/>。</p></cb:div>
+<lb ed="X" n="0872a18"/><lb ed="R072" n="0913a18"/><cb:div type="commentary"><p xml:id="pX45p0872a1801" rend="margin-left:1em">釋曰後虗空有二初清淨虗空又二初伸問述答
+<lb ed="X" n="0872a19"/><lb ed="R072" n="0913b01"/>長行標徵列釋總結義差體一如文可見。</p></cb:div>
+<lb ed="X" n="0872a20"/><lb ed="R072" n="0913b02"/><cb:div type="orig"><p xml:id="pX45p0872a2001">此虗空理<note place="inline">至</note>非染淨虗空。</p></cb:div>
+<lb ed="X" n="0872a21"/><lb ed="R072" n="0913b03"/><cb:div type="commentary"><p xml:id="pX45p0872a2101" rend="margin-left:1em">釋曰後配智顯淨清淨二覺法爾親證二種空中
+<lb ed="X" n="0872a22"/><lb ed="R072" n="0913b04"/>謂淨空故。</p></cb:div>
+<lb ed="X" n="0872a23"/><lb ed="R072" n="0913b05"/><cb:div type="orig"><p xml:id="pX45p0872a2301">染淨虗空<note place="inline">至</note>染淨虗空。</p></cb:div>
+<lb ed="X" n="0872a24"/><lb ed="R072" n="0913b06"/><cb:div type="commentary"><p xml:id="pX45p0872a2401" rend="margin-left:1em">釋曰後染淨虗空淨空隨緣受染熏故。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0872b" n="0872b"/>
+<lb ed="X" n="0872b01"/><lb ed="R072" n="0913b07"/><cb:div type="orig"><p xml:id="pX45p0872b0101">能熏所熏<note place="inline">至</note>其理具顯。</p></cb:div>
+<lb ed="X" n="0872b02"/><lb ed="R072" n="0913b08"/><cb:div type="commentary"><p xml:id="pX45p0872b0201" rend="margin-left:1em">釋曰後指餘門真妄互熏立義徵誹斷證門等廣
+<lb ed="X" n="0872b03"/><lb ed="R072" n="0913b09"/>如下辨。</p></cb:div>
+<lb ed="X" n="0872b04"/><lb ed="R072" n="0913b10"/><cb:div type="orig"><p xml:id="pX45p0872b0401"><anchor xml:id="beg_80" type="cb-app"/>已<anchor xml:id="end_80"/>說字事<note place="inline">至</note>隨釋門。</p></cb:div>
+<lb ed="X" n="0872b05"/><lb ed="R072" n="0913b11"/><cb:div type="commentary"><p xml:id="pX45p0872b0501" rend="margin-left:1em">釋曰後隨釋門有二初結指。</p></cb:div>
+<lb ed="X" n="0872b06"/><lb ed="R072" n="0913b12"/><cb:div type="orig"><p xml:id="pX45p0872b0601">所言<note place="inline">至</note>差別說故。</p></cb:div>
+<lb ed="X" n="0872b07"/><lb ed="R072" n="0913b13"/><cb:div type="commentary"><p xml:id="pX45p0872b0701" rend="margin-left:1em">釋曰後正辨有二初牒總對明總中通收唯淨通
+<lb ed="X" n="0872b08"/><lb ed="R072" n="0913b14"/>染始本覺故。</p></cb:div>
+<lb ed="X" n="0872b09"/><lb ed="R072" n="0913b15"/><cb:div type="orig"><p xml:id="pX45p0872b0901">就別句中<note place="inline">至</note>說相可見。</p></cb:div>
+<lb ed="X" n="0872b10"/><lb ed="R072" n="0913b16"/><cb:div type="commentary"><p xml:id="pX45p0872b1001" rend="margin-left:1em">釋曰後就別解釋有二初豫指清染二覺染淨二
+<lb ed="X" n="0872b11"/><lb ed="R072" n="0913b17"/>覺指本論中依此次明。</p></cb:div>
+<lb ed="X" n="0872b12"/><lb ed="R072" n="0913b18"/><cb:div type="orig"><p xml:id="pX45p0872b1201">謂心體<note place="inline">至</note>清淨本覺。</p></cb:div>
+<lb ed="X" n="0872b13"/><lb ed="R072" n="0914a01"/><cb:div type="commentary"><p xml:id="pX45p0872b1301" rend="margin-left:1em">釋曰後隨釋有二初清淨二覺又二初淨本覺有
+<lb ed="X" n="0872b14"/><lb ed="R072" n="0914a02"/>三初直明覺體義又三初牒指。</p></cb:div>
+<lb ed="X" n="0872b15"/><lb ed="R072" n="0914a03"/><cb:div type="orig"><p xml:id="pX45p0872b1501">心謂即是<note place="inline">至</note>故言離相。</p></cb:div>
+<lb ed="X" n="0872b16"/><lb ed="R072" n="0914a04"/><cb:div type="commentary"><p xml:id="pX45p0872b1601" rend="margin-left:1em">釋曰次廣釋不變淨心不變淨體遠離根本迷妄
+<lb ed="X" n="0872b17"/><lb ed="R072" n="0914a05"/>念故遠離生住異滅相故。</p></cb:div>
+<lb ed="X" n="0872b18"/><lb ed="R072" n="0914a06"/><cb:div type="orig"><p xml:id="pX45p0872b1801">過於恒沙<note place="inline">至</note>示眷屬皆空。</p></cb:div>
+<lb ed="X" n="0872b19"/><lb ed="R072" n="0914a07"/><cb:div type="commentary"><p xml:id="pX45p0872b1901" rend="margin-left:1em">釋曰後顯具淨本何故唯離五染以過恒沙分別
+<lb ed="X" n="0872b20"/><lb ed="R072" n="0914a08"/>俱生煩惱所知五為根本根本尚無枝未安在。</p></cb:div>
+<lb ed="X" n="0872b21"/><lb ed="R072" n="0914a09"/><cb:div type="orig"><p xml:id="pX45p0872b2101">離念相者<note place="inline">至</note>者即人故。</p></cb:div>
+<lb ed="X" n="0872b22"/><lb ed="R072" n="0914a10"/><cb:div type="commentary"><p xml:id="pX45p0872b2201" rend="margin-left:1em">釋曰次具德顯人勝有四一標假人者字目人非
+<lb ed="X" n="0872b23"/><lb ed="R072" n="0914a11"/>是牒詞。</p></cb:div>
+<lb ed="X" n="0872b24"/><lb ed="R072" n="0914a12"/><cb:div type="orig"><p xml:id="pX45p0872b2401">等虗空界<note place="inline">至</note>虗空理故。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0872c" n="0872c"/>
+<lb ed="X" n="0872c01"/><lb ed="R072" n="0914a13"/><cb:div type="commentary"><p xml:id="pX45p0872c0101" rend="margin-left:1em">釋曰二契空理覺者證空能所同故。</p></cb:div>
+<lb ed="X" n="0872c02"/><lb ed="R072" n="0914a14"/><cb:div type="orig"><p xml:id="pX45p0872c0201">法界一相<note place="inline">至</note>無差別故。</p></cb:div>
+<lb ed="X" n="0872c03"/><lb ed="R072" n="0914a15"/><cb:div type="commentary"><p xml:id="pX45p0872c0301" rend="margin-left:1em">釋曰三證真如覺者證真能所一故。</p></cb:div>
+<lb ed="X" n="0872c04"/><lb ed="R072" n="0914a16"/><cb:div type="orig"><p xml:id="pX45p0872c0401">即是如來<note place="inline">至</note>自性自體故。</p></cb:div>
+<lb ed="X" n="0872c05"/><lb ed="R072" n="0914a17"/><cb:div type="commentary"><p xml:id="pX45p0872c0501" rend="margin-left:1em">釋曰四勝法身證二理人即是如來自性法身。</p></cb:div>
+<lb ed="X" n="0872c06"/><lb ed="R072" n="0914a18"/><cb:div type="orig"><p xml:id="pX45p0872c0601">依此法身<note place="inline">至</note>本覺稱故。</p></cb:div>
+<lb ed="X" n="0872c07"/><lb ed="R072" n="0914b01"/><cb:div type="commentary"><p xml:id="pX45p0872c0701" rend="margin-left:1em">釋曰後依身立名字依自性德立淨覺名。</p></cb:div>
+<lb ed="X" n="0872c08"/><lb ed="R072" n="0914b02"/><cb:div type="orig"><p xml:id="pX45p0872c0801"><anchor xml:id="beg_81" type="cb-app"/>已<anchor xml:id="end_81"/>說清淨<note place="inline">至</note>清淨始覺。</p></cb:div>
+<lb ed="X" n="0872c09"/><lb ed="R072" n="0914b03"/><cb:div type="commentary"><p xml:id="pX45p0872c0901" rend="margin-left:1em">釋曰後淨始覺有三初結前生後。</p></cb:div>
+<lb ed="X" n="0872c10"/><lb ed="R072" n="0914b04"/><cb:div type="orig"><p xml:id="pX45p0872c1001">何以故<note place="inline">至</note>作如是請。</p></cb:div>
+<lb ed="X" n="0872c11"/><lb ed="R072" n="0914b05"/><cb:div type="commentary"><p xml:id="pX45p0872c1101" rend="margin-left:1em">釋曰次依文辨相有二初請問有四一牒指為欲
+<lb ed="X" n="0872c12"/><lb ed="R072" n="0914b06"/>建立清淨始覺先伸徵問。</p></cb:div>
+<lb ed="X" n="0872c13"/><lb ed="R072" n="0914b07"/><cb:div type="orig"><p xml:id="pX45p0872c1301">問相云何<note place="inline">至</note>名本覺耶。</p></cb:div>
+<lb ed="X" n="0872c14"/><lb ed="R072" n="0914b08"/><cb:div type="commentary"><p xml:id="pX45p0872c1401" rend="margin-left:1em">釋曰二解問謂有難云法身本來具性功德即釋
+<lb ed="X" n="0872c15"/><lb ed="R072" n="0914b09"/>本義常恒明淨常恒自在即解覺義若依此義名
+<lb ed="X" n="0872c16"/><lb ed="R072" n="0914b10"/>本覺者未審此覺何時何以具性功德立名本覺。</p></cb:div>
+<lb ed="X" n="0872c17"/><lb ed="R072" n="0914b11"/><cb:div type="orig"><p xml:id="pX45p0872c1701">若作是說<note place="inline">至</note>而得成立。</p></cb:div>
+<lb ed="X" n="0872c18"/><lb ed="R072" n="0914b12"/><cb:div type="commentary"><p xml:id="pX45p0872c1801" rend="margin-left:1em">釋曰三徵釋有三初徵非本覺先牒他救後難他
+<lb ed="X" n="0872c19"/><lb ed="R072" n="0914b13"/>救若說此覺有智斷惑能圓德者即此本覺未斷
+<lb ed="X" n="0872c20"/><lb ed="R072" n="0914b14"/>時有惑功德則隱斷盡時方覺功德則顯寧符本
+<lb ed="X" n="0872c21"/><lb ed="R072" n="0914b15"/>來常明淨義又既前惑後覺前隱後顯豈順法爾
+<lb ed="X" n="0872c22"/><lb ed="R072" n="0914b16"/>恒本有義。</p></cb:div>
+<lb ed="X" n="0872c23"/><lb ed="R072" n="0914b17"/><cb:div type="orig"><p xml:id="pX45p0872c2301">若作是說<note place="inline">至</note>非彼本覺。</p></cb:div>
+<lb ed="X" n="0872c24"/><lb ed="R072" n="0914b18"/><cb:div type="commentary"><p xml:id="pX45p0872c2401" rend="margin-left:1em">釋曰次徵是始覺亦先牒救然後難救若常斷而
+<pb ed="X" xml:id="X45.0772.0873a" n="0873a"/>
+<lb ed="X" n="0873a01"/><lb ed="R072" n="0915a01"/>即本斷又常具而即本具者此<anchor xml:id="beg_82" type="cb-app"/>但<anchor xml:id="end_82"/>始覺何關本覺
+<lb ed="X" n="0873a02"/><lb ed="R072" n="0915a02"/>故本覺義亦不成立所以者何良由本覺無始覺
+<lb ed="X" n="0873a03"/><lb ed="R072" n="0915a03"/>之功德故無不覺之過患故若離此二即名本覺
+<lb ed="X" n="0873a04"/><lb ed="R072" n="0915a04"/>故次論云清淨本覺或非過患或非功德今說德
+<lb ed="X" n="0873a05"/><lb ed="R072" n="0915a05"/>患何成本覺德若本具更不須具患若本斷更不
+<lb ed="X" n="0873a06"/><lb ed="R072" n="0915a06"/>須斷唯是始覺何預本覺。</p></cb:div>
+<lb ed="X" n="0873a07"/><lb ed="R072" n="0915a07"/><cb:div type="orig"><p xml:id="pX45p0873a0701">是故<note place="inline">至</note>名為本覺。</p></cb:div>
+<lb ed="X" n="0873a08"/><lb ed="R072" n="0915a08"/><cb:div type="commentary"><p xml:id="pX45p0873a0801" rend="margin-left:1em">釋曰後引教證成。</p></cb:div>
+<lb ed="X" n="0873a09"/><lb ed="R072" n="0915a09"/><cb:div type="orig"><p xml:id="pX45p0873a0901">以何義故<note place="inline">至</note>言何以故。</p></cb:div>
+<lb ed="X" n="0873a10"/><lb ed="R072" n="0915a10"/><cb:div type="commentary"><p xml:id="pX45p0873a1001" rend="margin-left:1em">釋曰四結問因何法身自性德中歸投依託說名
+<lb ed="X" n="0873a11"/><lb ed="R072" n="0915a11"/>本覺。</p></cb:div>
+<lb ed="X" n="0873a12"/><lb ed="R072" n="0915a12"/><cb:div type="orig"><p xml:id="pX45p0873a1201">本覺義者<note place="inline">至</note>直決彼疑。</p></cb:div>
+<lb ed="X" n="0873a13"/><lb ed="R072" n="0915a13"/><cb:div type="commentary"><p xml:id="pX45p0873a1301" rend="margin-left:1em">釋曰後決疑有二初通答又二初牒指。</p></cb:div>
+<lb ed="X" n="0873a14"/><lb ed="R072" n="0915a14"/><cb:div type="orig"><p xml:id="pX45p0873a1401">謂馬鳴師<note place="inline">至</note>心行處滅。</p></cb:div>
+<lb ed="X" n="0873a15"/><lb ed="R072" n="0915a15"/><cb:div type="commentary"><p xml:id="pX45p0873a1501" rend="margin-left:1em">釋曰後廣釋有二初絕言滅念論主通云淨本法
+<lb ed="X" n="0873a16"/><lb ed="R072" n="0915a16"/>爾無諸生滅非立有而則有非謗無而則無過患
+<lb ed="X" n="0873a17"/><lb ed="R072" n="0915a17"/>功德相待俱寂名言心念詮緣並絕。</p></cb:div>
+<lb ed="X" n="0873a18"/><lb ed="R072" n="0915a18"/><cb:div type="orig"><p xml:id="pX45p0873a1801">而有言說<note place="inline">至</note>本覺之稱。</p></cb:div>
+<lb ed="X" n="0873a19"/><lb ed="R072" n="0915b01"/><cb:div type="commentary"><p xml:id="pX45p0873a1901" rend="margin-left:1em">釋曰後因始顯本說圓性德名本覺者因淨始覺
+<lb ed="X" n="0873a20"/><lb ed="R072" n="0915b02"/>發智及定窮時周處治過圓德對淨始覺立淨本
+<lb ed="X" n="0873a21"/><lb ed="R072" n="0915b03"/>覺故本論云本覺義者對始覺說。</p></cb:div>
+<lb ed="X" n="0873a22"/><lb ed="R072" n="0915b04"/><cb:div type="orig"><p xml:id="pX45p0873a2201">以始覺者<note place="inline">至</note>示本覺故。</p></cb:div>
+<lb ed="X" n="0873a23"/><lb ed="R072" n="0915b05"/><cb:div type="commentary"><p xml:id="pX45p0873a2301" rend="margin-left:1em">釋曰後對示淨本何因對彼始覺立名由淨始覺
+<lb ed="X" n="0873a24"/><lb ed="R072" n="0915b06"/>與淨本同故對始覺示淨本覺。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0873b" n="0873b"/>
+<lb ed="X" n="0873b01"/><lb ed="R072" n="0915b07"/><cb:div type="orig"><p xml:id="pX45p0873b0101">如是二覺<note place="inline">至</note>其相云何。</p></cb:div>
+<lb ed="X" n="0873b02"/><lb ed="R072" n="0915b08"/><cb:div type="commentary"><p xml:id="pX45p0873b0201" rend="margin-left:1em">釋曰後明二熏習有二初問二種淨覺熏相若何。</p></cb:div>
+<lb ed="X" n="0873b03"/><lb ed="R072" n="0915b09"/><cb:div type="orig"><p xml:id="pX45p0873b0301">頌曰<note place="inline">至</note>唯有自家德。</p></cb:div>
+<lb ed="X" n="0873b04"/><lb ed="R072" n="0915b10"/><cb:div type="commentary"><p xml:id="pX45p0873b0401" rend="margin-left:1em">釋曰後答有二初結頌清淨二覺非他染熏不無
+<lb ed="X" n="0873b05"/><lb ed="R072" n="0915b11"/>二淨自互熏習准下論說此二淨覺亦容熏他諸
+<lb ed="X" n="0873b06"/><lb ed="R072" n="0915b12"/>染法故。</p></cb:div>
+<lb ed="X" n="0873b07"/><lb ed="R072" n="0915b13"/><cb:div type="orig"><p xml:id="pX45p0873b0701">論曰<note place="inline">至</note>謂白白故。</p></cb:div>
+<lb ed="X" n="0873b08"/><lb ed="R072" n="0915b14"/><cb:div type="commentary"><p xml:id="pX45p0873b0801" rend="margin-left:1em">釋曰後釋文有二初廣釋二種淨覺他染非能熏
+<lb ed="X" n="0873b09"/><lb ed="R072" n="0915b15"/>自淨非所熏以無染淨相待互熏唯有二淨自互
+<lb ed="X" n="0873b10"/><lb ed="R072" n="0915b16"/>相熏徧因果位淨熏不歇是故名為具足轉熏淨
+<lb ed="X" n="0873b11"/><lb ed="R072" n="0915b17"/>熏重重故云白白。</p></cb:div>
+<lb ed="X" n="0873b12"/><lb ed="R072" n="0915b18"/><cb:div type="orig"><p xml:id="pX45p0873b1201">三身<note place="inline">至</note>無分轉故。</p></cb:div>
+<lb ed="X" n="0873b13"/><lb ed="R072" n="0916a01"/><cb:div type="commentary"><p xml:id="pX45p0873b1301" rend="margin-left:1em">釋曰後引證唯有德熏者以二淨覺德互熏故無
+<lb ed="X" n="0873b14"/><lb ed="R072" n="0916a02"/>患德熏者染非能熏名無患熏自非外淨所能熏
+<lb ed="X" n="0873b15"/><lb ed="R072" n="0916a03"/>故名無德熏唯有滿轉者二覺徧通五十一位念
+<lb ed="X" n="0873b16"/><lb ed="R072" n="0916a04"/>念常熏圓滿轉故非同染淨本始二覺歷位歷惑
+<lb ed="X" n="0873b17"/><lb ed="R072" n="0916a05"/>分分轉故。</p></cb:div>
+<lb ed="X" n="0873b18"/><lb ed="R072" n="0916a06"/><cb:div type="orig"><p xml:id="pX45p0873b1801"><anchor xml:id="beg_83" type="cb-app"/>已<anchor xml:id="end_83"/>說<note place="inline">至</note>離性二覺。</p></cb:div>
+<lb ed="X" n="0873b19"/><lb ed="R072" n="0916a07"/><cb:div type="commentary"><p xml:id="pX45p0873b1901" rend="margin-left:1em">釋曰後染淨二覺有二初結指。</p></cb:div>
+<lb ed="X" n="0873b20"/><lb ed="R072" n="0916a08"/><cb:div type="orig"><p xml:id="pX45p0873b2001">始覺<note place="inline">至</note>離性始覺。</p></cb:div>
+<lb ed="X" n="0873b21"/><lb ed="R072" n="0916a09"/><cb:div type="commentary"><p xml:id="pX45p0873b2101" rend="margin-left:1em">釋曰後解釋有二初明二覺又二初牒指。</p></cb:div>
+<lb ed="X" n="0873b22"/><lb ed="R072" n="0916a10"/><cb:div type="orig"><p xml:id="pX45p0873b2201">此義云何。</p></cb:div>
+<lb ed="X" n="0873b23"/><lb ed="R072" n="0916a11"/><cb:div type="commentary"><p xml:id="pX45p0873b2301" rend="margin-left:1em">釋曰後顯示有二初徵染淨二覺義相若為。</p></cb:div>
+<lb ed="X" n="0873b24"/><lb ed="R072" n="0916a12"/><cb:div type="orig"><p xml:id="pX45p0873b2401">本覺<note place="inline">至</note>離性之義。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0873c" n="0873c"/>
+<lb ed="X" n="0873c01"/><lb ed="R072" n="0916a13"/><cb:div type="commentary"><p xml:id="pX45p0873c0101" rend="margin-left:1em">釋曰後釋有二初正明離性淨本隨緣恒受染熏
+<lb ed="X" n="0873c02"/><lb ed="R072" n="0916a14"/>令諸染法常得依住淨始隨緣因被染誑方起智
+<lb ed="X" n="0873c03"/><lb ed="R072" n="0916a15"/>斷是故名為染淨始覺。</p></cb:div>
+<lb ed="X" n="0873c04"/><lb ed="R072" n="0916a16"/><cb:div type="orig"><p xml:id="pX45p0873c0401">始覺<note place="inline">至</note>證得理故。</p></cb:div>
+<lb ed="X" n="0873c05"/><lb ed="R072" n="0916a17"/><cb:div type="commentary"><p xml:id="pX45p0873c0501" rend="margin-left:1em">釋曰後徵釋誑離有二初誑義始覺斷障證德何
+<lb ed="X" n="0873c06"/><lb ed="R072" n="0916a18"/>言被染誑耶蓋以無過作過斷故其猶夜杌空花
+<lb ed="X" n="0873c07"/><lb ed="R072" n="0916b01"/>闇盡翳除於何所見又實無德作德證故何異鏡
+<lb ed="X" n="0873c08"/><lb ed="R072" n="0916b02"/>燈水月燈去月亡影何所有染誑之義於茲明矣。</p></cb:div>
+<lb ed="X" n="0873c09"/><lb ed="R072" n="0916b03"/><cb:div type="orig"><p xml:id="pX45p0873c0901">若爾<note place="inline">至</note>到無念故。</p></cb:div>
+<lb ed="X" n="0873c10"/><lb ed="R072" n="0916b04"/><cb:div type="commentary"><p xml:id="pX45p0873c1001" rend="margin-left:1em">釋曰後離時離妄直須到究竟位於此時中得無
+<lb ed="X" n="0873c11"/><lb ed="R072" n="0916b05"/>念故。</p></cb:div>
+<lb ed="X" n="0873c12"/><lb ed="R072" n="0916b06"/><cb:div type="orig"><p xml:id="pX45p0873c1201">滿分二事下當顯示。</p></cb:div>
+<lb ed="X" n="0873c13"/><lb ed="R072" n="0916b07"/><cb:div type="commentary"><p xml:id="pX45p0873c1301" rend="margin-left:1em">釋曰後指分滿解論心源覺不覺別立滿分名如
+<lb ed="X" n="0873c14"/><lb ed="R072" n="0916b08"/>次廣明。</p></cb:div>
+<lb ed="X" n="0873c15"/><lb ed="R072" n="0916b09"/><cb:div type="orig"><p xml:id="pX45p0873c1501"><anchor xml:id="beg_84" type="cb-app"/>已<anchor xml:id="end_84"/>說<note place="inline">至</note>決擇門。</p></cb:div>
+<lb ed="X" n="0873c16"/><lb ed="R072" n="0916b10"/><cb:div type="commentary"><p xml:id="pX45p0873c1601" rend="margin-left:1em">釋曰後廣說兩覺決擇門有二初結指。</p></cb:div>
+<lb ed="X" n="0873c17"/><lb ed="R072" n="0916b11"/><cb:div type="orig"><p xml:id="pX45p0873c1701">本曰<note place="inline">至</note>同一覺故。</p></cb:div>
+<lb ed="X" n="0873c18"/><lb ed="R072" n="0916b12"/><cb:div type="commentary"><p xml:id="pX45p0873c1801" rend="margin-left:1em">釋曰後開示有二初廣說始覺決擇分有二初唱
+<lb ed="X" n="0873c19"/><lb ed="R072" n="0916b13"/>本。</p></cb:div>
+<lb ed="X" n="0873c20"/><lb ed="R072" n="0916b14"/><cb:div type="orig"><p xml:id="pX45p0873c2001">論曰<note place="inline">至</note>立隨覺門。</p></cb:div>
+<lb ed="X" n="0873c21"/><lb ed="R072" n="0916b15"/><cb:div type="commentary"><p xml:id="pX45p0873c2101" rend="margin-left:1em">釋曰後釋文有二初建立門又三初科分。</p></cb:div>
+<lb ed="X" n="0873c22"/><lb ed="R072" n="0916b16"/><cb:div type="orig"><p xml:id="pX45p0873c2201">四相<note place="inline">至</note>常住有故。</p></cb:div>
+<lb ed="X" n="0873c23"/><lb ed="R072" n="0916b17"/><cb:div type="commentary"><p xml:id="pX45p0873c2301" rend="margin-left:1em">釋曰後辨相有二初略顯二門分三初立門屬當
+<lb ed="X" n="0873c24"/><lb ed="R072" n="0916b18"/>有二初四相門二種過患長短時別究體無差二
+<pb ed="X" xml:id="X45.0772.0874a" n="0874a"/>
+<lb ed="X" n="0874a01"/><lb ed="R072" n="0917a01"/>種功德新本義殊推源無異不出理智為所依故。</p></cb:div>
+<lb ed="X" n="0874a02"/><lb ed="R072" n="0917a02"/><cb:div type="orig"><p xml:id="pX45p0874a0201">隨覺<note place="inline">至</note>覺不覺故。</p></cb:div>
+<lb ed="X" n="0874a03"/><lb ed="R072" n="0917a03"/><cb:div type="commentary"><p xml:id="pX45p0874a0301" rend="margin-left:1em">釋曰後隨覺門滿覺即顯究竟始覺契同無二一
+<lb ed="X" n="0874a04"/><lb ed="R072" n="0917a04"/>相覺故分覺即顯因位始覺待前名之為覺對後
+<lb ed="X" n="0874a05"/><lb ed="R072" n="0917a05"/>名不覺故。</p></cb:div>
+<lb ed="X" n="0874a06"/><lb ed="R072" n="0917a06"/><cb:div type="orig"><p xml:id="pX45p0874a0601">云何<note place="inline">至</note>本來有故。</p></cb:div>
+<lb ed="X" n="0874a07"/><lb ed="R072" n="0917a07"/><cb:div type="commentary"><p xml:id="pX45p0874a0701" rend="margin-left:1em">釋曰次徵前剖釋有二初徵釋四相麤相長時自
+<lb ed="X" n="0874a08"/><lb ed="R072" n="0917a08"/>信至果能盡離故細相短時據初成時剎那具故
+<lb ed="X" n="0874a09"/><lb ed="R072" n="0917a09"/>又以過患起時功德隨轉故立四種無常德相又
+<lb ed="X" n="0874a10"/><lb ed="R072" n="0917a10"/>始起功德推體本有故立四種常住德相此四四
+<lb ed="X" n="0874a11"/><lb ed="R072" n="0917a11"/>相於五位中正說斷除麤四相故若是過患未究
+<lb ed="X" n="0874a12"/><lb ed="R072" n="0917a12"/>竟盡功德四相二種仍俱若至極位過患盡處功
+<lb ed="X" n="0874a13"/><lb ed="R072" n="0917a13"/>德四相亦不可立以諸過患是所治境故諸功德
+<lb ed="X" n="0874a14"/><lb ed="R072" n="0917a14"/>是所知境由後惑熏未達淨德故諸功德是所迷
+<lb ed="X" n="0874a15"/><lb ed="R072" n="0917a15"/>境既是境收非能覺攝所不知德通依理智能未
+<lb ed="X" n="0874a16"/><lb ed="R072" n="0917a16"/>知心唯屬始覺下就相待畢竟咸空對過患而稱
+<lb ed="X" n="0874a17"/><lb ed="R072" n="0917a17"/>功德待無常而名常住過患既遣功德隨亡無常
+<lb ed="X" n="0874a18"/><lb ed="R072" n="0917a18"/><anchor xml:id="beg_85" type="cb-app"/>已<anchor xml:id="end_85"/>拂常住奚存患德四相故並空無爾時唯有一
+<lb ed="X" n="0874a19"/><lb ed="R072" n="0917b01"/>種覺故。</p></cb:div>
+<lb ed="X" n="0874a20"/><lb ed="R072" n="0917b02"/><cb:div type="orig"><p xml:id="pX45p0874a2001">云何<note place="inline">至</note>或不受故。</p></cb:div>
+<lb ed="X" n="0874a21"/><lb ed="R072" n="0917b03"/><cb:div type="commentary"><p xml:id="pX45p0874a2101" rend="margin-left:1em">釋曰後徵釋隨覺謂一種覺無其因位覺與不覺
+<lb ed="X" n="0874a22"/><lb ed="R072" n="0917b04"/>二種別故或五十種因位分覺對後滿覺名為不
+<lb ed="X" n="0874a23"/><lb ed="R072" n="0917b05"/>覺唯究竟位名為滿覺此覺不覺尅論體性唯一
+<lb ed="X" n="0874a24"/><lb ed="R072" n="0917b06"/>始覺到極合本唯同一覺無有二故後辨分覺隨
+<pb ed="X" xml:id="X45.0772.0874b" n="0874b"/>
+<lb ed="X" n="0874b01"/><lb ed="R072" n="0917b07"/>何位覺待前稱覺更無前位染法熏故復隨何位
+<lb ed="X" n="0874b02"/><lb ed="R072" n="0917b08"/>對後即立不覺名故以受後惑染法熏故仍由不
+<lb ed="X" n="0874b03"/><lb ed="R072" n="0917b09"/>知所斷染法本性清淨實功德故如下論指熏離
+<lb ed="X" n="0874b04"/><lb ed="R072" n="0917b10"/>俱相復次顯示覺與不覺互相即通是一味故則
+<lb ed="X" n="0874b05"/><lb ed="R072" n="0917b11"/>斯義也。</p></cb:div>
+<lb ed="X" n="0874b06"/><lb ed="R072" n="0917b12"/><cb:div type="orig"><p xml:id="pX45p0874b0601">如其次第說相可觀。</p></cb:div>
+<lb ed="X" n="0874b07"/><lb ed="R072" n="0917b13"/><cb:div type="commentary"><p xml:id="pX45p0874b0701" rend="margin-left:1em">釋曰後指說勸觀此豫指下令講尋者對文配屬
+<lb ed="X" n="0874b08"/><lb ed="R072" n="0917b14"/>於義照然。</p></cb:div>
+<lb ed="X" n="0874b09"/><lb ed="R072" n="0917b15"/><cb:div type="orig"><p xml:id="pX45p0874b0901">此中<note place="inline">至</note>據亂持故。</p></cb:div>
+<lb ed="X" n="0874b10"/><lb ed="R072" n="0917b16"/><cb:div type="commentary"><p xml:id="pX45p0874b1001" rend="margin-left:1em">釋曰後廣明四相有二初標列牒釋彼無時中等
+<lb ed="X" n="0874b11"/><lb ed="R072" n="0917b17"/>者先斷滅相後斷生相有差別故彼有時中等者
+<lb ed="X" n="0874b12"/><lb ed="R072" n="0917b18"/>生細在前滅麤居後時無別故據其無明迷亂真
+<lb ed="X" n="0874b13"/><lb ed="R072" n="0918a01"/>界一時成就四種相故。</p></cb:div>
+<lb ed="X" n="0874b14"/><lb ed="R072" n="0918a02"/><cb:div type="orig"><p xml:id="pX45p0874b1401">俱有<note place="inline">至</note>麤細故四。</p></cb:div>
+<lb ed="X" n="0874b15"/><lb ed="R072" n="0918a03"/><cb:div type="commentary"><p xml:id="pX45p0874b1501" rend="margin-left:1em">釋曰後重廣次第有二初俱有次第又二初總解
+<lb ed="X" n="0874b16"/><lb ed="R072" n="0918a04"/>復二初問答俱有先細生相後麤滅相一時釋俱
+<lb ed="X" n="0874b17"/><lb ed="R072" n="0918a05"/>有麤細釋次第但向一時具前後故。</p></cb:div>
+<lb ed="X" n="0874b18"/><lb ed="R072" n="0918a06"/><cb:div type="orig"><p xml:id="pX45p0874b1801">此中<note place="inline">至</note>俱有四相。</p></cb:div>
+<lb ed="X" n="0874b19"/><lb ed="R072" n="0918a07"/><cb:div type="commentary"><p xml:id="pX45p0874b1901" rend="margin-left:1em">釋曰後徵釋一時所取一時無明熏真一念具四
+<lb ed="X" n="0874b20"/><lb ed="R072" n="0918a08"/>迷惑實性隱覆淨心生死無窮流轉不<anchor xml:id="beg_86" type="cb-app"/>已<anchor xml:id="end_86"/>。</p></cb:div>
+<lb ed="X" n="0874b21"/><lb ed="R072" n="0918a09"/><cb:div type="orig"><p xml:id="pX45p0874b2101">何故<note place="inline">至</note>其相云何。</p></cb:div>
+<lb ed="X" n="0874b22"/><lb ed="R072" n="0918a10"/><cb:div type="commentary"><p xml:id="pX45p0874b2201" rend="margin-left:1em">釋曰後別明有四一生相分二初總舉四相問生
+<lb ed="X" n="0874b23"/><lb ed="R072" n="0918a11"/>等四種義相若何。</p></cb:div>
+<lb ed="X" n="0874b24"/><lb ed="R072" n="0918a12"/><cb:div type="orig"><p xml:id="pX45p0874b2401">頌曰<note place="inline">至</note>立初生故。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0874c" n="0874c"/>
+<lb ed="X" n="0874c01"/><lb ed="R072" n="0918a13"/><cb:div type="commentary"><p xml:id="pX45p0874c0101" rend="margin-left:1em">釋曰後別就生相答無明熏心生三細相獨力業
+<lb ed="X" n="0874c02"/><lb ed="R072" n="0918a14"/>相無明所發微細之用獨力隨相本覺所發微細
+<lb ed="X" n="0874c03"/><lb ed="R072" n="0918a15"/>之用二用各別故名獨力俱合動相取彼業隨和
+<lb ed="X" n="0874c04"/><lb ed="R072" n="0918a16"/>合動相若離業隨無有俱合猶離風水無波濤故
+<lb ed="X" n="0874c05"/><lb ed="R072" n="0918a17"/>以法對喻各具三矣此三始起故名生相當三細
+<lb ed="X" n="0874c06"/><lb ed="R072" n="0918a18"/>中初之一細十一意中業相業識五有為中生相
+<lb ed="X" n="0874c07"/><lb ed="R072" n="0918b01"/>有為六種染中業不相應。</p></cb:div>
+<lb ed="X" n="0874c08"/><lb ed="R072" n="0918b02"/><cb:div type="orig"><p xml:id="pX45p0874c0801">住相<note place="inline">至</note>非麤分故。</p></cb:div>
+<lb ed="X" n="0874c09"/><lb ed="R072" n="0918b03"/><cb:div type="commentary"><p xml:id="pX45p0874c0901" rend="margin-left:1em">釋曰二住相三細中後二六麤中初二十一意中
+<lb ed="X" n="0874c10"/><lb ed="R072" n="0918b04"/>後八六種染中中四四種住相住義各別轉相住
+<lb ed="X" n="0874c11"/><lb ed="R072" n="0918b05"/>持能見心識熏習上下現相住持自體色法熏習
+<lb ed="X" n="0874c12"/><lb ed="R072" n="0918b06"/>上下智相住持分別染法能障二地乃至七地六
+<lb ed="X" n="0874c13"/><lb ed="R072" n="0918b07"/>漸次故非取六麤及六染故其相續相住持事識
+<lb ed="X" n="0874c14"/><lb ed="R072" n="0918b08"/>染不斷故雖四住相內含麤細然對異滅故當細
+<lb ed="X" n="0874c15"/><lb ed="R072" n="0918b09"/>分又於事識顯六隱七揀麤取細以唯法執名為
+<lb ed="X" n="0874c16"/><lb ed="R072" n="0918b10"/>細分。</p></cb:div>
+<lb ed="X" n="0874c17"/><lb ed="R072" n="0918b11"/><cb:div type="orig"><p xml:id="pX45p0874c1701">異相<note place="inline">至</note>而起著故。</p></cb:div>
+<lb ed="X" n="0874c18"/><lb ed="R072" n="0918b12"/><cb:div type="commentary"><p xml:id="pX45p0874c1801" rend="margin-left:1em">釋曰三異相六麤內中二六染中初一若執取相
+<lb ed="X" n="0874c19"/><lb ed="R072" n="0918b13"/>即從能緣行解立名執取即相故云異自成異由
+<lb ed="X" n="0874c20"/><lb ed="R072" n="0918b14"/>緣種種別相即起種種執著能緣自差故名異相
+<lb ed="X" n="0874c21"/><lb ed="R072" n="0918b15"/>計名字相從其所緣境界建號名字之相計即是
+<lb ed="X" n="0874c22"/><lb ed="R072" n="0918b16"/>相謂其凡愚依名起著就所緣差故名異相此二
+<lb ed="X" n="0874c23"/><lb ed="R072" n="0918b17"/>人執從能從所增勝立名準賢首疏執取即俱生
+<lb ed="X" n="0874c24"/><lb ed="R072" n="0918b18"/>計名屬分別。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0875a" n="0875a"/>
+<lb ed="X" n="0875a01"/><lb ed="R072" n="0919a01"/><cb:div type="orig"><p xml:id="pX45p0875a0101">滅相<note place="inline">至</note>故名滅相。</p></cb:div>
+<lb ed="X" n="0875a02"/><lb ed="R072" n="0919a02"/><cb:div type="commentary"><p xml:id="pX45p0875a0201" rend="margin-left:1em">釋曰四滅相所發之業所招之果壞前執取及計
+<lb ed="X" n="0875a03"/><lb ed="R072" n="0919a03"/>名字令受苦故或受果時滅眾善故或起業時損
+<lb ed="X" n="0875a04"/><lb ed="R072" n="0919a04"/>性善故欲顯滅義互通故述因果前却。</p></cb:div>
+<lb ed="X" n="0875a05"/><lb ed="R072" n="0919a05"/><cb:div type="orig"><p xml:id="pX45p0875a0501"><anchor xml:id="beg_87" type="cb-app"/>已<anchor xml:id="end_87"/>說俱有次說前後。</p></cb:div>
+<lb ed="X" n="0875a06"/><lb ed="R072" n="0919a06"/><cb:div type="commentary"><p xml:id="pX45p0875a0601" rend="margin-left:1em">釋曰後前後次第有二初結指。</p></cb:div>
+<lb ed="X" n="0875a07"/><lb ed="R072" n="0919a07"/><cb:div type="orig"><p xml:id="pX45p0875a0701">其相云何。</p></cb:div>
+<lb ed="X" n="0875a08"/><lb ed="R072" n="0919a08"/><cb:div type="commentary"><p xml:id="pX45p0875a0801" rend="margin-left:1em">釋曰後解釋有二初問。</p></cb:div>
+<lb ed="X" n="0875a09"/><lb ed="R072" n="0919a09"/><cb:div type="orig"><p xml:id="pX45p0875a0901">頌曰<note place="inline">至</note>增減不同。</p></cb:div>
+<lb ed="X" n="0875a10"/><lb ed="R072" n="0919a10"/><cb:div type="commentary"><p xml:id="pX45p0875a1001" rend="margin-left:1em">釋曰後答有二初頌對論釋斷時次第從滅至生
+<lb ed="X" n="0875a11"/><lb ed="R072" n="0919a11"/>先麤後細自信之果隨智增減對治異故。</p></cb:div>
+<lb ed="X" n="0875a12"/><lb ed="R072" n="0919a12"/><cb:div type="orig"><p xml:id="pX45p0875a1201">此義<note place="inline">至</note>增減不同。</p></cb:div>
+<lb ed="X" n="0875a13"/><lb ed="R072" n="0919a13"/><cb:div type="commentary"><p xml:id="pX45p0875a1301" rend="margin-left:1em">釋曰後配位具闕十信位人治滅相故三賢位人
+<lb ed="X" n="0875a14"/><lb ed="R072" n="0919a14"/>治異相故前九地人治住相故十地位人治生麤
+<lb ed="X" n="0875a15"/><lb ed="R072" n="0919a15"/>分果滿位人治生細分四相盡處究竟清淨。</p></cb:div>
+<lb ed="X" n="0875a16"/><lb ed="R072" n="0919a16"/><cb:div type="orig"><p xml:id="pX45p0875a1601"><anchor xml:id="beg_88" type="cb-app"/>已<anchor xml:id="end_88"/>說<note place="inline">至</note>隨釋門。</p></cb:div>
+<lb ed="X" n="0875a17"/><lb ed="R072" n="0919a17"/><cb:div type="commentary"><p xml:id="pX45p0875a1701" rend="margin-left:1em">釋曰後隨釋門有二初結指。</p></cb:div>
+<lb ed="X" n="0875a18"/><lb ed="R072" n="0919a18"/><cb:div type="orig"><p xml:id="pX45p0875a1801">依彼四相<note place="inline">至</note>果滿位。</p></cb:div>
+<lb ed="X" n="0875a19"/><lb ed="R072" n="0919b01"/><cb:div type="commentary"><p xml:id="pX45p0875a1901" rend="margin-left:1em">釋曰後解釋有二初決擇五位又二初科分略辨
+<lb ed="X" n="0875a20"/><lb ed="R072" n="0919b02"/>復二初標徵列位從所斷相立位差別。</p></cb:div>
+<lb ed="X" n="0875a21"/><lb ed="R072" n="0919b03"/><cb:div type="orig"><p xml:id="pX45p0875a2101">前四位中<note place="inline">至</note>說相應觀。</p></cb:div>
+<lb ed="X" n="0875a22"/><lb ed="R072" n="0919b04"/><cb:div type="commentary"><p xml:id="pX45p0875a2201" rend="margin-left:1em">釋曰後具事多少論主誨示講學之人明記四三
+<lb ed="X" n="0875a23"/><lb ed="R072" n="0919b05"/>至文屬配。</p></cb:div>
+<lb ed="X" n="0875a24"/><lb ed="R072" n="0919b06"/><cb:div type="orig"><p xml:id="pX45p0875a2401">第一<note place="inline">至</note>名為覺者。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0875b" n="0875b"/>
+<lb ed="X" n="0875b01"/><lb ed="R072" n="0919b07"/><cb:div type="commentary"><p xml:id="pX45p0875b0101" rend="margin-left:1em">釋曰後依位廣明有五一十信位有四一趣向行
+<lb ed="X" n="0875b02"/><lb ed="R072" n="0919b08"/>者能修行人十信菩薩未入正定故名凡夫<anchor xml:id="beg_89" type="cb-app"/>已<anchor xml:id="end_89"/>出
+<lb ed="X" n="0875b03"/><lb ed="R072" n="0919b09"/>邪定亦名覺者。</p></cb:div>
+<lb ed="X" n="0875b04"/><lb ed="R072" n="0919b10"/><cb:div type="orig"><p xml:id="pX45p0875b0401">覺知<note place="inline">至</note>覺滅相義。</p></cb:div>
+<lb ed="X" n="0875b05"/><lb ed="R072" n="0919b11"/><cb:div type="commentary"><p xml:id="pX45p0875b0501" rend="margin-left:1em">釋曰二修行因相未入信前不知不覺作業受果
+<lb ed="X" n="0875b06"/><lb ed="R072" n="0919b12"/>是大過患造種種業網招一一苦輪五趣無休四
+<lb ed="X" n="0875b07"/><lb ed="R072" n="0919b13"/>生不息今逢善友淨則良緣拔邪見之稠林入功
+<lb ed="X" n="0875b08"/><lb ed="R072" n="0919b14"/>德之信位業為苦種果是毒源畢有餘殃竟無實
+<lb ed="X" n="0875b09"/><lb ed="R072" n="0919b15"/>樂欲彰信位能了滅染對後正止惡之心詺此為
+<lb ed="X" n="0875b10"/><lb ed="R072" n="0919b16"/>行因之相。</p></cb:div>
+<lb ed="X" n="0875b11"/><lb ed="R072" n="0919b17"/><cb:div type="orig"><p xml:id="pX45p0875b1101">故能<note place="inline">至</note>止息不起。</p></cb:div>
+<lb ed="X" n="0875b12"/><lb ed="R072" n="0919b18"/><cb:div type="commentary"><p xml:id="pX45p0875b1201" rend="margin-left:1em">釋曰三行因果相此有二解一云故謂特然作意
+<lb ed="X" n="0875b13"/><lb ed="R072" n="0920a01"/>之義信心始起治道極羸發上轉之門離此岸之
+<lb ed="X" n="0875b14"/><lb ed="R072" n="0920a02"/>路苟涉懈易還預下熏儻在慇懃頓超聖位云故
+<lb ed="X" n="0875b15"/><lb ed="R072" n="0920a03"/>能者意在此焉二云故謂所以因由之義以前不
+<lb ed="X" n="0875b16"/><lb ed="R072" n="0920a04"/>覺常種惡緣此後深知永營白業愧能懼惡他不
+<lb ed="X" n="0875b17"/><lb ed="R072" n="0920a05"/>染於<g ref="#CB00985">𠎝</g>尤慚以崇賢自無干於過咎後義釋故意
+<lb ed="X" n="0875b18"/><lb ed="R072" n="0920a06"/>在茲焉言因果者前覺滅而求斷即名行因此止
+<lb ed="X" n="0875b19"/><lb ed="R072" n="0920a07"/>惡以不生乃稱為果。</p></cb:div>
+<lb ed="X" n="0875b20"/><lb ed="R072" n="0920a08"/><cb:div type="orig"><p xml:id="pX45p0875b2001">雖復<note place="inline">至</note>熏離俱相。</p></cb:div>
+<lb ed="X" n="0875b21"/><lb ed="R072" n="0920a09"/><cb:div type="commentary"><p xml:id="pX45p0875b2101" rend="margin-left:1em">釋曰四熏離俱相有二初牒指熏離之言即解覺
+<lb ed="X" n="0875b22"/><lb ed="R072" n="0920a10"/>義熏俱之言釋不覺故。</p></cb:div>
+<lb ed="X" n="0875b23"/><lb ed="R072" n="0920a11"/><cb:div type="orig"><p xml:id="pX45p0875b2301">所謂<note place="inline">至</note>故言熏離。</p></cb:div>
+<lb ed="X" n="0875b24"/><lb ed="R072" n="0920a12"/><cb:div type="commentary"><p xml:id="pX45p0875b2401" rend="margin-left:1em">釋曰後解釋有四一知過對治由知滅相實是過
+<pb ed="X" xml:id="X45.0772.0875c" n="0875c"/>
+<lb ed="X" n="0875c01"/><lb ed="R072" n="0920a13"/>患故發覺心止絕滅事後念不起故名熏離。</p></cb:div>
+<lb ed="X" n="0875c02"/><lb ed="R072" n="0920a14"/><cb:div type="orig"><p xml:id="pX45p0875c0201">彼滅相品<note place="inline">至</note>故言熏俱。</p></cb:div>
+<lb ed="X" n="0875c03"/><lb ed="R072" n="0920a15"/><cb:div type="commentary"><p xml:id="pX45p0875c0301" rend="margin-left:1em">釋曰二迷德不了<anchor xml:id="beg_8a" type="cb-app"/>已<anchor xml:id="end_8a"/>覺滅相雖然熏離未覺異等
+<lb ed="X" n="0875c04"/><lb ed="R072" n="0920a16"/>仍由熏俱致不了知滅相本來體性清淨實是功
+<lb ed="X" n="0875c05"/><lb ed="R072" n="0920a17"/>德。</p></cb:div>
+<lb ed="X" n="0875c06"/><lb ed="R072" n="0920a18"/><cb:div type="orig"><p xml:id="pX45p0875c0601">此中<note place="inline">至</note>於第十地。</p></cb:div>
+<lb ed="X" n="0875c07"/><lb ed="R072" n="0920b01"/><cb:div type="commentary"><p xml:id="pX45p0875c0701" rend="margin-left:1em">釋曰三流至十地雖復名覺此當熏離但能對治
+<lb ed="X" n="0875c08"/><lb ed="R072" n="0920b02"/>過患四相即是不覺此當熏俱顯未了知功德四
+<lb ed="X" n="0875c09"/><lb ed="R072" n="0920b03"/>相準此論指因位分覺後惑熏俱未合本覺直至
+<lb ed="X" n="0875c10"/><lb ed="R072" n="0920b04"/>滿覺無後惑熏方知四相體性清淨本來實是功
+<lb ed="X" n="0875c11"/><lb ed="R072" n="0920b05"/>德四相患德相盡分滿覺亡爾時唯有一覺轉故
+<lb ed="X" n="0875c12"/><lb ed="R072" n="0920b06"/>故下論云實無轉勝漸次之異亦無圓滿究竟之
+<lb ed="X" n="0875c13"/><lb ed="R072" n="0920b07"/>極乃至契同無二一相覺故故此論指雖復名覺
+<lb ed="X" n="0875c14"/><lb ed="R072" n="0920b08"/>即是不覺流至十地唯除果位無熏俱故。</p></cb:div>
+<lb ed="X" n="0875c15"/><lb ed="R072" n="0920b09"/><cb:div type="orig"><p xml:id="pX45p0875c1501">復次<note place="inline">至</note>是一味故。</p></cb:div>
+<lb ed="X" n="0875c16"/><lb ed="R072" n="0920b10"/><cb:div type="commentary"><p xml:id="pX45p0875c1601" rend="margin-left:1em">釋曰四顯體一味恐人妄認此中不覺謂是本末
+<lb ed="X" n="0875c17"/><lb ed="R072" n="0920b11"/>無明不覺故重委示覺與不覺玄通一味此唯始
+<lb ed="X" n="0875c18"/><lb ed="R072" n="0920b12"/>覺對前名為覺覺過患故對後名不覺迷功德故
+<lb ed="X" n="0875c19"/><lb ed="R072" n="0920b13"/>如雜礦金望離少分麤砂礦故雖復名金仍帶其
+<lb ed="X" n="0875c20"/><lb ed="R072" n="0920b14"/>餘細砂礦故猶名礦金出礦之金與在礦金無二
+<lb ed="X" n="0875c21"/><lb ed="R072" n="0920b15"/>體故法合之中離惑之覺與在惑覺唯一味故。</p></cb:div>
+<lb ed="X" n="0875c22"/><lb ed="R072" n="0920b16"/><cb:div type="orig"><p xml:id="pX45p0875c2201">第二<note place="inline">至</note>地之海故。</p></cb:div>
+<lb ed="X" n="0875c23"/><lb ed="R072" n="0920b17"/><cb:div type="commentary"><p xml:id="pX45p0875c2301" rend="margin-left:1em">釋曰二三賢位有四一趣向行者二乘之人屬邪
+<lb ed="X" n="0875c24"/><lb ed="R072" n="0920b18"/>定聚不求菩提無大心故今取二乘人空觀智同
+<pb ed="X" xml:id="X45.0772.0876a" n="0876a"/>
+<lb ed="X" n="0876a01"/><lb ed="R072" n="0921a01"/>三賢位故名相似此論所指三賢位中執取計名
+<lb ed="X" n="0876a02"/><lb ed="R072" n="0921a02"/>不分先後種現差別總相分為九十分障以道對
+<lb ed="X" n="0876a03"/><lb ed="R072" n="0921a03"/>惑品數均等比觀無漏分分成就人空覺智位位
+<lb ed="X" n="0876a04"/><lb ed="R072" n="0921a04"/>自在隨所斷惑各無疑畏又或行者至迴向位第
+<lb ed="X" n="0876a05"/><lb ed="R072" n="0921a05"/>十出心方始斷盡異相人執人空無漏至賢位極
+<lb ed="X" n="0876a06"/><lb ed="R072" n="0921a06"/>無所疑畏若準賢首義分齊說寄惑顯位并斷惑
+<lb ed="X" n="0876a07"/><lb ed="R072" n="0921a07"/>門賢位<anchor xml:id="beg_8b" type="cb-app"/>但<anchor xml:id="end_8b"/>伏麤惑現行入見道時能頓斷種曾同
+<lb ed="X" n="0876a08"/><lb ed="R072" n="0921a08"/>此論義亦無違道力自在斷留無礙為益自他故
+<lb ed="X" n="0876a09"/><lb ed="R072" n="0921a09"/>須留矣故攝論云若不斷上心即不異凡夫若不
+<lb ed="X" n="0876a10"/><lb ed="R072" n="0921a10"/>留種子即不異二乘兼順上論對治最中頓斷見
+<lb ed="X" n="0876a11"/><lb ed="R072" n="0921a11"/>等四住地故又顯二乘皆含佛性盡蘊靈知終修
+<lb ed="X" n="0876a12"/><lb ed="R072" n="0921a12"/>萬行之因畢尅三身之果究竟流入薩般若海故。</p></cb:div>
+<lb ed="X" n="0876a13"/><lb ed="R072" n="0921a13"/><cb:div type="orig"><p xml:id="pX45p0876a1301">覺於<note place="inline">至</note>覺於念異。</p></cb:div>
+<lb ed="X" n="0876a14"/><lb ed="R072" n="0921a14"/><cb:div type="commentary"><p xml:id="pX45p0876a1401" rend="margin-left:1em">釋曰二修行因相謂計名上熏於執取種種之境
+<lb ed="X" n="0876a15"/><lb ed="R072" n="0921a15"/>界攀緣執取下助於計名一一之言相分別上下
+<lb ed="X" n="0876a16"/><lb ed="R072" n="0921a16"/>與力彼此相熏人人思慮更增我我所執轉盛昇
+<lb ed="X" n="0876a17"/><lb ed="R072" n="0921a17"/>沉三界出沒四生不以熏修於何止息而今正起
+<lb ed="X" n="0876a18"/><lb ed="R072" n="0921a18"/>人空始覺又得法空方便現前知本覺之淨心眠
+<lb ed="X" n="0876a19"/><lb ed="R072" n="0921b01"/>無明之大夜夢於異相迷其法實欲除縛纏要憑
+<lb ed="X" n="0876a20"/><lb ed="R072" n="0921b02"/>治道分分發於治覺漸漸破於妄心了異念之夢
+<lb ed="X" n="0876a21"/><lb ed="R072" n="0921b03"/>虗起相似之覺道運茲勝行故曰修行因耳。</p></cb:div>
+<lb ed="X" n="0876a22"/><lb ed="R072" n="0921b04"/><cb:div type="orig"><p xml:id="pX45p0876a2201">念無<note place="inline">至</note>極喜離故。</p></cb:div>
+<lb ed="X" n="0876a23"/><lb ed="R072" n="0921b05"/><cb:div type="commentary"><p xml:id="pX45p0876a2301" rend="margin-left:1em">釋曰三行因果相由前覺了引起正念正念明來
+<lb ed="X" n="0876a24"/><lb ed="R072" n="0921b06"/>異相闇謝次出所以何故正念纔生便令異相速
+<pb ed="X" xml:id="X45.0772.0876b" n="0876b"/>
+<lb ed="X" n="0876b01"/><lb ed="R072" n="0921b07"/>滅以意識中有二分別一者麤二者細麤貪嗔等
+<lb ed="X" n="0876b02"/><lb ed="R072" n="0921b08"/>緣順違境即煩惱障執取計名是異相攝細法執
+<lb ed="X" n="0876b03"/><lb ed="R072" n="0921b09"/>等恒流注故即所知障謂相續相是住相收不論
+<lb ed="X" n="0876b04"/><lb ed="R072" n="0921b10"/>智相者彼是俱生故今<anchor xml:id="beg_8c" type="cb-app"/>但<anchor xml:id="end_8c"/>對治麤貪嗔等非細法
+<lb ed="X" n="0876b05"/><lb ed="R072" n="0921b11"/>執故正念生致異相滅其相續相初地離故。</p></cb:div>
+<lb ed="X" n="0876b06"/><lb ed="R072" n="0921b12"/><cb:div type="orig"><p xml:id="pX45p0876b0601">故名<note place="inline">至</note>相似覺焉。</p></cb:div>
+<lb ed="X" n="0876b07"/><lb ed="R072" n="0921b13"/><cb:div type="commentary"><p xml:id="pX45p0876b0701" rend="margin-left:1em">釋曰四熏離俱相正結覺名兼顯離俱不委解釋
+<lb ed="X" n="0876b08"/><lb ed="R072" n="0921b14"/>故云并麤有本麤字即是兼字以麤為兼於義為
+<lb ed="X" n="0876b09"/><lb ed="R072" n="0921b15"/>善熏離熏俱如前可解異類相似以小似大同類
+<lb ed="X" n="0876b10"/><lb ed="R072" n="0921b16"/>相似以比似證。</p></cb:div>
+<lb ed="X" n="0876b11"/><lb ed="R072" n="0921b17"/><cb:div type="orig"><p xml:id="pX45p0876b1101">第三<note place="inline">至</note>法身菩薩。</p></cb:div>
+<lb ed="X" n="0876b12"/><lb ed="R072" n="0921b18"/><cb:div type="commentary"><p xml:id="pX45p0876b1201" rend="margin-left:1em">釋曰三九地位有四一趣向行者後二僧祇前九
+<lb ed="X" n="0876b13"/><lb ed="R072" n="0922a01"/>地人真如為身般若為心兩種法執垢累<anchor xml:id="beg_8d" type="cb-app"/>已<anchor xml:id="end_8d"/>出若
+<lb ed="X" n="0876b14"/><lb ed="R072" n="0922a02"/>身若心清淨明白二細梨耶縛障悉斷於境於智
+<lb ed="X" n="0876b15"/><lb ed="R072" n="0922a03"/>無礙自在既垢縛而出斷又理智以融合故得名
+<lb ed="X" n="0876b16"/><lb ed="R072" n="0922a04"/>為法身菩薩善順上論如實修行歸十地僧指屬
+<lb ed="X" n="0876b17"/><lb ed="R072" n="0922a05"/>可解。</p></cb:div>
+<lb ed="X" n="0876b18"/><lb ed="R072" n="0922a06"/><cb:div type="orig"><p xml:id="pX45p0876b1801">覺於<note place="inline">至</note>覺於念住。</p></cb:div>
+<lb ed="X" n="0876b19"/><lb ed="R072" n="0922a07"/><cb:div type="commentary"><p xml:id="pX45p0876b1901" rend="margin-left:1em">釋曰二修行因相未入地前四種住相恒起法執
+<lb ed="X" n="0876b20"/><lb ed="R072" n="0922a08"/>遂令本覺眠在無明住相夢中無所覺了始覺日
+<lb ed="X" n="0876b21"/><lb ed="R072" n="0922a09"/>輪既出住相夜夢皆除明闇相違不能俱轉又始
+<lb ed="X" n="0876b22"/><lb ed="R072" n="0922a10"/>覺是正無分別性住相是亂有分別性正亂相違
+<lb ed="X" n="0876b23"/><lb ed="R072" n="0922a11"/>有無不並斷道現前故覺念住先須加行名修行
+<lb ed="X" n="0876b24"/><lb ed="R072" n="0922a12"/>因。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0876c" n="0876c"/>
+<lb ed="X" n="0876c01"/><lb ed="R072" n="0922a13"/><cb:div type="orig"><p xml:id="pX45p0876c0101">念無<note place="inline">至</note>各離一相。</p></cb:div>
+<lb ed="X" n="0876c02"/><lb ed="R072" n="0922a14"/><cb:div type="commentary"><p xml:id="pX45p0876c0201" rend="margin-left:1em">釋曰三行因果相由前覺了引起正念正念纔生
+<lb ed="X" n="0876c03"/><lb ed="R072" n="0922a15"/>住相便滅次出所以恐此住相濫彼生相故住對
+<lb ed="X" n="0876c04"/><lb ed="R072" n="0922a16"/>生迷亂分別極麤重故又住相四中其相續相於
+<lb ed="X" n="0876c05"/><lb ed="R072" n="0922a17"/>極喜斷智相一種別障六地從二至七隨地斷故
+<lb ed="X" n="0876c06"/><lb ed="R072" n="0922a18"/>過三有者即是七地謂能超過三有由是此地立
+<lb ed="X" n="0876c07"/><lb ed="R072" n="0922b01"/>遠行名故唯識云出過世間二乘道故今過三有
+<lb ed="X" n="0876c08"/><lb ed="R072" n="0922b02"/>即過世間此論略無出二乘故八地斷現九地斷
+<lb ed="X" n="0876c09"/><lb ed="R072" n="0922b03"/>轉如其次第各對治故。</p></cb:div>
+<lb ed="X" n="0876c10"/><lb ed="R072" n="0922b04"/><cb:div type="orig"><p xml:id="pX45p0876c1001">故名<note place="inline">至</note>未出離故。</p></cb:div>
+<lb ed="X" n="0876c11"/><lb ed="R072" n="0922b05"/><cb:div type="commentary"><p xml:id="pX45p0876c1101" rend="margin-left:1em">釋曰四熏離俱相正結覺名兼顯離俱逐難別解
+<lb ed="X" n="0876c12"/><lb ed="R072" n="0922b06"/>熏俱相云業相細念未出離故仍有此惑熏隨分
+<lb ed="X" n="0876c13"/><lb ed="R072" n="0922b07"/>覺致不覺知功德四相前後熏俱准此可解。</p></cb:div>
+<lb ed="X" n="0876c14"/><lb ed="R072" n="0922b08"/><cb:div type="orig"><p xml:id="pX45p0876c1401">第四<note place="inline">至</note>無對治道。</p></cb:div>
+<lb ed="X" n="0876c15"/><lb ed="R072" n="0922b09"/><cb:div type="commentary"><p xml:id="pX45p0876c1501" rend="margin-left:1em">釋曰四因滿位五果滿位合分為二初二人合辨
+<lb ed="X" n="0876c16"/><lb ed="R072" n="0922b10"/>地盡之中正學地盡名因圓滿無學<anchor xml:id="beg_8e" type="cb-app"/>已<anchor xml:id="end_8e"/>得名果圓
+<lb ed="X" n="0876c17"/><lb ed="R072" n="0922b11"/>滿因滿斷除俱合動相一分麤惑果滿斷除獨力
+<lb ed="X" n="0876c18"/><lb ed="R072" n="0922b12"/>業相及大無明准下論指亦斷一分障果細惑俱
+<lb ed="X" n="0876c19"/><lb ed="R072" n="0922b13"/>合動相獨力隨相本覺業用非自性染無能斷道
+<lb ed="X" n="0876c20"/><lb ed="R072" n="0922b14"/>問既屬六染五有為數云何不斷答無明既斷本
+<lb ed="X" n="0876c21"/><lb ed="R072" n="0922b15"/>覺不生約義亦說不生名斷若望前來<anchor xml:id="beg_8f" type="cb-app"/>已<anchor xml:id="end_8f"/>發起者
+<lb ed="X" n="0876c22"/><lb ed="R072" n="0922b16"/>獨力隨相與業俱亡非自性斷。</p></cb:div>
+<lb ed="X" n="0876c23"/><lb ed="R072" n="0922b17"/><cb:div type="orig"><p xml:id="pX45p0876c2301">自此<anchor xml:id="beg_90" type="cb-app"/>已<anchor xml:id="end_90"/>下<note place="inline">至</note>圓滿者焉。</p></cb:div>
+<lb ed="X" n="0876c24"/><lb ed="R072" n="0922b18"/><cb:div type="commentary"><p xml:id="pX45p0876c2401" rend="margin-left:1em">釋曰後二滿別釋有二初總指陳。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0877a" n="0877a"/>
+<lb ed="X" n="0877a01"/><lb ed="R072" n="0923a01"/><cb:div type="orig"><p xml:id="pX45p0877a0101">滿足<note place="inline">至</note>而標彼人。</p></cb:div>
+<lb ed="X" n="0877a02"/><lb ed="R072" n="0923a02"/><cb:div type="commentary"><p xml:id="pX45p0877a0201" rend="margin-left:1em">釋曰後別決擇有二初因滿因滿位人有二種定
+<lb ed="X" n="0877a03"/><lb ed="R072" n="0923a03"/>一者方便金剛當加行道即論上句二者正體金
+<lb ed="X" n="0877a04"/><lb ed="R072" n="0923a04"/>剛當無間道即論下句亦可方便一念相應為加
+<lb ed="X" n="0877a05"/><lb ed="R072" n="0923a05"/>行道滿足一念相應為無間道舉所起道顯能起
+<lb ed="X" n="0877a06"/><lb ed="R072" n="0923a06"/>人亦可於此兩句含後三事方便定為修行因相
+<lb ed="X" n="0877a07"/><lb ed="R072" n="0923a07"/>正體定為行因果相既許對治俱合動相<anchor xml:id="beg_91" type="cb-app"/>已<anchor xml:id="end_91"/>屬熏
+<lb ed="X" n="0877a08"/><lb ed="R072" n="0923a08"/>離仍有細惑大無明熏又是熏俱不違前論因各
+<lb ed="X" n="0877a09"/><lb ed="R072" n="0923a09"/>具四。</p></cb:div>
+<lb ed="X" n="0877a10"/><lb ed="R072" n="0923a10"/><cb:div type="orig"><p xml:id="pX45p0877a1001">覺心<note place="inline">至</note>無生覺故。</p></cb:div>
+<lb ed="X" n="0877a11"/><lb ed="R072" n="0923a11"/><cb:div type="commentary"><p xml:id="pX45p0877a1101" rend="margin-left:1em">釋曰後果滿有二初果圓行相有四一具明三相
+<lb ed="X" n="0877a12"/><lb ed="R072" n="0923a12"/>舉道取人即能圓滿者智起惑亡即對治行相令
+<lb ed="X" n="0877a13"/><lb ed="R072" n="0923a13"/>解脫道究竟始覺鏡智現前周徧通達無有與等
+<lb ed="X" n="0877a14"/><lb ed="R072" n="0923a14"/>業相無明不復得有等空絕相何有念哉以遠離
+<lb ed="X" n="0877a15"/><lb ed="R072" n="0923a15"/>下滿究竟相了知四相本來清淨實是功德由離
+<lb ed="X" n="0877a16"/><lb ed="R072" n="0923a16"/>細念得見心性所以得到無生覺故。</p></cb:div>
+<lb ed="X" n="0877a17"/><lb ed="R072" n="0923a17"/><cb:div type="orig"><p xml:id="pX45p0877a1701">是故<note place="inline">至</note>佛果無念。</p></cb:div>
+<lb ed="X" n="0877a18"/><lb ed="R072" n="0923a18"/><cb:div type="commentary"><p xml:id="pX45p0877a1801" rend="margin-left:1em">釋曰二證離二念有二初顯無妄念謂其行者到
+<lb ed="X" n="0877a19"/><lb ed="R072" n="0923b01"/>佛果位解脫道時離無明念細業相念極解脫道
+<lb ed="X" n="0877a20"/><lb ed="R072" n="0923b02"/>不俱行故是故說言佛果無念當知是人趣佛地
+<lb ed="X" n="0877a21"/><lb ed="R072" n="0923b03"/>故。</p></cb:div>
+<lb ed="X" n="0877a22"/><lb ed="R072" n="0923b04"/><cb:div type="orig"><p xml:id="pX45p0877a2201">若無<note place="inline">至</note>應審觀察。</p></cb:div>
+<lb ed="X" n="0877a23"/><lb ed="R072" n="0923b05"/><cb:div type="commentary"><p xml:id="pX45p0877a2301" rend="margin-left:1em">釋曰後明有正念遠離妄念不墮空無唯有正念
+<lb ed="X" n="0877a24"/><lb ed="R072" n="0923b06"/>十德相應極解脫道初剎那中俱行俱轉名為正
+<pb ed="X" xml:id="X45.0772.0877b" n="0877b"/>
+<lb ed="X" n="0877b01"/><lb ed="R072" n="0923b07"/>念。</p></cb:div>
+<lb ed="X" n="0877b02"/><lb ed="R072" n="0923b08"/><cb:div type="orig"><p xml:id="pX45p0877b0201">又心起者<note place="inline">至</note>令生勝解。</p></cb:div>
+<lb ed="X" n="0877b03"/><lb ed="R072" n="0923b09"/><cb:div type="commentary"><p xml:id="pX45p0877b0301" rend="margin-left:1em">釋曰三除疑生解有二初牒指。</p></cb:div>
+<lb ed="X" n="0877b04"/><lb ed="R072" n="0923b10"/><cb:div type="orig"><p xml:id="pX45p0877b0401">謂有<note place="inline">至</note>如是疑故。</p></cb:div>
+<lb ed="X" n="0877b05"/><lb ed="R072" n="0923b11"/><cb:div type="commentary"><p xml:id="pX45p0877b0501" rend="margin-left:1em">釋曰後解釋有二初述疑謂疑至果合本覺智於
+<lb ed="X" n="0877b06"/><lb ed="R072" n="0923b12"/>細生相為知是有為知是無若知有者佛果位中
+<lb ed="X" n="0877b07"/><lb ed="R072" n="0923b13"/>即非無念以有生相微細念故若知無者佛果滿
+<lb ed="X" n="0877b08"/><lb ed="R072" n="0923b14"/>覺即應不有以無初念對何立覺。</p></cb:div>
+<lb ed="X" n="0877b09"/><lb ed="R072" n="0923b15"/><cb:div type="orig"><p xml:id="pX45p0877b0901">今自通言<note place="inline">至</note>知初相耳。</p></cb:div>
+<lb ed="X" n="0877b10"/><lb ed="R072" n="0923b16"/><cb:div type="commentary"><p xml:id="pX45p0877b1001" rend="margin-left:1em">釋曰後通答馬鳴通云所知初相本來性空能知
+<lb ed="X" n="0877b11"/><lb ed="R072" n="0923b17"/>始覺法爾不起心境元無何初可知今言知者顯
+<lb ed="X" n="0877b12"/><lb ed="R072" n="0923b18"/>無念故雖法性湛寂本絕能緣所緣而真覺靈明
+<lb ed="X" n="0877b13"/><lb ed="R072" n="0924a01"/>證達無心無境但拂微細有二之相何礙通達無
+<lb ed="X" n="0877b14"/><lb ed="R072" n="0924a02"/>二之覺無所有覺即究竟覺都非空無顯非斷滅
+<lb ed="X" n="0877b15"/><lb ed="R072" n="0924a03"/>故依此理言知初相。</p></cb:div>
+<lb ed="X" n="0877b16"/><lb ed="R072" n="0924a04"/><cb:div type="orig"><p xml:id="pX45p0877b1601">是故<note place="inline">至</note>名為佛故。</p></cb:div>
+<lb ed="X" n="0877b17"/><lb ed="R072" n="0924a05"/><cb:div type="commentary"><p xml:id="pX45p0877b1701" rend="margin-left:1em">釋曰四成立無念舉眾生而有念顯諸佛而無念
+<lb ed="X" n="0877b18"/><lb ed="R072" n="0924a06"/>文雖反顯意在順明。</p></cb:div>
+<lb ed="X" n="0877b19"/><lb ed="R072" n="0924a07"/><cb:div type="orig"><p xml:id="pX45p0877b1901">自此<note place="inline">至</note>周徧圓滿。</p></cb:div>
+<lb ed="X" n="0877b20"/><lb ed="R072" n="0924a08"/><cb:div type="commentary"><p xml:id="pX45p0877b2001" rend="margin-left:1em">釋曰後始覺境圓有二初標門。</p></cb:div>
+<lb ed="X" n="0877b21"/><lb ed="R072" n="0924a09"/><cb:div type="orig"><p xml:id="pX45p0877b2101">謂大覺者<note place="inline">至</note>生住異滅故。</p></cb:div>
+<lb ed="X" n="0877b22"/><lb ed="R072" n="0924a10"/><cb:div type="commentary"><p xml:id="pX45p0877b2201" rend="margin-left:1em">釋曰後開示有二初辨境周圓佛果始覺徧知趣
+<lb ed="X" n="0877b23"/><lb ed="R072" n="0924a11"/>生但依一心轉成四相。</p></cb:div>
+<lb ed="X" n="0877b24"/><lb ed="R072" n="0924a12"/><cb:div type="orig"><p xml:id="pX45p0877b2401">以何<note place="inline">至</note>以無念等故故。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0877c" n="0877c"/>
+<lb ed="X" n="0877c01"/><lb ed="R072" n="0924a13"/><cb:div type="commentary"><p xml:id="pX45p0877c0101" rend="margin-left:1em">釋曰後釋成所以有三初徵知顯等佛無四相何
+<lb ed="X" n="0877c02"/><lb ed="R072" n="0924a14"/>義知耶以佛證得自無念時與諸眾生平等得故
+<lb ed="X" n="0877c03"/><lb ed="R072" n="0924a15"/>由是能知無量趣生心作四相。</p></cb:div>
+<lb ed="X" n="0877c04"/><lb ed="R072" n="0924a16"/><cb:div type="orig"><p xml:id="pX45p0877c0401">以何<note place="inline">至</note>有本覺故。</p></cb:div>
+<lb ed="X" n="0877c05"/><lb ed="R072" n="0924a17"/><cb:div type="commentary"><p xml:id="pX45p0877c0501" rend="margin-left:1em">釋曰次自他轉釋有二初難異答同何以佛得無
+<lb ed="X" n="0877c06"/><lb ed="R072" n="0924a18"/>念而說眾生同得蓋佛與生本覺一故。</p></cb:div>
+<lb ed="X" n="0877c07"/><lb ed="R072" n="0924b01"/><cb:div type="orig"><p xml:id="pX45p0877c0701">此義<note place="inline">至</note>無所不至故。</p></cb:div>
+<lb ed="X" n="0877c08"/><lb ed="R072" n="0924b02"/><cb:div type="commentary"><p xml:id="pX45p0877c0801" rend="margin-left:1em">釋曰後重徵再釋佛之滿覺同本覺時徧同生界
+<lb ed="X" n="0877c09"/><lb ed="R072" n="0924b03"/>本覺心故故佛證得自無念時一切眾生皆同得
+<lb ed="X" n="0877c10"/><lb ed="R072" n="0924b04"/>故。</p></cb:div>
+<lb ed="X" n="0877c11"/><lb ed="R072" n="0924b05"/><cb:div type="orig"><p xml:id="pX45p0877c1101">清淨<note place="inline">至</note>亦有始覺。</p></cb:div>
+<lb ed="X" n="0877c12"/><lb ed="R072" n="0924b06"/><cb:div type="commentary"><p xml:id="pX45p0877c1201" rend="margin-left:1em">釋曰後問答斷證有二初返覆難詰佛得無念眾
+<lb ed="X" n="0877c13"/><lb ed="R072" n="0924b07"/>生亦得者佛斷無明眾生亦斷耶若許佛斷時眾
+<lb ed="X" n="0877c14"/><lb ed="R072" n="0924b08"/>生同斷者何故上言金剛<anchor xml:id="beg_92" type="cb-app"/>已<anchor xml:id="end_92"/>還生未離念不名為
+<lb ed="X" n="0877c15"/><lb ed="R072" n="0924b09"/>覺若許眾生未離無明而與諸佛同得無念者無
+<lb ed="X" n="0877c16"/><lb ed="R072" n="0924b10"/>念等義有言無實其猶璞自成器礦全為金但有
+<lb ed="X" n="0877c17"/><lb ed="R072" n="0924b11"/>虗言都無實義豈謂眾生皆有本覺便須亦令皆
+<lb ed="X" n="0877c18"/><lb ed="R072" n="0924b12"/>有始覺無念等義若為會通。</p></cb:div>
+<lb ed="X" n="0877c19"/><lb ed="R072" n="0924b13"/><cb:div type="orig"><p xml:id="pX45p0877c1901">決斷<note place="inline">至</note>望別決斷。</p></cb:div>
+<lb ed="X" n="0877c20"/><lb ed="R072" n="0924b14"/><cb:div type="commentary"><p xml:id="pX45p0877c2001" rend="margin-left:1em">釋曰後自別對決有二初標門。</p></cb:div>
+<lb ed="X" n="0877c21"/><lb ed="R072" n="0924b15"/><cb:div type="orig"><p xml:id="pX45p0877c2101">自宗<note place="inline">至</note>亦同得滿。</p></cb:div>
+<lb ed="X" n="0877c22"/><lb ed="R072" n="0924b16"/><cb:div type="commentary"><p xml:id="pX45p0877c2201" rend="margin-left:1em">釋曰後牒解有二初自宗答又二初正釋此論所
+<lb ed="X" n="0877c23"/><lb ed="R072" n="0924b17"/>說宗尚眾生同一本覺相續無差故得佛斷生斷
+<lb ed="X" n="0877c24"/><lb ed="R072" n="0924b18"/>佛得生得。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0878a" n="0878a"/>
+<lb ed="X" n="0878a01"/><lb ed="R072" n="0925a01"/><cb:div type="orig"><p xml:id="pX45p0878a0101">是故<note place="inline">至</note>是名二等故。</p></cb:div>
+<lb ed="X" n="0878a02"/><lb ed="R072" n="0925a02"/><cb:div type="commentary"><p xml:id="pX45p0878a0201" rend="margin-left:1em">釋曰後引證果滿始覺非唯依佛自本覺起徧依
+<lb ed="X" n="0878a03"/><lb ed="R072" n="0925a03"/>眾生本覺而起良以覺體性無二故是故佛起即
+<lb ed="X" n="0878a04"/><lb ed="R072" n="0925a04"/>生起故佛若斷時即生斷故。</p></cb:div>
+<lb ed="X" n="0878a05"/><lb ed="R072" n="0925a05"/><cb:div type="orig"><p xml:id="pX45p0878a0501">望別<note place="inline">至</note>無相違過。</p></cb:div>
+<lb ed="X" n="0878a06"/><lb ed="R072" n="0925a06"/><cb:div type="commentary"><p xml:id="pX45p0878a0601" rend="margin-left:1em">釋曰後望別答有二初正決前疑若但依前自宗
+<lb ed="X" n="0878a07"/><lb ed="R072" n="0925a07"/>本覺同體義答仍未通釋金剛<anchor xml:id="beg_93" type="cb-app"/>已<anchor xml:id="end_93"/>還心猶有念故
+<lb ed="X" n="0878a08"/><lb ed="R072" n="0925a08"/>須望別異體義決蓋以生佛迷悟心異致有因果
+<lb ed="X" n="0878a09"/><lb ed="R072" n="0925a09"/>染淨見殊諸佛悟心見眾生界諸法清淨俱無障
+<lb ed="X" n="0878a10"/><lb ed="R072" n="0925a10"/>礙浪息水澄風停樹止無念等義而得成立眾生
+<lb ed="X" n="0878a11"/><lb ed="R072" n="0925a11"/>迷心見無上尊入無明藏無所覺知迷東謂西執
+<lb ed="X" n="0878a12"/><lb ed="R072" n="0925a12"/>石為玉故金剛還有念義成。</p></cb:div>
+<lb ed="X" n="0878a13"/><lb ed="R072" n="0925a13"/><cb:div type="orig"><p xml:id="pX45p0878a1301">舉此一隅應廣觀察。</p></cb:div>
+<lb ed="X" n="0878a14"/><lb ed="R072" n="0925a14"/><cb:div type="commentary"><p xml:id="pX45p0878a1401" rend="margin-left:1em">釋曰後依弌例餘如上顯說生佛一對染淨相融
+<lb ed="X" n="0878a15"/><lb ed="R072" n="0925a15"/>聊示方隅影顯深理。</p></cb:div>
+<lb ed="X" n="0878a16"/><lb ed="R072" n="0925a16"/><cb:div type="orig"><p xml:id="pX45p0878a1601">自此<note place="inline">至</note>令同本覺。</p></cb:div>
+<lb ed="X" n="0878a17"/><lb ed="R072" n="0925a17"/><cb:div type="commentary"><p xml:id="pX45p0878a1701" rend="margin-left:1em">釋曰後融通諸覺有二初總標融分滿覺唯同一
+<lb ed="X" n="0878a18"/><lb ed="R072" n="0925a18"/>覺。</p></cb:div>
+<lb ed="X" n="0878a19"/><lb ed="R072" n="0925b01"/><cb:div type="orig"><p xml:id="pX45p0878a1901">謂五十一<note place="inline">至</note>同一覺故故。</p></cb:div>
+<lb ed="X" n="0878a20"/><lb ed="R072" n="0925b02"/><cb:div type="commentary"><p xml:id="pX45p0878a2001" rend="margin-left:1em">釋曰後別釋有二初釋義合本依相立覺相盡覺
+<lb ed="X" n="0878a21"/><lb ed="R072" n="0925b03"/>亡對俗名真俗絕真遣謂以相中對過患而立功
+<lb ed="X" n="0878a22"/><lb ed="R072" n="0925b04"/>德過患既遣功德不存又於覺中對分覺而立滿
+<lb ed="X" n="0878a23"/><lb ed="R072" n="0925b05"/>覺分覺既無滿覺何有是則患德四相皆空分滿
+<lb ed="X" n="0878a24"/><lb ed="R072" n="0925b06"/>諸覺咸泯故無有二唯一覺耳。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0878b" n="0878b"/>
+<lb ed="X" n="0878b01"/><lb ed="R072" n="0925b07"/><cb:div type="orig"><p xml:id="pX45p0878b0101">大總持<note place="inline">至</note>不名為正故。</p></cb:div>
+<lb ed="X" n="0878b02"/><lb ed="R072" n="0925b08"/><cb:div type="commentary"><p xml:id="pX45p0878b0201" rend="margin-left:1em">釋曰後引教證釋證中汎指四相有時始覺亦有
+<lb ed="X" n="0878b03"/><lb ed="R072" n="0925b09"/>四相無時始覺隨無四相無中具該患德釋中就
+<lb ed="X" n="0878b04"/><lb ed="R072" n="0925b10"/>顯待染立覺無染不能立其覺故對智稱惑無智
+<lb ed="X" n="0878b05"/><lb ed="R072" n="0925b11"/>不能治其惑故以諸始覺無過作過斷無德作德
+<lb ed="X" n="0878b06"/><lb ed="R072" n="0925b12"/>證俱時俱轉熏離熏俱既總不正故皆非有以始
+<lb ed="X" n="0878b07"/><lb ed="R072" n="0925b13"/>冥本始覺不立本覺寧存故說非有勿謂心性一
+<lb ed="X" n="0878b08"/><lb ed="R072" n="0925b14"/>向斷滅亦猶百川朝海眾鳥翔空雖無本跡本名
+<lb ed="X" n="0878b09"/><lb ed="R072" n="0925b15"/>豈泯空性濕性。</p></cb:div>
+<lb ed="X" n="0878b10"/><lb ed="R072" n="0925b16"/><cb:div type="orig"><p xml:id="pX45p0878b1001"><anchor xml:id="beg_94" type="cb-app"/>已<anchor xml:id="end_94"/>說<note place="inline">至</note>本覺決擇分。</p></cb:div>
+<lb ed="X" n="0878b11"/><lb ed="R072" n="0925b17"/><cb:div type="commentary"><p xml:id="pX45p0878b1101" rend="margin-left:1em">釋曰後廣說本覺決擇分有二初結指。</p></cb:div>
+<lb ed="X" n="0878b12"/><lb ed="R072" n="0925b18"/><cb:div type="orig"><p xml:id="pX45p0878b1201">本曰<note place="inline">至</note>得利益故。</p></cb:div>
+<lb ed="X" n="0878b13"/><lb ed="R072" n="0926a01"/><cb:div type="commentary"><p xml:id="pX45p0878b1301" rend="margin-left:1em">釋曰後開示有二初廣說隨染本覺門又二初唱
+<lb ed="X" n="0878b14"/><lb ed="R072" n="0926a02"/>本。</p></cb:div>
+<lb ed="X" n="0878b15"/><lb ed="R072" n="0926a03"/><cb:div type="orig"><p xml:id="pX45p0878b1501">論曰<note place="inline">至</note>隨釋應配。</p></cb:div>
+<lb ed="X" n="0878b16"/><lb ed="R072" n="0926a04"/><cb:div type="commentary"><p xml:id="pX45p0878b1601" rend="margin-left:1em">釋曰後作釋有二初指分開門。</p></cb:div>
+<lb ed="X" n="0878b17"/><lb ed="R072" n="0926a05"/><cb:div type="orig"><p xml:id="pX45p0878b1701">本學<note place="inline">至</note>立名而<anchor xml:id="beg_95" type="cb-app"/>已<anchor xml:id="end_95"/>。</p></cb:div>
+<lb ed="X" n="0878b18"/><lb ed="R072" n="0926a06"/><cb:div type="commentary"><p xml:id="pX45p0878b1801" rend="margin-left:1em">釋曰後依文辨相有二初顯隨染名揀淨本覺不
+<lb ed="X" n="0878b19"/><lb ed="R072" n="0926a07"/>受染熏此染淨本受無明熏能隨是淨所隨名染
+<lb ed="X" n="0878b20"/><lb ed="R072" n="0926a08"/>今從所隨以立名故。</p></cb:div>
+<lb ed="X" n="0878b21"/><lb ed="R072" n="0926a09"/><cb:div type="orig"><p xml:id="pX45p0878b2101">自此<anchor xml:id="beg_96" type="cb-app"/>已<anchor xml:id="end_96"/>下<note place="inline">至</note>不相捨離故。</p></cb:div>
+<lb ed="X" n="0878b22"/><lb ed="R072" n="0926a10"/><cb:div type="commentary"><p xml:id="pX45p0878b2201" rend="margin-left:1em">釋曰後示所生相有二初指牒略解本覺為體二
+<lb ed="X" n="0878b23"/><lb ed="R072" n="0926a11"/>相有用體用法爾不相離故。</p></cb:div>
+<lb ed="X" n="0878b24"/><lb ed="R072" n="0926a12"/><cb:div type="orig"><p xml:id="pX45p0878b2401">如是<note place="inline">至</note>其相云何。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0878c" n="0878c"/>
+<lb ed="X" n="0878c01"/><lb ed="R072" n="0926a13"/><cb:div type="commentary"><p xml:id="pX45p0878c0101" rend="margin-left:1em">釋曰後問答廣明有二初性智門又二初不守自
+<lb ed="X" n="0878c02"/><lb ed="R072" n="0926a14"/>性隨緣門義當此處承前本覺隨染文故<anchor xml:id="beg_97" type="cb-app"/>已<anchor xml:id="end_97"/>具辨
+<lb ed="X" n="0878c03"/><lb ed="R072" n="0926a15"/>訖後對治一切業障門分二初正辨對治又二初
+<lb ed="X" n="0878c04"/><lb ed="R072" n="0926a16"/>問。</p></cb:div>
+<lb ed="X" n="0878c05"/><lb ed="R072" n="0926a17"/><cb:div type="orig"><p xml:id="pX45p0878c0501">頌曰<note place="inline">至</note>名智淨相。</p></cb:div>
+<lb ed="X" n="0878c06"/><lb ed="R072" n="0926a18"/><cb:div type="commentary"><p xml:id="pX45p0878c0601" rend="margin-left:1em">釋曰後答有二初頌對論釋依法力熏習破無明
+<lb ed="X" n="0878c07"/><lb ed="R072" n="0926b01"/>等障顯法身故依如實修行滅俱合等障顯智淨
+<lb ed="X" n="0878c08"/><lb ed="R072" n="0926b02"/>故。</p></cb:div>
+<lb ed="X" n="0878c09"/><lb ed="R072" n="0926b03"/><cb:div type="orig"><p xml:id="pX45p0878c0901">斷一切障<note place="inline">至</note>不始而起。</p></cb:div>
+<lb ed="X" n="0878c10"/><lb ed="R072" n="0926b04"/><cb:div type="commentary"><p xml:id="pX45p0878c1001" rend="margin-left:1em">釋曰後解本拂疑有二初釋本論有四一能治二
+<lb ed="X" n="0878c11"/><lb ed="R072" n="0926b05"/>力法力熏習即當一法界心就偏增說熏本無明
+<lb ed="X" n="0878c12"/><lb ed="R072" n="0926b06"/>如實修行即當十種真如十種本覺熏末無明初
+<lb ed="X" n="0878c13"/><lb ed="R072" n="0926b07"/>力在果後力屬因法爾當熏非始起故。</p></cb:div>
+<lb ed="X" n="0878c14"/><lb ed="R072" n="0926b08"/><cb:div type="orig"><p xml:id="pX45p0878c1401">如是<note place="inline">至</note>并相續相。</p></cb:div>
+<lb ed="X" n="0878c15"/><lb ed="R072" n="0926b09"/><cb:div type="commentary"><p xml:id="pX45p0878c1501" rend="margin-left:1em">釋曰二所除二障一法界心力對治智礙獨力業
+<lb ed="X" n="0878c16"/><lb ed="R072" n="0926b10"/>相更合對治俱合細分如實修行力對治生相俱
+<lb ed="X" n="0878c17"/><lb ed="R072" n="0926b11"/>合麤分三細中後二六麤中前二。</p></cb:div>
+<lb ed="X" n="0878c18"/><lb ed="R072" n="0926b12"/><cb:div type="orig"><p xml:id="pX45p0878c1801">破根本<note place="inline">至</note>淳淨明白。</p></cb:div>
+<lb ed="X" n="0878c19"/><lb ed="R072" n="0926b13"/><cb:div type="commentary"><p xml:id="pX45p0878c1901" rend="margin-left:1em">釋曰三顯出二德破無明等顯法身故滅俱合等
+<lb ed="X" n="0878c20"/><lb ed="R072" n="0926b14"/>顯智淨故。</p></cb:div>
+<lb ed="X" n="0878c21"/><lb ed="R072" n="0926b15"/><cb:div type="orig"><p xml:id="pX45p0878c2101">如本<note place="inline">至</note>智淳淨故。</p></cb:div>
+<lb ed="X" n="0878c22"/><lb ed="R072" n="0926b16"/><cb:div type="commentary"><p xml:id="pX45p0878c2201" rend="margin-left:1em">釋曰四合歸本論。</p></cb:div>
+<lb ed="X" n="0878c23"/><lb ed="R072" n="0926b17"/><cb:div type="orig"><p xml:id="pX45p0878c2301">何故<note place="inline">至</note>分明顯故。</p></cb:div>
+<lb ed="X" n="0878c24"/><lb ed="R072" n="0926b18"/><cb:div type="commentary"><p xml:id="pX45p0878c2401" rend="margin-left:1em">釋曰後遣殘疑有五一徵釋地前三賢治異相十
+<pb ed="X" xml:id="X45.0772.0879a" n="0879a"/>
+<lb ed="X" n="0879a01"/><lb ed="R072" n="0927a01"/>信治滅相此智淨中何略不示以說佛地治惑顯
+<lb ed="X" n="0879a02"/><lb ed="R072" n="0927a02"/>德故知信賢合具理明耳。</p></cb:div>
+<lb ed="X" n="0879a03"/><lb ed="R072" n="0927a03"/><cb:div type="orig"><p xml:id="pX45p0879a0301">何故<note place="inline">至</note>悟次第故。</p></cb:div>
+<lb ed="X" n="0879a04"/><lb ed="R072" n="0927a04"/><cb:div type="commentary"><p xml:id="pX45p0879a0401" rend="margin-left:1em">釋曰二徵釋治障問本覺因何先斷無明後斷滅
+<lb ed="X" n="0879a05"/><lb ed="R072" n="0927a05"/>相答簡異始覺先斷滅相後治無明下上轉殊本
+<lb ed="X" n="0879a06"/><lb ed="R072" n="0927a06"/>始斷異本覺治惑實在同時望惑細麤分前後故
+<lb ed="X" n="0879a07"/><lb ed="R072" n="0927a07"/>及對始覺顯逆順故。</p></cb:div>
+<lb ed="X" n="0879a08"/><lb ed="R072" n="0927a08"/><cb:div type="orig"><p xml:id="pX45p0879a0801">何故<note place="inline">至</note>以法爾故。</p></cb:div>
+<lb ed="X" n="0879a09"/><lb ed="R072" n="0927a09"/><cb:div type="commentary"><p xml:id="pX45p0879a0901" rend="margin-left:1em">釋曰三徵釋上下始覺本覺向聖向凡如火之勢
+<lb ed="X" n="0879a10"/><lb ed="R072" n="0927a10"/>猶水之濕以法爾故本覺治則自內之外從本至
+<lb ed="X" n="0879a11"/><lb ed="R072" n="0927a11"/>末始覺治則自外之內從末至本以法爾故。</p></cb:div>
+<lb ed="X" n="0879a12"/><lb ed="R072" n="0927a12"/><cb:div type="orig"><p xml:id="pX45p0879a1201">如是<note place="inline">至</note>即無前後。</p></cb:div>
+<lb ed="X" n="0879a13"/><lb ed="R072" n="0927a13"/><cb:div type="commentary"><p xml:id="pX45p0879a1301" rend="margin-left:1em">釋曰四徵釋前後尅性則別無體相論時乃寧有
+<lb ed="X" n="0879a14"/><lb ed="R072" n="0927a14"/>後前蓋不離於一心故難分於二際。</p></cb:div>
+<lb ed="X" n="0879a15"/><lb ed="R072" n="0927a15"/><cb:div type="orig"><p xml:id="pX45p0879a1501">如是<note place="inline">至</note>如何說耶。</p></cb:div>
+<lb ed="X" n="0879a16"/><lb ed="R072" n="0927a16"/><cb:div type="commentary"><p xml:id="pX45p0879a1601" rend="margin-left:1em">釋曰五引經總證有二初問答徵起。</p></cb:div>
+<lb ed="X" n="0879a17"/><lb ed="R072" n="0927a17"/><cb:div type="orig"><p xml:id="pX45p0879a1701">謂彼證說<note place="inline">至</note>答問<anchor xml:id="beg_98" type="cb-app"/>已<anchor xml:id="end_98"/>。</p></cb:div>
+<lb ed="X" n="0879a18"/><lb ed="R072" n="0927a18"/><cb:div type="commentary"><p xml:id="pX45p0879a1801" rend="margin-left:1em">釋曰後正引經文有二初顯廣問答菩薩一徵如
+<lb ed="X" n="0879a19"/><lb ed="R072" n="0927b01"/>來十答問有十千答還十萬。</p></cb:div>
+<lb ed="X" n="0879a20"/><lb ed="R072" n="0927b02"/><cb:div type="orig"><p xml:id="pX45p0879a2001">即告<note place="inline">至</note>問於如來。</p></cb:div>
+<lb ed="X" n="0879a21"/><lb ed="R072" n="0927b03"/><cb:div type="commentary"><p xml:id="pX45p0879a2101" rend="margin-left:1em">釋曰後方宣二事有四一佛勑令問仁者漏徵佛
+<lb ed="X" n="0879a22"/><lb ed="R072" n="0927b04"/>慈警問。</p></cb:div>
+<lb ed="X" n="0879a23"/><lb ed="R072" n="0927b05"/><cb:div type="orig"><p xml:id="pX45p0879a2301">爾時<note place="inline">至</note>隨宜開示。</p></cb:div>
+<lb ed="X" n="0879a24"/><lb ed="R072" n="0927b06"/><cb:div type="commentary"><p xml:id="pX45p0879a2401" rend="margin-left:1em">釋曰二承威啟請佛雖<anchor xml:id="beg_99" type="cb-app"/>已<anchor xml:id="end_99"/>說眾盡生疑。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0879b" n="0879b"/>
+<lb ed="X" n="0879b01"/><lb ed="R072" n="0927b07"/><cb:div type="orig"><p xml:id="pX45p0879b0101">爾時<note place="inline">至</note>本覺般若。</p></cb:div>
+<lb ed="X" n="0879b02"/><lb ed="R072" n="0927b08"/><cb:div type="commentary"><p xml:id="pX45p0879b0201" rend="margin-left:1em">釋曰三誡聽方說開始本覺治上下惑決去疑雲
+<lb ed="X" n="0879b03"/><lb ed="R072" n="0927b09"/>廓開慧日以其本覺從離淨藏發究竟智斷滅相
+<lb ed="X" n="0879b04"/><lb ed="R072" n="0927b10"/>品出法界心入無明海問此既斷染復何成染答
+<lb ed="X" n="0879b05"/><lb ed="R072" n="0927b11"/>以此本覺有多功用且說二用一斷惑用即智淨
+<lb ed="X" n="0879b06"/><lb ed="R072" n="0927b12"/>相恒斷染故二成惑用通用一分常成染故本覺
+<lb ed="X" n="0879b07"/><lb ed="R072" n="0927b13"/>雖一二用無違是故常斷不礙常成耳問何故斷
+<lb ed="X" n="0879b08"/><lb ed="R072" n="0927b14"/>滅相言發究竟智答如師子王上擒香馬下撮狐
+<lb ed="X" n="0879b09"/><lb ed="R072" n="0927b15"/>狸盡自力能不輕為故法合可知又本覺智下轉
+<lb ed="X" n="0879b10"/><lb ed="R072" n="0927b16"/>治惑至滅相位發究竟智從所斷染究竟盡處名
+<lb ed="X" n="0879b11"/><lb ed="R072" n="0927b17"/>究竟智。</p></cb:div>
+<lb ed="X" n="0879b12"/><lb ed="R072" n="0927b18"/><cb:div type="orig"><p xml:id="pX45p0879b1201">於是<note place="inline">至</note>亦是實有故。</p></cb:div>
+<lb ed="X" n="0879b13"/><lb ed="R072" n="0928a01"/><cb:div type="commentary"><p xml:id="pX45p0879b1301" rend="margin-left:1em">釋曰四眾聞了悟總持大眾心開意解覺一相而
+<lb ed="X" n="0879b14"/><lb ed="R072" n="0928a02"/>無相知一體而無體元無言相能遣亦絕唯見法
+<lb ed="X" n="0879b15"/><lb ed="R072" n="0928a03"/>性離虗妄故離遷流故離猶預故離假幻故方知
+<lb ed="X" n="0879b16"/><lb ed="R072" n="0928a04"/>前頌兩處我字非世流布乃是本始二覺真我尅
+<lb ed="X" n="0879b17"/><lb ed="R072" n="0928a05"/>體無二或契一心皆是同時於何疑哉。</p></cb:div>
+<lb ed="X" n="0879b18"/><lb ed="R072" n="0928a06"/><cb:div type="orig"><p xml:id="pX45p0879b1801">自此<note place="inline">至</note>破滅二義。</p></cb:div>
+<lb ed="X" n="0879b19"/><lb ed="R072" n="0928a07"/><cb:div type="commentary"><p xml:id="pX45p0879b1901" rend="margin-left:1em">釋曰後別釋散說有二初標解前破滅總問意云
+<lb ed="X" n="0879b20"/><lb ed="R072" n="0928a08"/>前說諸相有何過失而須二力對治破滅總答意
+<lb ed="X" n="0879b21"/><lb ed="R072" n="0928a09"/>云以諸心識無明發起對境念著覆法身故隱智
+<lb ed="X" n="0879b22"/><lb ed="R072" n="0928a10"/>淨故由彼全是不覺氣分故須二力破滅二礙所
+<lb ed="X" n="0879b23"/><lb ed="R072" n="0928a11"/>謂<anchor xml:id="beg_9a" type="cb-app"/>已<anchor xml:id="end_9a"/>下總明八識或法執念惑著<anchor xml:id="beg_9b" type="cb-app"/>已<anchor xml:id="end_9b"/>下別明二執
+<lb ed="X" n="0879b24"/><lb ed="R072" n="0928a12"/>或人執著如是等法皆是無明之氣分故過失尤
+<pb ed="X" xml:id="X45.0772.0879c" n="0879c"/>
+<lb ed="X" n="0879c01"/><lb ed="R072" n="0928a13"/>重故須除斷。</p></cb:div>
+<lb ed="X" n="0879c02"/><lb ed="R072" n="0928a14"/><cb:div type="orig"><p xml:id="pX45p0879c0201">自此<note place="inline">至</note>何所疑。</p></cb:div>
+<lb ed="X" n="0879c03"/><lb ed="R072" n="0928a15"/><cb:div type="commentary"><p xml:id="pX45p0879c0301" rend="margin-left:1em">釋曰後徵釋斷不斷有二初伸難又二初總徵反
+<lb ed="X" n="0879c04"/><lb ed="R072" n="0928a16"/>詰汎問無明為定可斷為不可斷反詰之云斷與
+<lb ed="X" n="0879c05"/><lb ed="R072" n="0928a17"/>不斷二種俱通有何疑慮。</p></cb:div>
+<lb ed="X" n="0879c06"/><lb ed="R072" n="0928a18"/><cb:div type="orig"><p xml:id="pX45p0879c0601">若可斷者<note place="inline">至</note>過失亦大。</p></cb:div>
+<lb ed="X" n="0879c07"/><lb ed="R072" n="0928b01"/><cb:div type="commentary"><p xml:id="pX45p0879c0701" rend="margin-left:1em">釋曰後別難俱違若許無明可斷本覺亦應合斷
+<lb ed="X" n="0879c08"/><lb ed="R072" n="0928b02"/>以真妄和合俱行轉故猶如一人或眠或悟俱行
+<lb ed="X" n="0879c09"/><lb ed="R072" n="0928b03"/>俱轉若斬眠人隨傷悟士若存悟士不無眠人以
+<lb ed="X" n="0879c10"/><lb ed="R072" n="0928b04"/>身一故若執眠人全異悟士眠人若亡悟士仍存
+<lb ed="X" n="0879c11"/><lb ed="R072" n="0928b05"/>違世間故過失大故若許無明不可斷者本覺淨
+<lb ed="X" n="0879c12"/><lb ed="R072" n="0928b06"/>心常被妄覆環巡三界輪轉四生出離無時過失
+<lb ed="X" n="0879c13"/><lb ed="R072" n="0928b07"/>亦大。</p></cb:div>
+<lb ed="X" n="0879c14"/><lb ed="R072" n="0928b08"/><cb:div type="orig"><p xml:id="pX45p0879c1401">如是<note place="inline">至</note>亦可斷除。</p></cb:div>
+<lb ed="X" n="0879c15"/><lb ed="R072" n="0928b09"/><cb:div type="commentary"><p xml:id="pX45p0879c1501" rend="margin-left:1em">釋曰後通答有二初附本解有三初法說又三初
+<lb ed="X" n="0879c16"/><lb ed="R072" n="0928b10"/>總解釋同體非斷異體可斷眠悟一身義非均等
+<lb ed="X" n="0879c17"/><lb ed="R072" n="0928b11"/>不可舉彼以難於此。</p></cb:div>
+<lb ed="X" n="0879c18"/><lb ed="R072" n="0928b12"/><cb:div type="orig"><p xml:id="pX45p0879c1801">諸法<note place="inline">至</note>知此名世智。</p></cb:div>
+<lb ed="X" n="0879c19"/><lb ed="R072" n="0928b13"/><cb:div type="commentary"><p xml:id="pX45p0879c1901" rend="margin-left:1em">釋曰次引經證有二初證不斷兩頌同相諸染是
+<lb ed="X" n="0879c20"/><lb ed="R072" n="0928b14"/>道體妄即真名出世智又後二句指前六句三毒
+<lb ed="X" n="0879c21"/><lb ed="R072" n="0928b15"/>等中知無佛道故名世智。</p></cb:div>
+<lb ed="X" n="0879c22"/><lb ed="R072" n="0928b16"/><cb:div type="orig"><p xml:id="pX45p0879c2201">本智<note place="inline">至</note>法身徐出顯。</p></cb:div>
+<lb ed="X" n="0879c23"/><lb ed="R072" n="0928b17"/><cb:div type="commentary"><p xml:id="pX45p0879c2301" rend="margin-left:1em">釋曰後證可斷漸約用說頓據體論就因就果分
+<lb ed="X" n="0879c24"/><lb ed="R072" n="0928b18"/>漸分頓。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0880a" n="0880a"/>
+<lb ed="X" n="0880a01"/><lb ed="R072" n="0929a01"/><cb:div type="orig"><p xml:id="pX45p0880a0101">如本<note place="inline">至</note>非不可壞故。</p></cb:div>
+<lb ed="X" n="0880a02"/><lb ed="R072" n="0929a02"/><cb:div type="commentary"><p xml:id="pX45p0880a0201" rend="margin-left:1em">釋曰後合本論。</p></cb:div>
+<lb ed="X" n="0880a03"/><lb ed="R072" n="0929a03"/><cb:div type="orig"><p xml:id="pX45p0880a0301">自此<note place="inline">至</note>作種種波故。</p></cb:div>
+<lb ed="X" n="0880a04"/><lb ed="R072" n="0929a04"/><cb:div type="commentary"><p xml:id="pX45p0880a0401" rend="margin-left:1em">釋曰次喻說有二初喻迷真妄立大海喻藏識者
+<lb ed="X" n="0880a05"/><lb ed="R072" n="0929a05"/>大海具水風故藏識攝覺迷故水喻淨心風況智
+<lb ed="X" n="0880a06"/><lb ed="R072" n="0929a06"/>礙波合諸識水風相依喻真妄相資水非動性喻
+<lb ed="X" n="0880a07"/><lb ed="R072" n="0929a07"/>本覺離縛但以隨緣作諸識故。</p></cb:div>
+<lb ed="X" n="0880a08"/><lb ed="R072" n="0929a08"/><cb:div type="orig"><p xml:id="pX45p0880a0801">若風止滅<note place="inline">至</note>終不壞滅故。</p></cb:div>
+<lb ed="X" n="0880a09"/><lb ed="R072" n="0929a09"/><cb:div type="commentary"><p xml:id="pX45p0880a0901" rend="margin-left:1em">釋曰後喻妄滅真存風止波停喻無明先滅諸識
+<lb ed="X" n="0880a10"/><lb ed="R072" n="0929a10"/>後亡濕性不壞喻妄息真存非斷滅故。</p></cb:div>
+<lb ed="X" n="0880a11"/><lb ed="R072" n="0929a11"/><cb:div type="orig"><p xml:id="pX45p0880a1101">自此<note place="inline">至</note>應配屬焉。</p></cb:div>
+<lb ed="X" n="0880a12"/><lb ed="R072" n="0929a12"/><cb:div type="commentary"><p xml:id="pX45p0880a1201" rend="margin-left:1em">釋曰後合說<anchor xml:id="beg_9c" type="cb-app"/>已<anchor xml:id="end_9c"/>見上文不繁別配。</p></cb:div>
+<lb ed="X" n="0880a13"/><lb ed="R072" n="0929a13"/><cb:div type="orig"><p xml:id="pX45p0880a1301">大海風水<note place="inline">至</note>尾末而出。</p></cb:div>
+<lb ed="X" n="0880a14"/><lb ed="R072" n="0929a14"/><cb:div type="commentary"><p xml:id="pX45p0880a1401" rend="margin-left:1em">釋曰後轉徵釋有四一喻說有三初出處水勝從
+<lb ed="X" n="0880a15"/><lb ed="R072" n="0929a15"/>頂而生風劣自尾而出。</p></cb:div>
+<lb ed="X" n="0880a16"/><lb ed="R072" n="0929a16"/><cb:div type="orig"><p xml:id="pX45p0880a1601">何故<note place="inline">至</note>由法爾故。</p></cb:div>
+<lb ed="X" n="0880a17"/><lb ed="R072" n="0929a17"/><cb:div type="commentary"><p xml:id="pX45p0880a1701" rend="margin-left:1em">釋曰次徵釋。</p></cb:div>
+<lb ed="X" n="0880a18"/><lb ed="R072" n="0929a18"/><cb:div type="orig"><p xml:id="pX45p0880a1801">此義<note place="inline">至</note>由法爾故。</p></cb:div>
+<lb ed="X" n="0880a19"/><lb ed="R072" n="0929b01"/><cb:div type="commentary"><p xml:id="pX45p0880a1901" rend="margin-left:1em">釋曰後重解初句總徵二事餘論別答二事先釋
+<lb ed="X" n="0880a20"/><lb ed="R072" n="0929b02"/>同類<note place="inline">唯取和合互有不取淨水外風</note>後解法爾於義分明在文易
+<lb ed="X" n="0880a21"/><lb ed="R072" n="0929b03"/>見。</p></cb:div>
+<lb ed="X" n="0880a22"/><lb ed="R072" n="0929b04"/><cb:div type="orig"><p xml:id="pX45p0880a2201">無明<note place="inline">至</note>勝妙形相。</p></cb:div>
+<lb ed="X" n="0880a23"/><lb ed="R072" n="0929b05"/><cb:div type="commentary"><p xml:id="pX45p0880a2301" rend="margin-left:1em">釋曰二法合有二初出處合異相以尾風況妄舉
+<lb ed="X" n="0880a24"/><lb ed="R072" n="0929b06"/>頭水顯真耳。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0880b" n="0880b"/>
+<lb ed="X" n="0880b01"/><lb ed="R072" n="0929b07"/><cb:div type="orig"><p xml:id="pX45p0880b0101">彼水大中<note place="inline">至</note>有本覺佛性。</p></cb:div>
+<lb ed="X" n="0880b02"/><lb ed="R072" n="0929b08"/><cb:div type="commentary"><p xml:id="pX45p0880b0201" rend="margin-left:1em">釋曰後互有合同類以風水更通況真妄交徹。</p></cb:div>
+<lb ed="X" n="0880b03"/><lb ed="R072" n="0929b09"/><cb:div type="orig"><p xml:id="pX45p0880b0301">此論<note place="inline">至</note>隨釋應觀。</p></cb:div>
+<lb ed="X" n="0880b04"/><lb ed="R072" n="0929b10"/><cb:div type="commentary"><p xml:id="pX45p0880b0401" rend="margin-left:1em">釋曰三指勸以前本論說非可壞據同相門非不
+<lb ed="X" n="0880b05"/><lb ed="R072" n="0929b11"/>可壞據異相門若準顯文先同後異如推本意先
+<lb ed="X" n="0880b06"/><lb ed="R072" n="0929b12"/>異後同宗欲顯性會異歸同故令學者於此應觀。</p></cb:div>
+<lb ed="X" n="0880b07"/><lb ed="R072" n="0929b13"/><cb:div type="orig"><p xml:id="pX45p0880b0701">諸佛<note place="inline">至</note>所能知故。</p></cb:div>
+<lb ed="X" n="0880b08"/><lb ed="R072" n="0929b14"/><cb:div type="commentary"><p xml:id="pX45p0880b0801" rend="margin-left:1em">釋曰四引證謂真妄交徹唯聖賢能知。</p></cb:div>
+<lb ed="X" n="0880b09"/><lb ed="R072" n="0929b15"/><cb:div type="orig"><p xml:id="pX45p0880b0901"><anchor xml:id="beg_9d" type="cb-app"/>已<anchor xml:id="end_9d"/>說<note place="inline">至</note>無礙門。</p></cb:div>
+<lb ed="X" n="0880b10"/><lb ed="R072" n="0929b16"/><cb:div type="commentary"><p xml:id="pX45p0880b1001" rend="margin-left:1em">釋曰後業用門有二初結指。</p></cb:div>
+<lb ed="X" n="0880b11"/><lb ed="R072" n="0929b17"/><cb:div type="orig"><p xml:id="pX45p0880b1101">謂此門中<note place="inline">至</note>無礙自在。</p></cb:div>
+<lb ed="X" n="0880b12"/><lb ed="R072" n="0929b18"/><cb:div type="commentary"><p xml:id="pX45p0880b1201" rend="margin-left:1em">釋曰後開示有二初解義門又二初隨順機根契
+<lb ed="X" n="0880b13"/><lb ed="R072" n="0930a01"/>當門性智常現六根境界如次能為六種如來窮
+<lb ed="X" n="0880b14"/><lb ed="R072" n="0930a02"/>時周處利物無私。</p></cb:div>
+<lb ed="X" n="0880b15"/><lb ed="R072" n="0930a03"/><cb:div type="orig"><p xml:id="pX45p0880b1501">不動一念<note place="inline">至</note>作佛事故。</p></cb:div>
+<lb ed="X" n="0880b16"/><lb ed="R072" n="0930a04"/><cb:div type="commentary"><p xml:id="pX45p0880b1601" rend="margin-left:1em">釋曰後不動本性常寂門即本論中自然<anchor xml:id="beg_9e" type="cb-app"/>已<anchor xml:id="end_9e"/>下當
+<lb ed="X" n="0880b17"/><lb ed="R072" n="0930a05"/>常寂門不動而徧不分而周<note place="inline">不動不分顯性常寂</note>雖應用繁
+<lb ed="X" n="0880b18"/><lb ed="R072" n="0930a06"/>興然本性常寂。</p></cb:div>
+<lb ed="X" n="0880b19"/><lb ed="R072" n="0930a07"/><cb:div type="orig"><p xml:id="pX45p0880b1901">如本<note place="inline">至</note>得利益故故。</p></cb:div>
+<lb ed="X" n="0880b20"/><lb ed="R072" n="0930a08"/><cb:div type="commentary"><p xml:id="pX45p0880b2001" rend="margin-left:1em">釋曰後合本論。</p></cb:div>
+<lb ed="X" n="0880b21"/><lb ed="R072" n="0930a09"/><cb:div type="orig"><p xml:id="pX45p0880b2101"><anchor xml:id="beg_9f" type="cb-app"/>已<anchor xml:id="end_9f"/>說<note place="inline">至</note>性淨本覺門。</p></cb:div>
+<lb ed="X" n="0880b22"/><lb ed="R072" n="0930a10"/><cb:div type="commentary"><p xml:id="pX45p0880b2201" rend="margin-left:1em">釋曰後廣說性淨本覺門有二初結指。</p></cb:div>
+<lb ed="X" n="0880b23"/><lb ed="R072" n="0930a11"/><cb:div type="orig"><p xml:id="pX45p0880b2301">本曰<note place="inline">至</note>隨念示現故。</p></cb:div>
+<lb ed="X" n="0880b24"/><lb ed="R072" n="0930a12"/><cb:div type="commentary"><p xml:id="pX45p0880b2401" rend="margin-left:1em">釋曰後解釋有二初唱本。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0880c" n="0880c"/>
+<lb ed="X" n="0880c01"/><lb ed="R072" n="0930a13"/><cb:div type="orig"><p xml:id="pX45p0880c0101">論曰<note place="inline">至</note>如淨鏡故。</p></cb:div>
+<lb ed="X" n="0880c02"/><lb ed="R072" n="0930a14"/><cb:div type="commentary"><p xml:id="pX45p0880c0201" rend="margin-left:1em">釋曰後作釋有二初別解文義有二初解總標者
+<lb ed="X" n="0880c03"/><lb ed="R072" n="0930a15"/>字目人即本覺人是真我故者字若牒將欲解釋
+<lb ed="X" n="0880c04"/><lb ed="R072" n="0930a16"/>先牒定故謂覺體相上具四種大義一者等空二
+<lb ed="X" n="0880c05"/><lb ed="R072" n="0930a17"/>者同鏡自下偏立鏡名舉一影取空義。</p></cb:div>
+<lb ed="X" n="0880c06"/><lb ed="R072" n="0930a18"/><cb:div type="orig"><p xml:id="pX45p0880c0601">云何<note place="inline">至</note>其相云何。</p></cb:div>
+<lb ed="X" n="0880c07"/><lb ed="R072" n="0930b01"/><cb:div type="commentary"><p xml:id="pX45p0880c0701" rend="margin-left:1em">釋曰後別解釋有四一如實空鏡有二初總釋名
+<lb ed="X" n="0880c08"/><lb ed="R072" n="0930b02"/>義又二初問問其如實空同鏡等空二種之義行
+<lb ed="X" n="0880c09"/><lb ed="R072" n="0930b03"/>相如何。</p></cb:div>
+<lb ed="X" n="0880c10"/><lb ed="R072" n="0930b04"/><cb:div type="orig"><p xml:id="pX45p0880c1001">頌曰<note place="inline">至</note>舉一示一故。</p></cb:div>
+<lb ed="X" n="0880c11"/><lb ed="R072" n="0930b05"/><cb:div type="commentary"><p xml:id="pX45p0880c1101" rend="margin-left:1em">釋曰後答有二初結頌初一句指體次四句釋名
+<lb ed="X" n="0880c12"/><lb ed="R072" n="0930b06"/>隨用一句各解一字後一句彰顯亦如亦實如實
+<lb ed="X" n="0880c13"/><lb ed="R072" n="0930b07"/>即空望喻如鏡皆持業釋。</p></cb:div>
+<lb ed="X" n="0880c14"/><lb ed="R072" n="0930b08"/><cb:div type="orig"><p xml:id="pX45p0880c1401">論曰<note place="inline">至</note>故名為空。</p></cb:div>
+<lb ed="X" n="0880c15"/><lb ed="R072" n="0930b09"/><cb:div type="commentary"><p xml:id="pX45p0880c1501" rend="margin-left:1em">釋曰後釋文有二初解前五句有三初釋如實空
+<lb ed="X" n="0880c16"/><lb ed="R072" n="0930b10"/>本覺性中離八種慮知之識名如離萬差虗妄之
+<lb ed="X" n="0880c17"/><lb ed="R072" n="0930b11"/>境名實示唯一味真實相故所云空者即遠離義。</p></cb:div>
+<lb ed="X" n="0880c18"/><lb ed="R072" n="0930b12"/><cb:div type="orig"><p xml:id="pX45p0880c1801">鏡謂喻名<note place="inline">至</note>皆遠離故。</p></cb:div>
+<lb ed="X" n="0880c19"/><lb ed="R072" n="0930b13"/><cb:div type="commentary"><p xml:id="pX45p0880c1901" rend="margin-left:1em">釋曰次辨喻法合摩奢趺娑此云種愛安珠一處
+<lb ed="X" n="0880c20"/><lb ed="R072" n="0930b14"/>置物四邊謂積青白等石甘苦等食金玉等具同
+<lb ed="X" n="0880c21"/><lb ed="R072" n="0930b15"/>類珠鏡而其種愛珠中餘物不現唯能現彼同類
+<lb ed="X" n="0880c22"/><lb ed="R072" n="0930b16"/>珠故法合亦然離過患故問既諸眾生唯一本覺
+<lb ed="X" n="0880c23"/><lb ed="R072" n="0930b17"/>何容更現同類覺耶答實唯一覺隨身說異非許
+<lb ed="X" n="0880c24"/><lb ed="R072" n="0930b18"/>覺體有多性故。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0881a" n="0881a"/>
+<lb ed="X" n="0881a01"/><lb ed="R072" n="0931a01"/><cb:div type="orig"><p xml:id="pX45p0881a0101">如來<note place="inline">至</note>無法可現故。</p></cb:div>
+<lb ed="X" n="0881a02"/><lb ed="R072" n="0931a02"/><cb:div type="commentary"><p xml:id="pX45p0881a0201" rend="margin-left:1em">釋曰後合顯本論離心名如離境名實無法可現
+<lb ed="X" n="0881a03"/><lb ed="R072" n="0931a03"/>即解空字是遠離義。</p></cb:div>
+<lb ed="X" n="0881a04"/><lb ed="R072" n="0931a04"/><cb:div type="orig"><p xml:id="pX45p0881a0401">何故<note place="inline">至</note>兼示一義故。</p></cb:div>
+<lb ed="X" n="0881a05"/><lb ed="R072" n="0931a05"/><cb:div type="commentary"><p xml:id="pX45p0881a0501" rend="margin-left:1em">釋曰後明後一句有二初徵釋略空意。</p></cb:div>
+<lb ed="X" n="0881a06"/><lb ed="R072" n="0931a06"/><cb:div type="orig"><p xml:id="pX45p0881a0601">若如是者<note place="inline">至</note>亦復如是故。</p></cb:div>
+<lb ed="X" n="0881a07"/><lb ed="R072" n="0931a07"/><cb:div type="commentary"><p xml:id="pX45p0881a0701" rend="margin-left:1em">釋曰後徵釋等空義喻中空性煙雲塵霧四障不
+<lb ed="X" n="0881a08"/><lb ed="R072" n="0931a08"/>覆去來現在三世不攝法中覺體生住異滅四相
+<lb ed="X" n="0881a09"/><lb ed="R072" n="0931a09"/>不覆<anchor xml:id="beg_a0" type="cb-app"/>已<anchor xml:id="end_a0"/>當今現三世不收。</p></cb:div>
+<lb ed="X" n="0881a10"/><lb ed="R072" n="0931a10"/><cb:div type="orig"><p xml:id="pX45p0881a1001">非覺照義<note place="inline">至</note>無照達義故。</p></cb:div>
+<lb ed="X" n="0881a11"/><lb ed="R072" n="0931a11"/><cb:div type="commentary"><p xml:id="pX45p0881a1101" rend="margin-left:1em">釋曰後別解離緣石等鄙穢無光潤故珠鏡不現
+<lb ed="X" n="0881a12"/><lb ed="R072" n="0931a12"/>染法闇鈍無照達故心鏡不現。</p></cb:div>
+<lb ed="X" n="0881a13"/><lb ed="R072" n="0931a13"/><cb:div type="orig"><p xml:id="pX45p0881a1301">云何<note place="inline">至</note>其相云何。</p></cb:div>
+<lb ed="X" n="0881a14"/><lb ed="R072" n="0931a14"/><cb:div type="commentary"><p xml:id="pX45p0881a1401" rend="margin-left:1em">釋曰二因熏習鏡有二初問其因熏習同鏡等空
+<lb ed="X" n="0881a15"/><lb ed="R072" n="0931a15"/>義相如何。</p></cb:div>
+<lb ed="X" n="0881a16"/><lb ed="R072" n="0931a16"/><cb:div type="orig"><p xml:id="pX45p0881a1601">頌曰<note place="inline">至</note>空容受徧一。</p></cb:div>
+<lb ed="X" n="0881a17"/><lb ed="R072" n="0931a17"/><cb:div type="commentary"><p xml:id="pX45p0881a1701" rend="margin-left:1em">釋曰後答有二初結頌熏三世間為一覺體嚴大
+<lb ed="X" n="0881a18"/><lb ed="R072" n="0931a18"/>法身名因熏習第七句同鏡第八句等空因即熏
+<lb ed="X" n="0881a19"/><lb ed="R072" n="0931b01"/>習因熏習如鏡並持業釋。</p></cb:div>
+<lb ed="X" n="0881a20"/><lb ed="R072" n="0931b02"/><cb:div type="orig"><p xml:id="pX45p0881a2001">論曰<note place="inline">至</note>因熏習鏡。</p></cb:div>
+<lb ed="X" n="0881a21"/><lb ed="R072" n="0931b03"/><cb:div type="commentary"><p xml:id="pX45p0881a2101" rend="margin-left:1em">釋曰後釋文有三初問答名義有四一顯名義有
+<lb ed="X" n="0881a22"/><lb ed="R072" n="0931b04"/>二初依文釋熏彼三種為此一覺又熏嚴果故立
+<lb ed="X" n="0881a23"/><lb ed="R072" n="0931b05"/>名因。</p></cb:div>
+<lb ed="X" n="0881a24"/><lb ed="R072" n="0931b06"/><cb:div type="orig"><p xml:id="pX45p0881a2401">云何<note place="inline">至</note>是名為三。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0881b" n="0881b"/>
+<lb ed="X" n="0881b01"/><lb ed="R072" n="0931b07"/><cb:div type="commentary"><p xml:id="pX45p0881b0101" rend="margin-left:1em">釋曰後逐難解其智正覺名世間者有三義解一
+<lb ed="X" n="0881b02"/><lb ed="R072" n="0931b08"/>云世者可破壞義從所統化器界生界得世間名
+<lb ed="X" n="0881b03"/><lb ed="R072" n="0931b09"/>二云世者即隱覆義此中有二一者正覺自體隱
+<lb ed="X" n="0881b04"/><lb ed="R072" n="0931b10"/>在有為二者正覺自性能覆有為此上二義皆智
+<lb ed="X" n="0881b05"/><lb ed="R072" n="0931b11"/>正覺即世間故三云世者即生滅義以智正覺居
+<lb ed="X" n="0881b06"/><lb ed="R072" n="0931b12"/>生滅門具有顯生隱滅義故亦智正覺即世間故。</p></cb:div>
+<lb ed="X" n="0881b07"/><lb ed="R072" n="0931b13"/><cb:div type="orig"><p xml:id="pX45p0881b0701">此中<note place="inline">至</note>熏令平等故。</p></cb:div>
+<lb ed="X" n="0881b08"/><lb ed="R072" n="0931b14"/><cb:div type="commentary"><p xml:id="pX45p0881b0801" rend="margin-left:1em">釋曰二辨鏡義輪多梨華者此云明耀珠若對此
+<lb ed="X" n="0881b09"/><lb ed="R072" n="0931b15"/>鏡周置諸物由熏力故悉皆明淨其猶鳥翥寶山
+<lb ed="X" n="0881b10"/><lb ed="R072" n="0931b16"/>俱同一色又此所熏一切淨物華中現前既無遺
+<lb ed="X" n="0881b11"/><lb ed="R072" n="0931b17"/>餘其能熏珠於眾物中還復現前亦無有餘如鏡
+<lb ed="X" n="0881b12"/><lb ed="R072" n="0931b18"/>交光遞相傳耀因熏本覺亦復如是熏三世間皆
+<lb ed="X" n="0881b13"/><lb ed="R072" n="0932a01"/>令平等嚴一法身無不清淨。</p></cb:div>
+<lb ed="X" n="0881b14"/><lb ed="R072" n="0932a02"/><cb:div type="orig"><p xml:id="pX45p0881b1401">復次<note place="inline">至</note>大虗空故。</p></cb:div>
+<lb ed="X" n="0881b15"/><lb ed="R072" n="0932a03"/><cb:div type="commentary"><p xml:id="pX45p0881b1501" rend="margin-left:1em">釋曰三解空義一云空容諸色無礙猶覺熏彼諸
+<lb ed="X" n="0881b16"/><lb ed="R072" n="0932a04"/>法故二云空徧諸色同一況熏同為一覺故。</p></cb:div>
+<lb ed="X" n="0881b17"/><lb ed="R072" n="0932a05"/><cb:div type="orig"><p xml:id="pX45p0881b1701">如來<note place="inline">至</note>悉於中現故。</p></cb:div>
+<lb ed="X" n="0881b18"/><lb ed="R072" n="0932a06"/><cb:div type="commentary"><p xml:id="pX45p0881b1801" rend="margin-left:1em">釋曰四合本論。</p></cb:div>
+<lb ed="X" n="0881b19"/><lb ed="R072" n="0932a07"/><cb:div type="orig"><p xml:id="pX45p0881b1901">如是<note place="inline">至</note>常住一心。</p></cb:div>
+<lb ed="X" n="0881b20"/><lb ed="R072" n="0932a08"/><cb:div type="commentary"><p xml:id="pX45p0881b2001" rend="margin-left:1em">釋曰次離過顯實有二初正明離滿離出入失壞
+<lb ed="X" n="0881b21"/><lb ed="R072" n="0932a09"/>四種過患具徧純淨常四種功德由遠四邊恒止
+<lb ed="X" n="0881b22"/><lb ed="R072" n="0932a10"/>一心。</p></cb:div>
+<lb ed="X" n="0881b23"/><lb ed="R072" n="0932a11"/><cb:div type="orig"><p xml:id="pX45p0881b2301">自此<note place="inline">至</note>即真實性故故。</p></cb:div>
+<lb ed="X" n="0881b24"/><lb ed="R072" n="0932a12"/><cb:div type="commentary"><p xml:id="pX45p0881b2401" rend="margin-left:1em">釋曰後顯離因緣覺中諸法何離諸過以諸法等
+<pb ed="X" xml:id="X45.0772.0881c" n="0881c"/>
+<lb ed="X" n="0881c01"/><lb ed="R072" n="0932a13"/>皆實性故。</p></cb:div>
+<lb ed="X" n="0881c02"/><lb ed="R072" n="0932a14"/><cb:div type="orig"><p xml:id="pX45p0881c0201">自此<note place="inline">至</note>令清淨故。</p></cb:div>
+<lb ed="X" n="0881c03"/><lb ed="R072" n="0932a15"/><cb:div type="commentary"><p xml:id="pX45p0881c0301" rend="margin-left:1em">釋曰後作緣決疑有二初伸問答三世間中眾生
+<lb ed="X" n="0881c04"/><lb ed="R072" n="0932a16"/>世間具足染法流轉不息如是異生現於本覺何
+<lb ed="X" n="0881c05"/><lb ed="R072" n="0932a17"/>言清淨故論通云凡諸染法不染實智淨覺熏生
+<lb ed="X" n="0881c06"/><lb ed="R072" n="0932a18"/>令清淨故。</p></cb:div>
+<lb ed="X" n="0881c07"/><lb ed="R072" n="0932b01"/><cb:div type="orig"><p xml:id="pX45p0881c0701">如本<note place="inline">至</note>熏眾生故故。</p></cb:div>
+<lb ed="X" n="0881c08"/><lb ed="R072" n="0932b02"/><cb:div type="commentary"><p xml:id="pX45p0881c0801" rend="margin-left:1em">釋曰後合本論。</p></cb:div>
+<lb ed="X" n="0881c09"/><lb ed="R072" n="0932b03"/><cb:div type="orig"><p xml:id="pX45p0881c0901">云何<note place="inline">至</note>其相云何。</p></cb:div>
+<lb ed="X" n="0881c10"/><lb ed="R072" n="0932b04"/><cb:div type="commentary"><p xml:id="pX45p0881c1001" rend="margin-left:1em">釋曰三法出離鏡有二初問。</p></cb:div>
+<lb ed="X" n="0881c11"/><lb ed="R072" n="0932b05"/><cb:div type="orig"><p xml:id="pX45p0881c1101">頌曰<note place="inline">至</note>空出離色義。</p></cb:div>
+<lb ed="X" n="0881c12"/><lb ed="R072" n="0932b06"/><cb:div type="commentary"><p xml:id="pX45p0881c1201" rend="margin-left:1em">釋曰後答有二初結頌離過滿德同鏡等空銷鍊
+<lb ed="X" n="0881c13"/><lb ed="R072" n="0932b07"/>頗梨此云離珠法即出離法出離如鏡并持業釋。</p></cb:div>
+<lb ed="X" n="0881c14"/><lb ed="R072" n="0932b08"/><cb:div type="orig"><p xml:id="pX45p0881c1401">論曰<note place="inline">至</note>名法出離。</p></cb:div>
+<lb ed="X" n="0881c15"/><lb ed="R072" n="0932b09"/><cb:div type="commentary"><p xml:id="pX45p0881c1501" rend="margin-left:1em">釋曰後釋文有三初顯名有二初總明。</p></cb:div>
+<lb ed="X" n="0881c16"/><lb ed="R072" n="0932b10"/><cb:div type="orig"><p xml:id="pX45p0881c1601">云何<note place="inline">至</note>淳淨明故故。</p></cb:div>
+<lb ed="X" n="0881c17"/><lb ed="R072" n="0932b11"/><cb:div type="commentary"><p xml:id="pX45p0881c1701" rend="margin-left:1em">釋曰後別解有二初患德各別釋無明染品即見
+<lb ed="X" n="0881c18"/><lb ed="R072" n="0932b12"/>愛煩惱俱合動相即業等諸識理實二礙是染皆
+<lb ed="X" n="0881c19"/><lb ed="R072" n="0932b13"/>收為明三德別說俱合。</p></cb:div>
+<lb ed="X" n="0881c20"/><lb ed="R072" n="0932b14"/><cb:div type="orig"><p xml:id="pX45p0881c2001">出離何過<note place="inline">至</note>法爾故。</p></cb:div>
+<lb ed="X" n="0881c21"/><lb ed="R072" n="0932b15"/><cb:div type="commentary"><p xml:id="pX45p0881c2101" rend="margin-left:1em">釋曰後患德相對解染礙障淨智礙障明戲識障
+<lb ed="X" n="0881c22"/><lb ed="R072" n="0932b16"/>淳相對離成法應爾故。</p></cb:div>
+<lb ed="X" n="0881c23"/><lb ed="R072" n="0932b17"/><cb:div type="orig"><p xml:id="pX45p0881c2301">此中<note place="inline">至</note>住思應觀。</p></cb:div>
+<lb ed="X" n="0881c24"/><lb ed="R072" n="0932b18"/><cb:div type="commentary"><p xml:id="pX45p0881c2401" rend="margin-left:1em">釋曰次鏡喻若以此珠淪深埿內出虗空中如置
+<pb ed="X" xml:id="X45.0772.0882a" n="0882a"/>
+<lb ed="X" n="0882a01"/><lb ed="R072" n="0933a01"/>濁池便成清水若安臭林能袪穢氣由自性淨能
+<lb ed="X" n="0882a02"/><lb ed="R072" n="0933a02"/>離多非不假瑩治方顯具德本覺一心出前三染
+<lb ed="X" n="0882a03"/><lb ed="R072" n="0933a03"/>義亦如之不假修習法爾清淨福多伽者義當臭
+<lb ed="X" n="0882a04"/><lb ed="R072" n="0933a04"/>林。</p></cb:div>
+<lb ed="X" n="0882a05"/><lb ed="R072" n="0933a05"/><cb:div type="orig"><p xml:id="pX45p0882a0501">等空<note place="inline">至</note>亦復爾故。</p></cb:div>
+<lb ed="X" n="0882a06"/><lb ed="R072" n="0933a06"/><cb:div type="commentary"><p xml:id="pX45p0882a0601" rend="margin-left:1em">釋曰後空義淨空遠離大種色故淨覺遠離二礙
+<lb ed="X" n="0882a07"/><lb ed="R072" n="0933a07"/>識故。</p></cb:div>
+<lb ed="X" n="0882a08"/><lb ed="R072" n="0933a08"/><cb:div type="orig"><p xml:id="pX45p0882a0801">云何<note place="inline">至</note>其相云何。</p></cb:div>
+<lb ed="X" n="0882a09"/><lb ed="R072" n="0933a09"/><cb:div type="commentary"><p xml:id="pX45p0882a0901" rend="margin-left:1em">釋曰四緣熏習鏡有二初問。</p></cb:div>
+<lb ed="X" n="0882a10"/><lb ed="R072" n="0933a10"/><cb:div type="orig"><p xml:id="pX45p0882a1001">頌曰<note place="inline">至</note>如法應觀察。</p></cb:div>
+<lb ed="X" n="0882a11"/><lb ed="R072" n="0933a11"/><cb:div type="commentary"><p xml:id="pX45p0882a1101" rend="margin-left:1em">釋曰後答有二初結頌於諸生界出應化身熏兩
+<lb ed="X" n="0882a12"/><lb ed="R072" n="0933a12"/>輪華結萬德果同鏡應珠等空隨順<g ref="#CB18616">󴢸</g>中頗梨此
+<lb ed="X" n="0882a13"/><lb ed="R072" n="0933a13"/>云應珠緣同眾生感動之緣緣之熏習作依主釋
+<lb ed="X" n="0882a14"/><lb ed="R072" n="0933a14"/>緣目應化與生作緣緣即熏習緣熏習如鏡俱持
+<lb ed="X" n="0882a15"/><lb ed="R072" n="0933a15"/>業釋。</p></cb:div>
+<lb ed="X" n="0882a16"/><lb ed="R072" n="0933a16"/><cb:div type="orig"><p xml:id="pX45p0882a1601">論曰<note place="inline">至</note>隨應建立故。</p></cb:div>
+<lb ed="X" n="0882a17"/><lb ed="R072" n="0933a17"/><cb:div type="commentary"><p xml:id="pX45p0882a1701" rend="margin-left:1em">釋曰後釋文有二初鏡空喻合謂將種種雜色之
+<lb ed="X" n="0882a18"/><lb ed="R072" n="0933a18"/>珠周迊安置頗梨珠側隨彼色珠皆能變現此本
+<lb ed="X" n="0882a19"/><lb ed="R072" n="0933b01"/>覺鏡出生大小應化之身利益法界無邊含識普
+<lb ed="X" n="0882a20"/><lb ed="R072" n="0933b02"/>使發心咸得解脫又如虗空有自在力於諸眾生
+<lb ed="X" n="0882a21"/><lb ed="R072" n="0933b03"/>所作事中隨順成立緣熏習覺有自在力於諸眾
+<lb ed="X" n="0882a22"/><lb ed="R072" n="0933b04"/>生修行事中隨順建立。</p></cb:div>
+<lb ed="X" n="0882a23"/><lb ed="R072" n="0933b05"/><cb:div type="orig"><p xml:id="pX45p0882a2301">如本<note place="inline">至</note>隨念示現故故。</p></cb:div>
+<lb ed="X" n="0882a24"/><lb ed="R072" n="0933b06"/><cb:div type="commentary"><p xml:id="pX45p0882a2401" rend="margin-left:1em">釋曰後合歸本論。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0882b" n="0882b"/>
+<lb ed="X" n="0882b01"/><lb ed="R072" n="0933b07"/><cb:div type="orig"><p xml:id="pX45p0882b0101">如是<note place="inline">至</note>具足圓滿。</p></cb:div>
+<lb ed="X" n="0882b02"/><lb ed="R072" n="0933b08"/><cb:div type="commentary"><p xml:id="pX45p0882b0201" rend="margin-left:1em">釋曰後通顯勝能總明四鏡通徧五人橫該十方
+<lb ed="X" n="0882b03"/><lb ed="R072" n="0933b09"/>竪窮三際欲辨其由固難思議住照通至如次配
+<lb ed="X" n="0882b04"/><lb ed="R072" n="0933b10"/>前四種鏡義或屬當段四界之文或復總顯廣大
+<lb ed="X" n="0882b05"/><lb ed="R072" n="0933b11"/>圓滿。</p></cb:div>
+<lb ed="X" n="0882b06"/><lb ed="R072" n="0933b12"/><cb:div type="orig"><p xml:id="pX45p0882b0601"><anchor xml:id="nkr_note_orig_0882001" n="0882001"/><anchor xml:id="beg_a1" type="cb-app"/>已<anchor xml:id="end_a1"/>說<note place="inline">至</note>無明住地門。</p></cb:div>
+<lb ed="X" n="0882b07"/><lb ed="R072" n="0933b13"/><cb:div type="commentary"><p xml:id="pX45p0882b0701" rend="margin-left:1em">釋曰後本上無明略說門有三初根本無明住地
+<lb ed="X" n="0882b08"/><lb ed="R072" n="0933b14"/>門有二初結指。</p></cb:div>
+<lb ed="X" n="0882b09"/><lb ed="R072" n="0933b15"/><cb:div type="orig"><p xml:id="pX45p0882b0901">本曰<note place="inline">至</note>自相可說。</p></cb:div>
+<lb ed="X" n="0882b10"/><lb ed="R072" n="0933b16"/><cb:div type="commentary"><p xml:id="pX45p0882b1001" rend="margin-left:1em">釋曰後解釋有二初唱本。</p></cb:div>
+<lb ed="X" n="0882b11"/><lb ed="R072" n="0933b17"/><cb:div type="orig"><p xml:id="pX45p0882b1101">論曰<note place="inline">至</note>散說門。</p></cb:div>
+<lb ed="X" n="0882b12"/><lb ed="R072" n="0933b18"/><cb:div type="commentary"><p xml:id="pX45p0882b1201" rend="margin-left:1em">釋曰後作釋有二初科分。</p></cb:div>
+<lb ed="X" n="0882b13"/><lb ed="R072" n="0934a01"/><cb:div type="orig"><p xml:id="pX45p0882b1301">初門云何。</p></cb:div>
+<lb ed="X" n="0882b14"/><lb ed="R072" n="0934a02"/><cb:div type="commentary"><p xml:id="pX45p0882b1401" rend="margin-left:1em">釋曰後顯示有二初異說相應契當門又二初總
+<lb ed="X" n="0882b15"/><lb ed="R072" n="0934a03"/>明說六有三初總合明有二初問。</p></cb:div>
+<lb ed="X" n="0882b16"/><lb ed="R072" n="0934a04"/><cb:div type="orig"><p xml:id="pX45p0882b1601">頌曰<note place="inline">至</note>據體無別。</p></cb:div>
+<lb ed="X" n="0882b17"/><lb ed="R072" n="0934a05"/><cb:div type="commentary"><p xml:id="pX45p0882b1701" rend="margin-left:1em">釋曰後答佛一代教說六無明隨義立六據體無
+<lb ed="X" n="0882b18"/><lb ed="R072" n="0934a06"/>二此說六種根本無明究竟唯以大攝主識而為
+<lb ed="X" n="0882b19"/><lb ed="R072" n="0934a07"/>體故。</p></cb:div>
+<lb ed="X" n="0882b20"/><lb ed="R072" n="0934a08"/><cb:div type="orig"><p xml:id="pX45p0882b2001">明無明者<note place="inline">至</note>其相云何。</p></cb:div>
+<lb ed="X" n="0882b21"/><lb ed="R072" n="0934a09"/><cb:div type="commentary"><p xml:id="pX45p0882b2101" rend="margin-left:1em">釋曰次各別釋有六一明無明有二初問何義名
+<lb ed="X" n="0882b22"/><lb ed="R072" n="0934a10"/>無何義名明。</p></cb:div>
+<lb ed="X" n="0882b23"/><lb ed="R072" n="0934a11"/><cb:div type="orig"><p xml:id="pX45p0882b2301">頌曰<note place="inline">至</note>言總意別。</p></cb:div>
+<lb ed="X" n="0882b24"/><lb ed="R072" n="0934a12"/><cb:div type="commentary"><p xml:id="pX45p0882b2401" rend="margin-left:1em">釋曰後答有二初通對清淨二覺并取隨染圓滿
+<pb ed="X" xml:id="X45.0772.0882c" n="0882c"/>
+<lb ed="X" n="0882c01"/><lb ed="R072" n="0934a13"/>始覺究竟無餘通達顯了無境有迷無法不明又
+<lb ed="X" n="0882c02"/><lb ed="R072" n="0934a14"/>此亦攝隨染本覺照惑本空無不明故此初一種
+<lb ed="X" n="0882c03"/><lb ed="R072" n="0934a15"/>約能知智。</p></cb:div>
+<lb ed="X" n="0882c04"/><lb ed="R072" n="0934a16"/><cb:div type="orig"><p xml:id="pX45p0882c0401">光明實智<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0882c05"/><lb ed="R072" n="0934a17"/><cb:div type="commentary"><p xml:id="pX45p0882c0501" rend="margin-left:1em">釋曰後引證初按經伸難後<g ref="#CB08059">㡿</g>小別明五義解無
+<lb ed="X" n="0882c06"/><lb ed="R072" n="0934a18"/>五義解明尅論當體無明即明若約揀別明之無
+<lb ed="X" n="0882c07"/><lb ed="R072" n="0934b01"/>明下五作釋例此可解。</p></cb:div>
+<lb ed="X" n="0882c08"/><lb ed="R072" n="0934b02"/><cb:div type="orig"><p xml:id="pX45p0882c0801">闇無明<note place="inline">至</note>不知不覺故。</p></cb:div>
+<lb ed="X" n="0882c09"/><lb ed="R072" n="0934b03"/><cb:div type="commentary"><p xml:id="pX45p0882c0901" rend="margin-left:1em">釋曰二闇無明偏說障智立以闇名實亦障理及
+<lb ed="X" n="0882c10"/><lb ed="R072" n="0934b04"/>一心故此一唯目能迷之心法喻合證如文可解。</p></cb:div>
+<lb ed="X" n="0882c11"/><lb ed="R072" n="0934b05"/><cb:div type="orig"><p xml:id="pX45p0882c1101">俱是<note place="inline">至</note>非一故。</p></cb:div>
+<lb ed="X" n="0882c12"/><lb ed="R072" n="0934b06"/><cb:div type="commentary"><p xml:id="pX45p0882c1201" rend="margin-left:1em">釋曰三俱是無明一種無明二人見異眾生沉迷
+<lb ed="X" n="0882c13"/><lb ed="R072" n="0934b07"/>成生死闇大覺了悟成圓寂明譬如夜闇雖唯是
+<lb ed="X" n="0882c14"/><lb ed="R072" n="0934b08"/>一其眼赤鳥見光明色其人同分見黑闇色此一
+<lb ed="X" n="0882c15"/><lb ed="R072" n="0934b09"/>唯取所觀之境境體是一隨見成差迦羅鳩奢那
+<lb ed="X" n="0882c16"/><lb ed="R072" n="0934b10"/>此云眼赤鳥。</p></cb:div>
+<lb ed="X" n="0882c17"/><lb ed="R072" n="0934b11"/><cb:div type="orig"><p xml:id="pX45p0882c1701">俱非<note place="inline">至</note>無始無明故。</p></cb:div>
+<lb ed="X" n="0882c18"/><lb ed="R072" n="0934b12"/><cb:div type="commentary"><p xml:id="pX45p0882c1801" rend="margin-left:1em">釋曰四俱非無明染淨性空心言路絕四句別問
+<lb ed="X" n="0882c19"/><lb ed="R072" n="0934b13"/>一字總非勿以此非便是無明答亦非也何以然
+<lb ed="X" n="0882c20"/><lb ed="R072" n="0934b14"/>耶謂此性空無可明故。</p></cb:div>
+<lb ed="X" n="0882c21"/><lb ed="R072" n="0934b15"/><cb:div type="orig"><p xml:id="pX45p0882c2101">空無明<note place="inline">至</note>所執性故。</p></cb:div>
+<lb ed="X" n="0882c22"/><lb ed="R072" n="0934b16"/><cb:div type="commentary"><p xml:id="pX45p0882c2201" rend="margin-left:1em">釋曰五空無明正顯妄宰體用俱空名之為無虗
+<lb ed="X" n="0882c23"/><lb ed="R072" n="0934b17"/>義道理爛然而現名之為明即是徧計所執性故。</p></cb:div>
+<lb ed="X" n="0882c24"/><lb ed="R072" n="0934b18"/><cb:div type="orig"><p xml:id="pX45p0882c2401">具足<note place="inline">至</note>廣說故。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0883a" n="0883a"/>
+<lb ed="X" n="0883a01"/><lb ed="R072" n="0935a01"/><cb:div type="commentary"><p xml:id="pX45p0883a0101" rend="margin-left:1em">釋曰六具足無明起染易知偏證起淨如大攝主
+<lb ed="X" n="0883a02"/><lb ed="R072" n="0935a02"/>為無明種出覺生淨至解脫域不覺生染入繫縛
+<lb ed="X" n="0883a03"/><lb ed="R072" n="0935a03"/>地能攝能生淨法染法是故建立具足名焉於上
+<lb ed="X" n="0883a04"/><lb ed="R072" n="0935a04"/>六種應作四句一淨而非染謂明無明二染而非
+<lb ed="X" n="0883a05"/><lb ed="R072" n="0935a05"/>淨謂闇無明三亦淨亦染謂俱是無明具足無明
+<lb ed="X" n="0883a06"/><lb ed="R072" n="0935a06"/>四非淨非染謂俱非無明及空無明。</p></cb:div>
+<lb ed="X" n="0883a07"/><lb ed="R072" n="0935a07"/><cb:div type="orig"><p xml:id="pX45p0883a0701">如是<note place="inline">至</note>且略而<anchor xml:id="beg_a2" type="cb-app"/>已<anchor xml:id="end_a2"/>。</p></cb:div>
+<lb ed="X" n="0883a08"/><lb ed="R072" n="0935a08"/><cb:div type="commentary"><p xml:id="pX45p0883a0801" rend="margin-left:1em">釋曰後顯具略馬鳴具顯龍樹略陳倣法四經所
+<lb ed="X" n="0883a09"/><lb ed="R072" n="0935a09"/>指一識別取本論上下安立今測其由粗述屬當
+<lb ed="X" n="0883a10"/><lb ed="R072" n="0935a10"/>明無明者取彼圓滿般若之日即本論云謂心體
+<lb ed="X" n="0883a11"/><lb ed="R072" n="0935a11"/>離念相離念相者等虗空界無所不徧法界一相
+<lb ed="X" n="0883a12"/><lb ed="R072" n="0935a12"/>即是如來平等法水等通該四覺但於隨染始覺
+<lb ed="X" n="0883a13"/><lb ed="R072" n="0935a13"/>之中偏取滿覺於一一法無不明故闇無明者覆
+<lb ed="X" n="0883a14"/><lb ed="R072" n="0935a14"/>彼慧明令不生故即本論云謂不如實知真如法
+<lb ed="X" n="0883a15"/><lb ed="R072" n="0935a15"/>一故不覺心起等俱是無明者即五有為及四無
+<lb ed="X" n="0883a16"/><lb ed="R072" n="0935a16"/>為眾生見之能作幻質成黑闇法如來了之能作
+<lb ed="X" n="0883a17"/><lb ed="R072" n="0935a17"/>德質成智慧明如本論云所謂不生不滅與生滅
+<lb ed="X" n="0883a18"/><lb ed="R072" n="0935a18"/>和合非一非異名為阿梨耶識等俱非無明者唯
+<lb ed="X" n="0883a19"/><lb ed="R072" n="0935b01"/>取相待緣生性空離心絕言無可明事如本論云
+<lb ed="X" n="0883a20"/><lb ed="R072" n="0935b02"/>當知染法淨法皆悉相待無有自相可說是故一
+<lb ed="X" n="0883a21"/><lb ed="R072" n="0935b03"/>切法從本<anchor xml:id="beg_a3" type="cb-app"/>已<anchor xml:id="end_a3"/>來非色非心非智非識非有非無釋
+<lb ed="X" n="0883a22"/><lb ed="R072" n="0935b04"/>論亦解言語道斷心行處滅等空無明者迷無體
+<lb ed="X" n="0883a23"/><lb ed="R072" n="0935b05"/>用猶如兔角徧計所執本性全空即本論云念無
+<lb ed="X" n="0883a24"/><lb ed="R072" n="0935b06"/>自相不離本覺猶如迷人依方故迷若離於方則
+<pb ed="X" xml:id="X45.0772.0883b" n="0883b"/>
+<lb ed="X" n="0883b01"/><lb ed="R072" n="0935b07"/>無有迷眾生亦爾依覺故迷若離覺性則無不覺
+<lb ed="X" n="0883b02"/><lb ed="R072" n="0935b08"/>等具足無明者能生染淨令增長故即本論云此
+<lb ed="X" n="0883b03"/><lb ed="R072" n="0935b09"/>識有二種義能攝一切法能生一切法等此六與
+<lb ed="X" n="0883b04"/><lb ed="R072" n="0935b10"/>三分別異者第三俱是法體是一隨生隨佛有迷
+<lb ed="X" n="0883b05"/><lb ed="R072" n="0935b11"/>有悟所見法體遂成幻德第六具足說彼法體出
+<lb ed="X" n="0883b06"/><lb ed="R072" n="0935b12"/>生染淨染沉三界淨昇五位自體不隨他見異故。</p></cb:div>
+<lb ed="X" n="0883b07"/><lb ed="R072" n="0935b13"/><cb:div type="orig"><p xml:id="pX45p0883b0701">且闇無明<note place="inline">至</note>其數幾有。</p></cb:div>
+<lb ed="X" n="0883b08"/><lb ed="R072" n="0935b14"/><cb:div type="commentary"><p xml:id="pX45p0883b0801" rend="margin-left:1em">釋曰後別辨第二有三初總明有十文中有二初
+<lb ed="X" n="0883b09"/><lb ed="R072" n="0935b15"/>問未及具示故且顯闇就闇伸問其相可知。</p></cb:div>
+<lb ed="X" n="0883b10"/><lb ed="R072" n="0935b16"/><cb:div type="orig"><p xml:id="pX45p0883b1001">頌曰<note place="inline">至</note>唯一闇無明。</p></cb:div>
+<lb ed="X" n="0883b11"/><lb ed="R072" n="0935b17"/><cb:div type="commentary"><p xml:id="pX45p0883b1101" rend="margin-left:1em">釋曰後答有二初頌對隨其義用於一說十。</p></cb:div>
+<lb ed="X" n="0883b12"/><lb ed="R072" n="0935b18"/><cb:div type="orig"><p xml:id="pX45p0883b1201">論曰<note place="inline">至</note>應審觀察。</p></cb:div>
+<lb ed="X" n="0883b13"/><lb ed="R072" n="0936a01"/><cb:div type="commentary"><p xml:id="pX45p0883b1301" rend="margin-left:1em">釋曰後論解先釋前二句次辨次七句後明後三
+<lb ed="X" n="0883b14"/><lb ed="R072" n="0936a02"/>句釋名如下不繁預述。</p></cb:div>
+<lb ed="X" n="0883b15"/><lb ed="R072" n="0936a03"/><cb:div type="orig"><p xml:id="pX45p0883b1501">見一處<note place="inline">至</note>所能斷故。</p></cb:div>
+<lb ed="X" n="0883b16"/><lb ed="R072" n="0936a04"/><cb:div type="commentary"><p xml:id="pX45p0883b1601" rend="margin-left:1em">釋曰次別解十義文中有十一見一處住地問相
+<lb ed="X" n="0883b17"/><lb ed="R072" n="0936a05"/>可解答中有二先頌後釋後釋又二初解後證下
+<lb ed="X" n="0883b18"/><lb ed="R072" n="0936a06"/>九準此見屬滿覺一處即是一心法界能見滿覺
+<lb ed="X" n="0883b19"/><lb ed="R072" n="0936a07"/>從所見境一心法界以立其名一處之見住地即
+<lb ed="X" n="0883b20"/><lb ed="R072" n="0936a08"/>是根本無明今所斷惑從能斷道以立其名作依
+<lb ed="X" n="0883b21"/><lb ed="R072" n="0936a09"/>主釋亦可見之一處見一處之住地從所障理以
+<lb ed="X" n="0883b22"/><lb ed="R072" n="0936a10"/>立其名亦依主釋。</p></cb:div>
+<lb ed="X" n="0883b23"/><lb ed="R072" n="0936a11"/><cb:div type="orig"><p xml:id="pX45p0883b2301">報恩<note place="inline">至</note>無盡住地故。</p></cb:div>
+<lb ed="X" n="0883b24"/><lb ed="R072" n="0936a12"/><cb:div type="commentary"><p xml:id="pX45p0883b2401" rend="margin-left:1em">釋曰二報恩無盡住地問頌釋證準前可解報即
+<pb ed="X" xml:id="X45.0772.0883c" n="0883c"/>
+<lb ed="X" n="0883c01"/><lb ed="R072" n="0936a13"/>無盡答荷無窮故恩即住地成佛之因故是報無
+<lb ed="X" n="0883c02"/><lb ed="R072" n="0936a14"/>盡之恩住地前二持業後一依主問佛圓滿覺斷
+<lb ed="X" n="0883c03"/><lb ed="R072" n="0936a15"/>盡無明無明<anchor xml:id="beg_a4" type="cb-app"/>已<anchor xml:id="end_a4"/>滅若為報恩答約佛自行酬昔為
+<lb ed="X" n="0883c04"/><lb ed="R072" n="0936a16"/>緣故窮未來不忘報義非有無明為所報故又實
+<lb ed="X" n="0883c05"/><lb ed="R072" n="0936a17"/>義者法界眾生唯一無明隨相續各異說斷不斷
+<lb ed="X" n="0883c06"/><lb ed="R072" n="0936a18"/>別佛斷無明餘生猶有如一室燈破一室闇非不
+<lb ed="X" n="0883c07"/><lb ed="R072" n="0936b01"/>照室亦無闇故今就一體餘生猶有報義得成又
+<lb ed="X" n="0883c08"/><lb ed="R072" n="0936b02"/>或所報無明染法即眾生也由佛在昔利物興悲
+<lb ed="X" n="0883c09"/><lb ed="R072" n="0936b03"/>因此為緣造於果道由是眾生於佛有恩生界無
+<lb ed="X" n="0883c10"/><lb ed="R072" n="0936b04"/>窮報亦無盡是知報無明者即報眾生恩也。</p></cb:div>
+<lb ed="X" n="0883c11"/><lb ed="R072" n="0936b05"/><cb:div type="orig"><p xml:id="pX45p0883c1101">無始<note place="inline">至</note>有終故。</p></cb:div>
+<lb ed="X" n="0883c12"/><lb ed="R072" n="0936b06"/><cb:div type="commentary"><p xml:id="pX45p0883c1201" rend="margin-left:1em">釋曰三無始有終住地逆推過去不見本際故曰
+<lb ed="X" n="0883c13"/><lb ed="R072" n="0936b07"/>無始順觀未來智可斷除故曰有終無始有終即
+<lb ed="X" n="0883c14"/><lb ed="R072" n="0936b08"/>住地故作持業釋。</p></cb:div>
+<lb ed="X" n="0883c15"/><lb ed="R072" n="0936b09"/><cb:div type="orig"><p xml:id="pX45p0883c1501">無等<note place="inline">至</note>一時生長故。</p></cb:div>
+<lb ed="X" n="0883c16"/><lb ed="R072" n="0936b10"/><cb:div type="commentary"><p xml:id="pX45p0883c1601" rend="margin-left:1em">釋曰四無等等生住地諸染法中獨超勝故名為
+<lb ed="X" n="0883c17"/><lb ed="R072" n="0936b11"/>無等即是體也能令諸惑同時起故名為等生即
+<lb ed="X" n="0883c18"/><lb ed="R072" n="0936b12"/>是用也無等即等生體持用故亦無等亦等生二
+<lb ed="X" n="0883c19"/><lb ed="R072" n="0936b13"/>用俱故無等等生即住地故並持業釋。</p></cb:div>
+<lb ed="X" n="0883c20"/><lb ed="R072" n="0936b14"/><cb:div type="orig"><p xml:id="pX45p0883c2001">生得<note place="inline">至</note>名為生得故。</p></cb:div>
+<lb ed="X" n="0883c21"/><lb ed="R072" n="0936b15"/><cb:div type="commentary"><p xml:id="pX45p0883c2101" rend="margin-left:1em">釋曰五生得住地所生三相業隨俱合三相不一
+<lb ed="X" n="0883c22"/><lb ed="R072" n="0936b16"/>名為子子無明於彼能成立故生之得故若將生
+<lb ed="X" n="0883c23"/><lb ed="R072" n="0936b17"/>得望其住地作持業釋若據引證生得二字屬所
+<lb ed="X" n="0883c24"/><lb ed="R072" n="0936b18"/>起立望於住地作依主釋。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0884a" n="0884a"/>
+<lb ed="X" n="0884a01"/><lb ed="R072" n="0937a01"/><cb:div type="orig"><p xml:id="pX45p0884a0101">觀滿<note place="inline">至</note>名為觀分故。</p></cb:div>
+<lb ed="X" n="0884a02"/><lb ed="R072" n="0937a02"/><cb:div type="commentary"><p xml:id="pX45p0884a0201" rend="margin-left:1em">釋曰六觀滿住地極解脫道究竟始覺名為觀滿
+<lb ed="X" n="0884a03"/><lb ed="R072" n="0937a03"/>所斷無明從能斷智以立其名所謂觀滿之住地
+<lb ed="X" n="0884a04"/><lb ed="R072" n="0937a04"/>故。</p></cb:div>
+<lb ed="X" n="0884a05"/><lb ed="R072" n="0937a05"/><cb:div type="orig"><p xml:id="pX45p0884a0501">智礙<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0884a06"/><lb ed="R072" n="0937a06"/><cb:div type="commentary"><p xml:id="pX45p0884a0601" rend="margin-left:1em">釋曰七智礙住地漠冥智礙正障後得一切種智
+<lb ed="X" n="0884a07"/><lb ed="R072" n="0937a07"/>是智之礙所謂智礙即住地故。</p></cb:div>
+<lb ed="X" n="0884a08"/><lb ed="R072" n="0937a08"/><cb:div type="orig"><p xml:id="pX45p0884a0801">不覺<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0884a09"/><lb ed="R072" n="0937a09"/><cb:div type="commentary"><p xml:id="pX45p0884a0901" rend="margin-left:1em">釋曰八不覺住地眾生本具三身四德無明纏覆
+<lb ed="X" n="0884a10"/><lb ed="R072" n="0937a10"/>都不覺知所謂不覺即住地故般若無知者以無
+<lb ed="X" n="0884a11"/><lb ed="R072" n="0937a11"/>慮知分別之識猶如明鏡無心現像故契經云聖
+<lb ed="X" n="0884a12"/><lb ed="R072" n="0937a12"/>智無知而無所不知諸戲論識即是知無者由虗
+<lb ed="X" n="0884a13"/><lb ed="R072" n="0937a13"/>妄心無彼離念真實之知故曰知無故肇論云夫
+<lb ed="X" n="0884a14"/><lb ed="R072" n="0937a14"/>聖心虗靜無知可無可曰無知非謂知無惑智有
+<lb ed="X" n="0884a15"/><lb ed="R072" n="0937a15"/>知有知可無可謂知無非曰無知無知即般若之
+<lb ed="X" n="0884a16"/><lb ed="R072" n="0937a16"/>無也知無即真諦之無也乃至廣說。</p></cb:div>
+<lb ed="X" n="0884a17"/><lb ed="R072" n="0937a17"/><cb:div type="orig"><p xml:id="pX45p0884a1701">覺了<note place="inline">至</note>無明故。</p></cb:div>
+<lb ed="X" n="0884a18"/><lb ed="R072" n="0937a18"/><cb:div type="commentary"><p xml:id="pX45p0884a1801" rend="margin-left:1em">釋曰九覺了住地唯佛能了餘不盡知所覺無明
+<lb ed="X" n="0884a19"/><lb ed="R072" n="0937b01"/>從果立名所謂覺了之住地故。</p></cb:div>
+<lb ed="X" n="0884a20"/><lb ed="R072" n="0937b02"/><cb:div type="orig"><p xml:id="pX45p0884a2001">子藏<note place="inline">至</note>如天網故。</p></cb:div>
+<lb ed="X" n="0884a21"/><lb ed="R072" n="0937b03"/><cb:div type="commentary"><p xml:id="pX45p0884a2101" rend="margin-left:1em">釋曰十子藏住地藏謂攝持猶諸種子芽未發生
+<lb ed="X" n="0884a22"/><lb ed="R072" n="0937b04"/>名持隱子芽<anchor xml:id="beg_a5" type="cb-app"/>已<anchor xml:id="end_a5"/>出生名持顯子其隱顯了況麤細
+<lb ed="X" n="0884a23"/><lb ed="R072" n="0937b05"/>相亦如天網包羅無餘是子之藏所謂子藏即住
+<lb ed="X" n="0884a24"/><lb ed="R072" n="0937b06"/>地故。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0884b" n="0884b"/>
+<lb ed="X" n="0884b01"/><lb ed="R072" n="0937b07"/><cb:div type="orig"><p xml:id="pX45p0884b0101">何因緣故<note place="inline">至</note>其相云何。</p></cb:div>
+<lb ed="X" n="0884b02"/><lb ed="R072" n="0937b08"/><cb:div type="commentary"><p xml:id="pX45p0884b0201" rend="margin-left:1em">釋曰後徵釋總名有二初問根本無明何名住地。</p></cb:div>
+<lb ed="X" n="0884b03"/><lb ed="R072" n="0937b09"/><cb:div type="orig"><p xml:id="pX45p0884b0301">頌曰<note place="inline">至</note>廣說故。</p></cb:div>
+<lb ed="X" n="0884b04"/><lb ed="R072" n="0937b10"/><cb:div type="commentary"><p xml:id="pX45p0884b0401" rend="margin-left:1em">釋曰後答無明力勝能持諸染譬如大地能持四
+<lb ed="X" n="0884b05"/><lb ed="R072" n="0937b11"/>擔五住地中無明<g ref="#CB08764">㝡</g>大餘四住地偏舉通名通名
+<lb ed="X" n="0884b06"/><lb ed="R072" n="0937b12"/>有愛者有謂三有愛謂俱生四別名者謂見一處
+<lb ed="X" n="0884b07"/><lb ed="R072" n="0937b13"/>住地欲愛住地色愛住地有愛住地初一即是三
+<lb ed="X" n="0884b08"/><lb ed="R072" n="0937b14"/>界九地分別煩惱見道位中一處斷故後三三界
+<lb ed="X" n="0884b09"/><lb ed="R072" n="0937b15"/>俱生煩惱如次即是欲色無色之煩惱故第四有
+<lb ed="X" n="0884b10"/><lb ed="R072" n="0937b16"/>愛即無色界雖標總稱即受別名復云數者謂四
+<lb ed="X" n="0884b11"/><lb ed="R072" n="0937b17"/>住惑皆在有愛法數中故。</p></cb:div>
+<lb ed="X" n="0884b12"/><lb ed="R072" n="0937b18"/><cb:div type="orig"><p xml:id="pX45p0884b1201"><anchor xml:id="beg_a6" type="cb-app"/>已<anchor xml:id="end_a6"/>說<note place="inline">至</note>散說門。</p></cb:div>
+<lb ed="X" n="0884b13"/><lb ed="R072" n="0938a01"/><cb:div type="commentary"><p xml:id="pX45p0884b1301" rend="margin-left:1em">釋曰後隨次別釋散說門中有二初結指。</p></cb:div>
+<lb ed="X" n="0884b14"/><lb ed="R072" n="0938a02"/><cb:div type="orig"><p xml:id="pX45p0884b1401">所言<note place="inline">至</note>一切不覺。</p></cb:div>
+<lb ed="X" n="0884b15"/><lb ed="R072" n="0938a03"/><cb:div type="commentary"><p xml:id="pX45p0884b1501" rend="margin-left:1em">釋曰後開示有二初牒指五種有為俱名不覺。</p></cb:div>
+<lb ed="X" n="0884b16"/><lb ed="R072" n="0938a04"/><cb:div type="orig"><p xml:id="pX45p0884b1601">自此<anchor xml:id="beg_a7" type="cb-app"/>已<anchor xml:id="end_a7"/>下<note place="inline">至</note>應審觀察。</p></cb:div>
+<lb ed="X" n="0884b17"/><lb ed="R072" n="0938a05"/><cb:div type="commentary"><p xml:id="pX45p0884b1701" rend="margin-left:1em">釋曰後略示有二初粗述本末又二初總明多文
+<lb ed="X" n="0884b18"/><lb ed="R072" n="0938a06"/>廣明根本不覺一句略解枝末無明。</p></cb:div>
+<lb ed="X" n="0884b19"/><lb ed="R072" n="0938a07"/><cb:div type="orig"><p xml:id="pX45p0884b1901">謂不如<note place="inline">至</note>之起因緣。</p></cb:div>
+<lb ed="X" n="0884b20"/><lb ed="R072" n="0938a08"/><cb:div type="commentary"><p xml:id="pX45p0884b2001" rend="margin-left:1em">釋曰後別辨有二初根本又二初牒指。</p></cb:div>
+<lb ed="X" n="0884b21"/><lb ed="R072" n="0938a09"/><cb:div type="orig"><p xml:id="pX45p0884b2101">根本<note place="inline">至</note>而不如故。</p></cb:div>
+<lb ed="X" n="0884b22"/><lb ed="R072" n="0938a10"/><cb:div type="commentary"><p xml:id="pX45p0884b2201" rend="margin-left:1em">釋曰後別示有四一問答因法迷覆三法無明得
+<lb ed="X" n="0884b23"/><lb ed="R072" n="0938a11"/>起。</p></cb:div>
+<lb ed="X" n="0884b24"/><lb ed="R072" n="0938a12"/><cb:div type="orig"><p xml:id="pX45p0884b2401">言不如者<note place="inline">至</note>即所依體。</p></cb:div>
+<pb ed="X" xml:id="X45.0772.0884c" n="0884c"/>
+<lb ed="X" n="0884c01"/><lb ed="R072" n="0938a13"/><cb:div type="commentary"><p xml:id="pX45p0884c0101" rend="margin-left:1em">釋曰二徵釋行相違礙逆覆名為不如實知一法
+<lb ed="X" n="0884c02"/><lb ed="R072" n="0938a14"/>即是四覺真如一法即收四理一心一法即是理
+<lb ed="X" n="0884c03"/><lb ed="R072" n="0938a15"/>智所依無盡一法界體。</p></cb:div>
+<lb ed="X" n="0884c04"/><lb ed="R072" n="0938a16"/><cb:div type="orig"><p xml:id="pX45p0884c0401">於此三法<note place="inline">至</note>不覺心起。</p></cb:div>
+<lb ed="X" n="0884c05"/><lb ed="R072" n="0938a17"/><cb:div type="commentary"><p xml:id="pX45p0884c0501" rend="margin-left:1em">釋曰三以義合本。</p></cb:div>
+<lb ed="X" n="0884c06"/><lb ed="R072" n="0938a18"/><cb:div type="orig"><p xml:id="pX45p0884c0601">彼三種法<note place="inline">至</note>通名為一。</p></cb:div>
+<lb ed="X" n="0884c07"/><lb ed="R072" n="0938b01"/><cb:div type="commentary"><p xml:id="pX45p0884c0701" rend="margin-left:1em">釋曰四別解一字實知一味真如一相理智二種
+<lb ed="X" n="0884c08"/><lb ed="R072" n="0938b02"/>同依一心故此三法皆守一中。</p></cb:div>
+<lb ed="X" n="0884c09"/><lb ed="R072" n="0938b03"/><cb:div type="orig"><p xml:id="pX45p0884c0901">自此<note place="inline">至</note>皆得有故。</p></cb:div>
+<lb ed="X" n="0884c10"/><lb ed="R072" n="0938b04"/><cb:div type="commentary"><p xml:id="pX45p0884c1001" rend="margin-left:1em">釋曰後枝末無明既立眷屬隨生此中之念即是
+<lb ed="X" n="0884c11"/><lb ed="R072" n="0938b05"/>九相。</p></cb:div>
+<lb ed="X" n="0884c12"/><lb ed="R072" n="0938b06"/><cb:div type="orig"><p xml:id="pX45p0884c1201">自此<anchor xml:id="beg_a8" type="cb-app"/>已<anchor xml:id="end_a8"/>下<note place="inline">至</note>無力門。</p></cb:div>
+<lb ed="X" n="0884c13"/><lb ed="R072" n="0938b07"/><cb:div type="commentary"><p xml:id="pX45p0884c1301" rend="margin-left:1em">釋曰後略明真妄有二初科分。</p></cb:div>
+<lb ed="X" n="0884c14"/><lb ed="R072" n="0938b08"/><cb:div type="orig"><p xml:id="pX45p0884c1401">歸德<note place="inline">至</note>即無不覺故。</p></cb:div>
+<lb ed="X" n="0884c15"/><lb ed="R072" n="0938b09"/><cb:div type="commentary"><p xml:id="pX45p0884c1501" rend="margin-left:1em">釋曰後解釋有二初成幻門依本覺德真為有力
+<lb ed="X" n="0884c16"/><lb ed="R072" n="0938b10"/>成無明幻妄為無力此中念當根本無明不離本
+<lb ed="X" n="0884c17"/><lb ed="R072" n="0938b11"/>覺即當法說喻明合本文並可見。</p></cb:div>
+<lb ed="X" n="0884c18"/><lb ed="R072" n="0938b12"/><cb:div type="orig"><p xml:id="pX45p0884c1801">攀妄<note place="inline">至</note>自相可說故。</p></cb:div>
+<lb ed="X" n="0884c19"/><lb ed="R072" n="0938b13"/><cb:div type="commentary"><p xml:id="pX45p0884c1901" rend="margin-left:1em">釋曰後顯真門藉妄顯真妄為有力彰真假妄真
+<lb ed="X" n="0884c20"/><lb ed="R072" n="0938b14"/>為無力喻明合本義亦可知。</p></cb:div>
+<lb ed="X" n="0884c21"/><lb ed="R072" n="0938b15"/>
+<lb ed="X" n="0884c22"/><lb ed="R072" n="0938b16"/><cb:juan fun="close" n="3"><cb:jhead>釋摩訶衍論贊玄疏卷第三</cb:jhead></cb:juan>
+<lb ed="X" n="0884c23"/><lb ed="R072" n="0938b17"/>
+<lb ed="X" n="0884c24"/><lb ed="R072" n="0938b18"/><cb:div type="w"><cb:div type="note"><entry><form>遞</form><cb:def><p xml:id="pX45p0884c2402" rend="margin-left:1em;inline">亨繼切更代也。</p></cb:def></entry>
+<pb ed="X" xml:id="X45.0772.0885a" n="0885a"/>
+<lb ed="X" n="0885a01"/><lb ed="R072" n="0939a01"/><entry><form>援</form><cb:def><p xml:id="pX45p0885a0102" rend="margin-left:1em;inline">禺璠切引也。</p></cb:def></entry>
+<lb ed="X" n="0885a02"/><lb ed="R072" n="0939a02"/><entry><form>爽</form><cb:def><p xml:id="pX45p0885a0202" rend="margin-left:1em;inline">疎兩切明也差也烈也猛也貴也。</p></cb:def></entry>
+<lb ed="X" n="0885a03"/><lb ed="R072" n="0939a03"/><entry><form>爽</form><cb:def><p xml:id="pX45p0885a0302" rend="margin-left:1em;inline">同上。</p></cb:def></entry>
+<lb ed="X" n="0885a04"/><lb ed="R072" n="0939a04"/><entry><form>映</form><cb:def><p xml:id="pX45p0885a0402" rend="margin-left:1em;inline">於敬切明也。</p></cb:def></entry>
+<lb ed="X" n="0885a05"/><lb ed="R072" n="0939a05"/><entry><form>暎</form><cb:def><p xml:id="pX45p0885a0502" rend="margin-left:1em;inline">同上。</p></cb:def></entry>
+<lb ed="X" n="0885a06"/><lb ed="R072" n="0939a06"/><entry><form>蔽</form><cb:def><p xml:id="pX45p0885a0602" rend="margin-left:1em;inline">甫制切障也隱也暗也。</p></cb:def></entry>
+<lb ed="X" n="0885a07"/><lb ed="R072" n="0939a07"/><entry><form>梯</form><cb:def><p xml:id="pX45p0885a0702" rend="margin-left:1em;inline">土雞切木階也。</p></cb:def></entry>
+<lb ed="X" n="0885a08"/><lb ed="R072" n="0939a08"/><entry><form>關</form><cb:def><p xml:id="pX45p0885a0802" rend="margin-left:1em;inline">古鐶切以木橫持門戶也扃也。</p></cb:def></entry>
+<lb ed="X" n="0885a09"/><lb ed="R072" n="0939a09"/><entry><form>関</form><cb:def><p xml:id="pX45p0885a0902" rend="margin-left:1em;inline">同上俗。</p></cb:def></entry>
+<lb ed="X" n="0885a10"/><lb ed="R072" n="0939a10"/><entry><form>網</form><cb:def><p xml:id="pX45p0885a1002" rend="margin-left:1em;inline">無兩切亦作罔羅也。</p></cb:def></entry>
+<lb ed="X" n="0885a11"/><lb ed="R072" n="0939a11"/><entry><form>羸</form><cb:def><p xml:id="pX45p0885a1102" rend="margin-left:1em;inline">力為反弱也病也瘦也劣也。</p></cb:def></entry>
+<lb ed="X" n="0885a12"/><lb ed="R072" n="0939a12"/><entry><form>愆</form><cb:def><p xml:id="pX45p0885a1202" rend="margin-left:1em;inline">去乾切過也失也。</p></cb:def></entry>
+<lb ed="X" n="0885a13"/><lb ed="R072" n="0939a13"/><entry><form><g ref="#CB18622">󴢾</g></form><cb:def><p xml:id="pX45p0885a1302" rend="margin-left:1em;inline">同上。</p></cb:def></entry>
+<lb ed="X" n="0885a14"/><lb ed="R072" n="0939a14"/><entry><form><g ref="#CB00985">𠎝</g></form><cb:def><p xml:id="pX45p0885a1402" rend="margin-left:1em;inline">同上俗。</p></cb:def></entry>
+<lb ed="X" n="0885a15"/><lb ed="R072" n="0939a15"/><entry><form>翳</form><cb:def><p xml:id="pX45p0885a1502" rend="margin-left:1em;inline">於計切障也。</p></cb:def></entry></cb:div></cb:div>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_6a" cb:to="#end_6a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6b" cb:to="#end_6b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6c" cb:to="#end_6c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6d" cb:to="#end_6d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6e" cb:to="#end_6e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6f" cb:to="#end_6f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_70" cb:to="#end_70"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_71" cb:to="#end_71"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_72" cb:to="#end_72"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_73" cb:to="#end_73"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_74" cb:to="#end_74"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_75" cb:to="#end_75"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_76" cb:to="#end_76"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_77" cb:to="#end_77"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_78" cb:to="#end_78"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_79" cb:to="#end_79"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7a" cb:to="#end_7a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7b" cb:to="#end_7b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7c" cb:to="#end_7c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7d" cb:to="#end_7d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7e" cb:to="#end_7e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7f" cb:to="#end_7f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_80" cb:to="#end_80"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_81" cb:to="#end_81"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_82" cb:to="#end_82"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_83" cb:to="#end_83"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_84" cb:to="#end_84"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_85" cb:to="#end_85"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_86" cb:to="#end_86"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_87" cb:to="#end_87"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_88" cb:to="#end_88"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_89" cb:to="#end_89"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8a" cb:to="#end_8a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8b" cb:to="#end_8b"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8c" cb:to="#end_8c"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8d" cb:to="#end_8d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8e" cb:to="#end_8e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8f" cb:to="#end_8f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_90" cb:to="#end_90"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_91" cb:to="#end_91"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_92" cb:to="#end_92"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_93" cb:to="#end_93"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_94" cb:to="#end_94"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_95" cb:to="#end_95"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_96" cb:to="#end_96"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_97" cb:to="#end_97"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_98" cb:to="#end_98"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_99" cb:to="#end_99"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_9a" cb:to="#end_9a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_9b" cb:to="#end_9b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_9c" cb:to="#end_9c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_9d" cb:to="#end_9d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_9e" cb:to="#end_9e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_9f" cb:to="#end_9f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_a0" cb:to="#end_a0"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_a1" cb:to="#end_a1"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_a2" cb:to="#end_a2"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_a3" cb:to="#end_a3"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_a4" cb:to="#end_a4"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_a5" cb:to="#end_a5"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_a6" cb:to="#end_a6"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_a7" cb:to="#end_a7"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_a8" cb:to="#end_a8"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+<cb:div type="cbeta-notes">
+<head>CBETA 校勘記</head>
+<p>
+</p>
+</cb:div>
+<cb:div type="xuzang-notes">
+<head>卍續藏 校勘記</head>
+<p>
+<note n="0870001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0870001">論卷第三</note>
+<note n="0882001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0882001">論卷第四</note>
+</p>
+</cb:div>
+</back></text></TEI>

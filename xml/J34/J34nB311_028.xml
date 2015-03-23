@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="J34nB311">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Jiaxing Canon, Electronic version, No. B311 天界覺浪盛禪師全錄</title>
+			<author>明 道盛說　大成．大然等較　後附杖門隨集</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.19 $<date>$Date: 2012/06/27 08:15:05 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>33卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/06/27 08:15:05 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Jiaxing Canon Vol. 34, No. B311 </bibl>
+	<listWit>
+		<witness xml:id="wit1">【CBETA】</witness>
+		<witness xml:id="wit2">【大】</witness>
+	</listWit>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version), Part of text as provided by LINDEN</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二），LINDEN 大德提供之部份經文</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB01323">
+	<charName>CBETA CHARACTER CB01323</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[車*度]</value>
+	</charProp>
+	<mapping type="unicode">U+2834F</mapping>
+	<mapping cb:dec="984363" type="PUA">U+F052B</mapping>
+</char>
+<char xml:id="CB01403">
+	<charName>CBETA CHARACTER CB01403</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[囗@力]</value>
+	</charProp>
+	<mapping type="unicode">U+361E</mapping>
+	<mapping cb:dec="984443" type="PUA">U+F057B</mapping>
+</char>
+<char xml:id="CB21392">
+	<charName>CBETA CHARACTER CB21392</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*嵩]</value>
+	</charProp>
+	<mapping cb:dec="1004432" type="PUA">U+F5390</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2008-12-02T16:22:33">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">書札</cb:mulu><cb:mulu type="其他" level="2">主博山時復何觀我書</cb:mulu>
+<pb ed="J" xml:id="J34.B311.0758a" n="0758a"/>
+<lb ed="J" n="0758a01"/><milestone unit="juan" n="28"/><cb:mulu type="卷" n="28"></cb:mulu><cb:juan fun="open" n="28"><cb:jhead>天界覺浪盛禪師全錄卷之二十八</cb:jhead></cb:juan>
+<lb ed="J" n="0758a02"/>
+<lb ed="J" n="0758a03"/><byline cb:type="other">門人　大別　大選　大健　大權　較</byline>
+<lb ed="J" n="0758a04"/><cb:div type="other"><cb:mulu type="其他" level="1">題跋</cb:mulu><head>題跋</head>
+<lb ed="J" n="0758a05"/><cb:div type="other"><cb:mulu type="其他" level="2">題姑蘇建法藥寺療十方僧引</cb:mulu><head>題姑蘇建法藥寺療十方僧引</head>
+<lb ed="J" n="0758a06"/><p xml:id="pJ34p0758a0601">黃道來居士予先父友也歲辛亥予方出家適值恩
+<lb ed="J" n="0758a07"/>愛執歸幸居士深為勸釋復為予卜夢筆山因得閉
+<lb ed="J" n="0758a08"/>關後謝去參壽昌大師遂策杖觀方時戊午從金陵
+<lb ed="J" n="0758a09"/>來閶門訪居士正有事余因特下毒手以酬其夙私
+<lb ed="J" n="0758a10"/>而別迄今又十六年矣去歲予有嵩衡之役偶西湖
+<lb ed="J" n="0758a11"/>雙徑度春夏因取道荊溪故不及姑蘇也抵金陵問
+<lb ed="J" n="0758a12"/>禪者言居士有藥僧願予即寄一偈曰殺得天下人
+<lb ed="J" n="0758a13"/>活得天下人若非自殺漢此鋒無處尋予<anchor xml:id="beg_2e7" type="cb-app"/>已<anchor xml:id="end_2e7"/>先深期
+<lb ed="J" n="0758a14"/>居士矣及予之楚耿天臺請予主盟并以藥僧願約
+<lb ed="J" n="0758a15"/>屬予作序願中有曰人之生老與死此中著力不得
+<lb ed="J" n="0758a16"/>惟有病之一路可以救藥予笑曰是則是豈不知佛
+<lb ed="J" n="0758a17"/>祖出世特以生死二字為人著力者乎舍此則亦無
+<lb ed="J" n="0758a18"/>從施設法藥矣居士以僧徒無主病苦可悲或小恙
+<lb ed="J" n="0758a19"/>而大劇活症而瀕死誠大士見為藥草救療沉痾之
+<lb ed="J" n="0758a20"/>弘願也又云年逾五十筋力易衰不趁此歲月作行
+<lb ed="J" n="0758a21"/>門犬馬悔將何及至望諸方大德皆發勇擔荷共成
+<lb ed="J" n="0758a22"/>勝事嗚呼余讀至此益可悲其志而傷其事也居士
+<lb ed="J" n="0758a23"/>欲以自<anchor xml:id="beg_2e8" type="cb-app"/>己<anchor xml:id="end_2e8"/>必死之身救他人無常之病其智癡願切
+<lb ed="J" n="0758a24"/>世人所緩而獨急尤可謂難行之事也況有一等向
+<lb ed="J" n="0758a25"/>上病痛千聖所拱手不能為治者在耶昔維摩示疾
+<lb ed="J" n="0758a26"/>毘耶以病作醫欲去眾生無始愛見攀緣妄想之業
+<lb ed="J" n="0758a27"/>況此四大地水火風變化詭異如夢幻空華難可捉
+<lb ed="J" n="0758a28"/>摸孰能一一按其症候人人授其藥石哉即維摩神
+<lb ed="J" n="0758a29"/>力亦不過欲眾生悟此生死妄因而自得解脫耳不
+<lb ed="J" n="0758a30"/>然即使盡大地人皆如長壽天無病苦之惱亦何補
+<pb ed="J" xml:id="J34.B311.0758b" n="0758b"/>
+<lb ed="J" n="0758b01"/>於眾生慧命乎即予一人有身<anchor xml:id="beg_2e9" type="cb-app"/>已<anchor xml:id="end_2e9"/>來無日不病無病
+<lb ed="J" n="0758b02"/>不奇使居士終身為予左右調視亦不能盡善此幻
+<lb ed="J" n="0758b03"/>業也況能為天下後世耶昔有真人患大瘋癩自視
+<lb ed="J" n="0758b04"/>身為棄物不久即得成道是則眾生因病悟幻因病
+<lb ed="J" n="0758b05"/>了心以病為大良藥者則亦取諸自身矣居士年迫
+<lb ed="J" n="0758b06"/>桑榆而不自治亦何暇以不急之務自誤哉噫居士
+<lb ed="J" n="0758b07"/>必先有見于此乎必先有主張于是乎一切眾生至
+<lb ed="J" n="0758b08"/>于羽毛鱗甲之屬其迷<anchor xml:id="beg_2ea" type="cb-app"/>已<anchor xml:id="end_2ea"/>極即有微言妙法難使開
+<lb ed="J" n="0758b09"/>悟獨有人於彼生死之際解放其性命彼必感我救
+<lb ed="J" n="0758b10"/>拔以激起報恩之心反能消落其積業而頓悟此靈
+<lb ed="J" n="0758b11"/>則施藥之當機捷矣又如僧者豈不有因病而感其
+<lb ed="J" n="0758b12"/>真智因法以悟其妄業而同游此大藥籠乎夫如是
+<lb ed="J" n="0758b13"/>能以法藥二施則療一僧之身病即可療盡天下眾
+<lb ed="J" n="0758b14"/>生之心病也續一日之危命即可續萬世不絕之慧
+<lb ed="J" n="0758b15"/>命也即不然居士雖藥院不成能舉此心倡此行自
+<lb ed="J" n="0758b16"/>足感悟十方豈有如是真因無如是真果也哉予壽
+<lb ed="J" n="0758b17"/>昌祖每見病僧必親調藥餌見僧遷化必躬負薪茶
+<lb ed="J" n="0758b18"/>毘予此身不知為人調藥負薪者耶人為我調藥負
+<lb ed="J" n="0758b19"/>薪者耶予當執杖鞭吾徒皆從其後則吾最初感居
+<lb ed="J" n="0758b20"/>士勸釋之心亦可以酬矣居士矍鑠哉無疑予不來
+<lb ed="J" n="0758b21"/>也無疑予不來也且為先聲。</p></cb:div>
+<lb ed="J" n="0758b22"/><cb:div type="other"><cb:mulu type="其他" level="2">題梅花和韻</cb:mulu><head>題梅花和韻</head>
+<lb ed="J" n="0758b23"/><p xml:id="pJ34p0758b2301">陳涉江特地向寒崖枯木中拈出一枝花自笑自吟
+<lb ed="J" n="0758b24"/>不知熏出許多忍俊不禁者迭為敲唱生出無限幽
+<lb ed="J" n="0758b25"/>光逸韻振作性情益見此中有一種天然秘藏愈出
+<lb ed="J" n="0758b26"/>愈奇愈無而愈有也邵石生亦感此而和之隨手指
+<lb ed="J" n="0758b27"/>點半空陸離此花能固人窮又能與人富矣嗚呼邵
+<lb ed="J" n="0758b28"/>子須知徹骨之寒本不為粥香計而香落人間熏人
+<lb ed="J" n="0758b29"/>性光有如此者夏時殷輅周冕韶舞皆森然于陋巷
+<lb ed="J" n="0758b30"/>簞瓢中要在自問其不改者何如將徒以郊寒島瘦
+<pb ed="J" xml:id="J34.B311.0758c" n="0758c"/>
+<lb ed="J" n="0758c01"/>作口語遣放耶。</p></cb:div>
+<lb ed="J" n="0758c02"/><cb:div type="other"><cb:mulu type="其他" level="2">又題梅花和詩</cb:mulu><head>又題梅花和詩</head>
+<lb ed="J" n="0758c03"/><p xml:id="pJ34p0758c0301">吾宗提唱獨貴生機機生則句活也句活則不與人
+<lb ed="J" n="0758c04"/>躲根能令人起疑發悟亦可八面受敵不死于人句
+<lb ed="J" n="0758c05"/>下文辭之妙亦必得此始為可傳故諸尊宿每拈古
+<lb ed="J" n="0758c06"/>詩以激揚玄旨蓋有取于此陳涉江偶以梅花作十
+<lb ed="J" n="0758c07"/>六詠其匠心獨妙能創人生機王穆如諸風雅忍俊
+<lb ed="J" n="0758c08"/>不禁起而和之方歎其奇才異出紀伯紫亦托此寫
+<lb ed="J" n="0758c09"/>其氣骨勁挺姿韻高華儼欲先春爭意予因進之以
+<lb ed="J" n="0758c10"/>參宗門之花一朝勘破性命根芽則品地才情超超
+<lb ed="J" n="0758c11"/>物外更當別有聞香者在。</p></cb:div>
+<lb ed="J" n="0758c12"/><cb:div type="other"><cb:mulu type="其他" level="2">石谿道者禪偈引</cb:mulu><head>石谿道者禪偈引</head>
+<lb ed="J" n="0758c13"/><p xml:id="pJ34p0758c1301">奇而不出乎正則涉怪誕矣機昧終始能免乎正而
+<lb ed="J" n="0758c14"/>不寓乎奇則涉鄙俗矣濁智流轉能免乎此怪與俗
+<lb ed="J" n="0758c15"/>皆是學處不深宗旨不爛故也杖人讀石谿道者禪
+<lb ed="J" n="0758c16"/>偈其題註皆出於佛祖言行之正其偈語皆出於佛
+<lb ed="J" n="0758c17"/>祖宗旨之奇惟奇能使人疑而悟惟正能使人思無
+<lb ed="J" n="0758c18"/>邪此雖不可以拈頌並款而語意甚似雲門諸綱宗
+<lb ed="J" n="0758c19"/>偈句蓋彼得之於秦時<g ref="#CB01323">𨍏</g>轢鑽石公得之於鈯斧石
+<lb ed="J" n="0758c20"/>頭滑以故龍三老特拈出曰依舊是香嚴上樹話開
+<lb ed="J" n="0758c21"/>口便喪失身命此又鼻王兩孔一路出氣不啻與時
+<lb ed="J" n="0758c22"/>人作僧繇點眼法也余不禁忌為此嚏之。</p></cb:div>
+<lb ed="J" n="0758c23"/><cb:div type="other"><cb:mulu type="其他" level="2">馮開之先生小像贊題辭</cb:mulu><head>馮開之先生小像贊題辭</head>
+<lb ed="J" n="0758c24"/><p xml:id="pJ34p0758c2401">古人不死能令後世人見今人不死乃能徹見古人
+<lb ed="J" n="0758c25"/>如馮開之先生文章德業令聞施身又能精出世法
+<lb ed="J" n="0758c26"/>其奇特處儼然與蘇長公之事跡異世同風誠千載
+<lb ed="J" n="0758c27"/>之間出者也古今之人皆稟此靈植此身遊此世乃
+<lb ed="J" n="0758c28"/>其獨超超於身世者果得何道耶阿咸爾中居士嘗
+<lb ed="J" n="0758c29"/>從杖人遊獨根先人不得同此一時予笑曰先生曾
+<lb ed="J" n="0758c30"/>偕陸太宰皈心紫柏尊者不啻文殊普賢之相符又
+<pb ed="J" xml:id="J34.B311.0759a" n="0759a"/>
+<lb ed="J" n="0759a01"/>何歉於此乎爾中蹴然喜曰今幸大師一點出則此
+<lb ed="J" n="0759a02"/>三大師又向徑山拄杖頭上放大光明也小子又何
+<lb ed="J" n="0759a03"/>恨哉因出此卷請題余援筆曰遊山水間攜書何為
+<lb ed="J" n="0759a04"/>松下石頭庶幾知之。</p></cb:div>
+<lb ed="J" n="0759a05"/><cb:div type="other"><cb:mulu type="其他" level="2">題方孩未侍御書白香山八漸偈卷</cb:mulu><head>題方孩未侍御書白香山八漸偈卷</head>
+<lb ed="J" n="0759a06"/><p xml:id="pJ34p0759a0601">白香山於教義無涯中揭出八漸如使人從一摩尼
+<lb ed="J" n="0759a07"/>圓炤中求入頭處亦是導人一方便也士大夫家誰
+<lb ed="J" n="0759a08"/>有閒心於此循序而求其從容中道者哉方孩未直
+<lb ed="J" n="0759a09"/>心言事於獄中有得晚年逍遙偶爾下筆皆類香山
+<lb ed="J" n="0759a10"/>今於其弟萍水上座處見其手錄之卷亦可見其留
+<lb ed="J" n="0759a11"/>神慧業蓋亦從香山而進步者也心性本妙眾生自
+<lb ed="J" n="0759a12"/>粗猶將金剛寶刀日以割泥則其鋒芒日損如能以
+<lb ed="J" n="0759a13"/>純靜心以法理自磨則其智刃日新不可當也此非
+<lb ed="J" n="0759a14"/>佛祖聖賢之所以異於眾生百姓者以其能善用此
+<lb ed="J" n="0759a15"/>寶刀也哉穎上契闊今日重得一相見矣然青山白
+<lb ed="J" n="0759a16"/>石之誓切不可又同香山之忘之也。</p></cb:div>
+<lb ed="J" n="0759a17"/><cb:div type="other"><cb:mulu type="其他" level="2">王元倬孝廉南陔十詠引</cb:mulu><head>王元倬孝廉南陔十詠引</head>
+<lb ed="J" n="0759a18"/><p xml:id="pJ34p0759a1801">人未相見時求有爾我之形神固不可得既相見後
+<lb ed="J" n="0759a19"/>求無爾我之形神亦不可得昔無不能有之今有不
+<lb ed="J" n="0759a20"/>能無之向來目形為色而以性為神安得不二之耶
+<lb ed="J" n="0759a21"/>就中交神之道是古今之秘密藏也誰能悟哉雖然
+<lb ed="J" n="0759a22"/>使無道學性命之義交神於中又何貴於相見之有
+<lb ed="J" n="0759a23"/>予丁巳冬初到金陵即晤元倬王公於天界彼時皆
+<lb ed="J" n="0759a24"/>少年也偶一談笑適然相契於鏡心像跡至今庚寅
+<lb ed="J" n="0759a25"/>春重晤於方園<anchor xml:id="beg_2eb" type="cb-app"/>已<anchor xml:id="end_2eb"/>相去三十四年矣而此形神之交
+<lb ed="J" n="0759a26"/>孰能更有無之倬公廣交天下士獨於杖人不能相
+<lb ed="J" n="0759a27"/>忘今且以南陔十詠相質屬予一言以識其親友之
+<lb ed="J" n="0759a28"/>密夫南陔為思養不及之詩而笙歌以為無辭之曲
+<lb ed="J" n="0759a29"/>十詠相賡亦時哉之噫乎此足以見公天性之親與
+<lb ed="J" n="0759a30"/>神交之友曾無間然於色性也子夏嘗問孝而聞色
+<pb ed="J" xml:id="J34.B311.0759b" n="0759b"/>
+<lb ed="J" n="0759b01"/>難之旨果其賢人之賢能易乎君親友之色相而踐
+<lb ed="J" n="0759b02"/>乎天性是真能學道者也非人生之最難者乎倬公
+<lb ed="J" n="0759b03"/>天資淳至祗以事親為出處以道味為交游踐形者
+<lb ed="J" n="0759b04"/>神形即是神隨其爾汝又何以有無支蔓它求乎哉
+<lb ed="J" n="0759b05"/>公其勉之當更有無愧相見於秘密者矣。</p></cb:div>
+<lb ed="J" n="0759b06"/><cb:div type="other"><cb:mulu type="其他" level="2">讀方挺之傳題辭</cb:mulu><head>讀方挺之傳題辭</head>
+<lb ed="J" n="0759b07"/><p xml:id="pJ34p0759b0701">天地人物只有一性情之靈為可傳也性情不靈則
+<lb ed="J" n="0759b08"/>與草木同腐即天地之幾亦息矣故君子疾沒世而
+<lb ed="J" n="0759b09"/>名不稱焉名乃神之應也神而不應則性情無所附
+<lb ed="J" n="0759b10"/>麗附麗之指不獨推佛聖之圓妙即一言一行之有
+<lb ed="J" n="0759b11"/>神者亦足以昭人倫關風化也古來有歷世第存氏
+<lb ed="J" n="0759b12"/>族之譜而無其傳者有富貴而且壽考無其傳者有
+<lb ed="J" n="0759b13"/>文章功業可傳而無其傳者即有之大都是子孫為
+<lb ed="J" n="0759b14"/>其祖父朋友為其知<anchor xml:id="beg_2ec" type="cb-app"/>己<anchor xml:id="end_2ec"/>後世仰其高風為之也然未
+<lb ed="J" n="0759b15"/>有父為子傳若方爾止為其子挺之之傳之奇也是
+<lb ed="J" n="0759b16"/>其奇也豈其父有不容<anchor xml:id="beg_2ed" type="cb-app"/>己<anchor xml:id="end_2ed"/>者故痛為之乎豈其親友
+<lb ed="J" n="0759b17"/>亦有不容<anchor xml:id="beg_2ee" type="cb-app"/>己<anchor xml:id="end_2ee"/>者快為之乎嗚呼世風斯下矣有能篤
+<lb ed="J" n="0759b18"/>父子親友之性情而不容<anchor xml:id="beg_2ef" type="cb-app"/>己<anchor xml:id="end_2ef"/>者為之則又不可以泥
+<lb ed="J" n="0759b19"/>於氏族富貴壽考文章功業之為之也既為其性情
+<lb ed="J" n="0759b20"/>所不容<anchor xml:id="beg_2f0" type="cb-app"/>己<anchor xml:id="end_2f0"/>故能於生死夭枉中神神奇奇靈靈幻幻
+<lb ed="J" n="0759b21"/>足以鼓之舞之警之惺之以闢世人三世幽明之不
+<lb ed="J" n="0759b22"/>迷五倫交感之不隔也雖然亦繇於父奇母奇子奇
+<lb ed="J" n="0759b23"/>親友奇然後可以吞吐古今激揚隱昧也時人不達
+<lb ed="J" n="0759b24"/>性情之感區區苦欲求解過去因果強引古人機緣
+<lb ed="J" n="0759b25"/>為據證無乃誣見在之神靈為不可據乎於此正足
+<lb ed="J" n="0759b26"/>見父子親友必於性情交感此神乃靈不則徒如聚
+<lb ed="J" n="0759b27"/>木石塵垢自相埋沒不亦大可哀乎哀莫大於心死
+<lb ed="J" n="0759b28"/>此心不死則天地人物文章功業皆有神而可傳傳
+<lb ed="J" n="0759b29"/>而能通也是又烏可<anchor xml:id="beg_2f1" type="cb-app"/>已<anchor xml:id="end_2f1"/>哉予方外人讀此更不引佛
+<lb ed="J" n="0759b30"/>法因果為之解第提其性情之不容<anchor xml:id="beg_2f2" type="cb-app"/>己<anchor xml:id="end_2f2"/>處使能先讀
+<pb ed="J" xml:id="J34.B311.0759c" n="0759c"/>
+<lb ed="J" n="0759c01"/>吾之題辭然後再讀挺之傳與諸公詩賦則後世下
+<lb ed="J" n="0759c02"/>必有勃然怨艾於性情而警惺之者又當以方子之
+<lb ed="J" n="0759c03"/>傳為<anchor xml:id="beg_2f3" type="cb-app"/>嚆<anchor xml:id="end_2f3"/>矢也。</p></cb:div>
+<lb ed="J" n="0759c04"/><cb:div type="other"><cb:mulu type="其他" level="2">心經別題引</cb:mulu><head>心經別題引<note place="inline">為雲棲座主蓮勺</note></head>
+<lb ed="J" n="0759c05"/><p xml:id="pJ34p0759c0501">可二祖於少林覓心了不可得末上禮拜而立未免
+<lb ed="J" n="0759c06"/>殃及兒孫璨三祖因覓罪相了不可得特地作信心
+<lb ed="J" n="0759c07"/>銘大似缽孟安柄後來中峰於天目度竹篦子處猛
+<lb ed="J" n="0759c08"/>省乃從銘下更作闢義雖則以毒攻毒其奈以訛傳
+<lb ed="J" n="0759c09"/>訛如此之輩是皆與心作冤對者也殊不知始作俑
+<lb ed="J" n="0759c10"/>者是黃面老子於般若中談出此心經耳然不知此
+<lb ed="J" n="0759c11"/>心何來此經何出直饒他各逞妙手幾曾不依樣葫
+<lb ed="J" n="0759c12"/>蘆雲棲璸公久爛教乘嘗親依杖人於徑山獨恨未
+<lb ed="J" n="0759c13"/>能與之倒斷無端被人把住作心經別又不免彷彿
+<lb ed="J" n="0759c14"/>闢義將娘生鼻孔東扭西捏而添負累矣雖然有能
+<lb ed="J" n="0759c15"/>於此捉敗得渠則可許彼來徑山討痛棒喫。</p></cb:div>
+<lb ed="J" n="0759c16"/><cb:div type="other"><cb:mulu type="其他" level="2">題掌下血痕卷後</cb:mulu><head>題掌下血痕卷後</head>
+<lb ed="J" n="0759c17"/><p xml:id="pJ34p0759c1701">杖人主廬山時黃海岸金正希二居士嘗稱魚山熊
+<lb ed="J" n="0759c18"/>公種骨奇峭如見吾師必能別出手眼杖人於楚<anchor xml:id="beg_2f4" type="cb-app"/>已<anchor xml:id="end_2f4"/>
+<lb ed="J" n="0759c19"/>曾遙識公之丰采矣以世幻變常各有轉身出路至
+<lb ed="J" n="0759c20"/>於一死一生交情自見今久乃有湘潭禪者來石城
+<lb ed="J" n="0759c21"/>始得傳魚公<anchor xml:id="beg_2f5" type="cb-app"/>已<anchor xml:id="end_2f5"/>披髮入南嶽青黯黯處然念杖人甚
+<lb ed="J" n="0759c22"/>切不啻密移一步看雲飛也杖人聞之喜而不寐偶
+<lb ed="J" n="0759c23"/>有郝子一則公案正是三峰問石頂目三老婆徹困
+<lb ed="J" n="0759c24"/>之蹟與杖人掌血之痕似乎決不可付與非人恰好
+<lb ed="J" n="0759c25"/>魚公是自家屋裏漢特地寄去當使熱面相看悲風
+<lb ed="J" n="0759c26"/>匝地尚有杖人與公所自負之末後一事正當磨劍
+<lb ed="J" n="0759c27"/>幸速有以慰我。</p>
+<lb ed="J" n="0759c28"/><p xml:id="pJ34p0759c2801" rend="margin-left:2em">王仲山司馬表其同官阮山峰司寇平反天界
+<lb ed="J" n="0759c29"/>航公冤獄之卷其八世孫萬松果公不忘先祖
+<lb ed="J" n="0759c30"/>所感之德求為之題。</p>
+<pb ed="J" xml:id="J34.B311.0760a" n="0760a"/>
+<lb ed="J" n="0760a01"/><p xml:id="pJ34p0760a0101">文殊普賢二大士忽起佛見法見被世尊神力攝入
+<lb ed="J" n="0760a02"/>二鐵圍山中不知有何過犯不知誰能為出之此是
+<lb ed="J" n="0760a03"/>佛祖一向上牢關之甚密者也吾人無始劫來之事
+<lb ed="J" n="0760a04"/>且不論即今一日十二時隱微中有多少自迷陷事
+<lb ed="J" n="0760a05"/>何曾有一人能自平反之此甚可畏者也又何區區
+<lb ed="J" n="0760a06"/>形於事跡而後始可警省哉予見陳旻昭侍御於諸
+<lb ed="J" n="0760a07"/>公中又別出手眼一拈題之更足以因機激發則前
+<lb ed="J" n="0760a08"/>人之為後世嚆矢益可見矣。</p></cb:div>
+<lb ed="J" n="0760a09"/><cb:div type="other"><cb:mulu type="其他" level="2">題樺冠子自傳</cb:mulu><head>題樺冠子自傳</head>
+<lb ed="J" n="0760a10"/><p xml:id="pJ34p0760a1001">人有奇才異志而不遇於世者固矣卒能於深山取
+<lb ed="J" n="0760a11"/>樺木之葉為頂上之冠且自仰羨之無斁則所取非
+<lb ed="J" n="0760a12"/>木葉之儔皆是所棄觀其自贊欲以樺膚代茅庇世
+<lb ed="J" n="0760a13"/>寒以樺肌代膏燭長夜又如秋水明霞幽壑新月何
+<lb ed="J" n="0760a14"/>可以孤絕擬其神骨哉唐宜翁書其自傳<anchor xml:id="beg_2f6" type="cb-app"/>已<anchor xml:id="end_2f6"/>高之獨
+<lb ed="J" n="0760a15"/>竊怪其出入三乘之言不得以文字作游戲此君子
+<lb ed="J" n="0760a16"/>正誼以告朋友伯紫當為其父拜命則古道真風足
+<lb ed="J" n="0760a17"/>以振起伯紫之所為孝又當資始乎此也予遂題其
+<lb ed="J" n="0760a18"/>端曰木葉之光。</p></cb:div>
+<lb ed="J" n="0760a19"/><cb:div type="other"><cb:mulu type="其他" level="2">牛首山藏名公游山詩記跋</cb:mulu><head>牛首山藏名公游山詩記跋</head>
+<lb ed="J" n="0760a20"/><p xml:id="pJ34p0760a2001">洪覺範禪師跋顏平原蘇子瞻黃山谷諸公墨跡曰
+<lb ed="J" n="0760a21"/>文章翰墨以道德節義見重使諸公書法即不工亦
+<lb ed="J" n="0760a22"/>足見重於世矧又妙絕千古有不足以傳乎牛首弘
+<lb ed="J" n="0760a23"/>覺寺主僧憨公以昭代大宗伯鳳阿姜公大司寇弇
+<lb ed="J" n="0760a24"/>州王公游山詩記先年<anchor xml:id="beg_2f7" type="cb-app"/>已<anchor xml:id="end_2f7"/>落世人之手獨能苦心求
+<lb ed="J" n="0760a25"/>歸常住為一大軸寶惜之以增重山門因屬余跋數
+<lb ed="J" n="0760a26"/>語於後以識其傳遠之意予曰我知公非寶此墨跡
+<lb ed="J" n="0760a27"/>也惟是其人則心畫心聲無非贊揚法化以引後世
+<lb ed="J" n="0760a28"/>皈依豈徒壯觀名山以恣游覽<anchor xml:id="beg_2f8" type="cb-app"/>已<anchor xml:id="end_2f8"/>耶蓋有所以託乎
+<lb ed="J" n="0760a29"/>筆墨者而非筆墨也有所以遊乎山水者而非山水
+<lb ed="J" n="0760a30"/>也後來遊山水者觀此亦知自愛其鼎始足托重也
+<pb ed="J" xml:id="J34.B311.0760b" n="0760b"/>
+<lb ed="J" n="0760b01"/>乎。</p></cb:div>
+<lb ed="J" n="0760b02"/><cb:div type="other"><cb:mulu type="其他" level="2">為石谿書楚辭招魂</cb:mulu><head>為石谿書楚辭招魂</head>
+<lb ed="J" n="0760b03"/><p xml:id="pJ34p0760b0301">楚忠臣屈原被讒見放乃作離騷冀君感悟而還<anchor xml:id="beg_2f9" type="cb-app"/>已<anchor xml:id="end_2f9"/>
+<lb ed="J" n="0760b04"/>懷王不省原不忍見宗國之危亡遂沈汨羅而死弟
+<lb ed="J" n="0760b05"/>子宋玉悲其志作招魂招之原之魂誰能招乎非君
+<lb ed="J" n="0760b06"/>命無能招非君國無可託乃設為帝命巫陽招之猶
+<lb ed="J" n="0760b07"/>曰楚王<anchor xml:id="beg_2fa" type="cb-app"/>已<anchor xml:id="end_2fa"/>悟今招原之忠魂必能歸於楚國也屈原
+<lb ed="J" n="0760b08"/>果可以假托而招之乎正以忠臣孝子不得君父之
+<lb ed="J" n="0760b09"/>心不盡臣子之職生生死死皆無所逃於天地之間
+<lb ed="J" n="0760b10"/>矣余曰招魂者須君臣先自招也君無所歸則臣無
+<lb ed="J" n="0760b11"/>所託所謂君憂臣辱君辱臣死今君既辱且死則臣
+<lb ed="J" n="0760b12"/>之生死何所逃乎即死誰能招之即招之何所歸之
+<lb ed="J" n="0760b13"/>故曰此實招千萬世下為君為臣者當先有所歸也
+<lb ed="J" n="0760b14"/>不然滿天下皆游魂又孰能招之弔原而反騷者曰
+<lb ed="J" n="0760b15"/>君子得時則大行不得時則龍蛇遇不遇命也何必
+<lb ed="J" n="0760b16"/>湛身哉此豈不知忠魂之有所歸乎石谿嘗錄善本
+<lb ed="J" n="0760b17"/>又欲何招焉予因語石谿曰招魂賦備述四方之惡
+<lb ed="J" n="0760b18"/>獨崇楚國之美而招曰魂兮歸來去君之恒幹何為
+<lb ed="J" n="0760b19"/>乎四方些舍此樂處離彼不祥些此正與一部彌陀
+<lb ed="J" n="0760b20"/>經以彼佛國土無有眾苦名為極樂但能一心不亂
+<lb ed="J" n="0760b21"/>專持名號即得往生成就如是依正功德莊嚴知此
+<lb ed="J" n="0760b22"/>一心不亂則知魂兮歸來知此魂兮歸來則知一心
+<lb ed="J" n="0760b23"/>不亂蓋人倫以不得君父則無所立身出世不得心
+<lb ed="J" n="0760b24"/>性則無所立命忠君愛國與唯心淨土是同是別知
+<lb ed="J" n="0760b25"/>此則盡法界亦無所逃於此心矣奇哉。</p></cb:div>
+<lb ed="J" n="0760b26"/><cb:div type="other"><cb:mulu type="其他" level="2">題葵石居士夢石圖</cb:mulu><head>題葵石居士夢石圖</head>
+<lb ed="J" n="0760b27"/><p xml:id="pJ34p0760b2701">華嚴宗旨以法界惟心造正與大易感而遂通天下
+<lb ed="J" n="0760b28"/>之故一機軸也聖凡之依正皆感心業而成即佛祖
+<lb ed="J" n="0760b29"/>神道亦以感應始交文恪朱公以廷對第一至翰林
+<lb ed="J" n="0760b30"/>時夢家園葵花大開感而生子喜其有向日之忠因
+<pb ed="J" xml:id="J34.B311.0760c" n="0760c"/>
+<lb ed="J" n="0760c01"/>字葵焉及公成人忽自夢於古剎彌勒前見鳥雀有
+<lb ed="J" n="0760c02"/>失群者觸石而殞乃自創曰禽鳥有至性尚不滅奈
+<lb ed="J" n="0760c03"/>何人不如乎俄空中有神告曰善哉果以一念之忠
+<lb ed="J" n="0760c04"/>貞足感千秋之靈應公不覺毅然化為石峰炯炯若
+<lb ed="J" n="0760c05"/>有至大至剛之氣充塞於天壤者驚而寤乃自命為
+<lb ed="J" n="0760c06"/>葵石以故一生居家出仕無不感此忠貞而發諸事
+<lb ed="J" n="0760c07"/>業此父子傳神之學也且世為法門柱石契闊寤寐
+<lb ed="J" n="0760c08"/><anchor xml:id="beg_2fb" type="cb-app"/>已<anchor xml:id="end_2fb"/>十餘年今又晤公於針劄不入處當能石上栽花
+<lb ed="J" n="0760c09"/>笑倒南泉無措手口也更為夢石圓夢可乎。</p></cb:div>
+<lb ed="J" n="0760c10"/><cb:div type="other"><cb:mulu type="其他" level="2">題定菴老人手澤卷</cb:mulu><head>題定菴老人手澤卷</head>
+<lb ed="J" n="0760c11"/><p xml:id="pJ34p0760c1101">予昔在博山見懷煦道默石車同參友以諸方尊宿
+<lb ed="J" n="0760c12"/>手卷呈和尚與雪關兄同看各自有賞鑒者予時獨
+<lb ed="J" n="0760c13"/>以須看有何言句能與人結冤業如秪水上擊棓堪
+<lb ed="J" n="0760c14"/>作何用和尚與雪兄皆愕然點首曰正是所謂千年
+<lb ed="J" n="0760c15"/>故紙可合藥也予今偶倚杖梵受院主靜聞乃焚香
+<lb ed="J" n="0760c16"/>大展以其祖定菴老人手澤及諸家題辭卷呈覽并
+<lb ed="J" n="0760c17"/>求一語弁之予細閱乃知此老操履孤峻如天馬行
+<lb ed="J" n="0760c18"/>空不落影跡即彼山海關外慘殺場中薦拔幽魂與
+<lb ed="J" n="0760c19"/>五臺冰雪中掉頭不返此便足以媿悚人心神不忍
+<lb ed="J" n="0760c20"/>自陷於生死也彼交游如雪嶠之倔強瓶窯之精密
+<lb ed="J" n="0760c21"/>咸能磨稜合縫相就於公可不觀友而知其人乎至
+<lb ed="J" n="0760c22"/>如題辭中有永覺古德石雨三宜素華道開諸公之
+<lb ed="J" n="0760c23"/>稱述其高風異節與發藥其後世子孫又有足與人
+<lb ed="J" n="0760c24"/>結業報恩冤之有在也予特拈出以示其有血汗之
+<lb ed="J" n="0760c25"/>厥種云。</p></cb:div>
+<lb ed="J" n="0760c26"/><cb:div type="other"><cb:mulu type="其他" level="2">題小屋如漁舟卷</cb:mulu><head>題小屋如漁舟卷</head>
+<lb ed="J" n="0760c27"/><p xml:id="pJ34p0760c2701">一篙上人未脫白時即以小屋如漁舟自額其居不
+<lb ed="J" n="0760c28"/>知志於渭川之出乎志於嚴陵之處乎石倉曹公喜
+<lb ed="J" n="0760c29"/>與游嘗題詠其風流標致而友愛之誼甚高素法師
+<lb ed="J" n="0760c30"/><anchor xml:id="beg_2fc" type="cb-app"/>已<anchor xml:id="end_2fc"/>鮮筆稱之矣值世變煙波乃以一篙自命而撐出
+<pb ed="J" xml:id="J34.B311.0761a" n="0761a"/>
+<lb ed="J" n="0761a01"/>焉獨追龍門愚菴二老倡徉乎西泠鴛水之上石老
+<lb ed="J" n="0761a02"/>奪其釣竿要討浮定有無之意三老縱其船子要使
+<lb ed="J" n="0761a03"/>沒蹤跡處翻身則篙之為篙誠不易也今年杖人偶
+<lb ed="J" n="0761a04"/>來梵受將閱月上人周旋於丈室間煞有轉變之密
+<lb ed="J" n="0761a05"/>一日披其卷乃再歎之曰古人拋梭為龍蓋妙於化
+<lb ed="J" n="0761a06"/>也上人之機如此則化之及篙篙之為化又何可預
+<lb ed="J" n="0761a07"/>為畫哉杖人且拭目待之。</p></cb:div>
+<lb ed="J" n="0761a08"/><cb:div type="other"><cb:mulu type="其他" level="2">題恒生上座血書法華經</cb:mulu><head>題恒生上座血書法華經</head>
+<lb ed="J" n="0761a09"/><p xml:id="pJ34p0761a0901">華嚴一真法界如箇太極盤子八八六十四卦無不
+<lb ed="J" n="0761a10"/>具備爭奈針劄不入所以天下人物無不陷在卦爻
+<lb ed="J" n="0761a11"/>之中自非悉達從盤底下翻出坎中指天指地<g ref="#CB01403">㘞</g>轉
+<lb ed="J" n="0761a12"/>坤艮之蘊誰能使天地同根之人如帝出乎震潔齊
+<lb ed="J" n="0761a13"/>乎巽相見乎離與天地合德日月合明與萬物各正
+<lb ed="J" n="0761a14"/>性命乎法華經本末開合之意魚符正在乎此不則
+<lb ed="J" n="0761a15"/>何以收歸坤兌而證天乾之涅槃真際為原始返終
+<lb ed="J" n="0761a16"/>之道哉恒生上座發源於台宗必深討其旨故能以
+<lb ed="J" n="0761a17"/>舌血代眉間放光照破根塵識界全歸華藏一真乃
+<lb ed="J" n="0761a18"/>知水潦遭一踏俱胝睹一指便能頓見全機超超向
+<lb ed="J" n="0761a19"/>上非強設也杖人偶於鴛水發棹武林時驀遇恒公
+<lb ed="J" n="0761a20"/>索此不免剔起兩莖為之喝彩更請衍門老代我一
+<lb ed="J" n="0761a21"/>拶恒公恒公當從何處始能以斷貫索穿卻善財龍
+<lb ed="J" n="0761a22"/>女二人鼻孔為踏盤子人耶咄。</p></cb:div>
+<lb ed="J" n="0761a23"/><cb:div type="other"><cb:mulu type="其他" level="2">題韓聖秋通天巖問答語</cb:mulu><head>題韓聖秋通天巖問答語</head>
+<lb ed="J" n="0761a24"/><p xml:id="pJ34p0761a2401">郭功輔訪白雲端驀拈上大人大似重與渾沌氏破
+<lb ed="J" n="0761a25"/>一天荒楊次公訪芙蓉楷驀曰別來未久善能高鑒
+<lb ed="J" n="0761a26"/>大似與黑漆桶開一生面秪遮兩則機鋒置在冷落
+<lb ed="J" n="0761a27"/>地上項者聖秋中翰特來武林見杖人不拈丘乙<anchor xml:id="beg_2fd" type="cb-app"/>己<anchor xml:id="end_2fd"/>
+<lb ed="J" n="0761a28"/>不作別來久但道居士來也不禁撫掌一笑韓公云
+<lb ed="J" n="0761a29"/>某胸襟有天樣大海樣深底事擬欲舉似和尚被遮
+<lb ed="J" n="0761a30"/>一笑直得如見駭雞之犀無處不頓發神彩也杖人
+<pb ed="J" xml:id="J34.B311.0761b" n="0761b"/>
+<lb ed="J" n="0761b01"/>又笑云還有恁麼那韓公曰某從西江一行於吉州
+<lb ed="J" n="0761b02"/>正會笑公主持青原振起垂足之風轉見石頭路滑
+<lb ed="J" n="0761b03"/>也某曾於通天巖見坡公遺石上一語質諸住山人
+<lb ed="J" n="0761b04"/>亦不免皆揣摩之意獨笑公佛法人情有一椎兩當
+<lb ed="J" n="0761b05"/>而格外奪卻通玄者即坡公于道德有無天世三五
+<lb ed="J" n="0761b06"/>等語將謂不作意言分別耶今遭和尚遮一笑頓使
+<lb ed="J" n="0761b07"/>上大人別來久與坡公之借座於佛印逞秤於玉泉
+<lb ed="J" n="0761b08"/>皆活潑潑身裏出門矣乃出其通天巖問答稿請日
+<lb ed="J" n="0761b09"/>和尚不可便休更與一句杖人曰居士且去。</p></cb:div>
+<lb ed="J" n="0761b10"/><cb:div type="other"><cb:mulu type="其他" level="2">張方伯金剛心經別解題辭</cb:mulu><head>張方伯金剛心經別解題辭</head>
+<lb ed="J" n="0761b11"/><p xml:id="pJ34p0761b1101">予嘗見癢和子謎語曰遮裏遮裏那裏那裏不是不
+<lb ed="J" n="0761b12"/>是正是正是此真千古之絕快也天下人最親切于
+<lb ed="J" n="0761b13"/>身心者莫過痛癢忽然搔著其處是何等快予壽昌
+<lb ed="J" n="0761b14"/>師翁初與諸友同論金剛經甚暢廩山老祖驀呼曰
+<lb ed="J" n="0761b15"/>汝等還知此經有教眼宗眼乎翁驚問如何是宗眼
+<lb ed="J" n="0761b16"/>祖乃拂衣而去翁疑之後於大好山話頓悟此旨乃
+<lb ed="J" n="0761b17"/>知教眼端有宗眼之妙密也六祖初於此經有省後
+<lb ed="J" n="0761b18"/>從黃梅碓房重得入室印正以故妙通宗說如舞太
+<lb ed="J" n="0761b19"/>阿無人能避其鋒影蓋此經有時如清涼池四面皆
+<lb ed="J" n="0761b20"/>可入此諸家之解釋也有時如大火聚八面盡燎人
+<lb ed="J" n="0761b21"/>此諸老之提唱也此經之妙又何曾限人于各自激
+<lb ed="J" n="0761b22"/>揚乎予亦有二經別拈正欲質之明眼今倚杖皋亭
+<lb ed="J" n="0761b23"/>偶韓公聖秋以予通于坦翁居士特邀晤于鳳凰山
+<lb ed="J" n="0761b24"/>寺可謂敲水來煮茶山海坦然平也張公素與方外
+<lb ed="J" n="0761b25"/>人遊而深于宗說乃以所著心經平等金剛如是二
+<lb ed="J" n="0761b26"/>解示予乃略展讀其提綱數篇此中意何縱橫絕無
+<lb ed="J" n="0761b27"/>訓詁之累機鋒錯落妙得殺活之神自非深于教眼
+<lb ed="J" n="0761b28"/>宗眼能如是處處搔著佛與空生舍利之痛癢乎韓
+<lb ed="J" n="0761b29"/>公見予擊節不<anchor xml:id="beg_2fe" type="cb-app"/>已<anchor xml:id="end_2fe"/>乃屬予作一題詞以識千古法喜
+<lb ed="J" n="0761b30"/>遂述以質之不知能搔著公之癢處否。</p></cb:div>
+<pb ed="J" xml:id="J34.B311.0761c" n="0761c"/>
+<lb ed="J" n="0761c01"/><cb:div type="other"><cb:mulu type="其他" level="2">題友蒼嵩公軸子</cb:mulu><head>題友蒼嵩公軸子</head>
+<lb ed="J" n="0761c02"/><p xml:id="pJ34p0761c0201">蘇眉山以天地鬼神不能與人相接故以蓍龜為之
+<lb ed="J" n="0761c03"/>介紹此善其命也韓子心醉友公無以擬諸其形容
+<lb ed="J" n="0761c04"/>乃倩奇人邈此川藞苴將箇小古錐托在掌上且自
+<lb ed="J" n="0761c05"/>瞋怪之是又欲以此為介紹乎哉杖人見而笑之曰
+<lb ed="J" n="0761c06"/>其亡其亡繫於苞桑曹家女子嫁孟八郎。</p></cb:div></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_2e7" cb:to="#end_2e7"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2e8" cb:to="#end_2e8"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2e9" cb:to="#end_2e9"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2ea" cb:to="#end_2ea"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2eb" cb:to="#end_2eb"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2ec" cb:to="#end_2ec"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2ed" cb:to="#end_2ed"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2ee" cb:to="#end_2ee"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2ef" cb:to="#end_2ef"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2f0" cb:to="#end_2f0"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2f1" cb:to="#end_2f1"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2f2" cb:to="#end_2f2"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2f3" cb:to="#end_2f3"><corr>嚆</corr><sic><g ref="#CB21392">󵎐</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2f4" cb:to="#end_2f4"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2f5" cb:to="#end_2f5"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2f6" cb:to="#end_2f6"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2f7" cb:to="#end_2f7"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2f8" cb:to="#end_2f8"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2f9" cb:to="#end_2f9"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2fa" cb:to="#end_2fa"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2fb" cb:to="#end_2fb"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2fc" cb:to="#end_2fc"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2fd" cb:to="#end_2fd"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2fe" cb:to="#end_2fe"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

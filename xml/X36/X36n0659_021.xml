@@ -1,0 +1,760 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X36n0659">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 659 涅槃經會疏</title>
+			<author>隋 灌頂撰　唐 湛然再治　日本 本純分會</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.21 $<date>$Date: 2012/04/12 11:05:39 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		<respStmt xml:id="resp2"><resp>corrections</resp><name>Xuzangjing</name></respStmt>
+		<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA</name></respStmt>
+	</editionStmt>
+	<extent>36卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/04/12 11:05:39 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 36, No. 659 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB07038">
+	<charName>CBETA CHARACTER CB07038</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[燕/鳥]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>燕</value>
+	</charProp>
+	<mapping type="unicode">U+2A20F</mapping>
+	<mapping cb:dec="990078" type="PUA">U+F1B7E</mapping>
+</char>
+<char xml:id="CB12530">
+	<charName>CBETA CHARACTER CB12530</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[釐-未+牙]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>釐</value>
+	</charProp>
+	<mapping type="unicode">U+28932</mapping>
+	<mapping cb:dec="995570" type="PUA">U+F30F2</mapping>
+</char>
+<char xml:id="CB15179">
+	<charName>CBETA CHARACTER CB15179</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[少/隹]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>雀</value>
+	</charProp>
+	<mapping cb:dec="998219" type="PUA">U+F3B4B</mapping>
+</char>
+<char xml:id="CB18834">
+	<charName>CBETA CHARACTER CB18834</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[○@編]</value>
+	</charProp>
+	<mapping cb:dec="1001874" type="PUA">U+F4992</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2006-09-29T16:29:23">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">高貴德王菩薩品第二十二</cb:mulu><cb:div type="other">
+<pb ed="X" xml:id="X36.0659.0631c" n="0631c"/>
+<lb ed="X" n="0631c01"/><lb ed="R057" n="0313a01"/><milestone unit="juan" n="21"/><cb:mulu type="卷" n="21"></cb:mulu><cb:juan fun="open" n="21"><cb:jhead>南本大般涅槃經會疏卷第二十一</cb:jhead></cb:juan>
+<lb ed="X" n="0631c02"/><lb ed="R057" n="0313a02"/>
+<lb ed="X" n="0631c03"/><lb ed="R057" n="0313a03"/><p xml:id="pX36p0631c0301">大般涅槃經高貴德王菩薩品之三<note place="inline">卷第二十一</note></p>
+<lb ed="X" n="0631c04"/><lb ed="R057" n="0313a04"/><p xml:id="pX36p0631c0401" rend="margin-left:5em">北涼　天竺三藏　曇無讖　譯</p>
+<lb ed="X" n="0631c05"/><lb ed="R057" n="0313a05"/><p xml:id="pX36p0631c0501" rend="margin-left:5em">晉　沙門　慧嚴　慧觀
+<lb ed="X" n="0631c06"/><lb ed="R057" n="0313a06"/>　謝靈運　重治</p>
+<lb ed="X" n="0631c07"/><lb ed="R057" n="0313a07"/><cb:div type="commentary"><p xml:id="pX36p0631c0701" rend="margin-left:1em">德王品之三</p>
+<lb ed="X" n="0631c08"/><lb ed="R057" n="0313a08"/><p xml:id="pX36p0631c0801" rend="margin-left:1em">起卷釋第七念漏又二先明漏相次明菩薩無漏
+<lb ed="X" n="0631c09"/><lb ed="R057" n="0313a09"/>能斷念漏。</p></cb:div>
+<lb ed="X" n="0631c10"/><lb ed="R057" n="0313a10"/><cb:div type="orig"><p xml:id="pX36p0631c1001"><anchor xml:id="nkr_note_orig_ke_0631k01" n="0631k01"/>復次善男子凡夫若遇身心苦惱起種種惡若得身
+<lb ed="X" n="0631c11"/><lb ed="R057" n="0313a11"/>病若得心病令身口意作種種惡以作惡故輪回三
+<lb ed="X" n="0631c12"/><lb ed="R057" n="0313a12"/>趣具受諸苦何以故凡夫之人無念慧故是故生於
+<lb ed="X" n="0631c13"/><lb ed="R057" n="0313a13"/>種種諸漏是名念漏。</p></cb:div>
+<lb ed="X" n="0631c14"/><lb ed="R057" n="0313a14"/><cb:div type="commentary"><p xml:id="pX36p0631c1401" rend="margin-left:1em">行心邪念為漏理應具三受中生念漏今偏據苦
+<lb ed="X" n="0631c15"/><lb ed="R057" n="0313a15"/>中生念漏起貪瞋等過。</p>
+<lb ed="X" n="0631c16"/><lb ed="R057" n="0313a16"/><p xml:id="pX36p0631c1601" rend="margin-left:1em">菩薩下第二明菩薩無漏又三法譬結。</p></cb:div>
+<lb ed="X" n="0631c17"/><lb ed="R057" n="0313a17"/><cb:div type="orig"><p xml:id="pX36p0631c1701"><anchor xml:id="nkr_note_orig_ke_0631k02" n="0631k02"/>菩薩摩訶薩常自思惟我從往昔無數劫來為是身
+<lb ed="X" n="0631c18"/><lb ed="R057" n="0313a18"/>心造種種惡以是因緣流轉生死在三惡道具受眾
+<lb ed="X" n="0631c19"/><lb ed="R057" n="0313b01"/>苦遂令我遠三乘正路菩薩以是惡因緣故於<anchor xml:id="beg_433" type="cb-app"/>己<anchor xml:id="end_433"/>身
+<lb ed="X" n="0631c20"/><lb ed="R057" n="0313b02"/>心生大怖畏捨離眾惡趣向善道。</p></cb:div>
+<lb ed="X" n="0631c21"/><lb ed="R057" n="0313b03"/><cb:div type="commentary"><p xml:id="pX36p0631c2101" rend="margin-left:1em">初少許法說明菩薩思惟能斷念漏凡夫愚人不
+<lb ed="X" n="0631c22"/><lb ed="R057" n="0313b04"/>能思惟令其漏滅。</p>
+<lb ed="X" n="0631c23"/><lb ed="R057" n="0313b05"/><p xml:id="pX36p0631c2301" rend="margin-left:1em">從譬如有王下第二譬說為二先譬次合初譬者
+<lb ed="X" n="0631c24"/><lb ed="R057" n="0313b06"/>說之不同或七八九望下合文應是八譬一四蛇
+<pb ed="X" xml:id="X36.0659.0632a" n="0632a"/>
+<lb ed="X" n="0632a01"/><lb ed="R057" n="0313b07"/>二五旃陀羅三詐親四聚落五六賊六大河七草
+<lb ed="X" n="0632a02"/><lb ed="R057" n="0313b08"/>筏八到岸束八為三初六譬道緣次一譬修道後
+<lb ed="X" n="0632a03"/><lb ed="R057" n="0313b09"/>一譬得果。</p></cb:div>
+<lb ed="X" n="0632a04"/><lb ed="R057" n="0313b10"/><cb:div type="orig"><p xml:id="pX36p0632a0401"><anchor xml:id="nkr_note_orig_ke_0632k01" n="0632k01"/>善男子譬如有王以四毒蛇盛之一篋令人養食瞻
+<lb ed="X" n="0632a05"/><lb ed="R057" n="0313b11"/>視臥起摩洗其身若令一蛇生瞋恚者我當準法戮
+<lb ed="X" n="0632a06"/><lb ed="R057" n="0313b12"/>之都市爾時其人聞王切令心生惶怖捨篋逃走。</p></cb:div>
+<lb ed="X" n="0632a07"/><lb ed="R057" n="0313b13"/><cb:div type="commentary"><p xml:id="pX36p0632a0701" rend="margin-left:1em">初言王者三解一云佛說眾生身中四大二云無
+<lb ed="X" n="0632a08"/><lb ed="R057" n="0313b14"/>明能構眾生四大之身三云此經詮眾生四大各
+<lb ed="X" n="0632a09"/><lb ed="R057" n="0313b15"/>相違害譬之如蛇篋譬一身養食譬摩洗準法者
+<lb ed="X" n="0632a10"/><lb ed="R057" n="0313b16"/>依所作惡品有輕重戮之都市者斷善根絕慧命
+<lb ed="X" n="0632a11"/><lb ed="R057" n="0313b17"/>其事顯然故云都市切令者敦惡莫作誡善奉行
+<lb ed="X" n="0632a12"/><lb ed="R057" n="0313b18"/>逃走者若得真解彰顯而去今初伏惑故言逃走
+<lb ed="X" n="0632a13"/><lb ed="R057" n="0314a01"/>次王時復遣下五旃陀羅。</p></cb:div>
+<lb ed="X" n="0632a14"/><lb ed="R057" n="0314a02"/><cb:div type="orig"><p xml:id="pX36p0632a1401"><anchor xml:id="nkr_note_orig_ke_0632k02" n="0632k02"/>王時復遣五旃陀羅拔刀隨之其人回顧見後五人
+<lb ed="X" n="0632a15"/><lb ed="R057" n="0314a03"/>遂疾捨去。</p></cb:div>
+<lb ed="X" n="0632a16"/><lb ed="R057" n="0314a04"/><cb:div type="commentary"><p xml:id="pX36p0632a1601" rend="margin-left:1em">用譬五陰刀譬無常苦回顧者欣涅槃為逃走厭
+<lb ed="X" n="0632a17"/><lb ed="R057" n="0314a05"/>生死為回顧。</p>
+<lb ed="X" n="0632a18"/><lb ed="R057" n="0314a06"/><p xml:id="pX36p0632a1801" rend="margin-left:1em">三是時五人下詐親譬。</p></cb:div>
+<lb ed="X" n="0632a19"/><lb ed="R057" n="0314a07"/><cb:div type="orig"><p xml:id="pX36p0632a1901"><anchor xml:id="nkr_note_orig_ke_0632k03" n="0632k03"/>是時五人以惡方便藏所持刀密遣一人詐為親善
+<lb ed="X" n="0632a20"/><lb ed="R057" n="0314a08"/>而語之言汝可來還。</p></cb:div>
+<lb ed="X" n="0632a21"/><lb ed="R057" n="0314a09"/><cb:div type="commentary"><p xml:id="pX36p0632a2101" rend="margin-left:1em">藏刀者以虗妄我覆於無我妄樂覆苦密遣一人
+<lb ed="X" n="0632a22"/><lb ed="R057" n="0314a10"/>一人譬愛五陰行心有此貪愛能惑眾生故言詐
+<lb ed="X" n="0632a23"/><lb ed="R057" n="0314a11"/>親。</p>
+<lb ed="X" n="0632a24"/><lb ed="R057" n="0314a12"/><p xml:id="pX36p0632a2401" rend="margin-left:1em">四其一人信下聚落譬。</p></cb:div>
+<pb ed="X" xml:id="X36.0659.0632b" n="0632b"/>
+<lb ed="X" n="0632b01"/><lb ed="R057" n="0314a13"/><cb:div type="orig"><p xml:id="pX36p0632b0101"><anchor xml:id="nkr_note_orig_ke_0632k04" n="0632k04"/>其人不信投一聚落欲自隱匿既入聚中闚視諸舍
+<lb ed="X" n="0632b02"/><lb ed="R057" n="0314a14"/>都不見人執諸<anchor xml:id="nkr_note_orig_0632001" n="0632001"/>瓦器悉空無物既不見人求物不得
+<lb ed="X" n="0632b03"/><lb ed="R057" n="0314a15"/>即便坐地。</p></cb:div>
+<lb ed="X" n="0632b04"/><lb ed="R057" n="0314a16"/><cb:div type="commentary"><p xml:id="pX36p0632b0401" rend="margin-left:1em">譬於五根五根即是識所栖詫如人居聚落瓶器
+<lb ed="X" n="0632b05"/><lb ed="R057" n="0314a17"/>者舊云是重口甖器譬五根重沓字書為洪音既
+<lb ed="X" n="0632b06"/><lb ed="R057" n="0314a18"/>不見人即人空求物不得即法空坐地者安心空
+<lb ed="X" n="0632b07"/><lb ed="R057" n="0314b01"/>境。</p>
+<lb ed="X" n="0632b08"/><lb ed="R057" n="0314b02"/><p xml:id="pX36p0632b0801" rend="margin-left:1em">五聞空聲下六賊譬。</p></cb:div>
+<lb ed="X" n="0632b09"/><lb ed="R057" n="0314b03"/><cb:div type="orig"><p xml:id="pX36p0632b0901"><anchor xml:id="nkr_note_orig_ke_0632k05" n="0632k05"/>聞空中聲咄哉男子此聚空曠無有居民今夜當有
+<lb ed="X" n="0632b10"/><lb ed="R057" n="0314b04"/>六大賊來汝設遇者命將不全汝當云何而得免之。</p>
+<lb ed="X" n="0632b11"/><lb ed="R057" n="0314b05"/><p xml:id="pX36p0632b1101">爾時其人恐怖<anchor xml:id="nkr_note_orig_0632002" n="0632002"/>遂增復捨而去。</p></cb:div>
+<lb ed="X" n="0632b12"/><lb ed="R057" n="0314b06"/><cb:div type="commentary"><p xml:id="pX36p0632b1201" rend="margin-left:1em">譬於六塵能劫善財空聲譬於聞佛教中說有六
+<lb ed="X" n="0632b13"/><lb ed="R057" n="0314b07"/>塵夜來者無明闇心蔽此六塵。</p>
+<lb ed="X" n="0632b14"/><lb ed="R057" n="0314b08"/><p xml:id="pX36p0632b1401" rend="margin-left:1em">六路值一河下譬遇惑流。</p></cb:div>
+<lb ed="X" n="0632b15"/><lb ed="R057" n="0314b09"/><cb:div type="orig"><p xml:id="pX36p0632b1501"><anchor xml:id="nkr_note_orig_ke_0632k06" n="0632k06"/>路值一河河水漂急無有船筏以怖畏故。</p></cb:div>
+<lb ed="X" n="0632b16"/><lb ed="R057" n="0314b10"/><cb:div type="commentary"><p xml:id="pX36p0632b1601" rend="margin-left:1em">但諸眾生恒在煩惱那忽云值一然都未修道則
+<lb ed="X" n="0632b17"/><lb ed="R057" n="0314b11"/>不知惑過今始硑心知其為礙故名為值斷常衝
+<lb ed="X" n="0632b18"/><lb ed="R057" n="0314b12"/>擊譬之漂急乏戒定慧故無船筏。</p>
+<lb ed="X" n="0632b19"/><lb ed="R057" n="0314b13"/><p xml:id="pX36p0632b1901" rend="margin-left:1em">七即取種種下筏譬修道。</p></cb:div>
+<lb ed="X" n="0632b20"/><lb ed="R057" n="0314b14"/><cb:div type="orig"><p xml:id="pX36p0632b2001"><anchor xml:id="nkr_note_orig_ke_0632k07" n="0632k07"/>即取種種草木為筏復更思惟我設住此當為毒蛇
+<lb ed="X" n="0632b21"/><lb ed="R057" n="0314b15"/>五旃陀羅一詐親善及六大賊之所危害若度此河
+<lb ed="X" n="0632b22"/><lb ed="R057" n="0314b16"/>筏不可依當沒水死寧沒水死終不為彼蛇賊所害
+<lb ed="X" n="0632b23"/><lb ed="R057" n="0314b17"/>即推草筏置之水中身倚其上運手動足截流而去。</p></cb:div>
+<lb ed="X" n="0632b24"/><lb ed="R057" n="0314b18"/><cb:div type="commentary"><p xml:id="pX36p0632b2401" rend="margin-left:1em">運手動足譬道用筏不可依慮善微弱不能勝濟
+<pb ed="X" xml:id="X36.0659.0632c" n="0632c"/>
+<lb ed="X" n="0632c01"/><lb ed="R057" n="0315a01"/>身倚者心依此善截流而去草木譬眾善法兩手
+<lb ed="X" n="0632c02"/><lb ed="R057" n="0315a02"/>譬權實二智兩足譬戒定二善。</p>
+<lb ed="X" n="0632c03"/><lb ed="R057" n="0315a03"/><p xml:id="pX36p0632c0301" rend="margin-left:1em">八即達彼岸下譬得涅槃果。</p></cb:div>
+<lb ed="X" n="0632c04"/><lb ed="R057" n="0315a04"/><cb:div type="orig"><p xml:id="pX36p0632c0401"><anchor xml:id="nkr_note_orig_ke_0632k08" n="0632k08"/>即達彼岸安隱無患心意泰然恐怖消除。</p></cb:div>
+<lb ed="X" n="0632c05"/><lb ed="R057" n="0315a05"/><cb:div type="commentary"><p xml:id="pX36p0632c0501" rend="margin-left:1em">在此在流多有所畏既度到果必無所怖。</p>
+<lb ed="X" n="0632c06"/><lb ed="R057" n="0315a06"/><p xml:id="pX36p0632c0601" rend="margin-left:1em">次合八譬初合四蛇即是四大。</p></cb:div>
+<lb ed="X" n="0632c07"/><lb ed="R057" n="0315a07"/><cb:div type="orig"><p xml:id="pX36p0632c0701"><anchor xml:id="nkr_note_orig_ke_0632k09" n="0632k09"/>菩薩摩訶薩得聞受持大涅槃經觀身如篋地水火
+<lb ed="X" n="0632c08"/><lb ed="R057" n="0315a08"/>風如四毒蛇見毒觸毒氣毒齧毒一切眾生遇是四
+<lb ed="X" n="0632c09"/><lb ed="R057" n="0315a09"/>毒故喪其命眾生四大亦復如是或見為惡或觸為
+<lb ed="X" n="0632c10"/><lb ed="R057" n="0315a10"/>惡或氣為惡或齧為惡以是因緣遠離眾善復次善
+<lb ed="X" n="0632c11"/><lb ed="R057" n="0315a11"/>男子菩薩摩訶薩觀四毒蛇有四種性所謂剎利婆
+<lb ed="X" n="0632c12"/><lb ed="R057" n="0315a12"/>羅門毗舍首陀是四大蛇亦復如是有四種性堅性
+<lb ed="X" n="0632c13"/><lb ed="R057" n="0315a13"/>溼性熱性動性是故菩薩觀是四大與四毒蛇同其
+<lb ed="X" n="0632c14"/><lb ed="R057" n="0315a14"/>種性復次善男子菩薩摩訶薩觀是四大如四毒蛇
+<lb ed="X" n="0632c15"/><lb ed="R057" n="0315a15"/>云何為觀是四毒蛇常伺人便何時當視何時當觸
+<lb ed="X" n="0632c16"/><lb ed="R057" n="0315a16"/>何時當噓何時當齧四大毒蛇亦復如是常伺眾生
+<lb ed="X" n="0632c17"/><lb ed="R057" n="0315a17"/>求其短缺若為四蛇之所殺者終不至於三惡道中
+<lb ed="X" n="0632c18"/><lb ed="R057" n="0315a18"/>若為四大之所殺害必至三惡定無有疑是四毒蛇
+<lb ed="X" n="0632c19"/><lb ed="R057" n="0315b01"/>雖復瞻養亦欲殺人四大亦爾雖常供給亦常牽人
+<lb ed="X" n="0632c20"/><lb ed="R057" n="0315b02"/>造作眾惡是四毒蛇若一瞋者則能殺人四大之性
+<lb ed="X" n="0632c21"/><lb ed="R057" n="0315b03"/>亦復如是若一大發亦能害人是四毒蛇雖同一處
+<lb ed="X" n="0632c22"/><lb ed="R057" n="0315b04"/>四心各異四大毒蛇亦復如是雖同一處性各別異
+<lb ed="X" n="0632c23"/><lb ed="R057" n="0315b05"/>是四毒蛇雖復恭敬難可親近四大毒蛇亦復如是
+<lb ed="X" n="0632c24"/><lb ed="R057" n="0315b06"/>雖復恭敬亦難親近是四毒蛇若害人時或有沙門
+<pb ed="X" xml:id="X36.0659.0633a" n="0633a"/>
+<lb ed="X" n="0633a01"/><lb ed="R057" n="0315b07"/>婆羅門等若以呪藥則可療治四大殺人雖有沙門
+<lb ed="X" n="0633a02"/><lb ed="R057" n="0315b08"/>婆羅門等神呪良藥皆不能治如自喜人聞四毒蛇
+<lb ed="X" n="0633a03"/><lb ed="R057" n="0315b09"/>氣臭可惡則便遠離諸佛菩薩亦復如是聞四大臭
+<lb ed="X" n="0633a04"/><lb ed="R057" n="0315b10"/>即便遠離爾時菩薩復更思惟四大毒蛇生大怖畏
+<lb ed="X" n="0633a05"/><lb ed="R057" n="0315b11"/>背之馳趣修八聖道。</p></cb:div>
+<lb ed="X" n="0633a06"/><lb ed="R057" n="0315b12"/><cb:div type="commentary"><p xml:id="pX36p0633a0601" rend="margin-left:1em">大有內外內身四大正合四蛇四大共造眼根合
+<lb ed="X" n="0633a07"/><lb ed="R057" n="0315b13"/>見毒共造身根合觸毒共造鼻根合氣毒共造舌
+<lb ed="X" n="0633a08"/><lb ed="R057" n="0315b14"/>根合齧毒。</p>
+<lb ed="X" n="0633a09"/><lb ed="R057" n="0315b15"/><p xml:id="pX36p0633a0901" rend="margin-left:1em">次合五旃陀如文。</p></cb:div>
+<lb ed="X" n="0633a10"/><lb ed="R057" n="0315b16"/><cb:div type="orig"><p xml:id="pX36p0633a1001"><anchor xml:id="nkr_note_orig_ke_0633k01" n="0633k01"/>五旃陀羅者即是五陰云何菩薩觀於五陰如旃陀
+<lb ed="X" n="0633a11"/><lb ed="R057" n="0315b17"/>羅旃陀羅者常能令人恩愛別離怨憎集會五陰亦
+<lb ed="X" n="0633a12"/><lb ed="R057" n="0315b18"/>爾令人貪近不善之法遠離一切淳善之法復次善
+<lb ed="X" n="0633a13"/><lb ed="R057" n="0316a01"/>男子如旃陀羅種種器仗以自莊嚴若刀若盾若弓
+<lb ed="X" n="0633a14"/><lb ed="R057" n="0316a02"/>若箭若鎧若矟能害於人五陰亦爾以諸煩惱牢自
+<lb ed="X" n="0633a15"/><lb ed="R057" n="0316a03"/>莊嚴害諸癡人令墮諸有善男子如旃陀羅有過之
+<lb ed="X" n="0633a16"/><lb ed="R057" n="0316a04"/>人得便害之五陰亦爾有諸結過常能害人是故菩
+<lb ed="X" n="0633a17"/><lb ed="R057" n="0316a05"/>薩深觀五陰如旃陀羅復次菩薩觀察五陰如旃陀
+<lb ed="X" n="0633a18"/><lb ed="R057" n="0316a06"/>羅旃陀羅人無慈憫心怨親俱害五陰亦爾無慈憫
+<lb ed="X" n="0633a19"/><lb ed="R057" n="0316a07"/>心善惡俱害如旃陀羅惱一切人五陰亦爾以諸煩
+<lb ed="X" n="0633a20"/><lb ed="R057" n="0316a08"/>惱常惱一切生死眾生是故菩薩觀於五陰如旃陀
+<lb ed="X" n="0633a21"/><lb ed="R057" n="0316a09"/>羅復次菩薩觀察五陰如旃陀羅旃陀羅人常懷害
+<lb ed="X" n="0633a22"/><lb ed="R057" n="0316a10"/>心五陰亦爾常懷諸結惱害之心如人無足刀仗侍
+<lb ed="X" n="0633a23"/><lb ed="R057" n="0316a11"/>從當知必為旃陀羅人之所殺害眾生亦爾無足無
+<lb ed="X" n="0633a24"/><lb ed="R057" n="0316a12"/>刀無有侍從則為五陰之所賊害足名為戒刀名為
+<pb ed="X" xml:id="X36.0659.0633b" n="0633b"/>
+<lb ed="X" n="0633b01"/><lb ed="R057" n="0316a13"/>慧侍從名為諸善知識無此三事故為五陰之所賊
+<lb ed="X" n="0633b02"/><lb ed="R057" n="0316a14"/>害是故菩薩觀於五陰如旃陀羅復次男子菩薩摩
+<lb ed="X" n="0633b03"/><lb ed="R057" n="0316a15"/>訶薩觀察五陰過旃陀羅何以故眾生若為五旃陀
+<lb ed="X" n="0633b04"/><lb ed="R057" n="0316a16"/>羅之所殺者不墮地獄為陰殺者則墮地獄是故菩
+<lb ed="X" n="0633b05"/><lb ed="R057" n="0316a17"/>薩觀察五陰過旃陀羅作是觀<anchor xml:id="beg_434" type="cb-app"/>已<anchor xml:id="end_434"/>而作願言我寧終
+<lb ed="X" n="0633b06"/><lb ed="R057" n="0316a18"/>身近旃陀羅不能暫時親近五陰旃陀羅者唯能害
+<lb ed="X" n="0633b07"/><lb ed="R057" n="0316b01"/>於欲界癡人是五陰賊徧害三界凡夫眾生旃陀羅
+<lb ed="X" n="0633b08"/><lb ed="R057" n="0316b02"/>人唯能殺戮有罪之人是五陰賊不問眾生有罪無
+<lb ed="X" n="0633b09"/><lb ed="R057" n="0316b03"/>罪悉能害之旃陀羅人不害衰老婦女穉小是五陰
+<lb ed="X" n="0633b10"/><lb ed="R057" n="0316b04"/>賊不問眾生老小婦女一切悉害是故菩薩深觀五
+<lb ed="X" n="0633b11"/><lb ed="R057" n="0316b05"/>陰過旃陀羅是故發願寧當終身近旃陀羅不能暫
+<lb ed="X" n="0633b12"/><lb ed="R057" n="0316b06"/>時親近五陰復次善男子旃陀羅者唯害他人終不
+<lb ed="X" n="0633b13"/><lb ed="R057" n="0316b07"/>自害五陰之賊自害害他旃陀羅人可以善言錢財
+<lb ed="X" n="0633b14"/><lb ed="R057" n="0316b08"/>寶貨求而得脫五陰不爾不可強以善言誘喻錢財
+<lb ed="X" n="0633b15"/><lb ed="R057" n="0316b09"/>寶貨求而得脫旃陀羅人於四時中不必常殺五陰
+<lb ed="X" n="0633b16"/><lb ed="R057" n="0316b10"/>不爾常於念念害諸眾生旃陀羅人唯在一處可有
+<lb ed="X" n="0633b17"/><lb ed="R057" n="0316b11"/>逃避五陰不爾徧一切處無可逃避旃陀羅人雖復
+<lb ed="X" n="0633b18"/><lb ed="R057" n="0316b12"/>害人害<anchor xml:id="beg_435" type="cb-app"/>已<anchor xml:id="end_435"/>不隨五陰不爾殺眾生<anchor xml:id="beg_436" type="cb-app"/>已<anchor xml:id="end_436"/>隨逐不離是故
+<lb ed="X" n="0633b19"/><lb ed="R057" n="0316b13"/>菩薩寧以終身近旃陀羅不能暫時親近五陰有智
+<lb ed="X" n="0633b20"/><lb ed="R057" n="0316b14"/>之人以善方便得脫五陰善方便者即八聖道六波
+<lb ed="X" n="0633b21"/><lb ed="R057" n="0316b15"/>羅蜜四無量心以是方便而得解脫身心不為五陰
+<lb ed="X" n="0633b22"/><lb ed="R057" n="0316b16"/>所害何以故身如金剛心如虗空是故身心難可沮
+<lb ed="X" n="0633b23"/><lb ed="R057" n="0316b17"/>壞以是義故菩薩觀陰成就種種諸不善法生大怖
+<lb ed="X" n="0633b24"/><lb ed="R057" n="0316b18"/>畏修八聖道亦如彼人畏四毒蛇五旃陀羅涉路而
+<pb ed="X" xml:id="X36.0659.0633c" n="0633c"/>
+<lb ed="X" n="0633c01"/><lb ed="R057" n="0317a01"/>去無所顧留。</p></cb:div>
+<lb ed="X" n="0633c02"/><lb ed="R057" n="0317a02"/><cb:div type="commentary"><p xml:id="pX36p0633c0201" rend="margin-left:1em">三合詐親。</p></cb:div>
+<lb ed="X" n="0633c03"/><lb ed="R057" n="0317a03"/><cb:div type="orig"><p xml:id="pX36p0633c0301"><anchor xml:id="nkr_note_orig_ke_0633k02" n="0633k02"/>詐親善者名為貪愛菩薩摩訶薩深觀愛結如怨詐
+<lb ed="X" n="0633c04"/><lb ed="R057" n="0317a04"/>親若知實者則無能為若不知者必為所害貪愛亦
+<lb ed="X" n="0633c05"/><lb ed="R057" n="0317a05"/>爾若知其性則不能令眾生輪轉生死苦中若不知
+<lb ed="X" n="0633c06"/><lb ed="R057" n="0317a06"/>者輪回六趣具受眾苦何以故愛之為病難捨離故
+<lb ed="X" n="0633c07"/><lb ed="R057" n="0317a07"/>如怨詐親難可遠離怨詐親者常伺人便令愛別離
+<lb ed="X" n="0633c08"/><lb ed="R057" n="0317a08"/>怨憎合會愛亦如是令人遠離一切善法近於一切
+<lb ed="X" n="0633c09"/><lb ed="R057" n="0317a09"/>不善之法以是義故菩薩摩訶薩深觀貪愛如怨詐
+<lb ed="X" n="0633c10"/><lb ed="R057" n="0317a10"/>親見不見故聞不聞故如凡夫人見生死過雖有智
+<lb ed="X" n="0633c11"/><lb ed="R057" n="0317a11"/>慧以癡覆故後還不見聲聞緣覺亦復如是雖見不
+<lb ed="X" n="0633c12"/><lb ed="R057" n="0317a12"/>見雖聞不聞何以故以愛心故所以者何見生死過
+<lb ed="X" n="0633c13"/><lb ed="R057" n="0317a13"/>不能疾至阿耨多羅三藐三菩提以是義故菩薩摩
+<lb ed="X" n="0633c14"/><lb ed="R057" n="0317a14"/>訶薩觀此愛結如怨詐親云何名為怨詐親相如怨
+<lb ed="X" n="0633c15"/><lb ed="R057" n="0317a15"/>不實詐現實相不可親近詐現近相實是不善詐現
+<lb ed="X" n="0633c16"/><lb ed="R057" n="0317a16"/>善相實是不愛詐為愛相何以故常伺人便欲為害
+<lb ed="X" n="0633c17"/><lb ed="R057" n="0317a17"/>故愛亦如是常為眾生非實詐實非近詐近非善詐
+<lb ed="X" n="0633c18"/><lb ed="R057" n="0317a18"/>善非愛詐愛常誑一切輪回生死以是義故菩薩觀
+<lb ed="X" n="0633c19"/><lb ed="R057" n="0317b01"/>愛如怨詐親怨詐親者但見身口不覩其心是故能
+<lb ed="X" n="0633c20"/><lb ed="R057" n="0317b02"/>誑愛亦如是唯為虗誑實不可得是故能惑一切眾
+<lb ed="X" n="0633c21"/><lb ed="R057" n="0317b03"/>生怨詐親者有始有終易可遠離愛不如是無始無
+<lb ed="X" n="0633c22"/><lb ed="R057" n="0317b04"/>終難可遠離怨詐親者遠則難知近則易覺愛不如
+<lb ed="X" n="0633c23"/><lb ed="R057" n="0317b05"/>是近尚難識況復遠知以是義故菩薩觀愛過於詐
+<lb ed="X" n="0633c24"/><lb ed="R057" n="0317b06"/>親一切眾生以愛結故遠大涅槃近於生死遠常樂
+<pb ed="X" xml:id="X36.0659.0634a" n="0634a"/>
+<lb ed="X" n="0634a01"/><lb ed="R057" n="0317b07"/>我淨近無常苦無我不淨是故我於處處經中說為
+<lb ed="X" n="0634a02"/><lb ed="R057" n="0317b08"/>三垢於現在事以無明故不見過患不能捨離愛怨
+<lb ed="X" n="0634a03"/><lb ed="R057" n="0317b09"/>詐親終不能害有智之人是故菩薩深觀此愛生大
+<lb ed="X" n="0634a04"/><lb ed="R057" n="0317b10"/>怖畏修八聖道猶如彼人畏四毒蛇五旃陀羅及一
+<lb ed="X" n="0634a05"/><lb ed="R057" n="0317b11"/>詐親涉路不回。</p></cb:div>
+<lb ed="X" n="0634a06"/><lb ed="R057" n="0317b12"/><cb:div type="commentary"><p xml:id="pX36p0634a0601" rend="margin-left:1em">親只是愛愛能諛諂誘害眾生但前三心不能生
+<lb ed="X" n="0634a07"/><lb ed="R057" n="0317b13"/>愛唯行心中能生親愛然此五陰盡能為惡但起
+<lb ed="X" n="0634a08"/><lb ed="R057" n="0317b14"/>愛取要在行心故云一怨文云怨詐親者有始有
+<lb ed="X" n="0634a09"/><lb ed="R057" n="0317b15"/>終愛心不爾無始無終復有二義一者如十二緣
+<lb ed="X" n="0634a10"/><lb ed="R057" n="0317b16"/>猶如車輪無有始終愛心亦爾無有始終然十二
+<lb ed="X" n="0634a11"/><lb ed="R057" n="0317b17"/>因緣復有始終即無明為始老死為終言無始終
+<lb ed="X" n="0634a12"/><lb ed="R057" n="0317b18"/>義者求愛來處永不可得即無始義去處無從復
+<lb ed="X" n="0634a13"/><lb ed="R057" n="0318a01"/>是無終。</p>
+<lb ed="X" n="0634a14"/><lb ed="R057" n="0318a02"/><p xml:id="pX36p0634a1401" rend="margin-left:1em">次合第四。</p></cb:div>
+<lb ed="X" n="0634a15"/><lb ed="R057" n="0318a03"/><cb:div type="orig"><p xml:id="pX36p0634a1501"><anchor xml:id="nkr_note_orig_ke_0634k01" n="0634k01"/>空聚落者即內六入菩薩摩訶薩觀此六入空無所
+<lb ed="X" n="0634a16"/><lb ed="R057" n="0318a04"/>有猶如空聚如彼怖人既入聚<anchor xml:id="beg_437" type="cb-app"/>已<anchor xml:id="end_437"/>乃至不見有一居
+<lb ed="X" n="0634a17"/><lb ed="R057" n="0318a05"/>人徧捉<anchor xml:id="nkr_note_orig_0634001" n="0634001"/>缻器不得一物菩薩亦爾諦觀六入空無所
+<lb ed="X" n="0634a18"/><lb ed="R057" n="0318a06"/>有不見眾生一物之實是故菩薩觀內六入空無所
+<lb ed="X" n="0634a19"/><lb ed="R057" n="0318a07"/>有如彼空聚善男子彼空聚落羣賊遠望終不生於
+<lb ed="X" n="0634a20"/><lb ed="R057" n="0318a08"/>空虗之想凡夫之人亦復如是於六入聚不生空想
+<lb ed="X" n="0634a21"/><lb ed="R057" n="0318a09"/>以其不能生空想故輪回生死受無量苦善男子羣
+<lb ed="X" n="0634a22"/><lb ed="R057" n="0318a10"/>賊既至乃生空想菩薩亦爾觀此六入常生空想生
+<lb ed="X" n="0634a23"/><lb ed="R057" n="0318a11"/>空想故則不輪回生死受苦菩薩摩訶薩於此六入
+<lb ed="X" n="0634a24"/><lb ed="R057" n="0318a12"/>常無顛倒無顛倒故是故不復輪回生死復次善男
+<pb ed="X" xml:id="X36.0659.0634b" n="0634b"/>
+<lb ed="X" n="0634b01"/><lb ed="R057" n="0318a13"/>子如有羣賊入此空聚則得安樂煩惱諸賊亦復如
+<lb ed="X" n="0634b02"/><lb ed="R057" n="0318a14"/>是入此六入則得安樂如賊住空聚心無所畏煩惱
+<lb ed="X" n="0634b03"/><lb ed="R057" n="0318a15"/>羣賊亦復如是住是六入亦無所畏如彼空聚乃是
+<lb ed="X" n="0634b04"/><lb ed="R057" n="0318a16"/>師子虎狼種種惡獸之所住處是內六入亦復如是
+<lb ed="X" n="0634b05"/><lb ed="R057" n="0318a17"/>一切眾惡煩惱惡獸之所住處是故菩薩深觀六入
+<lb ed="X" n="0634b06"/><lb ed="R057" n="0318a18"/>空無所有純是一切不善住處復次善男子菩薩觀
+<lb ed="X" n="0634b07"/><lb ed="R057" n="0318b01"/>內六入空無所有如彼空聚何以故虗誑不實故空
+<lb ed="X" n="0634b08"/><lb ed="R057" n="0318b02"/>無所有作有想故實無有樂作樂想故實無有人作
+<lb ed="X" n="0634b09"/><lb ed="R057" n="0318b03"/>人想故內六入者亦復如是空無所有而作有想實
+<lb ed="X" n="0634b10"/><lb ed="R057" n="0318b04"/>無有樂而作樂想實無有人而作人想唯有智人乃
+<lb ed="X" n="0634b11"/><lb ed="R057" n="0318b05"/>能知之得其真實復次善男子如空聚落或時有人
+<lb ed="X" n="0634b12"/><lb ed="R057" n="0318b06"/>或時無人六入不爾一向無人何以故性常空故智
+<lb ed="X" n="0634b13"/><lb ed="R057" n="0318b07"/>者所知非是眼見是故菩薩觀內六入多諸怨害修
+<lb ed="X" n="0634b14"/><lb ed="R057" n="0318b08"/>八聖道不休不息猶如彼人畏四毒蛇五旃陀羅一
+<lb ed="X" n="0634b15"/><lb ed="R057" n="0318b09"/>詐親善及六大賊怖著正路。</p></cb:div>
+<lb ed="X" n="0634b16"/><lb ed="R057" n="0318b10"/><cb:div type="commentary"><p xml:id="pX36p0634b1601" rend="margin-left:1em">空聚落者即內六入外世間聚人所住處無人故
+<lb ed="X" n="0634b17"/><lb ed="R057" n="0318b11"/>空六根即是我之栖託求不可得故空如人望舍
+<lb ed="X" n="0634b18"/><lb ed="R057" n="0318b12"/>謂內有人比至進覓都不見有菩薩亦爾觀於六
+<lb ed="X" n="0634b19"/><lb ed="R057" n="0318b13"/>根皆空無我但此六入即為六根并外六塵內外
+<lb ed="X" n="0634b20"/><lb ed="R057" n="0318b14"/>十二六根亦名六情亦云六識根以能生為義情
+<lb ed="X" n="0634b21"/><lb ed="R057" n="0318b15"/>從生識得名然六根無情識即有情從能受名故
+<lb ed="X" n="0634b22"/><lb ed="R057" n="0318b16"/>云六情識取和會根塵和會故能生識。</p>
+<lb ed="X" n="0634b23"/><lb ed="R057" n="0318b17"/><p xml:id="pX36p0634b2301" rend="margin-left:1em">次合第五。</p></cb:div>
+<lb ed="X" n="0634b24"/><lb ed="R057" n="0318b18"/><cb:div type="orig"><p xml:id="pX36p0634b2401"><anchor xml:id="nkr_note_orig_ke_0634k02" n="0634k02"/>六大賊者即外六塵菩薩摩訶薩觀此六塵如六大
+<pb ed="X" xml:id="X36.0659.0634c" n="0634c"/>
+<lb ed="X" n="0634c01"/><lb ed="R057" n="0319a01"/>賊何以故能劫一切諸善法故如六大賊能劫一切
+<lb ed="X" n="0634c02"/><lb ed="R057" n="0319a02"/>人民財寶是六塵賊亦復如是能劫一切眾生善財
+<lb ed="X" n="0634c03"/><lb ed="R057" n="0319a03"/>如六大賊若入人舍則能劫奪現家所有不擇好惡
+<lb ed="X" n="0634c04"/><lb ed="R057" n="0319a04"/>令巨富者忽然貧窮是六塵賊亦復如是若入人根
+<lb ed="X" n="0634c05"/><lb ed="R057" n="0319a05"/>則能劫奪一切善法善法既盡貧窮孤露作一闡提
+<lb ed="X" n="0634c06"/><lb ed="R057" n="0319a06"/>是故菩薩諦觀六塵如六大賊復次善男子如六大
+<lb ed="X" n="0634c07"/><lb ed="R057" n="0319a07"/>賊欲劫人時要因內人若無內人則便中還是六塵
+<lb ed="X" n="0634c08"/><lb ed="R057" n="0319a08"/>賊亦復如是欲劫善法要因內有眾生知見常樂我
+<lb ed="X" n="0634c09"/><lb ed="R057" n="0319a09"/>淨不空等相若內無有如是等相六塵惡賊則不能
+<lb ed="X" n="0634c10"/><lb ed="R057" n="0319a10"/>劫一切善法有智之人內無是相凡夫則有是故六
+<lb ed="X" n="0634c11"/><lb ed="R057" n="0319a11"/>塵常來侵奪善法之財不善護故為其所劫護者名
+<lb ed="X" n="0634c12"/><lb ed="R057" n="0319a12"/>慧有智之人能善防護故不被劫是故菩薩觀是六
+<lb ed="X" n="0634c13"/><lb ed="R057" n="0319a13"/>塵如六大賊等無差別復次善男子如六大賊能為
+<lb ed="X" n="0634c14"/><lb ed="R057" n="0319a14"/>人民身心苦惱是六塵賊亦復如是常為眾生身心
+<lb ed="X" n="0634c15"/><lb ed="R057" n="0319a15"/>苦惱六大賊者唯能劫人現在財物是六塵賊常劫
+<lb ed="X" n="0634c16"/><lb ed="R057" n="0319a16"/>眾生三世善財六大賊者夜則歡樂六塵惡賊亦復
+<lb ed="X" n="0634c17"/><lb ed="R057" n="0319a17"/>如是處無明闇則得歡樂是六大賊唯有諸王乃能
+<lb ed="X" n="0634c18"/><lb ed="R057" n="0319a18"/>遮止六塵惡賊復如是唯佛菩薩乃能遮止是六大
+<lb ed="X" n="0634c19"/><lb ed="R057" n="0319b01"/>賊凡欲劫奪不擇端正種姓聰哲多聞博學豪貴貧
+<lb ed="X" n="0634c20"/><lb ed="R057" n="0319b02"/>賤六塵惡賊亦復如是欲劫善法不擇端正乃至貧
+<lb ed="X" n="0634c21"/><lb ed="R057" n="0319b03"/>賤是六大賊雖有諸王截其手足猶故不能令其心
+<lb ed="X" n="0634c22"/><lb ed="R057" n="0319b04"/>息六塵惡賊亦復如是雖須陀洹斯陀含阿那含截
+<lb ed="X" n="0634c23"/><lb ed="R057" n="0319b05"/>其手足亦不能令不劫善法如勇健人乃能摧伏是
+<lb ed="X" n="0634c24"/><lb ed="R057" n="0319b06"/>六大賊諸佛菩薩亦復如是乃能摧伏六塵惡賊譬
+<pb ed="X" xml:id="X36.0659.0635a" n="0635a"/>
+<lb ed="X" n="0635a01"/><lb ed="R057" n="0319b07"/>如有人多諸種族宗黨熾盛則不為彼六賊所劫眾
+<lb ed="X" n="0635a02"/><lb ed="R057" n="0319b08"/>生亦爾有善知識不為六塵惡賊所劫是六大賊若
+<lb ed="X" n="0635a03"/><lb ed="R057" n="0319b09"/>見人物則能偷劫六塵不爾若見若知若聞若嗅若
+<lb ed="X" n="0635a04"/><lb ed="R057" n="0319b10"/>觸若覺皆悉能劫六大賊者唯能劫奪欲界人財不
+<lb ed="X" n="0635a05"/><lb ed="R057" n="0319b11"/>能劫奪色無色界六塵惡賊則不如是能劫三界一
+<lb ed="X" n="0635a06"/><lb ed="R057" n="0319b12"/>切善寶是故菩薩諦觀六塵過彼六賊作是觀<anchor xml:id="beg_438" type="cb-app"/>已<anchor xml:id="end_438"/>修
+<lb ed="X" n="0635a07"/><lb ed="R057" n="0319b13"/>八聖道直往不回如彼怖人畏四毒蛇五旃陀羅一
+<lb ed="X" n="0635a08"/><lb ed="R057" n="0319b14"/>詐親善及六大賊捨空聚落涉路而去。</p></cb:div>
+<lb ed="X" n="0635a09"/><lb ed="R057" n="0319b15"/><cb:div type="commentary"><p xml:id="pX36p0635a0901" rend="margin-left:1em">六賊即是六塵賊從外來劫人資財六塵之賊劫
+<lb ed="X" n="0635a10"/><lb ed="R057" n="0319b16"/>人善法但此六塵生三種法四事能生細煩惱者
+<lb ed="X" n="0635a11"/><lb ed="R057" n="0319b17"/>名為四微所生者麤故名四大言四事者色香味
+<lb ed="X" n="0635a12"/><lb ed="R057" n="0319b18"/>觸四大各四亦不具四五事生者名為五欲言五
+<lb ed="X" n="0635a13"/><lb ed="R057" n="0320a01"/>事者足一聲塵六事生者即名六塵塵是滓累之
+<lb ed="X" n="0635a14"/><lb ed="R057" n="0320a02"/>名。</p>
+<lb ed="X" n="0635a15"/><lb ed="R057" n="0320a03"/><p xml:id="pX36p0635a1501" rend="margin-left:1em">次合第六一河。</p></cb:div>
+<lb ed="X" n="0635a16"/><lb ed="R057" n="0320a04"/><cb:div type="orig"><p xml:id="pX36p0635a1601"><anchor xml:id="nkr_note_orig_ke_0635k01" n="0635k01"/>路值一河者即是煩惱云何菩薩觀此煩惱猶如大
+<lb ed="X" n="0635a17"/><lb ed="R057" n="0320a05"/>河如彼駛河能漂香象煩惱駛河亦復如是能漂緣
+<lb ed="X" n="0635a18"/><lb ed="R057" n="0320a06"/>覺是故菩薩深觀煩惱猶如駛河深難得底故名為
+<lb ed="X" n="0635a19"/><lb ed="R057" n="0320a07"/>河邊不可得故名為大其中多有種種惡魚煩惱大
+<lb ed="X" n="0635a20"/><lb ed="R057" n="0320a08"/>河亦復如是唯佛菩薩能得底故故名極深唯佛菩
+<lb ed="X" n="0635a21"/><lb ed="R057" n="0320a09"/>薩得其邊故故名廣大常害一切癡眾生故故名惡
+<lb ed="X" n="0635a22"/><lb ed="R057" n="0320a10"/>魚是故菩薩觀此煩惱猶如大河如大河水能長一
+<lb ed="X" n="0635a23"/><lb ed="R057" n="0320a11"/>切草木叢林煩惱大河亦復如是能長眾生二十五
+<lb ed="X" n="0635a24"/><lb ed="R057" n="0320a12"/>有是故菩薩觀此煩惱猶如大河譬如有人墮大河
+<pb ed="X" xml:id="X36.0659.0635b" n="0635b"/>
+<lb ed="X" n="0635b01"/><lb ed="R057" n="0320a13"/>水無有慙愧眾生亦爾墮煩惱河無有慙愧如墮河
+<lb ed="X" n="0635b02"/><lb ed="R057" n="0320a14"/>者未得其底即便命終墮煩惱河亦復如是未盡其
+<lb ed="X" n="0635b03"/><lb ed="R057" n="0320a15"/>底周回輪轉二十五有所言底者名為空相若有不修
+<lb ed="X" n="0635b04"/><lb ed="R057" n="0320a16"/>如是空相當知是人不得出離二十五有一切眾生
+<lb ed="X" n="0635b05"/><lb ed="R057" n="0320a17"/>不能善修空無相故常為煩惱駛河所漂如彼大河
+<lb ed="X" n="0635b06"/><lb ed="R057" n="0320a18"/>唯能壞身不能漂沒一切善法煩惱大河則不如是
+<lb ed="X" n="0635b07"/><lb ed="R057" n="0320b01"/>能壞一切身心善法彼大暴河唯能漂沒欲界中人
+<lb ed="X" n="0635b08"/><lb ed="R057" n="0320b02"/>煩惱大河乃能漂沒三界人天世間大河運動手足
+<lb ed="X" n="0635b09"/><lb ed="R057" n="0320b03"/>則到彼岸煩惱大河唯有菩薩因六波羅蜜乃能得
+<lb ed="X" n="0635b10"/><lb ed="R057" n="0320b04"/>度如大河水難可得度煩惱大河亦復如是難可得
+<lb ed="X" n="0635b11"/><lb ed="R057" n="0320b05"/>度云何名為難可得度乃至十住諸大菩薩猶故未
+<lb ed="X" n="0635b12"/><lb ed="R057" n="0320b06"/>能畢竟得度唯有諸佛乃畢竟度是故名為難可得
+<lb ed="X" n="0635b13"/><lb ed="R057" n="0320b07"/>度譬如有人為河所漂不能修習毫<g ref="#CB12530">𨤲</g>善法眾生亦
+<lb ed="X" n="0635b14"/><lb ed="R057" n="0320b08"/>爾為煩惱河所漂沒者亦復不能修習善法如人墮
+<lb ed="X" n="0635b15"/><lb ed="R057" n="0320b09"/>河為水所漂餘有力者則能拔濟墮煩惱河為一闡
+<lb ed="X" n="0635b16"/><lb ed="R057" n="0320b10"/>提聲聞緣覺乃至諸佛不能救濟世間大河劫盡之
+<lb ed="X" n="0635b17"/><lb ed="R057" n="0320b11"/>時七日竝照能令枯涸煩惱大河則不如是聲聞緣
+<lb ed="X" n="0635b18"/><lb ed="R057" n="0320b12"/>覺雖修七覺猶不能乾是故菩薩觀諸煩惱猶如暴
+<lb ed="X" n="0635b19"/><lb ed="R057" n="0320b13"/>河譬如彼人畏四毒蛇五旃陀羅一詐親善及六大
+<lb ed="X" n="0635b20"/><lb ed="R057" n="0320b14"/>賊捨空聚落隨路而去。</p></cb:div>
+<lb ed="X" n="0635b21"/><lb ed="R057" n="0320b15"/><cb:div type="commentary"><p xml:id="pX36p0635b2101" rend="margin-left:1em">河是煩惱但此<anchor xml:id="nkr_note_orig_0635001" n="0635001"/>開二河六河不暇併述有生死河
+<lb ed="X" n="0635b22"/><lb ed="R057" n="0320b16"/>涅槃河善法河佛性河<note place="inline">云云</note>但此經中三河不同
+<lb ed="X" n="0635b23"/><lb ed="R057" n="0320b17"/>師子中明生死河迦葉中明涅槃河此中明煩惱
+<lb ed="X" n="0635b24"/><lb ed="R057" n="0320b18"/>河。</p>
+<pb ed="X" xml:id="X36.0659.0635c" n="0635c"/>
+<lb ed="X" n="0635c01"/><lb ed="R057" n="0321a01"/><p xml:id="pX36p0635c0101" rend="margin-left:1em">既至河上取草為筏下合第七譬。</p></cb:div>
+<lb ed="X" n="0635c02"/><lb ed="R057" n="0321a02"/><cb:div type="orig"><p xml:id="pX36p0635c0201"><anchor xml:id="nkr_note_orig_ke_0635k02" n="0635k02"/>既至河上取草為筏者菩薩亦爾畏四大蛇五陰旃
+<lb ed="X" n="0635c03"/><lb ed="R057" n="0321a03"/>陀羅愛詐親善六入空聚六塵惡賊至煩惱河修戒
+<lb ed="X" n="0635c04"/><lb ed="R057" n="0321a04"/>定慧解脫解脫知見六波羅蜜三十七品以為船筏
+<lb ed="X" n="0635c05"/><lb ed="R057" n="0321a05"/>依乘此筏度煩惱河。</p></cb:div>
+<lb ed="X" n="0635c06"/><lb ed="R057" n="0321a06"/><cb:div type="commentary"><p xml:id="pX36p0635c0601" rend="margin-left:1em">戒定智慧以為三品。</p>
+<lb ed="X" n="0635c07"/><lb ed="R057" n="0321a07"/><p xml:id="pX36p0635c0701" rend="margin-left:1em">到於彼岸下合第八到彼岸譬常樂涅槃。</p></cb:div>
+<lb ed="X" n="0635c08"/><lb ed="R057" n="0321a08"/><cb:div type="orig"><p xml:id="pX36p0635c0801"><anchor xml:id="nkr_note_orig_ke_0635k03" n="0635k03"/>到於彼岸常樂涅槃菩薩修行大涅槃者作是思惟
+<lb ed="X" n="0635c09"/><lb ed="R057" n="0321a09"/>我若不能忍受如是身苦心苦則不能令一切眾生
+<lb ed="X" n="0635c10"/><lb ed="R057" n="0321a10"/>度煩惱河以是思惟雖有如是身心苦惱默然忍受
+<lb ed="X" n="0635c11"/><lb ed="R057" n="0321a11"/>以忍受故則不生漏。</p>
+<lb ed="X" n="0635c12"/><lb ed="R057" n="0321a12"/><p xml:id="pX36p0635c1201"><anchor xml:id="nkr_note_orig_ke_0635k04" n="0635k04"/>如是菩薩尚無諸漏況佛如來而當有漏是故諸佛
+<lb ed="X" n="0635c13"/><lb ed="R057" n="0321a13"/>不名有漏。</p></cb:div>
+<lb ed="X" n="0635c14"/><lb ed="R057" n="0321a14"/><cb:div type="commentary"><p xml:id="pX36p0635c1401" rend="margin-left:1em">云何如來非無漏下第二釋非無漏半句。</p></cb:div>
+<lb ed="X" n="0635c15"/><lb ed="R057" n="0321a15"/><cb:div type="orig"><p xml:id="pX36p0635c1501"><anchor xml:id="nkr_note_orig_ke_0635k05" n="0635k05"/>云何如來非無漏耶如來常行有漏中故有漏即是
+<lb ed="X" n="0635c16"/><lb ed="R057" n="0321a16"/>二十五有是故聲聞凡夫之人言佛有漏諸佛如來
+<lb ed="X" n="0635c17"/><lb ed="R057" n="0321a17"/>真實無漏。</p></cb:div>
+<lb ed="X" n="0635c18"/><lb ed="R057" n="0321a18"/><cb:div type="commentary"><p xml:id="pX36p0635c1801" rend="margin-left:1em">文云如來常行有漏者數人云有漏無漏逐境為
+<lb ed="X" n="0635c19"/><lb ed="R057" n="0321b01"/>判若緣漏境名為有漏緣無漏境即名無漏此中
+<lb ed="X" n="0635c20"/><lb ed="R057" n="0321b02"/>明如來有漏似數人解何故爾文云如來常行有
+<lb ed="X" n="0635c21"/><lb ed="R057" n="0321b03"/>漏有漏即二十五有故知是從二十五有境為名
+<lb ed="X" n="0635c22"/><lb ed="R057" n="0321b04"/>論人從心何時逐境我體清淨無煩惱時雖緣漏
+<lb ed="X" n="0635c23"/><lb ed="R057" n="0321b05"/>境心不成漏此之兩解為鬬諍本此中具明如來
+<lb ed="X" n="0635c24"/><lb ed="R057" n="0321b06"/>非有漏非無漏非有漏者乃明如來無復諸漏非
+<pb ed="X" xml:id="X36.0659.0636a" n="0636a"/>
+<lb ed="X" n="0636a01"/><lb ed="R057" n="0321b07"/>無漏者明佛猶有漏此漏無漏欲明佛是非有漏
+<lb ed="X" n="0636a02"/><lb ed="R057" n="0321b08"/>非無漏漏無漏雙非何曾云是有漏無漏。</p>
+<lb ed="X" n="0636a03"/><lb ed="R057" n="0321b09"/><p xml:id="pX36p0636a0301" rend="margin-left:1em">善男子以是因緣下第三結不定。</p></cb:div>
+<lb ed="X" n="0636a04"/><lb ed="R057" n="0321b10"/><cb:div type="orig"><p xml:id="pX36p0636a0401"><anchor xml:id="nkr_note_orig_ke_0636k01" n="0636k01"/>善男子以是因緣諸佛如來無有定相善男子是故
+<lb ed="X" n="0636a05"/><lb ed="R057" n="0321b11"/>犯四重禁謗方等經及一闡提悉皆不定。</p></cb:div>
+<lb ed="X" n="0636a06"/><lb ed="R057" n="0321b12"/><cb:div type="commentary"><p xml:id="pX36p0636a0601" rend="margin-left:1em">爾時德王下第三領解<note place="inline">云云</note>。</p></cb:div>
+<lb ed="X" n="0636a07"/><lb ed="R057" n="0321b13"/><cb:div type="orig"><p xml:id="pX36p0636a0701"><anchor xml:id="nkr_note_orig_ke_0636k02" n="0636k02"/>爾時光明徧照高貴德王菩薩摩訶薩言如是如是
+<lb ed="X" n="0636a08"/><lb ed="R057" n="0321b14"/>誠如聖言一切諸法悉皆不定以不定故當知如來
+<lb ed="X" n="0636a09"/><lb ed="R057" n="0321b15"/>亦不畢竟入於涅槃。</p></cb:div>
+<lb ed="X" n="0636a10"/><lb ed="R057" n="0321b16"/><cb:div type="commentary"><p xml:id="pX36p0636a1001" rend="margin-left:1em">如佛上說下第二德王更請答上果問者前問既
+<lb ed="X" n="0636a11"/><lb ed="R057" n="0321b17"/>遠故重牒之就上第二雙問因果中先雙答因果
+<lb ed="X" n="0636a12"/><lb ed="R057" n="0321b18"/>次別答因果別答中如來既廣答因竟今德王更
+<lb ed="X" n="0636a13"/><lb ed="R057" n="0322a01"/>騰果問文為二先騰果問。</p></cb:div>
+<lb ed="X" n="0636a14"/><lb ed="R057" n="0322a02"/><cb:div type="orig"><p xml:id="pX36p0636a1401"><anchor xml:id="nkr_note_orig_ke_0636k03" n="0636k03"/>如佛上說菩薩摩訶薩修大涅槃聞不聞中有涅槃
+<lb ed="X" n="0636a15"/><lb ed="R057" n="0322a03"/>有大涅槃云何涅槃云何大涅槃。</p></cb:div>
+<lb ed="X" n="0636a16"/><lb ed="R057" n="0322a04"/><cb:div type="commentary"><p xml:id="pX36p0636a1601" rend="margin-left:1em">爾時佛讚下第二如來答又二一歎問二正答。</p></cb:div>
+<lb ed="X" n="0636a17"/><lb ed="R057" n="0322a05"/><cb:div type="orig"><p xml:id="pX36p0636a1701"><anchor xml:id="nkr_note_orig_ke_0636k04" n="0636k04"/>爾時佛讚光明徧照高貴德王菩薩摩訶薩言善哉
+<lb ed="X" n="0636a18"/><lb ed="R057" n="0322a06"/>善哉善男子若有菩薩得念總持乃能如汝之所咨
+<lb ed="X" n="0636a19"/><lb ed="R057" n="0322a07"/>問。</p></cb:div>
+<lb ed="X" n="0636a20"/><lb ed="R057" n="0322a08"/><cb:div type="commentary"><p xml:id="pX36p0636a2001" rend="margin-left:1em">初但歎問即有二意一歎其有憶持不忘既經長
+<lb ed="X" n="0636a21"/><lb ed="R057" n="0322a09"/>時猶憶前問能請佛答故是得念總持之力二者
+<lb ed="X" n="0636a22"/><lb ed="R057" n="0322a10"/>此涅槃中多有所含汝今併欲而總持之是故復
+<lb ed="X" n="0636a23"/><lb ed="R057" n="0322a11"/>云得念總持。</p>
+<lb ed="X" n="0636a24"/><lb ed="R057" n="0322a12"/><p xml:id="pX36p0636a2401" rend="margin-left:1em">如世人言下第二正答又二一者舉大小相對是
+<pb ed="X" xml:id="X36.0659.0636b" n="0636b"/>
+<lb ed="X" n="0636b01"/><lb ed="R057" n="0322a13"/>就相待義答二者就絕待義答其大涅槃問初明
+<lb ed="X" n="0636b02"/><lb ed="R057" n="0322a14"/>相待即有十對絕待義者如下文中譬如虗空不
+<lb ed="X" n="0636b03"/><lb ed="R057" n="0322a15"/>因小空名為大空涅槃亦爾不因小相名為大相
+<lb ed="X" n="0636b04"/><lb ed="R057" n="0322a16"/>就相待中二先舉十對以為十譬次合。</p></cb:div>
+<lb ed="X" n="0636b05"/><lb ed="R057" n="0322a17"/><cb:div type="orig"><p xml:id="pX36p0636b0501"><anchor xml:id="nkr_note_orig_ke_0636k05" n="0636k05"/>善男子如世人言有海大海有河大河有山大山有
+<lb ed="X" n="0636b06"/><lb ed="R057" n="0322a18"/>地大地有城大城有眾生大眾生有王大王有人大
+<lb ed="X" n="0636b07"/><lb ed="R057" n="0322b01"/>人有天天中天有道大道。</p></cb:div>
+<lb ed="X" n="0636b08"/><lb ed="R057" n="0322b02"/><cb:div type="commentary"><p xml:id="pX36p0636b0801" rend="margin-left:1em">合中為二先總合次別舉譬帖合總合又兩先列
+<lb ed="X" n="0636b09"/><lb ed="R057" n="0322b03"/>大小兩章門。</p></cb:div>
+<lb ed="X" n="0636b10"/><lb ed="R057" n="0322b04"/><cb:div type="orig"><p xml:id="pX36p0636b1001"><anchor xml:id="nkr_note_orig_ke_0636k06" n="0636k06"/>涅槃亦爾有涅槃有大涅槃。</p></cb:div>
+<lb ed="X" n="0636b11"/><lb ed="R057" n="0322b05"/><cb:div type="commentary"><p xml:id="pX36p0636b1101" rend="margin-left:1em">次云何涅槃下釋兩章先釋小次釋大初釋小又
+<lb ed="X" n="0636b12"/><lb ed="R057" n="0322b06"/>二先舉五事少分有滅苦之義名為涅槃非大涅
+<lb ed="X" n="0636b13"/><lb ed="R057" n="0322b07"/>槃。</p></cb:div>
+<lb ed="X" n="0636b14"/><lb ed="R057" n="0322b08"/><cb:div type="orig"><p xml:id="pX36p0636b1401"><anchor xml:id="nkr_note_orig_ke_0636k07" n="0636k07"/>云何涅槃善男子如人饑餓得少飯食名為安樂如
+<lb ed="X" n="0636b15"/><lb ed="R057" n="0322b09"/>是安樂亦名涅槃如病得差則得安樂如是安樂亦
+<lb ed="X" n="0636b16"/><lb ed="R057" n="0322b10"/>名涅槃如人怖畏得歸依處則得安樂如是安樂亦
+<lb ed="X" n="0636b17"/><lb ed="R057" n="0322b11"/>名涅槃如貧窮人獲七寶物則得安樂如是安樂亦
+<lb ed="X" n="0636b18"/><lb ed="R057" n="0322b12"/>名涅槃如人觀骨不起貪欲則得安樂如是安樂亦
+<lb ed="X" n="0636b19"/><lb ed="R057" n="0322b13"/>名涅槃如是涅槃不得名為大涅槃也何以故以饑
+<lb ed="X" n="0636b20"/><lb ed="R057" n="0322b14"/>渴故病故怖故貧故生貪著故是名涅槃非大涅槃。</p></cb:div>
+<lb ed="X" n="0636b21"/><lb ed="R057" n="0322b15"/><cb:div type="commentary"><p xml:id="pX36p0636b2101" rend="margin-left:1em">若凡夫人下第二舉斷伏之滅名為涅槃先出凡
+<lb ed="X" n="0636b22"/><lb ed="R057" n="0322b16"/>聖兩章門。</p></cb:div>
+<lb ed="X" n="0636b23"/><lb ed="R057" n="0322b17"/><cb:div type="orig"><p xml:id="pX36p0636b2301"><anchor xml:id="nkr_note_orig_ke_0636k08" n="0636k08"/>善男子若凡夫人及以聲聞。</p></cb:div>
+<lb ed="X" n="0636b24"/><lb ed="R057" n="0322b18"/><cb:div type="commentary"><p xml:id="pX36p0636b2401" rend="margin-left:1em">次釋中二先釋次釋成。</p></cb:div>
+<pb ed="X" xml:id="X36.0659.0636c" n="0636c"/>
+<lb ed="X" n="0636c01"/><lb ed="R057" n="0323a01"/><cb:div type="orig"><p xml:id="pX36p0636c0101"><anchor xml:id="nkr_note_orig_ke_0636k09" n="0636k09"/>或因世俗或因聖道斷欲界結則得安樂如是安樂
+<lb ed="X" n="0636c02"/><lb ed="R057" n="0323a02"/>亦名涅槃不得名為大涅槃也能斷初禪乃至能斷
+<lb ed="X" n="0636c03"/><lb ed="R057" n="0323a03"/>非想非非想處結則得安樂如是安樂亦名涅槃不
+<lb ed="X" n="0636c04"/><lb ed="R057" n="0323a04"/>得名為大涅槃也。</p></cb:div>
+<lb ed="X" n="0636c05"/><lb ed="R057" n="0323a05"/><cb:div type="commentary"><p xml:id="pX36p0636c0501" rend="margin-left:1em">初從或因世俗下釋上凡夫或因聖道下釋上聲
+<lb ed="X" n="0636c06"/><lb ed="R057" n="0323a06"/>聞世俗即是外道得禪伏惑之人聖道即是小乘
+<lb ed="X" n="0636c07"/><lb ed="R057" n="0323a07"/>斷惑之人。</p>
+<lb ed="X" n="0636c08"/><lb ed="R057" n="0323a08"/><p xml:id="pX36p0636c0801" rend="margin-left:1em">何以故下二釋成上兩。</p></cb:div>
+<lb ed="X" n="0636c09"/><lb ed="R057" n="0323a09"/><cb:div type="orig"><p xml:id="pX36p0636c0901"><anchor xml:id="nkr_note_orig_ke_0636k10" n="0636k10"/>何以故還生煩惱有習氣故云何名為煩惱習氣聲
+<lb ed="X" n="0636c10"/><lb ed="R057" n="0323a10"/>聞緣覺有煩惱氣所謂我身我衣我去我來我說我
+<lb ed="X" n="0636c11"/><lb ed="R057" n="0323a11"/>聽諸佛如來入於涅槃涅槃之性無我無樂唯有常
+<lb ed="X" n="0636c12"/><lb ed="R057" n="0323a12"/>淨是則名為煩惱習氣佛法眾僧有差別相如來畢
+<lb ed="X" n="0636c13"/><lb ed="R057" n="0323a13"/>竟入於涅槃聲聞緣覺諸佛如來所得涅槃等無差
+<lb ed="X" n="0636c14"/><lb ed="R057" n="0323a14"/>別以是義故二乘所得非大涅槃何以故無常樂我
+<lb ed="X" n="0636c15"/><lb ed="R057" n="0323a15"/>淨故。</p></cb:div>
+<lb ed="X" n="0636c16"/><lb ed="R057" n="0323a16"/><cb:div type="commentary"><p xml:id="pX36p0636c1601" rend="margin-left:1em">還生煩惱即釋凡夫有習氣者即釋小乘次文中
+<lb ed="X" n="0636c17"/><lb ed="R057" n="0323a17"/>具出習氣之義通論十使皆有習氣如舍利弗難
+<lb ed="X" n="0636c18"/><lb ed="R057" n="0323a18"/>陀畢陵伽等<note place="inline">云云</note>今偏就我見明習無我無樂唯
+<pb ed="X" xml:id="X36.0659.0637a" n="0637a"/>
+<lb ed="X" n="0637a01"/><lb ed="R057" n="0323b01"/>有常淨無我樂者此是與其常淨奪則皆無常樂
+<lb ed="X" n="0637a02"/><lb ed="R057" n="0323b02"/>我淨。</p>
+<lb ed="X" n="0637a03"/><lb ed="R057" n="0323b03"/><p xml:id="pX36p0637a0301" rend="margin-left:1em">常樂我淨下此三句合十二字釋上大涅槃章門。</p></cb:div>
+<lb ed="X" n="0637a04"/><lb ed="R057" n="0323b04"/><cb:div type="orig"><p xml:id="pX36p0637a0401"><anchor xml:id="nkr_note_orig_ke_0637k01" n="0637k01"/>常樂我淨乃得名為大涅槃也。</p></cb:div>
+<lb ed="X" n="0637a05"/><lb ed="R057" n="0323b05"/><cb:div type="commentary"><p xml:id="pX36p0637a0501" rend="margin-left:1em">善男子譬如下第二舉譬帖合上有十譬合但別
+<lb ed="X" n="0637a06"/><lb ed="R057" n="0323b06"/>合七餘三則兼合王城地三事共一合此三事相
+<lb ed="X" n="0637a07"/><lb ed="R057" n="0323b07"/>兼王即有城城即有地義勢相隨人天又共合於
+<lb ed="X" n="0637a08"/><lb ed="R057" n="0323b08"/>別合中先合海。</p></cb:div>
+<lb ed="X" n="0637a09"/><lb ed="R057" n="0323b09"/><cb:div type="orig"><p xml:id="pX36p0637a0901"><anchor xml:id="nkr_note_orig_ke_0637k02" n="0637k02"/>善男子譬如有處能受眾流名為大海隨有聲聞緣
+<lb ed="X" n="0637a10"/><lb ed="R057" n="0323b10"/>覺菩薩諸佛如來所入之處名大涅槃四禪三三昧
+<lb ed="X" n="0637a11"/><lb ed="R057" n="0323b11"/>八背捨八勝處十一切處隨能攝取如是無量諸善
+<lb ed="X" n="0637a12"/><lb ed="R057" n="0323b12"/>法者名大涅槃。</p></cb:div>
+<lb ed="X" n="0637a13"/><lb ed="R057" n="0323b13"/><cb:div type="commentary"><p xml:id="pX36p0637a1301" rend="margin-left:1em">次合河。</p></cb:div>
+<lb ed="X" n="0637a14"/><lb ed="R057" n="0323b14"/><cb:div type="orig"><p xml:id="pX36p0637a1401"><anchor xml:id="nkr_note_orig_ke_0637k03" n="0637k03"/>善男子譬如有河第一香象不能得底則名為大聲
+<lb ed="X" n="0637a15"/><lb ed="R057" n="0323b15"/>聞緣覺至十住菩薩不見佛性名為涅槃非大涅槃
+<lb ed="X" n="0637a16"/><lb ed="R057" n="0323b16"/>若能了了見於佛性則得名為大涅槃也是大涅槃
+<lb ed="X" n="0637a17"/><lb ed="R057" n="0323b17"/>唯大象王能盡其底大象王者謂諸佛也。</p></cb:div>
+<lb ed="X" n="0637a18"/><lb ed="R057" n="0323b18"/><cb:div type="commentary"><p xml:id="pX36p0637a1801" rend="margin-left:1em">三合山。</p></cb:div>
+<lb ed="X" n="0637a19"/><lb ed="R057" n="0324a01"/><cb:div type="orig"><p xml:id="pX36p0637a1901"><anchor xml:id="nkr_note_orig_ke_0637k04" n="0637k04"/>善男子若摩訶那伽及鉢建陀大力士等經歷多時
+<lb ed="X" n="0637a20"/><lb ed="R057" n="0324a02"/>所不能上乃名大山聲聞緣覺及諸菩薩摩訶那伽
+<lb ed="X" n="0637a21"/><lb ed="R057" n="0324a03"/>大力士等所不能見如是乃名大涅槃也。</p></cb:div>
+<lb ed="X" n="0637a22"/><lb ed="R057" n="0324a04"/><cb:div type="commentary"><p xml:id="pX36p0637a2201" rend="margin-left:1em">摩訶那伽鉢建提者大論云大龍大象天中力士
+<lb ed="X" n="0637a23"/><lb ed="R057" n="0324a05"/>梁武翻為極<anchor xml:id="nkr_note_orig_0637001" n="0637001"/>牡。</p>
+<lb ed="X" n="0637a24"/><lb ed="R057" n="0324a06"/><p xml:id="pX36p0637a2401" rend="margin-left:1em">隨小王下第四併合三譬大王大城等也。</p></cb:div>
+<pb ed="X" xml:id="X36.0659.0637b" n="0637b"/>
+<lb ed="X" n="0637b01"/><lb ed="R057" n="0324a07"/><cb:div type="orig"><p xml:id="pX36p0637b0101"><anchor xml:id="nkr_note_orig_ke_0637k05" n="0637k05"/>復次善男子隨有小王之所住處名為小城轉輪聖
+<lb ed="X" n="0637b02"/><lb ed="R057" n="0324a08"/>王所住之處乃名大城聲聞緣覺八萬六萬四萬二
+<lb ed="X" n="0637b03"/><lb ed="R057" n="0324a09"/>萬一萬住處名為涅槃無上法主聖王住處乃得名
+<lb ed="X" n="0637b04"/><lb ed="R057" n="0324a10"/>為大般涅槃以是故名大般涅槃。</p></cb:div>
+<lb ed="X" n="0637b05"/><lb ed="R057" n="0324a11"/><cb:div type="commentary"><p xml:id="pX36p0637b0501" rend="margin-left:1em">四種兵下第五合前第七眾生大眾生譬。</p></cb:div>
+<lb ed="X" n="0637b06"/><lb ed="R057" n="0324a12"/><cb:div type="orig"><p xml:id="pX36p0637b0601"><anchor xml:id="nkr_note_orig_ke_0637k06" n="0637k06"/>善男子譬如有人見四種兵不生怖畏當知是人名
+<lb ed="X" n="0637b07"/><lb ed="R057" n="0324a13"/>大眾生若有眾生於三惡道煩惱惡業不生怖畏而
+<lb ed="X" n="0637b08"/><lb ed="R057" n="0324a14"/>能於中廣度眾生當知是人得大涅槃。</p></cb:div>
+<lb ed="X" n="0637b09"/><lb ed="R057" n="0324a15"/><cb:div type="commentary"><p xml:id="pX36p0637b0901" rend="margin-left:1em">若有人能下六併合前人大人天大天兩譬。</p></cb:div>
+<lb ed="X" n="0637b10"/><lb ed="R057" n="0324a16"/><cb:div type="orig"><p xml:id="pX36p0637b1001"><anchor xml:id="nkr_note_orig_ke_0637k07" n="0637k07"/>若有人能供養父母恭敬沙門及婆羅門修治善法
+<lb ed="X" n="0637b11"/><lb ed="R057" n="0324a17"/>所言誠實無有欺誑能忍諸惡惠施貧乏名大丈夫
+<lb ed="X" n="0637b12"/><lb ed="R057" n="0324a18"/>菩薩亦爾有大慈悲憐憫一切於諸眾生猶如父母
+<lb ed="X" n="0637b13"/><lb ed="R057" n="0324b01"/>能度眾生於生死河。</p></cb:div>
+<lb ed="X" n="0637b14"/><lb ed="R057" n="0324b02"/><cb:div type="commentary"><p xml:id="pX36p0637b1401" rend="margin-left:1em">普示眾生一實下七合前有道大道。</p></cb:div>
+<lb ed="X" n="0637b15"/><lb ed="R057" n="0324b03"/><cb:div type="orig"><p xml:id="pX36p0637b1501"><anchor xml:id="nkr_note_orig_ke_0637k08" n="0637k08"/>普示眾生一實之道是則名為大般涅槃。</p></cb:div>
+<lb ed="X" n="0637b16"/><lb ed="R057" n="0324b04"/><cb:div type="commentary"><p xml:id="pX36p0637b1601" rend="margin-left:1em">大名不可思議下第二釋大涅槃即絕待釋又二
+<lb ed="X" n="0637b17"/><lb ed="R057" n="0324b05"/>先總次別初總釋又二初明不可說。</p></cb:div>
+<lb ed="X" n="0637b18"/><lb ed="R057" n="0324b06"/><cb:div type="orig"><p xml:id="pX36p0637b1801"><anchor xml:id="nkr_note_orig_ke_0637k09" n="0637k09"/>善男子大名不可思議若不可思議一切眾生所不
+<lb ed="X" n="0637b19"/><lb ed="R057" n="0324b07"/>能信是則名為大般涅槃唯佛菩薩之所見故名大
+<lb ed="X" n="0637b20"/><lb ed="R057" n="0324b08"/>涅槃。</p></cb:div>
+<lb ed="X" n="0637b21"/><lb ed="R057" n="0324b09"/><cb:div type="commentary"><p xml:id="pX36p0637b2101" rend="margin-left:1em">次可說。</p></cb:div>
+<lb ed="X" n="0637b22"/><lb ed="R057" n="0324b10"/><cb:div type="orig"><p xml:id="pX36p0637b2201"><anchor xml:id="nkr_note_orig_ke_0637k10" n="0637k10"/>以何因緣復名為大以無量因緣然後乃得故名為
+<lb ed="X" n="0637b23"/><lb ed="R057" n="0324b11"/>大善男子如世間人以多因緣之所得者則名為大
+<lb ed="X" n="0637b24"/><lb ed="R057" n="0324b12"/>涅槃亦爾以多因緣之所得故故名為大。</p></cb:div>
+<pb ed="X" xml:id="X36.0659.0637c" n="0637c"/>
+<lb ed="X" n="0637c01"/><lb ed="R057" n="0324b13"/><cb:div type="commentary"><p xml:id="pX36p0637c0101" rend="margin-left:1em">次別釋中但約三德不言常者二義一云前開宗
+<lb ed="X" n="0637c02"/><lb ed="R057" n="0324b14"/>廣明常竟故略不言二云名字品云所言大者名
+<lb ed="X" n="0637c03"/><lb ed="R057" n="0324b15"/>之為常此更明大不復言常就三德中亦各有二
+<lb ed="X" n="0637c04"/><lb ed="R057" n="0324b16"/>初大我中二者先不可思議釋大次多因緣釋大
+<lb ed="X" n="0637c05"/><lb ed="R057" n="0324b17"/>即可說不可說也。</p></cb:div>
+<lb ed="X" n="0637c06"/><lb ed="R057" n="0324b18"/><cb:div type="orig"><p xml:id="pX36p0637c0601"><anchor xml:id="nkr_note_orig_ke_0637k11" n="0637k11"/>云何復名為大涅槃有大我故名大涅槃涅槃無我
+<lb ed="X" n="0637c07"/><lb ed="R057" n="0325a01"/>大自在故名為大我云何名為大自在耶有八自在
+<lb ed="X" n="0637c08"/><lb ed="R057" n="0325a02"/>則名為我何等為八一者能示一身以為多身身數
+<lb ed="X" n="0637c09"/><lb ed="R057" n="0325a03"/>大小猶如微塵充滿十方無量世界如來之身實非
+<lb ed="X" n="0637c10"/><lb ed="R057" n="0325a04"/>微塵以自在故現微塵身如是自在則為大我二者
+<lb ed="X" n="0637c11"/><lb ed="R057" n="0325a05"/>示一塵身滿於三千大千世界如來之身實不滿於
+<lb ed="X" n="0637c12"/><lb ed="R057" n="0325a06"/>大千世界何以故以無閡故直以自在故滿三千大
+<lb ed="X" n="0637c13"/><lb ed="R057" n="0325a07"/>千世界如是自在名為大我三者能以滿此三千大
+<lb ed="X" n="0637c14"/><lb ed="R057" n="0325a08"/>千世界之身輕舉飛空過於二十恒河沙等諸佛世
+<lb ed="X" n="0637c15"/><lb ed="R057" n="0325a09"/>界而無障閡如來之身實無輕重以自在故能為輕
+<lb ed="X" n="0637c16"/><lb ed="R057" n="0325a10"/>重如是自在名為大我四者以自在故而得自在云
+<lb ed="X" n="0637c17"/><lb ed="R057" n="0325a11"/>何自在如來一心安住不動所可示化無量形類各
+<lb ed="X" n="0637c18"/><lb ed="R057" n="0325a12"/>令有心如來有時或造一事而令眾生各各成辨如
+<pb ed="X" xml:id="X36.0659.0638a" n="0638a"/>
+<lb ed="X" n="0638a01"/><lb ed="R057" n="0325a13"/>來之身常住一土而令他土一切悉見如是自在名
+<lb ed="X" n="0638a02"/><lb ed="R057" n="0325a14"/>為大我五者根自在故云何名為根自在耶如來一
+<lb ed="X" n="0638a03"/><lb ed="R057" n="0325a15"/>根亦能見色聞聲嗅香別味覺觸知法如來六根亦
+<lb ed="X" n="0638a04"/><lb ed="R057" n="0325a16"/>不見色聞聲嗅香別味覺觸知法以自在故令根自
+<lb ed="X" n="0638a05"/><lb ed="R057" n="0325a17"/>在如是自在名為大我六者以自在故得一切法如
+<lb ed="X" n="0638a06"/><lb ed="R057" n="0325a18"/>來之心亦無得想何以故無所得故若是有者可名
+<lb ed="X" n="0638a07"/><lb ed="R057" n="0325b01"/>為得實無所有云何名得若使如來計有得想是則
+<lb ed="X" n="0638a08"/><lb ed="R057" n="0325b02"/>諸佛不得涅槃以無得故名得涅槃以自在故得一
+<lb ed="X" n="0638a09"/><lb ed="R057" n="0325b03"/>切法得諸法故名為大我七者說自在故如來演說
+<lb ed="X" n="0638a10"/><lb ed="R057" n="0325b04"/>一切之義經無量劫義亦不盡所謂若戒若定若施
+<lb ed="X" n="0638a11"/><lb ed="R057" n="0325b05"/>若慧如來爾時都不生念我說彼聽亦復不生一偈
+<lb ed="X" n="0638a12"/><lb ed="R057" n="0325b06"/>之想世間之人若四句為偈隨世俗故說名為偈一
+<lb ed="X" n="0638a13"/><lb ed="R057" n="0325b07"/>切法性亦無有說以自在故如來演說以演說故名
+<lb ed="X" n="0638a14"/><lb ed="R057" n="0325b08"/>為大我八者如來徧滿一切諸處猶如虗空虗空之
+<lb ed="X" n="0638a15"/><lb ed="R057" n="0325b09"/>性不可得見如來亦爾實不可見以自在故令一切
+<lb ed="X" n="0638a16"/><lb ed="R057" n="0325b10"/>見如是自在名為大我如是大我名大涅槃以是義
+<lb ed="X" n="0638a17"/><lb ed="R057" n="0325b11"/>故名大涅槃。</p></cb:div>
+<lb ed="X" n="0638a18"/><lb ed="R057" n="0325b12"/><cb:div type="commentary"><p xml:id="pX36p0638a1801" rend="margin-left:1em">今文中云有大我故名大涅槃又云涅槃無我舊
+<lb ed="X" n="0638a19"/><lb ed="R057" n="0325b13"/>有二解一云無我者絕名冥真故涅槃無我俗諦
+<lb ed="X" n="0638a20"/><lb ed="R057" n="0325b14"/>寄名故涅槃有我二云無我者涅槃中無我者無
+<lb ed="X" n="0638a21"/><lb ed="R057" n="0325b15"/>生死妄我有我者有常樂之我觀師難此二解若
+<lb ed="X" n="0638a22"/><lb ed="R057" n="0325b16"/>絕名冥真名無我者亦應絕名冥真名為無常彼
+<lb ed="X" n="0638a23"/><lb ed="R057" n="0325b17"/>解云不得無常涅槃是常故以冥真四絕名為無
+<lb ed="X" n="0638a24"/><lb ed="R057" n="0325b18"/>我更竝冥真四絕故無常<note place="inline">云云</note>難次家云既言無
+<pb ed="X" xml:id="X36.0659.0638b" n="0638b"/>
+<lb ed="X" n="0638b01"/><lb ed="R057" n="0326a01"/>生死中我亦應無生死中常彼即反難生死中何
+<lb ed="X" n="0638b02"/><lb ed="R057" n="0326a02"/>處有常即應反問生死中何得有我彼若解云生
+<lb ed="X" n="0638b03"/><lb ed="R057" n="0326a03"/>死無真我而有假我者又竝無凝然常有相續常
+<lb ed="X" n="0638b04"/><lb ed="R057" n="0326a04"/>若爾非但無生死之我亦無生死之常竝之無窮
+<lb ed="X" n="0638b05"/><lb ed="R057" n="0326a05"/>八自在者一一多二小大三輕重四色心五根六
+<lb ed="X" n="0638b06"/><lb ed="R057" n="0326a06"/>得七說八見如文。</p>
+<lb ed="X" n="0638b07"/><lb ed="R057" n="0326a07"/><p xml:id="pX36p0638b0701" rend="margin-left:1em">復次譬如寶藏下第二釋多因緣故名大我。</p></cb:div>
+<lb ed="X" n="0638b08"/><lb ed="R057" n="0326a08"/><cb:div type="orig"><p xml:id="pX36p0638b0801"><anchor xml:id="nkr_note_orig_ke_0638k01" n="0638k01"/>復次善男子譬如寶藏多諸珍異種種具足故名大
+<lb ed="X" n="0638b09"/><lb ed="R057" n="0326a09"/>藏諸佛如來甚深奧藏亦復如是多諸奇異具足無
+<lb ed="X" n="0638b10"/><lb ed="R057" n="0326a10"/>缺名大涅槃復次善男子無邊之物乃名為大涅槃
+<lb ed="X" n="0638b11"/><lb ed="R057" n="0326a11"/>無邊是故名大。</p></cb:div>
+<lb ed="X" n="0638b12"/><lb ed="R057" n="0326a12"/><cb:div type="commentary"><p xml:id="pX36p0638b1201" rend="margin-left:1em">次大樂又二一明不可說大樂次世間下明多因
+<lb ed="X" n="0638b13"/><lb ed="R057" n="0326a13"/>緣大樂初文釋四樂於中初樂之中有三復次明
+<lb ed="X" n="0638b14"/><lb ed="R057" n="0326a14"/>無苦無樂之樂。</p></cb:div>
+<lb ed="X" n="0638b15"/><lb ed="R057" n="0326a15"/><cb:div type="orig"><p xml:id="pX36p0638b1501"><anchor xml:id="nkr_note_orig_ke_0638k02" n="0638k02"/>復次善男子有大樂故名大涅槃涅槃無樂以四樂
+<lb ed="X" n="0638b16"/><lb ed="R057" n="0326a16"/>故名大涅槃何等為四一者斷諸樂故不斷樂者則
+<lb ed="X" n="0638b17"/><lb ed="R057" n="0326a17"/>名為苦若有苦者不名大樂以斷樂故則無有苦無
+<lb ed="X" n="0638b18"/><lb ed="R057" n="0326a18"/>苦無樂乃名大樂涅槃之性無苦無樂是故涅槃名
+<lb ed="X" n="0638b19"/><lb ed="R057" n="0326b01"/>為大樂以是義故名大涅槃復次善男子樂有二種
+<lb ed="X" n="0638b20"/><lb ed="R057" n="0326b02"/>一者凡夫二者諸佛凡夫之樂無常敗壞是故無樂
+<lb ed="X" n="0638b21"/><lb ed="R057" n="0326b03"/>諸佛常樂無有變異故名大樂復次善男子有三種
+<lb ed="X" n="0638b22"/><lb ed="R057" n="0326b04"/>受一者苦受二者樂受三者不苦不樂受不苦不樂
+<lb ed="X" n="0638b23"/><lb ed="R057" n="0326b05"/>是亦為苦涅槃雖同不苦不樂然名大樂以大樂故
+<lb ed="X" n="0638b24"/><lb ed="R057" n="0326b06"/>名大涅槃。</p></cb:div>
+<pb ed="X" xml:id="X36.0659.0638c" n="0638c"/>
+<lb ed="X" n="0638c01"/><lb ed="R057" n="0326b07"/><cb:div type="commentary"><p xml:id="pX36p0638c0101" rend="margin-left:1em">二大寂靜下即是明無喧無靜名大寂靜名之為
+<lb ed="X" n="0638c02"/><lb ed="R057" n="0326b08"/>樂。</p></cb:div>
+<lb ed="X" n="0638c03"/><lb ed="R057" n="0326b09"/><cb:div type="orig"><p xml:id="pX36p0638c0301"><anchor xml:id="nkr_note_orig_ke_0638k03" n="0638k03"/>二者大寂靜故名為大樂涅槃之性是大寂靜何以
+<lb ed="X" n="0638c04"/><lb ed="R057" n="0326b10"/>故遠離一切憒閙法故以大寂靜名大涅槃。</p></cb:div>
+<lb ed="X" n="0638c05"/><lb ed="R057" n="0326b11"/><cb:div type="commentary"><p xml:id="pX36p0638c0501" rend="margin-left:1em">三一切下釋非知非無知乃名大知名之為樂。</p></cb:div>
+<lb ed="X" n="0638c06"/><lb ed="R057" n="0326b12"/><cb:div type="orig"><p xml:id="pX36p0638c0601"><anchor xml:id="nkr_note_orig_ke_0638k04" n="0638k04"/>三者一切知故名為大樂非一切知不名大樂諸佛
+<lb ed="X" n="0638c07"/><lb ed="R057" n="0326b13"/>如來一切知故名為大樂以大樂故名大涅槃。</p></cb:div>
+<lb ed="X" n="0638c08"/><lb ed="R057" n="0326b14"/><cb:div type="commentary"><p xml:id="pX36p0638c0801" rend="margin-left:1em">四釋身不壞者。</p></cb:div>
+<lb ed="X" n="0638c09"/><lb ed="R057" n="0326b15"/><cb:div type="orig"><p xml:id="pX36p0638c0901"><anchor xml:id="nkr_note_orig_ke_0638k05" n="0638k05"/>四者身不壞故名為大樂身若可壞則不名樂如來
+<lb ed="X" n="0638c10"/><lb ed="R057" n="0326b16"/>之身金剛無壞非煩惱身無常之身故名大樂以大
+<lb ed="X" n="0638c11"/><lb ed="R057" n="0326b17"/>樂故名大涅槃。</p></cb:div>
+<lb ed="X" n="0638c12"/><lb ed="R057" n="0326b18"/><cb:div type="commentary"><p xml:id="pX36p0638c1201" rend="margin-left:1em">即是非生死非涅槃之身是故不壞名為大樂。</p>
+<lb ed="X" n="0638c13"/><lb ed="R057" n="0327a01"/><p xml:id="pX36p0638c1301" rend="margin-left:1em">次世間名字下第二釋有因緣還對無緣以之為
+<lb ed="X" n="0638c14"/><lb ed="R057" n="0327a02"/>釋故分有因無因二文釋之先明有因緣次辨無
+<lb ed="X" n="0638c15"/><lb ed="R057" n="0327a03"/>因緣涅槃即同無有因緣還是前絕待之意。</p></cb:div>
+<lb ed="X" n="0638c16"/><lb ed="R057" n="0327a04"/><cb:div type="orig"><p xml:id="pX36p0638c1601"><anchor xml:id="nkr_note_orig_ke_0638k06" n="0638k06"/>善男子世間名字或有因緣或無因緣有因緣者如
+<lb ed="X" n="0638c17"/><lb ed="R057" n="0327a05"/>舍利弗母名舍利因母立字故名舍利弗如摩鍮羅
+<lb ed="X" n="0638c18"/><lb ed="R057" n="0327a06"/>道人生摩鍮羅國因國立名故名摩鍮羅如目楗連
+<lb ed="X" n="0638c19"/><lb ed="R057" n="0327a07"/>目楗連者即是姓也因姓立名故名目楗連如我生
+<lb ed="X" n="0638c20"/><lb ed="R057" n="0327a08"/>於瞿曇種姓因姓立名稱為瞿曇如毗舍佉道人毗
+<lb ed="X" n="0638c21"/><lb ed="R057" n="0327a09"/>舍佉者即是星名因星為名名毗舍佉如有六指因
+<lb ed="X" n="0638c22"/><lb ed="R057" n="0327a10"/>六指故名六指人如佛奴天奴因佛因天故名佛奴
+<lb ed="X" n="0638c23"/><lb ed="R057" n="0327a11"/>天奴因溼主故故名溼生如因聲故名為迦迦羅名
+<lb ed="X" n="0638c24"/><lb ed="R057" n="0327a12"/>究究羅呾呾羅如是等名是因緣名。</p></cb:div>
+<pb ed="X" xml:id="X36.0659.0639a" n="0639a"/>
+<lb ed="X" n="0639a01"/><lb ed="R057" n="0327a13"/><cb:div type="commentary"><p xml:id="pX36p0639a0101" rend="margin-left:1em">初有因緣中云迦迦者烏聲究究者鷄聲怛怛者
+<lb ed="X" n="0639a02"/><lb ed="R057" n="0327a14"/>雉聲。</p></cb:div>
+<lb ed="X" n="0639a03"/><lb ed="R057" n="0327a15"/><cb:div type="orig"><p xml:id="pX36p0639a0301"><anchor xml:id="nkr_note_orig_ke_0639k01" n="0639k01"/>無因緣者如蓮華地水火風虗空如曼陀婆一名二
+<lb ed="X" n="0639a04"/><lb ed="R057" n="0327a16"/>實一名殿堂二名飲漿堂不飲漿亦復得名為曼陀
+<lb ed="X" n="0639a05"/><lb ed="R057" n="0327a17"/>婆如薩婆車多名為蛇蓋實非蛇蓋是名無因強立
+<lb ed="X" n="0639a06"/><lb ed="R057" n="0327a18"/>名字如坁羅婆夷名為食油實不食油強為立名名
+<lb ed="X" n="0639a07"/><lb ed="R057" n="0327b01"/>為食油是名無因強立名字善男子是大涅槃亦復
+<lb ed="X" n="0639a08"/><lb ed="R057" n="0327b02"/>如是無有因緣強為立名善男子譬如虗空不因小
+<lb ed="X" n="0639a09"/><lb ed="R057" n="0327b03"/>空名為大也涅槃亦爾不因小相名大涅槃。</p></cb:div>
+<lb ed="X" n="0639a10"/><lb ed="R057" n="0327b04"/><cb:div type="commentary"><p xml:id="pX36p0639a1001" rend="margin-left:1em">次無因緣中云曼陀等者河西云曼陀婆者梵本
+<lb ed="X" n="0639a11"/><lb ed="R057" n="0327b05"/>一音二物一者高座敝堂二者藥湯而出經者言
+<lb ed="X" n="0639a12"/><lb ed="R057" n="0327b06"/>殿堂飲漿薩婆車多云似馬芹一音二名坁羅婆
+<lb ed="X" n="0639a13"/><lb ed="R057" n="0327b07"/>夷是<anchor xml:id="nkr_note_orig_0639001" n="0639001"/>鸚<g ref="#CB15179">󳭋</g>亦一音二名。</p>
+<lb ed="X" n="0639a14"/><lb ed="R057" n="0327b08"/><p xml:id="pX36p0639a1401" rend="margin-left:1em">次有法不可稱量下第三就不可量釋淨。</p></cb:div>
+<lb ed="X" n="0639a15"/><lb ed="R057" n="0327b09"/><cb:div type="orig"><p xml:id="pX36p0639a1501"><anchor xml:id="nkr_note_orig_ke_0639k02" n="0639k02"/>善男子譬如有法不可稱量不可思議故名為大涅
+<lb ed="X" n="0639a16"/><lb ed="R057" n="0327b10"/>槃亦爾不可稱量不可思議故得名為大般涅槃。</p></cb:div>
+<lb ed="X" n="0639a17"/><lb ed="R057" n="0327b11"/><cb:div type="commentary"><p xml:id="pX36p0639a1701" rend="margin-left:1em">初釋中文多因緣但是文略。</p>
+<lb ed="X" n="0639a18"/><lb ed="R057" n="0327b12"/><p xml:id="pX36p0639a1801" rend="margin-left:1em">次以純淨故名為大。</p></cb:div>
+<lb ed="X" n="0639a19"/><lb ed="R057" n="0327b13"/><cb:div type="orig"><p xml:id="pX36p0639a1901"><anchor xml:id="nkr_note_orig_ke_0639k03" n="0639k03"/>以純淨故名大涅槃。</p></cb:div>
+<lb ed="X" n="0639a20"/><lb ed="R057" n="0327b14"/><cb:div type="commentary"><p xml:id="pX36p0639a2001" rend="margin-left:1em">後釋淨義。</p></cb:div>
+<lb ed="X" n="0639a21"/><lb ed="R057" n="0327b15"/><cb:div type="orig"><p xml:id="pX36p0639a2101"><anchor xml:id="nkr_note_orig_ke_0639k04" n="0639k04"/>云何純淨淨有四種何等為四一者二十五有名為
+<lb ed="X" n="0639a22"/><lb ed="R057" n="0327b16"/>不淨能永斷故得名為淨淨即涅槃如是涅槃亦得
+<lb ed="X" n="0639a23"/><lb ed="R057" n="0327b17"/>名有而是涅槃實非是有諸佛如來隨世俗故說涅
+<lb ed="X" n="0639a24"/><lb ed="R057" n="0327b18"/>槃有譬如世人非父言父非母言母實非父母而言
+<pb ed="X" xml:id="X36.0659.0639b" n="0639b"/>
+<lb ed="X" n="0639b01"/><lb ed="R057" n="0328a01"/>父母涅槃亦爾隨世俗故說言諸佛有大涅槃二者
+<lb ed="X" n="0639b02"/><lb ed="R057" n="0328a02"/>業清淨故一切凡夫業不清淨故無涅槃諸佛如來
+<lb ed="X" n="0639b03"/><lb ed="R057" n="0328a03"/>業清淨故故名大淨以大淨故名大涅槃三者身清
+<lb ed="X" n="0639b04"/><lb ed="R057" n="0328a04"/>淨故身若無常則名不淨如來身常故名大淨以大
+<lb ed="X" n="0639b05"/><lb ed="R057" n="0328a05"/>淨故名大涅槃四者心清淨故心若有漏名曰不淨
+<lb ed="X" n="0639b06"/><lb ed="R057" n="0328a06"/>佛心無漏故名大淨以大淨故名大涅槃。</p></cb:div>
+<lb ed="X" n="0639b07"/><lb ed="R057" n="0328a07"/><cb:div type="commentary"><p xml:id="pX36p0639b0701" rend="margin-left:1em">凡舉四淨義如文。</p>
+<lb ed="X" n="0639b08"/><lb ed="R057" n="0328a08"/><p xml:id="pX36p0639b0801" rend="margin-left:1em">善男子是名下大章第三總結也。</p></cb:div>
+<lb ed="X" n="0639b09"/><lb ed="R057" n="0328a09"/><cb:div type="orig"><p xml:id="pX36p0639b0901"><anchor xml:id="nkr_note_orig_ke_0639k05" n="0639k05"/>善男子是名善男子善女人修行如是大涅槃經具
+<lb ed="X" n="0639b10"/><lb ed="R057" n="0328a10"/>足成就初分功德。</p>
+<lb ed="X" n="0639b11"/><lb ed="R057" n="0328a11"/><p xml:id="pX36p0639b1101">大般涅槃經卷第二十一</p></cb:div>
+<lb ed="X" n="0639b12"/><lb ed="R057" n="0328a12"/><cb:div type="commentary"><p xml:id="pX36p0639b1201" rend="margin-left:1em">涅槃經疏卷第九</p></cb:div>
+<lb ed="X" n="0639b13"/><lb ed="R057" n="0328a13"/><p xml:id="pX36p0639b1301" rend="margin-left:6em">日東　天台沙門本純　分會</p>
+<lb ed="X" n="0639b14"/><lb ed="R057" n="0328a14"/>
+<lb ed="X" n="0639b15"/><lb ed="R057" n="0328a15"/><cb:juan fun="close" n="21"><cb:jhead>南本大般涅槃經會疏卷第二十一</cb:jhead></cb:juan>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_433" cb:to="#end_433"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_434" cb:to="#end_434"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_435" cb:to="#end_435"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_436" cb:to="#end_436"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_437" cb:to="#end_437"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_438" cb:to="#end_438"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+<cb:div type="cbeta-notes">
+<head>CBETA 校勘記</head>
+<p>
+</p>
+</cb:div>
+<cb:div type="xuzang-notes">
+<head>卍續藏 校勘記</head>
+<p>
+<note n="0631k01" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0631k01">六釋第七念漏二初明漏相</note>
+<note n="0631k02" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0631k02">二明菩薩無漏三初法</note>
+<note n="0632k01" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0632k01">二譬二初譬八初四蛇</note>
+<note n="0632k02" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0632k02">二五旃陀羅</note>
+<note n="0632k03" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0632k03">三詐親</note>
+<note n="0632k04" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0632k04">四聚落</note>
+<note n="0632001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0632001">瓦麗明本竝作缻</note>
+<note n="0632k05" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0632k05">五六賊</note>
+<note n="0632002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0632002">遂明作漸</note>
+<note n="0632k06" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0632k06">六大河</note>
+<note n="0632k07" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0632k07">七草筏</note>
+<note n="0632k08" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0632k08">八到岸</note>
+<note n="0632k09" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0632k09">二合八初合四蛇</note>
+<note n="0633k01" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0633k01">二合五旃陀羅</note>
+<note n="0633k02" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0633k02">三合詐親</note>
+<note n="0634k01" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0634k01">四合聚落</note>
+<note n="0634001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0634001">＊瓦明作缻一作瓨（本文ノ缻ハ瓦トス。<g ref="#CB18834">󴦒</g>）</note>
+<note n="0634k02" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0634k02">五合六賊</note>
+<note n="0635k01" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0635k01">六合大河</note>
+<note n="0635001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0635001">開宋明作關</note>
+<note n="0635k02" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0635k02">七合草筏</note>
+<note n="0635k03" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0635k03">八合到岸</note>
+<note n="0635k04" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0635k04">三結</note>
+<note n="0635k05" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0635k05">○二明非無漏</note>
+<note n="0636k01" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0636k01">○四結不定</note>
+<note n="0636k02" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0636k02">○三領解</note>
+<note n="0636k03" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0636k03">○二明果二初騰果問</note>
+<note n="0636k04" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0636k04">二如來答二初歎問</note>
+<note n="0636k05" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0636k05">二正答二初就相對答二初舉譬</note>
+<note n="0636k06" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0636k06">二合二初總合二初列大小兩章門</note>
+<note n="0636k07" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0636k07">二釋兩章二初釋小二初舉少分滅苦</note>
+<note n="0636k08" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0636k08">二舉斷伏之滅二初出凡聖兩章門</note>
+<note n="0636k09" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0636k09">二釋二初釋</note>
+<note n="0636k10" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0636k10">二釋成</note>
+<note n="0637k01" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0637k01">二釋大</note>
+<note n="0637k02" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0637k02">二舉譬帖合七初別合海</note>
+<note n="0637k03" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0637k03">二別合河</note>
+<note n="0637k04" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0637k04">三別合山</note>
+<note n="0637001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0637001">牡疑形差應作壯</note>
+<note n="0637k05" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0637k05">四併合王城地</note>
+<note n="0637k06" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0637k06">五合眾生</note>
+<note n="0637k07" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0637k07">六併合人天</note>
+<note n="0637k08" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0637k08">七合道</note>
+<note n="0637k09" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0637k09">二就絕待答二初總二初明不可說</note>
+<note n="0637k10" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0637k10">二明可說</note>
+<note n="0637k11" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0637k11">二別三初釋大我二初不可思議釋大</note>
+<note n="0638k01" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0638k01">二多因緣釋大</note>
+<note n="0638k02" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0638k02">二釋大樂二初不可說大樂四初無苦樂樂</note>
+<note n="0638k03" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0638k03">二大寂靜樂</note>
+<note n="0638k04" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0638k04">三大知樂</note>
+<note n="0638k05" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0638k05">四不壞樂</note>
+<note n="0638k06" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0638k06">二多因緣大樂二初明有因緣</note>
+<note n="0639k01" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0639k01">二辨無因緣</note>
+<note n="0639001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0639001">鸚宋<g ref="#CB07038">𪈏</g>明燕</note>
+<note n="0639k02" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0639k02">三釋大淨三初就不可量釋淨</note>
+<note n="0639k03" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0639k03">二純淨名大</note>
+<note n="0639k04" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0639k04">三舉四義釋</note>
+<note n="0639k05" resp="#resp2" place="foot text" type="orig_ke" target="#nkr_note_orig_ke_0639k05">○三總結</note>
+</p>
+</cb:div>
+</back></text></TEI>

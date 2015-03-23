@@ -1,0 +1,788 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="P178n1611">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Northern Yongle Edition of the Canon, Electronic version, No. 1611 諸佛世尊如來菩薩尊者神僧名經(第1卷-第29卷)</title>
+			<author>明 太宗朱棣制</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $<date>$Date: 2011/04/18 11:01:21 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>29卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/04/18 11:01:21 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Northern Yongle Edition of the Canon Vol. 178, No. 1611 </bibl>
+	<listWit>
+		<witness xml:id="wit1">【CBETA】</witness>
+		<witness xml:id="wit2">【麗】</witness>
+		<witness xml:id="wit3">【北藏】</witness>
+	</listWit>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB02420">
+	<charName>CBETA CHARACTER CB02420</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[矢*見]</value>
+	</charProp>
+	<mapping type="unicode">U+4093</mapping>
+	<mapping cb:dec="985460" type="PUA">U+F0974</mapping>
+</char>
+<char xml:id="CB05270">
+	<charName>CBETA CHARACTER CB05270</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[拚-ㄙ+ㄊ]</value>
+	</charProp>
+	<mapping type="unicode">U+22B35</mapping>
+	<mapping cb:dec="988310" type="PUA">U+F1496</mapping>
+</char>
+<char xml:id="CB06449">
+	<charName>CBETA CHARACTER CB06449</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[崁-土+(立/(可-一))]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>崎</value>
+	</charProp>
+	<mapping cb:dec="989489" type="PUA">U+F1931</mapping>
+</char>
+<char xml:id="CB07448">
+	<charName>CBETA CHARACTER CB07448</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宜/八]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>冥</value>
+	</charProp>
+	<mapping type="unicode">U+21A0B</mapping>
+	<mapping cb:dec="990488" type="PUA">U+F1D18</mapping>
+</char>
+<char xml:id="CB08887">
+	<charName>CBETA CHARACTER CB08887</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[庭-壬+手]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>庭</value>
+	</charProp>
+	<mapping cb:dec="991927" type="PUA">U+F22B7</mapping>
+</char>
+<char xml:id="CB13402">
+	<charName>CBETA CHARACTER CB13402</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跍-十+水]</value>
+	</charProp>
+	<mapping cb:dec="996442" type="PUA">U+F345A</mapping>
+</char>
+<char xml:id="CB13747">
+	<charName>CBETA CHARACTER CB13747</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[栽-木+土]</value>
+	</charProp>
+	<mapping type="unicode">U+363D</mapping>
+	<mapping cb:dec="996787" type="PUA">U+F35B3</mapping>
+</char>
+<char xml:id="CB14081">
+	<charName>CBETA CHARACTER CB14081</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[木*豆*寸]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>樹</value>
+	</charProp>
+	<mapping type="unicode">U+235F3</mapping>
+	<mapping cb:dec="997121" type="PUA">U+F3701</mapping>
+</char>
+<char xml:id="CB14502">
+	<charName>CBETA CHARACTER CB14502</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[罅-山+止]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>罅</value>
+	</charProp>
+	<mapping type="unicode">U+26251</mapping>
+	<mapping cb:dec="997542" type="PUA">U+F38A6</mapping>
+</char>
+<char xml:id="CB15591">
+	<charName>CBETA CHARACTER CB15591</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[烈-列+(〡*(頤-頁+巳))]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>熙</value>
+	</charProp>
+	<mapping cb:dec="998631" type="PUA">U+F3CE7</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-09-10T11:17:24">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">歌曲</cb:mulu><cb:mulu type="其他" level="2">普法界之曲二</cb:mulu><cb:div type="other">
+<pb ed="P" xml:id="P178.1611.0675a" n="0675a"/>
+<lb ed="P" n="0675a01"/><milestone unit="juan" n="23"/><cb:mulu type="卷" n="23"></cb:mulu><cb:juan fun="open" n="23"><cb:jhead>諸佛世尊如來菩薩尊者神僧名經卷第二
+<lb ed="P" n="0675a02"/>十三　　　　　　　　　　　　　鴈三</cb:jhead></cb:juan>
+<lb ed="P" n="0675a03"/><cb:div type="other"><cb:mulu type="其他" level="2">普法界之曲三</cb:mulu><head>普法界之曲<note place="inline">即四季蓮華樂</note></head>
+<lb ed="P" n="0675a04"/><lg xml:id="lgP178p0675a0401" type="abnormal"><l rend="text-indent:0em">且莫道山河百二壯關中<note place="inline">和</note>觀音菩薩十方
+<lb ed="P" n="0675a05"/>諸佛菩薩且莫道嵩印伊洛檀奇雄<note place="inline">和</note>南無
+<lb ed="P" n="0675a06"/>釋迦牟尼佛南無釋迦牟尼佛試說著徃古
+<lb ed="P" n="0675a07"/>來今基業大<note place="inline">和</note>觀音菩薩十方諸佛菩薩噯
+<lb ed="P" n="0675a08"/>看北京壯觀雄偉萬國四方同<note place="inline">和</note>南無釋迦
+<lb ed="P" n="0675a09"/>牟尼佛南無釋迦牟尼佛河山王氣擁神京
+<lb ed="P" n="0675a10"/><note place="inline">和</note>觀音菩薩十方諸佛菩薩藹瑞氣浮瑞光
+<pb ed="P" xml:id="P178.1611.0675b" n="0675b"/>
+<lb ed="P" n="0675b01"/>藹瑞氣浮瑞光成五色那慶雲環遶著都城
+<lb ed="P" n="0675b02"/><note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛遙望
+<lb ed="P" n="0675b03"/>著九天佳氣盛<note place="inline">和</note>觀音菩薩十方諸佛菩薩
+<lb ed="P" n="0675b04"/>便見得那京都便見得那京都好繁華好繁
+<lb ed="P" n="0675b05"/>華的去處珠宮貝闕龍樓鳳閣金銀百寶燦
+<lb ed="P" n="0675b06"/>爛晶熒<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼
+<lb ed="P" n="0675b07"/>佛那居庸萬仞勢崢嶸<note place="inline">和</note>觀音菩薩十方諸
+<lb ed="P" n="0675b08"/>佛菩薩也只是天生成也只是天生成形勝
+<lb ed="P" n="0675b09"/>好真似鳳翥龍蟠<note place="inline">和</note>南無釋迦牟尼佛南無
+<lb ed="P" n="0675b10"/>釋迦牟尼佛又生成的幾處重闕疊嶂好水
+<pb ed="P" xml:id="P178.1611.0676a" n="0676a"/>
+<lb ed="P" n="0676a01"/>好山相映承<note place="inline">和</note>觀音菩薩十方諸佛菩薩都
+<lb ed="P" n="0676a02"/>託賴那上天都託賴那上天融會得妙造化
+<lb ed="P" n="0676a03"/>的關機成就得大形勢的都會根基鞏固千
+<lb ed="P" n="0676a04"/>秋萬歲華夷一統永祚皇明<note place="inline">和</note>南無釋迦牟
+<lb ed="P" n="0676a05"/>尼佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0676a0510" type="abnormal"><l rend="text-indent:0em">○壯觀都城百雉開
+<lb ed="P" n="0676a06"/><note place="inline">和</note>觀音菩薩十方諸佛菩薩聳龍<g ref="#CB08887">󲊷</g>齊虎觀
+<lb ed="P" n="0676a07"/>並崔嵬<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼
+<lb ed="P" n="0676a08"/>佛這每日裏雲氣繞蓬萊<note place="inline">和</note>觀音菩薩十方
+<lb ed="P" n="0676a09"/>諸佛菩薩可便是都市中可便是都市中人
+<lb ed="P" n="0676a10"/>住的似蜂蟻成屯千門萬戶朱簾翠幙遠近
+<pb ed="P" xml:id="P178.1611.0676b" n="0676b"/>
+<lb ed="P" n="0676b01"/>樓臺<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛
+<lb ed="P" n="0676b02"/>只聽得逄逄逄只聽得瓏瓏瓏駕著香車馳
+<lb ed="P" n="0676b03"/>著駿馬徃還來<note place="inline">和</note>觀音菩薩十方諸佛菩薩
+<lb ed="P" n="0676b04"/>兀的是閙聒聒的笙歌兀的是閙聒聒的笙
+<lb ed="P" n="0676b05"/>歌香噴噴的蘭麝煇燦燦的房櫳四邊院落
+<lb ed="P" n="0676b06"/>重門複檻圍花植柳種杏<g ref="#CB13747">㘽</g>梅<note place="inline">和</note>南無釋迦
+<lb ed="P" n="0676b07"/>牟尼佛南無釋迦牟尼佛噯說今日這去處
+<lb ed="P" n="0676b08"/>要得知那起因聽咱說著正是那萬萬代代
+<lb ed="P" n="0676b09"/>萬萬代代帝王基業<note place="inline">和</note>觀音菩薩十方諸佛
+<lb ed="P" n="0676b10"/>菩薩噯普願著那世界繁繁華華那世界繁
+<pb ed="P" xml:id="P178.1611.0677a" n="0677a"/>
+<lb ed="P" n="0677a01"/>繁華華從從容容孝孝順順和和睦睦萬年
+<lb ed="P" n="0677a02"/>千古人民士女都受用那福祿<g ref="#CB13747">㘽</g>培<note place="inline">和</note>南無
+<lb ed="P" n="0677a03"/>釋迦牟尼佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0677a0313" type="abnormal"><l rend="text-indent:0em">○京都處處
+<lb ed="P" n="0677a04"/>好風光<note place="inline">和</note>觀音菩薩十方諸佛菩薩只聽得
+<lb ed="P" n="0677a05"/>閙喧喧的歌聲只聽得閙喧喧的歌聲與佛
+<lb ed="P" n="0677a06"/>稱揚<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛
+<lb ed="P" n="0677a07"/>心好好的善人性妙妙的兒童都來發念<note place="inline">和</note>
+<lb ed="P" n="0677a08"/>觀音菩薩十方諸佛菩薩要把那宿生生的
+<lb ed="P" n="0677a09"/>冤愆要把那宿生生的冤愆業障兒洗洗淨
+<lb ed="P" n="0677a10"/>淨懺悔消亡<note place="inline">和</note>南無釋迦牟尼佛南無釋迦
+<pb ed="P" xml:id="P178.1611.0677b" n="0677b"/>
+<lb ed="P" n="0677b01"/>牟尼佛噯為甚麼意忙忙心切切走紅塵戴
+<lb ed="P" n="0677b02"/>星月同聲應口一行步念了一過<note place="inline">和</note>觀音菩
+<lb ed="P" n="0677b03"/>薩十方諸佛菩薩噯每日間朗熒熒明煇煇
+<lb ed="P" n="0677b04"/>馥芬芬氣郁郁同皈依悉頂禮晨昬點燭又
+<lb ed="P" n="0677b05"/>燒香<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛
+<lb ed="P" n="0677b06"/>那其間只是口口念念誠誠心心要看經勤
+<lb ed="P" n="0677b07"/>拜佛悃悃懇懇無晝無夜成就菩提果<note place="inline">和</note>觀
+<lb ed="P" n="0677b08"/>音菩薩十方諸佛菩薩普願著清清凉凉普
+<lb ed="P" n="0677b09"/>願著清清凉凉寬寬快快這煩惱都消盡證
+<lb ed="P" n="0677b10"/>因證果都到那極樂天堂<note place="inline">和</note>南無釋迦牟尼
+<pb ed="P" xml:id="P178.1611.0678a" n="0678a"/>
+<lb ed="P" n="0678a01"/>佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0678a0109" type="abnormal"><l rend="text-indent:0em">○當今盡說太平年<note place="inline">和</note>
+<lb ed="P" n="0678a02"/>觀音菩薩十方諸佛菩薩遠遠的被聲教都
+<lb ed="P" n="0678a03"/>混一廣無邊<note place="inline">和</note>南無釋迦牟尼佛南無釋迦
+<lb ed="P" n="0678a04"/>牟尼佛噯說四海的民盡萬國的土都願得
+<lb ed="P" n="0678a05"/>豐著衣足著食安著生樂著業一箇箇快快
+<lb ed="P" n="0678a06"/>活活安安穩穩生長在昇平世<note place="inline">和</note>觀音菩薩
+<lb ed="P" n="0678a07"/>十方諸佛菩薩又願得普天下又願得普天
+<lb ed="P" n="0678a08"/>下俗淳淳化美美遍閭里誦詩書勤耒耜習
+<lb ed="P" n="0678a09"/>羣工通百貨樂生涯安活計儘教著自自在
+<lb ed="P" n="0678a10"/>在經經營營衣衣食食四時間環堵緫安然
+<pb ed="P" xml:id="P178.1611.0678b" n="0678b"/>
+<lb ed="P" n="0678b01"/><note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛又願
+<lb ed="P" n="0678b02"/>得普天下享太平消災災遠害害姦淫竊盜
+<lb ed="P" n="0678b03"/>俱消弭<note place="inline">和</note>觀音菩薩十方諸佛菩薩又願他
+<lb ed="P" n="0678b04"/>一切歡著妻撫著子永團圞長孝順歡歡娛
+<lb ed="P" n="0678b05"/>娛都只是安樂不憂煎<note place="inline">和</note>南無釋迦牟尼佛
+<lb ed="P" n="0678b06"/>南無釋迦牟尼佛又願得普天下享榮華躋
+<lb ed="P" n="0678b07"/>壽考老安安幼嶷嶷同際遇雍<g ref="#CB15591">󳳧</g>無疵癘<note place="inline">和</note>
+<lb ed="P" n="0678b08"/>觀音菩薩十方諸佛菩薩噯又願得普天下
+<lb ed="P" n="0678b09"/>家慈良人豈弟重彛倫敦禮讓衣衣冠冠循
+<lb ed="P" n="0678b10"/>循雅雅安榮富貴福祿永綿延<note place="inline">和</note>南無釋迦
+<pb ed="P" xml:id="P178.1611.0679a" n="0679a"/>
+<lb ed="P" n="0679a01"/>牟尼佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0679a0111" type="abnormal"><l rend="text-indent:0em">○只見那絪紜和
+<lb ed="P" n="0679a02"/>氣兩儀中<note place="inline">和</note>觀音菩薩無量諸佛菩薩只見
+<lb ed="P" n="0679a03"/>那風調雨順慶年豐<note place="inline">和</note>南無釋迦牟尼佛南
+<lb ed="P" n="0679a04"/>無釋迦牟尼佛試說那異瑞奇祥紛雜遝<note place="inline">和</note>
+<lb ed="P" n="0679a05"/>觀音菩薩無量諸佛菩薩噯道四方安生樂
+<lb ed="P" n="0679a06"/>業和氣藹融融<note place="inline">和</note>南無釋迦牟尼佛南無釋
+<lb ed="P" n="0679a07"/>迦牟尼佛陰陽二氣孕胚胎<note place="inline">和</note>觀音菩薩無
+<lb ed="P" n="0679a08"/>量諸佛菩薩種善果成善根種善果成善根
+<lb ed="P" n="0679a09"/>開著花結著實都是德<g ref="#CB13747">㘽</g>培<note place="inline">和</note>南無釋迦牟
+<lb ed="P" n="0679a10"/>尼佛南無釋迦牟尼佛這造化發生蘇萬彙
+<pb ed="P" xml:id="P178.1611.0679b" n="0679b"/>
+<lb ed="P" n="0679b01"/><note place="inline">和</note>觀音菩薩無量諸佛菩薩便見得那世間
+<lb ed="P" n="0679b02"/>便見得那世間囿羣生囿羣生的品類千皅
+<lb ed="P" n="0679b03"/>萬卉自形自色發榮滋長盡有根荄<note place="inline">和</note>南無
+<lb ed="P" n="0679b04"/>釋迦牟尼佛南無釋迦牟尼佛那其間生意
+<lb ed="P" n="0679b05"/>逐春回<note place="inline">和</note>觀音菩薩無量諸佛菩薩也只是
+<lb ed="P" n="0679b06"/>乾坤中也只是乾坤中妙發育四時暑徃寒
+<lb ed="P" n="0679b07"/>來<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛却
+<lb ed="P" n="0679b08"/>生成那瑞物多般有根有葉有花都奇異<note place="inline">和</note>
+<lb ed="P" n="0679b09"/>觀音菩薩無量諸佛菩薩可便是那善根可
+<lb ed="P" n="0679b10"/>便是那善根生成得百花上的駢頭融會得
+<pb ed="P" xml:id="P178.1611.0680a" n="0680a"/>
+<lb ed="P" n="0680a01"/>那千枝<g ref="#CB14081">𣗳</g>的連理靈芝異草嘉禾瑞麥千般
+<lb ed="P" n="0680a02"/>百樣進獻蓬萊<note place="inline">和</note>南無釋迦牟尼佛南無釋
+<lb ed="P" n="0680a03"/>迦牟尼佛</l></lg><lg xml:id="lgP178p0680a0305" type="abnormal"><l rend="text-indent:0em">○瑞物由來得氣先<note place="inline">和</note>觀音菩薩
+<lb ed="P" n="0680a04"/>無量諸佛菩薩應天人符泰運瑞連綿<note place="inline">和</note>南
+<lb ed="P" n="0680a05"/>無釋迦牟尼佛南無釋迦牟尼佛正海內那
+<lb ed="P" n="0680a06"/>和氣緫<g ref="#CB15591">󳳧</g>然<note place="inline">和</note>觀音菩薩無量諸佛菩薩可
+<lb ed="P" n="0680a07"/>便是寰宇中可便是寰宇中無限的好瑞應
+<lb ed="P" n="0680a08"/>禎祥絪紜融結交呈疊至獻秀爭妍<note place="inline">和</note>南無
+<lb ed="P" n="0680a09"/>釋迦牟尼佛南無釋迦牟尼佛只見那清清
+<lb ed="P" n="0680a10"/>清只見那冷冷冷滄海無波黃河徹底漾清
+<pb ed="P" xml:id="P178.1611.0680b" n="0680b"/>
+<lb ed="P" n="0680b01"/>漣<note place="inline">和</note>觀音菩薩無量諸佛菩薩現的是文粲
+<lb ed="P" n="0680b02"/>粲的騶虞現的是文粲粲的騶虞光皎皎的
+<lb ed="P" n="0680b03"/>白象花片片的麒麟白雉神鹿玄兔師子騏
+<lb ed="P" n="0680b04"/>驥天馬颯<g ref="#CB13402">󳑚</g>蹁躚<note place="inline">和</note>南無釋迦牟尼佛南無
+<lb ed="P" n="0680b05"/>釋迦牟尼佛噯這瑞應的顯處要得知那來
+<lb ed="P" n="0680b06"/>因仰荷
+<lb ed="P" n="0680b07" type="honorific"/>天地都只是眷眷顧顧眷眷顧顧興隆社稷
+<lb ed="P" n="0680b08"/><note place="inline">和</note>觀音菩薩無量諸佛菩薩仰荷
+<lb ed="P" n="0680b09" type="honorific"/>祖宗好生的累積陰德累積陰德致有今日
+<lb ed="P" n="0680b10"/><note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛仰荷
+<pb ed="P" xml:id="P178.1611.0681a" n="0681a"/>
+<lb ed="P" n="0681a01" type="honorific"/>祖宗好生的累積陰德累積陰德致有今日
+<lb ed="P" n="0681a02"/><note place="inline">和</note>觀音菩薩無量諸佛菩薩噯只願得安天
+<lb ed="P" n="0681a03"/>下治治平平安天下治治平平綿綿延延悠
+<lb ed="P" n="0681a04"/>悠久久堅堅固固萬年千載皇圖廣大則盡
+<lb ed="P" n="0681a05"/>著那奉天勤民<note place="inline">和</note>南無釋迦牟尼佛南無釋
+<lb ed="P" n="0681a06"/>迦牟尼佛</l></lg><lg xml:id="lgP178p0681a0605" type="abnormal"><l rend="text-indent:0em">○萬方<g ref="#CB15591">󳳧</g>皡樂清時<note place="inline">和</note>觀音菩薩
+<lb ed="P" n="0681a07"/>無量諸佛菩薩只見得那坦平平的方輿只
+<lb ed="P" n="0681a08"/>見得那坦平平的方輿四海安寧<note place="inline">和</note>南無釋
+<lb ed="P" n="0681a09"/>迦牟尼佛南無釋迦牟尼佛密簇簇的人煙
+<lb ed="P" n="0681a10"/>翠藹藹的田疇千村萬落<note place="inline">和</note>觀音菩薩無量
+<pb ed="P" xml:id="P178.1611.0681b" n="0681b"/>
+<lb ed="P" n="0681b01"/>諸佛菩薩這正是九州州的人民這正是九
+<lb ed="P" n="0681b02"/>州州的人民到此時家給人足訟簡刑清<note place="inline">和</note>
+<lb ed="P" n="0681b03"/>南無釋迦牟尼佛南無釋迦牟尼佛噯正是
+<lb ed="P" n="0681b04"/>那日融融煙淡淡五日風十日雨宇宙中間
+<lb ed="P" n="0681b05"/>都是那一團和氣<note place="inline">和</note>觀音菩薩無量諸佛菩
+<lb ed="P" n="0681b06"/>薩噯看起來麥垂垂禾穟穟機啞啞杼軋軋
+<lb ed="P" n="0681b07"/>緫男耕盡女織閭閻更有讀書聲<note place="inline">和</note>南無釋
+<lb ed="P" n="0681b08"/>迦牟尼佛南無釋迦牟尼佛那其間只願在
+<lb ed="P" n="0681b09"/>在處處軍軍民民老的安少的樂舒舒暢暢
+<lb ed="P" n="0681b10"/>無災無害受盡平生福<note place="inline">和</note>觀音菩薩無量諸
+<pb ed="P" xml:id="P178.1611.0682a" n="0682a"/>
+<lb ed="P" n="0682a01"/>佛菩薩只願得長長久久只願得長長久久
+<lb ed="P" n="0682a02"/>家家戶戶這光景儘消受生生世世常際遇
+<lb ed="P" n="0682a03"/>萬代昇平<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟
+<lb ed="P" n="0682a04"/>尼佛</l></lg><lg xml:id="lgP178p0682a0403" type="abnormal"><l rend="text-indent:0em">○華夷一統緫來賔<note place="inline">和</note>觀音菩薩無量
+<lb ed="P" n="0682a05"/>諸佛菩薩實實的蒙生育感覆載沐深仁<note place="inline">和</note>
+<lb ed="P" n="0682a06"/>南無釋迦牟尼佛南無釋迦牟尼佛愛作種
+<lb ed="P" n="0682a07"/>種的因修世世的果纔能勾安那生樂那業
+<lb ed="P" n="0682a08"/>受那恩享那福得快活自自在在散散閑閑
+<lb ed="P" n="0682a09"/>同樂在昇平世<note place="inline">和</note>觀音菩薩無量諸佛菩薩
+<lb ed="P" n="0682a10"/>只願得那每日裏只願得那每日裏父慈慈
+<pb ed="P" xml:id="P178.1611.0682b" n="0682b"/>
+<lb ed="P" n="0682b01"/>子孝孝一家內弟讓兄夫勸婦序親踈拜家
+<lb ed="P" n="0682b02"/>慶藹歡聲聚和氣儘教那眷眷屬屬團團圞
+<lb ed="P" n="0682b03"/>圞歡歡會會真箇是安樂值良辰<note place="inline">和</note>南無釋
+<lb ed="P" n="0682b04"/>迦牟尼佛南無釋迦牟尼佛似這般太平呵
+<lb ed="P" n="0682b05"/>見眼前心欣欣意恱恱耕田鑿井無煩苦<note place="inline">和</note>
+<lb ed="P" n="0682b06"/>觀音菩薩無量諸佛菩薩又願那眾生除三
+<lb ed="P" n="0682b07"/>災消八難淨諸根清眾惱逍逍遙遙驀地里
+<lb ed="P" n="0682b08"/>過了幾秋春<note place="inline">和</note>南無釋迦牟尼佛南無釋迦
+<lb ed="P" n="0682b09"/>牟尼佛又願得偃兵戈掃煙塵淨烽火地平
+<lb ed="P" n="0682b10"/>平天蕩蕩徧華夏車書同一軌<note place="inline">和</note>觀音菩薩
+<pb ed="P" xml:id="P178.1611.0683a" n="0683a"/>
+<lb ed="P" n="0683a01"/>無量諸佛菩薩噯又願得溥萬國被聲教洽
+<lb ed="P" n="0683a02"/>文治頌康衢歌擊壤皡皡<g ref="#CB15591">󳳧</g><g ref="#CB15591">󳳧</g>清清晏晏九
+<lb ed="P" n="0683a03"/>州四海風俗盡還淳<note place="inline">和</note>南無釋迦牟尼佛南
+<lb ed="P" n="0683a04"/>無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0683a0407" type="abnormal"><l rend="text-indent:0em">○奉勸那人生在世早修行
+<lb ed="P" n="0683a05"/><note place="inline">和</note>觀音菩薩十方諸佛菩薩正好是聞經聽
+<lb ed="P" n="0683a06"/>法度平生<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟
+<lb ed="P" n="0683a07"/>尼佛若是那學道無成空費力<note place="inline">和</note>觀音菩薩
+<lb ed="P" n="0683a08"/>十方諸佛菩薩噯到其間悔恨懊惱終自墮
+<lb ed="P" n="0683a09"/>沉<g ref="#CB07448">𡨋</g><note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛
+<lb ed="P" n="0683a10"/>世間難得是人身<note place="inline">和</note>觀音菩薩十方諸佛菩
+<pb ed="P" xml:id="P178.1611.0683b" n="0683b"/>
+<lb ed="P" n="0683b01"/>薩都是那善信每都是那善信每前生種夙
+<lb ed="P" n="0683b02"/>世修成就的良因<note place="inline">和</note>南無釋迦牟尼佛南無
+<lb ed="P" n="0683b03"/>釋迦牟尼佛因此上脫離三惡道<note place="inline">和</note>觀音菩
+<lb ed="P" n="0683b04"/>薩十方諸佛菩薩得生在那世間得生在那
+<lb ed="P" n="0683b05"/>世間稟清清稟清清的秀氣端端正正伶伶
+<lb ed="P" n="0683b06"/>俐俐眉清目秀出類超羣<note place="inline">和</note>南無釋迦牟尼
+<lb ed="P" n="0683b07"/>佛南無釋迦牟尼佛兩儀中最樂是為人<note place="inline">和</note>
+<lb ed="P" n="0683b08"/>觀音菩薩十方諸佛菩薩又遇著天清清又
+<lb ed="P" n="0683b09"/>遇著天清清地帖帖普萬物賴陶甄<note place="inline">和</note>南無
+<lb ed="P" n="0683b10"/>釋迦牟尼佛南無釋迦牟尼佛太平時又幸
+<pb ed="P" xml:id="P178.1611.0684a" n="0684a"/>
+<lb ed="P" n="0684a01"/>得此世此生不後不前正遭遇<note place="inline">和</note>觀音菩薩
+<lb ed="P" n="0684a02"/>十方諸佛菩薩只見那四時間只見那四時
+<lb ed="P" n="0684a03"/>間守著那孝順順的兒孫撫著那和睦睦的
+<lb ed="P" n="0684a04"/>眷屬耕田鑿井優游自在無煩無惱相樂相
+<lb ed="P" n="0684a05"/>親<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0684a0517" type="abnormal"><l rend="text-indent:0em">○
+<lb ed="P" n="0684a06"/>喜得人身際太平<note place="inline">和</note>觀音菩薩十方諸佛菩
+<lb ed="P" n="0684a07"/>薩好修因多積福問前程<note place="inline">和</note>南無釋迦牟尼
+<lb ed="P" n="0684a08"/>佛南無釋迦牟尼佛又遇得那萬方正文明
+<lb ed="P" n="0684a09"/><note place="inline">和</note>觀音菩薩十方諸佛菩薩只見那善信每
+<lb ed="P" n="0684a10"/>只見那善信每他做的是念佛看經修齊辦
+<pb ed="P" xml:id="P178.1611.0684b" n="0684b"/>
+<lb ed="P" n="0684b01"/>道虔心頂禮發願投誠<note place="inline">和</note>南無釋迦牟尼佛
+<lb ed="P" n="0684b02"/>南無釋迦牟尼佛這壁廂芬芬芬那壁廂煇
+<lb ed="P" n="0684b03"/>煇煇暮暮朝朝則見得香燈不絕<note place="inline">和</note>觀音菩
+<lb ed="P" n="0684b04"/>薩十方諸佛菩薩只為那明白白的因緣只
+<lb ed="P" n="0684b05"/>為那明白白的因緣悟了了的佛法微妙妙
+<lb ed="P" n="0684b06"/>的真詮十分祕密千言萬語有因有果都是
+<lb ed="P" n="0684b07"/>奇徵<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛
+<lb ed="P" n="0684b08"/>噯乾坤裏廣蕩蕩眾生每意津津閻浮世上
+<lb ed="P" n="0684b09"/>則見得快快樂樂快快樂樂無魔無障<note place="inline">和</note>觀
+<lb ed="P" n="0684b10"/>音菩薩十方諸佛菩薩噯看起來都只是修
+<pb ed="P" xml:id="P178.1611.0685a" n="0685a"/>
+<lb ed="P" n="0685a01"/>修行行都只是修修行行歸歸依依心心念
+<lb ed="P" n="0685a02"/>念懇懇確確一行一步相歌相和都頂禮那
+<lb ed="P" n="0685a03"/>諸佛名稱<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟
+<lb ed="P" n="0685a04"/>尼佛</l></lg><lg xml:id="lgP178p0685a0403" type="abnormal"><l rend="text-indent:0em">○人生學道證良緣<note place="inline">和</note>觀音菩薩十方
+<lb ed="P" n="0685a05"/>諸佛菩薩只要那實落落的工夫只要那實
+<lb ed="P" n="0685a06"/>落落的工夫至誠心堅<note place="inline">和</note>南無釋迦牟尼佛
+<lb ed="P" n="0685a07"/>南無釋迦牟尼佛明朗朗的慧燈芬撲撲的
+<lb ed="P" n="0685a08"/>名香頂禮供養<note place="inline">和</note>觀音菩薩十方諸佛菩薩
+<lb ed="P" n="0685a09"/>又聽得響瓏瓏的晨鐘又聽得響瓏瓏的晨
+<lb ed="P" n="0685a10"/>鐘瑞藹兒馥馥郁郁間著祥煙<note place="inline">和</note>南無釋迦
+<pb ed="P" xml:id="P178.1611.0685b" n="0685b"/>
+<lb ed="P" n="0685b01"/>牟尼佛南無釋迦牟尼佛噯却見得朗煇煇
+<lb ed="P" n="0685b02"/>明皎皎玉毫分金相現菩提界上他那裏成
+<lb ed="P" n="0685b03"/>著因果<note place="inline">和</note>觀音菩薩十方諸佛菩薩噯又還
+<lb ed="P" n="0685b04"/>他廣巍巍微塵塵深浩浩妙密密恒河沙無
+<lb ed="P" n="0685b05"/>量劫人天功德際無邊<note place="inline">和</note>南無釋迦牟尼佛
+<lb ed="P" n="0685b06"/>南無釋迦牟尼佛那其間只管勇勇猛猛誠
+<lb ed="P" n="0685b07"/>誠心心儘修因多行善勤勤懇懇無晝無夜
+<lb ed="P" n="0685b08"/>時一心敬禮<note place="inline">和</note>觀音菩薩十方諸佛菩薩只
+<lb ed="P" n="0685b09"/>見那光光明明只見那光光明明煇煇晃晃
+<lb ed="P" n="0685b10"/>盡虛空徧法界平平蕩蕩慧光中擁出紅蓮
+<pb ed="P" xml:id="P178.1611.0686a" n="0686a"/>
+<lb ed="P" n="0686a01"/><note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0686a0116" type="abnormal"><l rend="text-indent:0em">○從
+<lb ed="P" n="0686a02"/>來學佛要堅心<note place="inline">和</note>觀音菩薩十方諸佛菩薩
+<lb ed="P" n="0686a03"/>便似那求眾寶浮大海度<g ref="#CB06449">󱤱</g>嶔<note place="inline">和</note>南無釋迦
+<lb ed="P" n="0686a04"/>牟尼佛南無釋迦牟尼佛噯沸滾滾的濤浩
+<lb ed="P" n="0686a05"/>洶洶的浪到那時堅著心忍著性<g ref="#CB05270">𢬵</g>著身立
+<lb ed="P" n="0686a06"/>著願一心心到到到到懇懇求求方得那諸
+<lb ed="P" n="0686a07"/>般寶<note place="inline">和</note>觀音菩薩十方諸佛菩薩若是那不
+<lb ed="P" n="0686a08"/>堅心道無成行無就便似那到寶山空手回
+<lb ed="P" n="0686a09"/>耳無聞目無見枉勞心虛費力只見得歷歷
+<lb ed="P" n="0686a10"/>碌碌奔奔波波無因無果那其間都只是沉
+<pb ed="P" xml:id="P178.1611.0686b" n="0686b"/>
+<lb ed="P" n="0686b01"/>淪<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛看
+<lb ed="P" n="0686b02"/>起來這等呵似空花虛飄飄輕泛泛炊沙作
+<lb ed="P" n="0686b03"/>飯終何用<note place="inline">和</note>觀音菩薩十方諸佛菩薩又如
+<lb ed="P" n="0686b04"/>那半空捕著風捉著影畫著餅充著飢虛虛
+<lb ed="P" n="0686b05"/>浮浮都無著實枉度光陰<note place="inline">和</note>南無釋迦牟尼
+<lb ed="P" n="0686b06"/>佛南無釋迦牟尼佛看人世苦匆匆撫年華
+<lb ed="P" n="0686b07"/>駒過隙心惶惶意惚惚到底終難成佛道<note place="inline">和</note>
+<lb ed="P" n="0686b08"/>觀音菩薩十方諸佛菩薩噯那時節却悔恨
+<lb ed="P" n="0686b09"/>不早修空妄想過時光臨暮景急急忙忙煩
+<lb ed="P" n="0686b10"/>煩悶悶遭罹苦趣覺路永難尋<note place="inline">和</note>南無釋迦
+<pb ed="P" xml:id="P178.1611.0687a" n="0687a"/>
+<lb ed="P" n="0687a01"/>牟尼佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0687a0111" type="abnormal"><l rend="text-indent:0em">○也休論前朝後
+<lb ed="P" n="0687a02"/>代是和非<note place="inline">和</note>觀音菩薩無量諸佛菩薩也休
+<lb ed="P" n="0687a03"/>論古今經史富文詞<note place="inline">和</note>南無釋迦牟尼佛南
+<lb ed="P" n="0687a04"/>無釋迦牟尼佛也休論禮樂中間多曲折<note place="inline">和</note>
+<lb ed="P" n="0687a05"/>觀音菩薩無量諸佛菩薩噯論因果要將諸
+<lb ed="P" n="0687a06"/>佛言語細尋思<note place="inline">和</note>南無釋迦牟尼佛南無釋
+<lb ed="P" n="0687a07"/>迦牟尼佛如來出世顯因緣<note place="inline">和</note>觀音菩薩無
+<lb ed="P" n="0687a08"/>量諸佛菩薩要知道那佛聖賢要知道那佛
+<lb ed="P" n="0687a09"/>聖賢行方便捨慈悲那功行無邊<note place="inline">和</note>南無釋
+<lb ed="P" n="0687a10"/>迦牟尼佛南無釋迦牟尼佛普化度千言并
+<pb ed="P" xml:id="P178.1611.0687b" n="0687b"/>
+<lb ed="P" n="0687b01"/>萬語<note place="inline">和</note>觀音菩薩無量諸佛菩薩說與那善
+<lb ed="P" n="0687b02"/>信每說與那善信每這一部這一部的歌曲
+<lb ed="P" n="0687b03"/>前前後後一字一句一詞一語都是格言<note place="inline">和</note>
+<lb ed="P" n="0687b04"/>南無釋迦牟尼佛南無釋迦牟尼佛看從前
+<lb ed="P" n="0687b05"/>佛說少人聞<note place="inline">和</note>觀音菩薩無量諸佛菩薩莫
+<lb ed="P" n="0687b06"/>只作等閑閑莫只作等閑閑輕慢慢看作蠹
+<lb ed="P" n="0687b07"/>簡陳編<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼
+<lb ed="P" n="0687b08"/>佛這都是佛聖賢好言好語勸忠勸孝教和
+<lb ed="P" n="0687b09"/>順<note place="inline">和</note>觀音菩薩無量諸佛菩薩要得知那好
+<lb ed="P" n="0687b10"/>處要得知那好處恰似那至貴貴的金玉恰
+<pb ed="P" xml:id="P178.1611.0688a" n="0688a"/>
+<lb ed="P" n="0688a01"/>似那至美美的穀粟濟人利世無高無下無
+<lb ed="P" n="0688a02"/>貴無賤可是方便<note place="inline">和</note>南無釋迦牟尼佛南無
+<lb ed="P" n="0688a03"/>釋迦牟尼佛</l></lg><lg xml:id="lgP178p0688a0306" type="abnormal"><l rend="text-indent:0em">○善信由來好受持<note place="inline">和</note>觀音菩
+<lb ed="P" n="0688a04"/>薩無量諸佛菩薩論千經說萬典此充奇<note place="inline">和</note>
+<lb ed="P" n="0688a05"/>南無釋迦牟尼佛南無釋迦牟尼佛端的的
+<lb ed="P" n="0688a06"/>那嘉言是箴<g ref="#CB02420">䂓</g><note place="inline">和</note>觀音菩薩無量諸佛菩薩
+<lb ed="P" n="0688a07"/>這真是一部經這真是一部經那說的是忠
+<lb ed="P" n="0688a08"/>君孝親敬兄事長謙恭和順豈弟仁慈<note place="inline">和</note>南
+<lb ed="P" n="0688a09"/>無釋迦牟尼佛南無釋迦牟尼佛那東家看
+<lb ed="P" n="0688a10"/>看看這西家傳傳傳歌唱齊聲真箇是受福
+<pb ed="P" xml:id="P178.1611.0688b" n="0688b"/>
+<lb ed="P" n="0688b01"/>無量<note place="inline">和</note>觀音菩薩無量諸佛菩薩只看那無
+<lb ed="P" n="0688b02"/>限限的好言只看那無限限的好言顯驗驗
+<lb ed="P" n="0688b03"/>的果報明白白的因緣吉凶禍福善惡休咎
+<lb ed="P" n="0688b04"/>片言半語都索遵依<note place="inline">和</note>南無釋迦牟尼佛南
+<lb ed="P" n="0688b05"/>無釋迦牟尼佛噯這都是要勸勉做好人積
+<lb ed="P" n="0688b06"/>善因善男善女遵依著諷諷誦誦頂頂禮禮
+<lb ed="P" n="0688b07"/>多少是好<note place="inline">和</note>觀音菩薩無量諸佛菩薩噯這
+<lb ed="P" n="0688b08"/>發心也只是慈慈悲悲也只是慈慈悲悲勤
+<lb ed="P" n="0688b09"/>勤拳拳心心口口勸勸化化作善作福修因
+<lb ed="P" n="0688b10"/>修果要教大眾共樂雍<g ref="#CB15591">󳳧</g><note place="inline">和</note>南無釋迦牟尼
+<pb ed="P" xml:id="P178.1611.0689a" n="0689a"/>
+<lb ed="P" n="0689a01"/>佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0689a0109" type="abnormal"><l rend="text-indent:0em">○修行此是大津梁<note place="inline">和</note>
+<lb ed="P" n="0689a02"/>觀音菩薩無量諸佛菩薩都只是佛說的因
+<lb ed="P" n="0689a03"/>緣都只是佛說的因緣化人為善<note place="inline">和</note>南無釋
+<lb ed="P" n="0689a04"/>迦牟尼佛南無釋迦牟尼佛一句句的深微
+<lb ed="P" n="0689a05"/>一字字的精華似那美玉<note place="inline">和</note>觀音菩薩無量
+<lb ed="P" n="0689a06"/>諸佛菩薩這都是佛經中的真言這都是佛
+<lb ed="P" n="0689a07"/>經中的真言幾千年直到今日始得宣揚<note place="inline">和</note>
+<lb ed="P" n="0689a08"/>南無釋迦牟尼佛南無釋迦牟尼佛噯那世
+<lb ed="P" n="0689a09"/>上眼睜睜耳爍爍走形骸同土木醉生夢死
+<lb ed="P" n="0689a10"/>這好話幾曾聽得<note place="inline">和</note>觀音菩薩無量諸佛菩
+<pb ed="P" xml:id="P178.1611.0689b" n="0689b"/>
+<lb ed="P" n="0689b01"/>薩噯那中間意深深詞密密言諄諄語切切
+<lb ed="P" n="0689b02"/>開愚蒙啟癡惑說凶道吉最昭彰<note place="inline">和</note>南無釋
+<lb ed="P" n="0689b03"/>迦牟尼佛南無釋迦牟尼佛看起來說的細
+<lb ed="P" n="0689b04"/>細密密分分明明教人慈勸人善拳拳切切
+<lb ed="P" n="0689b05"/>百千萬語都是修因果<note place="inline">和</note>觀音菩薩無量諸
+<lb ed="P" n="0689b06"/>佛菩薩莫只是優優游游莫只是優優游游
+<lb ed="P" n="0689b07"/>忽忽略略不經心不著意挑挑撻撻浮生虛
+<lb ed="P" n="0689b08"/>度好時光<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟
+<lb ed="P" n="0689b09"/>尼佛</l></lg><lg xml:id="lgP178p0689b0903" type="abnormal"><l rend="text-indent:0em">○世人持奉在虔誠<note place="inline">和</note>觀音菩薩無量
+<lb ed="P" n="0689b10"/>諸佛菩薩實實地好言語長見識廣聦明<note place="inline">和</note>
+<pb ed="P" xml:id="P178.1611.0690a" n="0690a"/>
+<lb ed="P" n="0690a01"/>南無釋迦牟尼佛南無釋迦牟尼佛噯實落
+<lb ed="P" n="0690a02"/>落的言緊切切的語善信每堅著心發著願
+<lb ed="P" n="0690a03"/>懺著愆悔著罪頂禮禮敬敬敬敬暮暮朝朝
+<lb ed="P" n="0690a04"/>要作善行方便<note place="inline">和</note>觀音菩薩無量諸佛菩薩
+<lb ed="P" n="0690a05"/>也有那惡人每也有那惡人每耳無聞目無
+<lb ed="P" n="0690a06"/>見在世裏不修持不敬信欺神明蔑三寶背
+<lb ed="P" n="0690a07"/>君親棄忠孝終日家議議論論是是非非造
+<lb ed="P" n="0690a08"/>妖造謗一生中罪業重難勝<note place="inline">和</note>南無釋迦牟
+<lb ed="P" n="0690a09"/>尼佛南無釋迦牟尼佛似這般造罪呵想其
+<lb ed="P" n="0690a10"/>問天昭昭神察察等臨殃禍無逃避<note place="inline">和</note>觀音
+<pb ed="P" xml:id="P178.1611.0690b" n="0690b"/>
+<lb ed="P" n="0690b01"/>菩薩無量諸佛菩薩只看他那時臨著刑受
+<lb ed="P" n="0690b02"/>著苦入剉燒落舂磨悲悲哀哀悔當初不早
+<lb ed="P" n="0690b03"/>問前程<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼
+<lb ed="P" n="0690b04"/>佛普願著善信每早回頭修福德究因因證
+<lb ed="P" n="0690b05"/>果果超億劫逍遙登極樂<note place="inline">和</note>觀音菩薩無量
+<lb ed="P" n="0690b06"/>諸佛菩薩噯這真是佛聖賢廣慈悲弘濟度
+<lb ed="P" n="0690b07"/>勸忠良興孝悌戒戒懲懲開開導導大眾遵
+<lb ed="P" n="0690b08"/>守從此樂昇平<note place="inline">和</note>南無釋迦牟尼佛南無釋
+<lb ed="P" n="0690b09"/>迦牟尼佛</l></lg><lg xml:id="lgP178p0690b0905" type="abnormal"><l rend="text-indent:0em">○且未說如來勝義妙圓融<note place="inline">和</note>觀
+<lb ed="P" n="0690b10"/>音菩薩十方諸佛菩薩且未說龍光佛法有
+<pb ed="P" xml:id="P178.1611.0691a" n="0691a"/>
+<lb ed="P" n="0691a01"/>無中<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛
+<lb ed="P" n="0691a02"/>且未說百千萬億河沙界<note place="inline">和</note>觀音菩薩十方
+<lb ed="P" n="0691a03"/>諸佛菩薩噯恁麼時放開一線觸處現神通
+<lb ed="P" n="0691a04"/><note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛世尊
+<lb ed="P" n="0691a05"/>問答最分明<note place="inline">和</note>觀音菩薩十方諸佛菩薩只
+<lb ed="P" n="0691a06"/>似那沒絃琴只似那沒絃琴氈拍板節奏間
+<lb ed="P" n="0691a07"/>便虎嘯龍吟<note place="inline">和</note>南無釋迦牟尼佛南無釋迦
+<lb ed="P" n="0691a08"/>牟尼佛看獨步乾坤真妙勝<note place="inline">和</note>觀音菩薩十
+<lb ed="P" n="0691a09"/>方諸佛菩薩都只是意無窮都只是意無窮
+<lb ed="P" n="0691a10"/>顯明明顯明明的勝義超宗越格二途不涉
+<pb ed="P" xml:id="P178.1611.0691b" n="0691b"/>
+<lb ed="P" n="0691b01"/>眼親手辦事就功成<note place="inline">和</note>南無釋迦牟尼佛南
+<lb ed="P" n="0691b02"/>無釋迦牟尼佛且休論無說與無聽<note place="inline">和</note>觀音
+<lb ed="P" n="0691b03"/>菩薩十方諸佛菩薩都只是透機關都只是
+<lb ed="P" n="0691b04"/>透機關超覺路一二義中難名<note place="inline">和</note>南無釋迦
+<lb ed="P" n="0691b05"/>牟尼佛南無釋迦牟尼佛看起來那時節頭
+<lb ed="P" n="0691b06"/>頂放光肘後懸符揕證據<note place="inline">和</note>觀音菩薩十方
+<lb ed="P" n="0691b07"/>諸佛菩薩要識那聖諦中要識那聖諦中透
+<lb ed="P" n="0691b08"/>著那白晃晃的銀山貫著那黑崒崒的鐵壁
+<lb ed="P" n="0691b09"/>中間一線分明透徹秋風昨夜正到梧桐<note place="inline">和</note>
+<lb ed="P" n="0691b10"/>南無釋迦牟尼佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0691b1015" type="abnormal"><l rend="text-indent:0em">○手撥
+<pb ed="P" xml:id="P178.1611.0692a" n="0692a"/>
+<lb ed="P" n="0692a01"/>眉毛示育王<note place="inline">和</note>觀音菩薩十方諸佛菩薩向
+<lb ed="P" n="0692a02"/>當時親見佛禮毫光<note place="inline">和</note>南無釋迦牟尼佛南
+<lb ed="P" n="0692a03"/>無釋迦牟尼佛便拈起那拄杖下禪牀<note place="inline">和</note>觀
+<lb ed="P" n="0692a04"/>音菩薩十方諸佛菩薩我只見尊者每我只
+<lb ed="P" n="0692a05"/>見尊者每從空而下越聖超凡雪天縹緲湖
+<lb ed="P" n="0692a06"/>光澹蕩髮短眉長<note place="inline">和</note>南無釋迦牟尼佛南無
+<lb ed="P" n="0692a07"/>釋迦牟尼佛只見得嘻嘻嘻又聽得呵呵呵
+<lb ed="P" n="0692a08"/>一笑開顏直超入如來真境<note place="inline">和</note>觀音菩薩十
+<lb ed="P" n="0692a09"/>方諸佛菩薩却是那屈曲曲的梅梢却是那
+<lb ed="P" n="0692a10"/>屈曲曲的梅梢明晃晃的飛雪古稜稜的狀
+<pb ed="P" xml:id="P178.1611.0692b" n="0692b"/>
+<lb ed="P" n="0692b01"/>貌黃金鑄靣十方剎土佛齋勝會不是尋常
+<lb ed="P" n="0692b02"/><note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛噯泥
+<lb ed="P" n="0692b03"/>中<anchor xml:id="beg_18" type="cb-app"/>刺<anchor xml:id="end_18"/>渾未覺飯裏沙恍不知靈山會上只聽
+<lb ed="P" n="0692b04"/>得淅淅颯颯淅淅颯颯風行草偃<note place="inline">和</note>觀音菩
+<lb ed="P" n="0692b05"/>薩十方諸佛菩薩噯看起來都只是世出世
+<lb ed="P" n="0692b06"/>間都只是世出世間彈指圓成人間天上無
+<lb ed="P" n="0692b07"/>邊功德一塵不染萬緣不涉顯金軀妙相堂
+<lb ed="P" n="0692b08"/>堂<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0692b0817" type="abnormal"><l rend="text-indent:0em">○
+<lb ed="P" n="0692b09"/>從前且說見佛因<note place="inline">和</note>觀音菩薩十方諸佛菩
+<lb ed="P" n="0692b10"/>薩只是那雪白白的長眉只是那雪白白的
+<pb ed="P" xml:id="P178.1611.0693a" n="0693a"/>
+<lb ed="P" n="0693a01"/>長眉丈六金身<note place="inline">和</note>南無釋迦牟尼佛南無釋
+<lb ed="P" n="0693a02"/>迦牟尼佛直消盡那諸緣便削去了六根心
+<lb ed="P" n="0693a03"/>超曠劫<note place="inline">和</note>觀音菩薩十方諸佛菩薩我只見
+<lb ed="P" n="0693a04"/>那翫月的雲犀我只見那翫月的雲犀木馬
+<lb ed="P" n="0693a05"/>兒紛紜雜遝來徃遊春<note place="inline">和</note>南無釋迦牟尼佛
+<lb ed="P" n="0693a06"/>南無釋迦牟尼佛噯却似那水澄澄蟾皎皎
+<lb ed="P" n="0693a07"/>現千江超萬有一聲漁笛依舊生蘆華深處
+<lb ed="P" n="0693a08"/><note place="inline">和</note>觀音菩薩十方諸佛菩薩噯要須知蘊皆
+<lb ed="P" n="0693a09"/>空身無著超混沌離生死轉靈機登正覺浮
+<lb ed="P" n="0693a10"/>萍逐水本無根<note place="inline">和</note>南無釋迦牟尼佛南無釋
+<pb ed="P" xml:id="P178.1611.0693b" n="0693b"/>
+<lb ed="P" n="0693b01"/>迦牟尼佛那其間知道見性是佛在胎曰身
+<lb ed="P" n="0693b02"/>在耳聞在眼見在鼻在舌一切收拾得在微
+<lb ed="P" n="0693b03"/>塵裏<note place="inline">和</note>觀音菩薩十方諸佛菩薩便是那佛
+<lb ed="P" n="0693b04"/>身虛空便是那佛身虛空八門出現徧大千
+<lb ed="P" n="0693b05"/>周沙界無窮無盡舒光晝夜轉金輪<note place="inline">和</note>南無
+<lb ed="P" n="0693b06"/>釋迦牟尼佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0693b0613" type="abnormal"><l rend="text-indent:0em">○大千色相
+<lb ed="P" n="0693b07"/>緫皆空<note place="inline">和</note>觀音菩薩十方諸佛菩薩無量法
+<lb ed="P" n="0693b08"/>智圓融體空寂妙神通<note place="inline">和</note>南無釋迦牟尼佛
+<lb ed="P" n="0693b09"/>南無釋迦牟尼佛噯九十六道中一切眾生
+<lb ed="P" n="0693b10"/>內仰如來現著身說著法成著因度著世真
+<pb ed="P" xml:id="P178.1611.0694a" n="0694a"/>
+<lb ed="P" n="0694a01"/>箇是非禮不樂非道不安到此處超三界<note place="inline">和</note>
+<lb ed="P" n="0694a02"/>觀音菩薩十方諸佛菩薩我只見窣堵波我
+<lb ed="P" n="0694a03"/>只見窣堵波影團團層落落半空裏百重關
+<lb ed="P" n="0694a04"/>千尺鎻下金鎚垂寶鐸沒階梯無縫<g ref="#CB14502">𦉑</g>只見
+<lb ed="P" n="0694a05"/>得玲瓏八靣晃漾瑠璃檀那合頂巋然法界
+<lb ed="P" n="0694a06"/>突出璿穹<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟
+<lb ed="P" n="0694a07"/>尼佛似這般寶塔呵想簷楹風颯颯雨淅淅
+<lb ed="P" n="0694a08"/>靣靣光明無內外<note place="inline">和</note>觀音菩薩十方諸佛菩
+<lb ed="P" n="0694a09"/>薩碧潭中水深潛著魚宿著鳥魚未行鳥未
+<lb ed="P" n="0694a10"/>覺深深沉沉片言妙悟一線潛通<note place="inline">和</note>南無釋
+<pb ed="P" xml:id="P178.1611.0694b" n="0694b"/>
+<lb ed="P" n="0694b01"/>迦牟尼佛南無釋迦牟尼佛且認那清淨身
+<lb ed="P" n="0694b02"/>佛精神師肝膽夜澄澄天皎皎正寶月含煇
+<lb ed="P" n="0694b03"/>明剎海<note place="inline">和</note>觀音菩薩十方諸佛菩薩噯好撥
+<lb ed="P" n="0694b04"/>破毗盧頂入空門得空相握金篦呈妙手步
+<lb ed="P" n="0694b05"/>步騰雲逍遙自在真如境界萬彚悉昭融<note place="inline">和</note>
+<lb ed="P" n="0694b06"/>南無釋迦牟尼佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0694b0615" type="abnormal"><l rend="text-indent:0em">○且莫
+<lb ed="P" n="0694b07"/>道去來生滅本無方<note place="inline">和</note>觀音菩薩無量諸佛
+<lb ed="P" n="0694b08"/>菩薩且莫道法身非斷亦非常<note place="inline">和</note>南無釋迦
+<lb ed="P" n="0694b09"/>牟尼佛南無釋迦牟尼佛且莫道清淨真如
+<lb ed="P" n="0694b10"/>無法說<note place="inline">和</note>觀音菩薩無量諸佛菩薩噯等虛
+<pb ed="P" xml:id="P178.1611.0695a" n="0695a"/>
+<lb ed="P" n="0695a01"/>空無掛無礙一月現千江<note place="inline">和</note>南無釋迦牟尼
+<lb ed="P" n="0695a02"/>佛南無釋迦牟尼佛由來佛體本無為<note place="inline">和</note>觀
+<lb ed="P" n="0695a03"/>音菩薩無量諸佛菩薩我只見眾生每我只
+<lb ed="P" n="0695a04"/>見眾生每迷現量昧性真把意惑情疑<note place="inline">和</note>南
+<lb ed="P" n="0695a05"/>無釋迦牟尼佛南無釋迦牟尼佛看直造心
+<lb ed="P" n="0695a06"/>源無壅蔽<note place="inline">和</note>觀音菩薩無量諸佛菩薩我只
+<lb ed="P" n="0695a07"/>見了空明我只見了空明湛澄澄湛澄澄的
+<lb ed="P" n="0695a08"/>水月靈知不昧包含性相無知無寂空有雙
+<lb ed="P" n="0695a09"/>亡<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛道
+<lb ed="P" n="0695a10"/>空中一點意深藏<note place="inline">和</note>觀音菩薩無量諸佛菩
+<pb ed="P" xml:id="P178.1611.0695b" n="0695b"/>
+<lb ed="P" n="0695b01"/>薩我只見朗融融我只見朗融融明皎皎萬
+<lb ed="P" n="0695b02"/>慮心照俱忘<note place="inline">和</note>南無釋迦牟尼佛南無釋迦
+<lb ed="P" n="0695b03"/>牟尼佛到其間要認得三諦何存欲界無禪
+<lb ed="P" n="0695b04"/>憑何說<note place="inline">和</note>觀音菩薩無量諸佛菩薩我只見
+<lb ed="P" n="0695b05"/>華藏中我只見華藏中呈華那錦粲粲的毫
+<lb ed="P" n="0695b06"/>光現著那浩熒熒的紺像絪縕上下龍神擁
+<lb ed="P" n="0695b07"/>護非青非白非赤非黃<note place="inline">和</note>南無釋迦牟尼佛
+<lb ed="P" n="0695b08"/>南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0695b0808" type="abnormal"><l rend="text-indent:0em">○蚌蛤之中有應身<note place="inline">和</note>觀
+<lb ed="P" n="0695b09"/>音菩薩無量諸佛菩薩徧十方充法界入微
+<lb ed="P" n="0695b10"/>塵<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛玉
+<pb ed="P" xml:id="P178.1611.0696a" n="0696a"/>
+<lb ed="P" n="0696a01"/>饌裏那分明見形真<note place="inline">和</note>觀音菩薩無量諸佛
+<lb ed="P" n="0696a02"/>菩薩只見那菩薩身只見那菩薩身他顯的
+<lb ed="P" n="0696a03"/>是金容梵相妙好端嚴旃檀百寶照燿乾坤
+<lb ed="P" n="0696a04"/><note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛這法
+<lb ed="P" n="0696a05"/>身真希奇這法身真希奇變化無方不只在
+<lb ed="P" n="0696a06"/>補陀山上<note place="inline">和</note>觀音菩薩無量諸佛菩薩我只
+<lb ed="P" n="0696a07"/>見晃蕩蕩的虛空我只見晃蕩蕩的虛空渺
+<lb ed="P" n="0696a08"/>茫茫的法界密察察的佛身無來無住非生
+<lb ed="P" n="0696a09"/>非滅不增不減絕類離倫<note place="inline">和</note>南無釋迦牟尼
+<lb ed="P" n="0696a10"/>佛南無釋迦牟尼佛噯看如來正法眼大迦
+<pb ed="P" xml:id="P178.1611.0696b" n="0696b"/>
+<lb ed="P" n="0696b01"/>葉轉相傳二十八祖從此後受衣傳法南頓
+<lb ed="P" n="0696b02"/>北漸禪宗相繼<note place="inline">和</note>觀音菩薩無量諸佛菩薩
+<lb ed="P" n="0696b03"/>噯最上乘便似那百千眾流便似那百千眾
+<lb ed="P" n="0696b04"/>流汪汪洋洋滔滔汩汩晝夜不息無窮無盡
+<lb ed="P" n="0696b05"/>千支萬沠都赴著那大海滄瀛<note place="inline">和</note>南無釋迦
+<lb ed="P" n="0696b06"/>牟尼佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0696b0611" type="abnormal"><l rend="text-indent:0em">○優曇瑞世見最
+<lb ed="P" n="0696b07"/>難<note place="inline">和</note>觀音菩薩無量諸佛菩薩我只見氣馥
+<lb ed="P" n="0696b08"/>馥的異香我只見氣馥馥的異香浮動雲端
+<lb ed="P" n="0696b09"/><note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛莫把
+<lb ed="P" n="0696b10"/>做那閑華莫把做那野草炫燿人目<note place="inline">和</note>觀音
+<pb ed="P" xml:id="P178.1611.0697a" n="0697a"/>
+<lb ed="P" n="0697a01"/>菩薩無量諸佛菩薩我只見亂紛紛的雪飄
+<lb ed="P" n="0697a02"/>只見那亂紛紛的雪飄大地中春風消釋了
+<lb ed="P" n="0697a03"/>不相干<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼
+<lb ed="P" n="0697a04"/>佛噯你只看<anchor xml:id="beg_19" type="cb-app"/>斂<anchor xml:id="end_19"/>伽黎開藻鑑展家風示覺路
+<lb ed="P" n="0697a05"/>須彌座上便是那靈山嘉會<note place="inline">和</note>觀音菩薩無
+<lb ed="P" n="0697a06"/>量諸佛菩薩噯那封來皺團團黃甘甘香噴
+<lb ed="P" n="0697a07"/>噴氣馥馥一名柑一名橘如何顏色一般般
+<lb ed="P" n="0697a08"/><note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛一時
+<lb ed="P" n="0697a09"/>間見得寶坊金界天路弘開辨得柑識得橘
+<lb ed="P" n="0697a10"/>明明白白免教鐵牛蚊子遭癡笑<note place="inline">和</note>觀音菩
+<pb ed="P" xml:id="P178.1611.0697b" n="0697b"/>
+<lb ed="P" n="0697b01"/>薩無量諸佛菩薩又聽得丁丁當當又聽得
+<lb ed="P" n="0697b02"/>丁丁當當鏦鏦錚錚銅鐵聲誰分別心融意
+<lb ed="P" n="0697b03"/>會莫教他更受人謾<note place="inline">和</note>南無釋迦牟尼佛南
+<lb ed="P" n="0697b04"/>無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0697b0407" type="abnormal"><l rend="text-indent:0em">○常言鷂子過新羅<note place="inline">和</note>觀音
+<lb ed="P" n="0697b05"/>菩薩無量諸佛菩薩問色法有三種集大眾
+<lb ed="P" n="0697b06"/>作維那<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼
+<lb ed="P" n="0697b07"/>佛噯黃粲粲的鶯白淨淨的鷺遠飛來下著
+<lb ed="P" n="0697b08"/>田上著<g ref="#CB14081">𣗳</g>一枝華千點雪直是那兩鏡相照
+<lb ed="P" n="0697b09"/>萬像分明向此處傳衣鉢<note place="inline">和</note>觀音菩薩無量
+<lb ed="P" n="0697b10"/>諸佛菩薩我只見迦葉門只見那迦葉門暖
+<pb ed="P" xml:id="P178.1611.0698a" n="0698a"/>
+<lb ed="P" n="0698a01"/>融融明晃晃從此去仰堯天瞻舜日證良因
+<lb ed="P" n="0698a02"/>增善果悟真如參正覺只見得溪山雲月處
+<lb ed="P" n="0698a03"/>處同風頭頭顯道漁人鼓舞野老謳歌<note place="inline">和</note>南
+<lb ed="P" n="0698a04"/>無釋迦牟尼佛南無釋迦牟尼佛喜青氈舊
+<lb ed="P" n="0698a05"/>物存仰聖恩何以報便拈起萬年松上枯藤
+<lb ed="P" n="0698a06"/>在<note place="inline">和</note>觀音菩薩無量諸佛菩薩妙法身流通
+<lb ed="P" n="0698a07"/>將日月為天眼指須彌作壽山塵緣淨盡青
+<lb ed="P" n="0698a08"/>天有月碧海無波<note place="inline">和</note>南無釋迦牟尼佛南無
+<lb ed="P" n="0698a09"/>釋迦牟尼佛且道這漉水囊佛即心心即佛
+<lb ed="P" n="0698a10"/>一切心一切相是直下須知難抵諱<note place="inline">和</note>觀音
+<pb ed="P" xml:id="P178.1611.0698b" n="0698b"/>
+<lb ed="P" n="0698b01"/>菩薩無量諸佛菩薩噯那時節向上頭轉機
+<lb ed="P" n="0698b02"/>輪超溷濁悟著心究著性五蘊皆空六根清
+<lb ed="P" n="0698b03"/>淨是同是別畢竟是如何<note place="inline">和</note>南無釋迦牟尼
+<lb ed="P" n="0698b04"/>佛南無釋迦牟尼佛</l></lg><lg xml:id="lgP178p0698b0409" type="abnormal"><l rend="text-indent:0em">○且未說世間萬有悉
+<lb ed="P" n="0698b05"/>皆空<note place="inline">和</note>觀音菩薩十方諸佛菩薩且未說渡
+<lb ed="P" n="0698b06"/>杯浮笠顯神通<note place="inline">和</note>南無釋迦牟尼佛南無釋
+<lb ed="P" n="0698b07"/>迦牟尼佛且未說萬億斯年惟一佛<note place="inline">和</note>觀音
+<lb ed="P" n="0698b08"/>菩薩十方諸佛菩薩噯那其間當機一句直
+<lb ed="P" n="0698b09"/>下是禪宗<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟
+<lb ed="P" n="0698b10"/>尼佛非心非佛復何言<note place="inline">和</note>觀音菩薩十方諸
+<pb ed="P" xml:id="P178.1611.0699a" n="0699a"/>
+<lb ed="P" n="0699a01"/>佛菩薩畢竟是佛即心畢竟是佛即心心即
+<lb ed="P" n="0699a02"/>佛透真機便證著良緣<note place="inline">和</note>南無釋迦牟尼佛
+<lb ed="P" n="0699a03"/>南無釋迦牟尼佛看海上紅光生一片<note place="inline">和</note>觀
+<lb ed="P" n="0699a04"/>音菩薩十方諸佛菩薩我只見境圓融我只
+<lb ed="P" n="0699a05"/>見境圓融晃熒熒晃熒熒的慧日金烏影裏
+<lb ed="P" n="0699a06"/>四方八表廣廣蕩蕩普照無邊<note place="inline">和</note>南無釋迦
+<lb ed="P" n="0699a07"/>牟尼佛南無釋迦牟尼佛問離亭雲月渡頭
+<lb ed="P" n="0699a08"/>船<note place="inline">和</note>觀音菩薩十方諸佛菩薩且莫道意懸
+<lb ed="P" n="0699a09"/>懸且莫道意懸懸心切切便歸故國山川<note place="inline">和</note>
+<lb ed="P" n="0699a10"/>南無釋迦牟尼佛南無釋迦牟尼佛早回頭
+<pb ed="P" xml:id="P178.1611.0699b" n="0699b"/>
+<lb ed="P" n="0699b01"/>向上去仰靣青天雲水重新曾省悟<note place="inline">和</note>觀音
+<lb ed="P" n="0699b02"/>菩薩十方諸佛菩薩只看那佛世尊只看那
+<lb ed="P" n="0699b03"/>佛世尊點著那明晃晃的金燈潑著那黑卒
+<lb ed="P" n="0699b04"/>卒的墨汁羚羊掛角拖泥帶水作人笑怪蜜
+<lb ed="P" n="0699b05"/>語難宣<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼
+<lb ed="P" n="0699b06"/>佛</l></lg><lg xml:id="lgP178p0699b0602" type="abnormal"><l rend="text-indent:0em">○莫道盧波跨鐵牛<note place="inline">和</note>觀音菩薩十方諸
+<lb ed="P" n="0699b07"/>佛菩薩取魚難擒虎易話藏頭<note place="inline">和</note>南無釋迦
+<lb ed="P" n="0699b08"/>牟尼佛南無釋迦牟尼佛慣釣的那鯨鯢好
+<lb ed="P" n="0699b09"/>垂釣<note place="inline">和</note>觀音菩薩十方諸佛菩薩便只是事
+<lb ed="P" n="0699b10"/>當機便只是事當機拈來勘破霹靂鋒頭星
+<pb ed="P" xml:id="P178.1611.0700a" n="0700a"/>
+<lb ed="P" n="0700a01"/>飛電轉三玄戈甲未易輕酬<note place="inline">和</note>南無釋迦牟
+<lb ed="P" n="0700a02"/>尼佛南無釋迦牟尼佛那邊道玄道玄這邊
+<lb ed="P" n="0700a03"/>道微道微一語離窠腰佩著毗盧金印<note place="inline">和</note>觀
+<lb ed="P" n="0700a04"/>音菩薩十方諸佛菩薩我則見熱爍爍的油
+<lb ed="P" n="0700a05"/>鐺我則見熱爍爍的油鐺卒禿禿的布鼓晃
+<lb ed="P" n="0700a06"/>粲粲的金錢油鐺煑月知音誰是金錢覆舌
+<lb ed="P" n="0700a07"/>莫究因由<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟
+<lb ed="P" n="0700a08"/>尼佛噯看楊柳如金色觀桃源記舊遊風和
+<lb ed="P" n="0700a09"/>日暖只見得融融朗朗融融朗朗春光明媚
+<lb ed="P" n="0700a10"/><note place="inline">和</note>觀音菩薩十方諸佛菩薩噯那其間却悟
+<pb ed="P" xml:id="P178.1611.0700b" n="0700b"/>
+<lb ed="P" n="0700b01"/>取道本無心却悟取道本無心心以佛彰佛
+<lb ed="P" n="0700b02"/>因心悟無心名道佛亦不有種種勝妙都只
+<lb ed="P" n="0700b03"/>是那夢幻浮漚<note place="inline">和</note>南無釋迦牟尼佛南無釋
+<lb ed="P" n="0700b04"/>迦牟尼佛</l></lg><lg xml:id="lgP178p0700b0405" type="abnormal"><l rend="text-indent:0em">○黃河無底本自深<note place="inline">和</note>觀音菩薩
+<lb ed="P" n="0700b05"/>十方諸佛菩薩我則見晃粲粲的丹砂我則
+<lb ed="P" n="0700b06"/>見晃粲粲的丹砂可化為金<note place="inline">和</note>南無釋迦牟
+<lb ed="P" n="0700b07"/>尼佛南無釋迦牟尼佛明朗朗的天堂黑卒
+<lb ed="P" n="0700b08"/>卒的地獄忽然猛省<note place="inline">和</note>觀音菩薩十方諸佛
+<lb ed="P" n="0700b09"/>菩薩只聽得忽剌剌的雷鳴只聽得忽剌剌
+<lb ed="P" n="0700b10"/>的雷鳴驀然間一聲霹靂頓悟禪心<note place="inline">和</note>南無
+<pb ed="P" xml:id="P178.1611.0701a" n="0701a"/>
+<lb ed="P" n="0701a01"/>釋迦牟尼佛南無釋迦牟尼佛噯却見得清
+<lb ed="P" n="0701a02"/>淨身廣長舌是溪聲與山色<g ref="#CB08887">󲊷</g>前栢<g ref="#CB14081">𣗳</g>好認
+<lb ed="P" n="0701a03"/>取祖師來意<note place="inline">和</note>觀音菩薩十方諸佛菩薩噯
+<lb ed="P" n="0701a04"/>看從前悟機鋒斷塵緣燈點火鐺煑鐵地擎
+<lb ed="P" n="0701a05"/>山石舍玉不離當處好相尋<note place="inline">和</note>南無釋迦牟
+<lb ed="P" n="0701a06"/>尼佛南無釋迦牟尼佛一時間誰悟法身流
+<lb ed="P" n="0701a07"/>轉苦樂異途見本源知自性遠離意識眾生
+<lb ed="P" n="0701a08"/>悟本來超諸有海<note place="inline">和</note>觀音菩薩十方諸佛菩
+<lb ed="P" n="0701a09"/>薩須是那專專勤勤須是那專專勤勤急著
+<lb ed="P" n="0701a10"/>精彩斷惡根除業障明明白白不受那塵埃
+<pb ed="P" xml:id="P178.1611.0701b" n="0701b"/>
+<lb ed="P" n="0701b01"/>相侵<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛</l></lg>
+<lb ed="P" n="0701b02"/><lg xml:id="lgP178p0701b0201" type="abnormal"><l rend="text-indent:0em">○離言說相道因緣<note place="inline">和</note>觀音菩薩十方諸佛
+<lb ed="P" n="0701b03"/>菩薩奇特解玄妙解祕密解以心傳<note place="inline">和</note>南無
+<lb ed="P" n="0701b04"/>釋迦牟尼佛南無釋迦牟尼佛噯活潑潑的
+<lb ed="P" n="0701b05"/>機微妙妙的法也須要透著聲見著色悟著
+<lb ed="P" n="0701b06"/>因證著覺到其間一華五葉結果自然真箇
+<lb ed="P" n="0701b07"/>是無形叚<note place="inline">和</note>觀音菩薩十方諸佛菩薩我則
+<lb ed="P" n="0701b08"/>見恁麼時我則見恁麼時悟機關說道理方
+<lb ed="P" n="0701b09"/>寸中滅無明除人我不疑佛不疑祖不疑生
+<lb ed="P" n="0701b10"/>不疑死只見得融融煜煜分分明明便只似
+<pb ed="P" xml:id="P178.1611.0702a" n="0702a"/>
+<lb ed="P" n="0702a01"/>那水銀落地大小俱圓<note place="inline">和</note>南無釋迦牟尼佛
+<lb ed="P" n="0702a02"/>南無釋迦牟尼佛這聦明說道理想其間空
+<lb ed="P" n="0702a03"/>撈摸空咬嚼向著那處沒滋味<note place="inline">和</note>觀音菩薩
+<lb ed="P" n="0702a04"/>十方諸佛菩薩忽然間真箇咬著舌打著鼻
+<lb ed="P" n="0702a05"/>少提撕沒舉覺拖泥帶水未明般若浪子徧
+<lb ed="P" n="0702a06"/>憐<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼佛便
+<lb ed="P" n="0702a07"/>只是心<anchor xml:id="beg_1a" type="cb-app"/>已<anchor xml:id="end_1a"/>空到無差別境界萬緣消諸垢淨
+<lb ed="P" n="0702a08"/>選佛場中都到得<note place="inline">和</note>觀音菩薩十方諸佛菩
+<lb ed="P" n="0702a09"/>薩噯那時節般若林大法幢大法炬扶得正
+<lb ed="P" n="0702a10"/>燃得著坐坐行行方方處處無人無我畢竟
+<pb ed="P" xml:id="P178.1611.0702b" n="0702b"/>
+<lb ed="P" n="0702b01"/>更無禪<note place="inline">和</note>南無釋迦牟尼佛南無釋迦牟尼
+<lb ed="P" n="0702b02"/>佛</l></lg></cb:div>
+<lb ed="P" n="0702b03"/>
+<lb ed="P" n="0702b04"/><cb:juan fun="close" n="23"><cb:jhead>諸佛世尊如來菩薩尊者神僧名經卷第二
+<lb ed="P" n="0702b05"/>十三</cb:jhead></cb:juan>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_18" cb:to="#end_18"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_19" cb:to="#end_19"><corr>斂</corr><sic>歛</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1a" cb:to="#end_1a"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

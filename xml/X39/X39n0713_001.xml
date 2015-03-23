@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X39n0713">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 713 四分律含注戒本疏科</title>
+			<author>宋 元照錄</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $<date>$Date: 2009/04/22 08:56:45 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>4卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:56:45 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 39, No. 713 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB15546">
+	<charName>CBETA CHARACTER CB15546</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[林/几]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>梵</value>
+	</charProp>
+	<mapping type="unicode">U+2347D</mapping>
+	<mapping cb:dec="998586" type="PUA">U+F3CBA</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2006-10-11T16:54:51">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" xml:id="X39.0713.0590a" n="0590a"/>
+<lb ed="X" n="0590a01"/><milestone unit="juan" n="1"/>
+<lb ed="X" n="0590a02"/><cb:docNumber>No. 713</cb:docNumber>
+<lb ed="X" n="0590a03"/><lb ed="R062" n="0195a01"/><cb:juan fun="open" n="1a"><cb:mulu type="卷" n="1a">一之上</cb:mulu><cb:jhead>釋四分律含注戒本疏科卷一之上</cb:jhead></cb:juan>
+<lb ed="X" n="0590a04"/><lb ed="R062" n="0195a01"/><byline cb:type="other">大宋　餘杭沙門　元照　錄</byline>
+<lb ed="X" n="0590a05"/><lb ed="R062" n="0195a01"/>
+<lb ed="X" n="0590a06"/><lb ed="R062" n="0195a01"/><cb:div><list><item xml:id="itemX39p0590a0601">疏科分<note place="inline">二</note>
+<lb ed="X" n="0590a07"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a0701">初疏序<note place="inline">二</note>
+<lb ed="X" n="0590a08"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a0801">初題號<note place="inline">二</note>
+<lb ed="X" n="0590a09"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a0901">初標題</item>
+<lb ed="X" n="0590a10"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a1001">二撰號</item></list></item>
+<lb ed="X" n="0590a11"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a1101">二序文<note place="inline">二</note>
+<lb ed="X" n="0590a12"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a1201">初通敘所宗<note place="inline">二</note>
+<lb ed="X" n="0590a13"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a1301">初標教體以歎</item>
+<lb ed="X" n="0590a14"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a1401">二昔下約分宗以顯<note place="inline">二</note>
+<lb ed="X" n="0590a15"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a1501">初總明諸部</item>
+<lb ed="X" n="0590a16"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a1601">二至下別歎今宗</item></list></item></list></item>
+<lb ed="X" n="0590a17"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a1701">二蘊下別明傳授<note place="inline">二</note>
+<lb ed="X" n="0590a18"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a1801">初敘古本<note place="inline">二</note>
+<lb ed="X" n="0590a19"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a1901">初列示三本<note place="inline">三</note>
+<lb ed="X" n="0590a20"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a2001">初覺明本</item>
+<lb ed="X" n="0590a21"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a2101">二元下光師本</item>
+<lb ed="X" n="0590a22"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a2201">三高下願師本</item></list></item>
+<lb ed="X" n="0590a23"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a2301">二斯下結顯同異</item></list></item>
+<lb ed="X" n="0590a24"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a2401">二余下明今本<note place="inline">二</note>
+<lb ed="X" n="0590a25"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a2501">初明注本<note place="inline">二</note>
+<lb ed="X" n="0590a26"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a2601">初詳校諸本</item>
+<lb ed="X" n="0590a27"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a2701">二所下正明注述</item></list></item>
+<lb ed="X" n="0590a28"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a2801">二今下明撰疏<note place="inline">二</note>
+<lb ed="X" n="0590a29"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a2901">初敘發起緣由</item>
+<lb ed="X" n="0590a30"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a3001">二博下由謙酬請</item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0590a31"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a3101">二疏文<note place="inline">二</note>
+<lb ed="X" n="0590a32"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a3201">初題目</item>
+<lb ed="X" n="0590a33"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a3301">二本文<note place="inline">二</note>
+<lb ed="X" n="0590a34"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a3401">初通敘教本<note place="inline">二</note>
+<lb ed="X" n="0590a35"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a3501">初分章</item>
+<lb ed="X" n="0590a36"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0590a3601">二初下隨釋<note place="inline">四</note>
+<lb ed="X" n="0590a37"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a3701">初教興所由<note place="inline">二</note>
+<lb ed="X" n="0590a38"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0590a3801">初標</item>
+<pb ed="X" xml:id="X39.0713.0591a" n="0591a"/>
+<lb ed="X" n="0591a01"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a0101">二斯下釋<note place="inline">二</note>
+<lb ed="X" n="0591a02"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0591a0201">初通敘戒學<note place="inline">二</note>
+<lb ed="X" n="0591a03"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0591a0301">初正示<note place="inline">二</note>
+<lb ed="X" n="0591a04"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0591a0401">初約聖意以明教本</item>
+<lb ed="X" n="0591a05"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a0501">二然下約對治以明相須<note place="inline">二</note>
+<lb ed="X" n="0591a06"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0591a0601">初明立法次第</item>
+<lb ed="X" n="0591a07"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a0701">二故下顯相須之意<note place="inline">三</note>
+<lb ed="X" n="0591a08"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0591a0801">初反顯</item>
+<lb ed="X" n="0591a09"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a0901">二故下勸依</item>
+<lb ed="X" n="0591a10"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a1001">三故下雙證</item></list></item></list></item></list></item>
+<lb ed="X" n="0591a11"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a1101">二釋疑<note place="inline">二</note>
+<lb ed="X" n="0591a12"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0591a1201">初舉定慧以難</item>
+<lb ed="X" n="0591a13"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a1301">二約遠意答<note place="inline">三</note>
+<lb ed="X" n="0591a14"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0591a1401">初明聖教異凡</item>
+<lb ed="X" n="0591a15"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a1501">二任下正行體分齊</item>
+<lb ed="X" n="0591a16"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a1601">三若下窮制意正通</item></list></item></list></item></list></item>
+<lb ed="X" n="0591a17"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a1701">二問下別彰戒本<note place="inline">二</note>
+<lb ed="X" n="0591a18"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0591a1801">初問</item>
+<lb ed="X" n="0591a19"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a1901">二答<note place="inline">二</note>
+<lb ed="X" n="0591a20"/><lb ed="R062" n="0195a01"/><list><item xml:id="itemX39p0591a2001">初正答</item>
+<lb ed="X" n="0591a21"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a2101">二斯下引證</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0591a22"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a2201">二攝教分齊○</item>
+<lb ed="X" n="0591a23"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a2301">三解開名義○</item>
+<lb ed="X" n="0591a24"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a2401">四解今題目○</item></list></item></list></item>
+<lb ed="X" n="0591a25"/><lb ed="R062" n="0195a01"/><item xml:id="itemX39p0591a2501">二自下義張三位○</item></list></item></list></item></list></item></list>
+<lb ed="X" n="0591a26"/><lb ed="R062" n="0195a01"/>
+<lb ed="X" n="0591a27"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a2701">○二攝教分齊<note place="inline">二</note>
+<lb ed="X" n="0591a28"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a2801">初牒章</item>
+<lb ed="X" n="0591a29"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a2901">二三下隨釋<note place="inline">二</note>
+<lb ed="X" n="0591a30"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a3001">初敘昔所傳<note place="inline">二</note>
+<lb ed="X" n="0591a31"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a3101">初總示</item>
+<lb ed="X" n="0591a32"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a3201">二有下別釋<note place="inline">四</note>
+<lb ed="X" n="0591a33"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a3301">初三輪<note place="inline">二</note>
+<lb ed="X" n="0591a34"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a3401">初總敘<note place="inline">三</note>
+<lb ed="X" n="0591a35"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a3501">初通標</item>
+<lb ed="X" n="0591a36"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a3601">二創下列示<note place="inline">三</note>
+<lb ed="X" n="0591a37"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a3701">初神足輪</item>
+<lb ed="X" n="0591a38"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a3801">二身下說法輪</item>
+<lb ed="X" n="0591a39"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a3901">三神下憶念輪<note place="inline">二</note>
+<lb ed="X" n="0591a40"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a4001">初正明教意</item>
+<lb ed="X" n="0591a41"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a4101">二然下委釋所證<note place="inline">二</note>
+<lb ed="X" n="0591a42"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a4201">初標舉</item>
+<lb ed="X" n="0591a43"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a4301">二一下列釋<note place="inline">二</note>
+<lb ed="X" n="0591a44"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a4401">初明事證</item>
+<lb ed="X" n="0591a45"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a4501">二明理證</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0591a46"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a4601">三如下指所出</item></list></item>
+<lb ed="X" n="0591a47"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a4701">二今下別判</item></list></item>
+<lb ed="X" n="0591a48"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a4801">二化行<note place="inline">二</note>
+<lb ed="X" n="0591a49"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a4901">初斥前標後</item>
+<lb ed="X" n="0591a50"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a5001">二何下立義判釋<note place="inline">二</note>
+<lb ed="X" n="0591a51"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a5101">初釋化教</item>
+<lb ed="X" n="0591a52"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a5201">二釋行教</item></list></item></list></item>
+<lb ed="X" n="0591a53"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a5301">三制聽<note place="inline">二</note>
+<lb ed="X" n="0591a54"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a5401">初別古<note place="inline">二</note>
+<lb ed="X" n="0591a55"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a5501">初斥前標後</item>
+<lb ed="X" n="0591a56"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a5601">二如下立義判釋<note place="inline">二</note>
+<lb ed="X" n="0591a57"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a5701">初制教</item>
+<lb ed="X" n="0591a58"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a5801">二聽教</item></list></item></list></item>
+<lb ed="X" n="0591a59"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a5901">二若下躡破</item></list></item>
+<lb ed="X" n="0591a60"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a6001">四化制</item></list></item></list></item>
+<lb ed="X" n="0591a61"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a6101">二今下明今取舍<note place="inline">二</note>
+<lb ed="X" n="0591a62"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a6201">初分門</item>
+<lb ed="X" n="0591a63"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a6301">二初下隨釋<note place="inline">三</note>
+<lb ed="X" n="0591a64"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a6401">初敘教本<note place="inline">二</note>
+<lb ed="X" n="0591a65"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a6501">初標</item>
+<lb ed="X" n="0591a66"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a6601">二如下釋<note place="inline">三</note>
+<lb ed="X" n="0591a67"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a6701">初明憑教有無</item>
+<lb ed="X" n="0591a68"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a6801">二經下示經論諸判</item>
+<lb ed="X" n="0591a69"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a6901">三昔下斥二家無據</item></list></item></list></item>
+<lb ed="X" n="0591a70"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a7001">二徵昔宗<note place="inline">二</note>
+<lb ed="X" n="0591a71"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a7101">初標</item>
+<lb ed="X" n="0591a72"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a7201">二初下釋<note place="inline">三</note>
+<lb ed="X" n="0591a73"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a7301">初徵化行</item>
+<lb ed="X" n="0591a74"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a7401">二徵制聽</item>
+<lb ed="X" n="0591a75"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a7501">三舉化制</item></list></item></list></item>
+<lb ed="X" n="0591a76"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a7601">三今下立正義<note place="inline">二</note>
+<lb ed="X" n="0591a77"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a7701">初正明所取<note place="inline">二</note>
+<lb ed="X" n="0591a78"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a7801">初標所取未盡</item>
+<lb ed="X" n="0591a79"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0591a7901">二但下正今義足成<note place="inline">二</note>
+<lb ed="X" n="0591a80"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a8001">初引文義明通<note place="inline">二</note>
+<lb ed="X" n="0591a81"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0591a8101">初明通二輪</item>
+<pb ed="X" xml:id="X39.0713.0592a" n="0592a"/>
+<lb ed="X" n="0592a01"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0592a0101">二夫下正敘憶念</item></list></item>
+<lb ed="X" n="0592a02"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0592a0201">二問下約兼正顯局<note place="inline">二</note>
+<lb ed="X" n="0592a03"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0592a0301">初敘問</item>
+<lb ed="X" n="0592a04"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0592a0401">二答通</item></list></item></list></item></list></item>
+<lb ed="X" n="0592a05"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0592a0501">二近下復引餘義<note place="inline">二</note>
+<lb ed="X" n="0592a06"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0592a0601">初引示<note place="inline">二</note>
+<lb ed="X" n="0592a07"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0592a0701">初正明</item>
+<lb ed="X" n="0592a08"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0592a0801">二釋妨<note place="inline">二</note>
+<lb ed="X" n="0592a09"/><lb ed="R062" n="0196a01"/><list><item xml:id="itemX39p0592a0901">初問</item>
+<lb ed="X" n="0592a10"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0592a1001">二答</item></list></item></list></item>
+<lb ed="X" n="0592a11"/><lb ed="R062" n="0196a01"/><item xml:id="itemX39p0592a1101">二若下指斥</item></list></item></list></item></list></item></list></item></list></item></list></item></list>
+<lb ed="X" n="0592a12"/><lb ed="R062" n="0196a01"/>
+<lb ed="X" n="0592a13"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a1301">○三解開名義<note place="inline">二</note>
+<lb ed="X" n="0592a14"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a1401">初標分</item>
+<lb ed="X" n="0592a15"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a1501">二初下隨釋<note place="inline">三</note>
+<lb ed="X" n="0592a16"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a1601">初統敘眾名</item>
+<lb ed="X" n="0592a17"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a1701">二依名翻釋<note place="inline">二</note>
+<lb ed="X" n="0592a18"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a1801">初標分</item>
+<lb ed="X" n="0592a19"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a1901">二初下隨釋<note place="inline">三</note>
+<lb ed="X" n="0592a20"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a2001">初尸羅<note place="inline">二</note>
+<lb ed="X" n="0592a21"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a2101">初翻名</item>
+<lb ed="X" n="0592a22"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a2201">二戒下釋義<note place="inline">三</note>
+<lb ed="X" n="0592a23"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a2301">初略釋</item>
+<lb ed="X" n="0592a24"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a2401">二如下斥古</item>
+<lb ed="X" n="0592a25"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a2501">三如下顯今<note place="inline">二</note>
+<lb ed="X" n="0592a26"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a2601">初舉諸文以明局善</item>
+<lb ed="X" n="0592a27"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a2701">二依下約兩通以顯正義</item></list></item></list></item></list></item>
+<lb ed="X" n="0592a28"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a2801">二木叉<note place="inline">二</note>
+<lb ed="X" n="0592a29"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a2901">初翻名</item>
+<lb ed="X" n="0592a30"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a3001">二如下釋義<note place="inline">三</note>
+<lb ed="X" n="0592a31"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a3101">初約道事二戒分</item>
+<lb ed="X" n="0592a32"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a3201">二或下約業惑兩報辨<note place="inline">二</note>
+<lb ed="X" n="0592a33"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a3301">初正示</item>
+<lb ed="X" n="0592a34"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a3401">二釋疑</item></list></item>
+<lb ed="X" n="0592a35"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a3501">三然下引經律互說<note place="inline">三</note>
+<lb ed="X" n="0592a36"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a3601">初標指</item>
+<lb ed="X" n="0592a37"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a3701">二何下引示</item>
+<lb ed="X" n="0592a38"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a3801">三以下結顯</item></list></item></list></item></list></item>
+<lb ed="X" n="0592a39"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a3901">三毗尼<note place="inline">三</note>
+<lb ed="X" n="0592a40"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a4001">初標梵號</item>
+<lb ed="X" n="0592a41"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a4101">二自下辨胡梵<note place="inline">四</note>
+<lb ed="X" n="0592a42"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a4201">初標古略斥</item>
+<lb ed="X" n="0592a43"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a4301">二何下約義廣辨<note place="inline">四</note>
+<lb ed="X" n="0592a44"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a4401">初定梵土中邊<note place="inline">二</note>
+<lb ed="X" n="0592a45"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a4501">初引示諸說<note place="inline">三</note>
+<lb ed="X" n="0592a46"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a4601">初定<g ref="#CB15546">𣑽</g>國必中</item>
+<lb ed="X" n="0592a47"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a4701">二此下顯此方非中</item>
+<lb ed="X" n="0592a48"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a4801">三爾下示河源遠近</item></list></item>
+<lb ed="X" n="0592a49"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a4901">二今下研詳取證</item></list></item>
+<lb ed="X" n="0592a50"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a5001">二胡下示胡國所在</item>
+<lb ed="X" n="0592a51"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a5101">三又下明翻傳隨世</item>
+<lb ed="X" n="0592a52"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a5201">四又下顯<g ref="#CB15546">𣑽</g>字之本</item></list></item>
+<lb ed="X" n="0592a53"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a5301">三餘下顯略</item>
+<lb ed="X" n="0592a54"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a5401">四上下示意</item></list></item>
+<lb ed="X" n="0592a55"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a5501">三古下翻名義<note place="inline">二</note>
+<lb ed="X" n="0592a56"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a5601">初正翻<note place="inline">五</note>
+<lb ed="X" n="0592a57"/><lb ed="R062" n="0197a01"/><list><item xml:id="itemX39p0592a5701">初對古示名</item>
+<lb ed="X" n="0592a58"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a5801">二俗下准俗顯義</item>
+<lb ed="X" n="0592a59"/><lb ed="R062" n="0197a01"/><item xml:id="itemX39p0592a5901">三如下引文證</item>
+<pb ed="X" xml:id="X39.0713.0593a" n="0593a"/>
+<lb ed="X" n="0593a01"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a0101">四古下點古非</item>
+<lb ed="X" n="0593a02"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a0201">五問下簡通濫<note place="inline">二</note>
+<lb ed="X" n="0593a03"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a0301">初舉餘藏以問</item>
+<lb ed="X" n="0593a04"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a0401">二約不同以答<note place="inline">二</note>
+<lb ed="X" n="0593a05"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a0501">初正答</item>
+<lb ed="X" n="0593a06"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a0601">二轉難<note place="inline">二</note>
+<lb ed="X" n="0593a07"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a0701">初約戒善相濫難</item>
+<lb ed="X" n="0593a08"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a0801">二約兩義可分答</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0593a09"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a0901">二所下示對翻所以<note place="inline">三</note>
+<lb ed="X" n="0593a10"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a1001">初敘本翻意</item>
+<lb ed="X" n="0593a11"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a1101">二何下徵釋同異</item>
+<lb ed="X" n="0593a12"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a1201">三問下與俗例難<note place="inline">二</note>
+<lb ed="X" n="0593a13"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a1301">初敘問</item>
+<lb ed="X" n="0593a14"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a1401">二答通</item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0593a15"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a1501">三對名立教<note place="inline">二</note>
+<lb ed="X" n="0593a16"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a1601">初標</item>
+<lb ed="X" n="0593a17"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a1701">二問下釋<note place="inline">二</note>
+<lb ed="X" n="0593a18"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a1801">初約三藏偏標以問</item>
+<lb ed="X" n="0593a19"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a1901">二約總攝以答<note place="inline">二</note>
+<lb ed="X" n="0593a20"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a2001">初正答</item>
+<lb ed="X" n="0593a21"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a2101">二轉難<note place="inline">二</note>
+<lb ed="X" n="0593a22"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a2201">初約說戒以難</item>
+<lb ed="X" n="0593a23"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a2301">二約取行以答<note place="inline">二</note>
+<lb ed="X" n="0593a24"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a2401">初正答</item>
+<lb ed="X" n="0593a25"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a2501">二有下指非</item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list>
+<lb ed="X" n="0593a26"/><lb ed="R062" n="0198a01"/>
+<lb ed="X" n="0593a27"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a2701">○四解今題目<note place="inline">二</note>
+<lb ed="X" n="0593a28"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a2801">初標列</item>
+<lb ed="X" n="0593a29"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a2901">二就下隨釋<note place="inline">四</note>
+<lb ed="X" n="0593a30"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a3001">初部類不同<note place="inline">二</note>
+<lb ed="X" n="0593a31"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a3101">初敘名列章</item>
+<lb ed="X" n="0593a32"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a3201">二初下依位解釋<note place="inline">三</note>
+<lb ed="X" n="0593a33"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a3301">初敘本無分<note place="inline">二</note>
+<lb ed="X" n="0593a34"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a3401">初標</item>
+<lb ed="X" n="0593a35"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a3501">二意下釋<note place="inline">三</note>
+<lb ed="X" n="0593a36"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a3601">初本立教之旨</item>
+<lb ed="X" n="0593a37"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a3701">二雖下通諸文之意</item>
+<lb ed="X" n="0593a38"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a3801">三何下約三義證成</item></list></item></list></item>
+<lb ed="X" n="0593a39"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a3901">二分之時節<note place="inline">三</note>
+<lb ed="X" n="0593a40"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a4001">初標分</item>
+<lb ed="X" n="0593a41"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a4101">二一下列釋<note place="inline">四</note>
+<lb ed="X" n="0593a42"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a4201">初分二部</item>
+<lb ed="X" n="0593a43"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a4301">二分五部<note place="inline">二</note>
+<lb ed="X" n="0593a44"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a4401">初標</item>
+<lb ed="X" n="0593a45"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a4501">二若下釋<note place="inline">二</note>
+<lb ed="X" n="0593a46"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a4601">初敘異世五師以明緣本<note place="inline">二</note>
+<lb ed="X" n="0593a47"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a4701">初列緣相<note place="inline">四</note>
+<lb ed="X" n="0593a48"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a4801">初第一師</item>
+<lb ed="X" n="0593a49"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a4901">二第二師</item>
+<lb ed="X" n="0593a50"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a5001">三三四二師</item>
+<lb ed="X" n="0593a51"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a5101">四第五師</item></list></item>
+<lb ed="X" n="0593a52"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a5201">二前下示不分</item></list></item>
+<lb ed="X" n="0593a53"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a5301">二敘同世五師正明分派<note place="inline">二</note>
+<lb ed="X" n="0593a54"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a5401">初敘分所以</item>
+<lb ed="X" n="0593a55"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a5501">二如下引文為證</item></list></item></list></item></list></item>
+<lb ed="X" n="0593a56"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a5601">三分十八部<note place="inline">二</note>
+<lb ed="X" n="0593a57"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a5701">初標</item>
+<lb ed="X" n="0593a58"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0593a5801">二如下引釋<note place="inline">三</note>
+<lb ed="X" n="0593a59"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0593a5901">初引三藏所傳</item>
+<pb ed="X" xml:id="X39.0713.0594a" n="0594a"/>
+<lb ed="X" n="0594a01"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0594a0101">二又下引文殊問經</item>
+<lb ed="X" n="0594a02"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0594a0201">三又下引十八部執論</item></list></item></list></item>
+<lb ed="X" n="0594a03"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0594a0301">四五百部</item></list></item>
+<lb ed="X" n="0594a04"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0594a0401">三問答<note place="inline">二</note>
+<lb ed="X" n="0594a05"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0594a0501">初問</item>
+<lb ed="X" n="0594a06"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0594a0601">二答<note place="inline">二</note>
+<lb ed="X" n="0594a07"/><lb ed="R062" n="0198a01"/><list><item xml:id="itemX39p0594a0701">初約義答</item>
+<lb ed="X" n="0594a08"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0594a0801">二故下引文證</item></list></item></list></item></list></item>
+<lb ed="X" n="0594a09"/><lb ed="R062" n="0198a01"/><item xml:id="itemX39p0594a0901">三見解有異<note place="inline">二</note>
+<lb ed="X" n="0594a10"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a1001">初標</item>
+<lb ed="X" n="0594a11"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a1101">二大下釋<note place="inline">二</note>
+<lb ed="X" n="0594a12"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a1201">初引示<note place="inline">六</note>
+<lb ed="X" n="0594a13"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a1301">初第一師</item>
+<lb ed="X" n="0594a14"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a1401">二第二師</item>
+<lb ed="X" n="0594a15"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a1501">三第三師</item>
+<lb ed="X" n="0594a16"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a1601">四第四師</item>
+<lb ed="X" n="0594a17"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a1701">五第五師</item>
+<lb ed="X" n="0594a18"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a1801">六又下根本部</item></list></item>
+<lb ed="X" n="0594a19"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a1901">二問答<note place="inline">三</note>
+<lb ed="X" n="0594a20"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a2001">初問古師傳濫</item>
+<lb ed="X" n="0594a21"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a2101">二問經贊有無</item>
+<lb ed="X" n="0594a22"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a2201">三問本末次第</item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0594a23"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a2301">二前後差異<note place="inline">二</note>
+<lb ed="X" n="0594a24"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a2401">初標</item>
+<lb ed="X" n="0594a25"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a2501">二問下釋<note place="inline">二</note>
+<lb ed="X" n="0594a26"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a2601">初敘問</item>
+<lb ed="X" n="0594a27"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a2701">二答通<note place="inline">二</note>
+<lb ed="X" n="0594a28"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a2801">初約揀濫答</item>
+<lb ed="X" n="0594a29"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a2901">二約顛倒難<note place="inline">二</note>
+<lb ed="X" n="0594a30"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a3001">初敘難</item>
+<lb ed="X" n="0594a31"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a3101">二釋通<note place="inline">二</note>
+<lb ed="X" n="0594a32"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a3201">初今答</item>
+<lb ed="X" n="0594a33"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a3301">二有下引他答</item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0594a34"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a3401">三正解名目<note place="inline">二</note>
+<lb ed="X" n="0594a35"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a3501">初標</item>
+<lb ed="X" n="0594a36"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a3601">二言下釋<note place="inline">二</note>
+<lb ed="X" n="0594a37"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a3701">初法題<note place="inline">二</note>
+<lb ed="X" n="0594a38"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a3801">初制目<note place="inline">二</note>
+<lb ed="X" n="0594a39"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a3901">初標示</item>
+<lb ed="X" n="0594a40"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a4001">二佛下廣釋<note place="inline">三</note>
+<lb ed="X" n="0594a41"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a4101">初正釋</item>
+<lb ed="X" n="0594a42"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a4201">二此下遮簡</item>
+<lb ed="X" n="0594a43"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a4301">三又下舉例</item></list></item></list></item>
+<lb ed="X" n="0594a44"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a4401">二言下通目<note place="inline">二</note>
+<lb ed="X" n="0594a45"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a4501">初牒示</item>
+<lb ed="X" n="0594a46"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a4601">二戒下廣釋</item></list></item></list></item>
+<lb ed="X" n="0594a47"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a4701">二出下人號<note place="inline">二</note>
+<lb ed="X" n="0594a48"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a4801">初牒示</item>
+<lb ed="X" n="0594a49"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a4901">二前下廣釋<note place="inline">三</note>
+<lb ed="X" n="0594a50"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a5001">初出標意</item>
+<lb ed="X" n="0594a51"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a5101">二<g ref="#CB15546">𣑽</g>下翻<g ref="#CB15546">𣑽</g>名</item>
+<lb ed="X" n="0594a52"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a5201">三古下點古非</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0594a53"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a5301">四泛解翻度<note place="inline">二</note>
+<lb ed="X" n="0594a54"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a5401">初標</item>
+<lb ed="X" n="0594a55"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a5501">二此下釋<note place="inline">二</note>
+<lb ed="X" n="0594a56"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a5601">初敘意標舉</item>
+<lb ed="X" n="0594a57"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a5701">二自下依次列示<note place="inline">二</note>
+<lb ed="X" n="0594a58"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a5801">初明戒本羯磨二部初傳</item>
+<lb ed="X" n="0594a59"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a5901">二十下明廣律四部次第<note place="inline">四</note>
+<lb ed="X" n="0594a60"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a6001">初十誦律</item>
+<lb ed="X" n="0594a61"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a6101">二四分律</item>
+<lb ed="X" n="0594a62"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a6201">三僧祗律</item>
+<lb ed="X" n="0594a63"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0594a6301">四五分律</item></list></item></list></item></list></item></list></item></list></item></list></item></list>
+<lb ed="X" n="0594a64"/><lb ed="R062" n="0199a01"/>
+<lb ed="X" n="0594a65"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a6501">○二自下義張三位<note place="inline">二</note>
+<lb ed="X" n="0594a66"/><lb ed="R062" n="0199a01"/><list><item xml:id="itemX39p0594a6601">初結前標後</item>
+<pb ed="X" xml:id="X39.0713.0595a" n="0595a"/>
+<lb ed="X" n="0595a01"/><lb ed="R062" n="0199a01"/><item xml:id="itemX39p0595a0101">二初下約義科判<note place="inline">二</note>
+<lb ed="X" n="0595a02"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a0201">初總判<note place="inline">三</note><note place="inline">如文</note></item>
+<lb ed="X" n="0595a03"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a0301">二就下別釋<note place="inline">三</note>
+<lb ed="X" n="0595a04"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a0401">初廣略二教總序分<note place="inline">二</note>
+<lb ed="X" n="0595a05"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a0501">初三種分別二序<note place="inline">二</note>
+<lb ed="X" n="0595a06"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a0601">初標分</item>
+<lb ed="X" n="0595a07"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a0701">二就下隨釋<note place="inline">三</note>
+<lb ed="X" n="0595a08"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a0801">初立名</item>
+<lb ed="X" n="0595a09"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a0901">二建意</item>
+<lb ed="X" n="0595a10"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a1001">三前後</item></list></item></list></item>
+<lb ed="X" n="0595a11"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a1101">二就下四節科判偈文<note place="inline">二</note>
+<lb ed="X" n="0595a12"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a1201">初總分</item>
+<lb ed="X" n="0595a13"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a1301">二就下隨釋<note place="inline">四</note>
+<lb ed="X" n="0595a14"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a1401">初半偈歸敬三寶<note place="inline">二</note>
+<lb ed="X" n="0595a15"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a1501">初約義懸釋<note place="inline">二</note>
+<lb ed="X" n="0595a16"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a1601">初分章</item>
+<lb ed="X" n="0595a17"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a1701">二且下隨釋<note place="inline">二</note>
+<lb ed="X" n="0595a18"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a1801">初歸敬三寶<note place="inline">二</note>
+<lb ed="X" n="0595a19"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a1901">初略示名義<note place="inline">二</note>
+<lb ed="X" n="0595a20"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a2001">初敘意</item>
+<lb ed="X" n="0595a21"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a2101">二言下列釋<note place="inline">二</note>
+<lb ed="X" n="0595a22"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a2201">初釋別名<note place="inline">三</note>
+<lb ed="X" n="0595a23"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a2301">初佛</item>
+<lb ed="X" n="0595a24"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a2401">二法</item>
+<lb ed="X" n="0595a25"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a2501">三僧</item></list></item>
+<lb ed="X" n="0595a26"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a2601">二此下釋通名</item></list></item></list></item>
+<lb ed="X" n="0595a27"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a2701">二就下重分四別<note place="inline">二</note>
+<lb ed="X" n="0595a28"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a2801">初標分</item>
+<lb ed="X" n="0595a29"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a2901">二初下隨釋<note place="inline">四</note>
+<lb ed="X" n="0595a30"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a3001">初舉眾相<note place="inline">二</note>
+<lb ed="X" n="0595a31"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a3101">初總標</item>
+<lb ed="X" n="0595a32"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a3201">二一下隨釋<note place="inline">四</note><note place="inline">如文</note></item></list></item>
+<lb ed="X" n="0595a33"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a3301">二明本末<note place="inline">二</note>
+<lb ed="X" n="0595a34"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a3401">初標</item>
+<lb ed="X" n="0595a35"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a3501">二四下釋<note place="inline">二</note>
+<lb ed="X" n="0595a36"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a3601">初相望總明</item>
+<lb ed="X" n="0595a37"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a3701">二問下當相各守<note place="inline">二</note>
+<lb ed="X" n="0595a38"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a3801">初問</item>
+<lb ed="X" n="0595a39"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a3901">二答</item></list></item></list></item></list></item>
+<lb ed="X" n="0595a40"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a4001">三分次第<note place="inline">二</note>
+<lb ed="X" n="0595a41"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a4101">初標</item>
+<lb ed="X" n="0595a42"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a4201">二如下釋<note place="inline">四</note>
+<lb ed="X" n="0595a43"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a4301">初理體</item>
+<lb ed="X" n="0595a44"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a4401">二化相</item>
+<lb ed="X" n="0595a45"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a4501">三住持</item>
+<lb ed="X" n="0595a46"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a4601">四一體</item></list></item></list></item>
+<lb ed="X" n="0595a47"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a4701">四敘功用<note place="inline">二</note>
+<lb ed="X" n="0595a48"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a4801">初標</item>
+<lb ed="X" n="0595a49"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a4901">二四下釋<note place="inline">二</note>
+<lb ed="X" n="0595a50"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a5001">初正明</item>
+<lb ed="X" n="0595a51"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a5101">二問答<note place="inline">二</note>
+<lb ed="X" n="0595a52"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0595a5201">初問</item>
+<lb ed="X" n="0595a53"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0595a5301">二答<note place="inline">二</note>
+<pb ed="X" xml:id="X39.0713.0596a" n="0596a"/>
+<lb ed="X" n="0596a01"/><lb ed="R062" n="0200a01"/><list><item xml:id="itemX39p0596a0101">初今答</item>
+<lb ed="X" n="0596a02"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0596a0201">二有下引佗答</item></list></item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0596a03"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0596a0301">二解歸意</item></list></item></list></item>
+<lb ed="X" n="0596a04"/><lb ed="R062" n="0200a01"/><item xml:id="itemX39p0596a0401">二就下就文牒釋<note place="inline">二</note>
+<lb ed="X" n="0596a05"/><lb ed="R062" n="0201a01"/><list><item xml:id="itemX39p0596a0501">初分文</item>
+<lb ed="X" n="0596a06"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a0601">二形下解釋<note place="inline">二</note>
+<lb ed="X" n="0596a07"/><lb ed="R062" n="0201a01"/><list><item xml:id="itemX39p0596a0701">初能敬儀<note place="inline">二</note>
+<lb ed="X" n="0596a08"/><lb ed="R062" n="0201a01"/><list><item xml:id="itemX39p0596a0801">初釋稽首</item>
+<lb ed="X" n="0596a09"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a0901">二釋禮</item></list></item>
+<lb ed="X" n="0596a10"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a1001">二眾下所敬境<note place="inline">二</note>
+<lb ed="X" n="0596a11"/><lb ed="R062" n="0201a01"/><list><item xml:id="itemX39p0596a1101">初釋佛寶<note place="inline">二</note>
+<lb ed="X" n="0596a12"/><lb ed="R062" n="0201a01"/><list><item xml:id="itemX39p0596a1201">初牒釋</item>
+<lb ed="X" n="0596a13"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a1301">二釋疑</item></list></item>
+<lb ed="X" n="0596a14"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a1401">二釋餘二寶<note place="inline">二</note>
+<lb ed="X" n="0596a15"/><lb ed="R062" n="0201a01"/><list><item xml:id="itemX39p0596a1501">初釋及字</item>
+<lb ed="X" n="0596a16"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a1601">二釋法僧<note place="inline">二</note>
+<lb ed="X" n="0596a17"/><lb ed="R062" n="0201a01"/><list><item xml:id="itemX39p0596a1701">初法寶</item>
+<lb ed="X" n="0596a18"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a1801">二僧寶<note place="inline">二</note>
+<lb ed="X" n="0596a19"/><lb ed="R062" n="0201a01"/><list><item xml:id="itemX39p0596a1901">初標<g ref="#CB15546">𣑽</g>號</item>
+<lb ed="X" n="0596a20"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a2001">二此下釋義譯<note place="inline">二</note>
+<lb ed="X" n="0596a21"/><lb ed="R062" n="0201a01"/><list><item xml:id="itemX39p0596a2101">初約因譯</item>
+<lb ed="X" n="0596a22"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a2201">二又下對果譯<note place="inline">二</note>
+<lb ed="X" n="0596a23"/><lb ed="R062" n="0201a01"/><list><item xml:id="itemX39p0596a2301">初正釋</item>
+<lb ed="X" n="0596a24"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a2401">二問答</item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0596a25"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a2501">二半偈歸敬之意○</item>
+<lb ed="X" n="0596a26"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a2601">三九偈列相勸持○</item>
+<lb ed="X" n="0596a27"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a2701">四二偈顯教功益○</item></list></item></list></item></list></item>
+<lb ed="X" n="0596a28"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a2801">二廣略二教別序正流通正宗分○</item>
+<lb ed="X" n="0596a29"/><lb ed="R062" n="0201a01"/><item xml:id="itemX39p0596a2901">三廣略二教總流通○</item></list></item></list></item></list></item></list>
+<lb ed="X" n="0596a30"/><lb ed="R062" n="0201a01"/>
+<lb ed="X" n="0596a31"/><lb ed="R062" n="0201a01"/><list><item xml:id="itemX39p0596a3101">○二半偈歸敬之意<note place="inline">二</note>
+<lb ed="X" n="0596a32"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a3201">初分文</item>
+<lb ed="X" n="0596a33"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a3301">二說下牒釋<note place="inline">二</note>
+<lb ed="X" n="0596a34"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a3401">初明意<note place="inline">二</note>
+<lb ed="X" n="0596a35"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a3501">初釋今演</item>
+<lb ed="X" n="0596a36"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a3601">二釋毗尼<note place="inline">二</note>
+<lb ed="X" n="0596a37"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a3701">初約義略釋</item>
+<lb ed="X" n="0596a38"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a3801">二如下引文廣釋<note place="inline">二</note>
+<lb ed="X" n="0596a39"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a3901">初母論<note place="inline">二</note>
+<lb ed="X" n="0596a40"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a4001">初引論</item>
+<lb ed="X" n="0596a41"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a4101">二如下會名</item></list></item>
+<lb ed="X" n="0596a42"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a4201">二又下了論<note place="inline">二</note>
+<lb ed="X" n="0596a43"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a4301">初引論</item>
+<lb ed="X" n="0596a44"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a4401">二據下示名</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0596a45"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a4501">二明益<note place="inline">二</note>
+<lb ed="X" n="0596a46"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a4601">初正釋<note place="inline">二</note>
+<lb ed="X" n="0596a47"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a4701">初略釋</item>
+<lb ed="X" n="0596a48"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a4801">二問答<note place="inline">二</note>
+<lb ed="X" n="0596a49"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a4901">初敘問</item>
+<lb ed="X" n="0596a50"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a5001">二答通<note place="inline">三</note>
+<lb ed="X" n="0596a51"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a5101">初約義以答</item>
+<lb ed="X" n="0596a52"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a5201">二所下引文以證</item>
+<lb ed="X" n="0596a53"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a5301">三良下出其所以</item></list></item></list></item></list></item>
+<lb ed="X" n="0596a54"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a5401">二然下斥略</item></list></item></list></item></list></item></list>
+<lb ed="X" n="0596a55"/><lb ed="R062" n="0202a01"/>
+<lb ed="X" n="0596a56"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a5601">○三就下九偈列相勸持<note place="inline">三</note>
+<lb ed="X" n="0596a57"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a5701">初標章生起</item>
+<lb ed="X" n="0596a58"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a5801">二就下約義科文</item>
+<lb ed="X" n="0596a59"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0596a5901">三就下隨文牒釋<note place="inline">三</note>
+<lb ed="X" n="0596a60"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0596a6001">初一偈明戒德宗體<note place="inline">二</note>
+<pb ed="X" xml:id="X39.0713.0597a" n="0597a"/>
+<lb ed="X" n="0597a01"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a0101">初分文</item>
+<lb ed="X" n="0597a02"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a0201">二就下牒釋<note place="inline">二</note>
+<lb ed="X" n="0597a03"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a0301">初上半陳喻<note place="inline">二</note>
+<lb ed="X" n="0597a04"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a0401">初明喻意<note place="inline">二</note>
+<lb ed="X" n="0597a05"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a0501">初正明</item>
+<lb ed="X" n="0597a06"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a0601">二有下指謬</item></list></item>
+<lb ed="X" n="0597a07"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a0701">二就下牒文釋<note place="inline">二</note>
+<lb ed="X" n="0597a08"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a0801">初分示</item>
+<lb ed="X" n="0597a09"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a0901">二言下正釋<note place="inline">二</note>
+<lb ed="X" n="0597a10"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a1001">初深廣喻<note place="inline">二</note>
+<lb ed="X" n="0597a11"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a1101">初牒文釋</item>
+<lb ed="X" n="0597a12"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a1201">二然下點字體</item></list></item>
+<lb ed="X" n="0597a13"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a1301">二出寶喻<note place="inline">二</note>
+<lb ed="X" n="0597a14"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a1401">初正釋<note place="inline">三</note>
+<lb ed="X" n="0597a15"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a1501">初約能求釋</item>
+<lb ed="X" n="0597a16"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a1601">二然下約所求釋</item>
+<lb ed="X" n="0597a17"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a1701">三又下約功益釋</item></list></item>
+<lb ed="X" n="0597a18"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a1801">二問答<note place="inline">二</note>
+<lb ed="X" n="0597a19"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a1901">初問</item>
+<lb ed="X" n="0597a20"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a2001">二答</item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0597a21"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a2101">二就下下半舉益<note place="inline">二</note>
+<lb ed="X" n="0597a22"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a2201">初釋勸護<note place="inline">二</note>
+<lb ed="X" n="0597a23"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a2301">初牒文正釋</item>
+<lb ed="X" n="0597a24"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a2401">二所下明單合所以</item></list></item>
+<lb ed="X" n="0597a25"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a2501">二說下釋說聽</item></list></item></list></item></list></item>
+<lb ed="X" n="0597a26"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a2601">二上下三偈略舉篇聚<note place="inline">二</note>
+<lb ed="X" n="0597a27"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a2701">初結前生起</item>
+<lb ed="X" n="0597a28"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a2801">二就下分文解釋<note place="inline">二</note>
+<lb ed="X" n="0597a29"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a2901">初總分</item>
+<lb ed="X" n="0597a30"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a3001">二就下別釋<note place="inline">三</note>
+<lb ed="X" n="0597a31"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a3101">初一偈舉教勸修<note place="inline">三</note>
+<lb ed="X" n="0597a32"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a3201">初分文</item>
+<lb ed="X" n="0597a33"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a3301">二欲下隨釋<note place="inline">二</note>
+<lb ed="X" n="0597a34"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a3401">初三句明廣教之功<note place="inline">三</note>
+<lb ed="X" n="0597a35"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a3501">初釋四棄<note place="inline">二</note>
+<lb ed="X" n="0597a36"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a3601">初牒釋</item>
+<lb ed="X" n="0597a37"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a3701">二若下總示</item></list></item>
+<lb ed="X" n="0597a38"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a3801">二初下釋僧殘</item>
+<lb ed="X" n="0597a39"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a3901">三上下釋捨墮</item></list></item>
+<lb ed="X" n="0597a40"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a4001">二既下一句舉功勸聽</item></list></item>
+<lb ed="X" n="0597a41"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a4101">三問答<note place="inline">二</note>
+<lb ed="X" n="0597a42"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a4201">初問</item>
+<lb ed="X" n="0597a43"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a4301">二答</item></list></item></list></item>
+<lb ed="X" n="0597a44"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a4401">二第下一偈半引佛成證<note place="inline">二</note>
+<lb ed="X" n="0597a45"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a4501">初標分</item>
+<lb ed="X" n="0597a46"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a4601">二若下隨釋<note place="inline">二</note>
+<lb ed="X" n="0597a47"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a4701">初一偈列教主名<note place="inline">三</note>
+<lb ed="X" n="0597a48"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a4801">初明通說廣略</item>
+<lb ed="X" n="0597a49"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a4901">二問答釋妨<note place="inline">三</note>
+<lb ed="X" n="0597a50"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a5001">初問經律相違</item>
+<lb ed="X" n="0597a51"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a5101">二問不明二世</item>
+<lb ed="X" n="0597a52"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a5201">三問前後具缺</item></list></item>
+<lb ed="X" n="0597a53"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a5301">三釋下指略佛名</item></list></item>
+<lb ed="X" n="0597a54"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a5401">二就下半偈結人成法</item></list></item></list></item>
+<lb ed="X" n="0597a55"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a5501">三文下半偈承傳勸聽<note place="inline">二</note>
+<lb ed="X" n="0597a56"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a5601">初分文牒釋</item>
+<lb ed="X" n="0597a57"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a5701">二如下顯示賢聖</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0597a58"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a5801">三第下五偈明持毀得失<note place="inline">二</note>
+<lb ed="X" n="0597a59"/><lb ed="R062" n="0202a01"/><list><item xml:id="itemX39p0597a5901">初約義分科</item>
+<lb ed="X" n="0597a60"/><lb ed="R062" n="0202a01"/><item xml:id="itemX39p0597a6001">二就下隨文解釋<note place="inline">二</note>
+<pb ed="X" xml:id="X39.0713.0598a" n="0598a"/>
+<lb ed="X" n="0598a01"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a0101">初寄別行生二喻<note place="inline">三</note>
+<lb ed="X" n="0598a02"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a0201">初分示</item>
+<lb ed="X" n="0598a03"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a0301">二次下隨釋<note place="inline">二</note>
+<lb ed="X" n="0598a04"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a0401">初身足喻止持<note place="inline">三</note>
+<lb ed="X" n="0598a05"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a0501">初分文</item>
+<lb ed="X" n="0598a06"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a0601">二就下隨釋<note place="inline">二</note>
+<lb ed="X" n="0598a07"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a0701">初一偈明止犯<note place="inline">二</note>
+<lb ed="X" n="0598a08"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a0801">初總分</item>
+<lb ed="X" n="0598a09"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a0901">二釋下別釋<note place="inline">二</note>
+<lb ed="X" n="0598a10"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a1001">初上半偈明喻</item>
+<lb ed="X" n="0598a11"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a1101">二就下偈半法合</item></list></item></list></item>
+<lb ed="X" n="0598a12"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a1201">二次一偈明作持<note place="inline">二</note>
+<lb ed="X" n="0598a13"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a1301">初牒釋</item>
+<lb ed="X" n="0598a14"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a1401">二通妨<note place="inline">二</note>
+<lb ed="X" n="0598a15"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a1501">初問</item>
+<lb ed="X" n="0598a16"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a1601">二答</item></list></item></list></item></list></item>
+<lb ed="X" n="0598a17"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a1701">三上下結示<note place="inline">二</note>
+<lb ed="X" n="0598a18"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a1801">初正結</item>
+<lb ed="X" n="0598a19"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a1901">二難相違<note place="inline">二</note>
+<lb ed="X" n="0598a20"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a2001">初問</item>
+<lb ed="X" n="0598a21"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a2101">二答</item></list></item></list></item></list></item>
+<lb ed="X" n="0598a22"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a2201">二次下車軸喻作犯<note place="inline">三</note>
+<lb ed="X" n="0598a23"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a2301">初分示</item>
+<lb ed="X" n="0598a24"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a2401">二假下牒釋<note place="inline">二</note>
+<lb ed="X" n="0598a25"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a2501">初上半偈明喻</item>
+<lb ed="X" n="0598a26"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a2601">二次半偈法合<note place="inline">二</note>
+<lb ed="X" n="0598a27"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a2701">初對合</item>
+<lb ed="X" n="0598a28"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a2801">二徵意<note place="inline">二</note>
+<lb ed="X" n="0598a29"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a2901">初問</item>
+<lb ed="X" n="0598a30"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a3001">二答</item></list></item></list></item></list></item>
+<lb ed="X" n="0598a31"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a3101">三準下辨闕<note place="inline">二</note>
+<lb ed="X" n="0598a32"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a3201">初準明闕意</item>
+<lb ed="X" n="0598a33"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a3301">二尋下因示偈文<note place="inline">三</note>
+<lb ed="X" n="0598a34"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a3401">初示<g ref="#CB15546">𣑽</g>偈</item>
+<lb ed="X" n="0598a35"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a3501">二或下斥訛謬</item>
+<lb ed="X" n="0598a36"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a3601">三又下會<g ref="#CB15546">𣑽</g>言</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0598a37"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a3701">三上下結顯</item></list></item>
+<lb ed="X" n="0598a38"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a3801">二就下寄眾法生二喻<note place="inline">三</note>
+<lb ed="X" n="0598a39"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a3901">初分示</item>
+<lb ed="X" n="0598a40"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a4001">二次下牒釋<note place="inline">二</note>
+<lb ed="X" n="0598a41"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a4101">初教為明鏡喻<note place="inline">二</note>
+<lb ed="X" n="0598a42"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a4201">初分文</item>
+<lb ed="X" n="0598a43"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a4301">二奉下隨釋<note place="inline">二</note>
+<lb ed="X" n="0598a44"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a4401">初配喻</item>
+<lb ed="X" n="0598a45"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a4501">二法合</item></list></item></list></item>
+<lb ed="X" n="0598a46"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a4601">二就下教為神解喻<note place="inline">二</note>
+<lb ed="X" n="0598a47"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a4701">初分文</item>
+<lb ed="X" n="0598a48"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a4801">二如下隨釋<note place="inline">二</note>
+<lb ed="X" n="0598a49"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a4901">初明喻</item>
+<lb ed="X" n="0598a50"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a5001">二法合</item></list></item></list></item></list></item>
+<lb ed="X" n="0598a51"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a5101">三何下對簡</item></list></item></list></item></list></item></list></item></list></item></list>
+<lb ed="X" n="0598a52"/><lb ed="R062" n="0203a01"/>
+<lb ed="X" n="0598a53"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a5301">○四次下二偈顯教功益<note place="inline">二</note>
+<lb ed="X" n="0598a54"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a5401">初分文</item>
+<lb ed="X" n="0598a55"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a5501">二就下隨釋<note place="inline">二</note>
+<lb ed="X" n="0598a56"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a5601">初喻辭<note place="inline">二</note>
+<lb ed="X" n="0598a57"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a5701">初列四喻<note place="inline">三</note>
+<lb ed="X" n="0598a58"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a5801">初總標</item>
+<lb ed="X" n="0598a59"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a5901">二王下列示<note place="inline">四</note><note place="inline">如文</note></item>
+<lb ed="X" n="0598a60"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a6001">三斯下結顯</item></list></item>
+<lb ed="X" n="0598a61"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a6101">二問答<note place="inline">二</note>
+<lb ed="X" n="0598a62"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a6201">初問</item>
+<lb ed="X" n="0598a63"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a6301">二答<note place="inline">二</note>
+<lb ed="X" n="0598a64"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a6401">初答不盡</item>
+<lb ed="X" n="0598a65"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a6501">二又下答盡</item></list></item></list></item></list></item>
+<lb ed="X" n="0598a66"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a6601">二就下法合<note place="inline">二</note>
+<lb ed="X" n="0598a67"/><lb ed="R062" n="0203a01"/><list><item xml:id="itemX39p0598a6701">初分文</item>
+<lb ed="X" n="0598a68"/><lb ed="R062" n="0203a01"/><item xml:id="itemX39p0598a6801">二就下隨釋<note place="inline">三</note>
+<pb ed="X" xml:id="X39.0713.0599a" n="0599a"/>
+<lb ed="X" n="0599a01"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a0101">初半偈總合上喻<note place="inline">三</note>
+<lb ed="X" n="0599a02"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a0201">初通約三藏釋</item>
+<lb ed="X" n="0599a03"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a0301">二約二藏相兼釋</item>
+<lb ed="X" n="0599a04"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a0401">三局據律部釋</item></list></item>
+<lb ed="X" n="0599a05"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a0501">二然下一句舉法屬人</item>
+<lb ed="X" n="0599a06"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a0601">三但下一句說教之時<note place="inline">二</note>
+<lb ed="X" n="0599a07"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a0701">初牒釋</item>
+<lb ed="X" n="0599a08"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a0801">二問答<note place="inline">二</note>
+<lb ed="X" n="0599a09"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a0901">初問</item>
+<lb ed="X" n="0599a10"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a1001">二答</item></list></item></list></item></list></item></list></item></list></item></list></item></list>
+<lb ed="X" n="0599a11"/><lb ed="R062" n="0204a01"/>
+<lb ed="X" n="0599a12"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a1201">○二上下廣略二教則序正流通正宗分<note place="inline">二</note>
+<lb ed="X" n="0599a13"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a1301">初標分</item>
+<lb ed="X" n="0599a14"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a1401">二就下隨釋<note place="inline">二</note>
+<lb ed="X" n="0599a15"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a1501">初總辨二教<note place="inline">二</note>
+<lb ed="X" n="0599a16"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a1601">初標列</item>
+<lb ed="X" n="0599a17"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a1701">二就下隨釋<note place="inline">六</note>
+<lb ed="X" n="0599a18"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a1801">初解名<note place="inline">二</note>
+<lb ed="X" n="0599a19"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a1901">初標</item>
+<lb ed="X" n="0599a20"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a2001">二何下釋<note place="inline">二</note>
+<lb ed="X" n="0599a21"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a2101">初略名</item>
+<lb ed="X" n="0599a22"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a2201">二言下廣名<note place="inline">三</note>
+<lb ed="X" n="0599a23"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a2301">初釋廣名</item>
+<lb ed="X" n="0599a24"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a2401">二又下釋廣相</item>
+<lb ed="X" n="0599a25"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a2501">三伸問答<note place="inline">二</note>
+<lb ed="X" n="0599a26"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a2601">初問</item>
+<lb ed="X" n="0599a27"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a2701">二答</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0599a28"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a2801">二定相<note place="inline">二</note>
+<lb ed="X" n="0599a29"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a2901">初標</item>
+<lb ed="X" n="0599a30"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a3001">二略下釋<note place="inline">二</note>
+<lb ed="X" n="0599a31"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a3101">初明略<note place="inline">二</note>
+<lb ed="X" n="0599a32"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a3201">初列示四略</item>
+<lb ed="X" n="0599a33"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a3301">二上下總判通局</item></list></item>
+<lb ed="X" n="0599a34"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a3401">二言下明廣<note place="inline">二</note>
+<lb ed="X" n="0599a35"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a3501">初總示</item>
+<lb ed="X" n="0599a36"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a3601">二一下別釋<note place="inline">三</note>
+<lb ed="X" n="0599a37"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a3701">初約止作分</item>
+<lb ed="X" n="0599a38"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a3801">二有下約<anchor xml:id="beg_1" type="cb-app"/>已<anchor xml:id="end_1"/>未分</item>
+<lb ed="X" n="0599a39"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a3901">三有下約三根分</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0599a40"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a4001">三所為<note place="inline">二</note>
+<lb ed="X" n="0599a41"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a4101">初總標</item>
+<lb ed="X" n="0599a42"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a4201">二初下別釋<note place="inline">四</note><note place="inline">如文</note></item></list></item>
+<lb ed="X" n="0599a43"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a4301">四前後<note place="inline">二</note>
+<lb ed="X" n="0599a44"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a4401">初總標</item>
+<lb ed="X" n="0599a45"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a4501">二一下別釋<note place="inline">三</note><note place="inline">如文</note></item></list></item>
+<lb ed="X" n="0599a46"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a4601">五相成<note place="inline">二</note>
+<lb ed="X" n="0599a47"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a4701">初標</item>
+<lb ed="X" n="0599a48"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a4801">二問下釋<note place="inline">二</note>
+<lb ed="X" n="0599a49"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a4901">初敘問</item>
+<lb ed="X" n="0599a50"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a5001">二答通</item></list></item></list></item>
+<lb ed="X" n="0599a51"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a5101">六時節<note place="inline">二</note>
+<lb ed="X" n="0599a52"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a5201">初標</item>
+<lb ed="X" n="0599a53"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a5301">二若下釋<note place="inline">三</note>
+<lb ed="X" n="0599a54"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a5401">初引示時節</item>
+<lb ed="X" n="0599a55"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a5501">二何下明說略所以</item>
+<lb ed="X" n="0599a56"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a5601">三問答釋疑<note place="inline">二</note>
+<lb ed="X" n="0599a57"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a5701">初問</item>
+<lb ed="X" n="0599a58"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a5801">二答</item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0599a59"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0599a5901">二分文解釋○</item></list></item></list></item></list>
+<lb ed="X" n="0599a60"/><lb ed="R062" n="0204a01"/>
+<lb ed="X" n="0599a61"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a6101">○二注下分文解釋<note place="inline">二</note>
+<lb ed="X" n="0599a62"/><lb ed="R062" n="0204a01"/><list><item xml:id="itemX39p0599a6201">初總標</item>
+<pb ed="X" xml:id="X39.0713.0600a" n="0600a"/>
+<lb ed="X" n="0600a01"/><lb ed="R062" n="0204a01"/><item xml:id="itemX39p0600a0101">二欲下別釋<note place="inline">二</note>
+<lb ed="X" n="0600a02"/><lb ed="R062" n="0205a01"/><list><item xml:id="itemX39p0600a0201">初釋結前文<note place="inline">二</note>
+<lb ed="X" n="0600a03"/><lb ed="R062" n="0205a01"/><list><item xml:id="itemX39p0600a0301">初明結意</item>
+<lb ed="X" n="0600a04"/><lb ed="R062" n="0205a01"/><item xml:id="itemX39p0600a0401">二問答</item></list></item>
+<lb ed="X" n="0600a05"/><lb ed="R062" n="0205a01"/><item xml:id="itemX39p0600a0501">二注下釋生後文<note place="inline">二</note>
+<lb ed="X" n="0600a06"/><lb ed="R062" n="0205a01"/><list><item xml:id="itemX39p0600a0601">初點注</item>
+<lb ed="X" n="0600a07"/><lb ed="R062" n="0205a01"/><item xml:id="itemX39p0600a0701">二文下釋文<note place="inline">二</note>
+<lb ed="X" n="0600a08"/><lb ed="R062" n="0205a01"/><list><item xml:id="itemX39p0600a0801">初總分</item>
+<lb ed="X" n="0600a09"/><lb ed="R062" n="0205a01"/><item xml:id="itemX39p0600a0901">二就下隨釋<note place="inline">二</note>
+<lb ed="X" n="0600a10"/><lb ed="R062" n="0205a01"/><list><item xml:id="itemX39p0600a1001">初廣教<note place="inline">三</note>
+<lb ed="X" n="0600a11"/><lb ed="R062" n="0205a01"/><list><item xml:id="itemX39p0600a1101">初總分三分</item>
+<lb ed="X" n="0600a12"/><lb ed="R062" n="0205a01"/><item xml:id="itemX39p0600a1201">二就下依位別釋<note place="inline">三</note>
+<lb ed="X" n="0600a13"/><lb ed="R062" n="0205a01"/><list><item xml:id="itemX39p0600a1301">初釋序分<note place="inline">三</note>
+<lb ed="X" n="0600a14"/><lb ed="R062" n="0205a01"/><list><item xml:id="itemX39p0600a1401">初總分</item>
+<lb ed="X" n="0600a15"/><lb ed="R062" n="0205a01"/><item xml:id="itemX39p0600a1501">二就下別釋<note place="inline">三</note>
+<lb ed="X" n="0600a16"/><lb ed="R062" n="0205a01"/><list><item xml:id="itemX39p0600a1601">初釋集僧簡眾<note place="inline">二</note>
+<pb ed="X" xml:id="X39.0713.0601a" n="0601a"/>
+<lb ed="X" n="0601a01"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a0101">初分文</item>
+<lb ed="X" n="0601a02"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a0201">二就下隨釋<note place="inline">二</note>
+<lb ed="X" n="0601a03"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a0301">初能成之緣<note place="inline">二</note>
+<lb ed="X" n="0601a04"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a0401">初總示緣成<note place="inline">三</note>
+<lb ed="X" n="0601a05"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a0501">初標示</item>
+<lb ed="X" n="0601a06"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a0601">二何下別列</item>
+<lb ed="X" n="0601a07"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a0701">三斯下結略</item></list></item>
+<lb ed="X" n="0601a08"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a0801">二就下牒文解釋<note place="inline">二</note>
+<lb ed="X" n="0601a09"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a0901">初總示</item>
+<lb ed="X" n="0601a10"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a1001">二言下別釋<note place="inline">七</note>
+<lb ed="X" n="0601a11"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a1101">初和合<note place="inline">二</note>
+<lb ed="X" n="0601a12"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a1201">初釋文</item>
+<lb ed="X" n="0601a13"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a1301">二釋注<note place="inline">二</note>
+<lb ed="X" n="0601a14"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a1401">初釋制緣</item>
+<lb ed="X" n="0601a15"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a1501">二有下釋和別</item></list></item></list></item>
+<lb ed="X" n="0601a16"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a1601">二集僧<note place="inline">二</note>
+<lb ed="X" n="0601a17"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a1701">初釋文<note place="inline">二</note>
+<lb ed="X" n="0601a18"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a1801">初牒釋</item>
+<lb ed="X" n="0601a19"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a1901">二有下指異</item></list></item>
+<lb ed="X" n="0601a20"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a2001">二釋注<note place="inline">四</note>
+<lb ed="X" n="0601a21"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a2101">初釋約界集<note place="inline">二</note>
+<lb ed="X" n="0601a22"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a2201">初牒釋</item>
+<lb ed="X" n="0601a23"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a2301">二問答</item></list></item>
+<lb ed="X" n="0601a24"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a2401">二注下釋供具</item>
+<lb ed="X" n="0601a25"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a2501">三舉下釋獨住</item>
+<lb ed="X" n="0601a26"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a2601">四言下釋結犯<note place="inline">二</note>
+<lb ed="X" n="0601a27"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a2701">初牒釋</item>
+<lb ed="X" n="0601a28"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a2801">二問答<note place="inline">二</note>
+<lb ed="X" n="0601a29"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a2901">初問</item>
+<lb ed="X" n="0601a30"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a3001">二答<note place="inline">二</note>
+<lb ed="X" n="0601a31"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a3101">初約義答</item>
+<lb ed="X" n="0601a32"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a3201">二如下舉例</item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0601a33"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a3301">三遣末具<note place="inline">二</note>
+<lb ed="X" n="0601a34"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a3401">初釋文<note place="inline">三</note>
+<lb ed="X" n="0601a35"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a3501">初牒文釋</item>
+<lb ed="X" n="0601a36"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a3601">二所下出所以</item>
+<lb ed="X" n="0601a37"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a3701">三行下指誡勅</item></list></item>
+<lb ed="X" n="0601a38"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a3801">二釋注<note place="inline">四</note>
+<lb ed="X" n="0601a39"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a3901">初釋遮說戒</item>
+<lb ed="X" n="0601a40"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a4001">二注下釋安置處<note place="inline">二</note>
+<lb ed="X" n="0601a41"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a4101">初正釋</item>
+<lb ed="X" n="0601a42"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a4201">二問答</item></list></item>
+<lb ed="X" n="0601a43"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a4301">三所下釋聽非人</item>
+<lb ed="X" n="0601a44"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a4401">四尼下釋制尼眾</item></list></item></list></item>
+<lb ed="X" n="0601a45"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a4501">四明說欲<note place="inline">二</note>
+<lb ed="X" n="0601a46"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a4601">初釋文</item>
+<lb ed="X" n="0601a47"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a4701">二釋注</item></list></item>
+<lb ed="X" n="0601a48"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a4801">五尼請法<note place="inline">二</note>
+<lb ed="X" n="0601a49"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a4901">初釋文<note place="inline">二</note>
+<lb ed="X" n="0601a50"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a5001">初敘意</item>
+<lb ed="X" n="0601a51"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a5101">二文下牒釋</item></list></item>
+<lb ed="X" n="0601a52"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a5201">二點注</item></list></item>
+<lb ed="X" n="0601a53"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a5301">六問事宗</item>
+<lb ed="X" n="0601a54"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a5401">七答法<note place="inline">二</note>
+<lb ed="X" n="0601a55"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a5501">初釋文<note place="inline">二</note>
+<lb ed="X" n="0601a56"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a5601">初正釋</item>
+<lb ed="X" n="0601a57"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a5701">二有下指異</item></list></item>
+<lb ed="X" n="0601a58"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a5801">二釋注<note place="inline">六</note>
+<lb ed="X" n="0601a59"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a5901">初釋出房</item>
+<lb ed="X" n="0601a60"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a6001">二比下釋檢校</item>
+<lb ed="X" n="0601a61"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a6101">三先下釋白告</item>
+<lb ed="X" n="0601a62"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a6201">四又下釋制誦</item>
+<lb ed="X" n="0601a63"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a6301">五又下釋重誦</item>
+<lb ed="X" n="0601a64"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a6401">六又下釋誦經<note place="inline">二</note>
+<lb ed="X" n="0601a65"/><lb ed="R062" n="0206a01"/><list><item xml:id="itemX39p0601a6501">初正釋</item>
+<lb ed="X" n="0601a66"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a6601">二問答</item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0601a67"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a6701">二所成之業○</item></list></item></list></item>
+<lb ed="X" n="0601a68"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a6801">二釋誡勅時眾○</item>
+<lb ed="X" n="0601a69"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a6901">三釋三覆檢問○</item></list></item>
+<lb ed="X" n="0601a70"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a7001">三上下結示</item></list></item>
+<lb ed="X" n="0601a71"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a7101">二正宗分○</item>
+<lb ed="X" n="0601a72"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a7201">三廣教別流通○</item></list></item>
+<lb ed="X" n="0601a73"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a7301">三自下通結三段○</item></list></item>
+<lb ed="X" n="0601a74"/><lb ed="R062" n="0206a01"/><item xml:id="itemX39p0601a7401">二略教○</item></list></item></list></item></list></item></list></item></list></item></list>
+<lb ed="X" n="0601a75"/><lb ed="R062" n="0206a01"/>
+<lb ed="X" n="0601a76"/><lb ed="R062" n="0206a01"/><cb:juan fun="close" n="1a"><cb:jhead>釋四分律含注戒本疏科卷一之上</cb:jhead></cb:juan>
+<pb ed="X" xml:id="X39.0713.0602a" n="0602a"/>
+<lb ed="X" n="0602a01"/><lb ed="R062" n="0206a01"/>
+<lb ed="X" n="0602a02"/><lb ed="R062" n="0207a01"/><cb:juan fun="open" n="1b"><cb:mulu type="卷" n="1b">一之下</cb:mulu><cb:jhead>釋四分律含注戒本疏科卷一之下</cb:jhead></cb:juan>
+<lb ed="X" n="0602a03"/><lb ed="R062" n="0207a01"/>
+<lb ed="X" n="0602a04"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a0401">○二次下所成之業<note place="inline">二</note>
+<lb ed="X" n="0602a05"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a0501">初標章</item>
+<lb ed="X" n="0602a06"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a0601">二何下隨釋<note place="inline">二</note>
+<lb ed="X" n="0602a07"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a0701">初敘意</item>
+<lb ed="X" n="0602a08"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a0801">二就下判釋<note place="inline">二</note>
+<lb ed="X" n="0602a09"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a0901">初釋文<note place="inline">二</note>
+<lb ed="X" n="0602a10"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a1001">初總分三位</item>
+<lb ed="X" n="0602a11"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a1101">二約下別釋五句<note place="inline">三</note>
+<lb ed="X" n="0602a12"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a1201">初總舉</item>
+<lb ed="X" n="0602a13"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a1301">二初下正釋<note place="inline">五</note>
+<lb ed="X" n="0602a14"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a1401">初釋初句<note place="inline">二</note>
+<lb ed="X" n="0602a15"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a1501">初通解</item>
+<lb ed="X" n="0602a16"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a1601">二有下細釋<note place="inline">四</note>
+<lb ed="X" n="0602a17"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a1701">初釋大<note place="inline">四</note>
+<lb ed="X" n="0602a18"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a1801">初內外相對釋</item>
+<lb ed="X" n="0602a19"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a1901">二又下因果相對釋</item>
+<lb ed="X" n="0602a20"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a2001">三又下約三寶釋</item>
+<lb ed="X" n="0602a21"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a2101">四有下簡小眾釋</item></list></item>
+<lb ed="X" n="0602a22"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a2201">二釋德</item>
+<lb ed="X" n="0602a23"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a2301">三釋僧<note place="inline">二</note>
+<lb ed="X" n="0602a24"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a2401">初約二種和釋</item>
+<lb ed="X" n="0602a25"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a2501">二然下然六和釋</item></list></item>
+<lb ed="X" n="0602a26"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a2601">四釋聽</item></list></item></list></item>
+<lb ed="X" n="0602a27"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a2701">二釋第二句</item>
+<lb ed="X" n="0602a28"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a2801">三釋第三句<note place="inline">二</note>
+<lb ed="X" n="0602a29"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a2901">初正釋</item>
+<lb ed="X" n="0602a30"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a3001">二此下揀濫</item></list></item>
+<lb ed="X" n="0602a31"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a3101">四釋第四句<note place="inline">二</note>
+<lb ed="X" n="0602a32"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a3201">初正釋</item>
+<lb ed="X" n="0602a33"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a3301">二戒下點異</item></list></item>
+<lb ed="X" n="0602a34"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a3401">五釋第五句</item></list></item>
+<lb ed="X" n="0602a35"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a3501">三自下結示</item></list></item></list></item>
+<lb ed="X" n="0602a36"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a3601">二釋注<note place="inline">三</note>
+<lb ed="X" n="0602a37"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a3701">初釋隨王法</item>
+<lb ed="X" n="0602a38"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a3801">二言下釋黑白月<note place="inline">三</note>
+<lb ed="X" n="0602a39"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a3901">初立時不同<note place="inline">二</note>
+<lb ed="X" n="0602a40"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a4001">初約一方以示</item>
+<lb ed="X" n="0602a41"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a4101">二且下明餘國不同</item></list></item>
+<lb ed="X" n="0602a42"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a4201">二半下釋兩半</item>
+<lb ed="X" n="0602a43"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a4301">三先下辨先後</item></list></item>
+<lb ed="X" n="0602a44"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a4401">三若下釋四人等</item></list></item></list></item></list></item></list></item></list>
+<lb ed="X" n="0602a45"/><lb ed="R062" n="0207a01"/>
+<lb ed="X" n="0602a46"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a4601">○二次下釋誡勅時眾<note place="inline">二</note>
+<lb ed="X" n="0602a47"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a4701">初分文</item>
+<lb ed="X" n="0602a48"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a4801">二從下隨釋<note place="inline">二</note>
+<lb ed="X" n="0602a49"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a4901">初生起<note place="inline">二</note>
+<lb ed="X" n="0602a50"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a5001">初敘生起<note place="inline">八</note>
+<lb ed="X" n="0602a51"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0602a5101">初敘初段</item>
+<lb ed="X" n="0602a52"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a5201">二但下第二</item>
+<lb ed="X" n="0602a53"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0602a5301">三形下第三</item>
+<pb ed="X" xml:id="X39.0713.0603a" n="0603a"/>
+<lb ed="X" n="0603a01"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0603a0101">四凡下第四</item>
+<lb ed="X" n="0603a02"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0603a0201">五染下第五</item>
+<lb ed="X" n="0603a03"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0603a0301">六上下第六</item>
+<lb ed="X" n="0603a04"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0603a0401">七若下第七</item>
+<lb ed="X" n="0603a05"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0603a0501">八若下第八</item></list></item>
+<lb ed="X" n="0603a06"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0603a0601">二生下結略</item></list></item>
+<lb ed="X" n="0603a07"/><lb ed="R062" n="0207a01"/><item xml:id="itemX39p0603a0701">二初下釋文<note place="inline">八</note>
+<lb ed="X" n="0603a08"/><lb ed="R062" n="0207a01"/><list><item xml:id="itemX39p0603a0801">初釋初段<note place="inline">二</note>
+<lb ed="X" n="0603a09"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a0901">初釋文<note place="inline">二</note>
+<lb ed="X" n="0603a10"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a1001">初標示</item>
+<lb ed="X" n="0603a11"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a1101">二諸下別解<note place="inline">二</note>
+<lb ed="X" n="0603a12"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a1201">初釋諸大德<note place="inline">二</note>
+<lb ed="X" n="0603a13"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a1301">初正釋</item>
+<lb ed="X" n="0603a14"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a1401">二問答</item></list></item>
+<lb ed="X" n="0603a15"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a1501">二文下釋木叉<note place="inline">二</note>
+<lb ed="X" n="0603a16"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a1601">初正釋</item>
+<lb ed="X" n="0603a17"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a1701">二光下指略</item></list></item></list></item></list></item>
+<lb ed="X" n="0603a18"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a1801">二釋注<note place="inline">四</note>
+<lb ed="X" n="0603a19"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a1901">初釋制緣</item>
+<lb ed="X" n="0603a20"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a2001">二釋解名<note place="inline">三</note>
+<lb ed="X" n="0603a21"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a2101">初明佛解</item>
+<lb ed="X" n="0603a22"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a2201">二有下斥非義</item>
+<lb ed="X" n="0603a23"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a2301">三今下牒釋</item></list></item>
+<lb ed="X" n="0603a24"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a2401">三注下釋歎功<note place="inline">三</note>
+<lb ed="X" n="0603a25"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a2501">初滅惡<note place="inline">二</note>
+<lb ed="X" n="0603a26"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a2601">初總釋</item>
+<lb ed="X" n="0603a27"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a2701">二由下別釋<note place="inline">二</note>
+<lb ed="X" n="0603a28"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a2801">初釋攝持</item>
+<lb ed="X" n="0603a29"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a2901">二釋住處</item></list></item></list></item>
+<lb ed="X" n="0603a30"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a3001">二生善</item>
+<lb ed="X" n="0603a31"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a3101">三成定慧</item></list></item>
+<lb ed="X" n="0603a32"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a3201">四上下釋歎發引<note place="inline">二</note>
+<lb ed="X" n="0603a33"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a3301">初指前示後</item>
+<lb ed="X" n="0603a34"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a3401">二言下牒文正釋<note place="inline">二</note>
+<lb ed="X" n="0603a35"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a3501">初約三分解<note place="inline">三</note>
+<lb ed="X" n="0603a36"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a3601">初序分</item>
+<lb ed="X" n="0603a37"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a3701">二上下正宗</item>
+<lb ed="X" n="0603a38"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a3801">三廣下流通</item></list></item>
+<lb ed="X" n="0603a39"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a3901">二有下引佗解</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0603a40"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a4001">二釋第二<note place="inline">二</note>
+<lb ed="X" n="0603a41"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a4101">初釋文</item>
+<lb ed="X" n="0603a42"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a4201">二釋注<note place="inline">五</note>
+<lb ed="X" n="0603a43"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a4301">初釋同集<note place="inline">二</note>
+<lb ed="X" n="0603a44"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a4401">初今釋</item>
+<lb ed="X" n="0603a45"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a4501">二又下引佗解</item></list></item>
+<lb ed="X" n="0603a46"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a4601">二釋敷座</item>
+<lb ed="X" n="0603a47"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a4701">三釋略說<note place="inline">二</note>
+<lb ed="X" n="0603a48"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a4801">初明難緣</item>
+<lb ed="X" n="0603a49"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a4901">二明隨時持</item></list></item>
+<lb ed="X" n="0603a50"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a5001">四釋外集告淨</item>
+<lb ed="X" n="0603a51"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a5101">五斯下釋指略</item></list></item></list></item>
+<lb ed="X" n="0603a52"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a5201">三釋第三<note place="inline">二</note>
+<lb ed="X" n="0603a53"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a5301">初釋文</item>
+<lb ed="X" n="0603a54"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a5401">二注釋</item></list></item>
+<lb ed="X" n="0603a55"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a5501">四釋第四<note place="inline">二</note>
+<lb ed="X" n="0603a56"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a5601">初正釋<note place="inline">二</note>
+<lb ed="X" n="0603a57"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a5701">初釋文<note place="inline">三</note>
+<lb ed="X" n="0603a58"/><lb ed="R062" n="0208a01"/><list><item xml:id="itemX39p0603a5801">初牒釋</item>
+<lb ed="X" n="0603a59"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a5901">二悔下辨華<g ref="#CB15546">𣑽</g></item>
+<lb ed="X" n="0603a60"/><lb ed="R062" n="0208a01"/><item xml:id="itemX39p0603a6001">三懺下指略</item></list></item>
+<pb ed="X" xml:id="X39.0713.0604a" n="0604a"/>
+<lb ed="X" n="0604a01"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a0101">二釋注<note place="inline">三</note>
+<lb ed="X" n="0604a02"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a0201">初釋未懺</item>
+<lb ed="X" n="0604a03"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a0301">二注下釋悔法</item>
+<lb ed="X" n="0604a04"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a0401">三識下釋開白<note place="inline">二</note>
+<lb ed="X" n="0604a05"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a0501">初牒釋</item>
+<lb ed="X" n="0604a06"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a0601">二何下徵意<note place="inline">三</note>
+<lb ed="X" n="0604a07"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a0701">初明業本難亡</item>
+<lb ed="X" n="0604a08"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a0801">二今下示律懺分齊</item>
+<lb ed="X" n="0604a09"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a0901">三此下對理觀辨異</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0604a10"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a1001">二問先後</item></list></item>
+<lb ed="X" n="0604a11"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a1101">五釋第五<note place="inline">二</note>
+<lb ed="X" n="0604a12"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a1201">初釋文</item>
+<lb ed="X" n="0604a13"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a1301">二釋注</item></list></item>
+<lb ed="X" n="0604a14"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a1401">六釋第六<note place="inline">二</note>
+<lb ed="X" n="0604a15"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a1501">初正解</item>
+<lb ed="X" n="0604a16"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a1601">二又下引佗解</item></list></item>
+<lb ed="X" n="0604a17"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a1701">七釋第七<note place="inline">二</note>
+<lb ed="X" n="0604a18"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a1801">初通釋</item>
+<lb ed="X" n="0604a19"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a1901">二言下牒釋<note place="inline">二</note>
+<lb ed="X" n="0604a20"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a2001">初敘意分示</item>
+<lb ed="X" n="0604a21"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a2101">二今下依意解釋<note place="inline">二</note>
+<lb ed="X" n="0604a22"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a2201">初先以義求<note place="inline">二</note>
+<lb ed="X" n="0604a23"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a2301">初分章</item>
+<lb ed="X" n="0604a24"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a2401">二初下隨釋<note place="inline">六</note>
+<lb ed="X" n="0604a25"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a2501">初定罪重輕<note place="inline">二</note>
+<lb ed="X" n="0604a26"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a2601">初標</item>
+<lb ed="X" n="0604a27"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a2701">二昔下釋<note place="inline">二</note>
+<lb ed="X" n="0604a28"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a2801">初昔解<note place="inline">二</note>
+<lb ed="X" n="0604a29"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a2901">初立理</item>
+<lb ed="X" n="0604a30"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a3001">二釋難<note place="inline">二</note>
+<lb ed="X" n="0604a31"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a3101">初約身造口業難</item>
+<lb ed="X" n="0604a32"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a3201">二約止為方便難</item></list></item></list></item>
+<lb ed="X" n="0604a33"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a3301">二問下今解<note place="inline">二</note>
+<lb ed="X" n="0604a34"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a3401">初立理<note place="inline">三</note>
+<lb ed="X" n="0604a35"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a3501">初斥非判定</item>
+<lb ed="X" n="0604a36"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a3601">二但下出古立意</item>
+<lb ed="X" n="0604a37"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a3701">三又下難前互造<note place="inline">三</note>
+<lb ed="X" n="0604a38"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a3801">初約互造不定以難</item>
+<lb ed="X" n="0604a39"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a3901">二何下約歷句義以定</item>
+<lb ed="X" n="0604a40"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a4001">三有下引古解以證</item></list></item></list></item>
+<lb ed="X" n="0604a41"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a4101">二問答<note place="inline">三</note>
+<lb ed="X" n="0604a42"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a4201">初約互造難根境<note place="inline">三</note>
+<lb ed="X" n="0604a43"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a4301">初問</item>
+<lb ed="X" n="0604a44"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a4401">二答<note place="inline">二</note>
+<lb ed="X" n="0604a45"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a4501">初正答</item>
+<lb ed="X" n="0604a46"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a4601">二轉難</item></list></item></list></item>
+<lb ed="X" n="0604a47"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a4701">二問業識不同</item>
+<lb ed="X" n="0604a48"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a4801">三問體同分互</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0604a49"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a4901">二明通塞<note place="inline">二</note>
+<lb ed="X" n="0604a50"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a5001">初標</item>
+<lb ed="X" n="0604a51"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a5101">二如下釋<note place="inline">二</note>
+<lb ed="X" n="0604a52"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a5201">初昔解<note place="inline">二</note>
+<lb ed="X" n="0604a53"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a5301">初立理</item>
+<lb ed="X" n="0604a54"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a5401">二申問<note place="inline">二</note>
+<lb ed="X" n="0604a55"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a5501">初問八篇後問</item>
+<lb ed="X" n="0604a56"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a5601">二問不迷得聞</item></list></item></list></item>
+<lb ed="X" n="0604a57"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a5701">二今解</item></list></item></list></item>
+<lb ed="X" n="0604a58"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a5801">三對問緣<note place="inline">二</note>
+<lb ed="X" n="0604a59"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a5901">初標</item>
+<lb ed="X" n="0604a60"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a6001">二如下釋<note place="inline">二</note>
+<lb ed="X" n="0604a61"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a6101">初昔解</item>
+<lb ed="X" n="0604a62"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0604a6201">二今解<note place="inline">二</note>
+<lb ed="X" n="0604a63"/><lb ed="R062" n="0209a01"/><list><item xml:id="itemX39p0604a6301">初正解</item>
+<pb ed="X" xml:id="X39.0713.0605a" n="0605a"/>
+<lb ed="X" n="0605a01"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0605a0101">二釋妨</item></list></item></list></item></list></item>
+<lb ed="X" n="0605a02"/><lb ed="R062" n="0209a01"/><item xml:id="itemX39p0605a0201">四就罪辨<note place="inline">二</note>
+<lb ed="X" n="0605a03"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a0301">初標</item>
+<lb ed="X" n="0605a04"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a0401">二問示釋<note place="inline">二</note>
+<lb ed="X" n="0605a05"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a0501">初立問</item>
+<lb ed="X" n="0605a06"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a0601">二答釋<note place="inline">二</note>
+<lb ed="X" n="0605a07"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a0701">初引古答</item>
+<lb ed="X" n="0605a08"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a0801">二今解<note place="inline">三</note>
+<lb ed="X" n="0605a09"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a0901">初立理反破</item>
+<lb ed="X" n="0605a10"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a1001">二故下會同覆藏</item>
+<lb ed="X" n="0605a11"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a1101">三若下略示罪數</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0605a12"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a1201">五約人論<note place="inline">二</note>
+<lb ed="X" n="0605a13"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a1301">初標</item>
+<lb ed="X" n="0605a14"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a1401">二既下釋</item></list></item>
+<lb ed="X" n="0605a15"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a1501">六經處犯<note place="inline">二</note>
+<lb ed="X" n="0605a16"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a1601">初標</item>
+<lb ed="X" n="0605a17"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a1701">二如下釋<note place="inline">二</note>
+<lb ed="X" n="0605a18"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a1801">初昔解<note place="inline">二</note>
+<lb ed="X" n="0605a19"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a1901">初引示</item>
+<lb ed="X" n="0605a20"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a2001">二斯下結斥</item></list></item>
+<lb ed="X" n="0605a21"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a2101">二今解<note place="inline">二</note>
+<lb ed="X" n="0605a22"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a2201">初立義</item>
+<lb ed="X" n="0605a23"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a2301">二問答<note place="inline">三</note>
+<lb ed="X" n="0605a24"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a2401">初問序正重問</item>
+<lb ed="X" n="0605a25"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a2501">二問滅諍後問</item>
+<lb ed="X" n="0605a26"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a2601">三問九處重問<note place="inline">二</note>
+<lb ed="X" n="0605a27"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a2701">初問</item>
+<lb ed="X" n="0605a28"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a2801">二答<note place="inline">二</note>
+<lb ed="X" n="0605a29"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a2901">初舉諫相例答</item>
+<lb ed="X" n="0605a30"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a3001">二或下前後迷忘答<note place="inline">二</note>
+<lb ed="X" n="0605a31"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a3101">初正答</item>
+<lb ed="X" n="0605a32"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a3201">二轉難</item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0605a33"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a3301">二上下隨文消判<note place="inline">二</note>
+<lb ed="X" n="0605a34"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a3401">初指前標後</item>
+<lb ed="X" n="0605a35"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a3501">二言下牒文解釋<note place="inline">二</note>
+<lb ed="X" n="0605a36"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a3601">初釋文</item>
+<lb ed="X" n="0605a37"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a3701">二釋注</item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0605a38"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a3801">八釋第八<note place="inline">二</note>
+<lb ed="X" n="0605a39"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a3901">初釋文</item>
+<lb ed="X" n="0605a40"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a4001">二釋注</item></list></item></list></item></list></item></list></item></list>
+<lb ed="X" n="0605a41"/><lb ed="R062" n="0210a01"/>
+<lb ed="X" n="0605a42"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a4201">○三次下釋三覆檢問<note place="inline">二</note>
+<lb ed="X" n="0605a43"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a4301">初標分</item>
+<lb ed="X" n="0605a44"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a4401">二問下隨釋<note place="inline">二</note>
+<lb ed="X" n="0605a45"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a4501">初釋問淨<note place="inline">二</note>
+<lb ed="X" n="0605a46"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a4601">初對羯磨明須否<note place="inline">二</note>
+<lb ed="X" n="0605a47"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a4701">初問</item>
+<lb ed="X" n="0605a48"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a4801">二答<note place="inline">五</note>
+<lb ed="X" n="0605a49"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a4901">初約所為解</item>
+<lb ed="X" n="0605a50"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a5001">二約僧別解</item>
+<lb ed="X" n="0605a51"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a5101">三約人通局解</item>
+<lb ed="X" n="0605a52"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a5201">四約事犯解</item>
+<lb ed="X" n="0605a53"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a5301">五約事同解</item></list></item></list></item>
+<lb ed="X" n="0605a54"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a5401">二問三說所以</item></list></item>
+<lb ed="X" n="0605a55"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a5501">二言下釋勸持</item></list></item></list></item></list>
+<lb ed="X" n="0605a56"/><lb ed="R062" n="0210a01"/>
+<lb ed="X" n="0605a57"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a5701">○第二正宗分<note place="inline">二</note>
+<lb ed="X" n="0605a58"/><lb ed="R062" n="0210a01"/><list><item xml:id="itemX39p0605a5801">初標章</item>
+<lb ed="X" n="0605a59"/><lb ed="R062" n="0210a01"/><item xml:id="itemX39p0605a5901">二所下隨釋<note place="inline">二</note>
+<pb ed="X" xml:id="X39.0713.0606a" n="0606a"/>
+<lb ed="X" n="0606a01"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a0101">初通敘教旨<note place="inline">二</note>
+<lb ed="X" n="0606a02"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a0201">初明教興所由</item>
+<lb ed="X" n="0606a03"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a0301">二初下明次第之意</item></list></item>
+<lb ed="X" n="0606a04"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a0401">二將下分章解釋<note place="inline">二</note>
+<lb ed="X" n="0606a05"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a0501">初先以義通<note place="inline">二</note>
+<lb ed="X" n="0606a06"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a0601">初敘意分章</item>
+<lb ed="X" n="0606a07"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a0701">二就下依章解釋<note place="inline">四</note>
+<lb ed="X" n="0606a08"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a0801">初明正果五篇<note place="inline">二</note>
+<lb ed="X" n="0606a09"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a0901">初分門</item>
+<lb ed="X" n="0606a10"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a1001">二就下隨釋<note place="inline">四</note>
+<lb ed="X" n="0606a11"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a1101">初位立五篇并解篇義<note place="inline">二</note>
+<lb ed="X" n="0606a12"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a1201">初總標</item>
+<lb ed="X" n="0606a13"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a1301">二言下別釋<note place="inline">二</note>
+<lb ed="X" n="0606a14"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a1401">初位立</item>
+<lb ed="X" n="0606a15"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a1501">二上下解釋<note place="inline">二</note>
+<lb ed="X" n="0606a16"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a1601">初標示</item>
+<lb ed="X" n="0606a17"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a1701">二如下正釋<note place="inline">二</note>
+<lb ed="X" n="0606a18"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a1801">初昔解<note place="inline">三</note>
+<lb ed="X" n="0606a19"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a1901">初約偏頗解</item>
+<lb ed="X" n="0606a20"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a2001">二有下約三均解<note place="inline">二</note>
+<lb ed="X" n="0606a21"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a2101">初斥非</item>
+<lb ed="X" n="0606a22"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a2201">二立義</item></list></item>
+<lb ed="X" n="0606a23"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a2301">三有下約文義解<note place="inline">二</note>
+<lb ed="X" n="0606a24"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a2401">初斥非</item>
+<lb ed="X" n="0606a25"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a2501">二立義</item></list></item></list></item>
+<lb ed="X" n="0606a26"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a2601">二今解<note place="inline">二</note>
+<lb ed="X" n="0606a27"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a2701">初斥古解<note place="inline">二</note>
+<lb ed="X" n="0606a28"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a2801">初總示</item>
+<lb ed="X" n="0606a29"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a2901">二初下別斥<note place="inline">二</note>
+<lb ed="X" n="0606a30"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a3001">初點初解</item>
+<lb ed="X" n="0606a31"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a3101">二斥第二</item></list></item></list></item>
+<lb ed="X" n="0606a32"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a3201">二示今定<note place="inline">二</note>
+<lb ed="X" n="0606a33"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a3301">初取三均以立</item>
+<lb ed="X" n="0606a34"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a3401">二約輕重以難<note place="inline">二</note>
+<lb ed="X" n="0606a35"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a3501">初敘問</item>
+<lb ed="X" n="0606a36"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a3601">二釋通<note place="inline">二</note>
+<lb ed="X" n="0606a37"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a3701">初通答</item>
+<lb ed="X" n="0606a38"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a3801">二今下定篇義</item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0606a39"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a3901">二置名不同翻名顯義<note place="inline">二</note>
+<lb ed="X" n="0606a40"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a4001">初標示</item>
+<lb ed="X" n="0606a41"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a4101">二就下隨釋<note place="inline">二</note>
+<lb ed="X" n="0606a42"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a4201">初置名不同<note place="inline">二</note>
+<lb ed="X" n="0606a43"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a4301">初標</item>
+<lb ed="X" n="0606a44"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a4401">二問下釋<note place="inline">二</note>
+<lb ed="X" n="0606a45"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a4501">初明置名所以</item>
+<lb ed="X" n="0606a46"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a4601">二又下略示通名</item></list></item></list></item>
+<lb ed="X" n="0606a47"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a4701">二次翻名顯義<note place="inline">二</note>
+<lb ed="X" n="0606a48"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a4801">初標</item>
+<lb ed="X" n="0606a49"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a4901">二初下釋<note place="inline">五</note>
+<lb ed="X" n="0606a50"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a5001">初波羅夷<note place="inline">二</note>
+<lb ed="X" n="0606a51"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a5101">初明此方無譯</item>
+<lb ed="X" n="0606a52"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a5201">二故下引教示名<note place="inline">二</note>
+<lb ed="X" n="0606a53"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a5301">初本律</item>
+<lb ed="X" n="0606a54"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a5401">二僧下佗部</item></list></item></list></item>
+<lb ed="X" n="0606a55"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a5501">二僧殘</item>
+<lb ed="X" n="0606a56"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a5601">三波逸提</item>
+<lb ed="X" n="0606a57"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a5701">四提舍尼</item>
+<lb ed="X" n="0606a58"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a5801">五突吉羅</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0606a59"/><lb ed="R062" n="0211a01"/><item xml:id="itemX39p0606a5901">三但置於五不立四六<note place="inline">二</note>
+<lb ed="X" n="0606a60"/><lb ed="R062" n="0211a01"/><list><item xml:id="itemX39p0606a6001">初標</item>
+<pb ed="X" xml:id="X39.0713.0607a" n="0607a"/>
+<lb ed="X" n="0607a01"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a0101">二如下釋<note place="inline">二</note>
+<lb ed="X" n="0607a02"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a0201">初昔解</item>
+<lb ed="X" n="0607a03"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a0301">二今解<note place="inline">四</note>
+<lb ed="X" n="0607a04"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a0401">初難古</item>
+<lb ed="X" n="0607a05"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a0501">二今下立今</item>
+<lb ed="X" n="0607a06"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a0601">三前下釋難</item>
+<lb ed="X" n="0607a07"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a0701">四問答<note place="inline">二</note>
+<lb ed="X" n="0607a08"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a0801">初問初重名藥</item>
+<lb ed="X" n="0607a09"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a0901">二問藥病不對<note place="inline">二</note>
+<lb ed="X" n="0607a10"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a1001">初敘難</item>
+<lb ed="X" n="0607a11"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a1101">二今下重解<note place="inline">二</note>
+<lb ed="X" n="0607a12"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a1201">初約通別釋</item>
+<lb ed="X" n="0607a13"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a1301">二如下舉例</item></list></item></list></item>
+<lb ed="X" n="0607a14"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a1401">三問二種先後<note place="inline">二</note>
+<lb ed="X" n="0607a15"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a1501">初問答</item>
+<lb ed="X" n="0607a16"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a1601">二轉難<note place="inline">二</note>
+<lb ed="X" n="0607a17"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a1701">初約無病設藥以難</item>
+<lb ed="X" n="0607a18"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a1801">二若下約待病設藥轉難</item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0607a19"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a1901">四立篇次第先後不同<note place="inline">二</note>
+<lb ed="X" n="0607a20"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a2001">初標</item>
+<lb ed="X" n="0607a21"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a2101">二就下釋<note place="inline">二</note>
+<lb ed="X" n="0607a22"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a2201">初敘結集安布</item>
+<lb ed="X" n="0607a23"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a2301">二於下明先後所以<note place="inline">二</note>
+<lb ed="X" n="0607a24"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a2401">初約位行</item>
+<lb ed="X" n="0607a25"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a2501">二又下據根條<note place="inline">二</note>
+<lb ed="X" n="0607a26"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a2601">初正明</item>
+<lb ed="X" n="0607a27"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a2701">二問答<note place="inline">二</note>
+<lb ed="X" n="0607a28"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a2801">初問</item>
+<lb ed="X" n="0607a29"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a2901">二答<note place="inline">二</note>
+<lb ed="X" n="0607a30"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a3001">初約義答</item>
+<lb ed="X" n="0607a31"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a3101">二又下引文證</item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0607a32"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a3201">二明七聚輕重○</item>
+<lb ed="X" n="0607a33"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a3301">三諸篇方便○</item>
+<lb ed="X" n="0607a34"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a3401">四持犯義○</item></list></item></list></item>
+<lb ed="X" n="0607a35"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a3501">二後隨文解○</item></list></item></list></item></list></item></list>
+<lb ed="X" n="0607a36"/><lb ed="R062" n="0212a01"/>
+<lb ed="X" n="0607a37"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a3701">○二明七聚輕重<note place="inline">二</note>
+<lb ed="X" n="0607a38"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a3801">初標列</item>
+<lb ed="X" n="0607a39"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a3901">二初下隨釋<note place="inline">四</note>
+<lb ed="X" n="0607a40"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a4001">初位立七聚并解聚義<note place="inline">二</note>
+<lb ed="X" n="0607a41"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a4101">初位立</item>
+<lb ed="X" n="0607a42"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a4201">二有下解義<note place="inline">二</note>
+<lb ed="X" n="0607a43"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a4301">初引斥異</item>
+<lb ed="X" n="0607a44"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a4401">二明正解</item></list></item></list></item>
+<lb ed="X" n="0607a45"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a4501">二明離分品位之意<note place="inline">二</note>
+<lb ed="X" n="0607a46"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a4601">初標示</item>
+<lb ed="X" n="0607a47"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a4701">二如下解釋<note place="inline">二</note>
+<lb ed="X" n="0607a48"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a4801">初古義<note place="inline">二</note>
+<lb ed="X" n="0607a49"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a4901">初正引<note place="inline">二</note>
+<lb ed="X" n="0607a50"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a5001">初引古解<note place="inline">三</note>
+<lb ed="X" n="0607a51"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a5101">初明不立一</item>
+<lb ed="X" n="0607a52"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a5201">二若下明不立二</item>
+<lb ed="X" n="0607a53"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a5301">三是下明從二立七</item></list></item>
+<lb ed="X" n="0607a54"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a5401">二有下引佗難<note place="inline">二</note>
+<lb ed="X" n="0607a55"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a5501">初約廣略前後以難</item>
+<lb ed="X" n="0607a56"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a5601">二有下斥佗師曲救</item></list></item></list></item>
+<lb ed="X" n="0607a57"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a5701">二如下結示</item></list></item>
+<lb ed="X" n="0607a58"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a5801">二今義<note place="inline">三</note>
+<lb ed="X" n="0607a59"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a5901">初敘立</item>
+<lb ed="X" n="0607a60"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a6001">二罪下正示</item>
+<lb ed="X" n="0607a61"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a6101">三如下結意</item></list></item></list></item></list></item>
+<lb ed="X" n="0607a62"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a6201">三解七聚得名不同<note place="inline">三</note>
+<lb ed="X" n="0607a63"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a6301">初標章</item>
+<lb ed="X" n="0607a64"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0607a6401">二列下正釋<note place="inline">二</note>
+<lb ed="X" n="0607a65"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a6501">初翻名<note place="inline">二</note>
+<lb ed="X" n="0607a66"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0607a6601">初指同</item>
+<pb ed="X" xml:id="X39.0713.0608a" n="0608a"/>
+<lb ed="X" n="0608a01"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0608a0101">二偷下別示<note place="inline">二</note>
+<lb ed="X" n="0608a02"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0608a0201">初釋偷蘭遮</item>
+<lb ed="X" n="0608a03"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0608a0301">二釋惡作惡說</item></list></item></list></item>
+<lb ed="X" n="0608a04"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0608a0401">二言下得名<note place="inline">二</note>
+<lb ed="X" n="0608a05"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0608a0501">初標</item>
+<lb ed="X" n="0608a06"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0608a0601">二有下引示<note place="inline">二</note>
+<lb ed="X" n="0608a07"/><lb ed="R062" n="0212a01"/><list><item xml:id="itemX39p0608a0701">初一師約五義釋</item>
+<lb ed="X" n="0608a08"/><lb ed="R062" n="0212a01"/><item xml:id="itemX39p0608a0801">二一師約六義釋</item></list></item></list></item></list></item>
+<lb ed="X" n="0608a09"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a0901">三如下結告</item></list></item>
+<lb ed="X" n="0608a10"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a1001">四解諸罪隱顯之相<note place="inline">二</note>
+<lb ed="X" n="0608a11"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a1101">初標</item>
+<lb ed="X" n="0608a12"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a1201">二問下釋<note place="inline">二</note>
+<lb ed="X" n="0608a13"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a1301">初正釋蘭吉<note place="inline">二</note>
+<lb ed="X" n="0608a14"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a1401">初明不入戒本<note place="inline">二</note>
+<lb ed="X" n="0608a15"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a1501">初敘問</item>
+<lb ed="X" n="0608a16"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a1601">二答釋<note place="inline">二</note>
+<lb ed="X" n="0608a17"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a1701">初示今意</item>
+<lb ed="X" n="0608a18"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a1801">二有下引古解<note place="inline">二</note>
+<lb ed="X" n="0608a19"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a1901">初正明不入</item>
+<lb ed="X" n="0608a20"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a2001">二今下釋成不定<note place="inline">二</note>
+<lb ed="X" n="0608a21"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a2101">初約戒儀在前</item>
+<lb ed="X" n="0608a22"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a2201">二若下約均雜居後</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0608a23"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a2301">二上下明非篇是聚<note place="inline">二</note>
+<lb ed="X" n="0608a24"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a2401">初結前起後</item>
+<lb ed="X" n="0608a25"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a2501">二今下約義以釋<note place="inline">二</note>
+<lb ed="X" n="0608a26"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a2601">初正釋</item>
+<lb ed="X" n="0608a27"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a2701">二通難<note place="inline">二</note>
+<lb ed="X" n="0608a28"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a2801">初約吉羅多品以難<note place="inline">二</note>
+<lb ed="X" n="0608a29"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a2901">初立難</item>
+<lb ed="X" n="0608a30"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a3001">二解釋<note place="inline">二</note>
+<lb ed="X" n="0608a31"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a3101">初昔解</item>
+<lb ed="X" n="0608a32"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a3201">二今解<note place="inline">二</note>
+<lb ed="X" n="0608a33"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a3301">初立義正解</item>
+<lb ed="X" n="0608a34"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a3401">二問下釋通悔法</item></list></item></list></item></list></item>
+<lb ed="X" n="0608a35"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a3501">二約吉羅通因以難<note place="inline">二</note>
+<lb ed="X" n="0608a36"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a3601">初問</item>
+<lb ed="X" n="0608a37"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a3701">二答<note place="inline">二</note>
+<lb ed="X" n="0608a38"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a3801">初立義正答</item>
+<lb ed="X" n="0608a39"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a3901">二約偷蘭反難</item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0608a40"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a4001">二二下因示餘文<note place="inline">三</note>
+<lb ed="X" n="0608a41"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a4101">初二不定</item>
+<lb ed="X" n="0608a42"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a4201">二七滅諍</item>
+<lb ed="X" n="0608a43"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a4301">三七佛略教</item></list></item></list></item></list></item></list></item></list></item></list>
+<lb ed="X" n="0608a44"/><lb ed="R062" n="0213a01"/>
+<lb ed="X" n="0608a45"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a4501">○三諸篇方便<note place="inline">二</note>
+<lb ed="X" n="0608a46"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a4601">初標章</item>
+<lb ed="X" n="0608a47"/><lb ed="R062" n="0213a01"/><item xml:id="itemX39p0608a4701">二四下正釋<note place="inline">二</note>
+<lb ed="X" n="0608a48"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a4801">初今家三方便<note place="inline">三</note>
+<lb ed="X" n="0608a49"/><lb ed="R062" n="0213a01"/><list><item xml:id="itemX39p0608a4901">初標示所出</item>
+<pb ed="X" xml:id="X39.0713.0609a" n="0609a"/>
+<lb ed="X" n="0609a01"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a0101">二彼下引疏以解<note place="inline">二</note>
+<lb ed="X" n="0609a02"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a0201">初通釋部義</item>
+<lb ed="X" n="0609a03"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a0301">二初下別配諸篇<note place="inline">三</note>
+<lb ed="X" n="0609a04"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a0401">初示總數</item>
+<lb ed="X" n="0609a05"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a0501">二故下顯相<note place="inline">二</note>
+<lb ed="X" n="0609a06"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a0601">初總舉</item>
+<lb ed="X" n="0609a07"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a0701">二一下別釋<note place="inline">二</note>
+<lb ed="X" n="0609a08"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a0801">初列示因本<note place="inline">四</note>
+<lb ed="X" n="0609a09"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a0901">初遠方便</item>
+<lb ed="X" n="0609a10"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a1001">二次方便<note place="inline">二</note>
+<lb ed="X" n="0609a11"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a1101">初依論示罪</item>
+<lb ed="X" n="0609a12"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a1201">二若下引律和會<note place="inline">二</note>
+<lb ed="X" n="0609a13"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a1301">初引多宗會通</item>
+<lb ed="X" n="0609a14"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a1401">二若下准本律取舍</item></list></item></list></item>
+<lb ed="X" n="0609a15"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a1501">三近方便</item>
+<lb ed="X" n="0609a16"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a1601">四根本</item></list></item>
+<lb ed="X" n="0609a17"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a1701">二前下結成部義</item></list></item></list></item>
+<lb ed="X" n="0609a18"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a1801">三餘下指例</item></list></item></list></item>
+<lb ed="X" n="0609a19"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a1901">三若下結告</item></list></item>
+<lb ed="X" n="0609a20"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a2001">二古下引古德四方便<note place="inline">二</note>
+<lb ed="X" n="0609a21"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a2101">初總標</item>
+<lb ed="X" n="0609a22"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a2201">二所下列示<note place="inline">四</note>
+<lb ed="X" n="0609a23"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a2301">初遠方便<note place="inline">四</note>
+<lb ed="X" n="0609a24"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a2401">初通明</item>
+<lb ed="X" n="0609a25"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a2501">二言下列釋<note place="inline">四</note>
+<lb ed="X" n="0609a26"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a2601">初夷</item>
+<lb ed="X" n="0609a27"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a2701">二殘</item>
+<lb ed="X" n="0609a28"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a2801">三提</item>
+<lb ed="X" n="0609a29"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a2901">四提舍吉羅</item></list></item>
+<lb ed="X" n="0609a30"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a3001">三如下舉例</item>
+<lb ed="X" n="0609a31"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a3101">四此下示立意</item></list></item>
+<lb ed="X" n="0609a32"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a3201">二近方便</item>
+<lb ed="X" n="0609a33"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a3301">三進趣方便<note place="inline">三</note>
+<lb ed="X" n="0609a34"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a3401">初初師約違理明無<note place="inline">三</note>
+<lb ed="X" n="0609a35"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a3501">初示名義</item>
+<lb ed="X" n="0609a36"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a3601">二若下正立</item>
+<lb ed="X" n="0609a37"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a3701">三問答<note place="inline">二</note>
+<lb ed="X" n="0609a38"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a3801">初約福善以難罪</item>
+<lb ed="X" n="0609a39"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a3901">二若下引諫戒以難無</item></list></item></list></item>
+<lb ed="X" n="0609a40"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a4001">二有下次師或有或無</item>
+<lb ed="X" n="0609a41"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a4101">三有下後師約制明有<note place="inline">二</note>
+<lb ed="X" n="0609a42"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a4201">初立義<note place="inline">二</note>
+<lb ed="X" n="0609a43"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a4301">初對初師立</item>
+<lb ed="X" n="0609a44"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a4401">二據下對次師立</item></list></item>
+<lb ed="X" n="0609a45"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a4501">二釋難<note place="inline">三</note>
+<lb ed="X" n="0609a46"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a4601">初約進趣難方便何異</item>
+<lb ed="X" n="0609a47"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a4701">二約同進趣以難不別</item>
+<lb ed="X" n="0609a48"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a4801">三約歸二位以難不須</item></list></item></list></item></list></item>
+<lb ed="X" n="0609a49"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a4901">四闕緣方便<note place="inline">二</note>
+<lb ed="X" n="0609a50"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a5001">初標分</item>
+<lb ed="X" n="0609a51"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a5101">二初下隨釋<note place="inline">二</note>
+<lb ed="X" n="0609a52"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a5201">初列名顯相<note place="inline">二</note>
+<lb ed="X" n="0609a53"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a5301">初列名<note place="inline">三</note>
+<lb ed="X" n="0609a54"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a5401">初示名</item>
+<lb ed="X" n="0609a55"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a5501">二有下斥古</item>
+<lb ed="X" n="0609a56"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a5601">三今下正列</item></list></item>
+<lb ed="X" n="0609a57"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a5701">二言下顯相<note place="inline">二</note>
+<lb ed="X" n="0609a58"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a5801">初標</item>
+<lb ed="X" n="0609a59"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a5901">二初下釋<note place="inline">七</note>
+<lb ed="X" n="0609a60"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a6001">初闕緣<note place="inline">二</note>
+<lb ed="X" n="0609a61"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a6101">初標舉</item>
+<lb ed="X" n="0609a62"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a6201">二一下列示<note place="inline">三</note>
+<lb ed="X" n="0609a63"/><lb ed="R062" n="0214a01"/><list><item xml:id="itemX39p0609a6301">初通名</item>
+<lb ed="X" n="0609a64"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a6401">二別名</item>
+<lb ed="X" n="0609a65"/><lb ed="R062" n="0214a01"/><item xml:id="itemX39p0609a6501">三亦通亦別</item></list></item></list></item>
+<pb ed="X" xml:id="X39.0713.0610a" n="0610a"/>
+<lb ed="X" n="0610a01"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a0101">二境強</item>
+<lb ed="X" n="0610a02"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a0201">三緣差</item>
+<lb ed="X" n="0610a03"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a0301">四境差<note place="inline">二</note>
+<lb ed="X" n="0610a04"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a0401">初標示諸境</item>
+<lb ed="X" n="0610a05"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a0501">二如下別釋犯相<note place="inline">二</note>
+<lb ed="X" n="0610a06"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a0601">初明人異境<note place="inline">三</note>
+<lb ed="X" n="0610a07"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a0701">初正明</item>
+<lb ed="X" n="0610a08"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a0801">二問答<note place="inline">二</note>
+<lb ed="X" n="0610a09"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a0901">初問異境無心</item>
+<lb ed="X" n="0610a10"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a1001">二問因果差別<note place="inline">二</note>
+<lb ed="X" n="0610a11"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a1101">初敘問</item>
+<lb ed="X" n="0610a12"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a1201">二引解<note place="inline">二</note>
+<lb ed="X" n="0610a13"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a1301">初古解</item>
+<lb ed="X" n="0610a14"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a1401">二問下今解<note place="inline">三</note>
+<lb ed="X" n="0610a15"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a1501">初難破</item>
+<lb ed="X" n="0610a16"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a1601">二今下立義</item>
+<lb ed="X" n="0610a17"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a1701">三問下釋妨</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0610a18"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a1801">三昔下指廣</item></list></item>
+<lb ed="X" n="0610a19"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a1901">二餘下明餘異境<note place="inline">二</note>
+<lb ed="X" n="0610a20"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a2001">初通示</item>
+<lb ed="X" n="0610a21"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a2101">二釋疑<note place="inline">二</note>
+<lb ed="X" n="0610a22"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a2201">初釋人異境難</item>
+<lb ed="X" n="0610a23"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a2301">二釋律境想難<note place="inline">二</note>
+<lb ed="X" n="0610a24"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a2401">初敘難</item>
+<lb ed="X" n="0610a25"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a2501">二引釋<note place="inline">二</note>
+<lb ed="X" n="0610a26"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a2601">初引佗師約本境釋<note place="inline">二</note>
+<lb ed="X" n="0610a27"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a2701">初約想心解</item>
+<lb ed="X" n="0610a28"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a2801">二有下斥疑心解<note place="inline">三</note>
+<lb ed="X" n="0610a29"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a2901">初示佗解</item>
+<lb ed="X" n="0610a30"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a3001">二今下約義斥</item>
+<lb ed="X" n="0610a31"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a3101">三問下引強為例</item></list></item></list></item>
+<lb ed="X" n="0610a32"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a3201">二問下約兩境難<note place="inline">二</note>
+<lb ed="X" n="0610a33"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a3301">初躡境強難破</item>
+<lb ed="X" n="0610a34"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a3401">二今下申今正解</item></list></item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0610a35"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a3501">五想差<note place="inline">三</note>
+<lb ed="X" n="0610a36"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a3601">初標舉</item>
+<lb ed="X" n="0610a37"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a3701">二初下列釋</item>
+<lb ed="X" n="0610a38"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a3801">三就下料簡</item></list></item>
+<lb ed="X" n="0610a39"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a3901">六疑心<note place="inline">二</note>
+<lb ed="X" n="0610a40"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a4001">初總舉</item>
+<lb ed="X" n="0610a41"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a4101">二我下列句<note place="inline">二</note>
+<lb ed="X" n="0610a42"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a4201">初互法</item>
+<lb ed="X" n="0610a43"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a4301">二上下雙句</item></list></item></list></item>
+<lb ed="X" n="0610a44"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a4401">七善心息<note place="inline">二</note>
+<lb ed="X" n="0610a45"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a4501">初正明</item>
+<lb ed="X" n="0610a46"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a4601">二釋難</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0610a47"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a4701">二校量同異<note place="inline">二</note>
+<lb ed="X" n="0610a48"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a4801">初標</item>
+<lb ed="X" n="0610a49"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a4901">二初下釋<note place="inline">二</note>
+<lb ed="X" n="0610a50"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a5001">初明多少寬狹<note place="inline">二</note>
+<lb ed="X" n="0610a51"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a5101">初自造置具多少</item>
+<lb ed="X" n="0610a52"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a5201">二剋下剋漫寬狹</item></list></item>
+<lb ed="X" n="0610a53"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a5301">二心境分別</item>
+<lb ed="X" n="0610a54"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a5401">三宗致分別</item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list>
+<lb ed="X" n="0610a55"/><lb ed="R062" n="0215a01"/>
+<lb ed="X" n="0610a56"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a5601">○四持犯義<note place="inline">二</note>
+<lb ed="X" n="0610a57"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a5701">初標分</item>
+<lb ed="X" n="0610a58"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a5801">二就下隨釋<note place="inline">四</note>
+<lb ed="X" n="0610a59"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a5901">初知名字<note place="inline">二</note>
+<lb ed="X" n="0610a60"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a6001">初總舉</item>
+<lb ed="X" n="0610a61"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a6101">二先下別釋<note place="inline">二</note>
+<lb ed="X" n="0610a62"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a6201">初明二持<note place="inline">二</note>
+<lb ed="X" n="0610a63"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a6301">初標</item>
+<lb ed="X" n="0610a64"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a6401">二所下釋<note place="inline">二</note>
+<lb ed="X" n="0610a65"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a6501">初示名義<note place="inline">二</note>
+<lb ed="X" n="0610a66"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0610a6601">初釋止持</item>
+<lb ed="X" n="0610a67"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0610a6701">二惡下釋作持</item></list></item>
+<pb ed="X" xml:id="X39.0713.0611a" n="0611a"/>
+<lb ed="X" n="0611a01"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0611a0101">二所下釋所以</item></list></item></list></item>
+<lb ed="X" n="0611a02"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0611a0201">二次下明兩犯<note place="inline">二</note>
+<lb ed="X" n="0611a03"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0611a0301">初標</item>
+<lb ed="X" n="0611a04"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0611a0401">二言下釋<note place="inline">二</note>
+<lb ed="X" n="0611a05"/><lb ed="R062" n="0215a01"/><list><item xml:id="itemX39p0611a0501">初釋作犯</item>
+<lb ed="X" n="0611a06"/><lb ed="R062" n="0215a01"/><item xml:id="itemX39p0611a0601">二惡下釋止犯</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0611a07"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a0701">二明體狀<note place="inline">二</note>
+<lb ed="X" n="0611a08"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a0801">初標</item>
+<lb ed="X" n="0611a09"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a0901">二如下釋<note place="inline">二</note>
+<lb ed="X" n="0611a10"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a1001">初引昔解</item>
+<lb ed="X" n="0611a11"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a1101">二有下引正解<note place="inline">二</note>
+<lb ed="X" n="0611a12"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a1201">初斥破<note place="inline">二</note>
+<lb ed="X" n="0611a13"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a1301">初正破<note place="inline">三</note>
+<lb ed="X" n="0611a14"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a1401">初約律制難</item>
+<lb ed="X" n="0611a15"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a1501">二又下約意地難</item>
+<lb ed="X" n="0611a16"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a1601">三又下約悔法難</item></list></item>
+<lb ed="X" n="0611a17"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a1701">二故下結顯</item></list></item>
+<lb ed="X" n="0611a18"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a1801">二今下正立<note place="inline">二</note>
+<lb ed="X" n="0611a19"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a1901">初標示</item>
+<lb ed="X" n="0611a20"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a2001">二言下正明<note place="inline">二</note>
+<lb ed="X" n="0611a21"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a2101">初能持犯體<note place="inline">三</note>
+<lb ed="X" n="0611a22"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a2201">初正明</item>
+<lb ed="X" n="0611a23"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a2301">二故下引證</item>
+<lb ed="X" n="0611a24"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a2401">三以下結示</item></list></item>
+<lb ed="X" n="0611a25"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a2501">二言下所持犯體<note place="inline">二</note>
+<lb ed="X" n="0611a26"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a2601">初總舉</item>
+<lb ed="X" n="0611a27"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a2701">二先下別釋<note place="inline">二</note>
+<lb ed="X" n="0611a28"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a2801">初先出能攝之教<note place="inline">二</note>
+<lb ed="X" n="0611a29"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a2901">初標</item>
+<lb ed="X" n="0611a30"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a3001">二言下釋<note place="inline">三</note>
+<lb ed="X" n="0611a31"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a3101">初列示<note place="inline">二</note>
+<lb ed="X" n="0611a32"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a3201">初制教</item>
+<lb ed="X" n="0611a33"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a3301">二聽教</item></list></item>
+<lb ed="X" n="0611a34"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a3401">二故下引證</item>
+<lb ed="X" n="0611a35"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a3501">三所下出意</item></list></item></list></item>
+<lb ed="X" n="0611a36"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a3601">二如下正明所持犯體<note place="inline">二</note>
+<lb ed="X" n="0611a37"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a3701">初總論攝法分齊<note place="inline">二</note>
+<lb ed="X" n="0611a38"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a3801">初引昔解</item>
+<lb ed="X" n="0611a39"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a3901">二問下明今義</item></list></item>
+<lb ed="X" n="0611a40"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a4001">二前下別顯持犯體狀<note place="inline">四</note>
+<lb ed="X" n="0611a41"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a4101">初止持<note place="inline">二</note>
+<lb ed="X" n="0611a42"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a4201">初制門<note place="inline">二</note>
+<lb ed="X" n="0611a43"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a4301">初總示</item>
+<lb ed="X" n="0611a44"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a4401">二一下別釋<note place="inline">二</note>
+<lb ed="X" n="0611a45"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a4501">初制止事法<note place="inline">二</note>
+<lb ed="X" n="0611a46"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a4601">初可學<note place="inline">二</note>
+<lb ed="X" n="0611a47"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a4701">初可學事</item>
+<lb ed="X" n="0611a48"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a4801">二可學法</item></list></item>
+<lb ed="X" n="0611a49"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a4901">二言下不可學<note place="inline">二</note>
+<lb ed="X" n="0611a50"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a5001">初列示<note place="inline">二</note>
+<lb ed="X" n="0611a51"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a5101">初不可學事</item>
+<lb ed="X" n="0611a52"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a5201">二不可學法</item></list></item>
+<lb ed="X" n="0611a53"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a5301">二釋疑</item></list></item></list></item>
+<lb ed="X" n="0611a54"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a5401">二制作事法<note place="inline">二</note>
+<lb ed="X" n="0611a55"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a5501">初正明</item>
+<lb ed="X" n="0611a56"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0611a5601">二問答<note place="inline">二</note>
+<lb ed="X" n="0611a57"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0611a5701">初問與前合亂</item>
+<pb ed="X" xml:id="X39.0713.0612a" n="0612a"/>
+<lb ed="X" n="0612a01"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0612a0101">二問與後何別<note place="inline">二</note>
+<lb ed="X" n="0612a02"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0612a0201">初正申問答</item>
+<lb ed="X" n="0612a03"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0612a0301">二因下因明雙義<note place="inline">二</note>
+<lb ed="X" n="0612a04"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0612a0401">初標分</item>
+<lb ed="X" n="0612a05"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0612a0501">二若下隨釋<note place="inline">二</note>
+<lb ed="X" n="0612a06"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0612a0601">初約心用</item>
+<lb ed="X" n="0612a07"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0612a0701">二若下據教行<note place="inline">二</note>
+<lb ed="X" n="0612a08"/><lb ed="R062" n="0216a01"/><list><item xml:id="itemX39p0612a0801">初約義正明</item>
+<lb ed="X" n="0612a09"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0612a0901">二引怨逼以難</item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0612a10"/><lb ed="R062" n="0216a01"/><item xml:id="itemX39p0612a1001">二聽門<note place="inline">二</note>
+<lb ed="X" n="0612a11"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a1101">初總標</item>
+<lb ed="X" n="0612a12"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a1201">二言下別釋<note place="inline">二</note>
+<lb ed="X" n="0612a13"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a1301">初可學</item>
+<lb ed="X" n="0612a14"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a1401">二不可學</item></list></item></list></item></list></item>
+<lb ed="X" n="0612a15"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a1501">二作持<note place="inline">二</note>
+<lb ed="X" n="0612a16"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a1601">初標示</item>
+<lb ed="X" n="0612a17"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a1701">二先下正釋<note place="inline">二</note>
+<lb ed="X" n="0612a18"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a1801">初依古出法<note place="inline">二</note>
+<lb ed="X" n="0612a19"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a1901">初制教<note place="inline">二</note>
+<lb ed="X" n="0612a20"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a2001">初總舉</item>
+<lb ed="X" n="0612a21"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a2101">二言下隨檡<note place="inline">二</note>
+<lb ed="X" n="0612a22"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a2201">初通示二持</item>
+<lb ed="X" n="0612a23"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a2301">二別問止持</item></list></item></list></item>
+<lb ed="X" n="0612a24"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a2401">二聽教</item></list></item>
+<lb ed="X" n="0612a25"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a2501">二如下明今難破<note place="inline">二</note>
+<lb ed="X" n="0612a26"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a2601">初引古解</item>
+<lb ed="X" n="0612a27"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a2701">二今下示今義<note place="inline">三</note>
+<lb ed="X" n="0612a28"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a2801">初引文立理</item>
+<lb ed="X" n="0612a29"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a2901">二釋通疑妨</item>
+<lb ed="X" n="0612a30"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a3001">三若下顯今異昔</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0612a31"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a3101">三作犯</item>
+<lb ed="X" n="0612a32"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a3201">四止犯<note place="inline">二</note>
+<lb ed="X" n="0612a33"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a3301">初正明</item>
+<lb ed="X" n="0612a34"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a3401">二此下雙結</item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0612a35"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a3501">三釋成就○</item>
+<lb ed="X" n="0612a36"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a3601">四辨位置○</item></list></item></list></item></list>
+<lb ed="X" n="0612a37"/><lb ed="R062" n="0217a01"/>
+<lb ed="X" n="0612a38"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a3801">○三釋成就<note place="inline">三</note>
+<lb ed="X" n="0612a39"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a3901">初總標</item>
+<lb ed="X" n="0612a40"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a4001">二前下別示<note place="inline">三</note>
+<lb ed="X" n="0612a41"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a4101">初對心明止持</item>
+<lb ed="X" n="0612a42"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a4201">二就行明四位<note place="inline">二</note>
+<lb ed="X" n="0612a43"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a4301">初始終心<note place="inline">二</note>
+<lb ed="X" n="0612a44"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a4401">初明二持</item>
+<lb ed="X" n="0612a45"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a4501">二若下明兩犯</item></list></item>
+<lb ed="X" n="0612a46"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a4601">二若下前後心</item></list></item>
+<lb ed="X" n="0612a47"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a4701">三就業明四行<note place="inline">二</note>
+<lb ed="X" n="0612a48"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a4801">初標</item>
+<lb ed="X" n="0612a49"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a4901">二言下釋<note place="inline">二</note>
+<lb ed="X" n="0612a50"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a5001">初明身口業</item>
+<lb ed="X" n="0612a51"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a5101">二明意業<note place="inline">二</note>
+<lb ed="X" n="0612a52"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a5201">初引示無犯</item>
+<lb ed="X" n="0612a53"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a5301">二若下難通有犯<note place="inline">三</note>
+<lb ed="X" n="0612a54"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a5401">初引文難</item>
+<lb ed="X" n="0612a55"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a5501">二約義答<note place="inline">二</note>
+<lb ed="X" n="0612a56"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a5601">初約業思釋</item>
+<lb ed="X" n="0612a57"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a5701">二有下約重緣釋</item></list></item>
+<lb ed="X" n="0612a58"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a5801">三任下結斷</item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0612a59"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0612a5901">三上下指略</item></list></item></list>
+<lb ed="X" n="0612a60"/><lb ed="R062" n="0217a01"/>
+<lb ed="X" n="0612a61"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a6101">○四辨位置<note place="inline">二</note>
+<lb ed="X" n="0612a62"/><lb ed="R062" n="0217a01"/><list><item xml:id="itemX39p0612a6201">初標</item>
+<pb ed="X" xml:id="X39.0713.0613a" n="0613a"/>
+<lb ed="X" n="0613a01"/><lb ed="R062" n="0217a01"/><item xml:id="itemX39p0613a0101">二佛下釋<note place="inline">二</note>
+<lb ed="X" n="0613a02"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a0201">初敘結</item>
+<lb ed="X" n="0613a03"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a0301">二今下配位<note place="inline">二</note>
+<lb ed="X" n="0613a04"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a0401">初總標</item>
+<lb ed="X" n="0613a05"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a0501">二先下別釋<note place="inline">四</note>
+<lb ed="X" n="0613a06"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a0601">初止持<note place="inline">二</note>
+<lb ed="X" n="0613a07"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a0701">初可學<note place="inline">三</note>
+<lb ed="X" n="0613a08"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a0801">初標示</item>
+<lb ed="X" n="0613a09"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a0901">二上下列釋<note place="inline">三</note>
+<lb ed="X" n="0613a10"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a1001">初歷句法<note place="inline">二</note>
+<lb ed="X" n="0613a11"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a1101">初上品</item>
+<lb ed="X" n="0613a12"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a1201">二中下二品</item></list></item>
+<lb ed="X" n="0613a13"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a1301">二言下隨難解</item>
+<lb ed="X" n="0613a14"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a1401">三上下示罪相<note place="inline">二</note>
+<lb ed="X" n="0613a15"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a1501">初隨品顯數<note place="inline">三</note>
+<lb ed="X" n="0613a16"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a1601">初上品</item>
+<lb ed="X" n="0613a17"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a1701">二中品</item>
+<lb ed="X" n="0613a18"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a1801">三下品</item></list></item>
+<lb ed="X" n="0613a19"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a1901">二此下總合</item></list></item></list></item>
+<lb ed="X" n="0613a20"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a2001">三問答</item></list></item>
+<lb ed="X" n="0613a21"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a2101">二次下不可學<note place="inline">三</note>
+<lb ed="X" n="0613a22"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a2201">初通釋</item>
+<lb ed="X" n="0613a23"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a2301">二初下列示<note place="inline">三</note>
+<lb ed="X" n="0613a24"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a2401">初上品</item>
+<lb ed="X" n="0613a25"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a2501">二中品</item>
+<lb ed="X" n="0613a26"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a2601">三下品</item></list></item>
+<lb ed="X" n="0613a27"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a2701">三此下總合<note place="inline">三</note>
+<lb ed="X" n="0613a28"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a2801">初合數</item>
+<lb ed="X" n="0613a29"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a2901">二但下顯意</item>
+<lb ed="X" n="0613a30"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a3001">三問答<note place="inline">二</note>
+<lb ed="X" n="0613a31"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a3101">初舉事難通後法</item>
+<lb ed="X" n="0613a32"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a3201">二引律有無不同</item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0613a33"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a3301">二作犯<note place="inline">二</note>
+<lb ed="X" n="0613a34"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a3401">初指句法同異</item>
+<lb ed="X" n="0613a35"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a3501">二就下料簡罪相<note place="inline">二</note>
+<lb ed="X" n="0613a36"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a3601">初明後九句不識事</item>
+<lb ed="X" n="0613a37"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a3701">二問下示二九所以<note place="inline">二</note>
+<lb ed="X" n="0613a38"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a3801">初問答示意</item>
+<lb ed="X" n="0613a39"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a3901">二故下引句顯相<note place="inline">二</note>
+<lb ed="X" n="0613a40"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a4001">初明前九句</item>
+<lb ed="X" n="0613a41"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a4101">二論下明後九句<note place="inline">二</note>
+<lb ed="X" n="0613a42"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a4201">初通明立句</item>
+<lb ed="X" n="0613a43"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a4301">二問下別示下品<note place="inline">二</note>
+<lb ed="X" n="0613a44"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a4401">初約本迷以解<note place="inline">三</note>
+<lb ed="X" n="0613a45"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a4501">初問三句無罪</item>
+<lb ed="X" n="0613a46"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a4601">二約止犯非宗難</item>
+<lb ed="X" n="0613a47"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a4701">三約初句全無難</item></list></item>
+<lb ed="X" n="0613a48"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a4801">二有下約兩迷總分</item></list></item></list></item></list></item></list></item></list></item></list></item>
+<lb ed="X" n="0613a49"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a4901">三作持<note place="inline">二</note>
+<lb ed="X" n="0613a50"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a5001">初可學<note place="inline">三</note>
+<lb ed="X" n="0613a51"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a5101">初示二九同異</item>
+<lb ed="X" n="0613a52"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a5201">二上下列句法品位<note place="inline">三</note>
+<lb ed="X" n="0613a53"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a5301">初上品</item>
+<lb ed="X" n="0613a54"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a5401">二中品</item>
+<lb ed="X" n="0613a55"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a5501">三下品</item></list></item>
+<lb ed="X" n="0613a56"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a5601">三結下明結罪分齊</item></list></item>
+<lb ed="X" n="0613a57"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a5701">二就下不可學
+<lb ed="X" n="0613a58"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a5801">四止犯<note place="inline">二</note></item></list></item>
+<lb ed="X" n="0613a59"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a5901">初指句</item>
+<lb ed="X" n="0613a60"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a6001">二如下引古解<note place="inline">二</note>
+<lb ed="X" n="0613a61"/><lb ed="R062" n="0218a01"/><list><item xml:id="itemX39p0613a6101">初斥不立不可學</item>
+<lb ed="X" n="0613a62"/><lb ed="R062" n="0218a01"/><item xml:id="itemX39p0613a6201">二有下引八九句法不同</item></list></item></list></item></list></item></list></item></list></item></list></item></list>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_1" cb:to="#end_1"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

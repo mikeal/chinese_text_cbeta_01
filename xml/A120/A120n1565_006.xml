@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="A120n1565">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Jin Edition of the Canon, Electronic version, No. 1565 瑜伽師地論義演(第1卷-第32卷)</title>
+			<author>唐 清素．澄淨述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $<date>$Date: 2012/03/06 06:43:18 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>18卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/03/06 06:43:18 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Jin Edition of the Canon Vol. 120, No. 1565 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB01002">
+	<charName>CBETA CHARACTER CB01002</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[得-彳]</value>
+	</charProp>
+	<mapping type="unicode">U+3775</mapping>
+	<mapping cb:dec="984042" type="PUA">U+F03EA</mapping>
+</char>
+<char xml:id="CB01008">
+	<charName>CBETA CHARACTER CB01008</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(暇-日)-(己-(乳-孚))+几]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>段</value>
+	</charProp>
+	<mapping cb:dec="984048" type="PUA">U+F03F0</mapping>
+</char>
+<char xml:id="CB02167">
+	<charName>CBETA CHARACTER CB02167</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[損-口+ㄙ]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>損</value>
+	</charProp>
+	<mapping cb:dec="985207" type="PUA">U+F0877</mapping>
+</char>
+<char xml:id="CB02547">
+	<charName>CBETA CHARACTER CB02547</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[而/火]</value>
+	</charProp>
+	<mapping type="unicode">U+43A1</mapping>
+	<mapping cb:dec="985587" type="PUA">U+F09F3</mapping>
+</char>
+<char xml:id="CB04974">
+	<charName>CBETA CHARACTER CB04974</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[夕/鹿]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>麤</value>
+	</charProp>
+	<mapping cb:dec="988014" type="PUA">U+F136E</mapping>
+</char>
+<char xml:id="CB06960">
+	<charName>CBETA CHARACTER CB06960</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[恕-女+工]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>恐</value>
+	</charProp>
+	<mapping type="unicode">U+22662</mapping>
+	<mapping cb:dec="990000" type="PUA">U+F1B30</mapping>
+</char>
+<char xml:id="CB07554">
+	<charName>CBETA CHARACTER CB07554</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[伭-〦+一]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>低</value>
+	</charProp>
+	<mapping type="normal_unicode">U+201D3</mapping>
+	<mapping cb:dec="990594" type="PUA">U+F1D82</mapping>
+</char>
+<char xml:id="CB07999">
+	<charName>CBETA CHARACTER CB07999</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[慢-又+方]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>慢</value>
+	</charProp>
+	<mapping type="unicode">U+22894</mapping>
+	<mapping cb:dec="991039" type="PUA">U+F1F3F</mapping>
+</char>
+<char xml:id="CB08891">
+	<charName>CBETA CHARACTER CB08891</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[栗-木+心]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>惡</value>
+	</charProp>
+	<mapping type="unicode">U+22663</mapping>
+	<mapping cb:dec="991931" type="PUA">U+F22BB</mapping>
+</char>
+<char xml:id="CB08974">
+	<charName>CBETA CHARACTER CB08974</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[惱-囟+山]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>惱</value>
+	</charProp>
+	<mapping type="unicode">U+22649</mapping>
+	<mapping cb:dec="992014" type="PUA">U+F230E</mapping>
+</char>
+<char xml:id="CB09510">
+	<charName>CBETA CHARACTER CB09510</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[矯-(夭/口)+右]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>矯</value>
+	</charProp>
+	<mapping cb:dec="992550" type="PUA">U+F2526</mapping>
+</char>
+<char xml:id="CB09895">
+	<charName>CBETA CHARACTER CB09895</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[牙-(必-心)+?]</value>
+	</charProp>
+	<mapping type="unicode">U+3E26</mapping>
+	<mapping cb:dec="992935" type="PUA">U+F26A7</mapping>
+</char>
+<char xml:id="CB10329">
+	<charName>CBETA CHARACTER CB10329</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宭-尹+工]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>害</value>
+	</charProp>
+	<mapping type="unicode">U+219F1</mapping>
+	<mapping cb:dec="993369" type="PUA">U+F2859</mapping>
+</char>
+<char xml:id="CB11673">
+	<charName>CBETA CHARACTER CB11673</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[邱-丘+(白-日+(丹-、+十))]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>那</value>
+	</charProp>
+	<mapping cb:dec="994713" type="PUA">U+F2D99</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2011-01-18T13:06:14">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">論卷第九</cb:mulu><cb:div type="other">
+<pb ed="A" xml:id="A120.1565.0263b" n="0263b"/>
+<lb ed="A" n="0263b01"/><milestone unit="juan" n="6"/><cb:mulu type="卷" n="6"></cb:mulu><p xml:id="pA120p0263b0101"><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0263b02"/><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0263b03"/>現經<unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>日月離所緣縛三明離繫断除種
+<lb ed="A" n="0263b04"/>子種現皆盡名解脫也。</p><cb:div type="orig"><p xml:id="pA120p0263b0410" rend="inline">論從諸欲至隨眠故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0263b0418" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0263b05"/><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0263b06"/><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0263b07"/>三次之五句彰所断染文分為五一欲所生漏謂除貪
+<lb ed="A" n="0263b08"/>外嗔恚等惑悉<anchor xml:id="beg_53" type="cb-app"/>已<anchor xml:id="end_53"/>断除餘准知也二眀匱乏謂因貪外
+<lb ed="A" n="0263b09"/>嗔等所生執杖歐擊身語<g ref="#CB08891">𢙣</g>行作<anchor xml:id="beg_54" type="cb-app"/>已<anchor xml:id="end_54"/>增長無諸善法名
+<lb ed="A" n="0263b10"/>為匱乏此華皆断名為出離據此等文欲恚<g ref="#CB10329">𡧱</g>三皆朋
+<lb ed="A" n="0263b11"/>出也有本云<g ref="#CB02167">󰡷</g>匱應勘餘<unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0263b12"/><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0263b13"/><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<pb ed="A" xml:id="A120.1565.0264a" n="0264a"/>
+<lb ed="A" n="0264a01"/><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0264a02"/><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0264a03"/><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0264a04"/><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0264a05"/><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0264a06"/><unclear></unclear><unclear></unclear><unclear></unclear>之<unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0264a07"/>五無相定六者空定<unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0264a08"/><g ref="#CB10329">𡧱</g>三不樂四貪恚俱捨五一切相六者我<unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear>
+<lb ed="A" n="0264a09"/>目前六種。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0264a0905" rend="inline">論謂我<anchor xml:id="beg_55" type="cb-app"/>已<anchor xml:id="end_55"/>修至建立此界。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0264a0915" rend="margin-left:1em;inline">演曰次明<unclear></unclear>
+<lb ed="A" n="0264a10"/>相文分為二先明立意後辯對治此初也此經具如集
+<lb ed="A" n="0264a11"/>異門足論第十五引今舉意云謂有具壽作如是言我
+<lb ed="A" n="0264a12"/><anchor xml:id="beg_56" type="cb-app"/>已<anchor xml:id="end_56"/>修慈及悲喜捨無相空定我心猶為恚<g ref="#CB10329">𡧱</g>不樂貪恚
+<lb ed="A" n="0264a13"/>俱捨眾相疑等之所纏繞應告彼云勿作是言所以者
+<lb ed="A" n="0264a14"/>何若有具壽於慈悲喜捨及無相空定修習<anchor xml:id="beg_57" type="cb-app"/>已<anchor xml:id="end_57"/>多所作
+<pb ed="A" xml:id="A120.1565.0264b" n="0264b"/>
+<lb ed="A" n="0264b01"/>無處無容其心猶為恚<g ref="#CB10329">𡧱</g>不樂貪恚俱捨眾相疑等之
+<lb ed="A" n="0264b02"/>所經縛無有是處謂慈心定乃至空定必能出離恚乃
+<lb ed="A" n="0264b03"/>至疑由荅外疑而建立也今此論等略舉初後是故慈等
+<lb ed="A" n="0264b04"/>非對治者舉彼疑詞雖得慈定恚等猶行明慈而非恚
+<lb ed="A" n="0264b05"/>等對治餘五准此當知為下正彰立意。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0264b0516" rend="inline">論是中恚等至
+<lb ed="A" n="0264b06"/>建立第六<unclear></unclear>。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0264b0606" rend="margin-left:1em;inline">演曰後辯對治分之為二初明通相後明
+<lb ed="A" n="0264b07"/>別相此初也前四通治如文自悉第五觀察聖住等者
+<lb ed="A" n="0264b08"/>觀察無相聖所住理建立第五無相對治觀察無學究
+<lb ed="A" n="0264b09"/>竟之理息除第六我<g ref="#CB07999">𢢔</g>之障。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0264b0912" rend="inline">論慈對治恚至是彼對
+<lb ed="A" n="0264b10"/>治。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0264b1002" rend="margin-left:1em;inline">演曰後明別相文分為六一慈治嗔恚二悲能治<g ref="#CB10329">𡧱</g>
+<lb ed="A" n="0264b11"/>三喜治不樂不樂謂嫉諸嫉姤者見他盛事情不樂故
+<lb ed="A" n="0264b12"/>四捨治貪恚理實捨能除貪恚癡然愛憎境起捨難故
+<lb ed="A" n="0264b13"/>故逐難說治貪及恚中容境上捨相易知故略不論實
+<pb ed="A" xml:id="A120.1565.0265a" n="0265a"/>
+<lb ed="A" n="0265a01"/>亦除癡五無相治相相縛皆無名治眾相六無<g ref="#CB07999">𢢔</g>治疑
+<lb ed="A" n="0265a02"/>我<g ref="#CB07999">𢢔</g>為本眾惑因生我<g ref="#CB07999">𢢔</g>既除疑等皆盡名為空也。</p></cb:div>
+<lb ed="A" n="0265a03"/><cb:div type="orig"><p xml:id="pA120p0265a0301">論此諸出離至容可現行。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0265a0311" rend="margin-left:1em;inline">演曰後惣結也此諸出離
+<lb ed="A" n="0265a04"/>修滿足者定超恚等未成滿者容許現行。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0265a0417" rend="inline">論又前五
+<lb ed="A" n="0265a05"/>種至聖住所攝。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0265a0507" rend="margin-left:1em;inline">演曰二明相攝文中有二初五後六
+<lb ed="A" n="0265a06"/>五中初四色天所攝名為天住第五無相名為聖住六
+<lb ed="A" n="0265a07"/>中初四梵住所攝四無量心名梵住故初五門中雖具
+<lb ed="A" n="0265a08"/>慈悲闕後二故從依名天不名梵也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0265a0815" rend="inline">論復次至故名
+<lb ed="A" n="0265a09"/>為依。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0265a0903" rend="margin-left:1em;inline">演曰三辯出離依文分三叚一摽釋依名二引
+<lb ed="A" n="0265a10"/>教分別三明起所因此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0265a1012" rend="inline">論世尊說依至是依非
+<lb ed="A" n="0265a11"/>識。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0265a1102" rend="margin-left:1em;inline">演曰二引教分別文中有二初摽後列次第可知。</p></cb:div>
+<lb ed="A" n="0265a12"/><cb:div type="orig"><p xml:id="pA120p0265a1201">論此四種依因何建立。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0265a1210" rend="margin-left:1em;inline">演曰三眀起因文分三叚一
+<lb ed="A" n="0265a13"/>徵二釋三結此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0265a1309" rend="inline">論補特伽羅四種別故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0265a1318" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0265a14"/>二釋分二初揔摽荅後隨別釋此略摽荅因四有情說
+<pb ed="A" xml:id="A120.1565.0265b" n="0265b"/>
+<lb ed="A" n="0265b01"/>四依故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0265b0104" rend="inline">論謂因謟詐至初依。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0265b0112" rend="margin-left:1em;inline">演曰後隨別釋文分
+<lb ed="A" n="0265b02"/>為二初列所因後明行相所因有四一因謟詐二因順
+<lb ed="A" n="0265b03"/>世三因自見四因聞極此初也有謟詐者內懷詭行外
+<lb ed="A" n="0265b04"/>現<g ref="#CB09510">󲔦</g>儀取相之徒慕為師矣師既顛墜資亦沉淪故
+<lb ed="A" n="0265b05"/>因此徒誡當依法人非依也<g ref="#CB06960">𢙢</g>初學流錯依憑故問涅
+<lb ed="A" n="0265b06"/>槃第六明人四依四依於世能多利益今誡依法彰人
+<lb ed="A" n="0265b07"/>叵憑二文乖違孰當可取荅依初學者說唯依法<g ref="#CB06960">𢙢</g>
+<lb ed="A" n="0265b08"/>所作者依邪威儀即便依學文遮魔羅及提婆等謟
+<lb ed="A" n="0265b09"/>詐之人不堪依也若依正行離謟詐者依之無失。</p></cb:div>
+<lb ed="A" n="0265b10"/><cb:div type="orig"><p xml:id="pA120p0265b1001">論因順世間至第二。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0265b1009" rend="margin-left:1em;inline">演曰二因順世世之淺法競飾
+<lb ed="A" n="0265b11"/>浮華賞文薎理今談義理出世可憑<g ref="#CB04974">󱍮</g>淺文詞不可
+<lb ed="A" n="0265b12"/>依也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0265b1203" rend="inline">論因住自見至第三。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0265b1211" rend="margin-left:1em;inline">演曰三因自見義雖所
+<lb ed="A" n="0265b13"/>依有了不了而見取者封自所習以為至極故對誡之
+<pb ed="A" xml:id="A120.1565.0266a" n="0266a"/>
+<lb ed="A" n="0266a01"/>當依了義不了義者勿堅著之。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0266a0113" rend="inline">論因聞為極至第四。</p></cb:div>
+<lb ed="A" n="0266a02"/><cb:div type="commentary"><p xml:id="pA120p0266a0201" rend="margin-left:1em">演曰四因聞極極有二種一世間之極謂人天勝果三
+<lb ed="A" n="0266a03"/>界唯心識為躰也二出世之極佛果菩提四智為躰謂
+<lb ed="A" n="0266a04"/>初學者聞說唯心將為極理不肯進修佛誡彼流當
+<lb ed="A" n="0266a05"/>須依智心如野馬無蹔時停識如幻人顛倒所起雖為
+<lb ed="A" n="0266a06"/>世本終非佛因唯有菩提可真依處<unclear></unclear>。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0266a0616" rend="inline">論因其謟詐
+<lb ed="A" n="0266a07"/>至現威儀故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0266a0706" rend="margin-left:1em;inline">演曰後明行相准前分四初文復二一
+<lb ed="A" n="0266a08"/>辯對諂說法依因二揀外法亦非所依此初也要假研
+<lb ed="A" n="0266a09"/>論正智得生非囑威儀智能起也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0266a0914" rend="inline">論即於此中至
+<lb ed="A" n="0266a10"/>不應執故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0266a1005" rend="margin-left:1em;inline">演曰二揀外法亦非所依顯佛所說人法
+<lb ed="A" n="0266a11"/>二中唯法是依是依之法佛法非俗俗法虛妄未為依
+<lb ed="A" n="0266a12"/>故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0266a1202" rend="inline">論法又二種至審觀察故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0266a1212" rend="margin-left:1em;inline">演曰二依義相如文
+<lb ed="A" n="0266a13"/>可知<unclear></unclear>。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0266a1304" rend="inline">論佛所說經至非不了義。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0266a1314" rend="margin-left:1em;inline">演曰三了義相二
+<lb ed="A" n="0266a14"/>邊之說皆非了義中道之言方了義也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0266a1416" rend="inline">論世尊至
+<pb ed="A" xml:id="A120.1565.0266b" n="0266b"/>
+<lb ed="A" n="0266b01"/>是依非識。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0266b0105" rend="margin-left:1em;inline">演曰四智依相文中有二初顯世間依識
+<lb ed="A" n="0266b02"/>所以後明出世說智所由於中有二一為向涅槃者說
+<lb ed="A" n="0266b03"/>四諦智二為隨法行者說聞思修智聞思等智依教
+<lb ed="A" n="0266b04"/>等生名法隨法行。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0266b0408" rend="inline">論略於四時至建立四依。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0266b0418" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0266b05"/>三結之也得法等者若依法義了義及智名為不失
+<lb ed="A" n="0266b06"/>若依人文不了義識名之為失始興信智了悟真詮
+<lb ed="A" n="0266b07"/>名得法時此時必待法非人也以假正教信智生故憶
+<lb ed="A" n="0266b08"/>念名教所悟不忘名任持時此能歸義義聡敏者解
+<lb ed="A" n="0266b09"/>乃不窮詞亦無竭即義惣持詳諸所詮優劣得失
+<lb ed="A" n="0266b10"/>名察義時此時必資了義教也因聞了義便起修行行
+<lb ed="A" n="0266b11"/>與教同名隨法行隨法之際必資於智智能利物證真
+<lb ed="A" n="0266b12"/>際故此之四種始末優劣修習為次。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0266b1215" rend="inline">論復次至二種
+<lb ed="A" n="0266b13"/>差別<note place="inline">八</note>。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0266b1304" rend="margin-left:1em;inline">演曰第三合釋第三第四作意所緣二種差
+<pb ed="A" xml:id="A120.1565.0267a" n="0267a"/>
+<lb ed="A" n="0267a01"/>別文分為二初結前生後次正辯二相此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0267a0119" rend="inline">論作
+<lb ed="A" n="0267a02"/>意差別至四十作意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0267a0209" rend="margin-left:1em;inline">演曰次正辯二中文分為二一
+<lb ed="A" n="0267a03"/>別明二相二合明二躰別中復二初明作意後辯所緣
+<lb ed="A" n="0267a04"/>初中有四一揔摽作意二別列其名三依摽辯釋四前
+<lb ed="A" n="0267a05"/>後相攝此初摽也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0267a0508" rend="inline">論云何至果作意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0267a0515" rend="margin-left:1em;inline">演曰二別列
+<lb ed="A" n="0267a06"/>其名文中有二初列七名後陳四十初中有二先徵後
+<lb ed="A" n="0267a07"/>列。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0267a0702" rend="inline">論云何四十至遍行作意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0267a0712" rend="margin-left:1em;inline">演曰後陳四十文中
+<lb ed="A" n="0267a08"/>有二先徵後列列中四十類例言之有十一類一法義
+<lb ed="A" n="0267a09"/>類謂初二作意二念處類謂次四種三假實類謂次二
+<lb ed="A" n="0267a10"/>作意四修習非習類謂學等三五断非断類謂遍知等
+<lb ed="A" n="0267a11"/>三六緣境有無類謂有影等四七止觀類謂勝解等六
+<lb ed="A" n="0267a12"/>八對治染汙類謂隨順等四九運轉類謂力勵等四
+<lb ed="A" n="0267a13"/>十修智類謂思擇等四十一三乘類謂他等四作意躰者
+<pb ed="A" xml:id="A120.1565.0267b" n="0267b"/>
+<lb ed="A" n="0267b01"/>遍行一也修定等時力增勝故而偏說也故雜集云謂
+<lb ed="A" n="0267b02"/>善順奢摩他毗鉢舍<g ref="#CB11673">󲶙</g>故謂於一境持心令住故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0267b0220" rend="inline">論
+<lb ed="A" n="0267b03"/>緣法作意至相應作意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0267b0310" rend="margin-left:1em;inline">演曰三依摽辯釋其七作意
+<lb ed="A" n="0267b04"/>下第十七二十八等具廣明之故此不釋釋四十中如列
+<lb ed="A" n="0267b05"/>所科亦分十一此即第一明法義類文中有二一法二義
+<lb ed="A" n="0267b06"/>如次聞思修作意為躰。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0267b0610" rend="inline">論緣身受心法至身等作意。</p></cb:div>
+<lb ed="A" n="0267b07"/><cb:div type="commentary"><p xml:id="pA120p0267b0701" rend="margin-left:1em">演曰二明念處類文中有四對彼身等四境不同分四
+<lb ed="A" n="0267b08"/>作意。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0267b0803" rend="inline">論勝解作意至增作意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0267b0812" rend="margin-left:1em;inline">演三假實類文分為
+<lb ed="A" n="0267b09"/>二先明勝解後明真實此初也由有漏觀未能真實故以
+<lb ed="A" n="0267b10"/>勝解於所欲事似彼相現而於此法有彼相生名為增益如
+<lb ed="A" n="0267b11"/>火觀者於餘非火皆發火相餘類此知雜集十一說此名為
+<lb ed="A" n="0267b12"/>一向世間作意故唯相假。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0267b1211" rend="inline">論真實作意至諸法作
+<lb ed="A" n="0267b13"/>意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0267b1302" rend="margin-left:1em;inline">演曰後明真實本後二智相應作意如境通愍
+<pb ed="A" xml:id="A120.1565.0268a" n="0268a"/>
+<lb ed="A" n="0268a01"/>名為真實故雜集云一向出世間及此後所得作意如
+<lb ed="A" n="0268a02"/>理思惟自共相者即後得智相謂相狀躰相二也思
+<lb ed="A" n="0268a03"/>惟真如即根本智相但躰相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0268a0312" rend="inline">論有學作意至世間
+<lb ed="A" n="0268a04"/>作意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0268a0403" rend="margin-left:1em;inline">演曰修非修類文中有三一學二無學三非
+<lb ed="A" n="0268a05"/>學非無學所學之法謂戒定慧三修進於此名為
+<lb ed="A" n="0268a06"/>有學進脩<anchor xml:id="beg_58" type="cb-app"/>已<anchor xml:id="end_58"/>滿名為無學非進非滿名為非二自
+<lb ed="A" n="0268a07"/>性謂即學等自躰名為學等相續謂身由在學
+<lb ed="A" n="0268a08"/>等相續身故亦名學等。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0268a0810" rend="inline">論遍知作意至而不断
+<lb ed="A" n="0268a09"/>惑。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0268a0902" rend="margin-left:1em;inline">演曰断非断類文分三<g ref="#CB01008">󰏰</g>一明非断二明正断
+<lb ed="A" n="0268a10"/>三明<anchor xml:id="beg_59" type="cb-app"/>已<anchor xml:id="end_59"/>断此初也謂加行道中雖觀惑相而未断也故
+<lb ed="A" n="0268a11"/>對法云遍知有三一因緣事遍知謂知煩惱隨眠未永
+<lb ed="A" n="0268a12"/>断故二自躰遍知謂知此煩惱生<anchor xml:id="beg_5a" type="cb-app"/>已<anchor xml:id="end_5a"/>煩惱乱心性三過患
+<lb ed="A" n="0268a13"/>遍知謂知此煩惱能引自他俱害能生現後法過能
+<pb ed="A" xml:id="A120.1565.0268b" n="0268b"/>
+<lb ed="A" n="0268b01"/>令有情受此所生身心憂惱。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0268b0112" rend="inline">論正断作意至俱作
+<lb ed="A" n="0268b02"/>二事。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0268b0203" rend="margin-left:1em;inline">演曰二明正断謂無間道由前<anchor xml:id="beg_5b" type="cb-app"/>已<anchor xml:id="end_5b"/>知一剎那
+<lb ed="A" n="0268b03"/>間知而正断名作二事。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0268b0310" rend="inline">論<anchor xml:id="beg_5c" type="cb-app"/>已<anchor xml:id="end_5c"/>断作意至所有作意。</p></cb:div>
+<lb ed="A" n="0268b04"/><cb:div type="commentary"><p xml:id="pA120p0268b0401" rend="margin-left:1em">演曰後明<anchor xml:id="beg_5d" type="cb-app"/>已<anchor xml:id="end_5d"/>断謂無間道後解脫勝進二種作意惣
+<lb ed="A" n="0268b05"/>名<anchor xml:id="beg_5e" type="cb-app"/>已<anchor xml:id="end_5e"/>断。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0268b0504" rend="inline">論有分別至毗鉢舍<g ref="#CB11673">󲶙</g>。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0268b0513" rend="margin-left:1em;inline">演曰六緣境有無
+<lb ed="A" n="0268b06"/>類文分為四一有分別境二無分別境三邊際所緣四
+<lb ed="A" n="0268b07"/>成辦所緣此初先明有分別境謂此觀品審察推度名
+<lb ed="A" n="0268b08"/>有分別分別蘊等善巧相現名為影像分別所緣
+<lb ed="A" n="0268b09"/>作意謂由此者由此作意作意為先方能修緣分別躰
+<lb ed="A" n="0268b10"/>境毗鉢舍<g ref="#CB11673">󲶙</g>分別躰謂本質是前分別影像本質名
+<lb ed="A" n="0268b11"/>分別躰觀心所取復名為境。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0268b1112" rend="inline">論無分別至奢摩他。</p></cb:div>
+<lb ed="A" n="0268b12"/><cb:div type="commentary"><p xml:id="pA120p0268b1201" rend="margin-left:1em">演曰二無分別境若據隨心相分說者定所緣境名無
+<lb ed="A" n="0268b13"/>分別約質而論亦名分別但以慧品強故推求分別止
+<pb ed="A" xml:id="A120.1565.0269a" n="0269a"/>
+<lb ed="A" n="0269a01"/>品劣故多無分別理實同緣二皆分別問雜集十一說
+<lb ed="A" n="0269a02"/>有分別影像所緣謂由勝解作意所有止觀所緣境
+<lb ed="A" n="0269a03"/>也無分別影像所緣謂由真實作意所有止觀所緣
+<lb ed="A" n="0269a04"/>境也何故與此說不同耶荅謂有漏止觀皆有分別虛
+<lb ed="A" n="0269a05"/>妄分別為自性故若無漏攝皆無分別遠離虛妄分別
+<lb ed="A" n="0269a06"/>性故不同此處觀品強故名有分別止品劣故名無分
+<lb ed="A" n="0269a07"/>別。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0269a0702" rend="inline">論事邊際所緣至身受心法。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0269a0713" rend="margin-left:1em;inline">演曰三邊際所緣
+<lb ed="A" n="0269a08"/>事謂躰事邊際窮極謂四念住攝諸所緣理事盡名
+<lb ed="A" n="0269a09"/>事邊際二十六中舉盡所有性如所有性名事邊際同
+<lb ed="A" n="0269a10"/>對法論<g ref="#CB09895">㸦</g>舉一邊亦無違也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0269a1012" rend="inline">論所作成辦至所緣作
+<lb ed="A" n="0269a11"/>意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0269a1102" rend="margin-left:1em;inline">演曰四成辦所緣修止觀時作意圓滿名為成辦
+<lb ed="A" n="0269a12"/>非唯果滿名為成辨故二十六云云何所作成辦謂修止
+<lb ed="A" n="0269a13"/>觀者修習為因諸緣影像所有作意皆得圓滿<note place="inline">此圓滿故</note>便
+<pb ed="A" xml:id="A120.1565.0269b" n="0269b"/>
+<lb ed="A" n="0269b01"/>得轉依一切<g ref="#CB04974">󱍮</g>重皆悉息滅得轉依故超過影像於所知
+<lb ed="A" n="0269b02"/>事有無分別現量智生名作意辦言如此等者謂我
+<lb ed="A" n="0269b03"/>思惟如此如此謂在觀中思惟本質本質類多重言
+<lb ed="A" n="0269b04"/>如此如是如是思惟影像止觀雙運了知如是當有
+<lb ed="A" n="0269b05"/>如此如此隨眠可斷當辦如是如是真智可生及緣
+<lb ed="A" n="0269b06"/>無為離障清淨功用成就名辦所緣。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0269b0615" rend="inline">論勝解思擇
+<lb ed="A" n="0269b07"/>至而為上首。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0269b0706" rend="margin-left:1em;inline">演曰七止觀類中十一作意分之為
+<lb ed="A" n="0269b08"/>二先辯行相次顯功能初中有六此即第一先明觀
+<lb ed="A" n="0269b09"/>體觀有二類一由此之作意力故最初思擇唯慧無
+<lb ed="A" n="0269b10"/>定或因止力所引慧生並名觀也止上首者定引慧
+<lb ed="A" n="0269b11"/>也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0269b1102" rend="inline">論寂靜作意至而為上首。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0269b1112" rend="margin-left:1em;inline">演曰二明止品止
+<lb ed="A" n="0269b12"/>亦有二一由寂靜作意力故最初安心唯定無慧或
+<lb ed="A" n="0269b13"/>因觀品而所引生盡名止也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0269b1312" rend="inline">論一分修至隨修一
+<pb ed="A" xml:id="A120.1565.0270a" n="0270a"/>
+<lb ed="A" n="0270a01"/>分。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0270a0102" rend="margin-left:1em;inline">演曰三明分修下十三云或時作意思惟光明
+<lb ed="A" n="0270a02"/>或時作意思惟色相而入於定於二境中隨修於一
+<lb ed="A" n="0270a03"/>名一分修。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0270a0305" rend="inline">論具分修至二分雙修。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0270a0314" rend="margin-left:1em;inline">演曰四明具
+<lb ed="A" n="0270a04"/>修思惟光明亦了色相了色相時亦思光明二分雙
+<lb ed="A" n="0270a05"/>習名曰具修。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0270a0506" rend="inline">論無間作意至相續而轉。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0270a0516" rend="margin-left:1em;inline">演曰五
+<lb ed="A" n="0270a06"/>明無間一切時中斯須不捨名無間修。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0270a0616" rend="inline">論慇重作
+<lb ed="A" n="0270a07"/>意至加行方便。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0270a0707" rend="margin-left:1em;inline">演曰六明慇重尊崇敬奉名慇重
+<lb ed="A" n="0270a08"/>修。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0270a0802" rend="inline">論此中至淨修智見。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0270a0810" rend="margin-left:1em;inline">演曰次顯功能文分為
+<lb ed="A" n="0270a09"/>五一修智見由思擇力智得增明名修智見。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0270a0918" rend="inline">論由
+<lb ed="A" n="0270a10"/>寂靜作意故生長輕安。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0270a1010" rend="margin-left:1em;inline">演曰二修輕安定起輕安
+<lb ed="A" n="0270a11"/>皆由寂靜故名寂靜生長輕安。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0270a1113" rend="inline">論由一分至心得
+<lb ed="A" n="0270a12"/>解脫。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0270a1203" rend="margin-left:1em;inline">演曰三明蓋脫障治相違二分起時蓋便解
+<lb ed="A" n="0270a13"/>脫。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0270a1302" rend="inline">論由無間至心得解脫。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0270a1311" rend="margin-left:1em;inline">演曰四明結脫由二
+<pb ed="A" xml:id="A120.1565.0270b" n="0270b"/>
+<lb ed="A" n="0270b01"/>作意九結俱亡心亦解脫。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0270b0111" rend="inline">論又由無間至速證通
+<lb ed="A" n="0270b02"/>慧。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0270b0202" rend="margin-left:1em;inline">演曰五不虛棄速成通慧。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0270b0212" rend="inline">論隨順作意至順
+<lb ed="A" n="0270b03"/>斷煩惱。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0270b0304" rend="margin-left:1em;inline">演曰八對治染汙類作意有四一明隨順
+<lb ed="A" n="0270b04"/>謂加行道猒壞所緣順斷惑故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0270b0413" rend="inline">論對治作意至遠
+<lb ed="A" n="0270b05"/>離相續。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0270b0504" rend="margin-left:1em;inline">演曰二明正斷文中有二一正捨諸惑謂
+<lb ed="A" n="0270b06"/>無間道二任持斷道令惑轉遠謂解脫道謂此道中
+<lb ed="A" n="0270b07"/>令所斷惑更不生故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0270b0709" rend="inline">論順清淨至諸法道理。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0270b0718" rend="margin-left:1em;inline">演
+<lb ed="A" n="0270b08"/>曰三明順淨四順觀察此二作意俱勝進道謂修六
+<lb ed="A" n="0270b09"/>念或思妙事或觀所斷及與所證皆於勝進道中作
+<lb ed="A" n="0270b10"/>此觀也故對法云或勤方便思惟諸法名勝進道六
+<lb ed="A" n="0270b11"/>隨念者即念佛等六。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0270b1109" rend="inline">論力勵運轉至阿羅漢時。</p></cb:div>
+<lb ed="A" n="0270b12"/><cb:div type="commentary"><p xml:id="pA120p0270b1201" rend="margin-left:1em">演曰九運轉類作意有四一明力勵二明有間三明
+<lb ed="A" n="0270b13"/>功用四辯自然自然作意有四時者一得作意得第
+<lb ed="A" n="0270b14"/>六七二作意時二正<anchor xml:id="beg_5f" type="cb-app"/>已<anchor xml:id="end_5f"/>入而由得此二作意故能正
+<pb ed="A" xml:id="A120.1565.0271a" n="0271a"/>
+<lb ed="A" n="0271a01"/><anchor xml:id="beg_60" type="cb-app"/>已<anchor xml:id="end_60"/>入根本靜慮此前二時是道前方便者也三由方
+<lb ed="A" n="0271a02"/>便得入見修修於現觀四無學道正得作意<anchor xml:id="beg_61" type="cb-app"/>已<anchor xml:id="end_61"/>得作
+<lb ed="A" n="0271a03"/>意如其次第無間解脫二作意也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0271a0314" rend="inline">論思擇作意至
+<lb ed="A" n="0271a04"/>不復現行。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0271a0405" rend="margin-left:1em;inline">演曰十修智類有四作意一明思擇二
+<lb ed="A" n="0271a05"/>明內攝三明淨障四辯所行如文可悉。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0271a0516" rend="inline">論他所建
+<lb ed="A" n="0271a06"/>立至所有作意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0271a0607" rend="margin-left:1em;inline">演曰十一辯三乘類作意有四一
+<lb ed="A" n="0271a07"/>他所建立謂諸聲聞二內增上取謂獨覺等三廣大
+<lb ed="A" n="0271a08"/>作意謂諸菩薩四遍行作意謂佛世尊義可知也。</p></cb:div>
+<lb ed="A" n="0271a09"/><cb:div type="orig"><p xml:id="pA120p0271a0901">論此中了相至唯攝緣義。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0271a0911" rend="margin-left:1em;inline">演曰四前後相攝前七
+<lb ed="A" n="0271a10"/>作意攝後四十文同前判有十一類此當第一攝法
+<lb ed="A" n="0271a11"/>義二了相作意通聞修慧故攝二種體非欲界不通
+<lb ed="A" n="0271a12"/>思慧餘六攝義唯是修慧故三十三云即由如是定
+<lb ed="A" n="0271a13"/>地作意於欲界中了為<g ref="#CB04974">󱍮</g>相故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0271a1313" rend="inline">論緣身等境至遍
+<lb ed="A" n="0271a14"/>在七攝。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0271a1404" rend="margin-left:1em;inline">演曰二攝念處四聞修等慧普緣四境相
+<pb ed="A" xml:id="A120.1565.0271b" n="0271b"/>
+<lb ed="A" n="0271b01"/>應作意遍故遍七攝。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0271b0109" rend="inline">論了相勝解至當知隨應。</p></cb:div>
+<lb ed="A" n="0271b02"/><cb:div type="commentary"><p xml:id="pA120p0271b0201" rend="margin-left:1em">演曰三攝假實二了相勝解加行究竟果作意通攝
+<lb ed="A" n="0271b03"/>勝解真實作意者了相通在初修及無學一切初修
+<lb ed="A" n="0271b04"/>多唯勝解無學等修多是真實勝解既為近加行道
+<lb ed="A" n="0271b05"/>理通假實究竟果作意在根本地中一切時位假實
+<lb ed="A" n="0271b06"/>理通觀察作意唯攝勝解者是中三品勝進道故初
+<lb ed="A" n="0271b07"/>假解修不說通實為後加行理亦通真餘三作意唯
+<lb ed="A" n="0271b08"/>攝真實者為無間道多觀真故此就前門就餘門
+<lb ed="A" n="0271b09"/>者當知隨應者此就前說七作意相與二相攝就餘
+<lb ed="A" n="0271b10"/>別義了相多唯勝解初起修故究竟果唯真實解脫
+<lb ed="A" n="0271b11"/>道故觀察作意通勝解真實能為勝進加行道故餘
+<lb ed="A" n="0271b12"/>四如前故說就餘門當知隨應不說七種皆與前別
+<lb ed="A" n="0271b13"/>也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0271b1302" rend="inline">論七種作意至果作意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0271b1311" rend="margin-left:1em;inline">演曰四修習非習攝
+<lb ed="A" n="0271b14"/>文中有二初七作意攝學非二後了相及果但攝無
+<pb ed="A" xml:id="A120.1565.0272a" n="0272a"/>
+<lb ed="A" n="0272a01"/>學無學位中能了清淨自共相故究竟果者是無學
+<lb ed="A" n="0272a02"/>故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0272a0202" rend="inline">論了相至<anchor xml:id="beg_62" type="cb-app"/>已<anchor xml:id="end_62"/>斷作意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0272a0210" rend="margin-left:1em;inline">演曰五斷非斷攝文中
+<lb ed="A" n="0272a03"/>有三初攝遍知謂了相等三非治道故遍知所攝次
+<lb ed="A" n="0272a04"/>攝正斷謂遠離等三是斷道故故攝正斷後攝<anchor xml:id="beg_63" type="cb-app"/>已<anchor xml:id="end_63"/>斷
+<lb ed="A" n="0272a05"/>究竟果中惑盡方得故攝<anchor xml:id="beg_64" type="cb-app"/>已<anchor xml:id="end_64"/>斷。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0272a0513" rend="inline">論觀察至作意所
+<lb ed="A" n="0272a06"/>攝。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0272a0602" rend="margin-left:1em;inline">演曰六緣境有無攝文中有四觀察慧增攝有
+<lb ed="A" n="0272a07"/>分別餘六止觀而無偏故故通攝二邊際義寬通七
+<lb ed="A" n="0272a08"/>作意所作成辦義分兩種若就初門未至定說攝七
+<lb ed="A" n="0272a09"/>作意修習定時有七意故若就第二根本定門唯攝
+<lb ed="A" n="0272a10"/>果滿根本定中所作成辦與餘作意不相應故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0272a1019" rend="inline">論
+<lb ed="A" n="0272a11"/>最初勝解至遍一切攝。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0272a1110" rend="margin-left:1em;inline">演曰七止觀攝前辯類中
+<lb ed="A" n="0272a12"/>文分為二先六行相後五功能今相攝中但明行相
+<lb ed="A" n="0272a13"/>略無功能攝六相中文分為四一攝第一擇法思慧
+<lb ed="A" n="0272a14"/>而非定法七種作意是定地収故不相攝若止為首
+<pb ed="A" xml:id="A120.1565.0272b" n="0272b"/>
+<lb ed="A" n="0272b01"/>便攝七種定類同故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0272b0109" rend="inline">論若最初寂靜至亦尒。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0272b0118" rend="margin-left:1em;inline">演
+<lb ed="A" n="0272b02"/>曰二攝第二依欲界心安住內境名初寂靜即七不
+<lb ed="A" n="0272b03"/>攝若依觀品所引修慧名寂靜作意七作意攝同初
+<lb ed="A" n="0272b04"/>義中有攝不攝故云亦尒。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0272b0411" rend="inline">論前六作意至唯攝具
+<lb ed="A" n="0272b05"/>分修。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0272b0503" rend="margin-left:1em;inline">演曰三攝三四前六作意修止及觀有全有
+<lb ed="A" n="0272b06"/>分故雙攝之第七必全故唯攝具。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0272b0614" rend="inline">論無間至遍一
+<lb ed="A" n="0272b07"/>切攝。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0272b0703" rend="margin-left:1em;inline">演曰四攝五六行相既通故七皆攝。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0272b0717" rend="inline">論隨
+<lb ed="A" n="0272b08"/>順作意至就斷對治說。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0272b0810" rend="margin-left:1em;inline">演曰八對治染汙攝文分
+<lb ed="A" n="0272b09"/>為二初依治辯次約餘攝初中復二先攝後結攝中
+<lb ed="A" n="0272b10"/>有四一了相勝解二攝隨順二遠離加行究竟二種
+<lb ed="A" n="0272b11"/>加行道故攝對治攝樂作意通於四道今攝前二故
+<lb ed="A" n="0272b12"/>云一分三順清淨者是勝進道攝樂一分而攝之也
+<lb ed="A" n="0272b13"/>四順觀察者全是勝進故與觀察全相攝也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0272b1318" rend="inline">論若
+<lb ed="A" n="0272b14"/>就所餘隨應當知。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0272b1408" rend="margin-left:1em;inline">演曰次約餘辯依修智等所餘
+<pb ed="A" xml:id="A120.1565.0273a" n="0273a"/>
+<lb ed="A" n="0273a01"/>門者隨順通攝了相勝解攝樂觀察四作意也順清
+<lb ed="A" n="0273a02"/>淨作意通攝攝樂觀察所攝餘如前說故言隨應。</p></cb:div>
+<lb ed="A" n="0273a03"/><cb:div type="orig"><p xml:id="pA120p0273a0301">論力勵運轉至二作意攝。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0273a0311" rend="margin-left:1em;inline">演曰九運轉等四攝力
+<lb ed="A" n="0273a04"/>勵初習唯散非定故七不攝有閒運轉有功用運轉
+<lb ed="A" n="0273a05"/>比二作意但攝七中前四作意故云乃至攝樂所攝
+<lb ed="A" n="0273a06"/>自然運轉攝彼二者以無間解脫自然轉故不說觀
+<lb ed="A" n="0273a07"/>察者彼勝進攝此非勝進故不攝也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0273a0715" rend="inline">論思擇作意
+<lb ed="A" n="0273a08"/>至作意所攝。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0273a0806" rend="margin-left:1em;inline">演曰十修智類攝思擇作意了相攝
+<lb ed="A" n="0273a09"/>者依初修門多起慧故非餘不攝內攝作意勝解攝
+<lb ed="A" n="0273a10"/>者依創無間內緣之門非餘不攝淨障作意觀察攝
+<lb ed="A" n="0273a11"/>者審察煩惱斷與未斷順淨障故非實彼攝觀察非
+<lb ed="A" n="0273a12"/>正無間道故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0273a1206" rend="inline">論他所建立至一切所攝。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0273a1216" rend="margin-left:1em;inline">演曰十一
+<lb ed="A" n="0273a13"/>三乘相攝文分為二初別廣明次重料揀此初也廣
+<lb ed="A" n="0273a14"/>大作意七皆不攝無住涅盤悲智建立二利行廣非
+<pb ed="A" xml:id="A120.1565.0273b" n="0273b"/>
+<lb ed="A" n="0273b01"/>七攝也七唯自利非廣行故遍行作意而有兩種初
+<lb ed="A" n="0273b02"/>屬世尊唯第七攝佛自利德故唯果攝第二菩薩菩
+<lb ed="A" n="0273b03"/>薩自利亦通七攝。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0273b0308" rend="inline">論又了相作意至傳為其緣。</p></cb:div>
+<lb ed="A" n="0273b04"/><cb:div type="commentary"><p xml:id="pA120p0273b0401" rend="margin-left:1em">演曰次重料揀了相作意通聞修慧由聞他音修定
+<lb ed="A" n="0273b05"/>相應得聲聞果故他所攝了相作意內增上者在先
+<lb ed="A" n="0273b06"/>資糧為果時緣得有了相除此餘時而即無也以不
+<lb ed="A" n="0273b07"/>待他音證自果故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0273b0708" rend="inline">論復次云何所緣差別。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0273b0717" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0273b08"/>後辯所緣文分為二先問後荅此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0273b0816" rend="inline">論謂相差
+<lb ed="A" n="0273b09"/>別。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0273b0902" rend="margin-left:1em;inline">演曰後荅分二先揔次別此揔荅也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0273b0916" rend="inline">論何等
+<lb ed="A" n="0273b10"/>為相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0273b1003" rend="margin-left:1em;inline">演曰次別分二初明四相後三十二相初中
+<lb ed="A" n="0273b11"/>有三一躡前徵起二標數略荅三依標廣辯此初也。</p></cb:div>
+<lb ed="A" n="0273b12"/><cb:div type="orig"><p xml:id="pA120p0273b1201">論略有四種至應修習相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0273b1211" rend="margin-left:1em;inline">演曰二標數略荅。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0273b1218" rend="inline">論
+<lb ed="A" n="0273b13"/>所緣相者至分別體相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0273b1310" rend="margin-left:1em;inline">演曰三依標廣辯文分三
+<lb ed="A" n="0273b14"/>段一明所緣二明因相三明後二此初也相分名事
+<pb ed="A" xml:id="A120.1565.0274a" n="0274a"/>
+<lb ed="A" n="0274a01"/>見分名體定所緣相從識所生不離識故名分別相。</p></cb:div>
+<lb ed="A" n="0274a02"/><cb:div type="orig"><p xml:id="pA120p0274a0201">論因緣相者謂定資糧。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0274a0210" rend="margin-left:1em;inline">演曰二明因相謂無悔歡
+<lb ed="A" n="0274a03"/>等名定資糧。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0274a0306" rend="inline">論應遠離相至此四種相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0274a0316" rend="margin-left:1em;inline">演曰三
+<lb ed="A" n="0274a04"/>明後二文分為二先揔標列後各別釋此揔標列後
+<lb ed="A" n="0274a05"/>二相也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0274a0504" rend="inline">論何等至不樂攀緣。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0274a0512" rend="margin-left:1em;inline">演曰後各別釋文
+<lb ed="A" n="0274a06"/>分為二先辯遠離後彰修習初中有四一沉二掉三
+<lb ed="A" n="0274a07"/>亂四著此初沉相略有二種先明通相後明別相通
+<lb ed="A" n="0274a08"/>相有四一不守根門二食不知量三初夜後夜不常
+<lb ed="A" n="0274a09"/>悟等四不正知住癡行等下廣明別相約相增說以
+<lb ed="A" n="0274a10"/>癡為性理實心惛懵重為體。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0274a1012" rend="inline">論何等掉相至動亂
+<lb ed="A" n="0274a11"/>其心。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0274a1103" rend="margin-left:1em;inline">演曰二明掉相文中亦二初通後別別相貪
+<lb ed="A" n="0274a12"/>體太舉俱行如前欲等等勤心觀與舉俱行體即掉
+<lb ed="A" n="0274a13"/>舉。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0274a1302" rend="inline">論何等亂相至不亂相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0274a1311" rend="margin-left:1em;inline">演曰三明亂相體即
+<lb ed="A" n="0274a14"/>散亂通相如前別相鈍根即貪嗔等三分為體謂貪
+<pb ed="A" xml:id="A120.1565.0274b" n="0274b"/>
+<lb ed="A" n="0274b01"/>瞋癡令心流蕩勝餘法故說為散亂。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0274b0115" rend="inline">論何等著相
+<lb ed="A" n="0274b02"/>至無出離見。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0274b0206" rend="margin-left:1em;inline">演曰四明著相通相同前別相即貪
+<lb ed="A" n="0274b03"/>或眾煩惱隨於所樂而愛味故故於無上出離正道
+<lb ed="A" n="0274b04"/>不生正見即不正知。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0274b0409" rend="inline">論對治如是至應修習相。</p></cb:div>
+<lb ed="A" n="0274b05"/><cb:div type="commentary"><p xml:id="pA120p0274b0501" rend="margin-left:1em">演曰後彰修習遠離<g ref="#CB08891">𢙣</g>法即名修習。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0274b0515" rend="inline">論復有至引
+<lb ed="A" n="0274b06"/>發相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0274b0603" rend="margin-left:1em;inline">演曰後三十二相文分為二初三十二體後
+<lb ed="A" n="0274b07"/>攝歸四相初中復二一標數列名二隨標別釋此初
+<lb ed="A" n="0274b08"/>標列三十二名。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0274b0807" rend="inline">論云何自心相至被染汙心。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0274b0818" rend="margin-left:1em;inline">演
+<lb ed="A" n="0274b09"/>曰二隨標別釋如列所科三十二<g ref="#CB01008">󰏰</g>此即第一明自
+<lb ed="A" n="0274b10"/>心相文中有二先徵後釋自心相者謂以自心為所
+<lb ed="A" n="0274b11"/>緣境自心即相名自心相持業釋也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0274b1115" rend="inline">論云何外相
+<lb ed="A" n="0274b12"/>至不現行故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0274b1206" rend="margin-left:1em;inline">演曰二明外相外境名外光淨等相
+<lb ed="A" n="0274b13"/>謂本質也設相分光亦名為外而非心故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0274b1317" rend="inline">論云何
+<lb ed="A" n="0274b14"/>所依相至并種子相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0274b1409" rend="margin-left:1em;inline">演曰三所依相謂自五蘊所
+<pb ed="A" xml:id="A120.1565.0275a" n="0275a"/>
+<lb ed="A" n="0275a01"/>依止故并種子者果所依故分別體者分別所生不
+<lb ed="A" n="0275a02"/>離心故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0275a0204" rend="inline">論云何所行相至分別體相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275a0215" rend="margin-left:1em;inline">演曰四所
+<lb ed="A" n="0275a03"/>行相謂彼六塵心所行處名所行相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0275a0315" rend="inline">論云何作意
+<lb ed="A" n="0275a04"/>至名作意相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275a0406" rend="margin-left:1em;inline">演曰五作意相作意即相名作意相。</p></cb:div>
+<lb ed="A" n="0275a05"/><cb:div type="orig"><p xml:id="pA120p0275a0501">論云何心起相至名心起相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275a0512" rend="margin-left:1em;inline">演曰六心起相凡心
+<lb ed="A" n="0275a06"/>起者皆由作意故取次前以為一相第二相者心所
+<lb ed="A" n="0275a07"/>思惟行及名色為境起心名心起相或為因依亦起
+<lb ed="A" n="0275a08"/>心也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0275a0803" rend="inline">論云何安住相至名安住相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275a0814" rend="margin-left:1em;inline">演曰七安住
+<lb ed="A" n="0275a09"/>相四蘊是識所安住故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0275a0910" rend="inline">論云何自相相至名自相
+<lb ed="A" n="0275a10"/>相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275a1002" rend="margin-left:1em;inline">演曰八自相相文中有二一自類自相如色非
+<lb ed="A" n="0275a11"/>受名自類相二各別自相謂色中十一體各不同名
+<lb ed="A" n="0275a12"/>各別相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0275a1204" rend="inline">論云何共相相至名共相相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275a1215" rend="margin-left:1em;inline">演曰九明
+<lb ed="A" n="0275a13"/>共相文中有三一諸行共相謂無常相二有漏共相
+<lb ed="A" n="0275a14"/>謂苦相也三一切共相謂空無我。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0275a1414" rend="inline">論云何<g ref="#CB04974">󱍮</g>相至
+<pb ed="A" xml:id="A120.1565.0275b" n="0275b"/>
+<lb ed="A" n="0275b01"/>一切靜相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275b0105" rend="margin-left:1em;inline">演曰十及十一<g ref="#CB04974">󱍮</g>靜二相如下具辯。</p></cb:div>
+<lb ed="A" n="0275b02"/><cb:div type="orig"><p xml:id="pA120p0275b0201">論云何領納相至諸行之相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275b0212" rend="margin-left:1em;inline">演曰十二領納相曾
+<lb ed="A" n="0275b03"/>所更境憶持不忘名領納相若不憶持非領納也。</p></cb:div>
+<lb ed="A" n="0275b04"/><cb:div type="orig"><p xml:id="pA120p0275b0401">論云何分別至諸行之相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275b0411" rend="margin-left:1em;inline">演曰十三分別相未來
+<lb ed="A" n="0275b05"/>體無依心說有名分別相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0275b0511" rend="inline">論云何俱行相至諸行
+<lb ed="A" n="0275b06"/>之相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275b0603" rend="margin-left:1em;inline">演曰十四俱行相謂現在心分別諸行心境
+<lb ed="A" n="0275b07"/>俱時名俱行相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0275b0707" rend="inline">論云何染汙相至不染汙相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275b0718" rend="margin-left:1em;inline">演
+<lb ed="A" n="0275b08"/>曰十五染汙十六不染合明分二初標後釋此初略
+<lb ed="A" n="0275b09"/>標二相別也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0275b0906" rend="inline">論此中至成不染汙。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275b0914" rend="margin-left:1em;inline">演曰後釋分
+<lb ed="A" n="0275b10"/>二初釋染汙後明不染此中二類雖<anchor xml:id="beg_65" type="cb-app"/>已<anchor xml:id="end_65"/>發起出離之
+<lb ed="A" n="0275b11"/>心於斷煩惱不修方便觀有貪等貪等猶在名染
+<lb ed="A" n="0275b12"/>汙相若修方便觀心廣略或高下等伏斷隨眠貪等
+<lb ed="A" n="0275b13"/>不生名不染汙次文重釋纏及隨眠名染汙相種現
+<lb ed="A" n="0275b14"/>盡時名不染汙。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0275b1407" rend="inline">論云何正方便至心被染相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0275b1418" rend="margin-left:1em;inline">演
+<pb ed="A" xml:id="A120.1565.0276a" n="0276a"/>
+<lb ed="A" n="0276a01"/>曰十七正方便十八邪方便此二行相如文可知。</p></cb:div>
+<lb ed="A" n="0276a02"/><cb:div type="orig"><p xml:id="pA120p0276a0201">論云何光明相至建立此相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0276a0212" rend="margin-left:1em;inline">演曰十九光明相文
+<lb ed="A" n="0276a03"/>中有二一治闇光謂日光明等治外黑闇二法光明
+<lb ed="A" n="0276a04"/>謂三慧光能治內闇無明等障懇到者說文云懇者
+<lb ed="A" n="0276a05"/>至誠也到謂極也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0276a0508" rend="inline">論云何觀察至能取法觀。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0276a0518" rend="margin-left:1em;inline">演
+<lb ed="A" n="0276a06"/>曰二十觀察相文中有三一現觀未來未來未起而
+<lb ed="A" n="0276a07"/>得坐名現在<anchor xml:id="beg_66" type="cb-app"/>已<anchor xml:id="end_66"/>生名為住立二現觀過去過去<anchor xml:id="beg_67" type="cb-app"/>已<anchor xml:id="end_67"/>滅名
+<lb ed="A" n="0276a08"/>之為臥現在隣滅復得坐名夫欲臥者必先坐故三
+<lb ed="A" n="0276a09"/>現觀現在謂心觀心展轉展轉後觀於前名為二也。</p></cb:div>
+<lb ed="A" n="0276a10"/><cb:div type="orig"><p xml:id="pA120p0276a1001">論云何賢善至故名賢善。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0276a1011" rend="margin-left:1em;inline">演曰二十一賢善定相文
+<lb ed="A" n="0276a11"/>中有四一問二荅三徵四釋文顯可知。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0276a1116" rend="inline">論云何止
+<lb ed="A" n="0276a12"/>相至影像之相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0276a1207" rend="margin-left:1em;inline">演曰二十二止相為治分別故修
+<lb ed="A" n="0276a13"/>止相所以止相名無分別。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0276a1311" rend="inline">論云何舉相至光明相相。</p></cb:div>
+<lb ed="A" n="0276a14"/><cb:div type="commentary"><p xml:id="pA120p0276a1401" rend="margin-left:1em">演曰二十三舉相治沉下故於外境中隨緣一種淨
+<pb ed="A" xml:id="A120.1565.0276b" n="0276b"/>
+<lb ed="A" n="0276b01"/>妙之色筞舉其心名為舉相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0276b0112" rend="inline">論云何觀相至增上
+<lb ed="A" n="0276b02"/>捨相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0276b0203" rend="margin-left:1em;inline">演曰二十四五觀及捨也三慧思修名為觀
+<lb ed="A" n="0276b03"/>相心住平等名為捨相廣如下辯。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0276b0314" rend="inline">論云何入定相
+<lb ed="A" n="0276b04"/>至而現在前。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0276b0406" rend="margin-left:1em;inline">演曰二十六入定相入相有三一因
+<lb ed="A" n="0276b05"/>緣相二所緣相三應修習相此三一一皆為定因名
+<lb ed="A" n="0276b06"/>為入相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0276b0604" rend="inline">論云何位定相至得不退法。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0276b0615" rend="margin-left:1em;inline">演曰二十
+<lb ed="A" n="0276b07"/>七住定相住相有三一能善取二能安住三能不退
+<lb ed="A" n="0276b08"/>具此三義名為住相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0276b0809" rend="inline">論云何出定相至不定地相。</p></cb:div>
+<lb ed="A" n="0276b09"/><cb:div type="commentary"><p xml:id="pA120p0276b0901" rend="margin-left:1em">演曰二十八出定相雖定散心通名分別此散心體
+<lb ed="A" n="0276b10"/>定所不攝不定地収名出定相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0276b1013" rend="inline">論云何增相至狹
+<lb ed="A" n="0276b11"/>小故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0276b1103" rend="margin-left:1em;inline">演曰二十九增相三十減相三十一方便相
+<lb ed="A" n="0276b12"/>前二增減第三與前二為方便義類同故如文可知。</p></cb:div>
+<lb ed="A" n="0276b13"/><cb:div type="orig"><p xml:id="pA120p0276b1301">論云何引發相至如是等相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0276b1312" rend="margin-left:1em;inline">演曰三十二引發相
+<lb ed="A" n="0276b14"/>文中有二初徵後釋釋中有四一由通力於一字義
+<pb ed="A" xml:id="A120.1565.0277a" n="0277a"/>
+<lb ed="A" n="0277a01"/>能引無邊廣愽名義二能引發無諍等智三由定力
+<lb ed="A" n="0277a02"/>能發諸餘力無畏等無邊功德四由定力能達句義
+<lb ed="A" n="0277a03"/>得微妙智能引此等名引發相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0277a0313" rend="inline">論復次至修習故。</p></cb:div>
+<lb ed="A" n="0277a04"/><cb:div type="commentary"><p xml:id="pA120p0277a0401" rend="margin-left:1em">演曰後攝歸四相三十二相不離前四以為體也所
+<lb ed="A" n="0277a05"/>緣相寬具攝諸相因緣亦尒何以然者以前與後為
+<lb ed="A" n="0277a06"/>因緣故其正方便為正因緣邪方便者為邪因緣因
+<lb ed="A" n="0277a07"/>緣雖一白黑有殊分為二也第三遠離離諸染相第
+<lb ed="A" n="0277a08"/>四應修修諸善法故三十二相皆是前四所攝更
+<lb ed="A" n="0277a09"/>無餘也。</p></cb:div></cb:div>
+<lb ed="A" n="0277a10"/><cb:div type="other"><cb:mulu type="其他" level="1">論卷第十二</cb:mulu><head>論<anchor xml:id="beg_68" type="cb-app"/>卷<anchor xml:id="end_68"/>第十二　本地分中三摩呬多地第六之二</head>
+<lb ed="A" n="0277a11"/><cb:div type="orig"><p xml:id="pA120p0277a1101">論復次云何至諸相作意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0277a1111" rend="margin-left:1em;inline">演曰二合明二體文分
+<lb ed="A" n="0277a12"/>為二一明修習作意及相二明入定具四因緣初文
+<lb ed="A" n="0277a13"/>有二先徵後釋此先徵也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0277a1311" rend="inline">論謂即於彼至能作四
+<lb ed="A" n="0277a14"/>事。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0277a1402" rend="margin-left:1em;inline">演曰後釋文中復分為三此初略標荅也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0277a1418" rend="inline">論
+<pb ed="A" xml:id="A120.1565.0277b" n="0277b"/>
+<lb ed="A" n="0277b01"/>謂即修習至遠離相續。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0277b0110" rend="margin-left:1em;inline">演曰後廣分別文中有四
+<lb ed="A" n="0277b02"/>一修作意二遠煩惱三練作意四成四道猒壞所緣
+<lb ed="A" n="0277b03"/>是加行道捨諸煩惱是無閒道任持斷滅是解脫道
+<lb ed="A" n="0277b04"/>遠離相續是勝進道或即如次是猒壞等四種對治。</p></cb:div>
+<lb ed="A" n="0277b05"/><cb:div type="orig"><p xml:id="pA120p0277b0501">論是故至諸相作意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0277b0509" rend="margin-left:1em;inline">演曰三結之也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0277b0515" rend="inline">論復次至
+<lb ed="A" n="0277b06"/>教授力。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0277b0604" rend="margin-left:1em;inline">演曰二明入定具四因緣文分為六一入
+<lb ed="A" n="0277b07"/>定因緣二染定差別三漏無漏異四四分不同五次
+<lb ed="A" n="0277b08"/>超有差六熏習有異初中有三一標名列數二依標
+<lb ed="A" n="0277b09"/>辯釋三揔結前義此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0277b0911" rend="inline">論云何因力至靜慮等。</p></cb:div>
+<lb ed="A" n="0277b10"/><cb:div type="commentary"><p xml:id="pA120p0277b1001" rend="margin-left:1em">演曰二依標辯釋文分為四此初因力謂次前生曾
+<lb ed="A" n="0277b11"/>所得定以為因力生今時定順小教說大乘正取定
+<lb ed="A" n="0277b12"/>種為因亦可據曾熏發定種功能增長生今時定名
+<lb ed="A" n="0277b13"/>因力也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0277b1304" rend="inline">論云何方便力至能入諸定。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0277b1315" rend="margin-left:1em;inline">演曰二明
+<lb ed="A" n="0277b14"/>方便力數修習力是為方便。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0277b1412" rend="inline">論云何說力至入靜
+<pb ed="A" xml:id="A120.1565.0278a" n="0278a"/>
+<lb ed="A" n="0278a01"/>慮等定。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0278a0104" rend="margin-left:1em;inline">演曰三明說力因聞所說定心之教自安
+<lb ed="A" n="0278a02"/>心想所得等持名為說力。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0278a0211" rend="inline">論云何教授力至及諸
+<lb ed="A" n="0278a03"/>餘定。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0278a0303" rend="margin-left:1em;inline">演曰四教授力不從言教但依師授名教授
+<lb ed="A" n="0278a04"/>力。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0278a0402" rend="inline">論如是顯示至及鈍根者。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0278a0412" rend="margin-left:1em;inline">演曰三揔結前義
+<lb ed="A" n="0278a05"/>利根鈍根如次顯上三四二人以隨法行及隨信行
+<lb ed="A" n="0278a06"/>二各別故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0278a0605" rend="inline">論復次有四至靜慮者。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0278a0614" rend="margin-left:1em;inline">演曰二染定
+<lb ed="A" n="0278a07"/>差別文分為二一揔標列二隨別釋此初標列有四
+<lb ed="A" n="0278a08"/>定也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0278a0803" rend="inline">論云何愛上至後生愛味。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0278a0813" rend="margin-left:1em;inline">演曰二隨別釋
+<lb ed="A" n="0278a09"/>如標分四初中有二先徵後釋所言愛者體即貪也
+<lb ed="A" n="0278a10"/>問貪性是染定即不然云何言俱得名染定荅正得
+<lb ed="A" n="0278a11"/>定時體即非染初時生愛得<anchor xml:id="beg_69" type="cb-app"/>已<anchor xml:id="end_69"/>生欣於此二時緣定
+<lb ed="A" n="0278a12"/>生貪故名為染。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0278a1207" rend="inline">論云何見上至解脫出離。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0278a1217" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0278a13"/>二明見定文中有二初徵後釋體即見取他見為因
+<lb ed="A" n="0278a14"/>而入靜慮或得靜慮後起見等名見靜慮言念過去
+<pb ed="A" xml:id="A120.1565.0278b" n="0278b"/>
+<lb ed="A" n="0278b01"/>多劫等者全常見等言堅執不捨是見取也顯彼見
+<lb ed="A" n="0278b02"/>取行相差別名審思察及出離等。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0278b0214" rend="inline">論云何慢上至
+<lb ed="A" n="0278b03"/>審諦觀察。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0278b0305" rend="margin-left:1em;inline">演曰三明慢靜慮文中亦二先徵後釋
+<lb ed="A" n="0278b04"/>體即我慢或兼憍體謂因慢入定或得定<anchor xml:id="beg_6a" type="cb-app"/>已<anchor xml:id="end_6a"/>而起憍
+<lb ed="A" n="0278b05"/>慢故揔名慢上靜慮問如何我慢緣上靜慮荅未得
+<lb ed="A" n="0278b06"/>定前所起我慢我慢下界揔執當地五蘊為我而方
+<lb ed="A" n="0278b07"/>能故若定後慢緣彼地起亦同地計能所計法皆上
+<lb ed="A" n="0278b08"/>地故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0278b0803" rend="inline">論云何疑上至審諦觀察。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0278b0813" rend="margin-left:1em;inline">演曰四明疑靜
+<lb ed="A" n="0278b09"/>慮由於四諦不能速證便於先得定處生疑此文且
+<lb ed="A" n="0278b10"/>據修出世說云四聖諦理實修世於定亦疑。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0278b1018" rend="inline">論復
+<lb ed="A" n="0278b11"/>次云何至當言正入。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0278b1109" rend="margin-left:1em;inline">演曰三漏無漏異文分為二
+<lb ed="A" n="0278b12"/>初明有漏後明無漏初中復二先明染定後明淨定
+<lb ed="A" n="0278b13"/>此初染定文中有二先徵後釋所愛味者即淨定也
+<lb ed="A" n="0278b14"/>言<anchor xml:id="beg_6b" type="cb-app"/>已<anchor xml:id="end_6b"/>出者<anchor xml:id="beg_6c" type="cb-app"/>已<anchor xml:id="end_6c"/>出淨定言正入者正起染心出淨入染
+<pb ed="A" xml:id="A120.1565.0279a" n="0279a"/>
+<lb ed="A" n="0279a01"/>後緣於前名愛味定。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0279a0109" rend="inline">論云何清淨至不生愛味。</p></cb:div>
+<lb ed="A" n="0279a02"/><cb:div type="commentary"><p xml:id="pA120p0279a0201" rend="margin-left:1em">演曰後明淨定文中有二先徵後釋釋復有三先明
+<lb ed="A" n="0279a03"/>根性次辯淨因後明淨定根性有四一中根性二利
+<lb ed="A" n="0279a04"/>根性三等煩惱行貪嗔癡三齊有名等四薄塵行雖
+<lb ed="A" n="0279a05"/>有貪等行微薄故從他聞下辯淨所因聞說於定起
+<lb ed="A" n="0279a06"/>愛名患及聞定外更有無漏涅盤菩提出離可求故
+<lb ed="A" n="0279a07"/>於所得不生味著名為淨定。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0279a0712" rend="inline">論云何無漏至入無
+<lb ed="A" n="0279a08"/>漏定。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0279a0803" rend="margin-left:1em;inline">演曰後明無漏文亦為二先徵後釋釋中有
+<lb ed="A" n="0279a09"/>三初明根性次明取相後明無漏根中有三一隨信
+<lb ed="A" n="0279a10"/>行二隨法行三薄塵行此三行人或有修行<anchor xml:id="beg_6d" type="cb-app"/>已<anchor xml:id="end_6d"/>入見
+<lb ed="A" n="0279a11"/>道或至方便煗等位中修諸等持皆取相狀名有漏
+<lb ed="A" n="0279a12"/>定今於身證及無學位不復思惟但觀真如甘露界
+<lb ed="A" n="0279a13"/>想名無漏定。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0279a1306" rend="inline">論復次云何至調鍊諸根。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0279a1316" rend="margin-left:1em;inline">演曰四
+<lb ed="A" n="0279a14"/>四分不同文分為四一明退分二明住分三彰勝分
+<pb ed="A" xml:id="A120.1565.0279b" n="0279b"/>
+<lb ed="A" n="0279b01"/>四彰決擇此初分四一明根性二明解劣三不堪忍
+<lb ed="A" n="0279b02"/>四明退位次第應知。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0279b0209" rend="inline">論云何順住分至亦不退下。</p></cb:div>
+<lb ed="A" n="0279b03"/><cb:div type="commentary"><p xml:id="pA120p0279b0301" rend="margin-left:1em">演曰二明住分文中有二一明根性二明正住於上
+<lb ed="A" n="0279b04"/>不修於下不退但於禪定躭著名住。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0279b0415" rend="inline">論云何順勝
+<lb ed="A" n="0279b05"/>分至便得勝進。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0279b0507" rend="margin-left:1em;inline">演曰三彰勝分文中有二一進所
+<lb ed="A" n="0279b06"/>因謂聞定教及聞依定斷妄證真出離階漸二者辯
+<lb ed="A" n="0279b07"/>名謂求勝等。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0279b0706" rend="inline">論云何順決擇分至名決擇分。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0279b0718" rend="margin-left:1em;inline">演
+<lb ed="A" n="0279b08"/>曰四彰決擇文亦分二先徵後釋釋中有二先釋順
+<lb ed="A" n="0279b09"/>義後明決擇無漏智體正名決擇以能斷除身見等
+<lb ed="A" n="0279b10"/>故煗等善根名之為順觀薩迦耶知為患故觀同於
+<lb ed="A" n="0279b11"/>彼名為順也珠瓶等者別寶之人善能甄揀能所俱
+<lb ed="A" n="0279b12"/>勝無漏決擇勝亦然也辯此四定六十三中及俱舍
+<lb ed="A" n="0279b13"/>論第二十八順正理論七十八等廣明不能繁敘。</p></cb:div>
+<lb ed="A" n="0279b14"/><cb:div type="orig"><p xml:id="pA120p0279b1401">論復次云何至至初靜慮。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0279b1411" rend="margin-left:1em;inline">演曰五次超有差文分
+<pb ed="A" xml:id="A120.1565.0280a" n="0280a"/>
+<lb ed="A" n="0280a01"/>為二先次後超初中復二一明順次從下入上謂從
+<lb ed="A" n="0280a02"/>初禪無間次入二禪乃至無所有處次入非想二明
+<lb ed="A" n="0280a03"/>逆次從上入下謂從非想入無所有乃至二禪入初
+<lb ed="A" n="0280a04"/>定中諸所得定揔有三類一純有漏二純無漏三通
+<lb ed="A" n="0280a05"/>漏無漏雜修靜慮此三之中一一皆有順次逆次及
+<lb ed="A" n="0280a06"/>超越也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0280a0604" rend="inline">論復次云何至清白故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0280a0613" rend="margin-left:1em;inline">演曰後明超入
+<lb ed="A" n="0280a07"/>文中有三初明方便次超行相後明分限此初也謂
+<lb ed="A" n="0280a08"/>大小乘中久修學者所得諸定圓滿清白方能超入
+<lb ed="A" n="0280a09"/>諸定等也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0280a0905" rend="inline">論從初靜慮至逆超亦尒。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0280a0915" rend="margin-left:1em;inline">演曰次明
+<lb ed="A" n="0280a10"/>超相文中有二先順後逆次第准前但於其中超間
+<lb ed="A" n="0280a11"/>有異。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0280a1103" rend="inline">論以極遠故至第三等至。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0280a1113" rend="margin-left:1em;inline">演曰後明分限
+<lb ed="A" n="0280a12"/>文中有二初未自在但超一地。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0280a1213" rend="inline">論唯除如來至入
+<lb ed="A" n="0280a13"/>諸定故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0280a1304" rend="margin-left:1em;inline">演曰後明自在一切皆超即八地菩薩及
+<lb ed="A" n="0280a14"/>佛超也故大般若云從初靜慮入滅盡定從滅盡定
+<pb ed="A" xml:id="A120.1565.0280b" n="0280b"/>
+<lb ed="A" n="0280b01"/>起欲界心問如大目連獼猴池側入無所有處家聞
+<lb ed="A" n="0280b02"/>象等聲便從定出此亦超多云何但言佛大菩薩荅
+<lb ed="A" n="0280b03"/>諸小乘者有超不超而不決定佛不退者理即決定
+<lb ed="A" n="0280b04"/>一切普超不同聲聞縱有超者地非廣故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0280b0417" rend="inline">論復次
+<lb ed="A" n="0280b05"/>云何熏修靜慮。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0280b0507" rend="margin-left:1em;inline">演曰六熏修有異文分為二先問
+<lb ed="A" n="0280b06"/>後荅此先問也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0280b0607" rend="inline">論謂如有一至四種靜慮。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0280b0617" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0280b07"/>後荅分五一標得人二彰所為三明修相四明自在
+<lb ed="A" n="0280b08"/>五辯修果此初標舉學無學中<anchor xml:id="beg_6e" type="cb-app"/>已<anchor xml:id="end_6e"/>得有漏及無漏者
+<lb ed="A" n="0280b09"/>方能雜修諸定等也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0280b0909" rend="inline">論為於等至至自在果故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0280b0919" rend="margin-left:1em;inline">演
+<lb ed="A" n="0280b10"/>曰二彰所為雜熏修者略有二意為令定自在及得
+<lb ed="A" n="0280b11"/>果故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0280b1103" rend="inline">論長時相續至熏修成就。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0280b1113" rend="margin-left:1em;inline">演曰三明修相
+<lb ed="A" n="0280b12"/>有漏無漏雜熏修故諸熏修者揔有四類一定散雜
+<lb ed="A" n="0280b13"/>修謂阿羅漢捨福命行資命福果二純漏定熏謂生
+<lb ed="A" n="0280b14"/>靜慮除五淨居即下文云<g ref="#CB02547">䎡</g>中上品修諸靜慮有差
+<pb ed="A" xml:id="A120.1565.0281a" n="0281a"/>
+<lb ed="A" n="0281a01"/>別故三純無漏修謂受變易要無漏定而為因故四
+<lb ed="A" n="0281a02"/>有漏無漏間雜熏修即此所明熏淨居也謂漏無漏
+<lb ed="A" n="0281a03"/>間雜為因成一果事名雜熏修不同異宗無漏資漏
+<lb ed="A" n="0281a04"/>名雜熏也故毗曇等云先起無漏十六行觀多念相
+<lb ed="A" n="0281a05"/>續次入有漏十六行觀亦多念續如是漸略有漏無
+<lb ed="A" n="0281a06"/>漏各二剎那名加行成次後更起一念無漏次後更
+<lb ed="A" n="0281a07"/>起一念有漏是無間道次後更起一念無漏是解脫
+<lb ed="A" n="0281a08"/>道名熏修成兩邊無漏熏中一漏能所熏合揔有十
+<lb ed="A" n="0281a09"/>五五是有漏十是無漏故所熏五起五淨居名雜修
+<lb ed="A" n="0281a10"/>也而今此文即不然也謂有那含在凡位時造得感
+<lb ed="A" n="0281a11"/>生第四禪中下三天業任運但能感下天處由起希
+<lb ed="A" n="0281a12"/>願求生上故熏修定力資昔故業令種勢增生五淨
+<lb ed="A" n="0281a13"/>居非是有漏一念新熏能為感也文言更相而間雜
+<lb ed="A" n="0281a14"/>者先從最初長時熏習漸略漸略乃至最後剎那閒
+<pb ed="A" xml:id="A120.1565.0281b" n="0281b"/>
+<lb ed="A" n="0281b01"/>修有漏無間無漏現前無漏無間有漏生起表定自
+<lb ed="A" n="0281b02"/>在而相間起非要配屬無間等道及斷定障定既自
+<lb ed="A" n="0281b03"/>在何有漏除但是雜修成滿相也問大乘既唯資故
+<lb ed="A" n="0281b04"/>業種有異小乘何假雜修方能資益荅為顯勝定方
+<lb ed="A" n="0281b05"/>資故種若漏無漏間雜縱任方名為勝故要雜修斷
+<lb ed="A" n="0281b06"/>障招生具二能故不同變易非招新果故唯無漏一
+<lb ed="A" n="0281b07"/>能資也問所資之種何地繫耶荅下三天處或唯廣
+<lb ed="A" n="0281b08"/>果同地資生理不違故故唯識云雜修靜慮資下故
+<lb ed="A" n="0281b09"/>業得生淨居及智處等謂昔修定時地別三品相應
+<lb ed="A" n="0281b10"/>之業隨定亦然未有能修五淨居者但由雜定五品
+<lb ed="A" n="0281b11"/>熏修增彼下天故業令感非是昔造及今新熏能感
+<lb ed="A" n="0281b12"/>生也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0281b1203" rend="inline">論若於是處至自在等至。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0281b1213" rend="margin-left:1em;inline">演曰四明自在
+<lb ed="A" n="0281b13"/>謂於一住處清旦等時為雜熏修資故業事入諸等
+<lb ed="A" n="0281b14"/>至應念得入名自在相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0281b1410" rend="inline">論自在果者至能引之道。</p></cb:div>
+<pb ed="A" xml:id="A120.1565.0282a" n="0282a"/>
+<lb ed="A" n="0282a01"/><cb:div type="commentary"><p xml:id="pA120p0282a0101" rend="margin-left:1em">演曰五明修果果有二種一所引果二所生果初中
+<lb ed="A" n="0282a02"/>有三一現法樂住二得不退道三引解脫等德。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0282a0219" rend="inline">論
+<lb ed="A" n="0282a03"/>若有餘取至便入淨居。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0282a0310" rend="margin-left:1em;inline">演曰二所生果文分為二
+<lb ed="A" n="0282a04"/>一明所生處二辯修差別此初也由此那含上惑未
+<lb ed="A" n="0282a05"/>盡名為餘取有餘取潤而受生者便入淨居一期生
+<lb ed="A" n="0282a06"/>處三天四地略不言之非不因修得生彼也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0282a0618" rend="inline">論由
+<lb ed="A" n="0282a07"/><g ref="#CB02547">䎡</g>中上品至得為大梵。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0282a0710" rend="margin-left:1em;inline">演曰二辯修差別文分為
+<lb ed="A" n="0282a08"/>四一生因差別二染淨不同三修生地殊四樂依差
+<lb ed="A" n="0282a09"/>別此初分二先明三品後明五修此初也四禪地地
+<lb ed="A" n="0282a10"/>皆有三品廣如前辯大梵王果雖是上品修生無尋
+<lb ed="A" n="0282a11"/>異前故別標舉。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0282a1107" rend="inline">論由<g ref="#CB02547">䎡</g>中上至生五淨居。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0282a1117" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0282a12"/>後明五修一一品中有漏無漏三種雜修由因修習
+<lb ed="A" n="0282a13"/>五類不同所感淨居亦分五也問資下故業生五淨
+<lb ed="A" n="0282a14"/>居下天故業但唯一類何言修感得五耶荅由雜熏
+<pb ed="A" xml:id="A120.1565.0282b" n="0282b"/>
+<lb ed="A" n="0282b01"/>修有五品故增彼有漏有五功能故感淨居亦為五
+<lb ed="A" n="0282b02"/>也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0282b0202" rend="inline">論當知因修至或進上定。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0282b0212" rend="margin-left:1em;inline">演曰二染淨不同
+<lb ed="A" n="0282b03"/>文中有二初明染淨後明退進由淨得生非因染也
+<lb ed="A" n="0282b04"/>後退進中如因淨定生二禪中為起貪心即便退沒
+<lb ed="A" n="0282b05"/>還生下界若修清淨再得生彼及生下地初定等中
+<lb ed="A" n="0282b06"/>或得上生三四等定問外道因定亦生彼天何言有
+<lb ed="A" n="0282b07"/>染而不能往荅外道所因得生上者亦由淨定正在
+<lb ed="A" n="0282b08"/>定時染不俱故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0282b0807" rend="inline">論先於此間至能離欲故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0282b0817" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0282b09"/>三修生地殊文分為二先辯修生後明離欲初中有
+<lb ed="A" n="0282b10"/>二先辯修生地義差別後明非離釋其所以。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0282b1018" rend="inline">論又
+<lb ed="A" n="0282b11"/>非此間至而有差別。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0282b1109" rend="margin-left:1em;inline">演曰四樂依差別又非欲界
+<lb ed="A" n="0282b12"/>及生初禪入初禪靜慮輕安妙樂而有差別但由人
+<lb ed="A" n="0282b13"/>天二趣身異非是二時定樂別也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0282b1314" rend="inline">論復次<anchor xml:id="beg_6f" type="cb-app"/>已<anchor xml:id="end_6f"/>說至
+<lb ed="A" n="0282b14"/>諸經宗要。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0282b1405" rend="margin-left:1em;inline">演曰第四明第五<g ref="#CB01008">󰏰</g>攝經宗要文分三
+<pb ed="A" xml:id="A120.1565.0283a" n="0283a"/>
+<lb ed="A" n="0283a01"/><g ref="#CB01008">󰏰</g>一結前生後二依標正辯三結上所明此初也。</p></cb:div>
+<lb ed="A" n="0283a02"/><cb:div type="orig"><p xml:id="pA120p0283a0201">論謂八解脫等如經廣說。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0283a0211" rend="margin-left:1em;inline">演曰二依標正辯文分為
+<lb ed="A" n="0283a03"/>二初舉經明後辯所指此舉經明解脫等持等至三
+<lb ed="A" n="0283a04"/>種名也前標後結而皆有四今但三者良以靜慮前
+<lb ed="A" n="0283a05"/>來<anchor xml:id="beg_70" type="cb-app"/>已<anchor xml:id="end_70"/>明故今不說。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0283a0508" rend="inline">論八解脫者至觀諸色等。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0283a0518" rend="margin-left:1em;inline">演
+<lb ed="A" n="0283a06"/>曰後明所指文分為三一明解脫二辯等持三明等
+<lb ed="A" n="0283a07"/>至明解脫中文分為二一者別明二揔料揀初別分
+<lb ed="A" n="0283a08"/>三一明解脫二明勝處三彰遍處謂依解脫方修勝
+<lb ed="A" n="0283a09"/>處及遍處等故因解脫次第明也就初解脫復分三
+<lb ed="A" n="0283a10"/>段一指前標列二揔釋眾名三別明行相此初也指
+<lb ed="A" n="0283a11"/>前十一標列名處。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0283a1108" rend="inline">論前七解脫至故名解脫。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0283a1118" rend="margin-left:1em;inline">演
+<lb ed="A" n="0283a12"/>曰二揔釋眾名謂無學等<anchor xml:id="beg_71" type="cb-app"/>已<anchor xml:id="end_71"/>離惑染名<anchor xml:id="beg_72" type="cb-app"/>已<anchor xml:id="end_72"/>解脫為引
+<lb ed="A" n="0283a13"/>勝德於離染境思惟勝解得心自在遠離定障名為
+<lb ed="A" n="0283a14"/>解脫故雜集論第十三云謂能解脫變化障故第八
+<pb ed="A" xml:id="A120.1565.0283b" n="0283b"/>
+<lb ed="A" n="0283b01"/>解脫亦離定障障離由在解脫前故故對棄背想受
+<lb ed="A" n="0283b02"/>立名離勞慮故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0283b0207" rend="inline">論云何有色觀諸色。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0283b0215" rend="margin-left:1em;inline">演曰三別
+<lb ed="A" n="0283b03"/>明行相但明前七未彰第八第八如後別廣明故前
+<lb ed="A" n="0283b04"/>七如名即分為七此解第一文中有三一辯行相二
+<lb ed="A" n="0283b05"/>明心境三修所為初中有二先徵後釋此初徵也。</p></cb:div>
+<lb ed="A" n="0283b06"/><cb:div type="orig"><p xml:id="pA120p0283b0601">論謂生欲界至而生勝解。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0283b0611" rend="margin-left:1em;inline">演曰後釋有二一觀諸
+<lb ed="A" n="0283b07"/>色二辯有色此初也謂有那含身在欲界欲染<anchor xml:id="beg_73" type="cb-app"/>已<anchor xml:id="end_73"/>除
+<lb ed="A" n="0283b08"/>名<anchor xml:id="beg_74" type="cb-app"/>已<anchor xml:id="end_74"/>解脫上界愛心猶未滅盡名未離染即於欲界
+<lb ed="A" n="0283b09"/>內外諸色揔相觀為光明之相作意思惟名為勝解
+<lb ed="A" n="0283b10"/>定障永除復名解脫對法論云色界欲貪亦<anchor xml:id="beg_75" type="cb-app"/>已<anchor xml:id="end_75"/>除者
+<lb ed="A" n="0283b11"/>據久學說此依初習但言離欲亦不違也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0283b1117" rend="inline">論由二
+<lb ed="A" n="0283b12"/>因緣至作勝解故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0283b1208" rend="margin-left:1em;inline">演曰二辯有色有二因緣名為
+<lb ed="A" n="0283b13"/>有色一生欲界及得色界定有內外色二依內心思
+<lb ed="A" n="0283b14"/>惟光明有內相色合此二義名為有色不同小乘內
+<pb ed="A" xml:id="A120.1565.0284a" n="0284a"/>
+<lb ed="A" n="0284a01"/>有貪愛名內有色觀外不淨名初解脫。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0284a0116" rend="inline">論問觀諸
+<lb ed="A" n="0284a02"/>色者至復以何行。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0284a0208" rend="margin-left:1em;inline">演曰二明心境文中有二先問
+<lb ed="A" n="0284a03"/>後荅此先問也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0284a0307" rend="inline">論荅至乃至廣說。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0284a0314" rend="margin-left:1em;inline">演曰後荅文
+<lb ed="A" n="0284a04"/>二欲界色者荅所觀色所制少等荅其行相由前三
+<lb ed="A" n="0284a05"/>解脫引勝處故故觀勝處所成之色為行相也問前
+<lb ed="A" n="0284a06"/>云即於欲界諸色有光明相作意思惟如何今說若
+<lb ed="A" n="0284a07"/>好<g ref="#CB08891">𢙣</g>等以為行相荅好<g ref="#CB08891">𢙣</g>是本揔觀好等以為光明
+<lb ed="A" n="0284a08"/>今從本論名好<g ref="#CB08891">𢙣</g>等前明依起故說光明理不違也。</p></cb:div>
+<lb ed="A" n="0284a09"/><cb:div type="orig"><p xml:id="pA120p0284a0901">論何故修習至無<g ref="#CB01002">㝵</g>解等。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0284a0911" rend="margin-left:1em;inline">演曰三明修所為文分
+<lb ed="A" n="0284a10"/>為二一明修治二通殊難初中有四一問二荅三徵
+<lb ed="A" n="0284a11"/>四釋次第可知。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0284a1107" rend="inline">論雖先於彼至思惟勝解。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0284a1117" rend="margin-left:1em;inline">演
+<lb ed="A" n="0284a12"/>曰二通外難外難意云欲染<anchor xml:id="beg_76" type="cb-app"/>已<anchor xml:id="end_76"/>離何須觀察故此荅
+<lb ed="A" n="0284a13"/>云色雖離染未能證解為證解故故須思惟。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0284a1318" rend="inline">論云
+<lb ed="A" n="0284a14"/>何至說彼為外。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0284a1407" rend="margin-left:1em;inline">演曰第二解脫文分為二初辯行
+<pb ed="A" xml:id="A120.1565.0284b" n="0284b"/>
+<lb ed="A" n="0284b01"/>指後指所同初中有二一觀外諸色二釋內無色此
+<lb ed="A" n="0284b02"/>初也謂那含作此觀時欲及色染皆<anchor xml:id="beg_77" type="cb-app"/>已<anchor xml:id="end_77"/>斷除名內無
+<lb ed="A" n="0284b03"/>色為觀外色而作勝解故無色定而不現前以無色
+<lb ed="A" n="0284b04"/>定不觀外故又不同前思惟光等名內無色但於欲
+<lb ed="A" n="0284b05"/>界色離染處思惟少多好<g ref="#CB08891">𢙣</g>等相而生勝解名此解
+<lb ed="A" n="0284b06"/>脫問此離染色為根塵耶荅通根及塵文無揀故問
+<lb ed="A" n="0284b07"/>此觀外色內無色想為起不起起即違理有色無色
+<lb ed="A" n="0284b08"/>二心並失不起違教教自明云內無色想觀外色故
+<lb ed="A" n="0284b09"/>荅婆沙說云而不起也謂依行者期心說故先期我
+<lb ed="A" n="0284b10"/>若於內無色應觀外色世尊依彼說內無色觀外色
+<lb ed="A" n="0284b11"/>故今依大乘觀外色時而亦得有內無色想故雜集
+<lb ed="A" n="0284b12"/>云於內<anchor xml:id="beg_78" type="cb-app"/>已<anchor xml:id="end_78"/>伏見者色想或現安立無色想故一心多
+<lb ed="A" n="0284b13"/>用我宗許故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0284b1306" rend="inline">論由二因緣至光明相故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0284b1316" rend="margin-left:1em;inline">演曰二
+<lb ed="A" n="0284b14"/>釋內無色有二因緣名內無色一得無色定二不思
+<pb ed="A" xml:id="A120.1565.0285a" n="0285a"/>
+<lb ed="A" n="0285a01"/>光明以是因緣名無色也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0285a0111" rend="inline">論餘如前說。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0285a0116" rend="margin-left:1em;inline">演曰後
+<lb ed="A" n="0285a02"/>指所同心境所為二同於初故指不說問此二解脫
+<lb ed="A" n="0285a03"/>依何地起荅通四定起故顯揚云為於變化得自在
+<lb ed="A" n="0285a04"/>故修二解脫變化既通四靜慮有二依四定理無違
+<lb ed="A" n="0285a05"/>也問為於根本及近分耶荅唯依根本而非近分近
+<lb ed="A" n="0285a06"/>分欣趣<g ref="#CB01002">㝵</g>無通果通果起乎容預地故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0285a0616" rend="inline">論云何淨
+<lb ed="A" n="0285a07"/>解脫至具足住。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0285a0707" rend="margin-left:1em;inline">演曰第三解脫文分為二先徵後
+<lb ed="A" n="0285a08"/>釋此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0285a0805" rend="inline">論謂如有一至名淨解脫。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0285a0815" rend="margin-left:1em;inline">演曰後釋
+<lb ed="A" n="0285a09"/>有三一指人辯相二釋淨名三明身住此初也謂如
+<lb ed="A" n="0285a10"/>有一身證那含<anchor xml:id="beg_79" type="cb-app"/>已<anchor xml:id="end_79"/>得四定捨支念支圓滿清白用此
+<lb ed="A" n="0285a11"/>為依所修聖行及所緣境內外俱淨名淨解脫故顯
+<lb ed="A" n="0285a12"/>揚云淨者一向意解思惟淨妙色也聖離穢染名淨
+<lb ed="A" n="0285a13"/>聖行。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0285a1303" rend="inline">論何以故至善磨瑩故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0285a1312" rend="margin-left:1em;inline">演曰二釋淨名有
+<lb ed="A" n="0285a14"/>三因緣名淨解脫一超苦樂苦中并憂樂中兼喜二
+<pb ed="A" xml:id="A120.1565.0285b" n="0285b"/>
+<lb ed="A" n="0285b01"/>過動亂尋伺為動二息為亂三善修勝解觀行分明
+<lb ed="A" n="0285b02"/>猶如磨鏡轉明轉淨名淨解脫。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0285b0213" rend="inline">論身作證者至
+<lb ed="A" n="0285b03"/>多所住故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0285b0305" rend="margin-left:1em;inline">演曰三明身住身者通名體依聚義今
+<lb ed="A" n="0285b04"/>云身者謂意身也言作證者由於智斷得作證故諸
+<lb ed="A" n="0285b05"/>根得境唯身親合與身證名今此意身除障最勝名
+<lb ed="A" n="0285b06"/>身作證是諸賢聖所栖止處名具足住故雜集論第
+<lb ed="A" n="0285b07"/>十三云然諸聖者多依二住謂第三八以最勝故是
+<lb ed="A" n="0285b08"/>故經中於二解脫有身作證具足住言由此二種如
+<lb ed="A" n="0285b09"/>其次第有色無色障斷無餘證滿轉依說名最勝問
+<lb ed="A" n="0285b10"/>前二解脫通依四定八災亦離何故不名淨身作證
+<lb ed="A" n="0285b11"/>荅得定離災雖多相似未能善瑩意解猶踈但與
+<lb ed="A" n="0285b12"/>觀名未名作證故彼此文說有差別。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0285b1215" rend="inline">論云何至思
+<lb ed="A" n="0285b13"/>惟勝解。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0285b1304" rend="margin-left:1em;inline">演曰第四解脫文中有二先徵後釋謂有
+<lb ed="A" n="0285b14"/>那含及無學等於彼空處<anchor xml:id="beg_7a" type="cb-app"/>已<anchor xml:id="end_7a"/>得離欲即於當地根本
+<pb ed="A" xml:id="A120.1565.0286a" n="0286a"/>
+<lb ed="A" n="0286a01"/>定中重觀虛空思惟勝解令障轉遠引生勝德名空
+<lb ed="A" n="0286a02"/>解脫言虛空者謂色對治所緣境界言無邊者謂十
+<lb ed="A" n="0286a03"/>方諸相不可分別處者定也定是緣空空所依處名
+<lb ed="A" n="0286a04"/>為處也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0286a0404" rend="inline">論如是識無至思惟勝解。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0286a0414" rend="margin-left:1em;inline">演曰第五解
+<lb ed="A" n="0286a05"/>脫離當地染重觀識處為境思惟名即於識思勝解
+<lb ed="A" n="0286a06"/>等障遠德生名為解脫其釋名者謂緣無邊識處
+<lb ed="A" n="0286a07"/>為境名識無邊處故顯揚云無邊識者謂緣無邊虛
+<lb ed="A" n="0286a08"/>空之識今緣此識以為境界處謂轉依及能依定以
+<lb ed="A" n="0286a09"/>所緣空而無邊故其能緣識亦名無邊今緣無邊識
+<lb ed="A" n="0286a10"/>為其境故從所緣名識無邊問無所有等事涉於下
+<lb ed="A" n="0286a11"/>即於識等思惟勝解識處亦緣緣空之識何不於空
+<lb ed="A" n="0286a12"/>而生勝解荅識處雖緣緣空之識緣空之識而非空
+<lb ed="A" n="0286a13"/>故故不得言於空勝解無所有處緣外境無若不思
+<lb ed="A" n="0286a14"/>識不能顯無是彼識外之所無也若尒識處例亦應
+<pb ed="A" xml:id="A120.1565.0286b" n="0286b"/>
+<lb ed="A" n="0286b01"/>尒不言思空不能顯識是緣空識荅言識無邊而無
+<lb ed="A" n="0286b02"/>有濫故不假言於空勝解若無所有不言於識恐或
+<lb ed="A" n="0286b03"/>謂識亦無所有為揀斯濫故云於識思惟勝解。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0286b0319" rend="inline">論
+<lb ed="A" n="0286b04"/>無所有處至思惟勝解。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0286b0410" rend="margin-left:1em;inline">演曰第六解脫謂有那含
+<lb ed="A" n="0286b05"/><anchor xml:id="beg_7b" type="cb-app"/>已<anchor xml:id="end_7b"/>離地染得自地定名為<anchor xml:id="beg_7c" type="cb-app"/>已<anchor xml:id="end_7c"/>得無所有處觀識處外
+<lb ed="A" n="0286b06"/>無法可得無為其境故云於識思惟勝解故顯揚云
+<lb ed="A" n="0286b07"/>無所有者謂於識上推求之時無少所得除無所有
+<lb ed="A" n="0286b08"/>無別境界唯見此境極寂靜故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0286b0813" rend="inline">論有頂解脫至應
+<lb ed="A" n="0286b09"/>作勝解。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0286b0904" rend="margin-left:1em;inline">演曰第七解脫謂有那含亦離自染得自
+<lb ed="A" n="0286b10"/>地定更不於餘空處識處而作勝解但於自地四蘊心
+<lb ed="A" n="0286b11"/>心乃至無所有處四蘊等法隨於何境可生心處而
+<lb ed="A" n="0286b12"/>作勝解名為勝解問何因二地合為一名荅因二地心
+<lb ed="A" n="0286b13"/>得名非想非非想故若唯有頂形對於何名為非想
+<lb ed="A" n="0286b14"/>唯無所有不觀本地復何得名非非想耶故對二地
+<pb ed="A" xml:id="A120.1565.0287a" n="0287a"/>
+<lb ed="A" n="0287a01"/>名為此觀故顯揚云非有想者超無所有想非無想
+<lb ed="A" n="0287a02"/>者於無所有<anchor xml:id="beg_7d" type="cb-app"/>已<anchor xml:id="end_7d"/>上境界推求之時唯得緣無所有極
+<lb ed="A" n="0287a03"/>細心法唯見此境極寂靜故問無色界心得緣四蘊
+<lb ed="A" n="0287a04"/>四諦等法今何唯以空識境等標地觀名荅依修學
+<lb ed="A" n="0287a05"/>者初方便說問無所有處從他立名空識二處俱依
+<lb ed="A" n="0287a06"/>自地此云有頂何兼自他荅空識二名唯依自立無
+<lb ed="A" n="0287a07"/>所有處而從識外無法立名有頂要假自他相形立
+<lb ed="A" n="0287a08"/>為地義故有單重義不同也問空識二處皆云離欲
+<lb ed="A" n="0287a09"/>後二不言為能離不荅實皆揔離略不言也故初釋
+<lb ed="A" n="0287a10"/>云前七解脫於<anchor xml:id="beg_7e" type="cb-app"/>已<anchor xml:id="end_7e"/>解脫而生勝解故此釋中而不重
+<lb ed="A" n="0287a11"/>也斷伏雖殊有學無學皆須離染染若不離非解脫
+<lb ed="A" n="0287a12"/>故離染之言通目斷伏不唯斷者方得離名體性等
+<lb ed="A" n="0287a13"/>義如下自明小乘所辯如婆沙論第八十四俱舍二
+<lb ed="A" n="0287a14"/>十九施設成實而具明也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0287a1411" rend="inline">論復次先<anchor xml:id="beg_7f" type="cb-app"/>已<anchor xml:id="end_7f"/>至故名勝
+<pb ed="A" xml:id="A120.1565.0287b" n="0287b"/>
+<lb ed="A" n="0287b01"/>處。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0287b0102" rend="margin-left:1em;inline">演曰二明勝處分之為三一釋揔名二彰差別
+<lb ed="A" n="0287b02"/>三明別相初中有二先釋其名後彰喻顯此初也勝
+<lb ed="A" n="0287b03"/>處有八一內有色想觀外色少若好若<g ref="#CB08891">𢙣</g>若勝若劣
+<lb ed="A" n="0287b04"/>於彼諸色勝知勝見得如實想止名勝知觀名勝見
+<lb ed="A" n="0287b05"/>由此止觀於境自在障不能嬈名勝知見二內有色
+<lb ed="A" n="0287b06"/>想觀外色多若好若<g ref="#CB08891">𢙣</g>乃至得如實想三內無色想
+<lb ed="A" n="0287b07"/>觀外色少若好<g ref="#CB08891">𢙣</g>等四內無色想觀外色多若好<g ref="#CB08891">𢙣</g>
+<lb ed="A" n="0287b08"/>等五內無色想觀外色青六內無色想觀外色黃七
+<lb ed="A" n="0287b09"/>內無色想觀外色赤八內無色想觀外色白。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0287b0918" rend="inline">論此
+<lb ed="A" n="0287b10"/>勝當知至處分臣僕。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0287b1009" rend="margin-left:1em;inline">演曰後彰喻顯文分為二初
+<lb ed="A" n="0287b11"/>明五相後釋勝名此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0287b1111" rend="inline">論於此義中至及自在
+<lb ed="A" n="0287b12"/>勝。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0287b1202" rend="margin-left:1em;inline">演曰後釋勝名有二名勝一能隱蔽於境自在
+<lb ed="A" n="0287b13"/>改換隨心心勝境故名之為勝二由自在謂此止觀
+<lb ed="A" n="0287b14"/>障不能嬈隨心發起神通等德應念即生自在隨心
+<pb ed="A" xml:id="A120.1565.0288a" n="0288a"/>
+<lb ed="A" n="0288a01"/>名為勝也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0288a0105" rend="inline">論前解脫中至制伏自在。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0288a0115" rend="margin-left:1em;inline">演曰二彰差
+<lb ed="A" n="0288a02"/>別解脫勝處內無色等雖有少同制伏解生義即別
+<lb ed="A" n="0288a03"/>也解脫但可想解而生未能令境隨心隱顯勝處能
+<lb ed="A" n="0288a04"/>成境從心轉隨心自在隱顯而成故此二門實有別
+<lb ed="A" n="0288a05"/>也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0288a0502" rend="inline">論觀色少者至房舍等色。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0288a0512" rend="margin-left:1em;inline">演曰三明別相文
+<lb ed="A" n="0288a06"/>分為二初辯所緣後明見等初中有四一少多二好
+<lb ed="A" n="0288a07"/>惡三勝劣四所屬此初也即此有情及有情具名為
+<lb ed="A" n="0288a08"/>少色文省及字故置等言宮殿等色名為多色等言
+<lb ed="A" n="0288a09"/>等彼山林地等故對法云少色者有情數色其量小
+<lb ed="A" n="0288a10"/>故多色者非情數色舍林地等其量大故對法直據
+<lb ed="A" n="0288a11"/>情非情對小色唯情此依形量少中故含有情及具
+<lb ed="A" n="0288a12"/>顯揚四中具非具對故少唯資具多謂有情及器世
+<lb ed="A" n="0288a13"/>間隨自樂為故皆無爽。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0288a1310" rend="inline">論言好色者至名為<g ref="#CB08891">𢙣</g>色。</p></cb:div>
+<lb ed="A" n="0288a14"/><cb:div type="commentary"><p xml:id="pA120p0288a1401" rend="margin-left:1em">演曰二明好<g ref="#CB08891">𢙣</g>文中有二先明好色後明<g ref="#CB08891">𢙣</g>色文顯
+<pb ed="A" xml:id="A120.1565.0288b" n="0288b"/>
+<lb ed="A" n="0288b01"/>可知。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0288b0103" rend="inline">論言劣色者至當知勝色。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0288b0113" rend="margin-left:1em;inline">演曰三明勝劣
+<lb ed="A" n="0288b02"/>文中有二先劣後勝此說欲界聲等四塵并其所依
+<lb ed="A" n="0288b03"/>同聚色體通情非情皆有勝劣並是前四勝處所觀。</p></cb:div>
+<lb ed="A" n="0288b04"/><cb:div type="orig"><p xml:id="pA120p0288b0401">論此四顯色至宮殿等攝。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0288b0411" rend="margin-left:1em;inline">演曰四明所屬此次前
+<lb ed="A" n="0288b05"/>聲香等四並顯所觀好<g ref="#CB08891">𢙣</g>等色俱通有情及資具等
+<lb ed="A" n="0288b06"/>攝。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0288b0602" rend="inline">論言勝知者至制伏想也。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0288b0612" rend="margin-left:1em;inline">演曰後明見等謂
+<lb ed="A" n="0288b07"/>於如前好<g ref="#CB08891">𢙣</g>等色數數隱蔽名勝知見勝劣等中不
+<lb ed="A" n="0288b08"/>生貪恚但住自性名制伏想。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0288b0812" rend="inline">論復次至故名遍處。</p></cb:div>
+<lb ed="A" n="0288b09"/><cb:div type="commentary"><p xml:id="pA120p0288b0901" rend="margin-left:1em">演曰三彰遍處分為三段一標釋揔名二牒經別辯
+<lb ed="A" n="0288b10"/>三明其廢立此初也勝解事者而釋其處隨類即前
+<lb ed="A" n="0288b11"/>解脫勝處所觀境也生遍解者正明遍義解遍於境
+<lb ed="A" n="0288b12"/>名為遍處依主釋也若境名遍遍即是處能緣慧等
+<lb ed="A" n="0288b13"/>名遍處者從境立名有財釋也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0288b1313" rend="inline">論言無二者至遍
+<lb ed="A" n="0288b14"/>一切故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0288b1404" rend="margin-left:1em;inline">演曰二牒經辯如契經言一地遍處而能
+<pb ed="A" xml:id="A120.1565.0289a" n="0289a"/>
+<lb ed="A" n="0289a01"/>解了上下及傍無二無量及餘水火風青黃赤白空
+<lb ed="A" n="0289a02"/>識遍處亦復如是十種遍處一一皆於上下及傍無
+<lb ed="A" n="0289a03"/>有我我及無有量名為遍處境界寬廣名為遍故。</p></cb:div>
+<lb ed="A" n="0289a04"/><cb:div type="orig"><p xml:id="pA120p0289a0401">論何故至二處建立。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0289a0409" rend="margin-left:1em;inline">演曰後明廢立文分為二先
+<lb ed="A" n="0289a05"/>徵後釋此先徵云根塵有十何唯於二立遍處耶。</p></cb:div>
+<lb ed="A" n="0289a06"/><cb:div type="orig"><p xml:id="pA120p0289a0601">論由此二種至常相續故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0289a0611" rend="margin-left:1em;inline">演曰後釋有二初明前
+<lb ed="A" n="0289a07"/>八次彰後二初中有三一明遍義二揀餘非三明限
+<lb ed="A" n="0289a08"/>齊此初也由具三義故色與觸名為遍也一共自他
+<lb ed="A" n="0289a09"/>身二遍有色界三體常相續故前八處皆名為遍。</p></cb:div>
+<lb ed="A" n="0289a10"/><cb:div type="orig"><p xml:id="pA120p0289a1001">論眼等根色至是故不說。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0289a1011" rend="margin-left:1em;inline">演曰二揀餘非義可知
+<lb ed="A" n="0289a11"/>也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0289a1102" rend="inline">論如是有色至色界後邊。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0289a1112" rend="margin-left:1em;inline">演曰三明限齊第
+<lb ed="A" n="0289a12"/>四靜慮為色後邊故色與觸俱通彼界能依定色亦
+<lb ed="A" n="0289a13"/>通靜慮故前遍處但至後邊更不於餘觀色遍也。</p></cb:div>
+<lb ed="A" n="0289a14"/><cb:div type="orig"><p xml:id="pA120p0289a1401">論於無色中至亦立遍處。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0289a1411" rend="margin-left:1em;inline">演曰次彰後二於無色
+<pb ed="A" xml:id="A120.1565.0289b" n="0289b"/>
+<lb ed="A" n="0289b01"/>界下二天中境界寬遍故立空識二種遍處餘無遍
+<lb ed="A" n="0289b02"/>義故不立之。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0289b0206" rend="inline">論復次至如是次第。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0289b0214" rend="margin-left:1em;inline">演曰二揔料
+<lb ed="A" n="0289b03"/>揀文分三段一明次第二明功用三彰初後此初也
+<lb ed="A" n="0289b04"/>謂修觀者先於所緣初修勝解名為解脫次能制
+<lb ed="A" n="0289b05"/>伏名為勝處後能自在作用皆成名為遍處故三次
+<lb ed="A" n="0289b06"/>第前能引後三不同也故對法云依解脫故造修由
+<lb ed="A" n="0289b07"/>勝處故起方便由遍處故成滿顯揚亦云由諸勝處
+<lb ed="A" n="0289b08"/>勝所緣故由諸遍處所緣遍故能令解脫清淨應知。</p></cb:div>
+<lb ed="A" n="0289b09"/><cb:div type="orig"><p xml:id="pA120p0289b0901">論八色遍處至堪有所用。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0289b0911" rend="margin-left:1em;inline">演曰二明功用文分為
+<lb ed="A" n="0289b10"/>二初明前八次明後二初中復二一由遍處引勝解
+<lb ed="A" n="0289b11"/>通勝解通者境隨意解延促短長應念即成名為
+<lb ed="A" n="0289b12"/>勝解二轉變通轉變通者轉換舊質而為異形地
+<lb ed="A" n="0289b13"/>變為金水為酪等十八變者皆是此通名為轉變。</p></cb:div>
+<lb ed="A" n="0289b14"/><cb:div type="orig"><p xml:id="pA120p0289b1401">論由識遍處至皆轉成空。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0289b1411" rend="margin-left:1em;inline">演曰次明後二識即心
+<pb ed="A" xml:id="A120.1565.0290a" n="0290a"/>
+<lb ed="A" n="0290a01"/>也由心垢故万法皆染由心淨故万法皆清故因清
+<lb ed="A" n="0290a02"/>心無漏定識而能引發無諍願等名識遍處又由執
+<lb ed="A" n="0290a03"/>有故計所執當情不亡空處善圓能空所執或觀山
+<lb ed="A" n="0290a04"/>等万法皆空作用無違名空遍處。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0290a0414" rend="inline">論譬如世間至
+<lb ed="A" n="0290a05"/>遍處位亦尒。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0290a0506" rend="margin-left:1em;inline">演曰三彰初後初修久習成熟不同
+<lb ed="A" n="0290a06"/>分三位也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0290a0605" rend="inline">論復次三三摩地者。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0290a0613" rend="margin-left:1em;inline">演曰二明諸等
+<lb ed="A" n="0290a07"/>持十門分別一三空解脫門二尋等三地門三小大
+<lb ed="A" n="0290a08"/>無量門四具分修習門五三受俱行門六四修差別
+<lb ed="A" n="0290a09"/>門七五智相應門八聖定五支門九具因差別門十
+<lb ed="A" n="0290a10"/>金剛喻定門初門之中有其二段一揔標舉二者別
+<lb ed="A" n="0290a11"/>辯文此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0290a1106" rend="inline">論云何空三摩地。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0290a1113" rend="margin-left:1em;inline">演曰二者別辯
+<lb ed="A" n="0290a12"/>文分三段一辯三等持二明三因果三辯三先後初
+<lb ed="A" n="0290a13"/>復分三一空解脫二無願智三明無相初中有二先
+<lb ed="A" n="0290a14"/>徵後釋此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0290a1407" rend="inline">論謂於遠離至心住一緣。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0290a1417" rend="margin-left:1em;inline">演曰
+<pb ed="A" xml:id="A120.1565.0290b" n="0290b"/>
+<lb ed="A" n="0290b01"/>後釋分二初揔標釋後別明空此初也遠有情等顯
+<lb ed="A" n="0290b02"/>其空也計所執我體性無故心住一緣釋三摩地於
+<lb ed="A" n="0290b03"/>彼空境止住於心名住一緣空之等持依主釋也問
+<lb ed="A" n="0290b04"/>顯揚第二明空有二一者所知二者是智所知即是
+<lb ed="A" n="0290b05"/>所執我法及真如性空及空性俱名為空如何此中
+<lb ed="A" n="0290b06"/>但言無我名空三昧荅彼依大乘法我及性俱說為
+<lb ed="A" n="0290b07"/>空此據三乘故唯無我名為空也寬狹雖殊義各有
+<lb ed="A" n="0290b08"/>別理無違也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0290b0806" rend="inline">論當知空性略有四種。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0290b0815" rend="margin-left:1em;inline">演曰後別
+<lb ed="A" n="0290b09"/>明空文中有二先標後辯此先標也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0290b0915" rend="inline">論一觀察空
+<lb ed="A" n="0290b10"/>至我我所等。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0290b1006" rend="margin-left:1em;inline">演曰後辯之中文分為二初明悟證
+<lb ed="A" n="0290b11"/>後辯修行初文有四一明因空二辯果空三明內空
+<lb ed="A" n="0290b12"/>四明外空初一有學後三無學此明學位學觀察空
+<lb ed="A" n="0290b13"/>觀察之言通能所也觀察諸法明能觀也空無常等
+<lb ed="A" n="0290b14"/>是所觀也能觀從境亦得空名體即有漏無漏智也。</p></cb:div>
+<pb ed="A" xml:id="A120.1565.0291a" n="0291a"/>
+<lb ed="A" n="0291a01"/><cb:div type="orig"><p xml:id="pA120p0291a0101">論二彼果空至一切煩<g ref="#CB08974">𢙉</g>。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0291a0111" rend="margin-left:1em;inline">演曰二辯果空彼因之
+<lb ed="A" n="0291a02"/>果亦皆是空通能所也不動心解脫顯能觀空空無
+<lb ed="A" n="0291a03"/>貪等明所觀也謂無學中煩<g ref="#CB08974">𢙉</g>盡故名為不動定障
+<lb ed="A" n="0291a04"/>除故名心解脫二障皆亡即名空也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0291a0415" rend="inline">論三者內空
+<lb ed="A" n="0291a05"/>至一切僻執。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0291a0506" rend="margin-left:1em;inline">演曰三明內空謂無學者觀自內身
+<lb ed="A" n="0291a06"/>空無計執所起我我所及我慢等一切僻執名曰內
+<lb ed="A" n="0291a07"/>空也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0291a0703" rend="inline">論四者外空至空無欲愛。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0291a0713" rend="margin-left:1em;inline">演曰四明外空
+<lb ed="A" n="0291a08"/>文分為二初明空相後引證成此初也謂於五境觀
+<lb ed="A" n="0291a09"/>色是空不生欲愛名外空也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0291a0912" rend="inline">論如說至說為外空。</p></cb:div>
+<lb ed="A" n="0291a10"/><cb:div type="commentary"><p xml:id="pA120p0291a1001" rend="margin-left:1em">演曰後引證成文亦有二先引後釋如說無學我<anchor xml:id="beg_80" type="cb-app"/>已<anchor xml:id="end_80"/>
+<lb ed="A" n="0291a11"/>超過一切色想名曰外空因色起想因想起貪外色
+<lb ed="A" n="0291a12"/>既空想心不起想既不起貪亦隨亡心境俱亡名外
+<lb ed="A" n="0291a13"/>空也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0291a1303" rend="inline">論又修行者至心俱證會。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0291a1313" rend="margin-left:1em;inline">演曰後辯修行
+<lb ed="A" n="0291a14"/>文中有二初思內外後思無動此初也為求第二彼
+<pb ed="A" xml:id="A120.1565.0291b" n="0291b"/>
+<lb ed="A" n="0291b01"/>果空故以初觀察作意思惟三四二空便能趣入名
+<lb ed="A" n="0291b02"/>為證會。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0291b0204" rend="inline">論設復於此至心俱證會。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0291b0214" rend="margin-left:1em;inline">演曰後思
+<lb ed="A" n="0291b03"/>無動設思內外而不證者便於無動作意思惟亦能
+<lb ed="A" n="0291b04"/>於彼內外空中心俱證會。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0291b0411" rend="inline">論云何無願至心住一
+<lb ed="A" n="0291b05"/>緣。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0291b0502" rend="margin-left:1em;inline">演曰二明無願智文中有二先徵後釋於三昧
+<lb ed="A" n="0291b06"/>中思惟五蘊有漏諸行皆苦無常不可願求名無願
+<lb ed="A" n="0291b07"/>智。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0291b0702" rend="inline">論云何無相至心住一緣。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0291b0712" rend="margin-left:1em;inline">演曰三明無相文
+<lb ed="A" n="0291b08"/>分為二先徵後釋釋中有二先辯後證此即初也取
+<lb ed="A" n="0291b09"/>蘊滅者即是擇滅於取滅處思惟無為寂靜之相名
+<lb ed="A" n="0291b10"/>無相智。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0291b1004" rend="inline">論如經言至乃至廣說。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0291b1013" rend="margin-left:1em;inline">演曰後引證說
+<lb ed="A" n="0291b11"/>文復有二初揔引經後別牒釋此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0291b1116" rend="inline">論云何名
+<lb ed="A" n="0291b12"/>為不<g ref="#CB07554">󱶂</g>不昂。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0291b1206" rend="margin-left:1em;inline">演曰後別牒釋文分為二先徵後釋
+<lb ed="A" n="0291b13"/>此先徵也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0291b1305" rend="inline">論違順二相不相應故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0291b1314" rend="margin-left:1em;inline">演曰後釋有
+<lb ed="A" n="0291b14"/>二初遠違順後離猒著此初也違情猒<g ref="#CB08891">𢙣</g>既下名<g ref="#CB07554">󱶂</g>
+<pb ed="A" xml:id="A120.1565.0292a" n="0292a"/>
+<lb ed="A" n="0292a01"/>順意恱心高舉名昂也無為之理二相都非心住一
+<lb ed="A" n="0292a02"/>緣名無昂下。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0292a0206" rend="inline">論又二因緣至故名不昂。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0292a0216" rend="margin-left:1em;inline">演曰後離
+<lb ed="A" n="0292a03"/>猒著文分為二先標後釋不取相故名曰不<g ref="#CB07554">󱶂</g>離執
+<lb ed="A" n="0292a04"/>無為名無昂也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0292a0407" rend="inline">論此三摩地至二方便果。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0292a0417" rend="margin-left:1em;inline">演曰二
+<lb ed="A" n="0292a05"/>明因果文分為二先標後釋此先標舉因果二也方
+<lb ed="A" n="0292a06"/>便即是因異名也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0292a0608" rend="inline">論言方便者至擾亂心故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0292a0618" rend="margin-left:1em;inline">演
+<lb ed="A" n="0292a07"/>曰後釋分二一明方便二明彼果方便為因解脫為
+<lb ed="A" n="0292a08"/>果初修久習二得別故謂初學者作三觀時於諸境
+<lb ed="A" n="0292a09"/>相未能離縛但名三昧不名解脫何以然者由隨空
+<lb ed="A" n="0292a10"/>有二相之識於三觀中時亂心故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0292a1014" rend="inline">論彼復數數至
+<lb ed="A" n="0292a11"/>於此解脫。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0292a1105" rend="margin-left:1em;inline">演曰二明彼果文中有二初明解脫果
+<lb ed="A" n="0292a12"/>後明曉了果初中復二初明果體後明勝劣此初也
+<lb ed="A" n="0292a13"/>由數思力於隨相識而得解脫名三解脫體即無漏
+<lb ed="A" n="0292a14"/>本後智也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0292a1405" rend="inline">論又解脫故至非善解脫。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0292a1415" rend="margin-left:1em;inline">演曰後明
+<pb ed="A" xml:id="A120.1565.0292b" n="0292b"/>
+<lb ed="A" n="0292b01"/>勝劣住運而得名為善勝勵力得者未名為勝純熟
+<lb ed="A" n="0292b02"/>未熟二差別故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0292b0207" rend="inline">論又曉了果至曉了功德。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0292b0217" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0292b03"/>二明曉了果文中有三一斷惑住樂對斷惑名了果
+<lb ed="A" n="0292b04"/>住樂名了德二證滅修道對證滅名了果修道名了
+<lb ed="A" n="0292b05"/>德三有學無學對有學見諦名為了果無學智圓
+<lb ed="A" n="0292b06"/>名為了德通真達俗名為曉了本後二智以為體也。</p></cb:div>
+<lb ed="A" n="0292b07"/><cb:div type="orig"><p xml:id="pA120p0292b0701">論若於此處至故名無相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0292b0711" rend="margin-left:1em;inline">演曰三辯先後文分為
+<lb ed="A" n="0292b08"/>二先明次第後會違文此初也若於此蘊無有彼我
+<lb ed="A" n="0292b09"/>說為空性即此空性無可願求名無願境境既是無
+<lb ed="A" n="0292b10"/>性相都絕名無相觀以於遍計立三空門故最先明
+<lb ed="A" n="0292b11"/>空解脫也依他等上三觀亦然故唯識云隨相各一
+<lb ed="A" n="0292b12"/>理實皆通。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0292b1205" rend="inline">論何故此中至後方說空。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0292b1215" rend="margin-left:1em;inline">演曰後會
+<lb ed="A" n="0292b13"/>違文文中有二先徵後釋此先徵云無常及苦即名
+<lb ed="A" n="0292b14"/>無願如何此處先說空門後說無常苦相餘有教中
+<pb ed="A" xml:id="A120.1565.0293a" n="0293a"/>
+<lb ed="A" n="0293a01"/>先說無常後談空也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0293a0109" rend="inline">論謂若至宣說無相。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0293a0117" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0293a02"/>後釋有二先明此教依久學者持淨次第先說空門
+<lb ed="A" n="0293a03"/>後說無常苦相及引教證如文可知後明餘教依初
+<lb ed="A" n="0293a04"/>修者易難為次第無常為初空門為後各據一義亦
+<lb ed="A" n="0293a05"/>不相違。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0293a0504" rend="inline">論復次云何至尋伺相應。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0293a0514" rend="margin-left:1em;inline">演曰第二尋
+<lb ed="A" n="0293a06"/>等三地門文分三段初明三地次揀無漏後彰地相
+<lb ed="A" n="0293a07"/>初復分三一明尋伺二辯無尋三明無二此初分二
+<lb ed="A" n="0293a08"/>先徵後釋釋中三摩地尋伺者謂初靜慮下二天中
+<lb ed="A" n="0293a09"/>名三摩地欲界雖名有尋伺等以非等持故不取也。</p></cb:div>
+<lb ed="A" n="0293a10"/><cb:div type="orig"><p xml:id="pA120p0293a1001">論云何無尋至為大梵王。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0293a1011" rend="margin-left:1em;inline">演曰二辯無尋文分為
+<lb ed="A" n="0293a11"/>二先徵後釋釋中有二先釋其名後修生相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0293a1118" rend="inline">論云
+<lb ed="A" n="0293a12"/>何無尋至乃至有頂。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0293a1209" rend="margin-left:1em;inline">演曰三明無二文具徵釋釋
+<lb ed="A" n="0293a13"/>中亦二先釋其名後修生相。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0293a1312" rend="inline">論唯除無漏諸三摩
+<lb ed="A" n="0293a14"/>地。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0293a1402" rend="margin-left:1em;inline">演曰次揀無漏此說感生上三摩地無漏不生
+<pb ed="A" xml:id="A120.1565.0293b" n="0293b"/>
+<lb ed="A" n="0293b01"/>故除之也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0293b0105" rend="inline">論云何無尋至平等顯現。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0293b0115" rend="margin-left:1em;inline">演曰後辯
+<lb ed="A" n="0293b02"/>地相文分為二先徵後釋釋中有二一唯勝解二唯平
+<lb ed="A" n="0293b03"/>等但說第三非初二者舉後明前影略知故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0293b0318" rend="inline">論復
+<lb ed="A" n="0293b04"/>次云何至小勝解故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0293b0409" rend="margin-left:1em;inline">演曰三小大無量門文分為
+<lb ed="A" n="0293b05"/>二先略後廣略中有三初小次大後明無量此初有
+<lb ed="A" n="0293b06"/>二先徵後釋釋中有二一由境小二由作意思可知
+<lb ed="A" n="0293b07"/>也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0293b0702" rend="inline">論云何大至欲勝解故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0293b0711" rend="margin-left:1em;inline">演曰次大文二徵及
+<lb ed="A" n="0293b08"/>釋也釋中亦二一明所緣二明作意所緣境中緣色
+<lb ed="A" n="0293b09"/>非空不名無際。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0293b0907" rend="inline">論云何無量至欲勝解故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0293b0917" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0293b10"/>後明無量准前應知。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0293b1009" rend="inline">論此中大心至謂四無量。</p></cb:div>
+<lb ed="A" n="0293b11"/><cb:div type="commentary"><p xml:id="pA120p0293b1101" rend="margin-left:1em">演曰後廣釋中文分為二一引經標舉二依標別釋
+<lb ed="A" n="0293b12"/>此初引經但明後二初小等持略不言也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0293b1217" rend="inline">論云何
+<lb ed="A" n="0293b13"/>於一至發生勝解。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0293b1308" rend="margin-left:1em;inline">演曰二依標別釋文分為二一
+<lb ed="A" n="0293b14"/>明大心二明無量初中又二先問後荅荅中又二先
+<pb ed="A" xml:id="A120.1565.0294a" n="0294a"/>
+<lb ed="A" n="0294a01"/>荅正問後明勝劣此初也為令此定轉清淨故而觀
+<lb ed="A" n="0294a02"/>欲界少多等色以為光明復更觀天初一小色乃至
+<lb ed="A" n="0294a03"/>多色名為大心心境大故名大等持。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0294a0315" rend="inline">論由三摩地
+<lb ed="A" n="0294a04"/>至而有差別。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0294a0406" rend="margin-left:1em;inline">演曰後明勝劣文分為二初揔標舉
+<lb ed="A" n="0294a05"/>後別分別此初摽舉因定及果皆有差別。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0294a0517" rend="inline">論云何
+<lb ed="A" n="0294a06"/>作意至施設作意故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0294a0609" rend="margin-left:1em;inline">演曰後別分別文中有四一
+<lb ed="A" n="0294a07"/>明得成二辯修成三明行成四辯果成此明作意得
+<lb ed="A" n="0294a08"/>成唯二文分為二先徵後釋先徵意云云何作意得
+<lb ed="A" n="0294a09"/>成勝劣二種行耶其荅意云由隨勝解所想光等大
+<lb ed="A" n="0294a10"/>小不同施設作意得成勝劣二種差別。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0294a1016" rend="inline">論云何作
+<lb ed="A" n="0294a11"/>意至轉增勝故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0294a1107" rend="margin-left:1em;inline">演曰二辯修成勝劣作意既為二
+<lb ed="A" n="0294a12"/>緣所修定體必有差別初時為劣後時圓滿轉為
+<lb ed="A" n="0294a13"/>勝故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0294a1303" rend="inline">論云何以修至生有差別。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0294a1313" rend="margin-left:1em;inline">演曰三明行成
+<lb ed="A" n="0294a14"/>定既有差相應思行勝劣亦異。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0294a1413" rend="inline">論云何以行至勝
+<pb ed="A" xml:id="A120.1565.0294b" n="0294b"/>
+<lb ed="A" n="0294b01"/>劣差別。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0294b0104" rend="margin-left:1em;inline">演曰四辯果成文分為二先明果二後別
+<lb ed="A" n="0294b02"/>分別初中有二先徵後釋先徵意云云何二行所招
+<lb ed="A" n="0294b03"/>天果亦為二耶其荅意云謂修定行勝劣不同天身
+<lb ed="A" n="0294b04"/>大小光明壽命亦復差別始從初禪乃至究竟地地
+<lb ed="A" n="0294b05"/>皆有勝劣二也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0294b0507" rend="inline">論問初二靜慮至有何差別。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0294b0518" rend="margin-left:1em;inline">演
+<lb ed="A" n="0294b06"/>曰後別分別文分為二初問後荅此初問云所招天
+<lb ed="A" n="0294b07"/>果勝劣既差初二光明有何差別。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0294b0714" rend="inline">論荅至俱有光
+<lb ed="A" n="0294b08"/>明。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0294b0802" rend="margin-left:1em;inline">演曰後荅分二先舉喻明後引經證此初也。</p></cb:div>
+<lb ed="A" n="0294b09"/><cb:div type="orig"><p xml:id="pA120p0294b0901">論是故經說至非於下地。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0294b0911" rend="margin-left:1em;inline">演曰後引經證經說彼
+<lb ed="A" n="0294b10"/>界初定<anchor xml:id="beg_81" type="cb-app"/>已<anchor xml:id="end_81"/>上當地天身光明一種名一種身非於下
+<lb ed="A" n="0294b11"/>地欲地等身名一種也欲天身光各不同故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0294b1118" rend="inline">論復
+<lb ed="A" n="0294b12"/>次至四無量定。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0294b1207" rend="margin-left:1em;inline">演曰二明無量文分為四一辯四
+<lb ed="A" n="0294b13"/>行相二引經辯釋三問荅料揀四結歸聖行初中有
+<lb ed="A" n="0294b14"/>二先徵後釋此先徵也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0294b1410" rend="inline">論謂諸有情至永不相離。</p></cb:div>
+<pb ed="A" xml:id="A120.1565.0295a" n="0295a"/>
+<lb ed="A" n="0295a01"/><cb:div type="commentary"><p xml:id="pA120p0295a0101" rend="margin-left:1em">演曰後釋有二先略後廣此略明也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0295a0115" rend="inline">論於彼作意
+<lb ed="A" n="0295a02"/>至建立四種。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0295a0206" rend="margin-left:1em;inline">演曰後廣分二初標後辯此初標舉
+<lb ed="A" n="0295a03"/>於彼有情作意有四故隨作意立四差別。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0295a0317" rend="inline">論謂由
+<lb ed="A" n="0295a04"/>與樂至建立前三。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0295a0408" rend="margin-left:1em;inline">演曰後辯分二一明前三二明
+<lb ed="A" n="0295a05"/>後一此初也謂對三類有情別故別修三行謂與樂
+<lb ed="A" n="0295a06"/>拔苦及不離也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0295a0607" rend="inline">論即於此三至建立於捨。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0295a0617" rend="margin-left:1em;inline">演曰二
+<lb ed="A" n="0295a07"/>明後一謂即於此無苦樂等三有情所欲令捨離癡
+<lb ed="A" n="0295a08"/>嗔貪欲故先令彼得樂離苦樂不離<anchor xml:id="beg_82" type="cb-app"/>已<anchor xml:id="end_82"/>而復如次令
+<lb ed="A" n="0295a09"/>捨癡嗔貪欲起此三種不染作意由三有情如次癡
+<lb ed="A" n="0295a10"/>嗔貪欲增故故令別捨癡增上者思慕苦集生死之
+<lb ed="A" n="0295a11"/>本不思慕者要絕癡本舉本顯末言令不思。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0295a1118" rend="inline">論經
+<lb ed="A" n="0295a12"/>言以慈俱心乃至廣說。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0295a1210" rend="margin-left:1em;inline">演曰二引經辯釋文分為
+<lb ed="A" n="0295a13"/>二初揔舉經後別牒釋此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0295a1313" rend="inline">論現前饒益至時
+<lb ed="A" n="0295a14"/>專注故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0295a1404" rend="margin-left:1em;inline">演曰後別牒釋文有十句一者慈俱二慈
+<pb ed="A" xml:id="A120.1565.0295b" n="0295b"/>
+<lb ed="A" n="0295b01"/>善友於中有二一欲利益二欲安樂三者無怨四者
+<lb ed="A" n="0295b02"/>無敵五無<g ref="#CB08974">𢙉</g>害此三如次意語身三六者廣義七者
+<lb ed="A" n="0295b03"/>大義八者無量果無量果者近果梵天遠招佛果九
+<lb ed="A" n="0295b04"/>善修習十慈俱相曲有三句一勝解遍二者具足三
+<lb ed="A" n="0295b05"/>者住也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0295b0504" rend="inline">論問至此何密意。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0295b0511" rend="margin-left:1em;inline">演曰三問荅料揀文
+<lb ed="A" n="0295b06"/>分為二初牒經為問二依經會釋此初問云諸教通
+<lb ed="A" n="0295b07"/>論依欲色界四類有情起四無量今復有經色界修
+<lb ed="A" n="0295b08"/>慈無色下三起悲喜捨有何密意作此說耶。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0295b0818" rend="inline">論荅
+<lb ed="A" n="0295b09"/>至極於遍淨。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0295b0906" rend="margin-left:1em;inline">演曰二依經會釋分之為四一荅於
+<lb ed="A" n="0295b10"/>慈二明悲處三彰喜相四辯捨心此初也四無量者
+<lb ed="A" n="0295b11"/>凡聖同修三乘共學對下有情起四行者依修三乘
+<lb ed="A" n="0295b12"/>凡聖通語今復有經言無色者唯依大乘菩薩行說
+<lb ed="A" n="0295b13"/>菩薩之行廣大為心故修四心皆於極處第三靜慮
+<lb ed="A" n="0295b14"/>樂最增勝故於勝處修慈愍心與諸眾生最勝樂故。</p></cb:div>
+<pb ed="A" xml:id="A120.1565.0296a" n="0296a"/>
+<lb ed="A" n="0296a01"/><cb:div type="orig"><p xml:id="pA120p0296a0101">論憶念空處至及所依處。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0296a0111" rend="margin-left:1em;inline">演曰二明悲處悲能拔
+<lb ed="A" n="0296a02"/>苦無色空處無前七苦念無苦處而起悲心欲與眾
+<lb ed="A" n="0296a03"/>生拔諸苦故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0296a0306" rend="inline">論修喜定者至為最第一。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0296a0316" rend="margin-left:1em;inline">演曰三
+<lb ed="A" n="0296a04"/>彰喜相喜無量者不嫉為體慶諸眾生得無量樂
+<lb ed="A" n="0296a05"/>故於識處念無邊喜欲與眾生無邊樂故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0296a0517" rend="inline">論修捨
+<lb ed="A" n="0296a06"/>定者至為最第一。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0296a0608" rend="margin-left:1em;inline">演曰四辯捨心捨謂棄捨棄捨
+<lb ed="A" n="0296a07"/>染法無漏之能故念無漏最極之所行其捨心欲令
+<lb ed="A" n="0296a08"/>眾生捨諸<g ref="#CB08891">𢙣</g>故無漏有二一斷惑道二遊觀心今據
+<lb ed="A" n="0296a09"/>斷惑名為後邊遊觀有頂亦得有故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0296a0915" rend="inline">論如是至覺
+<lb ed="A" n="0296a10"/>分俱行。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0296a1004" rend="margin-left:1em;inline">演曰四結歸聖行唯於聖位能修此行故
+<lb ed="A" n="0296a11"/>與覺分得有俱行非餘凡天有此能也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0296a1116" rend="inline">論復次至
+<lb ed="A" n="0296a12"/>三摩地。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0296a1204" rend="margin-left:1em;inline">演曰四具分修習門文分為二初辯二修
+<lb ed="A" n="0296a13"/>次明定障初中有二先明分修後明具修初中有二
+<lb ed="A" n="0296a14"/>先問後荅此先問也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0296a1409" rend="inline">論謂於此中至或覩眾色。</p></cb:div>
+<pb ed="A" xml:id="A120.1565.0296b" n="0296b"/>
+<lb ed="A" n="0296b01"/><cb:div type="commentary"><p xml:id="pA120p0296b0101" rend="margin-left:1em">演曰後荅謂大光明及色相處隨修於一名一分修如
+<lb ed="A" n="0296b02"/>初解脫所想光明未能思惟少多等色或思眾色未
+<lb ed="A" n="0296b03"/>能思惟諸天光等名分修也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0296b0312" rend="inline">論云何具分至亦見
+<lb ed="A" n="0296b04"/>眾色。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0296b0403" rend="margin-left:1em;inline">演曰後明具修了光之時亦見眾色了色之
+<lb ed="A" n="0296b05"/>際亦覩眾光二境皆修名為具分。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0296b0514" rend="inline">論如是修習至
+<lb ed="A" n="0296b06"/>如經廣說。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0296b0605" rend="margin-left:1em;inline">演曰次明定障文分為二先標指處後
+<lb ed="A" n="0296b07"/>廣分別此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0296b0707" rend="inline">論問此誰難耶。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0296b0713" rend="margin-left:1em;inline">演曰後廣分別
+<lb ed="A" n="0296b08"/>文分三段一問難所屬二別釋十一三結成障相初
+<lb ed="A" n="0296b09"/>中有二先問後荅此先問也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0296b0912" rend="inline">論荅至便不能住。</p></cb:div>
+<lb ed="A" n="0296b10"/><cb:div type="commentary"><p xml:id="pA120p0296b1001" rend="margin-left:1em">演曰後荅有二初揔後別此揔荅云謂與三摩地相
+<lb ed="A" n="0296b11"/>為障難故定相有二一所緣相謂定境界光明等相
+<lb ed="A" n="0296b12"/>二因緣相即修定之因用二為依方能住定若有難
+<lb ed="A" n="0296b13"/>生二相便退不能住定故說此障與相為難。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0296b1318" rend="inline">論此
+<lb ed="A" n="0296b14"/>中最初至與定為難。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0296b1409" rend="margin-left:1em;inline">演曰二別釋難而有十一一疑
+<pb ed="A" xml:id="A120.1565.0297a" n="0297a"/>
+<lb ed="A" n="0297a01"/>生顛倒難謂此中下至便覺有疑不了光等來之所
+<lb ed="A" n="0297a02"/>從故疑倒起二不欲作意難謂方便緩故如是由怠
+<lb ed="A" n="0297a03"/>慢故故於光等不欲意觀三<g ref="#CB04974">󱍮</g>重睡眠難謂由不守
+<lb ed="A" n="0297a04"/>至身<g ref="#CB04974">󱍮</g>重等四多生思覺難謂多覺下至而不圓滿
+<lb ed="A" n="0297a05"/>五增減非等難謂此二下至鷃鳥者精進太過力便不
+<lb ed="A" n="0297a06"/>逮退生疲極所欲不成如捉持鳥急捉即疲緩捉即
+<lb ed="A" n="0297a07"/>失其性躁急持之甚勞偏以為喻尺鷃者<note place="inline">於諫反</note>國語云
+<lb ed="A" n="0297a08"/>雀也以鷃長尺故名尺鷃六<g ref="#CB04974">󱍮</g>生喜躍難謂彼唯思
+<lb ed="A" n="0297a09"/>至得二伏藏是七遍生怖畏難謂遍於諸方至本起
+<lb ed="A" n="0297a10"/>也旋轉起者謂旋風也八異境想生難謂彼於行時
+<lb ed="A" n="0297a11"/>至與定為難九有慢想起難謂或復因其至種種想
+<lb ed="A" n="0297a12"/>也十多語尋思難謂或多言至與定為難十一更思
+<lb ed="A" n="0297a13"/>異境難謂若從定生至與定為難。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0297a1314" rend="inline">論如是諸難至
+<lb ed="A" n="0297a14"/>二相俱沒。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0297a1405" rend="margin-left:1em;inline">演曰三結成障相文顯可知。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0297a1416" rend="inline">論復次
+<pb ed="A" xml:id="A120.1565.0297b" n="0297b"/>
+<lb ed="A" n="0297b01"/>至諸三摩地。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0297b0106" rend="margin-left:1em;inline">演曰五三受俱行門如文可悉。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0297b0118" rend="inline">論
+<lb ed="A" n="0297b02"/>復次至現法樂住。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0297b0208" rend="margin-left:1em;inline">演曰六四修差別門文分為四
+<lb ed="A" n="0297b03"/>一修樂住二修智見三修生慧四修漏盡初文有二
+<lb ed="A" n="0297b04"/>先徵後釋此先徵云所修定者為欲發生現法樂住
+<lb ed="A" n="0297b05"/>何者是耶。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0297b0505" rend="inline">論謂於四種至所有修定。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0297b0515" rend="margin-left:1em;inline">演曰後釋
+<lb ed="A" n="0297b06"/>分二初辯所修後通教難此初復二一為修四禪四
+<lb ed="A" n="0297b07"/>現法故修四近分近分為因方得樂故二及修根本
+<lb ed="A" n="0297b08"/>四種靜慮令圓滿故方始發生四種樂住是故名為
+<lb ed="A" n="0297b09"/>住修定也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0297b0905" rend="inline">論為顯修習至前方便道。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0297b0915" rend="margin-left:1em;inline">演曰後通
+<lb ed="A" n="0297b10"/>教難據理而言修四靜慮皆有方便世尊唯依初定
+<lb ed="A" n="0297b11"/>說者顯昔未遇今創修成希奇偏說非後三定無方
+<lb ed="A" n="0297b12"/>便也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0297b1203" rend="inline">論云何修定為得智見。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0297b1212" rend="margin-left:1em;inline">演曰二修智見文
+<lb ed="A" n="0297b13"/>分為二先問後荅此先問也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0297b1312" rend="inline">論謂諸苾蒭至如經
+<lb ed="A" n="0297b14"/>廣說。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0297b1403" rend="margin-left:1em;inline">演曰後荅分二一標經揔荅二依經別辯此
+<pb ed="A" xml:id="A120.1565.0298a" n="0298a"/>
+<lb ed="A" n="0298a01"/>初也謂於光等審諦而取名為智見。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0298a0115" rend="inline">論當知此在
+<lb ed="A" n="0298a02"/>至所有修定。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0298a0206" rend="margin-left:1em;inline">演曰二依經別辯文分為二一揔明
+<lb ed="A" n="0298a03"/>修定二別明智見此初也所得天眼皆因定發故說
+<lb ed="A" n="0298a04"/>修定名方便道。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0298a0407" rend="inline">論此中天眼至說名為見。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0298a0417" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0298a05"/>二別明智見文又分二先見後智此初見也對觀色
+<lb ed="A" n="0298a06"/>境說名為見。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0298a0606" rend="inline">論能知諸天至是名為智。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0298a0616" rend="margin-left:1em;inline">演曰
+<lb ed="A" n="0298a07"/>後智也對觀種類名之為智要得天眼方能了知諸
+<lb ed="A" n="0298a08"/>天名等故名為智未得天眼實未知也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0298a0816" rend="inline">論云何修
+<lb ed="A" n="0298a09"/>定生分別慧。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0298a0906" rend="margin-left:1em;inline">演曰三修生慧文亦為二初問後荅
+<lb ed="A" n="0298a10"/>此先問也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0298a1005" rend="inline">論謂諦現觀至所有修定。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0298a1015" rend="margin-left:1em;inline">演曰後荅
+<lb ed="A" n="0298a11"/>分二一為現觀二為無<g ref="#CB01002">㝵</g>此初也謂求無漏現觀智
+<lb ed="A" n="0298a12"/>故而修此定現觀要因定所發起故說修定名方便
+<lb ed="A" n="0298a13"/>中即七方便及真見道并相見道十五心來所有修
+<lb ed="A" n="0298a14"/>定並是為生須陁洹果分別慧故為釋果向故取相
+<pb ed="A" xml:id="A120.1565.0298b" n="0298b"/>
+<lb ed="A" n="0298b01"/>真二見道等其實修定但在加行世第一前以真相見
+<lb ed="A" n="0298b02"/>並在觀中名分別故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0298b0209" rend="inline">論或為修習諸無<g ref="#CB01002">㝵</g>解。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0298b0218" rend="margin-left:1em;inline">演
+<lb ed="A" n="0298b03"/>曰二為無<g ref="#CB01002">㝵</g>為求四種無<g ref="#CB01002">㝵</g>慧解而修習定名生分
+<lb ed="A" n="0298b04"/>別。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0298b0402" rend="inline">論云何修定為盡諸漏。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0298b0411" rend="margin-left:1em;inline">演曰四修漏盡文分
+<lb ed="A" n="0298b05"/>為二先問後荅此先問也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0298b0511" rend="inline">論謂阿羅漢至所有修
+<lb ed="A" n="0298b06"/>定。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0298b0602" rend="margin-left:1em;inline">演曰後荅之也羅漢果者即是所求漏盡之處
+<lb ed="A" n="0298b07"/>為求此故金剛位前所修諸定名方便修小宗所辯
+<lb ed="A" n="0298b08"/>如俱舍論第二十八顯宗三十九順正理論第七十
+<lb ed="A" n="0298b09"/>九品類足論十四雜心毗曇並具明之如別章引。</p></cb:div>
+<lb ed="A" n="0298b10"/><cb:div type="orig"><p xml:id="pA120p0298b1001">論復次至三摩地。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0298b1008" rend="margin-left:1em;inline">演曰七五智相應門文分為二
+<lb ed="A" n="0298b11"/>初徵後釋此初徵云世尊說有五種聖智從定所生
+<lb ed="A" n="0298b12"/>了定差別未知五種名目行相其體是何。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0298b1217" rend="inline">論謂我
+<lb ed="A" n="0298b13"/>至廣說如經。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0298b1306" rend="margin-left:1em;inline">演曰後釋分三一標經說有二列五
+<lb ed="A" n="0298b14"/>智名三依經解釋此初也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0298b1411" rend="inline">論此中示現至出定相
+<pb ed="A" xml:id="A120.1565.0299a" n="0299a"/>
+<lb ed="A" n="0299a01"/>智。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0299a0102" rend="margin-left:1em;inline">演曰二列五智名一自體智明諸無漏智之自
+<lb ed="A" n="0299a02"/>體從定所生了知定體無漏離染名自體智二補特
+<lb ed="A" n="0299a03"/>伽羅智約人以顯謂聖所得非凡得之三清淨智除
+<lb ed="A" n="0299a04"/>煩<g ref="#CB08974">𢙉</g>故漏不能染四果智者謂現法樂住當得涅盤
+<lb ed="A" n="0299a05"/>五入出智者善入出定無忘失故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0299a0514" rend="inline">論聖者善故至
+<lb ed="A" n="0299a06"/>無漏聖性。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0299a0605" rend="margin-left:1em;inline">演曰三依經解釋有十四句辯明五智
+<lb ed="A" n="0299a07"/>分之為五初之三句明自體智一者是聖復分為二
+<lb ed="A" n="0299a08"/>一善二無漏二者無染三者無執具此三義名自體
+<lb ed="A" n="0299a09"/>智。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0299a0902" rend="inline">論非凡夫至所親近故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0299a0911" rend="margin-left:1em;inline">演曰二有三句辯補
+<lb ed="A" n="0299a10"/>特伽羅智分為三段一非凡能近二聖所讚之三聖
+<lb ed="A" n="0299a11"/>不訶毀此初也凡夫非得佛及弟子方能得也親近
+<lb ed="A" n="0299a12"/>者證得義。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0299a1205" rend="inline">論是聦叡至所稱讚故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0299a1214" rend="margin-left:1em;inline">演曰二聖所
+<lb ed="A" n="0299a13"/>讚之即彼諸佛及聖弟子常所稱讚此淨定故。</p></cb:div>
+<lb ed="A" n="0299a14"/><cb:div type="orig"><p xml:id="pA120p0299a1401">論是諸聦叡至而復訶毀。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0299a1411" rend="margin-left:1em;inline">演曰三聖不訶毀是諸
+<pb ed="A" xml:id="A120.1565.0299b" n="0299b"/>
+<lb ed="A" n="0299b01"/>聦叡聖同行者一向稱讚無漏淨定無訶毀時不周
+<lb ed="A" n="0299b02"/>凡夫猒下欣上初即讚之後復毀故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0299b0215" rend="inline">論寂靜者至無
+<lb ed="A" n="0299b03"/>伺地故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0299b0304" rend="margin-left:1em;inline">演曰三有四句辯清淨智一者寂靜謂斷
+<lb ed="A" n="0299b04"/>下地諸煩<g ref="#CB08974">𢙉</g>故二者微妙能離當地貪染等故三者
+<lb ed="A" n="0299b05"/>安隱謂得無漏安隱道故四者一緣謂無尋伺趣一
+<lb ed="A" n="0299b06"/>境故。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0299b0603" rend="inline">論現在安樂至涅盤樂故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0299b0613" rend="margin-left:1em;inline">演曰四有二句
+<lb ed="A" n="0299b07"/>明果智體一者現果謂現法樂住二者後果謂無餘
+<lb ed="A" n="0299b08"/>涅盤涅盤因修果方得熟似彼有漏即異時而熟名
+<lb ed="A" n="0299b09"/>為異熟據理實非異熟果也。</p></cb:div><cb:div type="orig"><p xml:id="pA120p0299b0912" rend="inline">論正念而入至無忘
+<lb ed="A" n="0299b10"/>失故。</p></cb:div><cb:div type="commentary"><p xml:id="pA120p0299b1003" rend="margin-left:1em;inline">演曰五有二句明入出智如文可悉。</p></cb:div>
+<lb ed="A" n="0299b11"/>
+<lb ed="A" n="0299b12"/><cb:juan fun="close" n="6"><cb:jhead>瑜伽師地論義演卷第六</cb:jhead></cb:juan>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_53" cb:to="#end_53"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_54" cb:to="#end_54"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_55" cb:to="#end_55"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_56" cb:to="#end_56"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_57" cb:to="#end_57"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_58" cb:to="#end_58"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_59" cb:to="#end_59"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5a" cb:to="#end_5a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5b" cb:to="#end_5b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5c" cb:to="#end_5c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5d" cb:to="#end_5d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5e" cb:to="#end_5e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5f" cb:to="#end_5f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_60" cb:to="#end_60"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_61" cb:to="#end_61"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_62" cb:to="#end_62"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_63" cb:to="#end_63"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_64" cb:to="#end_64"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_65" cb:to="#end_65"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_66" cb:to="#end_66"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_67" cb:to="#end_67"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_68" cb:to="#end_68"><corr>卷</corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_69" cb:to="#end_69"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6a" cb:to="#end_6a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6b" cb:to="#end_6b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6c" cb:to="#end_6c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6d" cb:to="#end_6d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6e" cb:to="#end_6e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6f" cb:to="#end_6f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_70" cb:to="#end_70"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_71" cb:to="#end_71"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_72" cb:to="#end_72"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_73" cb:to="#end_73"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_74" cb:to="#end_74"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_75" cb:to="#end_75"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_76" cb:to="#end_76"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_77" cb:to="#end_77"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_78" cb:to="#end_78"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_79" cb:to="#end_79"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7a" cb:to="#end_7a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7b" cb:to="#end_7b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7c" cb:to="#end_7c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7d" cb:to="#end_7d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7e" cb:to="#end_7e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7f" cb:to="#end_7f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_80" cb:to="#end_80"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_81" cb:to="#end_81"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_82" cb:to="#end_82"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

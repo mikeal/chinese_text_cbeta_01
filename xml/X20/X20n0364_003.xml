@@ -1,0 +1,1835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X20n0364">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 364 思益梵天所問經簡註</title>
+			<author>明 圓澄註</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.6 $<date>$Date: 2009/04/22 08:53:04 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>Xuzangjing</name></respStmt>
+		<respStmt xml:id="resp2"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA</name></respStmt>
+	</editionStmt>
+	<extent>4卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:53:04 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 20, No. 364 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB01926">
+	<charName>CBETA CHARACTER CB01926</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[厂@火]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>灰</value>
+	</charProp>
+	<mapping type="normal_unicode">U+7070</mapping>
+	<mapping cb:dec="984966" type="PUA">U+F0786</mapping>
+</char>
+<char xml:id="CB02494">
+	<charName>CBETA CHARACTER CB02494</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+(乏-之+友)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>跋</value>
+	</charProp>
+	<mapping type="unicode">U+47E6</mapping>
+	<mapping cb:dec="985534" type="PUA">U+F09BE</mapping>
+</char>
+<char xml:id="CB04676">
+	<charName>CBETA CHARACTER CB04676</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[ㄠ-ㄙ+?]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>允</value>
+	</charProp>
+	<mapping type="unicode">U+200D4</mapping>
+	<mapping cb:dec="987716" type="PUA">U+F1244</mapping>
+</char>
+<char xml:id="CB15081">
+	<charName>CBETA CHARACTER CB15081</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[竺-二+束]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>策</value>
+	</charProp>
+	<mapping type="unicode">U+41FF</mapping>
+	<mapping cb:dec="998121" type="PUA">U+F3AE9</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2006-06-09T16:44:57">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">薩婆若品第十一</cb:mulu>
+<lb ed="X" n="0813b02"/><milestone unit="juan" n="3"/>
+<lb ed="X" n="0813b03"/>
+<lb ed="X" n="0813b04"/>
+<lb ed="X" n="0813b05"/><lb ed="R033" n="0856b07"/><cb:juan fun="open" n="3"><cb:mulu type="卷" n="3"></cb:mulu><cb:jhead>思益梵天所問經簡註卷之三</cb:jhead></cb:juan>
+<lb ed="X" n="0813b06"/><lb ed="R033" n="0856b08"/><byline cb:type="other">姚秦三藏法師　鳩摩羅什奉　詔譯</byline>
+<lb ed="X" n="0813b07"/><lb ed="R033" n="0856b09"/><byline cb:type="author">明會稽顯聖寺後學沙門　圓澄　註</byline>
+<lb ed="X" n="0813b08"/><lb ed="R033" n="0856b10"/><byline cb:type="other">右春坊右庶子南充　黃　輝</byline>
+<lb ed="X" n="0813b09"/><lb ed="R033" n="0856b11"/><byline cb:type="other">左春坊左諭德會稽　陶望齡　同校</byline>
+<lb ed="X" n="0813b10"/><lb ed="R033" n="0856b12"/><byline cb:type="other">左春坊左中<g ref="#CB04676">𠃔</g>太原　傅新德　訂正</byline>
+<lb ed="X" n="0813b11"/><lb ed="R033" n="0856b13"/><cb:div type="pin"><cb:mulu type="其他" level="1">菩薩無二品第十二</cb:mulu><head>菩薩無二品第十二</head>
+<lb ed="X" n="0813b12"/><lb ed="R033" n="0856b14"/><cb:div type="commentary"><p xml:id="pX20p0813b1201" rend="margin-left:1em">【註】前文一往問答之辭以方便實相合而不雜分
+<lb ed="X" n="0813b13"/><lb ed="R033" n="0856b15"/>而不離二而不二不二而二指趣淵深綿微難見
+<lb ed="X" n="0813b14"/><lb ed="R033" n="0856b16"/>梵天雖悟說是無說之義未解無說是說之旨此
+<lb ed="X" n="0813b15"/><lb ed="R033" n="0856b17"/>品特標無二者會前諸法皆歸無二矣。</p></cb:div>
+<lb ed="X" n="0813b16"/><lb ed="R033" n="0856b18"/><cb:div type="orig"><p xml:id="pX20p0813b1601">爾時思益梵天白佛言世界是文殊師利法王子在
+<lb ed="X" n="0813b17"/><lb ed="R033" n="0857a01"/>此大會而無所說。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0813b1708" rend="margin-left:1em;inline">【註】梵語文殊師利此云妙吉祥如
+<lb ed="X" n="0813b18"/><lb ed="R033" n="0857a02"/>來會上為擇法眼既為擇法之眼不容無說蓋文
+<lb ed="X" n="0813b19"/><lb ed="R033" n="0857a03"/>殊于方等會上以三十二大士各說不二法門以
+<lb ed="X" n="0813b20"/><lb ed="R033" n="0857a04"/>其親從此中來不容無問而說待問而後發明也。</p></cb:div>
+<lb ed="X" n="0813b21"/><lb ed="R033" n="0857a05"/><cb:div type="orig"><p xml:id="pX20p0813b2101">佛即告文殊師利汝於此所說法中可少說之。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0813b2119" rend="margin-left:1em;inline">【註】佛
+<lb ed="X" n="0813b22"/><lb ed="R033" n="0857a06"/>令文殊少說者發明前所說法即是無說之說於
+<lb ed="X" n="0813b23"/><lb ed="R033" n="0857a07"/>中無有少法可說也佛不自說令文殊說者使對
+<lb ed="X" n="0813b24"/><lb ed="R033" n="0857a08"/>眾辨明也。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0813c" n="0813c"/>
+<lb ed="X" n="0813c01"/><lb ed="R033" n="0857a09"/><cb:div type="orig"><p xml:id="pX20p0813c0101">文殊師利白佛言世尊佛所得法寧可識不佛言不
+<lb ed="X" n="0813c02"/><lb ed="R033" n="0857a10"/>可識也世尊是法可說可演可論不佛言不可說不
+<lb ed="X" n="0813c03"/><lb ed="R033" n="0857a11"/>可演不可論世尊若是法不可說不可演不可論者
+<lb ed="X" n="0813c04"/><lb ed="R033" n="0857a12"/>則不可示也。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0813c0406" rend="margin-left:1em;inline">【註】先標定世尊聖覺智自證之法然後
+<lb ed="X" n="0813c05"/><lb ed="R033" n="0857a13"/>辨其無說無示無演無論使人妙契言外之旨以
+<lb ed="X" n="0813c06"/><lb ed="R033" n="0857a14"/>自證之法不可得故所以智不能知識不能識言
+<lb ed="X" n="0813c07"/><lb ed="R033" n="0857a15"/>語道斷心行處絕淨名以是杜口於毗耶世尊以
+<lb ed="X" n="0813c08"/><lb ed="R033" n="0857a16"/>是掩室於摩竭若能悟旨則塵說剎說未嘗間歇
+<lb ed="X" n="0813c09"/><lb ed="R033" n="0857a17"/>豈特文殊不說而世尊曷嘗說乎。</p></cb:div>
+<lb ed="X" n="0813c10"/><lb ed="R033" n="0857a18"/><cb:div type="orig"><p xml:id="pX20p0813c1001">爾時思益梵天謂文殊師利汝不為眾生演說法乎
+<lb ed="X" n="0813c11"/><lb ed="R033" n="0857b01"/>文殊師利言梵天法性中有二相耶梵天言無也文
+<lb ed="X" n="0813c12"/><lb ed="R033" n="0857b02"/>殊師利言一切法不入法性耶梵天言然文殊師利
+<lb ed="X" n="0813c13"/><lb ed="R033" n="0857b03"/>言若法性是不二相一切法入法性中云何當為眾
+<lb ed="X" n="0813c14"/><lb ed="R033" n="0857b04"/>生說法。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0813c1404" rend="margin-left:1em;inline">【註】若云是法無說無示者則文殊師利能不
+<lb ed="X" n="0813c15"/><lb ed="R033" n="0857b05"/>與眾生說法耶非謂不與說法但說法無二相也
+<lb ed="X" n="0813c16"/><lb ed="R033" n="0857b06"/>若有一法可言於法性中有說有聽有說有聽則
+<lb ed="X" n="0813c17"/><lb ed="R033" n="0857b07"/>著我人著我人者是名戲論非得法性若一切法
+<lb ed="X" n="0813c18"/><lb ed="R033" n="0857b08"/>皆入法性法性無二無二故無說即說何當更為
+<lb ed="X" n="0813c19"/><lb ed="R033" n="0857b09"/>眾生說乎。</p></cb:div>
+<lb ed="X" n="0813c20"/><lb ed="R033" n="0857b10"/><cb:div type="orig"><p xml:id="pX20p0813c2001">梵天言頗有說法亦無二相耶文殊師利言若決定
+<lb ed="X" n="0813c21"/><lb ed="R033" n="0857b11"/>得說者聽者可有說法亦無有二。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0813c2114" rend="margin-left:1em;inline">【註】以法性無二故
+<lb ed="X" n="0813c22"/><lb ed="R033" n="0857b12"/>無說與說亦無有二不必更說也既無說與說不
+<lb ed="X" n="0813c23"/><lb ed="R033" n="0857b13"/>二頗有說與無說不二不若決定得說者聽者可
+<lb ed="X" n="0813c24"/><lb ed="R033" n="0857b14"/>言有二有不二若說者聽者決定不可得故指何
+<pb ed="X" xml:id="X20.0364.0814a" n="0814a"/>
+<lb ed="X" n="0814a01"/><lb ed="R033" n="0857b15"/>法為二為不二也。</p></cb:div>
+<lb ed="X" n="0814a02"/><lb ed="R033" n="0857b16"/><cb:div type="orig"><p xml:id="pX20p0814a0201">文殊師利如來不說法耶文殊師利言佛雖說法不
+<lb ed="X" n="0814a03"/><lb ed="R033" n="0857b17"/>以二相何以故如來性無二故雖有所說而無二也。</p></cb:div>
+<lb ed="X" n="0814a04"/><lb ed="R033" n="0857b18"/><cb:div type="commentary"><p xml:id="pX20p0814a0401" rend="margin-left:1em">【註】不以二相者無有能說所說之相也無有能說
+<lb ed="X" n="0814a05"/><lb ed="R033" n="0858a01"/>所說則說與不說皆入法性故楞伽有二種通謂
+<lb ed="X" n="0814a06"/><lb ed="R033" n="0858a02"/>宗通相說通相宗通相者謂聖默然說通相者謂
+<lb ed="X" n="0814a07"/><lb ed="R033" n="0858a03"/>聖說法是二者說與不說會歸法性也。</p></cb:div>
+<lb ed="X" n="0814a08"/><lb ed="R033" n="0858a04"/><cb:div type="orig"><p xml:id="pX20p0814a0801">梵天言若一切法無二其誰為二文殊師利言凡夫
+<lb ed="X" n="0814a09"/><lb ed="R033" n="0858a05"/>貪著我故分別二耳不二者終不為二雖種種分別
+<lb ed="X" n="0814a10"/><lb ed="R033" n="0858a06"/>為二然其實際無有二相。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0814a1011" rend="margin-left:1em;inline">【註】一切法聖人證實相故
+<lb ed="X" n="0814a11"/><lb ed="R033" n="0858a07"/>無二凡夫著我我所虗妄分別故二耳以實相不
+<lb ed="X" n="0814a12"/><lb ed="R033" n="0858a08"/>二者不因凡夫分別而成二也故凡夫是稱虗妄
+<lb ed="X" n="0814a13"/><lb ed="R033" n="0858a09"/>彼實際豈因而二之也。</p></cb:div>
+<lb ed="X" n="0814a14"/><lb ed="R033" n="0858a10"/><cb:div type="orig"><p xml:id="pX20p0814a1401">梵天言云何識無二法文殊師利言若無二可識則
+<lb ed="X" n="0814a15"/><lb ed="R033" n="0858a11"/>非無二所以者何無二相者不可識也。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0814a1516" rend="margin-left:1em;inline">【註】若有無二
+<lb ed="X" n="0814a16"/><lb ed="R033" n="0858a12"/>可識則非真無二也何也以有對待故若無有對
+<lb ed="X" n="0814a17"/><lb ed="R033" n="0858a13"/>待安能識無二哉。</p></cb:div>
+<lb ed="X" n="0814a18"/><lb ed="R033" n="0858a14"/><cb:div type="orig"><p xml:id="pX20p0814a1801">梵天二即是識業不可識法佛所說也。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0814a1816" rend="margin-left:1em;inline">【註】佛說二者
+<lb ed="X" n="0814a19"/><lb ed="R033" n="0858a15"/>是業相可識法性則不可識也。</p></cb:div>
+<lb ed="X" n="0814a20"/><lb ed="R033" n="0858a16"/><cb:div type="orig"><p xml:id="pX20p0814a2001">是法不爾如所說何以故是法無文字故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0814a2017" rend="margin-left:1em;inline">【註】是法不
+<lb ed="X" n="0814a21"/><lb ed="R033" n="0858a17"/>爾者不如業相之可識如來所說不依文字語言
+<lb ed="X" n="0814a22"/><lb ed="R033" n="0858a18"/>故不可識也。</p></cb:div>
+<lb ed="X" n="0814a23"/><lb ed="R033" n="0858b01"/><cb:div type="orig"><p xml:id="pX20p0814a2301">文殊師利佛所說法終何所至文殊師利言如來說
+<lb ed="X" n="0814a24"/><lb ed="R033" n="0858b02"/>法至無所至梵天言佛所說法不至涅槃耶文殊師
+<pb ed="X" xml:id="X20.0364.0814b" n="0814b"/>
+<lb ed="X" n="0814b01"/><lb ed="R033" n="0858b03"/>利言涅槃可得至耶梵天言涅槃無來處無至處文
+<lb ed="X" n="0814b02"/><lb ed="R033" n="0858b04"/>殊師利言如是佛所說法至無所至。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0814b0215" rend="margin-left:1em;inline">【註】佛所說法終
+<lb ed="X" n="0814b03"/><lb ed="R033" n="0858b05"/>至涅槃以涅槃無有處所無處所故則來無所從
+<lb ed="X" n="0814b04"/><lb ed="R033" n="0858b06"/>去無所至無所至者是佛所說至無至者至寂滅
+<lb ed="X" n="0814b05"/><lb ed="R033" n="0858b07"/>自性也以自性寂滅故無說無演無示無識寧有
+<lb ed="X" n="0814b06"/><lb ed="R033" n="0858b08"/>處所可得至也。</p></cb:div>
+<lb ed="X" n="0814b07"/><lb ed="R033" n="0858b09"/><cb:div type="orig"><p xml:id="pX20p0814b0701">梵天言是法誰聽答言如所說梵天言云何如所說
+<lb ed="X" n="0814b08"/><lb ed="R033" n="0858b10"/>答言如不識不聞。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0814b0808" rend="margin-left:1em;inline">【註】是法既非言說可及未審誰肯
+<lb ed="X" n="0814b09"/><lb ed="R033" n="0858b11"/>聽邪聽者如所說不可識則解不可聞若解不可
+<lb ed="X" n="0814b10"/><lb ed="R033" n="0858b12"/>聞者肯聽是法也。</p></cb:div>
+<lb ed="X" n="0814b11"/><lb ed="R033" n="0858b13"/><cb:div type="orig"><p xml:id="pX20p0814b1101">梵天言誰能聽如來如是法答言不漏六塵者。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0814b1119" rend="margin-left:1em;inline">【註】眼
+<lb ed="X" n="0814b12"/><lb ed="R033" n="0858b14"/>見色如盲等耳聞聲如聾等是謂不漏六塵能如
+<lb ed="X" n="0814b13"/><lb ed="R033" n="0858b15"/>是不漏則達無聽之聽是真能聽法者也。</p></cb:div>
+<lb ed="X" n="0814b14"/><lb ed="R033" n="0858b16"/><cb:div type="orig"><p xml:id="pX20p0814b1401">梵天言誰能知是法答言無識無分別無諍訟者。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0814b1420" rend="margin-left:1em;inline">【註】
+<lb ed="X" n="0814b15"/><lb ed="R033" n="0858b17"/>無識則不緣名相無分別則不著外塵無諍訟則
+<lb ed="X" n="0814b16"/><lb ed="R033" n="0858b18"/>不執能所離此三者則自性靈明寂然常照是真
+<lb ed="X" n="0814b17"/><lb ed="R033" n="0859a01"/>能知也。</p></cb:div>
+<lb ed="X" n="0814b18"/><lb ed="R033" n="0859a02"/><cb:div type="orig"><p xml:id="pX20p0814b1801">梵天言云何比丘名多諍訟答言是好是惡此名諍
+<lb ed="X" n="0814b19"/><lb ed="R033" n="0859a03"/>訟是理是非理此名諍訟是垢是淨此名諍訟是善
+<lb ed="X" n="0814b20"/><lb ed="R033" n="0859a04"/>是不善此名諍訟是戒是毀戒此名諍訟是應作是
+<lb ed="X" n="0814b21"/><lb ed="R033" n="0859a05"/>不應作此名諍訟以是法得道以是法得果此名諍
+<lb ed="X" n="0814b22"/><lb ed="R033" n="0859a06"/>訟。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0814b2202" rend="margin-left:1em;inline">【註】問好惡垢淨是理非理持戒毀戒得道得果原
+<lb ed="X" n="0814b23"/><lb ed="R033" n="0859a07"/>于佛說云何同名諍訟耶答教道別也昔時佛為
+<lb ed="X" n="0814b24"/><lb ed="R033" n="0859a08"/>鈍根眾生未堪直趣大道權標名相使知進修此
+<pb ed="X" xml:id="X20.0364.0814c" n="0814c"/>
+<lb ed="X" n="0814c01"/><lb ed="R033" n="0859a09"/>一乘頓教名相蕩除理事不立直顯自心若立纖
+<lb ed="X" n="0814c02"/><lb ed="R033" n="0859a10"/>毫即名障礙二乘不了名相礙心所以文殊決擇
+<lb ed="X" n="0814c03"/><lb ed="R033" n="0859a11"/>者欲使法眼清淨也曰若然者好惡垢淨可名名
+<lb ed="X" n="0814c04"/><lb ed="R033" n="0859a12"/>相元無實體若執實有是成諍訟云何得道得果
+<lb ed="X" n="0814c05"/><lb ed="R033" n="0859a13"/>同彼諍訟答眾生躭著欲塵不求解脫佛說得道
+<lb ed="X" n="0814c06"/><lb ed="R033" n="0859a14"/>得果誘彼癡兒若出化城寶所非有執為實事諍
+<lb ed="X" n="0814c07"/><lb ed="R033" n="0859a15"/>訟由生故并揀之也。</p></cb:div>
+<lb ed="X" n="0814c08"/><lb ed="R033" n="0859a16"/><cb:div type="orig"><p xml:id="pX20p0814c0801">梵天若於法中有高下心貪著所受皆是諍訟佛所
+<lb ed="X" n="0814c09"/><lb ed="R033" n="0859a17"/>說法無有諍訟梵天樂戲論者無不諍訟樂諍訟者
+<lb ed="X" n="0814c10"/><lb ed="R033" n="0859a18"/>無沙門法樂沙門法者無有妄想貪著。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0814c1016" rend="margin-left:1em;inline">【註】如來所說
+<lb ed="X" n="0814c11"/><lb ed="R033" n="0859b01"/>大小名相皆是稱理稱機無心演出無有戲論凡
+<lb ed="X" n="0814c12"/><lb ed="R033" n="0859b02"/>夫樂著戲論于無諍訟中熾然諍訟著諍訟者非
+<lb ed="X" n="0814c13"/><lb ed="R033" n="0859b03"/>沙門法也沙門云勤息息滅戲論妄想勤修聖道
+<lb ed="X" n="0814c14"/><lb ed="R033" n="0859b04"/>故云勤息云何凡夫名為戲論邪以求道心不真
+<lb ed="X" n="0814c15"/><lb ed="R033" n="0859b05"/>效人問辨實自無心故名戲論此如古人聞一句
+<lb ed="X" n="0814c16"/><lb ed="R033" n="0859b06"/>義終身受持倘或不明經年決擇以悟自期忽爾
+<lb ed="X" n="0814c17"/><lb ed="R033" n="0859b07"/>發明疑惑并消今人無書不讀滿肚懷疑隱隱自
+<lb ed="X" n="0814c18"/><lb ed="R033" n="0859b08"/>嗤逢人強辨直得最妙最玄於<anchor xml:id="beg_49" type="cb-app"/>己<anchor xml:id="end_49"/>一無造履故云
+<lb ed="X" n="0814c19"/><lb ed="R033" n="0859b09"/>上士一決一切了下士多聞多不信多聞多不信
+<lb ed="X" n="0814c20"/><lb ed="R033" n="0859b10"/>非戲論而何。</p></cb:div>
+<lb ed="X" n="0814c21"/><lb ed="R033" n="0859b11"/><cb:div type="orig"><p xml:id="pX20p0814c2101">梵天言云何比丘隨佛語隨佛教答言若比丘稱讚
+<lb ed="X" n="0814c22"/><lb ed="R033" n="0859b12"/>毀辱其心不動是名隨佛教若比丘不隨文字語言
+<lb ed="X" n="0814c23"/><lb ed="R033" n="0859b13"/>是名隨佛語。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0814c2306" rend="margin-left:1em;inline">【註】稱讚者順境也毀辱者逆境也不為
+<lb ed="X" n="0814c24"/><lb ed="R033" n="0859b14"/>順逆所動是順佛之教也然則隨宜通變不在膠
+<pb ed="X" xml:id="X20.0364.0815a" n="0815a"/>
+<lb ed="X" n="0815a01"/><lb ed="R033" n="0859b15"/>柱調絃若執實事則著文字語言非順佛語也以
+<lb ed="X" n="0815a02"/><lb ed="R033" n="0859b16"/>無定之語是名佛語不動不著妙契中道下皆倣
+<lb ed="X" n="0815a03"/><lb ed="R033" n="0859b17"/>此。</p></cb:div>
+<lb ed="X" n="0815a04"/><lb ed="R033" n="0859b18"/><cb:div type="orig"><p xml:id="pX20p0815a0401">又比丘滅一切諸相是名隨佛教不違於義是名隨
+<lb ed="X" n="0815a05"/><lb ed="R033" n="0860a01"/>佛語。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815a0503" rend="margin-left:1em;inline">【註】破相顯空教門所載或奪或與各有其義比
+<lb ed="X" n="0815a06"/><lb ed="R033" n="0860a02"/>丘取捨得宜是名不違其義。</p></cb:div>
+<lb ed="X" n="0815a07"/><lb ed="R033" n="0860a03"/><cb:div type="orig"><p xml:id="pX20p0815a0701">若比丘守護於法是名隨佛教若不違佛語是名隨
+<lb ed="X" n="0815a08"/><lb ed="R033" n="0860a04"/>佛語。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815a0803" rend="margin-left:1em;inline">【註】蕩除名相直顯自心不為外論所害是守護
+<lb ed="X" n="0815a09"/><lb ed="R033" n="0860a05"/>法一切邪正同歸法性是佛之語若執彼邪我正
+<lb ed="X" n="0815a10"/><lb ed="R033" n="0860a06"/>親疎法性是違佛語若了即邪即正無二無別是
+<lb ed="X" n="0815a11"/><lb ed="R033" n="0860a07"/>名不違以真心妙融即遮即照教道安立或破或
+<lb ed="X" n="0815a12"/><lb ed="R033" n="0860a08"/>顯縱奪無方須得心融意會耳。</p></cb:div>
+<lb ed="X" n="0815a13"/><lb ed="R033" n="0860a09"/><cb:div type="orig"><p xml:id="pX20p0815a1301">梵天言云何比丘能守護法答言若比丘不逆平等
+<lb ed="X" n="0815a14"/><lb ed="R033" n="0860a10"/>不壞法性是名能守護法。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815a1411" rend="margin-left:1em;inline">【註】心佛及眾生是三無差
+<lb ed="X" n="0815a15"/><lb ed="R033" n="0860a11"/>別故曰平等若分彼聖我凡是乖平等乖平等者
+<lb ed="X" n="0815a16"/><lb ed="R033" n="0860a12"/>起諍論起諍論者不能守護法也法性即是平等
+<lb ed="X" n="0815a17"/><lb ed="R033" n="0860a13"/>之實相若謂轉凡入聖是壞法性以法性各住一
+<lb ed="X" n="0815a18"/><lb ed="R033" n="0860a14"/>際如鐘鼓之聲彼此不相到故所以不壞法性者
+<lb ed="X" n="0815a19"/><lb ed="R033" n="0860a15"/>乃不乖平等也。</p></cb:div>
+<lb ed="X" n="0815a20"/><lb ed="R033" n="0860a16"/><cb:div type="orig"><p xml:id="pX20p0815a2001">梵天言云何比丘親近於佛答言若比丘於諸法中
+<lb ed="X" n="0815a21"/><lb ed="R033" n="0860a17"/>不見有法若近若遠是名親近於佛。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815a2115" rend="margin-left:1em;inline">【註】前梵天問佛
+<lb ed="X" n="0815a22"/><lb ed="R033" n="0860a18"/>親近佛答盡命不毀禁者與此文殊所答若何異
+<lb ed="X" n="0815a23"/><lb ed="R033" n="0860b01"/>也以梵天說諸法正性之門顯理極圓佛指事行
+<lb ed="X" n="0815a24"/><lb ed="R033" n="0860b02"/>使無混濫如法華三週法竟說四安樂行也此中
+<pb ed="X" xml:id="X20.0364.0815b" n="0815b"/>
+<lb ed="X" n="0815b01"/><lb ed="R033" n="0860b03"/>文殊當擇法之任不見有法若近若遠為答者使
+<lb ed="X" n="0815b02"/><lb ed="R033" n="0860b04"/>法眼清明也。</p></cb:div>
+<lb ed="X" n="0815b03"/><lb ed="R033" n="0860b05"/><cb:div type="orig"><p xml:id="pX20p0815b0301">梵天言云何比丘給侍於佛答言若比丘身口意無
+<lb ed="X" n="0815b04"/><lb ed="R033" n="0860b06"/>所作是名給侍於佛。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815b0409" rend="margin-left:1em;inline">【註】身無非行口無惡言意無邪
+<lb ed="X" n="0815b05"/><lb ed="R033" n="0860b07"/>思且道那個是佛要汝給侍。</p></cb:div>
+<lb ed="X" n="0815b06"/><lb ed="R033" n="0860b08"/><cb:div type="orig"><p xml:id="pX20p0815b0601">梵天言誰能供養佛答言不起福業不起不動業者。</p></cb:div>
+<lb ed="X" n="0815b07"/><lb ed="R033" n="0860b09"/><cb:div type="commentary"><p xml:id="pX20p0815b0701" rend="margin-left:1em">【註】不起福業則不著有為不起不動業則不著無
+<lb ed="X" n="0815b08"/><lb ed="R033" n="0860b10"/>為前文所謂達無生際者。</p></cb:div>
+<lb ed="X" n="0815b09"/><lb ed="R033" n="0860b11"/><cb:div type="orig"><p xml:id="pX20p0815b0901">梵天言誰能見佛答曰若不著肉眼不著天眼不著
+<lb ed="X" n="0815b10"/><lb ed="R033" n="0860b12"/>慧眼是名能見佛。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815b1008" rend="margin-left:1em;inline">【註】肉眼礙非通是不能見天眼通
+<lb ed="X" n="0815b11"/><lb ed="R033" n="0860b13"/>非礙是能見以自性天真之佛不屬見故故能見
+<lb ed="X" n="0815b12"/><lb ed="R033" n="0860b14"/>不能見皆不見佛若離五眼之見是真見佛也不
+<lb ed="X" n="0815b13"/><lb ed="R033" n="0860b15"/>言佛眼法眼者文略也。</p></cb:div>
+<lb ed="X" n="0815b14"/><lb ed="R033" n="0860b16"/><cb:div type="orig"><p xml:id="pX20p0815b1401">梵天言誰能見法答言不逆諸因緣法者梵天言誰
+<lb ed="X" n="0815b15"/><lb ed="R033" n="0860b17"/>能順見諸因緣法答言不起平等不見平等所生相
+<lb ed="X" n="0815b16"/><lb ed="R033" n="0860b18"/>者。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815b1602" rend="margin-left:1em;inline">【註】諸法體是真空不礙緣起若礙緣起是逆因緣
+<lb ed="X" n="0815b17"/><lb ed="R033" n="0861a01"/>所謂順因緣者不執體是真空不起平等之想不
+<lb ed="X" n="0815b18"/><lb ed="R033" n="0861a02"/>執任運緣起不見平等所生之相也。</p></cb:div>
+<lb ed="X" n="0815b19"/><lb ed="R033" n="0861a03"/><cb:div type="orig"><p xml:id="pX20p0815b1901">梵天言誰得真智答言不生不滅諸漏者。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815b1917" rend="margin-left:1em;inline">【註】漏者所
+<lb ed="X" n="0815b20"/><lb ed="R033" n="0861a04"/>謂有漏欲漏無明漏也達漏體本是無生不生不
+<lb ed="X" n="0815b21"/><lb ed="R033" n="0861a05"/>滅是名真智二乘返此。</p></cb:div>
+<lb ed="X" n="0815b22"/><lb ed="R033" n="0861a06"/><cb:div type="orig"><p xml:id="pX20p0815b2201">梵天言誰能隨學如來答言不起不受不取不捨諸
+<lb ed="X" n="0815b23"/><lb ed="R033" n="0861a07"/>法者。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815b2303" rend="margin-left:1em;inline">【註】如來者即諸法如義能不起不受學如義也。</p></cb:div>
+<lb ed="X" n="0815b24"/><lb ed="R033" n="0861a08"/><cb:div type="orig"><p xml:id="pX20p0815b2401">梵天言誰名正行答言不墮三界者。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815b2415" rend="margin-left:1em;inline">【註】所謂不著欲
+<pb ed="X" xml:id="X20.0364.0815c" n="0815c"/>
+<lb ed="X" n="0815c01"/><lb ed="R033" n="0861a09"/>不著禪不著空唯此不著名為正行也。</p></cb:div>
+<lb ed="X" n="0815c02"/><lb ed="R033" n="0861a10"/><cb:div type="orig"><p xml:id="pX20p0815c0201">梵天言誰為善人答言不受後身者。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815c0215" rend="margin-left:1em;inline">【註】世稱善人乃
+<lb ed="X" n="0815c03"/><lb ed="R033" n="0861a11"/>善惡對稱之善人其善即凡夫中善人也不受後
+<lb ed="X" n="0815c04"/><lb ed="R033" n="0861a12"/>身乃阿羅漢及一生菩薩妙契中道不著善惡二
+<lb ed="X" n="0815c05"/><lb ed="R033" n="0861a13"/>邊即聖人中善人也大學所謂止於至善非善惡
+<lb ed="X" n="0815c06"/><lb ed="R033" n="0861a14"/>所對之善也。</p></cb:div>
+<lb ed="X" n="0815c07"/><lb ed="R033" n="0861a15"/><cb:div type="orig"><p xml:id="pX20p0815c0701">梵天言誰為樂人答言無我無我所者。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815c0716" rend="margin-left:1em;inline">【註】我即是能
+<lb ed="X" n="0815c08"/><lb ed="R033" n="0861a16"/>主宰者我所即是能攀緣者內忘主宰外絕攀緣
+<lb ed="X" n="0815c09"/><lb ed="R033" n="0861a17"/>是真樂人也。</p></cb:div>
+<lb ed="X" n="0815c10"/><lb ed="R033" n="0861a18"/><cb:div type="orig"><p xml:id="pX20p0815c1001">梵天言誰為得解脫者答言不壞縛者梵天言誰為
+<lb ed="X" n="0815c11"/><lb ed="R033" n="0861b01"/>得度答言不住生死不住涅槃者。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815c1114" rend="margin-left:1em;inline">【註】若有生死可度
+<lb ed="X" n="0815c12"/><lb ed="R033" n="0861b02"/>則有不度生死者惟涅槃生死二邊不住是真得
+<lb ed="X" n="0815c13"/><lb ed="R033" n="0861b03"/>度也。</p></cb:div>
+<lb ed="X" n="0815c14"/><lb ed="R033" n="0861b04"/><cb:div type="orig"><p xml:id="pX20p0815c1401">梵天言漏盡比丘盡何事耶答言若有所盡不名漏
+<lb ed="X" n="0815c15"/><lb ed="R033" n="0861b05"/>盡知諸漏空相隨如是知名為漏盡。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815c1515" rend="margin-left:1em;inline">【註】既不住二邊
+<lb ed="X" n="0815c16"/><lb ed="R033" n="0861b06"/>度無所度比丘稱為漏盡當盡何事耶所言漏盡
+<lb ed="X" n="0815c17"/><lb ed="R033" n="0861b07"/>但盡妄想之相非謂有法可盡若有可盡不名漏
+<lb ed="X" n="0815c18"/><lb ed="R033" n="0861b08"/>盡矣。</p></cb:div>
+<lb ed="X" n="0815c19"/><lb ed="R033" n="0861b09"/><cb:div type="orig"><p xml:id="pX20p0815c1901">梵天言誰能實語答言離諸言論道者。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815c1916" rend="margin-left:1em;inline">【註】若離言論
+<lb ed="X" n="0815c20"/><lb ed="R033" n="0861b10"/>道是實語者則如來以言語論道豈為虗妄邪如
+<lb ed="X" n="0815c21"/><lb ed="R033" n="0861b11"/>來為破凡夫語言故假言論道非有言語也所以
+<lb ed="X" n="0815c22"/><lb ed="R033" n="0861b12"/>云他說的說箇不說的。</p></cb:div>
+<lb ed="X" n="0815c23"/><lb ed="R033" n="0861b13"/><cb:div type="orig"><p xml:id="pX20p0815c2301">梵天言誰為入道答言凡夫有入道聖行者知一切
+<lb ed="X" n="0815c24"/><lb ed="R033" n="0861b14"/>有為法無所從來無所從去則無入道。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0815c2416" rend="margin-left:1em;inline">【註】凡夫不達
+<pb ed="X" xml:id="X20.0364.0816a" n="0816a"/>
+<lb ed="X" n="0816a01"/><lb ed="R033" n="0861b15"/>有為性空妄計有入聖行者了三際平等故無入
+<lb ed="X" n="0816a02"/><lb ed="R033" n="0861b16"/>不入。</p></cb:div>
+<lb ed="X" n="0816a03"/><lb ed="R033" n="0861b17"/><cb:div type="orig"><p xml:id="pX20p0816a0301">梵天言誰能見聖諦答言無有見聖諦者所以者何
+<lb ed="X" n="0816a04"/><lb ed="R033" n="0861b18"/>隨所有見皆為虗妄無所見者乃名見諦梵天言不
+<lb ed="X" n="0816a05"/><lb ed="R033" n="0862a01"/>見何法名為見諦答言不見一切諸見名為見諦。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0816a0520" rend="margin-left:1em;inline">【註】
+<lb ed="X" n="0816a06"/><lb ed="R033" n="0862a02"/>有見是常見無見是斷見亦有亦無是增益見非
+<lb ed="X" n="0816a07"/><lb ed="R033" n="0862a03"/>有非無是戲論見如是四見三世疊成六十二見
+<lb ed="X" n="0816a08"/><lb ed="R033" n="0862a04"/>名為諸見。</p></cb:div>
+<lb ed="X" n="0816a09"/><lb ed="R033" n="0862a05"/><cb:div type="orig"><p xml:id="pX20p0816a0901">梵天言是諦當于何求答言當於四顛倒中求梵天
+<lb ed="X" n="0816a10"/><lb ed="R033" n="0862a06"/>言何故作如是說答言求四顛倒不得淨不得常不
+<lb ed="X" n="0816a11"/><lb ed="R033" n="0862a07"/>得樂不得我若不得淨是即不淨若不得常是即無
+<lb ed="X" n="0816a12"/><lb ed="R033" n="0862a08"/>常若不得樂是即為苦若不得我是即無我。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0816a1218" rend="margin-left:1em;inline">【註】於身
+<lb ed="X" n="0816a13"/><lb ed="R033" n="0862a09"/>受心法起常樂我淨四種顛倒何為顛倒邪身是
+<lb ed="X" n="0816a14"/><lb ed="R033" n="0862a10"/>不淨而計為淨心是無常計為常受是苦計為樂
+<lb ed="X" n="0816a15"/><lb ed="R033" n="0862a11"/>法是無我計為有我故佛說聖諦即彼顛倒而求
+<lb ed="X" n="0816a16"/><lb ed="R033" n="0862a12"/>觀身四大假合內外三十六物件件推求畢竟無
+<lb ed="X" n="0816a17"/><lb ed="R033" n="0862a13"/>淨是謂不淨觀心念念不住新新不停是謂無常
+<lb ed="X" n="0816a18"/><lb ed="R033" n="0862a14"/>觀一切苦受樂受不苦不樂受皆無安樂是之為
+<lb ed="X" n="0816a19"/><lb ed="R033" n="0862a15"/>苦觀五陰六入十二處十八界悉皆無性是謂無
+<lb ed="X" n="0816a20"/><lb ed="R033" n="0862a16"/>我如是常樂我淨皆由四顛倒之所顯發如是推
+<lb ed="X" n="0816a21"/><lb ed="R033" n="0862a17"/>求如是了達是名為諦。</p></cb:div>
+<lb ed="X" n="0816a22"/><lb ed="R033" n="0862a18"/><cb:div type="orig"><p xml:id="pX20p0816a2201">梵天一切法空無我是為聖諦。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0816a2213" rend="margin-left:1em;inline">【註】上云求諦於四顛
+<lb ed="X" n="0816a23"/><lb ed="R033" n="0862b01"/>倒此特云法空為聖諦者以四顛倒皆依五陰等
+<lb ed="X" n="0816a24"/><lb ed="R033" n="0862b02"/>法之所出也若了五陰等空無我即彼四種顛倒
+<pb ed="X" xml:id="X20.0364.0816b" n="0816b"/>
+<lb ed="X" n="0816b01"/><lb ed="R033" n="0862b03"/>皆名聖諦也。</p></cb:div>
+<lb ed="X" n="0816b02"/><lb ed="R033" n="0862b04"/><cb:div type="orig"><p xml:id="pX20p0816b0201">若能如是求諦是人不見苦不斷集不證滅不脩道。</p></cb:div>
+<lb ed="X" n="0816b03"/><lb ed="R033" n="0862b05"/><cb:div type="commentary"><p xml:id="pX20p0816b0301" rend="margin-left:1em">【註】如是求諦者了達法空了達法空故知法無生
+<lb ed="X" n="0816b04"/><lb ed="R033" n="0862b06"/>故不見苦知法無和合故不斷集知法本離生滅
+<lb ed="X" n="0816b05"/><lb ed="R033" n="0862b07"/>故不證滅知法無二相故不脩道。</p></cb:div>
+<lb ed="X" n="0816b06"/><lb ed="R033" n="0862b08"/><cb:div type="orig"><p xml:id="pX20p0816b0601">梵天言云何名脩道答言若不分別是法是非法離
+<lb ed="X" n="0816b07"/><lb ed="R033" n="0862b09"/>於二相名為脩道以是道求一切法不得是名為道
+<lb ed="X" n="0816b08"/><lb ed="R033" n="0862b10"/>是道不令人離生死至涅槃所以者何不離不至乃
+<lb ed="X" n="0816b09"/><lb ed="R033" n="0862b11"/>名聖道。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0816b0904" rend="margin-left:1em;inline">【註】既云不證不修云何一切行人名為修道
+<lb ed="X" n="0816b10"/><lb ed="R033" n="0862b12"/>耶脩道者非是有修之修乃是無修之修也無修
+<lb ed="X" n="0816b11"/><lb ed="R033" n="0862b13"/>之修者知法無二故于無二法中求一切法不可
+<lb ed="X" n="0816b12"/><lb ed="R033" n="0862b14"/>得是之謂道求一切法不可得故生死不可得涅
+<lb ed="X" n="0816b13"/><lb ed="R033" n="0862b15"/>槃不可得生死不可得誰離生死涅槃不可得誰
+<lb ed="X" n="0816b14"/><lb ed="R033" n="0862b16"/>至涅槃以生死涅槃同入實際惟有名字故不至
+<lb ed="X" n="0816b15"/><lb ed="R033" n="0862b17"/>不離也。</p></cb:div>
+<lb ed="X" n="0816b16"/><lb ed="R033" n="0862b18"/><cb:div type="orig"><p xml:id="pX20p0816b1601">爾時有摩訶羅梵天子名曰等行。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0816b1614" rend="margin-left:1em;inline">【註】梵語摩訶羅此
+<lb ed="X" n="0816b17"/><lb ed="R033" n="0863a01"/>云大梵天子名等行者前網明問云何比丘親近
+<lb ed="X" n="0816b18"/><lb ed="R033" n="0863a02"/>于佛問真諦也此天子問云何優婆塞皈依三寶
+<lb ed="X" n="0816b19"/><lb ed="R033" n="0863a03"/>者問俗諦也欲顯真俗不二即俗趨真故曰等行
+<lb ed="X" n="0816b20"/><lb ed="R033" n="0863a04"/>破在俗出家之執入無二門矣。</p></cb:div>
+<lb ed="X" n="0816b21"/><lb ed="R033" n="0863a05"/><cb:div type="orig"><p xml:id="pX20p0816b2101">問文殊師利何謂優婆塞皈依佛皈依法皈依僧答
+<lb ed="X" n="0816b22"/><lb ed="R033" n="0863a06"/>言若優婆塞不起二見。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0816b2210" rend="margin-left:1em;inline">【註】總標下釋成不起之意。</p></cb:div>
+<lb ed="X" n="0816b23"/><lb ed="R033" n="0863a07"/><cb:div type="orig"><p xml:id="pX20p0816b2301">不起我見不起彼見不起我見不起佛見不起我見
+<lb ed="X" n="0816b24"/><lb ed="R033" n="0863a08"/>不起法見不起我見不起僧見是名皈依佛皈依法
+<pb ed="X" xml:id="X20.0364.0816c" n="0816c"/>
+<lb ed="X" n="0816c01"/><lb ed="R033" n="0863a09"/>皈依僧。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0816c0104" rend="margin-left:1em;inline">【註】清淨自心即是自<anchor xml:id="beg_4a" type="cb-app"/>己<anchor xml:id="end_4a"/>佛無作妙智即是自
+<lb ed="X" n="0816c02"/><lb ed="R033" n="0863a10"/><anchor xml:id="beg_4b" type="cb-app"/>己<anchor xml:id="end_4b"/>法圓融梵行即是自<anchor xml:id="beg_4c" type="cb-app"/>己<anchor xml:id="end_4c"/>僧故曰佛者覺也法名
+<lb ed="X" n="0816c03"/><lb ed="R033" n="0863a11"/>平等僧名和合若捨<anchor xml:id="beg_4d" type="cb-app"/>己<anchor xml:id="end_4d"/>外求作二見解是不皈依
+<lb ed="X" n="0816c04"/><lb ed="R033" n="0863a12"/>也若能了達三寶即是自<anchor xml:id="beg_4e" type="cb-app"/>己<anchor xml:id="end_4e"/>彼我兩忘不起二見
+<lb ed="X" n="0816c05"/><lb ed="R033" n="0863a13"/>是真皈依也。</p></cb:div>
+<lb ed="X" n="0816c06"/><lb ed="R033" n="0863a14"/><cb:div type="orig"><p xml:id="pX20p0816c0601">又優婆塞不以色見佛不以受想行識見佛是名皈
+<lb ed="X" n="0816c07"/><lb ed="R033" n="0863a15"/>依佛。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0816c0703" rend="margin-left:1em;inline">【註】清淨自心本無五蘊若著五蘊見佛則不見
+<lb ed="X" n="0816c08"/><lb ed="R033" n="0863a16"/>自心不名覺矣若了五蘊本空是則名覺是名皈
+<lb ed="X" n="0816c09"/><lb ed="R033" n="0863a17"/>依。</p></cb:div>
+<lb ed="X" n="0816c10"/><lb ed="R033" n="0863a18"/><cb:div type="orig"><p xml:id="pX20p0816c1001">若優婆塞於法無所分別亦不行非法是名皈依法。</p></cb:div>
+<lb ed="X" n="0816c11"/><lb ed="R033" n="0863b01"/><cb:div type="commentary"><p xml:id="pX20p0816c1101" rend="margin-left:1em">【註】法名平等于法非法無所分別然于是非分齊
+<lb ed="X" n="0816c12"/><lb ed="R033" n="0863b02"/>無所混濫雖無分別亦不行非法是則皈依也。</p></cb:div>
+<lb ed="X" n="0816c13"/><lb ed="R033" n="0863b03"/><cb:div type="orig"><p xml:id="pX20p0816c1301">若優婆塞不離有為法見無為法不離無為法見有
+<lb ed="X" n="0816c14"/><lb ed="R033" n="0863b04"/>為法是名皈依僧。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0816c1408" rend="margin-left:1em;inline">【註】僧名和合若以有為為有為以
+<lb ed="X" n="0816c15"/><lb ed="R033" n="0863b05"/>無為為無為是即分別非和合矣以有為無為二
+<lb ed="X" n="0816c16"/><lb ed="R033" n="0863b06"/>而不二故名皈依和合也。</p></cb:div>
+<lb ed="X" n="0816c17"/><lb ed="R033" n="0863b07"/><cb:div type="orig"><p xml:id="pX20p0816c1701">又優婆塞不得佛不得法不得僧是名皈依佛皈依
+<lb ed="X" n="0816c18"/><lb ed="R033" n="0863b08"/>法皈依僧。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0816c1805" rend="margin-left:1em;inline">【註】所言皈依者非謂外有所皈依也即是
+<lb ed="X" n="0816c19"/><lb ed="R033" n="0863b09"/>皈依自心達三寶體空惟有名字名字不可得故
+<lb ed="X" n="0816c20"/><lb ed="R033" n="0863b10"/>曰皈依也。</p></cb:div>
+<lb ed="X" n="0816c21"/><lb ed="R033" n="0863b11"/><cb:div type="orig"><p xml:id="pX20p0816c2101">爾時等行菩薩問文殊師利言是諸菩薩發菩提心
+<lb ed="X" n="0816c22"/><lb ed="R033" n="0863b12"/>者為何所趣答言趣于虗空所以者何阿耨多羅三
+<lb ed="X" n="0816c23"/><lb ed="R033" n="0863b13"/>藐三菩提同虗空故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0816c2309" rend="margin-left:1em;inline">【註】前云天子此云菩薩者以了
+<lb ed="X" n="0816c24"/><lb ed="R033" n="0863b14"/>悟皈依自心即名菩薩所以為頓教也既是皈依
+<pb ed="X" xml:id="X20.0364.0817a" n="0817a"/>
+<lb ed="X" n="0817a01"/><lb ed="R033" n="0863b15"/>自心彼諸菩薩發心當趣何所彼發心者發無所
+<lb ed="X" n="0817a02"/><lb ed="R033" n="0863b16"/>趣心也以菩提同于虗空惟有名字無處所故。</p></cb:div>
+<lb ed="X" n="0817a03"/><lb ed="R033" n="0863b17"/><cb:div type="orig"><p xml:id="pX20p0817a0301">等行言云何菩薩名發阿耨多羅三藐三菩提心答
+<lb ed="X" n="0817a04"/><lb ed="R033" n="0863b18"/>言若菩薩知一切發非發一切法非法一切眾生非
+<lb ed="X" n="0817a05"/><lb ed="R033" n="0864a01"/>眾生是名菩薩發阿耨多羅三藐三菩提心。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0817a0518" rend="margin-left:1em;inline">【註】既無
+<lb ed="X" n="0817a06"/><lb ed="R033" n="0864a02"/>所趣云何名為發心耶所言發心者知一切發心
+<lb ed="X" n="0817a07"/><lb ed="R033" n="0864a03"/>即是非發心一切法即是非法一切眾生即是非
+<lb ed="X" n="0817a08"/><lb ed="R033" n="0864a04"/>眾生直下頓證自<anchor xml:id="beg_4f" type="cb-app"/>己<anchor xml:id="end_4f"/>是名發心以無所得故也。</p></cb:div></cb:div>
+<lb ed="X" n="0817a09"/><lb ed="R033" n="0864a05"/><cb:div type="pin"><cb:mulu type="其他" level="1">名字義品第十三</cb:mulu><head>名字義品第十三</head>
+<lb ed="X" n="0817a10"/><lb ed="R033" n="0864a06"/><cb:div type="commentary"><p xml:id="pX20p0817a1001" rend="margin-left:1em">【註】前云菩薩既云無二則彼此平等彼此平等則
+<lb ed="X" n="0817a11"/><lb ed="R033" n="0864a07"/>文殊普賢觀音勢至各無標的各無標的則彼此
+<lb ed="X" n="0817a12"/><lb ed="R033" n="0864a08"/>混濫然文殊等一一指陳歷歷明鑑何云無二非
+<lb ed="X" n="0817a13"/><lb ed="R033" n="0864a09"/>謂名字無二乃法體無二也是諸菩薩皆依法界
+<lb ed="X" n="0817a14"/><lb ed="R033" n="0864a10"/>中流出故曰無二以德立名不無指的故非無二
+<lb ed="X" n="0817a15"/><lb ed="R033" n="0864a11"/>也譬如水火風土皆依木出各以其能而稱則不
+<lb ed="X" n="0817a16"/><lb ed="R033" n="0864a12"/>同也此品名名字者依前無二品流出也。</p></cb:div>
+<lb ed="X" n="0817a17"/><lb ed="R033" n="0864a13"/><cb:div type="orig"><p xml:id="pX20p0817a1701">爾時等行菩薩白佛言世尊所言菩薩菩薩者為何
+<lb ed="X" n="0817a18"/><lb ed="R033" n="0864a14"/>謂耶佛言善男子若菩薩於邪定眾生發大悲心於
+<lb ed="X" n="0817a19"/><lb ed="R033" n="0864a15"/>正定眾生不見殊異故言菩薩所以者何菩薩不為
+<lb ed="X" n="0817a20"/><lb ed="R033" n="0864a16"/>正定眾生不為不定眾生故發心但為度邪定眾生
+<lb ed="X" n="0817a21"/><lb ed="R033" n="0864a17"/>故而起大悲發阿耨多羅三藐三菩提心故名菩薩。</p></cb:div>
+<lb ed="X" n="0817a22"/><lb ed="R033" n="0864a18"/><cb:div type="commentary"><p xml:id="pX20p0817a2201" rend="margin-left:1em">【註】梵語菩提薩埵此云覺眾生又云摩訶薩此云
+<lb ed="X" n="0817a23"/><lb ed="R033" n="0864b01"/>大道心眾生菩薩不以自利專欲利人緣彼邪定
+<lb ed="X" n="0817a24"/><lb ed="R033" n="0864b02"/>眾生而發大悲者大道心眾生也於彼正定眾生
+<pb ed="X" xml:id="X20.0364.0817b" n="0817b"/>
+<lb ed="X" n="0817b01"/><lb ed="R033" n="0864b03"/>心不殊異者覺法平等無有彼此者覺眾生也不
+<lb ed="X" n="0817b02"/><lb ed="R033" n="0864b04"/>因不定眾生發心者以彼機未堪化故也。</p></cb:div>
+<lb ed="X" n="0817b03"/><lb ed="R033" n="0864b05"/><cb:div type="orig"><p xml:id="pX20p0817b0301">爾時菩提菩薩白佛言世尊我亦樂說所以為菩薩
+<lb ed="X" n="0817b04"/><lb ed="R033" n="0864b06"/>佛言若樂說者便說。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0817b0409" rend="margin-left:1em;inline">【註】前則如來總彰菩薩之意此
+<lb ed="X" n="0817b05"/><lb ed="R033" n="0864b07"/>下別顯菩薩之德所以各說也。</p></cb:div>
+<lb ed="X" n="0817b06"/><lb ed="R033" n="0864b08"/><cb:div type="orig"><p xml:id="pX20p0817b0601">菩提菩薩言譬如男子女人受一日戒無毀無缺若
+<lb ed="X" n="0817b07"/><lb ed="R033" n="0864b09"/>菩薩如是從初發心乃至成佛於其中間常修淨行
+<lb ed="X" n="0817b08"/><lb ed="R033" n="0864b10"/>是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0817b0805" rend="margin-left:1em;inline">【註】菩提云覺從初發心乃至成佛於其中
+<lb ed="X" n="0817b09"/><lb ed="R033" n="0864b11"/>間修行梵行猶若一日覺三世性空故也。</p></cb:div>
+<lb ed="X" n="0817b10"/><lb ed="R033" n="0864b12"/><cb:div type="orig"><p xml:id="pX20p0817b1001">堅意菩薩言若菩薩成就深固慈心是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0817b1019" rend="margin-left:1em;inline">【註】以
+<lb ed="X" n="0817b11"/><lb ed="R033" n="0864b13"/>無緣慈深固其心故曰堅意。</p></cb:div>
+<lb ed="X" n="0817b12"/><lb ed="R033" n="0864b14"/><cb:div type="orig"><p xml:id="pX20p0817b1201">度眾生菩薩言譬如橋船度人不倦無有分別若心
+<lb ed="X" n="0817b13"/><lb ed="R033" n="0864b15"/>如是是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0817b1307" rend="margin-left:1em;inline">【註】以無分別智度諸眾生猶如橋船
+<lb ed="X" n="0817b14"/><lb ed="R033" n="0864b16"/>無有分別也。</p></cb:div>
+<lb ed="X" n="0817b15"/><lb ed="R033" n="0864b17"/><cb:div type="orig"><p xml:id="pX20p0817b1501">斷惡道菩薩言若菩薩於諸佛國投足之處即時一
+<lb ed="X" n="0817b16"/><lb ed="R033" n="0864b18"/>切惡道皆滅是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0817b1610" rend="margin-left:1em;inline">【註】以方便智入諸佛法滅於
+<lb ed="X" n="0817b17"/><lb ed="R033" n="0865a01"/>惡見也。</p></cb:div>
+<lb ed="X" n="0817b18"/><lb ed="R033" n="0865a02"/><cb:div type="orig"><p xml:id="pX20p0817b1801">觀世音菩薩言若菩薩眾生見者即時必定於阿耨
+<lb ed="X" n="0817b19"/><lb ed="R033" n="0865a03"/>多羅三藐三菩提又稱其名得免眾苦是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0817b1920" rend="margin-left:1em;inline">【註】
+<lb ed="X" n="0817b20"/><lb ed="R033" n="0865a04"/>以自在慧入圓通性必定得菩提也稱名免苦者
+<lb ed="X" n="0817b21"/><lb ed="R033" n="0865a05"/>隨喜之益也。</p></cb:div>
+<lb ed="X" n="0817b22"/><lb ed="R033" n="0865a06"/><cb:div type="orig"><p xml:id="pX20p0817b2201">得大勢菩薩言若菩薩所投足處震動三千大千世
+<lb ed="X" n="0817b23"/><lb ed="R033" n="0865a07"/>界及魔宮殿是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0817b2310" rend="margin-left:1em;inline">【註】觀經云以智慧光普照一
+<lb ed="X" n="0817b24"/><lb ed="R033" n="0865a08"/>切令離三塗得無上力名大勢至蓋以中道妙慧
+<pb ed="X" xml:id="X20.0364.0817c" n="0817c"/>
+<lb ed="X" n="0817c01"/><lb ed="R033" n="0865a09"/>照破無明故魔王宮殿世界皆為震動也。</p></cb:div>
+<lb ed="X" n="0817c02"/><lb ed="R033" n="0865a10"/><cb:div type="orig"><p xml:id="pX20p0817c0201">無疲倦菩薩言若恒河沙等劫為一日一夜以是三
+<lb ed="X" n="0817c03"/><lb ed="R033" n="0865a11"/>十日為一月十二月為一歲以是歲數若過百千萬
+<lb ed="X" n="0817c04"/><lb ed="R033" n="0865a12"/>億劫得值一佛如是於恒河沙等佛所行諸梵行脩
+<lb ed="X" n="0817c05"/><lb ed="R033" n="0865a13"/>集功德然後受阿耨多羅三藐三菩提記心不休息
+<lb ed="X" n="0817c06"/><lb ed="R033" n="0865a14"/>無有疲倦是名菩薩導師菩薩言若菩薩於墮邪道
+<lb ed="X" n="0817c07"/><lb ed="R033" n="0865a15"/>眾生生大悲心令入正道不求恩報是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0817c0719" rend="margin-left:1em;inline">【註】以
+<lb ed="X" n="0817c08"/><lb ed="R033" n="0865a16"/>深心大悲平等道達若求恩報則非平等不名菩
+<lb ed="X" n="0817c09"/><lb ed="R033" n="0865a17"/>薩也。</p></cb:div>
+<lb ed="X" n="0817c10"/><lb ed="R033" n="0865a18"/><cb:div type="orig"><p xml:id="pX20p0817c1001">須彌山菩薩言若菩薩於一切法無所分別如須彌
+<lb ed="X" n="0817c11"/><lb ed="R033" n="0865b01"/>山一切眾色是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0817c1110" rend="margin-left:1em;inline">【註】以不動智入一切法無所
+<lb ed="X" n="0817c12"/><lb ed="R033" n="0865b02"/>分別猶如須彌處於大海七金山等一切眾色交
+<lb ed="X" n="0817c13"/><lb ed="R033" n="0865b03"/>暎巍然不動也。</p></cb:div>
+<lb ed="X" n="0817c14"/><lb ed="R033" n="0865b04"/><cb:div type="orig"><p xml:id="pX20p0817c1401">那羅延菩薩言若菩薩不為一切煩惱所壞是名菩
+<lb ed="X" n="0817c15"/><lb ed="R033" n="0865b05"/>薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0817c1502" rend="margin-left:1em;inline">【註】梵語那羅延此云勇健以智慧勇健不為煩惱
+<lb ed="X" n="0817c16"/><lb ed="R033" n="0865b06"/>所壞也。</p></cb:div>
+<lb ed="X" n="0817c17"/><lb ed="R033" n="0865b07"/><cb:div type="orig"><p xml:id="pX20p0817c1701">心力菩薩言若菩薩以心思惟一切諸法無有錯謬
+<lb ed="X" n="0817c18"/><lb ed="R033" n="0865b08"/>是名菩薩師子遊步自在菩薩言若菩薩於諸論中
+<lb ed="X" n="0817c19"/><lb ed="R033" n="0865b09"/>不怖不畏得深法忍能使一切外道怖畏是名菩薩。</p></cb:div>
+<lb ed="X" n="0817c20"/><lb ed="R033" n="0865b10"/><cb:div type="commentary"><p xml:id="pX20p0817c2001" rend="margin-left:1em">【註】以無畏辨降伏外論喻如獅子遊步之自在也。</p></cb:div>
+<lb ed="X" n="0817c21"/><lb ed="R033" n="0865b11"/><cb:div type="orig"><p xml:id="pX20p0817c2101">不可思議菩薩言若菩薩知心相不可思議無所思
+<lb ed="X" n="0817c22"/><lb ed="R033" n="0865b12"/>惟分別是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0817c2208" rend="margin-left:1em;inline">【註】以心非數量故知心相不可思
+<lb ed="X" n="0817c23"/><lb ed="R033" n="0865b13"/>議也。</p></cb:div>
+<lb ed="X" n="0817c24"/><lb ed="R033" n="0865b14"/><cb:div type="orig"><p xml:id="pX20p0817c2401">善寂天子言若菩薩能於一切天宮中生而無所染
+<pb ed="X" xml:id="X20.0364.0818a" n="0818a"/>
+<lb ed="X" n="0818a01"/><lb ed="R033" n="0865b15"/>亦不得是無染之法是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818a0113" rend="margin-left:1em;inline">【註】欲界不為欲塵所
+<lb ed="X" n="0818a02"/><lb ed="R033" n="0865b16"/>染色界不為禪定所染無色界不為空見所染一
+<lb ed="X" n="0818a03"/><lb ed="R033" n="0865b17"/>切雖無所染亦不得是無染之見故曰善寂。</p></cb:div>
+<lb ed="X" n="0818a04"/><lb ed="R033" n="0865b18"/><cb:div type="orig"><p xml:id="pX20p0818a0401">實語菩薩言若菩薩有所發言常以真實乃至夢中
+<lb ed="X" n="0818a05"/><lb ed="R033" n="0866a01"/>亦無妄語是名菩薩喜見菩薩言若菩薩能見一切
+<lb ed="X" n="0818a06"/><lb ed="R033" n="0866a02"/>色皆是佛色是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818a0610" rend="margin-left:1em;inline">【註】體實色有青黃赤白等獨
+<lb ed="X" n="0818a07"/><lb ed="R033" n="0866a03"/>頭色有散位夢中及定果等色名為一切能見此
+<lb ed="X" n="0818a08"/><lb ed="R033" n="0866a04"/>一切皆是佛色者應云善見喜見者恐訛也。</p></cb:div>
+<lb ed="X" n="0818a09"/><lb ed="R033" n="0866a05"/><cb:div type="orig"><p xml:id="pX20p0818a0901">常慘菩薩言若菩薩見墮生死眾生其心不樂世間
+<lb ed="X" n="0818a10"/><lb ed="R033" n="0866a06"/>諸樂欲自度<anchor xml:id="beg_50" type="cb-app"/>己<anchor xml:id="end_50"/>身亦度眾生是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818a1016" rend="margin-left:1em;inline">【註】因眾生而
+<lb ed="X" n="0818a11"/><lb ed="R033" n="0866a07"/>起慘慽發大悲而思救度眾生無盡悲願無盡故
+<lb ed="X" n="0818a12"/><lb ed="R033" n="0866a08"/>曰常慘。</p></cb:div>
+<lb ed="X" n="0818a13"/><lb ed="R033" n="0866a09"/><cb:div type="orig"><p xml:id="pX20p0818a1301">心無礙菩薩言若菩薩於一切煩惱眾魔而不嗔礙
+<lb ed="X" n="0818a14"/><lb ed="R033" n="0866a10"/>是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818a1405" rend="margin-left:1em;inline">【註】魔宮佛土煩惱菩提不作二相是名無
+<lb ed="X" n="0818a15"/><lb ed="R033" n="0866a11"/>礙。</p></cb:div>
+<lb ed="X" n="0818a16"/><lb ed="R033" n="0866a12"/><cb:div type="orig"><p xml:id="pX20p0818a1601">常喜根菩薩言若菩薩常以喜根自滿其願亦滿他
+<lb ed="X" n="0818a17"/><lb ed="R033" n="0866a13"/>願所作皆辦是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818a1710" rend="margin-left:1em;inline">【註】七覺支中第四喜支根成
+<lb ed="X" n="0818a18"/><lb ed="R033" n="0866a14"/>滿其願自他俱辦故曰喜根。</p></cb:div>
+<lb ed="X" n="0818a19"/><lb ed="R033" n="0866a15"/><cb:div type="orig"><p xml:id="pX20p0818a1901">散疑女菩薩言若菩薩於一切法中不生疑悔是名
+<lb ed="X" n="0818a20"/><lb ed="R033" n="0866a16"/>菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818a2003" rend="margin-left:1em;inline">【註】八聖道中第八無漏慧斷除三業微細無明
+<lb ed="X" n="0818a21"/><lb ed="R033" n="0866a17"/>故曰散疑。</p></cb:div>
+<lb ed="X" n="0818a22"/><lb ed="R033" n="0866a18"/><cb:div type="orig"><p xml:id="pX20p0818a2201">師子童女菩薩言若菩薩無男法無女法而現種種
+<lb ed="X" n="0818a23"/><lb ed="R033" n="0866b01"/>色身為成就眾生故是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818a2313" rend="margin-left:1em;inline">【註】童女者兌之象也
+<lb ed="X" n="0818a24"/><lb ed="R033" n="0866b02"/>兌屬金主于秋成衰殺之候一切萬物至此成就
+<pb ed="X" xml:id="X20.0364.0818b" n="0818b"/>
+<lb ed="X" n="0818b01"/><lb ed="R033" n="0866b03"/>故曰成就眾生名獅子者以法體中本無男女為
+<lb ed="X" n="0818b02"/><lb ed="R033" n="0866b04"/>眾生故現種種身是決定說故。</p></cb:div>
+<lb ed="X" n="0818b03"/><lb ed="R033" n="0866b05"/><cb:div type="orig"><p xml:id="pX20p0818b0301">寶女菩薩言若菩薩於諸寶中不生愛樂但樂三寶
+<lb ed="X" n="0818b04"/><lb ed="R033" n="0866b06"/>是名菩薩毗舍佉達多優婆夷言若菩薩有所得者
+<lb ed="X" n="0818b05"/><lb ed="R033" n="0866b07"/>則無菩提若不得一切法不生一切法不滅一切法
+<lb ed="X" n="0818b06"/><lb ed="R033" n="0866b08"/>是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818b0605" rend="margin-left:1em;inline">【註】凡有所得則無菩提者以菩提即是自
+<lb ed="X" n="0818b07"/><lb ed="R033" n="0866b09"/>妄想非謂覺矣若了一切法不可得即是得自性
+<lb ed="X" n="0818b08"/><lb ed="R033" n="0866b10"/>之覺得自性之覺即不生不滅矣。</p></cb:div>
+<lb ed="X" n="0818b09"/><lb ed="R033" n="0866b11"/><cb:div type="orig"><p xml:id="pX20p0818b0901"><g ref="#CB02494">䟦</g>陀婆羅賢士言若菩薩眾生聞其名者畢定於阿
+<lb ed="X" n="0818b10"/><lb ed="R033" n="0866b12"/>耨多羅三藐三菩提是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818b1013" rend="margin-left:1em;inline">【註】<g ref="#CB02494">䟦</g>陀婆羅云賢守
+<lb ed="X" n="0818b11"/><lb ed="R033" n="0866b13"/>亦云賢護既守且護故聞其名者定獲菩提矣。</p></cb:div>
+<lb ed="X" n="0818b12"/><lb ed="R033" n="0866b14"/><cb:div type="orig"><p xml:id="pX20p0818b1201">寶月童子言若菩薩常修童子梵行乃至不以心念
+<lb ed="X" n="0818b13"/><lb ed="R033" n="0866b15"/>五欲何況身受是名菩薩忉利天子曼陀羅華香菩
+<lb ed="X" n="0818b14"/><lb ed="R033" n="0866b16"/>薩言若菩薩持戒熏心常流諸善法香不流餘香是
+<lb ed="X" n="0818b15"/><lb ed="R033" n="0866b17"/>名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818b1504" rend="margin-left:1em;inline">【註】曼陀羅云白華香以戒為白業故修此白
+<lb ed="X" n="0818b16"/><lb ed="R033" n="0866b18"/>淨業者則常流法香也。</p></cb:div>
+<lb ed="X" n="0818b17"/><lb ed="R033" n="0867a01"/><cb:div type="orig"><p xml:id="pX20p0818b1701">作喜菩薩言若菩薩喜樂三法謂供養佛演說於法
+<lb ed="X" n="0818b18"/><lb ed="R033" n="0867a02"/>教化眾生是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818b1809" rend="margin-left:1em;inline">【註】供養乃上求之利說法乃下
+<lb ed="X" n="0818b19"/><lb ed="R033" n="0867a03"/>化之功上求下化宜名菩薩也。</p></cb:div>
+<lb ed="X" n="0818b20"/><lb ed="R033" n="0867a04"/><cb:div type="orig"><p xml:id="pX20p0818b2001">思益梵天言若菩薩所見之法皆是佛法是名菩薩。</p></cb:div>
+<lb ed="X" n="0818b21"/><lb ed="R033" n="0867a05"/><cb:div type="commentary"><p xml:id="pX20p0818b2101" rend="margin-left:1em">【註】即俗而真無真不俗真俗既成一體則佛法不
+<lb ed="X" n="0818b22"/><lb ed="R033" n="0867a06"/>離所見也。</p></cb:div>
+<lb ed="X" n="0818b23"/><lb ed="R033" n="0867a07"/><cb:div type="orig"><p xml:id="pX20p0818b2301">彌勒菩薩言若菩薩眾生見者即得慈心三昧是名
+<lb ed="X" n="0818b24"/><lb ed="R033" n="0867a08"/>菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818b2403" rend="margin-left:1em;inline">【註】梵語梅怛利伽那此云慈氏以慈隆即世悲
+<pb ed="X" xml:id="X20.0364.0818c" n="0818c"/>
+<lb ed="X" n="0818c01"/><lb ed="R033" n="0867a09"/>臻後劫故使見者皆獲慈心也。</p></cb:div>
+<lb ed="X" n="0818c02"/><lb ed="R033" n="0867a10"/><cb:div type="orig"><p xml:id="pX20p0818c0201">文殊師利法王子言若菩薩雖說諸法而不起法想
+<lb ed="X" n="0818c03"/><lb ed="R033" n="0867a11"/>不起非法想是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818c0310" rend="margin-left:1em;inline">【註】文殊為擇法眼善擇法要
+<lb ed="X" n="0818c04"/><lb ed="R033" n="0867a12"/>了證實相故雖說法不起法非法想無說是說故
+<lb ed="X" n="0818c05"/><lb ed="R033" n="0867a13"/>不起法想說是無說故不起非法想。</p></cb:div>
+<lb ed="X" n="0818c06"/><lb ed="R033" n="0867a14"/><cb:div type="orig"><p xml:id="pX20p0818c0601">綱明菩薩言若菩薩光明能滅一切眾生煩惱是名
+<lb ed="X" n="0818c07"/><lb ed="R033" n="0867a15"/>菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818c0703" rend="margin-left:1em;inline">【註】眾生為無明煩惱所敝猶如長夜若遇根本
+<lb ed="X" n="0818c08"/><lb ed="R033" n="0867a16"/>智光則無明煩惱當念無生矣。</p></cb:div>
+<lb ed="X" n="0818c09"/><lb ed="R033" n="0867a17"/><cb:div type="orig"><p xml:id="pX20p0818c0901">普華菩薩言若菩薩見諸如來滿十方世界如林華
+<lb ed="X" n="0818c10"/><lb ed="R033" n="0867a18"/>敷是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818c1006" rend="margin-left:1em;inline">【註】十方眾生皆是如來之性同敷萬行
+<lb ed="X" n="0818c11"/><lb ed="R033" n="0867b01"/>因華也。</p></cb:div>
+<lb ed="X" n="0818c12"/><lb ed="R033" n="0867b02"/><cb:div type="orig"><p xml:id="pX20p0818c1201">如是諸菩薩各各隨所樂說<anchor xml:id="beg_51" type="cb-app"/>已<anchor xml:id="end_51"/>爾時佛告等行菩薩
+<lb ed="X" n="0818c13"/><lb ed="R033" n="0867b03"/>言若菩薩能代一切眾生受諸苦惱亦復能捨一切
+<lb ed="X" n="0818c14"/><lb ed="R033" n="0867b04"/>福事與諸眾生是名菩薩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0818c1411" rend="margin-left:1em;inline">【註】上由等行菩薩問菩薩
+<lb ed="X" n="0818c15"/><lb ed="R033" n="0867b05"/>為何謂也而如來答拔諸邪定眾生起于大悲正
+<lb ed="X" n="0818c16"/><lb ed="R033" n="0867b06"/>定眾生心不殊異答其為義也末後云能代眾生
+<lb ed="X" n="0818c17"/><lb ed="R033" n="0867b07"/>之苦捨<anchor xml:id="beg_52" type="cb-app"/>己<anchor xml:id="end_52"/>之樂與諸眾生答其為德也始末皆如
+<lb ed="X" n="0818c18"/><lb ed="R033" n="0867b08"/>來答者一切梵行皆趨如來故所以啟問菩薩名
+<lb ed="X" n="0818c19"/><lb ed="R033" n="0867b09"/>等行者也中間諸菩薩各述<anchor xml:id="beg_53" type="cb-app"/>己<anchor xml:id="end_53"/>德使眾生隨所悟
+<lb ed="X" n="0818c20"/><lb ed="R033" n="0867b10"/>入也。</p></cb:div></cb:div>
+<lb ed="X" n="0818c21"/><lb ed="R033" n="0867b11"/><cb:div type="pin"><cb:mulu type="其他" level="1">論寂品第十四</cb:mulu><head>論寂品第十四</head>
+<lb ed="X" n="0818c22"/><lb ed="R033" n="0867b12"/><cb:div type="commentary"><p xml:id="pX20p0818c2201" rend="margin-left:1em">【註】前諸菩薩各述<anchor xml:id="beg_54" type="cb-app"/>己<anchor xml:id="end_54"/>德隨所樂說者差別之義也
+<lb ed="X" n="0818c23"/><lb ed="R033" n="0867b13"/>名字雖則萬差論體其惟一寂若不會歸終成迷
+<lb ed="X" n="0818c24"/><lb ed="R033" n="0867b14"/>名滯跡之<anchor xml:id="nkr_note_orig_0818001" n="0818001"/>慾微細究明始獲達體忘情之旨了行
+<pb ed="X" xml:id="X20.0364.0819a" n="0819a"/>
+<lb ed="X" n="0819a01"/><lb ed="R033" n="0867b15"/>非實則名本無當名實無當則一道平等故曰論
+<lb ed="X" n="0819a02"/><lb ed="R033" n="0867b16"/>寂。</p></cb:div>
+<lb ed="X" n="0819a03"/><lb ed="R033" n="0867b17"/><cb:div type="orig"><p xml:id="pX20p0819a0301">爾時思益梵天問等行菩薩言善男子汝今以何行
+<lb ed="X" n="0819a04"/><lb ed="R033" n="0867b18"/>為行。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0819a0403" rend="margin-left:1em;inline">【註】汝名既云等行則染淨何分而正邪莫辨若
+<lb ed="X" n="0819a05"/><lb ed="R033" n="0868a01"/>有分辨則何名等行若不分辨則汝現前隨于何
+<lb ed="X" n="0819a06"/><lb ed="R033" n="0868a02"/>行而行耶。</p></cb:div>
+<lb ed="X" n="0819a07"/><lb ed="R033" n="0868a03"/><cb:div type="orig"><p xml:id="pX20p0819a0701">答言我<anchor xml:id="beg_55" type="cb-app"/>已<anchor xml:id="end_55"/>隨一切有為法眾生行為行。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0819a0716" rend="margin-left:1em;inline">【註】棄有為而
+<lb ed="X" n="0819a08"/><lb ed="R033" n="0868a04"/>行無為則揀擇即世諦而行聖行是名平等以有
+<lb ed="X" n="0819a09"/><lb ed="R033" n="0868a05"/>為無為同入法性故也。</p></cb:div>
+<lb ed="X" n="0819a10"/><lb ed="R033" n="0868a06"/><cb:div type="orig"><p xml:id="pX20p0819a1001">又問隨一切有為法眾生以何為行答言諸佛所行
+<lb ed="X" n="0819a11"/><lb ed="R033" n="0868a07"/>是隨一切有為法眾生行也又問諸佛以何為行答
+<lb ed="X" n="0819a12"/><lb ed="R033" n="0868a08"/>言諸佛以第一義空為行又問凡夫所行諸佛亦以
+<lb ed="X" n="0819a13"/><lb ed="R033" n="0868a09"/>是行有何差別等行言汝欲令空中有差別耶答言
+<lb ed="X" n="0819a14"/><lb ed="R033" n="0868a10"/>不也等行言如來不說一切法空耶答言然是故梵
+<lb ed="X" n="0819a15"/><lb ed="R033" n="0868a11"/>天一切法無有差別是諸行相亦復如是所以者何
+<lb ed="X" n="0819a16"/><lb ed="R033" n="0868a12"/>如來不說諸法有差別也。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0819a1611" rend="margin-left:1em;inline">【註】凡夫行于有為三乘行
+<lb ed="X" n="0819a17"/><lb ed="R033" n="0868a13"/>于無為諸佛行于第一義空所言第一義空者有
+<lb ed="X" n="0819a18"/><lb ed="R033" n="0868a14"/>為無為皆惟名字無有義理三乘不了義空于法
+<lb ed="X" n="0819a19"/><lb ed="R033" n="0868a15"/>性中妄起諍執作有無見凡聖成差大乘深明實
+<lb ed="X" n="0819a20"/><lb ed="R033" n="0868a16"/>際知有為無為皆第一義空于是空中何有彼此
+<lb ed="X" n="0819a21"/><lb ed="R033" n="0868a17"/>無彼此故號曰等行邇來道學宗師動輒言理不
+<lb ed="X" n="0819a22"/><lb ed="R033" n="0868a18"/>知理為礙本始終論義豈識義是禍苗若悟義理
+<lb ed="X" n="0819a23"/><lb ed="R033" n="0868b01"/>本空始知聖人無說。</p></cb:div>
+<lb ed="X" n="0819a24"/><lb ed="R033" n="0868b02"/><cb:div type="orig"><p xml:id="pX20p0819a2401">爾時思益梵天問文殊師利言所言行處行為何謂
+<pb ed="X" xml:id="X20.0364.0819b" n="0819b"/>
+<lb ed="X" n="0819b01"/><lb ed="R033" n="0868b03"/>也答言於諸行中有四梵行是名行處行若人離四
+<lb ed="X" n="0819b02"/><lb ed="R033" n="0868b04"/>梵行不名行處行能行四梵行是名行處行。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0819b0218" rend="margin-left:1em;inline">【註】四梵
+<lb ed="X" n="0819b03"/><lb ed="R033" n="0868b05"/>行者有四依行一者常行乞食二者著糞掃衣三
+<lb ed="X" n="0819b04"/><lb ed="R033" n="0868b06"/>者蘭若樹下住四者病以腐爛藥治此惟聲聞法
+<lb ed="X" n="0819b05"/><lb ed="R033" n="0868b07"/>非今經意有四觀行一者觀因緣二者觀果報三
+<lb ed="X" n="0819b06"/><lb ed="R033" n="0868b08"/>者觀自身四者觀佛身此亦初心行人所修非今
+<lb ed="X" n="0819b07"/><lb ed="R033" n="0868b09"/>經意有四安樂行一者身住菩薩行行處近處為
+<lb ed="X" n="0819b08"/><lb ed="R033" n="0868b10"/>眾說法二者口于末法中宣說妙法不樂說人及
+<lb ed="X" n="0819b09"/><lb ed="R033" n="0868b11"/>經<anchor xml:id="nkr_note_orig_0819001" n="0819001"/>典故三者意于法滅時受持斯經無懷嫉妬四
+<lb ed="X" n="0819b10"/><lb ed="R033" n="0868b12"/>者誓願以身口意與慈悲但發願流通此即今經
+<lb ed="X" n="0819b11"/><lb ed="R033" n="0868b13"/>意也由前凡夫諸佛行體無二若不擇住梵行則
+<lb ed="X" n="0819b12"/><lb ed="R033" n="0868b14"/>恐成混濫何也前欲顯理則纖跡不存寧容聖凡
+<lb ed="X" n="0819b13"/><lb ed="R033" n="0868b15"/>有異此中扶事則非是宛然不許邪正混同事理
+<lb ed="X" n="0819b14"/><lb ed="R033" n="0868b16"/>兩備方名究竟所以法華三周法竟說此安樂行
+<lb ed="X" n="0819b15"/><lb ed="R033" n="0868b17"/>門楞嚴見道以還方宣修行法則是皆聖賢千古
+<lb ed="X" n="0819b16"/><lb ed="R033" n="0868b18"/>不易之式也又殺盜淫妄四者乃梵行之門捨是
+<lb ed="X" n="0819b17"/><lb ed="R033" n="0869a01"/>別求則非行處。</p></cb:div>
+<lb ed="X" n="0819b18"/><lb ed="R033" n="0869a02"/><cb:div type="orig"><p xml:id="pX20p0819b1801">梵天若人成就四梵行雖於空閑曠埜中行是名行
+<lb ed="X" n="0819b19"/><lb ed="R033" n="0869a03"/>處行若不成就四梵行雖於樓殿堂閣金銀牀榻妙
+<lb ed="X" n="0819b20"/><lb ed="R033" n="0869a04"/>好被褥於此中行不名行處行亦復不能善知行處
+<lb ed="X" n="0819b21"/><lb ed="R033" n="0869a05"/>相。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0819b2102" rend="margin-left:1em;inline">【註】所言成就者四種安樂行門及身無雜染等行
+<lb ed="X" n="0819b22"/><lb ed="R033" n="0869a06"/>也若成就此則不揀方所雖處曠埜猶居大眾以
+<lb ed="X" n="0819b23"/><lb ed="R033" n="0869a07"/>能說法要故也若不成就雖處大眾猶無一人以
+<lb ed="X" n="0819b24"/><lb ed="R033" n="0869a08"/>不能弘宣大法故亦不能知行處相。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0819c" n="0819c"/>
+<lb ed="X" n="0819c01"/><lb ed="R033" n="0869a09"/><cb:div type="orig"><p xml:id="pX20p0819c0101">又問菩薩以何行知見清淨答言於諸行中能淨我
+<lb ed="X" n="0819c02"/><lb ed="R033" n="0869a10"/>見。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0819c0202" rend="margin-left:1em;inline">【註】凡夫著于我見執於有為二乘著于我見執于
+<lb ed="X" n="0819c03"/><lb ed="R033" n="0869a11"/>無為二者雖則出生相返同歸虗妄若淨我見則
+<lb ed="X" n="0819c04"/><lb ed="R033" n="0869a12"/>有為無為皆歸實際者即是入正行入正行故則
+<lb ed="X" n="0819c05"/><lb ed="R033" n="0869a13"/>知見清淨。</p></cb:div>
+<lb ed="X" n="0819c06"/><lb ed="R033" n="0869a14"/><cb:div type="orig"><p xml:id="pX20p0819c0601">又問若得我實性即得實知見耶答言然若見我實
+<lb ed="X" n="0819c07"/><lb ed="R033" n="0869a15"/>性即是實知見譬如國王典金藏人因<anchor xml:id="beg_56" type="cb-app"/>己<anchor xml:id="end_56"/>出用知餘
+<lb ed="X" n="0819c08"/><lb ed="R033" n="0869a16"/>在者如是因知我實性故得實知見。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0819c0815" rend="margin-left:1em;inline">【註】無我無我所
+<lb ed="X" n="0819c09"/><lb ed="R033" n="0869a17"/>是我實性達實性故則如是知如是見皆如實故
+<lb ed="X" n="0819c10"/><lb ed="R033" n="0869a18"/>譬如典金藏人因<anchor xml:id="beg_57" type="cb-app"/>己<anchor xml:id="end_57"/>出故知餘在者喻我及我所
+<lb ed="X" n="0819c11"/><lb ed="R033" n="0869b01"/>皆從<anchor xml:id="beg_58" type="cb-app"/>己<anchor xml:id="end_58"/>出本是無生而我本體曾無有動無動之
+<lb ed="X" n="0819c12"/><lb ed="R033" n="0869b02"/>體即實知見也。</p></cb:div>
+<lb ed="X" n="0819c13"/><lb ed="R033" n="0869b03"/><cb:div type="orig"><p xml:id="pX20p0819c1301">又問云何得我實性答言若得無我法所以者何我
+<lb ed="X" n="0819c14"/><lb ed="R033" n="0869b04"/>畢竟無根本無決定故若能如是知者是名得我實
+<lb ed="X" n="0819c15"/><lb ed="R033" n="0869b05"/>性。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0819c1502" rend="margin-left:1em;inline">【註】凡夫不了執言有我若有我者四大六根何者
+<lb ed="X" n="0819c16"/><lb ed="R033" n="0869b06"/>是我若眼是我則耳鼻舌身應是非我若耳鼻等
+<lb ed="X" n="0819c17"/><lb ed="R033" n="0869b07"/>非我則誰聞誰齅若都是我則我成六我若都不
+<lb ed="X" n="0819c18"/><lb ed="R033" n="0869b08"/>是我捨是豈應別有如是推求則決定無有根本
+<lb ed="X" n="0819c19"/><lb ed="R033" n="0869b09"/>可得以無得故是名得我實性也。</p></cb:div>
+<lb ed="X" n="0819c20"/><lb ed="R033" n="0869b10"/><cb:div type="orig"><p xml:id="pX20p0819c2001">又問如我解文殊師利所說義以見我故即是見佛
+<lb ed="X" n="0819c21"/><lb ed="R033" n="0869b11"/>所以者何我性即是佛性。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0819c2111" rend="margin-left:1em;inline">【註】見我性空佛性亦空。</p></cb:div>
+<lb ed="X" n="0819c22"/><lb ed="R033" n="0869b12"/><cb:div type="orig"><p xml:id="pX20p0819c2201">文殊師利誰能見佛答言不壞我見者所以者何我
+<lb ed="X" n="0819c23"/><lb ed="R033" n="0869b13"/>見即是法見以法見能見佛。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0819c2312" rend="margin-left:1em;inline">【註】上云見我即是見佛
+<lb ed="X" n="0819c24"/><lb ed="R033" n="0869b14"/>此間誰能見佛似乎相反然梵天恐人壞我見而
+<pb ed="X" xml:id="X20.0364.0820a" n="0820a"/>
+<lb ed="X" n="0820a01"/><lb ed="R033" n="0869b15"/>見實性重增取捨之端故復問之使知不壞我見
+<lb ed="X" n="0820a02"/><lb ed="R033" n="0869b16"/>而見實性也我見即是法見者由有我見法得興
+<lb ed="X" n="0820a03"/><lb ed="R033" n="0869b17"/>起因有法故有能覺者也。</p></cb:div>
+<lb ed="X" n="0820a04"/><lb ed="R033" n="0869b18"/><cb:div type="orig"><p xml:id="pX20p0820a0401">又問頗有無所行名為正行耶答言有若不行一切
+<lb ed="X" n="0820a05"/><lb ed="R033" n="0870a01"/>有為法是名正行。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0820a0508" rend="margin-left:1em;inline">【註】由前不壞我見見佛然亦不著
+<lb ed="X" n="0820a06"/><lb ed="R033" n="0870a02"/>我見若著我見即行有為不名正行以正行不屬
+<lb ed="X" n="0820a07"/><lb ed="R033" n="0870a03"/>有為故不行是行也。</p></cb:div>
+<lb ed="X" n="0820a08"/><lb ed="R033" n="0870a04"/><cb:div type="orig"><p xml:id="pX20p0820a0801">又問云何行名為正行答言若不為見故行不為斷
+<lb ed="X" n="0820a09"/><lb ed="R033" n="0870a05"/>不為證不為修故行是名正行。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0820a0913" rend="margin-left:1em;inline">【註】見苦斷集證滅修
+<lb ed="X" n="0820a10"/><lb ed="R033" n="0870a06"/>道不為四者所行名為正行以見苦無生知集無
+<lb ed="X" n="0820a11"/><lb ed="R033" n="0870a07"/>和合了滅無生滅悟道無二故也。</p></cb:div>
+<lb ed="X" n="0820a12"/><lb ed="R033" n="0870a08"/><cb:div type="orig"><p xml:id="pX20p0820a1201">又問慧眼為見何法答言若有所見不名慧眼慧眼
+<lb ed="X" n="0820a13"/><lb ed="R033" n="0870a09"/>不見有為法不見無為法所以者何有為法皆虗妄
+<lb ed="X" n="0820a14"/><lb ed="R033" n="0870a10"/>分別無虗妄分別是名慧眼無為法空無所有過諸
+<lb ed="X" n="0820a15"/><lb ed="R033" n="0870a11"/>眼道是故慧眼亦不見無為法。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0820a1513" rend="margin-left:1em;inline">【註】由前無見見我實
+<lb ed="X" n="0820a16"/><lb ed="R033" n="0870a12"/>性無行名為正行既云無見無行所云慧眼當見
+<lb ed="X" n="0820a17"/><lb ed="R033" n="0870a13"/>何法夫慧眼者見無見無行之法也以慧眼鑑空
+<lb ed="X" n="0820a18"/><lb ed="R033" n="0870a14"/>空者空諸虗妄故不見有為眼以見色得名慧眼
+<lb ed="X" n="0820a19"/><lb ed="R033" n="0870a15"/>鑑空非色所及故超諸眼道而不見無為也。</p></cb:div>
+<lb ed="X" n="0820a20"/><lb ed="R033" n="0870a16"/><cb:div type="orig"><p xml:id="pX20p0820a2001">又問頗有因緣正行比丘不得道果答言有正行中
+<lb ed="X" n="0820a21"/><lb ed="R033" n="0870a17"/>無道無果無行無得無有得果差別梵天無所得故
+<lb ed="X" n="0820a22"/><lb ed="R033" n="0870a18"/>乃名為得若有所得當知是為增上慢人正行者無
+<lb ed="X" n="0820a23"/><lb ed="R033" n="0870b01"/>增上慢無增上慢則無行無得。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0820a2313" rend="margin-left:1em;inline">【註】所言有因緣者有
+<lb ed="X" n="0820a24"/><lb ed="R033" n="0870b02"/>正行因緣故無行道無得果無得果差別者無聲
+<pb ed="X" xml:id="X20.0364.0820b" n="0820b"/>
+<lb ed="X" n="0820b01"/><lb ed="R033" n="0870b03"/>聞辟支佛佛乘之差別也以正行中無所不行無
+<lb ed="X" n="0820b02"/><lb ed="R033" n="0870b04"/>所不行本一無行是為正行之因緣也。</p></cb:div>
+<lb ed="X" n="0820b03"/><lb ed="R033" n="0870b05"/><cb:div type="orig"><p xml:id="pX20p0820b0301">又問得何法故名為得道答言若法不自生不他生
+<lb ed="X" n="0820b04"/><lb ed="R033" n="0870b06"/>亦不眾緣生從本<anchor xml:id="beg_59" type="cb-app"/>已<anchor xml:id="end_59"/>來常無有生得是法故說名得
+<lb ed="X" n="0820b05"/><lb ed="R033" n="0870b07"/>道。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0820b0502" rend="margin-left:1em;inline">【註】所謂得道者得是無生之道也無生偈曰諸法
+<lb ed="X" n="0820b06"/><lb ed="R033" n="0870b08"/>不自生亦不從他生不共不無因是故說無生不
+<lb ed="X" n="0820b07"/><lb ed="R033" n="0870b09"/>眾緣生者即不共生也缺無因生四處推求無一
+<lb ed="X" n="0820b08"/><lb ed="R033" n="0870b10"/>可得無可得故說名得道也。</p></cb:div>
+<lb ed="X" n="0820b09"/><lb ed="R033" n="0870b11"/><cb:div type="orig"><p xml:id="pX20p0820b0901">又問若法不生為何所得答言若知法不生即名為
+<lb ed="X" n="0820b10"/><lb ed="R033" n="0870b12"/>得。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0820b1002" rend="margin-left:1em;inline">【註】若知法是無生則知心外無法可得無法可得
+<lb ed="X" n="0820b11"/><lb ed="R033" n="0870b13"/>得自心也。</p></cb:div>
+<lb ed="X" n="0820b12"/><lb ed="R033" n="0870b14"/><cb:div type="orig"><p xml:id="pX20p0820b1201">是故佛說若見諸有為法不生相即入正位。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0820b1218" rend="margin-left:1em;inline">【註】文殊
+<lb ed="X" n="0820b13"/><lb ed="R033" n="0870b15"/>復引佛說為正者使行人畢竟以無生為得也在
+<lb ed="X" n="0820b14"/><lb ed="R033" n="0870b16"/>真諦則曰正性在俗諦則曰正位性屬自體位屬
+<lb ed="X" n="0820b15"/><lb ed="R033" n="0870b17"/>相用二者會歸總是一心。</p></cb:div>
+<lb ed="X" n="0820b16"/><lb ed="R033" n="0870b18"/><cb:div type="orig"><p xml:id="pX20p0820b1601">又問云何名正位答言我及涅槃等不作二是名正
+<lb ed="X" n="0820b17"/><lb ed="R033" n="0871a01"/>位。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0820b1702" rend="margin-left:1em;inline">【註】我及我所涅槃生死菩提煩惱不作二見即離
+<lb ed="X" n="0820b18"/><lb ed="R033" n="0871a02"/>分別故也。</p></cb:div>
+<lb ed="X" n="0820b19"/><lb ed="R033" n="0871a03"/><cb:div type="orig"><p xml:id="pX20p0820b1901">又行平等故名為正位以平等出諸苦惱故名正位。</p></cb:div>
+<lb ed="X" n="0820b20"/><lb ed="R033" n="0871a04"/><cb:div type="commentary"><p xml:id="pX20p0820b2001" rend="margin-left:1em">【註】行平等者自持之德平等出諸苦惱者利人之
+<lb ed="X" n="0820b21"/><lb ed="R033" n="0871a05"/>行也自行利他均名平等者不思議也不思議故
+<lb ed="X" n="0820b22"/><lb ed="R033" n="0871a06"/>心無分別同名正位。</p></cb:div>
+<lb ed="X" n="0820b23"/><lb ed="R033" n="0871a07"/><cb:div type="orig"><p xml:id="pX20p0820b2301">入了義中故名正位除一切憶念故名正位。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0820b2318" rend="margin-left:1em;inline">【註】入了
+<lb ed="X" n="0820b24"/><lb ed="R033" n="0871a08"/>義則遠離戲論除憶念則三世性空。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0820c" n="0820c"/>
+<lb ed="X" n="0820c01"/><lb ed="R033" n="0871a09"/><cb:div type="orig"><p xml:id="pX20p0820c0101">爾時世尊讚文殊師利言善哉善哉快說此言誠如
+<lb ed="X" n="0820c02"/><lb ed="R033" n="0871a10"/>所說說是法時七千比丘不受諸法漏盡心得解脫
+<lb ed="X" n="0820c03"/><lb ed="R033" n="0871a11"/>三萬二千諸天遠塵離垢得法眼淨十千人離欲得
+<lb ed="X" n="0820c04"/><lb ed="R033" n="0871a12"/>定。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0820c0402" rend="margin-left:1em;inline">【註】比丘不受諸法者破煩惱惑成般若德也天子
+<lb ed="X" n="0820c05"/><lb ed="R033" n="0871a13"/>得法眼淨者破塵沙惑證解脫德十千人離欲得
+<lb ed="X" n="0820c06"/><lb ed="R033" n="0871a14"/>定者離二邊欲獲中道定破無明惑證法身德也。</p></cb:div>
+<lb ed="X" n="0820c07"/><lb ed="R033" n="0871a15"/><cb:div type="orig"><p xml:id="pX20p0820c0701">二百人發阿耨多羅三藐三菩提心五百菩薩得無
+<lb ed="X" n="0820c08"/><lb ed="R033" n="0871a16"/>生法忍爾時思益梵天白佛言世尊是文殊師利法
+<lb ed="X" n="0820c09"/><lb ed="R033" n="0871a17"/>王子能作佛事大饒益眾生文殊師利言佛出於世
+<lb ed="X" n="0820c10"/><lb ed="R033" n="0871a18"/>不為益法故出不為損法故出。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0820c1013" rend="margin-left:1em;inline">【註】佛出世者不離正
+<lb ed="X" n="0820c11"/><lb ed="R033" n="0871b01"/>位于正位中無損無益如是出世也。</p></cb:div>
+<lb ed="X" n="0820c12"/><lb ed="R033" n="0871b02"/><cb:div type="orig"><p xml:id="pX20p0820c1201">梵天言佛豈不滅度無量眾生仁者亦不利益無量
+<lb ed="X" n="0820c13"/><lb ed="R033" n="0871b03"/>眾生耶文殊師利言汝欲於無眾生中得眾生耶答
+<lb ed="X" n="0820c14"/><lb ed="R033" n="0871b04"/>言不也梵天汝欲得眾生決定相耶答言不也梵天
+<lb ed="X" n="0820c15"/><lb ed="R033" n="0871b05"/>汝欲得諸佛有出生相於世間耶答言不也梵天何
+<lb ed="X" n="0820c16"/><lb ed="R033" n="0871b06"/>等是眾生為佛所滅度者梵天言如仁者所說義無
+<lb ed="X" n="0820c17"/><lb ed="R033" n="0871b07"/>生死無涅槃文殊師利言如是諸佛世尊不得生死
+<lb ed="X" n="0820c18"/><lb ed="R033" n="0871b08"/>不得涅槃佛諸弟子得解脫者亦不得生死不得涅
+<lb ed="X" n="0820c19"/><lb ed="R033" n="0871b09"/>槃所以者何是涅槃是生死但假名字有言說耳實
+<lb ed="X" n="0820c20"/><lb ed="R033" n="0871b10"/>無生死往來滅度涅槃。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0820c2010" rend="margin-left:1em;inline">【註】真如界內絕生佛之假名
+<lb ed="X" n="0820c21"/><lb ed="R033" n="0871b11"/>平等性中離自<anchor xml:id="nkr_note_orig_0820001" n="0820001"/>化之幻相假名既絕則眾生何曾
+<lb ed="X" n="0820c22"/><lb ed="R033" n="0871b12"/>決定幻相既離則諸佛那得度生無生死可度無
+<lb ed="X" n="0820c23"/><lb ed="R033" n="0871b13"/>決定可得則一切萬法歸一寂矣前正問品中網
+<lb ed="X" n="0820c24"/><lb ed="R033" n="0871b14"/>明問佛不為度生死故說法耶而梵天答曰佛所
+<pb ed="X" xml:id="X20.0364.0821a" n="0821a"/>
+<lb ed="X" n="0821a01"/><lb ed="R033" n="0871b15"/>示法有度生死耶如此則梵天非謂不明何以此
+<lb ed="X" n="0821a02"/><lb ed="R033" n="0871b16"/>中復問文殊似若無知何也前則梵天據正性而
+<lb ed="X" n="0821a03"/><lb ed="R033" n="0871b17"/>答網明亦非不知此中論寂梵天豈云未諳皆于
+<lb ed="X" n="0821a04"/><lb ed="R033" n="0871b18"/>佛事門中互興問答發明奧旨使行人有所趨何
+<lb ed="X" n="0821a05"/><lb ed="R033" n="0872a01"/>也蓋此非淺機所知耳。</p></cb:div>
+<lb ed="X" n="0821a06"/><lb ed="R033" n="0872a02"/><cb:div type="orig"><p xml:id="pX20p0821a0601">又問誰能信是法耶答言於諸法中無貪著者又問
+<lb ed="X" n="0821a07"/><lb ed="R033" n="0872a03"/>若貪著者於何貪著答言貪著者貪著虗妄梵天若
+<lb ed="X" n="0821a08"/><lb ed="R033" n="0872a04"/>貪著是實者終無憎上慢以貪著虗妄故行者知之
+<lb ed="X" n="0821a09"/><lb ed="R033" n="0872a05"/>而不貪著若不貪著則無有流若無有流則無往來
+<lb ed="X" n="0821a10"/><lb ed="R033" n="0872a06"/>生死若無往來生死是則滅度。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0821a1013" rend="margin-left:1em;inline">【註】溈山偈曰未達法
+<lb ed="X" n="0821a11"/><lb ed="R033" n="0872a07"/>唯心起種種分別是為貪著虗妄分別不能信是
+<lb ed="X" n="0821a12"/><lb ed="R033" n="0872a08"/>法者也達法唯心<anchor xml:id="beg_5a" type="cb-app"/>已<anchor xml:id="end_5a"/>分別即不生是遠離虗妄分
+<lb ed="X" n="0821a13"/><lb ed="R033" n="0872a09"/>別能信是法者也若虗妄分別是實則彼貪著者
+<lb ed="X" n="0821a14"/><lb ed="R033" n="0872a10"/>不為憎上慢也以虗妄分別如水中月鏡中像極
+<lb ed="X" n="0821a15"/><lb ed="R033" n="0872a11"/>其心機終不可得不了無得妄為有得是皆憎上
+<lb ed="X" n="0821a16"/><lb ed="R033" n="0872a12"/>慢也。</p></cb:div>
+<lb ed="X" n="0821a17"/><lb ed="R033" n="0872a13"/><cb:div type="orig"><p xml:id="pX20p0821a1701">又問何故說言滅度。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0821a1709" rend="margin-left:1em;inline">【註】既云不得生死不得涅槃則
+<lb ed="X" n="0821a18"/><lb ed="R033" n="0872a14"/>滅度之名空說不知滅者滅其虗妄度者度其執
+<lb ed="X" n="0821a19"/><lb ed="R033" n="0872a15"/>著耳。</p></cb:div>
+<lb ed="X" n="0821a20"/><lb ed="R033" n="0872a16"/><cb:div type="orig"><p xml:id="pX20p0821a2001">答言滅度者名為眾緣不和合若無明不和合諸行
+<lb ed="X" n="0821a21"/><lb ed="R033" n="0872a17"/>因緣則不起諸行若不起諸行是名為滅不起相是
+<lb ed="X" n="0821a22"/><lb ed="R033" n="0872a18"/>畢竟滅得是道故則無生處如是名為四聖諦。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0821a2219" rend="margin-left:1em;inline">【註】眾
+<lb ed="X" n="0821a23"/><lb ed="R033" n="0872b01"/>緣不和合者即十二因緣不和合也以無明緣行
+<lb ed="X" n="0821a24"/><lb ed="R033" n="0872b02"/>行緣識識緣名色乃至生老病死次第生起若無
+<pb ed="X" xml:id="X20.0364.0821b" n="0821b"/>
+<lb ed="X" n="0821b01"/><lb ed="R033" n="0872b03"/>明不與行等十二和合則行等十二無由得起是
+<lb ed="X" n="0821b02"/><lb ed="R033" n="0872b04"/>名為滅不起行識名色等相是畢竟滅畢竟滅者
+<lb ed="X" n="0821b03"/><lb ed="R033" n="0872b05"/>但滅無明等十二相不滅其性是為得道是名滅
+<lb ed="X" n="0821b04"/><lb ed="R033" n="0872b06"/>度以生死不可得涅槃不可得但滅其無明妄想
+<lb ed="X" n="0821b05"/><lb ed="R033" n="0872b07"/>耳。</p></cb:div></cb:div>
+<lb ed="X" n="0821b06"/><lb ed="R033" n="0872b08"/><cb:div type="pin"><cb:mulu type="其他" level="1">如來二事品第十五</cb:mulu><head>如來二事品第十五</head>
+<lb ed="X" n="0821b07"/><lb ed="R033" n="0872b09"/><cb:div type="commentary"><p xml:id="pX20p0821b0701" rend="margin-left:1em">【註】前菩薩名字品出無說而說也以法本無說由
+<lb ed="X" n="0821b08"/><lb ed="R033" n="0872b10"/>諸菩薩德行萬差各述所以故有言說次論寂品
+<lb ed="X" n="0821b09"/><lb ed="R033" n="0872b11"/>乃說即無說也由名字異說有差別文字性空體
+<lb ed="X" n="0821b10"/><lb ed="R033" n="0872b12"/>惟一寂此品合彼二事皆如來法施之式也故永
+<lb ed="X" n="0821b11"/><lb ed="R033" n="0872b13"/>嘉曰默時說說時默大施門開無壅塞皆是妙會
+<lb ed="X" n="0821b12"/><lb ed="R033" n="0872b14"/>一心也。</p></cb:div>
+<lb ed="X" n="0821b13"/><lb ed="R033" n="0872b15"/><cb:div type="orig"><p xml:id="pX20p0821b1301">爾時等行菩薩謂文殊師利如汝所說皆為真實答
+<lb ed="X" n="0821b14"/><lb ed="R033" n="0872b16"/>言一切言說皆為真實。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0821b1410" rend="margin-left:1em;inline">【註】豈特文殊之言為真實邪
+<lb ed="X" n="0821b15"/><lb ed="R033" n="0872b17"/>一切外道凡夫所有言語無不真實下文釋其皆
+<lb ed="X" n="0821b16"/><lb ed="R033" n="0872b18"/>真實之意。</p></cb:div>
+<lb ed="X" n="0821b17"/><lb ed="R033" n="0873a01"/><cb:div type="orig"><p xml:id="pX20p0821b1701">又問虗妄言說亦真實耶答言如是所以者何是諸
+<lb ed="X" n="0821b18"/><lb ed="R033" n="0873a02"/>言說皆為虗妄無處無方若法皆虗妄無處無方是
+<lb ed="X" n="0821b19"/><lb ed="R033" n="0873a03"/>故一切言說皆是真實善男子提婆達語如來語無
+<lb ed="X" n="0821b20"/><lb ed="R033" n="0873a04"/>異無別所以者何一切言說皆是如來言說不出如
+<lb ed="X" n="0821b21"/><lb ed="R033" n="0873a05"/>故一切言說有所說事皆以無所說故得有所說是
+<lb ed="X" n="0821b22"/><lb ed="R033" n="0873a06"/>以一切言說皆平等文字同故文字無念故文字空
+<lb ed="X" n="0821b23"/><lb ed="R033" n="0873a07"/>故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0821b2302" rend="margin-left:1em;inline">【註】若以分別相取則聖賢言說為真實凡夫言說
+<lb ed="X" n="0821b24"/><lb ed="R033" n="0873a08"/>為虗妄若平等諦觀則聖賢言說亦名虗妄而凡
+<pb ed="X" xml:id="X20.0364.0821c" n="0821c"/>
+<lb ed="X" n="0821c01"/><lb ed="R033" n="0873a09"/>夫言說亦名真實何也以一切言說皆無性故來
+<lb ed="X" n="0821c02"/><lb ed="R033" n="0873a10"/>無所從故言無處去無所至故言無方無處無方
+<lb ed="X" n="0821c03"/><lb ed="R033" n="0873a11"/>皆由緣興緣滅剎那不住前際不來後際不去中
+<lb ed="X" n="0821c04"/><lb ed="R033" n="0873a12"/>亦無住於無住中假現文字文字性空無有念想
+<lb ed="X" n="0821c05"/><lb ed="R033" n="0873a13"/>故如來語與提婆達語皆平等無有差別也。</p></cb:div>
+<lb ed="X" n="0821c06"/><lb ed="R033" n="0873a14"/><cb:div type="orig"><p xml:id="pX20p0821c0601">等行言如來不說凡夫語言聖賢語言耶文殊師利
+<lb ed="X" n="0821c07"/><lb ed="R033" n="0873a15"/>言然以文字說凡夫語言亦以文字說賢聖語言如
+<lb ed="X" n="0821c08"/><lb ed="R033" n="0873a16"/>是善男子諸文字有分別是凡夫語言是賢聖語言
+<lb ed="X" n="0821c09"/><lb ed="R033" n="0873a17"/>等行言不也文殊師利言如諸文字無分別一切賢
+<lb ed="X" n="0821c10"/><lb ed="R033" n="0873a18"/>聖亦無分別是故賢聖無有言說所以者何賢聖不
+<lb ed="X" n="0821c11"/><lb ed="R033" n="0873b01"/>以文字相不以眾生相不以法相有所說也譬諸鐘
+<lb ed="X" n="0821c12"/><lb ed="R033" n="0873b02"/>鼓眾緣和合而有音聲是諸鐘鼓亦無分別如是諸
+<lb ed="X" n="0821c13"/><lb ed="R033" n="0873b03"/>賢聖善知眾因緣故於諸言說無貪無礙。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0821c1317" rend="margin-left:1em;inline">【註】若謂一
+<lb ed="X" n="0821c14"/><lb ed="R033" n="0873b04"/>切言說文字無有念性均一虗妄則如來豈不說
+<lb ed="X" n="0821c15"/><lb ed="R033" n="0873b05"/>凡夫賢聖耶文殊答曰然如來所說皆由文字詮
+<lb ed="X" n="0821c16"/><lb ed="R033" n="0873b06"/>表而有差別以文字無性無有念想分別而凡夫
+<lb ed="X" n="0821c17"/><lb ed="R033" n="0873b07"/>語賢聖語亦無性無有念想分別由如鐘鼓之聲
+<lb ed="X" n="0821c18"/><lb ed="R033" n="0873b08"/>緣合成音豈為有性耶所言緣合者如鐘鼓之聲
+<lb ed="X" n="0821c19"/><lb ed="R033" n="0873b09"/>緣皮緣木緣金緣人如是等緣和合成音本是無
+<lb ed="X" n="0821c20"/><lb ed="R033" n="0873b10"/>性而凡夫語言聖賢語言外緣事理內緣脣舌牙
+<lb ed="X" n="0821c21"/><lb ed="R033" n="0873b11"/>齒神氣等緣和合成音若缺其一音則不成豈非
+<lb ed="X" n="0821c22"/><lb ed="R033" n="0873b12"/>無性而賢聖了此無性故無貪無礙凡夫不了多
+<lb ed="X" n="0821c23"/><lb ed="R033" n="0873b13"/>生執著故凡聖似差無性體同寧有二致。</p></cb:div>
+<lb ed="X" n="0821c24"/><lb ed="R033" n="0873b14"/><cb:div type="orig"><p xml:id="pX20p0821c2401">等行言如佛所說汝等集會當行二事若說法若聖
+<pb ed="X" xml:id="X20.0364.0822a" n="0822a"/>
+<lb ed="X" n="0822a01"/><lb ed="R033" n="0873b15"/>默然何謂說法何謂聖默然答言若說法不違佛不
+<lb ed="X" n="0822a02"/><lb ed="R033" n="0873b16"/>違法不違僧是名說法若知法即是佛離相即是法
+<lb ed="X" n="0822a03"/><lb ed="R033" n="0873b17"/>無為即是僧是名聖默然。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0822a0311" rend="margin-left:1em;inline">【註】佛以覺了為義法以平
+<lb ed="X" n="0822a04"/><lb ed="R033" n="0873b18"/>等為義僧以和合為義若不迷于覺不著分別不
+<lb ed="X" n="0822a05"/><lb ed="R033" n="0874a01"/>壞和合是名說法若法平等覺了不迷即是佛覺
+<lb ed="X" n="0822a06"/><lb ed="R033" n="0874a02"/>了不迷遠離虗妄幻相即是法了法無生無為順
+<lb ed="X" n="0822a07"/><lb ed="R033" n="0874a03"/>入即是僧此即一體三寶備在自<anchor xml:id="beg_5b" type="cb-app"/>己<anchor xml:id="end_5b"/>不言而喻故
+<lb ed="X" n="0822a08"/><lb ed="R033" n="0874a04"/>曰默然。</p></cb:div>
+<lb ed="X" n="0822a09"/><lb ed="R033" n="0874a05"/><cb:div type="orig"><p xml:id="pX20p0822a0901">又善男子因四念處有所說名為說法於一切法無
+<lb ed="X" n="0822a10"/><lb ed="R033" n="0874a06"/>所憶念名聖默然。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0822a1008" rend="margin-left:1em;inline">【註】四念處者身受心法也觀身無
+<lb ed="X" n="0822a11"/><lb ed="R033" n="0874a07"/>常觀受是苦觀心是空觀法無我佛欲眾生出離
+<lb ed="X" n="0822a12"/><lb ed="R033" n="0874a08"/>如是教誡名為說法了此性空無所憶念是名默然。</p></cb:div>
+<lb ed="X" n="0822a13"/><lb ed="R033" n="0874a09"/><cb:div type="orig"><p xml:id="pX20p0822a1301">因四正勤有所說名為說法以諸法等不作等不作
+<lb ed="X" n="0822a14"/><lb ed="R033" n="0874a10"/>不等名聖默然。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0822a1407" rend="margin-left:1em;inline">【註】四正勤者一斷<anchor xml:id="beg_5c" type="cb-app"/>已<anchor xml:id="end_5c"/>生惡法如除毒
+<lb ed="X" n="0822a15"/><lb ed="R033" n="0874a11"/>蛇二斷未生惡法如防流水三增長<anchor xml:id="beg_5d" type="cb-app"/>已<anchor xml:id="end_5d"/>生善如溉
+<lb ed="X" n="0822a16"/><lb ed="R033" n="0874a12"/>甘果四未生善為生如鑽木出火如是開示名為
+<lb ed="X" n="0822a17"/><lb ed="R033" n="0874a13"/>說法然如來等觀諸法無勤不勤非等不等了法
+<lb ed="X" n="0822a18"/><lb ed="R033" n="0874a14"/>無是故曰默然。</p></cb:div>
+<lb ed="X" n="0822a19"/><lb ed="R033" n="0874a15"/><cb:div type="orig"><p xml:id="pX20p0822a1901">因四如意足有所說名為說法若不起身心名聖默
+<lb ed="X" n="0822a20"/><lb ed="R033" n="0874a16"/>然。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0822a2002" rend="margin-left:1em;inline">【註】四如意者欲念進慧以心慕勝欲繫念正住精
+<lb ed="X" n="0822a21"/><lb ed="R033" n="0874a17"/>進無間不令馳散智定力等所願皆得名如意足。</p></cb:div>
+<lb ed="X" n="0822a22"/><lb ed="R033" n="0874a18"/><cb:div type="orig"><p xml:id="pX20p0822a2201">因五根五力有所說名為說法若不隨他語有所信
+<lb ed="X" n="0822a23"/><lb ed="R033" n="0874b01"/>為不取不捨故分別諸法一心安住無念念中解一
+<lb ed="X" n="0822a24"/><lb ed="R033" n="0874b02"/>切法常定性斷一切戲論慧名聖默然。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0822a2416" rend="margin-left:1em;inline">【註】信進念定
+<pb ed="X" xml:id="X20.0364.0822b" n="0822b"/>
+<lb ed="X" n="0822b01"/><lb ed="R033" n="0874b03"/>慧分開根力聖道仗此出生故曰根心獲相應故
+<lb ed="X" n="0822b02"/><lb ed="R033" n="0874b04"/>曰力根中五者一信諦理出生無漏功德二<g ref="#CB15081">䇿</g>善
+<lb ed="X" n="0822b03"/><lb ed="R033" n="0874b05"/>進修不懈三念正助之道皆出世正因四攝心在
+<lb ed="X" n="0822b04"/><lb ed="R033" n="0874b06"/>道不令馳散五決擇邪正明白不濫力中五者一
+<lb ed="X" n="0822b05"/><lb ed="R033" n="0874b07"/>得信力故不為疑惑所動二得進力故用心無間
+<lb ed="X" n="0822b06"/><lb ed="R033" n="0874b08"/>不至聖道不休三得念力故能破邊見不為煩惱
+<lb ed="X" n="0822b07"/><lb ed="R033" n="0874b09"/>所破四得定力故能破欲界所繫于諸禪定互無
+<lb ed="X" n="0822b08"/><lb ed="R033" n="0874b10"/>妨礙五得慧力故能破邪外等論又能破自<anchor xml:id="beg_5e" type="cb-app"/>己<anchor xml:id="end_5e"/>見
+<lb ed="X" n="0822b09"/><lb ed="R033" n="0874b11"/>愛等執不隨他語者得信力也不取不捨者得進
+<lb ed="X" n="0822b10"/><lb ed="R033" n="0874b12"/>力也安住無念者得念力也解法常定者得定力
+<lb ed="X" n="0822b11"/><lb ed="R033" n="0874b13"/>也斷戲論慧者得慧力也根力有五契心一念一
+<lb ed="X" n="0822b12"/><lb ed="R033" n="0874b14"/>念亦無無所得故謂之默然。</p></cb:div>
+<lb ed="X" n="0822b13"/><lb ed="R033" n="0874b15"/><cb:div type="orig"><p xml:id="pX20p0822b1301">因七菩提分有所說名為說法若常行捨心無所分
+<lb ed="X" n="0822b14"/><lb ed="R033" n="0874b16"/>別無增無減名聖默然。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0822b1410" rend="margin-left:1em;inline">【註】七菩提者即念擇進喜輕
+<lb ed="X" n="0822b15"/><lb ed="R033" n="0874b17"/>安定捨由得五力于菩提有分證之益緣念大乘
+<lb ed="X" n="0822b16"/><lb ed="R033" n="0874b18"/>決擇實相進修無漏喜獲相應此四者治其沈心
+<lb ed="X" n="0822b17"/><lb ed="R033" n="0875a01"/>之相獲相應故獲得輕安由輕安故定心入禪由
+<lb ed="X" n="0822b18"/><lb ed="R033" n="0875a02"/>入禪故捨于觀智如是開示名為說法常行捨心
+<lb ed="X" n="0822b19"/><lb ed="R033" n="0875a03"/>者即念念無著因地果覺無增無減無所分別故
+<lb ed="X" n="0822b20"/><lb ed="R033" n="0875a04"/>曰默然。</p></cb:div>
+<lb ed="X" n="0822b21"/><lb ed="R033" n="0875a05"/><cb:div type="orig"><p xml:id="pX20p0822b2101">因八聖道分有所說名為說法若知說法相如栰喻
+<lb ed="X" n="0822b22"/><lb ed="R033" n="0875a06"/>不依法不依非法名聖默然。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0822b2212" rend="margin-left:1em;inline">【註】八聖道者見思惟語
+<lb ed="X" n="0822b23"/><lb ed="R033" n="0875a07"/>業精進念定命見謂修無漏十六行故明見四諦
+<lb ed="X" n="0822b24"/><lb ed="R033" n="0875a08"/>思惟者謂以正思惟發動正道觀心語謂以無漏
+<pb ed="X" xml:id="X20.0364.0822c" n="0822c"/>
+<lb ed="X" n="0822c01"/><lb ed="R033" n="0875a09"/>智除口邪命常攝口業住正語中業謂以無漏智
+<lb ed="X" n="0822c02"/><lb ed="R033" n="0875a10"/>除身邪命住于清淨正身業中此四者舉其治修
+<lb ed="X" n="0822c03"/><lb ed="R033" n="0875a11"/>之行精謂勤修涅槃善入正諦此通前後定謂正
+<lb ed="X" n="0822c04"/><lb ed="R033" n="0875a12"/>住於法決定不移念謂心不動失正直不忘命謂
+<lb ed="X" n="0822c05"/><lb ed="R033" n="0875a13"/>以無漏智慧通除三業中五種邪命住于正命此
+<lb ed="X" n="0822c06"/><lb ed="R033" n="0875a14"/>三者總收意業獲相應心也如是八種開示本乎
+<lb ed="X" n="0822c07"/><lb ed="R033" n="0875a15"/>無說為度眾生故現言說猶如船栰意在濟人不
+<lb ed="X" n="0822c08"/><lb ed="R033" n="0875a16"/>著彼岸不著此岸不住中流如是說法不依有為
+<lb ed="X" n="0822c09"/><lb ed="R033" n="0875a17"/>不依無為不依法不依非法說是無說無說是說
+<lb ed="X" n="0822c10"/><lb ed="R033" n="0875a18"/>所謂默然同一幻興無有實性故般若云汝等比
+<lb ed="X" n="0822c11"/><lb ed="R033" n="0875b01"/>丘知我說法如筏喻者。</p></cb:div>
+<lb ed="X" n="0822c12"/><lb ed="R033" n="0875b02"/><cb:div type="orig"><p xml:id="pX20p0822c1201">善男子於是三十七助道法若能開解演說名為說
+<lb ed="X" n="0822c13"/><lb ed="R033" n="0875b03"/>法若身證是法亦不離身見法亦不離法見身於是
+<lb ed="X" n="0822c14"/><lb ed="R033" n="0875b04"/>觀中不見二相不見不二相如是現前知見而亦不
+<lb ed="X" n="0822c15"/><lb ed="R033" n="0875b05"/>見名聖默然。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0822c1506" rend="margin-left:1em;inline">【註】總指三十七助道品于法體本無方
+<lb ed="X" n="0822c16"/><lb ed="R033" n="0875b06"/>便應世建立名相若能親證則于法于身不作二
+<lb ed="X" n="0822c17"/><lb ed="R033" n="0875b07"/>不作不二所謂自證不可得也。</p></cb:div>
+<lb ed="X" n="0822c18"/><lb ed="R033" n="0875b08"/><cb:div type="orig"><p xml:id="pX20p0822c1801">又善男子若不妄想著我不妄想著彼不妄想著法
+<lb ed="X" n="0822c19"/><lb ed="R033" n="0875b09"/>有所說名為說法若至不可說相能離一切言說音
+<lb ed="X" n="0822c20"/><lb ed="R033" n="0875b10"/>聲得不動處入離相心名聖默然。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0822c2014" rend="margin-left:1em;inline">【註】彼我說法皆妄
+<lb ed="X" n="0822c21"/><lb ed="R033" n="0875b11"/>想有若無妄想名字皆空如來以此勸誘故名為
+<lb ed="X" n="0822c22"/><lb ed="R033" n="0875b12"/>說法若悟不可說相知一切音聲皆無所入矣。</p></cb:div>
+<lb ed="X" n="0822c23"/><lb ed="R033" n="0875b13"/><cb:div type="orig"><p xml:id="pX20p0822c2301">又善男子若知一切眾生諸根利鈍而教誨之名為
+<lb ed="X" n="0822c24"/><lb ed="R033" n="0875b14"/>說法常入於定心不散亂名聖默然。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0822c2415" rend="margin-left:1em;inline">【註】是知說法皆
+<pb ed="X" xml:id="X20.0364.0823a" n="0823a"/>
+<lb ed="X" n="0823a01"/><lb ed="R033" n="0875b15"/>因對機默然皆由自證以自證故說即無說利眾
+<lb ed="X" n="0823a02"/><lb ed="R033" n="0875b16"/>生故無說為說是二者皆一心建立也。</p></cb:div>
+<lb ed="X" n="0823a03"/><lb ed="R033" n="0875b17"/><cb:div type="orig"><p xml:id="pX20p0823a0301">等行言如我解文殊師利所說義一切聲聞辟支佛
+<lb ed="X" n="0823a04"/><lb ed="R033" n="0875b18"/>無有說法亦無聖默然所以者何是人不能了知一
+<lb ed="X" n="0823a05"/><lb ed="R033" n="0876a01"/>切眾生諸根利鈍亦復不能常在於定文殊師利若
+<lb ed="X" n="0823a06"/><lb ed="R033" n="0876a02"/>有真實問何等是世間說法者何等是世間聖默然
+<lb ed="X" n="0823a07"/><lb ed="R033" n="0876a03"/>者則當為說諸佛是也所以者何諸佛善能分別一
+<lb ed="X" n="0823a08"/><lb ed="R033" n="0876a04"/>切眾生諸根利鈍亦常在定佛告文殊師利如是如
+<lb ed="X" n="0823a09"/><lb ed="R033" n="0876a05"/>是如等行所說唯諸如來有此二法。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0823a0915" rend="margin-left:1em;inline">【註】既是如來具
+<lb ed="X" n="0823a10"/><lb ed="R033" n="0876a06"/>此二事餘不應有云何佛不自說而文殊說也以
+<lb ed="X" n="0823a11"/><lb ed="R033" n="0876a07"/>文殊為擇法眼故佛住第一義故第一義中不容
+<lb ed="X" n="0823a12"/><lb ed="R033" n="0876a08"/>有說在第二義門方便提獎佛告文殊而印可等
+<lb ed="X" n="0823a13"/><lb ed="R033" n="0876a09"/>行者以一真法界若動若靜若語若默若大若小
+<lb ed="X" n="0823a14"/><lb ed="R033" n="0876a10"/>若邪若正等而行之不起二見不起二見是如來
+<lb ed="X" n="0823a15"/><lb ed="R033" n="0876a11"/>行也。</p></cb:div>
+<lb ed="X" n="0823a16"/><lb ed="R033" n="0876a12"/><cb:div type="orig"><p xml:id="pX20p0823a1601">爾時須菩提白佛言世尊我親從佛聞汝等集會當
+<lb ed="X" n="0823a17"/><lb ed="R033" n="0876a13"/>行二事若說法若聖默然世尊若聲聞不能行者云
+<lb ed="X" n="0823a18"/><lb ed="R033" n="0876a14"/>何如來勅諸比丘行此二事佛告須菩提於汝意云
+<lb ed="X" n="0823a19"/><lb ed="R033" n="0876a15"/>何若聲聞不從他聞能說法能聖默然不須菩提言
+<lb ed="X" n="0823a20"/><lb ed="R033" n="0876a16"/>不也須菩提是故當知一切聲聞辟支佛無有說法
+<lb ed="X" n="0823a21"/><lb ed="R033" n="0876a17"/>無聖默然。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0823a2105" rend="margin-left:1em;inline">【註】須菩提云空生以解空第一故此中啟
+<lb ed="X" n="0823a22"/><lb ed="R033" n="0876a18"/>請由前等行不起二見等心而行若不會歸空際
+<lb ed="X" n="0823a23"/><lb ed="R033" n="0876b01"/>則是非皎然安能等行哉故須菩提發起會歸空
+<lb ed="X" n="0823a24"/><lb ed="R033" n="0876b02"/>也聲聞辟支佛無此二事者心存得失未能等觀
+<pb ed="X" xml:id="X20.0364.0823b" n="0823b"/>
+<lb ed="X" n="0823b01"/><lb ed="R033" n="0876b03"/>入空者也如來有者如來即諸法如義如即空也
+<lb ed="X" n="0823b02"/><lb ed="R033" n="0876b04"/>動靜說默皆由空之所出也。</p></cb:div>
+<lb ed="X" n="0823b03"/><lb ed="R033" n="0876b05"/><cb:div type="orig"><p xml:id="pX20p0823b0301">爾時文殊師利謂須菩提如來了知眾生八萬四千
+<lb ed="X" n="0823b04"/><lb ed="R033" n="0876b06"/>行汝於此中有智慧能隨其所應為說法不答言不
+<lb ed="X" n="0823b05"/><lb ed="R033" n="0876b07"/>也今須菩提能入觀一切眾生心三昧住是三昧通
+<lb ed="X" n="0823b06"/><lb ed="R033" n="0876b08"/>達一切眾生心心所行自心他心無所妨礙不答言
+<lb ed="X" n="0823b07"/><lb ed="R033" n="0876b09"/>不也文殊師利言須菩提如來於眾生八萬四千行
+<lb ed="X" n="0823b08"/><lb ed="R033" n="0876b10"/>隨其所應為說法藥又常住定平等相中心不動搖
+<lb ed="X" n="0823b09"/><lb ed="R033" n="0876b11"/>而通達一切眾生心心所行須菩提是故當知一切
+<lb ed="X" n="0823b10"/><lb ed="R033" n="0876b12"/>聲聞辟支佛不及此事。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0823b1010" rend="margin-left:1em;inline">【註】須菩提意謂我親聞佛勅
+<lb ed="X" n="0823b11"/><lb ed="R033" n="0876b13"/>諸比丘行此二事若云無分勅彼何為而佛答非
+<lb ed="X" n="0823b12"/><lb ed="R033" n="0876b14"/>謂無分但無<anchor xml:id="beg_5f" type="cb-app"/>己<anchor xml:id="end_5f"/>智分也動轉施為皆仗佛力如官
+<lb ed="X" n="0823b13"/><lb ed="R033" n="0876b15"/>家僕使一切所為皆依主出而文殊重釋其意者
+<lb ed="X" n="0823b14"/><lb ed="R033" n="0876b16"/>非惟無<anchor xml:id="beg_60" type="cb-app"/>己<anchor xml:id="end_60"/>智分實乃力之不逮耳蓋十力四無畏
+<lb ed="X" n="0823b15"/><lb ed="R033" n="0876b17"/>十八不共法二乘全無五眼六通二乘分證如來
+<lb ed="X" n="0823b16"/><lb ed="R033" n="0876b18"/>圓證不能入觀眾生心三昧者即入一切語言三
+<lb ed="X" n="0823b17"/><lb ed="R033" n="0877a01"/>昧也以此三昧生佛同具二乘分證自心不能遍
+<lb ed="X" n="0823b18"/><lb ed="R033" n="0877a02"/>證他心以不能遍證故不能住是三昧以分別未
+<lb ed="X" n="0823b19"/><lb ed="R033" n="0877a03"/>忘故也以不能故于自心他心心王心所皆不能
+<lb ed="X" n="0823b20"/><lb ed="R033" n="0877a04"/>無妨礙也以不能無礙不能觀機說法故於二事
+<lb ed="X" n="0823b21"/><lb ed="R033" n="0877a05"/>二乘無分如來一一超過故此二事惟如來有如
+<lb ed="X" n="0823b22"/><lb ed="R033" n="0877a06"/>禮樂刑政皆天子出非庶民有也。</p></cb:div>
+<lb ed="X" n="0823b23"/><lb ed="R033" n="0877a07"/><cb:div type="orig"><p xml:id="pX20p0823b2301">須菩提或有眾生多淫欲者以觀淨得解脫不以不
+<lb ed="X" n="0823b24"/><lb ed="R033" n="0877a08"/>淨唯佛能知。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0823b2406" rend="margin-left:1em;inline">【註】多欲眾生如來于小乘教中令觀不
+<pb ed="X" xml:id="X20.0364.0823c" n="0823c"/>
+<lb ed="X" n="0823c01"/><lb ed="R033" n="0877a09"/>淨觀而得解脫如優波尼沙陀等于大乘惟觀欲
+<lb ed="X" n="0823c02"/><lb ed="R033" n="0877a10"/>性無生而得解脫如淨名與二比丘說罪性空等。</p></cb:div>
+<lb ed="X" n="0823c03"/><lb ed="R033" n="0877a11"/><cb:div type="orig"><p xml:id="pX20p0823c0301">或有眾生多瞋恚者以觀過得解脫不以慈心惟佛
+<lb ed="X" n="0823c04"/><lb ed="R033" n="0877a12"/>能知。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0823c0403" rend="margin-left:1em;inline">【註】小乘教中佛令多瞋眾生修慈心觀大乘中
+<lb ed="X" n="0823c05"/><lb ed="R033" n="0877a13"/>不修對治而返求諸<anchor xml:id="beg_61" type="cb-app"/>己<anchor xml:id="end_61"/>也故小乘觀門不足喻也。</p></cb:div>
+<lb ed="X" n="0823c06"/><lb ed="R033" n="0877a14"/><cb:div type="orig"><p xml:id="pX20p0823c0601">或有眾生多愚癡者以不共語得解脫不以說法唯
+<lb ed="X" n="0823c07"/><lb ed="R033" n="0877a15"/>佛能知。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0823c0704" rend="margin-left:1em;inline">【註】由說法故令彼愚癡轉得智慧是佛常說
+<lb ed="X" n="0823c08"/><lb ed="R033" n="0877a16"/>今云不共語而得解脫者蓋如來觀機之說無有
+<lb ed="X" n="0823c09"/><lb ed="R033" n="0877a17"/>定方或勸而發心或激而發心各隨其宜非二乘
+<lb ed="X" n="0823c10"/><lb ed="R033" n="0877a18"/>所知也何謂激而發心耶如阿那律陀性好打睡
+<lb ed="X" n="0823c11"/><lb ed="R033" n="0877b01"/>佛以偈呵曰終日恰恰睡螺螄蚌蛤類一睡一千
+<lb ed="X" n="0823c12"/><lb ed="R033" n="0877b02"/>年不聞佛名字更不與語律陀聞偈自責七日不
+<lb ed="X" n="0823c13"/><lb ed="R033" n="0877b03"/>眠失去兩目得半頭天眼證無學果是不與語而
+<lb ed="X" n="0823c14"/><lb ed="R033" n="0877b04"/>使發心者也夫子亦曰朽木不可雕也。</p></cb:div>
+<lb ed="X" n="0823c15"/><lb ed="R033" n="0877b05"/><cb:div type="orig"><p xml:id="pX20p0823c1501">或有眾生等分行者不以觀淨不以不淨不以觀過
+<lb ed="X" n="0823c16"/><lb ed="R033" n="0877b06"/>不以慈心不以不共語不以說法得解脫者隨其根
+<lb ed="X" n="0823c17"/><lb ed="R033" n="0877b07"/>性以諸法平等而為說法使得解脫惟佛能知是故
+<lb ed="X" n="0823c18"/><lb ed="R033" n="0877b08"/>如來於諸說法人中為最第一禪定人中亦最第一。</p></cb:div>
+<lb ed="X" n="0823c19"/><lb ed="R033" n="0877b09"/><cb:div type="commentary"><p xml:id="pX20p0823c1901" rend="margin-left:1em">【註】等分行者即于貪瞋癡等分也貪瞋癡等分者
+<lb ed="X" n="0823c20"/><lb ed="R033" n="0877b10"/>為說諸法平等得解脫也此上四節文殊與釋如
+<lb ed="X" n="0823c21"/><lb ed="R033" n="0877b11"/>來善知自心他心心王心所應病與藥之意也說
+<lb ed="X" n="0823c22"/><lb ed="R033" n="0877b12"/>法人中第一者釋能隨宜說法也禪定人中第一
+<lb ed="X" n="0823c23"/><lb ed="R033" n="0877b13"/>者釋雖則說法常在於定也。</p></cb:div>
+<lb ed="X" n="0823c24"/><lb ed="R033" n="0877b14"/><cb:div type="orig"><p xml:id="pX20p0823c2401">爾時須菩提問文殊師利若聲聞辟支佛不能如是
+<pb ed="X" xml:id="X20.0364.0824a" n="0824a"/>
+<lb ed="X" n="0824a01"/><lb ed="R033" n="0877b15"/>說法不能如是聖默然者諸菩薩有成就如是功德
+<lb ed="X" n="0824a02"/><lb ed="R033" n="0877b16"/>能說法能聖默然不答言惟佛當知。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824a0215" rend="margin-left:1em;inline">【註】文殊答空生
+<lb ed="X" n="0824a03"/><lb ed="R033" n="0877b17"/>之問歷歷分明及乎問菩薩能如是不而文殊不
+<lb ed="X" n="0824a04"/><lb ed="R033" n="0877b18"/>即與答而曰惟佛當知似乎不能何也葢不逞自
+<lb ed="X" n="0824a05"/><lb ed="R033" n="0878a01"/>能不衒<anchor xml:id="beg_62" type="cb-app"/>己<anchor xml:id="end_62"/>德是聖賢之語式也若言其能則有不
+<lb ed="X" n="0824a06"/><lb ed="R033" n="0878a02"/>能失故曰語忌十成者不欲斷絕也機貴回互者
+<lb ed="X" n="0824a07"/><lb ed="R033" n="0878a03"/>不欲染汙也雖然若問圓澄又且不然但向他道
+<lb ed="X" n="0824a08"/><lb ed="R033" n="0878a04"/>現分析次。</p></cb:div>
+<lb ed="X" n="0824a09"/><lb ed="R033" n="0878a05"/><cb:div type="orig"><p xml:id="pX20p0824a0901">於是佛告須菩提有三昧名入一切語言心不散亂
+<lb ed="X" n="0824a10"/><lb ed="R033" n="0878a06"/>若菩薩成就是三昧皆得是功德。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824a1014" rend="margin-left:1em;inline">【註】一切語言三昧
+<lb ed="X" n="0824a11"/><lb ed="R033" n="0878a07"/>者即法性三昧也以法性無性隨類妙應如絲竹
+<lb ed="X" n="0824a12"/><lb ed="R033" n="0878a08"/>管絃于中實無音性故巧合工商文殊不即答者
+<lb ed="X" n="0824a13"/><lb ed="R033" n="0878a09"/>顯性故也如來與答者顯法妙指故也。</p></cb:div>
+<lb ed="X" n="0824a14"/><lb ed="R033" n="0878a10"/><cb:div type="orig"><p xml:id="pX20p0824a1401">爾時文殊師利謂等行菩薩善男子為眾生八萬四
+<lb ed="X" n="0824a15"/><lb ed="R033" n="0878a11"/>千行故說八萬四千法藏名為說法常在一切滅受
+<lb ed="X" n="0824a16"/><lb ed="R033" n="0878a12"/>想定中名聖默然善男子我若一劫若減一劫演說
+<lb ed="X" n="0824a17"/><lb ed="R033" n="0878a13"/>是義是名說法相是聖默然相猶不能盡。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824a1717" rend="margin-left:1em;inline">【註】由眾生
+<lb ed="X" n="0824a18"/><lb ed="R033" n="0878a14"/>塵勞行故說此法藏則知無故說說是無說說法
+<lb ed="X" n="0824a19"/><lb ed="R033" n="0878a15"/>默然二而不二不二故經劫不能盡也。</p></cb:div>
+<lb ed="X" n="0824a20"/><lb ed="R033" n="0878a16"/><cb:div type="orig"><p xml:id="pX20p0824a2001">於是佛告等行菩薩善男子乃往過去無量無邊不
+<lb ed="X" n="0824a21"/><lb ed="R033" n="0878a17"/>可思議阿僧祇劫時世有佛號曰普光劫曰名聞國
+<lb ed="X" n="0824a22"/><lb ed="R033" n="0878a18"/>名喜見。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824a2204" rend="margin-left:1em;inline">【註】以出過思量中道智光等照二邊故曰普
+<lb ed="X" n="0824a23"/><lb ed="R033" n="0878b01"/>光此智十界同見故曰名聞能悟此智則獲聖果
+<lb ed="X" n="0824a24"/><lb ed="R033" n="0878b02"/>故曰喜見用表前說法默然二事雙運之謂也。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0824b" n="0824b"/>
+<lb ed="X" n="0824b01"/><lb ed="R033" n="0878b03"/><cb:div type="orig"><p xml:id="pX20p0824b0101">彼國嚴淨。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824b0105" rend="margin-left:1em;inline">【註】離二邊垢也。</p></cb:div>
+<lb ed="X" n="0824b02"/><lb ed="R033" n="0878b04"/><cb:div type="orig"><p xml:id="pX20p0824b0201">豐樂安隱。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824b0205" rend="margin-left:1em;inline">【註】多饒法寶故言豐樂常在於定故言安
+<lb ed="X" n="0824b03"/><lb ed="R033" n="0878b05"/>隱。</p></cb:div>
+<lb ed="X" n="0824b04"/><lb ed="R033" n="0878b06"/><cb:div type="orig"><p xml:id="pX20p0824b0401">天人熾盛其地皆以眾寶莊嚴柔輭細滑生寶蓮華
+<lb ed="X" n="0824b05"/><lb ed="R033" n="0878b07"/>一切香樹充滿其中常出妙香。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824b0513" rend="margin-left:1em;inline">【註】其佛以二事雙運
+<lb ed="X" n="0824b06"/><lb ed="R033" n="0878b08"/>為因地以平等妙行為資助故感眾寶嚴地平等
+<lb ed="X" n="0824b07"/><lb ed="R033" n="0878b09"/>無諍故感柔輭細滑蓮華不著垢淨不離垢淨表
+<lb ed="X" n="0824b08"/><lb ed="R033" n="0878b10"/>中道智不即二邊不壞二邊也一切香樹常出妙
+<lb ed="X" n="0824b09"/><lb ed="R033" n="0878b11"/>香依此中道智出生諸功德妙香也。</p></cb:div>
+<lb ed="X" n="0824b10"/><lb ed="R033" n="0878b12"/><cb:div type="orig"><p xml:id="pX20p0824b1001">善男子喜見國土有四百億四天下一一四天下縱
+<lb ed="X" n="0824b11"/><lb ed="R033" n="0878b13"/>廣八萬四千由旬其中諸城縱廣一由旬皆以眾寶
+<lb ed="X" n="0824b12"/><lb ed="R033" n="0878b14"/>校飾一一城者有二萬五千聚落村邑而圍繞之一
+<lb ed="X" n="0824b13"/><lb ed="R033" n="0878b15"/>一聚落村邑無量百千人眾充滿其中彼時人民所
+<lb ed="X" n="0824b14"/><lb ed="R033" n="0878b16"/>見色像心皆欣悅無可憎惡亦悉皆得念佛三昧是
+<lb ed="X" n="0824b15"/><lb ed="R033" n="0878b17"/>以國土名曰喜見。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824b1508" rend="margin-left:1em;inline">【註】所見色像心皆欣悅者以中道
+<lb ed="X" n="0824b16"/><lb ed="R033" n="0878b18"/>智平等無有分別無分別故所見一切色皆是佛
+<lb ed="X" n="0824b17"/><lb ed="R033" n="0879a01"/>色無可取捨無取捨故無憎惡也。</p></cb:div>
+<lb ed="X" n="0824b18"/><lb ed="R033" n="0879a02"/><cb:div type="orig"><p xml:id="pX20p0824b1801">若他方世界諸來菩薩皆得快樂餘國不爾。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824b1818" rend="margin-left:1em;inline">【註】一切
+<lb ed="X" n="0824b19"/><lb ed="R033" n="0879a03"/>方便異門皆依中道而得快樂捨是其餘皆不名
+<lb ed="X" n="0824b20"/><lb ed="R033" n="0879a04"/>快樂矣。</p></cb:div>
+<lb ed="X" n="0824b21"/><lb ed="R033" n="0879a05"/><cb:div type="orig"><p xml:id="pX20p0824b2101">善男子其普光佛以三乘法為弟子說亦多樂說如
+<lb ed="X" n="0824b22"/><lb ed="R033" n="0879a06"/>是法言汝等比丘當行二事若說法若聖默然。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824b2219" rend="margin-left:1em;inline">【註】是
+<lb ed="X" n="0824b23"/><lb ed="R033" n="0879a07"/>一而三不礙中道不礙中道故二事竝行也。</p></cb:div>
+<lb ed="X" n="0824b24"/><lb ed="R033" n="0879a08"/><cb:div type="orig"><p xml:id="pX20p0824b2401">善男子爾時上方醫王佛土有二菩薩一名無盡意
+<pb ed="X" xml:id="X20.0364.0824c" n="0824c"/>
+<lb ed="X" n="0824c01"/><lb ed="R033" n="0879a09"/>二名益意來詣普光佛所頭面禮佛足右繞三匝恭
+<lb ed="X" n="0824c02"/><lb ed="R033" n="0879a10"/>敬合掌却住一面。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824c0208" rend="margin-left:1em;inline">【註】以方便智調伏眾生故曰醫王
+<lb ed="X" n="0824c03"/><lb ed="R033" n="0879a11"/>上方非堅礙之界用表實際謂方便智依實際而
+<lb ed="X" n="0824c04"/><lb ed="R033" n="0879a12"/>住故曰上方文云能知一切眾生諸根利鈍而教
+<lb ed="X" n="0824c05"/><lb ed="R033" n="0879a13"/>誨之而亦常在于定是此義也一名無盡意者依
+<lb ed="X" n="0824c06"/><lb ed="R033" n="0879a14"/>此方便智而脩行調伏無盡也二名益意者依此
+<lb ed="X" n="0824c07"/><lb ed="R033" n="0879a15"/>方便智而增益利樂也從醫王佛土來詣普光佛
+<lb ed="X" n="0824c08"/><lb ed="R033" n="0879a16"/>所者即方便智趣中道之像也此經頓教一往論
+<lb ed="X" n="0824c09"/><lb ed="R033" n="0879a17"/>辯皆稱絕待若非方便何云去來細觀可知。</p></cb:div>
+<lb ed="X" n="0824c10"/><lb ed="R033" n="0879a18"/><cb:div type="orig"><p xml:id="pX20p0824c1001">時普光佛為二菩薩廣說淨明三昧所以名曰淨明
+<lb ed="X" n="0824c11"/><lb ed="R033" n="0879b01"/>三昧者若菩薩入是三昧即得解脫一切諸相及煩
+<lb ed="X" n="0824c12"/><lb ed="R033" n="0879b02"/>惱著亦於一切佛法得淨光明是故名為淨明三昧。</p></cb:div>
+<lb ed="X" n="0824c13"/><lb ed="R033" n="0879b03"/><cb:div type="commentary"><p xml:id="pX20p0824c1301" rend="margin-left:1em">【註】即方便智示以根本智也前所謂諸法正性正
+<lb ed="X" n="0824c14"/><lb ed="R033" n="0879b04"/>行等也以正性離分別故解脫諸相正行無行故
+<lb ed="X" n="0824c15"/><lb ed="R033" n="0879b05"/>離諸煩惱以根本智逈絕依故于佛法得明淨也。</p></cb:div>
+<lb ed="X" n="0824c16"/><lb ed="R033" n="0879b06"/><cb:div type="orig"><p xml:id="pX20p0824c1601">又前際一切法淨後際一切法淨現在一切法淨是
+<lb ed="X" n="0824c17"/><lb ed="R033" n="0879b07"/>三世畢竟淨無能令不淨性常淨故是以說一切諸
+<lb ed="X" n="0824c18"/><lb ed="R033" n="0879b08"/>法性常清淨。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824c1806" rend="margin-left:1em;inline">【註】以根本智門非三世所攝不屬垢淨
+<lb ed="X" n="0824c19"/><lb ed="R033" n="0879b09"/>體是無染不能使之不淨如珠如玉水精琉璃真
+<lb ed="X" n="0824c20"/><lb ed="R033" n="0879b10"/>體如是誰能使不淨無能使不淨是謂畢竟淨也。</p></cb:div>
+<lb ed="X" n="0824c21"/><lb ed="R033" n="0879b11"/><cb:div type="orig"><p xml:id="pX20p0824c2101">何謂諸法性淨謂一切法空相離有所得故一切法
+<lb ed="X" n="0824c22"/><lb ed="R033" n="0879b12"/>無相相離憶想分別故一切法無作相不取不捨無
+<lb ed="X" n="0824c23"/><lb ed="R033" n="0879b13"/>求無願畢竟離自性故是名性常清淨。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0824c2316" rend="margin-left:1em;inline">【註】法無處所
+<lb ed="X" n="0824c24"/><lb ed="R033" n="0879b14"/>故言空法無形段故言無相相法無能所故言無
+<pb ed="X" xml:id="X20.0364.0825a" n="0825a"/>
+<lb ed="X" n="0825a01"/><lb ed="R033" n="0879b15"/>作此三解脫門之相即是性常淨之相也。</p></cb:div>
+<lb ed="X" n="0825a02"/><lb ed="R033" n="0879b16"/><cb:div type="orig"><p xml:id="pX20p0825a0201">以是常淨相知生死性即是涅槃性涅槃性即是一
+<lb ed="X" n="0825a03"/><lb ed="R033" n="0879b17"/>切法性。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0825a0304" rend="margin-left:1em;inline">【註】涅槃云寂滅以剎那無生相可得剎那無
+<lb ed="X" n="0825a04"/><lb ed="R033" n="0879b18"/>滅相可得以生滅不可得故為一切法所依故曰
+<lb ed="X" n="0825a05"/><lb ed="R033" n="0880a01"/>法性。</p></cb:div>
+<lb ed="X" n="0825a06"/><lb ed="R033" n="0880a02"/><cb:div type="orig"><p xml:id="pX20p0825a0601">是故說心性常清淨善男子譬如虗空若受垢汙無
+<lb ed="X" n="0825a07"/><lb ed="R033" n="0880a03"/>有是處心性亦如是若有垢汙無有是處。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0825a0717" rend="margin-left:1em;inline">【註】此喻心
+<lb ed="X" n="0825a08"/><lb ed="R033" n="0880a04"/>性本來是淨非使之淨也。</p></cb:div>
+<lb ed="X" n="0825a09"/><lb ed="R033" n="0880a05"/><cb:div type="orig"><p xml:id="pX20p0825a0901">又如虗空雖為烟塵雲霧覆曀不明不淨而不能染
+<lb ed="X" n="0825a10"/><lb ed="R033" n="0880a06"/>汙虗空之性設染汙者不可復淨以虗空實不染汙
+<lb ed="X" n="0825a11"/><lb ed="R033" n="0880a07"/>故還見清淨凡夫心亦如是雖邪憶念起諸煩惱然
+<lb ed="X" n="0825a12"/><lb ed="R033" n="0880a08"/>其心性不可垢汙設垢汙者不可復淨以心相實不
+<lb ed="X" n="0825a13"/><lb ed="R033" n="0880a09"/>可垢汙性常明淨是故心得解脫善男子是名入淨
+<lb ed="X" n="0825a14"/><lb ed="R033" n="0880a10"/>明三昧門。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0825a1405" rend="margin-left:1em;inline">【註】此喻心性即染而淨非謂離染而淨也。</p></cb:div>
+<lb ed="X" n="0825a15"/><lb ed="R033" n="0880a11"/><cb:div type="orig"><p xml:id="pX20p0825a1501">彼二菩薩聞是三昧於諸法中得不可思議法光明。</p></cb:div>
+<lb ed="X" n="0825a16"/><lb ed="R033" n="0880a12"/><cb:div type="commentary"><p xml:id="pX20p0825a1601" rend="margin-left:1em">【註】此乃方便趨中道之益也。</p></cb:div>
+<lb ed="X" n="0825a17"/><lb ed="R033" n="0880a13"/><cb:div type="orig"><p xml:id="pX20p0825a1701">爾時無盡意菩薩白普光如來言世尊我等<anchor xml:id="beg_63" type="cb-app"/>已<anchor xml:id="end_63"/>聞入
+<lb ed="X" n="0825a18"/><lb ed="R033" n="0880a14"/>淨明三昧當以何行行此法門佛告無盡意善男子
+<lb ed="X" n="0825a19"/><lb ed="R033" n="0880a15"/>汝等當行二行若說法若聖默然時二菩薩從佛受
+<lb ed="X" n="0825a20"/><lb ed="R033" n="0880a16"/>教頭面禮佛足繞三帀而出趣一園林自以神力化
+<lb ed="X" n="0825a21"/><lb ed="R033" n="0880a17"/>作寶樓于中脩行。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0825a2108" rend="margin-left:1em;inline">【註】園林者總持也以此二法雙運
+<lb ed="X" n="0825a22"/><lb ed="R033" n="0880a18"/>故趣總持也樓以高顯為義修行此勝行也。</p></cb:div>
+<lb ed="X" n="0825a23"/><lb ed="R033" n="0880b01"/><cb:div type="orig"><p xml:id="pX20p0825a2301">時有梵天名曰妙光與七萬二千梵俱來至其所頭
+<lb ed="X" n="0825a24"/><lb ed="R033" n="0880b02"/>面禮足問二菩薩善男子普光如來說言汝等比丘
+<pb ed="X" xml:id="X20.0364.0825b" n="0825b"/>
+<lb ed="X" n="0825b01"/><lb ed="R033" n="0880b03"/>集會當行二事若說法若聖默然善男子何謂說法
+<lb ed="X" n="0825b02"/><lb ed="R033" n="0880b04"/>何謂聖默然二菩薩言汝今善聽我當少說唯有如
+<lb ed="X" n="0825b03"/><lb ed="R033" n="0880b05"/>來乃通達耳於是二菩薩以二句義為諸梵眾廣分
+<lb ed="X" n="0825b04"/><lb ed="R033" n="0880b06"/>別說時七萬二千梵皆得無生法忍妙光梵天得普
+<lb ed="X" n="0825b05"/><lb ed="R033" n="0880b07"/>光明三昧是二菩薩於七萬六千歲以無礙辯才答
+<lb ed="X" n="0825b06"/><lb ed="R033" n="0880b08"/>其所問不懈不息分別二句互相問答而不窮盡。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0825b0620" rend="margin-left:1em;inline">【註】
+<lb ed="X" n="0825b07"/><lb ed="R033" n="0880b09"/>前二菩薩從普光如來聞淨明三昧得不可思議
+<lb ed="X" n="0825b08"/><lb ed="R033" n="0880b10"/>法光明者破煩惱惑故曰淨明證般若德故曰不
+<lb ed="X" n="0825b09"/><lb ed="R033" n="0880b11"/>可思議真諦之道備矣此中梵天名妙光者由不
+<lb ed="X" n="0825b10"/><lb ed="R033" n="0880b12"/>思議光之所出也故妙光等皆從二菩薩聞法得
+<lb ed="X" n="0825b11"/><lb ed="R033" n="0880b13"/>證所謂<anchor xml:id="nkr_note_orig_0825001" n="0825001"/>靜極光通達矣二菩薩由醫王佛而來普
+<lb ed="X" n="0825b12"/><lb ed="R033" n="0880b14"/>光佛所者由俗趣真之像也此中二菩薩與梵天
+<lb ed="X" n="0825b13"/><lb ed="R033" n="0880b15"/>說二句義者融真會俗之像也梵天者俗諦也妙
+<lb ed="X" n="0825b14"/><lb ed="R033" n="0880b16"/>光者即真即俗故曰妙光真諦無說以方便故說
+<lb ed="X" n="0825b15"/><lb ed="R033" n="0880b17"/>方便者第二義門也故曰二菩薩少說名數差別
+<lb ed="X" n="0825b16"/><lb ed="R033" n="0880b18"/>故曰七萬二千梵得無生法忍者會差別歸于實
+<lb ed="X" n="0825b17"/><lb ed="R033" n="0881a01"/>際也妙光梵天得普光明三昧者破塵沙惑證解
+<lb ed="X" n="0825b18"/><lb ed="R033" n="0881a02"/>脫德故曰普光明俗諦之道備矣二句義互相問
+<lb ed="X" n="0825b19"/><lb ed="R033" n="0881a03"/>答經七萬六千歲所謂第二義也。</p></cb:div>
+<lb ed="X" n="0825b20"/><lb ed="R033" n="0881a04"/><cb:div type="orig"><p xml:id="pX20p0825b2001">於是普光如來在虗空中作如是言善男子勿於文
+<lb ed="X" n="0825b21"/><lb ed="R033" n="0881a05"/>字言說而起諍訟凡諸言說皆空如響如所問答亦
+<lb ed="X" n="0825b22"/><lb ed="R033" n="0881a06"/>復如是汝等二人皆得無礙辯才及無盡陀羅尼若
+<lb ed="X" n="0825b23"/><lb ed="R033" n="0881a07"/>於一劫若百劫說此二句辯不可盡善男子佛法是
+<lb ed="X" n="0825b24"/><lb ed="R033" n="0881a08"/>寂滅相第一之義此中無有文字不可得說諸所言
+<pb ed="X" xml:id="X20.0364.0825c" n="0825c"/>
+<lb ed="X" n="0825c01"/><lb ed="R033" n="0881a09"/>說皆無義利是故汝等當隨此義勿隨文字是二菩
+<lb ed="X" n="0825c02"/><lb ed="R033" n="0881a10"/>薩聞佛教<anchor xml:id="beg_64" type="cb-app"/>已<anchor xml:id="end_64"/>默然而止。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0825c0210" rend="margin-left:1em;inline">【註】普光如來在虗空中告二
+<lb ed="X" n="0825c03"/><lb ed="R033" n="0881a11"/>菩薩勿著文字而起諍訟者虗空非堅礙之界用
+<lb ed="X" n="0825c04"/><lb ed="R033" n="0881a12"/>表實際也上不依天下不著地在虗空之中表中
+<lb ed="X" n="0825c05"/><lb ed="R033" n="0881a13"/>道也收前真俗二門會歸中道破無明惑證法身
+<lb ed="X" n="0825c06"/><lb ed="R033" n="0881a14"/>德故曰佛法是寂滅相第一之義蓋真俗二邊多
+<lb ed="X" n="0825c07"/><lb ed="R033" n="0881a15"/>致諍訟第一義中無有諍訟也在真諦則曰得不
+<lb ed="X" n="0825c08"/><lb ed="R033" n="0881a16"/>可思議法光明在俗諦則曰得普光明三昧以其
+<lb ed="X" n="0825c09"/><lb ed="R033" n="0881a17"/>有得則有不得故致諍訟在中道第一義諦中則
+<lb ed="X" n="0825c10"/><lb ed="R033" n="0881a18"/>曰默然而止以其無得則無有不得故無諍訟也
+<lb ed="X" n="0825c11"/><lb ed="R033" n="0881b01"/>問勿隨文字當隨此義如何此義答水向石中流
+<lb ed="X" n="0825c12"/><lb ed="R033" n="0881b02"/>出冷風從花裏過來香。</p></cb:div>
+<lb ed="X" n="0825c13"/><lb ed="R033" n="0881b03"/><cb:div type="orig"><p xml:id="pX20p0825c1301">佛告等行以是當知菩薩若以辯才說法於百千萬
+<lb ed="X" n="0825c14"/><lb ed="R033" n="0881b04"/>劫若過百千萬劫不可窮盡又告等行於意云何彼
+<lb ed="X" n="0825c15"/><lb ed="R033" n="0881b05"/>二菩薩豈異人乎勿造斯觀。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0825c1512" rend="margin-left:1em;inline">【註】若謂二菩薩是他人
+<lb ed="X" n="0825c16"/><lb ed="R033" n="0881b06"/>要且不然勿造斯觀當知即是汝等非有他也。</p></cb:div>
+<lb ed="X" n="0825c17"/><lb ed="R033" n="0881b07"/><cb:div type="orig"><p xml:id="pX20p0825c1701">無盡意者今文殊師利是。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0825c1711" rend="margin-left:1em;inline">【註】以方便智即根本智之
+<lb ed="X" n="0825c18"/><lb ed="R033" n="0881b08"/>像也。</p></cb:div>
+<lb ed="X" n="0825c19"/><lb ed="R033" n="0881b09"/><cb:div type="orig"><p xml:id="pX20p0825c1901">益意菩薩者今汝身是。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0825c1910" rend="margin-left:1em;inline">【註】以分別智即無分別智之
+<lb ed="X" n="0825c20"/><lb ed="R033" n="0881b10"/>像也由分別觀察增益利樂故曰益意于第一義
+<lb ed="X" n="0825c21"/><lb ed="R033" n="0881b11"/>心不動故曰等行。</p></cb:div>
+<lb ed="X" n="0825c22"/><lb ed="R033" n="0881b12"/><cb:div type="orig"><p xml:id="pX20p0825c2201">妙光梵天者今思益梵天是也。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0825c2213" rend="margin-left:1em;inline">【註】由真出假遊于俗
+<lb ed="X" n="0825c23"/><lb ed="R033" n="0881b13"/>諦故曰梵天即俗照真故曰妙光所謂即俗照真
+<lb ed="X" n="0825c24"/><lb ed="R033" n="0881b14"/>者即今思慧也。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0826a" n="0826a"/>
+<lb ed="X" n="0826a01"/><lb ed="R033" n="0881b15"/><cb:div type="orig"><p xml:id="pX20p0826a0101">爾時等行菩薩白佛言未曾有也世尊諸佛菩薩為
+<lb ed="X" n="0826a02"/><lb ed="R033" n="0881b16"/>大饒益如所說行精進眾生世尊其懈怠不能如所
+<lb ed="X" n="0826a03"/><lb ed="R033" n="0881b17"/>說行者雖值百千萬佛無能為也當知從勤精進得
+<lb ed="X" n="0826a04"/><lb ed="R033" n="0881b18"/>出菩提。</p></cb:div></cb:div>
+<lb ed="X" n="0826a05"/><lb ed="R033" n="0882a01"/><cb:div type="pin"><cb:mulu type="其他" level="1">得聖道品第十六</cb:mulu><head>得聖道品第十六</head>
+<lb ed="X" n="0826a06"/><lb ed="R033" n="0882a02"/><cb:div type="commentary"><p xml:id="pX20p0826a0601" rend="margin-left:1em">【註】以不二法得道謂之聖道由前說法不礙默然
+<lb ed="X" n="0826a07"/><lb ed="R033" n="0882a03"/>說即無說也默然不礙說法無說即說也若行人
+<lb ed="X" n="0826a08"/><lb ed="R033" n="0882a04"/>能通達此二而不二是謂得聖道也若二者各執
+<lb ed="X" n="0826a09"/><lb ed="R033" n="0882a05"/>則非得聖道矣前文四聖諦品者開示之謂也此
+<lb ed="X" n="0826a10"/><lb ed="R033" n="0882a06"/>中得聖道品者悟之謂也。</p></cb:div>
+<lb ed="X" n="0826a11"/><lb ed="R033" n="0882a07"/><cb:div type="orig"><p xml:id="pX20p0826a1101">爾時文殊師利謂等行菩薩善男子汝知菩薩云何
+<lb ed="X" n="0826a12"/><lb ed="R033" n="0882a08"/>行名勤精進答言若菩薩能得聖道名勤精進。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0826a1219" rend="margin-left:1em;inline">【註】前
+<lb ed="X" n="0826a13"/><lb ed="R033" n="0882a09"/>文等行云佛為饒益精進眾生其懈怠者雖值多
+<lb ed="X" n="0826a14"/><lb ed="R033" n="0882a10"/>佛無能為文殊恐人著于有為故有此問而等行
+<lb ed="X" n="0826a15"/><lb ed="R033" n="0882a11"/>不言精進不說懈怠但曰得聖道而<anchor xml:id="beg_65" type="cb-app"/>已<anchor xml:id="end_65"/>則知精進
+<lb ed="X" n="0826a16"/><lb ed="R033" n="0882a12"/>者非精進之精進矣。</p></cb:div>
+<lb ed="X" n="0826a17"/><lb ed="R033" n="0882a13"/><cb:div type="orig"><p xml:id="pX20p0826a1701">又問云何行能得聖道答言若於諸法無所分別如
+<lb ed="X" n="0826a18"/><lb ed="R033" n="0882a14"/>是行者能得聖道。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0826a1808" rend="margin-left:1em;inline">【註】雖知無精進為精進而未知無
+<lb ed="X" n="0826a19"/><lb ed="R033" n="0882a15"/>得為得文殊恐人著于有行有得所以問過而等
+<lb ed="X" n="0826a20"/><lb ed="R033" n="0882a16"/>行不答有得不答無得不答有行不答無行但曰
+<lb ed="X" n="0826a21"/><lb ed="R033" n="0882a17"/>無所分別無分別者不分別得與不得不分別行
+<lb ed="X" n="0826a22"/><lb ed="R033" n="0882a18"/>與不行當如是而行如是而得也。</p></cb:div>
+<lb ed="X" n="0826a23"/><lb ed="R033" n="0882b01"/><cb:div type="orig"><p xml:id="pX20p0826a2301">又問云何名為得聖道<anchor xml:id="beg_66" type="cb-app"/>已<anchor xml:id="end_66"/>答言若行者於平等中見
+<lb ed="X" n="0826a24"/><lb ed="R033" n="0882b02"/>諸法平等是名得聖道<anchor xml:id="beg_67" type="cb-app"/>已<anchor xml:id="end_67"/>。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0826a2411" rend="margin-left:1em;inline">【註】所謂得聖道者得無所
+<pb ed="X" xml:id="X20.0364.0826b" n="0826b"/>
+<lb ed="X" n="0826b01"/><lb ed="R033" n="0882b03"/>得也若得無所得云何知其<anchor xml:id="beg_68" type="cb-app"/>已<anchor xml:id="end_68"/>得聖道邪若能見
+<lb ed="X" n="0826b02"/><lb ed="R033" n="0882b04"/>諸法平等則為<anchor xml:id="beg_69" type="cb-app"/>已<anchor xml:id="end_69"/>得非別有所得也。</p></cb:div>
+<lb ed="X" n="0826b03"/><lb ed="R033" n="0882b05"/><cb:div type="orig"><p xml:id="pX20p0826b0301">又問平等可得見耶答言不也所以者何若平等可
+<lb ed="X" n="0826b04"/><lb ed="R033" n="0882b06"/>見則非平等。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0826b0406" rend="margin-left:1em;inline">【註】所言平等者不可思議之謂也故曰
+<lb ed="X" n="0826b05"/><lb ed="R033" n="0882b07"/>識不能識智不能知思惟不能及分別不能解故
+<lb ed="X" n="0826b06"/><lb ed="R033" n="0882b08"/>非可見若可見者非不思議之境也。</p></cb:div>
+<lb ed="X" n="0826b07"/><lb ed="R033" n="0882b09"/><cb:div type="orig"><p xml:id="pX20p0826b0701">思益梵天謂文殊師利若行者於平等中不見諸法
+<lb ed="X" n="0826b08"/><lb ed="R033" n="0882b10"/>是名得聖道<anchor xml:id="beg_6a" type="cb-app"/>已<anchor xml:id="end_6a"/>文殊師利言何故不見思益言離二
+<lb ed="X" n="0826b09"/><lb ed="R033" n="0882b11"/>相故不見不見即是正見。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0826b0911" rend="margin-left:1em;inline">【註】前等行謂平等中見諸
+<lb ed="X" n="0826b10"/><lb ed="R033" n="0882b12"/>法平等是名得道而復云平等不可見平等不可
+<lb ed="X" n="0826b11"/><lb ed="R033" n="0882b13"/>見則諸法可見乎而梵天復答意云于平等中諸
+<lb ed="X" n="0826b12"/><lb ed="R033" n="0882b14"/>法尚不見何平等可見也。</p></cb:div>
+<lb ed="X" n="0826b13"/><lb ed="R033" n="0882b15"/><cb:div type="orig"><p xml:id="pX20p0826b1301">又問誰能正見世間答言不壞世間相者又問云何
+<lb ed="X" n="0826b14"/><lb ed="R033" n="0882b16"/>為不壞世間相答言色如無別無異受想行識如無
+<lb ed="X" n="0826b15"/><lb ed="R033" n="0882b17"/>別無異若行者見五陰平等如相是名正見世間。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0826b1520" rend="margin-left:1em;inline">【註】
+<lb ed="X" n="0826b16"/><lb ed="R033" n="0882b18"/>上云不見為正見者指何物為正見邪故文殊發
+<lb ed="X" n="0826b17"/><lb ed="R033" n="0883a01"/>明其意云誰能正見世間出其相也以五陰乃妄
+<lb ed="X" n="0826b18"/><lb ed="R033" n="0883a02"/>見之相猶如空華本無所有不名正見若謂無見
+<lb ed="X" n="0826b19"/><lb ed="R033" n="0883a03"/>亦不名正見若知五陰與如無異無別是名正見
+<lb ed="X" n="0826b20"/><lb ed="R033" n="0883a04"/>若于五陰起有無見是名分別若離五陰求于正
+<lb ed="X" n="0826b21"/><lb ed="R033" n="0883a05"/>見是壞世間相是二者非正見矣。</p></cb:div>
+<lb ed="X" n="0826b22"/><lb ed="R033" n="0883a06"/><cb:div type="orig"><p xml:id="pX20p0826b2201">又問何等是世間相答言滅盡是世間相。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0826b2217" rend="margin-left:1em;inline">【註】上云正
+<lb ed="X" n="0826b23"/><lb ed="R033" n="0883a07"/>見世間者不壞世間相不壞世間相者以五陰與
+<lb ed="X" n="0826b24"/><lb ed="R033" n="0883a08"/>如無別無異若五陰與如無別無異指何物為世
+<pb ed="X" xml:id="X20.0364.0826c" n="0826c"/>
+<lb ed="X" n="0826c01"/><lb ed="R033" n="0883a09"/>間相耶滅盡是世間相以世間相無盡不盡故若
+<lb ed="X" n="0826c02"/><lb ed="R033" n="0883a10"/>滅盡是世間相是相寧可盡耶以五陰念念不住
+<lb ed="X" n="0826c03"/><lb ed="R033" n="0883a11"/>是滅盡相若可盡者則後陰不復生矣若後陰不
+<lb ed="X" n="0826c04"/><lb ed="R033" n="0883a12"/>生則何物于中念念不住耶。</p></cb:div>
+<lb ed="X" n="0826c05"/><lb ed="R033" n="0883a13"/><cb:div type="orig"><p xml:id="pX20p0826c0501">又問滅盡相復可盡耶答言滅盡相者不可盡也又
+<lb ed="X" n="0826c06"/><lb ed="R033" n="0883a14"/>問何故說言世間是滅盡相答言世間畢竟盡相是
+<lb ed="X" n="0826c07"/><lb ed="R033" n="0883a15"/>相不可盡所以者何<anchor xml:id="beg_6b" type="cb-app"/>已<anchor xml:id="end_6b"/>盡者不復盡也。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0826c0716" rend="margin-left:1em;inline">【註】若云滅盡
+<lb ed="X" n="0826c08"/><lb ed="R033" n="0883a16"/>相不可盡則何故言世間是滅盡相耶以世間相
+<lb ed="X" n="0826c09"/><lb ed="R033" n="0883a17"/>畢竟無體故念念出生有何可盡也猶如虗空畢
+<lb ed="X" n="0826c10"/><lb ed="R033" n="0883a18"/>竟無體四時運育而無間息若空有體不復更空
+<lb ed="X" n="0826c11"/><lb ed="R033" n="0883b01"/>也。</p></cb:div>
+<lb ed="X" n="0826c12"/><lb ed="R033" n="0883b02"/><cb:div type="orig"><p xml:id="pX20p0826c1201">又問佛不說一切有為法是盡相耶答言世間是盡
+<lb ed="X" n="0826c13"/><lb ed="R033" n="0883b03"/>相終不可盡是故佛說一切有為法是盡相。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0826c1318" rend="margin-left:1em;inline">【註】若世
+<lb ed="X" n="0826c14"/><lb ed="R033" n="0883b04"/>間相不盡則佛豈不說有為是盡相邪然有為是
+<lb ed="X" n="0826c15"/><lb ed="R033" n="0883b05"/>盡相念念不可得故如世間相亦念念不可得而
+<lb ed="X" n="0826c16"/><lb ed="R033" n="0883b06"/>亦念念出生故有為是盡相亦是不盡相若可盡
+<lb ed="X" n="0826c17"/><lb ed="R033" n="0883b07"/>者不必更盡也。</p></cb:div>
+<lb ed="X" n="0826c18"/><lb ed="R033" n="0883b08"/><cb:div type="orig"><p xml:id="pX20p0826c1801">又問何等數名有為法答言以盡相故名有為法。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0826c1820" rend="margin-left:1em;inline">【註】
+<lb ed="X" n="0826c19"/><lb ed="R033" n="0883b09"/>前諸問答皆心王相應之法也此中特問心數法
+<lb ed="X" n="0826c20"/><lb ed="R033" n="0883b10"/>也心王心數各有相應故數謂五十一心所也謂
+<lb ed="X" n="0826c21"/><lb ed="R033" n="0883b11"/>遍行別境各具五善有十一二十四個不相應根
+<lb ed="X" n="0826c22"/><lb ed="R033" n="0883b12"/>本無明有六種四個不定此五十一心數是世間
+<lb ed="X" n="0826c23"/><lb ed="R033" n="0883b13"/>盡相名為有為法也。</p></cb:div>
+<lb ed="X" n="0826c24"/><lb ed="R033" n="0883b14"/><cb:div type="orig"><p xml:id="pX20p0826c2401">又問有為法者為住何所答言無為性中住。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0826c2418" rend="margin-left:1em;inline">【註】佛為
+<pb ed="X" xml:id="X20.0364.0827a" n="0827a"/>
+<lb ed="X" n="0827a01"/><lb ed="R033" n="0883b15"/>外道不了自心心外求法故說惟識相宗權分名
+<lb ed="X" n="0827a02"/><lb ed="R033" n="0883b16"/>數一一指歸自心達自心<anchor xml:id="beg_6c" type="cb-app"/>已<anchor xml:id="end_6c"/>則知名數無別有住
+<lb ed="X" n="0827a03"/><lb ed="R033" n="0883b17"/>住無為也。</p></cb:div>
+<lb ed="X" n="0827a04"/><lb ed="R033" n="0883b18"/><cb:div type="orig"><p xml:id="pX20p0827a0401">又問有為法無為法有何差別答言有為法無為法
+<lb ed="X" n="0827a05"/><lb ed="R033" n="0884a01"/>文字言說有差別耳所以者何以文字言說言是有
+<lb ed="X" n="0827a06"/><lb ed="R033" n="0884a02"/>為是無為若求有為無為實相則無差別以實相無
+<lb ed="X" n="0827a07"/><lb ed="R033" n="0884a03"/>差別故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0827a0704" rend="margin-left:1em;inline">【註】若有為法住無為性則無差別其差別者
+<lb ed="X" n="0827a08"/><lb ed="R033" n="0884a04"/>何實無差別可得耳由文字言說詮量故成差別
+<lb ed="X" n="0827a09"/><lb ed="R033" n="0884a05"/>非謂實相有差別也。</p></cb:div>
+<lb ed="X" n="0827a10"/><lb ed="R033" n="0884a06"/><cb:div type="orig"><p xml:id="pX20p0827a1001">又問何等是諸法實相義答言一切法平等無有差
+<lb ed="X" n="0827a11"/><lb ed="R033" n="0884a07"/>別是諸法實相義又問何等為義答言以文字說令
+<lb ed="X" n="0827a12"/><lb ed="R033" n="0884a08"/>人得解故名為義所以者何實相義者不如文字所
+<lb ed="X" n="0827a13"/><lb ed="R033" n="0884a09"/>說諸佛雖以文字有所言說而於實相無所增減文
+<lb ed="X" n="0827a14"/><lb ed="R033" n="0884a10"/>殊師利一切言說皆非言說是故佛語名不可說諸
+<lb ed="X" n="0827a15"/><lb ed="R033" n="0884a11"/>佛不可以言相說故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0827a1509" rend="margin-left:1em;inline">【註】所言實相無有差別者未審
+<lb ed="X" n="0827a16"/><lb ed="R033" n="0884a12"/>實相以何為義所謂實相者以文字教人令彼得
+<lb ed="X" n="0827a17"/><lb ed="R033" n="0884a13"/>解脫文字性空則悟說無可說是實相義以文字
+<lb ed="X" n="0827a18"/><lb ed="R033" n="0884a14"/>教人令彼得解文字性空故諸佛雖有所說于實
+<lb ed="X" n="0827a19"/><lb ed="R033" n="0884a15"/>相無所增減矣。</p></cb:div>
+<lb ed="X" n="0827a20"/><lb ed="R033" n="0884a16"/><cb:div type="orig"><p xml:id="pX20p0827a2001">又問云何得說佛相答言諸佛如來不可以色身說
+<lb ed="X" n="0827a21"/><lb ed="R033" n="0884a17"/>相不可以三十二相說相不可以諸功德法說相。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0827a2120" rend="margin-left:1em;inline">【註】
+<lb ed="X" n="0827a22"/><lb ed="R033" n="0884a18"/>諸佛相者即是實相故不可以色身等相說相也
+<lb ed="X" n="0827a23"/><lb ed="R033" n="0884b01"/>此以泯相門論實相也。</p></cb:div>
+<lb ed="X" n="0827a24"/><lb ed="R033" n="0884b02"/><cb:div type="orig"><p xml:id="pX20p0827a2401">又問諸佛可以離色身三十二相諸功德法而說相
+<pb ed="X" xml:id="X20.0364.0827b" n="0827b"/>
+<lb ed="X" n="0827b01"/><lb ed="R033" n="0884b03"/>耶答言不也所以者何色身如三十二相如諸功德
+<lb ed="X" n="0827b02"/><lb ed="R033" n="0884b04"/>法如。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0827b0203" rend="margin-left:1em;inline">【註】此以即相門論實相也。</p></cb:div>
+<lb ed="X" n="0827b03"/><lb ed="R033" n="0884b05"/><cb:div type="orig"><p xml:id="pX20p0827b0301">諸佛不即是如亦非離如如是可說佛相不失如故。</p></cb:div>
+<lb ed="X" n="0827b04"/><lb ed="R033" n="0884b06"/><cb:div type="commentary"><p xml:id="pX20p0827b0401" rend="margin-left:1em">【註】不即不離是如來相故。</p></cb:div>
+<lb ed="X" n="0827b05"/><lb ed="R033" n="0884b07"/><cb:div type="orig"><p xml:id="pX20p0827b0501">又問諸佛世尊得何等故號名為佛答言諸佛世尊
+<lb ed="X" n="0827b06"/><lb ed="R033" n="0884b08"/>通達諸法性相如故說名為佛正徧知者。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0827b0617" rend="margin-left:1em;inline">【註】此上一
+<lb ed="X" n="0827b07"/><lb ed="R033" n="0884b09"/>十六品以具信解行證一週佛事<anchor xml:id="beg_6d" type="cb-app"/>已<anchor xml:id="end_6d"/>竟故自光明
+<lb ed="X" n="0827b08"/><lb ed="R033" n="0884b10"/>品至歎功德五品以成其信自五力說法品至菩
+<lb ed="X" n="0827b09"/><lb ed="R033" n="0884b11"/>薩授記品以成其解自薩婆若品至如來二事五
+<lb ed="X" n="0827b10"/><lb ed="R033" n="0884b12"/>品以成其行惟得聖道品以獲其證惟信解行證
+<lb ed="X" n="0827b11"/><lb ed="R033" n="0884b13"/>一席圓具故標此經為頓教大乘也。</p></cb:div></cb:div>
+<lb ed="X" n="0827b12"/><lb ed="R033" n="0884b14"/><cb:div type="pin"><cb:mulu type="其他" level="1">志大乘品第十七</cb:mulu><head>志大乘品第十七</head>
+<lb ed="X" n="0827b13"/><lb ed="R033" n="0884b15"/><cb:div type="commentary"><p xml:id="pX20p0827b1301" rend="margin-left:1em">【註】前十六品當機一週獲益<anchor xml:id="beg_6e" type="cb-app"/>已<anchor xml:id="end_6e"/>竟此下八品收彼
+<lb ed="X" n="0827b14"/><lb ed="R033" n="0884b16"/>未來故說此品勸令志慕大乘勿迷小道以彼小
+<lb ed="X" n="0827b15"/><lb ed="R033" n="0884b17"/>乘是權非實誑誘小兒大乘是實非權可令日用
+<lb ed="X" n="0827b16"/><lb ed="R033" n="0884b18"/>頓證重顯大乘有如是深益故當志慕亦使自擇
+<lb ed="X" n="0827b17"/><lb ed="R033" n="0885a01"/>也。</p></cb:div>
+<lb ed="X" n="0827b18"/><lb ed="R033" n="0885a02"/><cb:div type="orig"><p xml:id="pX20p0827b1801">於是等行菩薩白佛言世尊何謂菩薩發行大乘爾
+<lb ed="X" n="0827b19"/><lb ed="R033" n="0885a03"/>時世尊以偈答曰。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0827b1908" rend="margin-left:1em;inline">【註】菩薩名等行者用表法界體無
+<lb ed="X" n="0827b20"/><lb ed="R033" n="0885a04"/>大小淨穢乃至邪正是非分別等而行之故曰等
+<lb ed="X" n="0827b21"/><lb ed="R033" n="0885a05"/>行為破二乘分別取捨執也然于初心行人不可
+<lb ed="X" n="0827b22"/><lb ed="R033" n="0885a06"/>大小混濫以迷進趣之方故須擇也楞嚴曰聖性
+<lb ed="X" n="0827b23"/><lb ed="R033" n="0885a07"/>無不通逆順皆方便初心入三昧遲速不同倫故
+<lb ed="X" n="0827b24"/><lb ed="R033" n="0885a08"/>所謂無分別中不礙熾然分別此之謂歟。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0827c" n="0827c"/>
+<lb ed="X" n="0827c01"/><lb ed="R033" n="0885a09"/><cb:div type="orig"><p xml:id="pX20p0827c0101">菩薩不壞色發行菩提心知色即菩提是名行菩提
+<lb ed="X" n="0827c02"/><lb ed="R033" n="0885a10"/>如色菩提然等<anchor xml:id="nkr_note_orig_0827001" n="0827001"/>人於如相。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0827c0211" rend="margin-left:1em;inline">【註】小乘用生滅四諦修析
+<lb ed="X" n="0827c03"/><lb ed="R033" n="0885a11"/>色入空雖出分段生死未盡變易大乘用無作四
+<lb ed="X" n="0827c04"/><lb ed="R033" n="0885a12"/>諦修即色即空無別有空故二死永盡色與行人
+<lb ed="X" n="0827c05"/><lb ed="R033" n="0885a13"/>菩提三者皆同一如相耳。</p></cb:div>
+<lb ed="X" n="0827c06"/><lb ed="R033" n="0885a14"/><cb:div type="orig"><p xml:id="pX20p0827c0601">不壞諸法性是名行菩提。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0827c0611" rend="margin-left:1em;inline">【註】色是有義法性是空義
+<lb ed="X" n="0827c07"/><lb ed="R033" n="0885a15"/>既不壞有而行菩提亦不滅空而取菩提也。</p></cb:div>
+<lb ed="X" n="0827c08"/><lb ed="R033" n="0885a16"/><cb:div type="orig"><p xml:id="pX20p0827c0801">不壞諸法性則為菩提義是菩提義中亦無有菩提。</p></cb:div>
+<lb ed="X" n="0827c09"/><lb ed="R033" n="0885a17"/><cb:div type="commentary"><p xml:id="pX20p0827c0901" rend="margin-left:1em">【註】菩提云覺覺法實性是名菩提實性即是無性
+<lb ed="X" n="0827c10"/><lb ed="R033" n="0885a18"/>無性中亦無菩提之名字也。</p></cb:div>
+<lb ed="X" n="0827c11"/><lb ed="R033" n="0885b01"/><cb:div type="orig"><p xml:id="pX20p0827c1101">正行第一義是名行菩提。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0827c1111" rend="margin-left:1em;inline">【註】前二節不壞空有行于
+<lb ed="X" n="0827c12"/><lb ed="R033" n="0885b02"/>菩提此中不涉空有行于菩提以第一義中非空
+<lb ed="X" n="0827c13"/><lb ed="R033" n="0885b03"/>非有故。</p></cb:div>
+<lb ed="X" n="0827c14"/><lb ed="R033" n="0885b04"/><cb:div type="orig"><p xml:id="pX20p0827c1401">愚於陰界入而欲求菩提陰界入即是離是無菩提。</p></cb:div>
+<lb ed="X" n="0827c15"/><lb ed="R033" n="0885b05"/><cb:div type="commentary"><p xml:id="pX20p0827c1501" rend="margin-left:1em">【註】五陰指前色法界入指前法性此中出過云愚
+<lb ed="X" n="0827c16"/><lb ed="R033" n="0885b06"/>人離是求于菩提則壞彼色及法性而求菩提不
+<lb ed="X" n="0827c17"/><lb ed="R033" n="0885b07"/>知離是無可求也。</p></cb:div>
+<lb ed="X" n="0827c18"/><lb ed="R033" n="0885b08"/><cb:div type="orig"><p xml:id="pX20p0827c1801">若有諸菩薩於上中下法不取亦不捨是名行菩提。</p></cb:div>
+<lb ed="X" n="0827c19"/><lb ed="R033" n="0885b09"/><cb:div type="commentary"><p xml:id="pX20p0827c1901" rend="margin-left:1em">【註】析色入空是為小乘體色入空是為中乘即色
+<lb ed="X" n="0827c20"/><lb ed="R033" n="0885b10"/>即空是上乘如是三者同依法性無可分別知是
+<lb ed="X" n="0827c21"/><lb ed="R033" n="0885b11"/>方便故不取于化導有益故不捨。</p></cb:div>
+<lb ed="X" n="0827c22"/><lb ed="R033" n="0885b12"/><cb:div type="orig"><p xml:id="pX20p0827c2201">若法及非法不分別為二亦不得不二是名行菩提
+<lb ed="X" n="0827c23"/><lb ed="R033" n="0885b13"/>若二則有為非二則無為離是二邊者是名行菩提。</p></cb:div>
+<lb ed="X" n="0827c24"/><lb ed="R033" n="0885b14"/><cb:div type="commentary"><p xml:id="pX20p0827c2401" rend="margin-left:1em">【註】前則于有無二邊雙遮雙照不即不離此則于
+<pb ed="X" xml:id="X20.0364.0828a" n="0828a"/>
+<lb ed="X" n="0828a01"/><lb ed="R033" n="0885b15"/>法非法不起二見不起二見則分別斯泯矣。</p></cb:div>
+<lb ed="X" n="0828a02"/><lb ed="R033" n="0885b16"/><cb:div type="orig"><p xml:id="pX20p0828a0201">是人過凡夫亦不入法位未得果而聖是世間福田
+<lb ed="X" n="0828a03"/><lb ed="R033" n="0885b17"/>行于世間法處中若蓮華遵脩最上道是名行菩提。</p></cb:div>
+<lb ed="X" n="0828a04"/><lb ed="R033" n="0885b18"/><cb:div type="commentary"><p xml:id="pX20p0828a0401" rend="margin-left:1em">【註】此中結證前文若有如是之人能于有無二邊
+<lb ed="X" n="0828a05"/><lb ed="R033" n="0886a01"/>遮照之用則如蓮華雖處汙泥不為所染是人雖
+<lb ed="X" n="0828a06"/><lb ed="R033" n="0886a02"/>處世間不為所染遵修妙道為世福田也過凡夫
+<lb ed="X" n="0828a07"/><lb ed="R033" n="0886a03"/>者不住有也不入法位者不住空也有如是慕道
+<lb ed="X" n="0828a08"/><lb ed="R033" n="0886a04"/>雖然未證聖果亦是聖人也。</p></cb:div>
+<lb ed="X" n="0828a09"/><lb ed="R033" n="0886a05"/><cb:div type="orig"><p xml:id="pX20p0828a0901">世間所行處悉於是中行世間所貪著於中得解脫。</p></cb:div>
+<lb ed="X" n="0828a10"/><lb ed="R033" n="0886a06"/><cb:div type="commentary"><p xml:id="pX20p0828a1001" rend="margin-left:1em">【註】世間之行有為也亦不離菩提而有可行矣皆
+<lb ed="X" n="0828a11"/><lb ed="R033" n="0886a07"/>菩提而行貪著然亦因菩提而得解脫也。</p></cb:div>
+<lb ed="X" n="0828a12"/><lb ed="R033" n="0886a08"/><cb:div type="orig"><p xml:id="pX20p0828a1201">菩薩無所畏不沒生死淵無憂無疲倦而行菩提道。</p></cb:div>
+<lb ed="X" n="0828a13"/><lb ed="R033" n="0886a09"/><cb:div type="commentary"><p xml:id="pX20p0828a1301" rend="margin-left:1em">【註】前則解脫有為皆依菩提此中菩薩于生死中
+<lb ed="X" n="0828a14"/><lb ed="R033" n="0886a10"/>不沒不疲皆由菩提而使之然也。</p></cb:div>
+<lb ed="X" n="0828a15"/><lb ed="R033" n="0886a11"/><cb:div type="orig"><p xml:id="pX20p0828a1501">斯人能善知法性真實相是故不分別是法是非法
+<lb ed="X" n="0828a16"/><lb ed="R033" n="0886a12"/>行於佛道時無法可捨離亦無法可受是名菩提相。</p></cb:div>
+<lb ed="X" n="0828a17"/><lb ed="R033" n="0886a13"/><cb:div type="commentary"><p xml:id="pX20p0828a1701" rend="margin-left:1em">【註】此中結成不分別之意以達實相故有為無可
+<lb ed="X" n="0828a18"/><lb ed="R033" n="0886a14"/>捨無為無可取惟此無分別是菩提相也。</p></cb:div>
+<lb ed="X" n="0828a19"/><lb ed="R033" n="0886a15"/><cb:div type="orig"><p xml:id="pX20p0828a1901">一切法無相猶若如虗空終不作是念是相是可相。</p></cb:div>
+<lb ed="X" n="0828a20"/><lb ed="R033" n="0886a16"/><cb:div type="commentary"><p xml:id="pX20p0828a2001" rend="margin-left:1em">【註】以虗空無心識故無念無相無念無相故則無
+<lb ed="X" n="0828a21"/><lb ed="R033" n="0886a17"/>取無捨一切法亦無念相故無取無捨以喻合顯
+<lb ed="X" n="0828a22"/><lb ed="R033" n="0886a18"/>也。</p></cb:div>
+<lb ed="X" n="0828a23"/><lb ed="R033" n="0886b01"/><cb:div type="orig"><p xml:id="pX20p0828a2301">善知世所行徧知方便力能充滿一切眾生之所願
+<lb ed="X" n="0828a24"/><lb ed="R033" n="0886b02"/>常住於平等護持佛正法。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0828a2411" rend="margin-left:1em;inline">【註】前依無分別智行于菩
+<pb ed="X" xml:id="X20.0364.0828b" n="0828b"/>
+<lb ed="X" n="0828b01"/><lb ed="R033" n="0886b03"/>提此依方便智導人菩提何用方便邪為護正法
+<lb ed="X" n="0828b02"/><lb ed="R033" n="0886b04"/>故。</p></cb:div>
+<lb ed="X" n="0828b03"/><lb ed="R033" n="0886b05"/><cb:div type="orig"><p xml:id="pX20p0828b0301">一切無所念則是如來法若有佛無佛是法常住世
+<lb ed="X" n="0828b04"/><lb ed="R033" n="0886b06"/>能通達是相是名護持法。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0828b0411" rend="margin-left:1em;inline">【註】此釋護法之意也所言
+<lb ed="X" n="0828b05"/><lb ed="R033" n="0886b07"/>護法者非護他法蓋護自心也以此無念之心非
+<lb ed="X" n="0828b06"/><lb ed="R033" n="0886b08"/>于有佛而為之有非于無佛而為之無有佛無佛
+<lb ed="X" n="0828b07"/><lb ed="R033" n="0886b09"/>此心常住故當護持耳。</p></cb:div>
+<lb ed="X" n="0828b08"/><lb ed="R033" n="0886b10"/><cb:div type="orig"><p xml:id="pX20p0828b0801">諸法之實相了達知其義安住於此中而為人演說。</p></cb:div>
+<lb ed="X" n="0828b09"/><lb ed="R033" n="0886b11"/><cb:div type="commentary"><p xml:id="pX20p0828b0901" rend="margin-left:1em">【註】若諸法不了實相是名謗佛非說法也若能安
+<lb ed="X" n="0828b10"/><lb ed="R033" n="0886b12"/>住實相然後乃可耳。</p></cb:div>
+<lb ed="X" n="0828b11"/><lb ed="R033" n="0886b13"/><cb:div type="orig"><p xml:id="pX20p0828b1101">行於甚深法魔所不能測是人於諸法無所貪著故。</p></cb:div>
+<lb ed="X" n="0828b12"/><lb ed="R033" n="0886b14"/><cb:div type="commentary"><p xml:id="pX20p0828b1201" rend="margin-left:1em">【註】于法若有貪著則不落于有則落于無若無貪
+<lb ed="X" n="0828b13"/><lb ed="R033" n="0886b15"/>著則不落二邊是謂甚深故魔不能測矣。</p></cb:div>
+<lb ed="X" n="0828b14"/><lb ed="R033" n="0886b16"/><cb:div type="orig"><p xml:id="pX20p0828b1401">願求諸佛慧亦不著願求是慧於十方求之不可得
+<lb ed="X" n="0828b15"/><lb ed="R033" n="0886b17"/>諸佛慧無礙不著法非法若能不著此究竟得佛道。</p></cb:div>
+<lb ed="X" n="0828b16"/><lb ed="R033" n="0886b18"/><cb:div type="commentary"><p xml:id="pX20p0828b1601" rend="margin-left:1em">【註】於十方求慧不可得者當求于自心求慧于自
+<lb ed="X" n="0828b17"/><lb ed="R033" n="0887a01"/>心故雖有願求而亦不著若有所著則非無礙之
+<lb ed="X" n="0828b18"/><lb ed="R033" n="0887a02"/>佛慧矣。</p></cb:div>
+<lb ed="X" n="0828b19"/><lb ed="R033" n="0887a03"/><cb:div type="orig"><p xml:id="pX20p0828b1901">其諸樂善人布施轉高尊捨一切所有而心不傾樂。</p></cb:div>
+<lb ed="X" n="0828b20"/><lb ed="R033" n="0887a04"/><cb:div type="commentary"><p xml:id="pX20p0828b2001" rend="margin-left:1em">【註】凡夫行施謂得樂報故心生歡喜若行人捨諸
+<lb ed="X" n="0828b21"/><lb ed="R033" n="0887a05"/>所有而心不歡樂達施無施也。</p></cb:div>
+<lb ed="X" n="0828b22"/><lb ed="R033" n="0887a06"/><cb:div type="orig"><p xml:id="pX20p0828b2201">諸法不可捨亦復不可取。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0828b2211" rend="margin-left:1em;inline">【註】此釋成不傾樂之意也。</p></cb:div>
+<lb ed="X" n="0828b23"/><lb ed="R033" n="0887a07"/><cb:div type="orig"><p xml:id="pX20p0828b2301">一切世間法根本不可得。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0828b2311" rend="margin-left:1em;inline">【註】此轉釋不可取捨之意
+<lb ed="X" n="0828b24"/><lb ed="R033" n="0887a08"/>也。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0828c" n="0828c"/>
+<lb ed="X" n="0828c01"/><lb ed="R033" n="0887a09"/><cb:div type="orig"><p xml:id="pX20p0828c0101">能知一切法非施非捨相是名大施主於法無所見。</p></cb:div>
+<lb ed="X" n="0828c02"/><lb ed="R033" n="0887a10"/><cb:div type="commentary"><p xml:id="pX20p0828c0201" rend="margin-left:1em">【註】結歸行實相之施也。</p></cb:div>
+<lb ed="X" n="0828c03"/><lb ed="R033" n="0887a11"/><cb:div type="orig"><p xml:id="pX20p0828c0301">是等諸菩薩不計我我所是故行施時不生貪惜心
+<lb ed="X" n="0828c04"/><lb ed="R033" n="0887a12"/>諸所有布施皆迴向佛道布施及菩提不住是二相。</p></cb:div>
+<lb ed="X" n="0828c05"/><lb ed="R033" n="0887a13"/><cb:div type="commentary"><p xml:id="pX20p0828c0501" rend="margin-left:1em">【註】不住布施則不住因不住菩提則不住果因果
+<lb ed="X" n="0828c06"/><lb ed="R033" n="0887a14"/>不住則迴向佛道矣。</p></cb:div>
+<lb ed="X" n="0828c07"/><lb ed="R033" n="0887a15"/><cb:div type="orig"><p xml:id="pX20p0828c0701">無作無起戒常住於此中亦不作念言我住是持戒。</p></cb:div>
+<lb ed="X" n="0828c08"/><lb ed="R033" n="0887a16"/><cb:div type="commentary"><p xml:id="pX20p0828c0801" rend="margin-left:1em">【註】小乘持戒作止持犯事事有為大乘無作無起
+<lb ed="X" n="0828c09"/><lb ed="R033" n="0887a17"/>常契道共所謂持無相戒也。</p></cb:div>
+<lb ed="X" n="0828c10"/><lb ed="R033" n="0887a18"/><cb:div type="orig"><p xml:id="pX20p0828c1001">智者知戒相不生亦不作是故戒清淨猶若如虗空
+<lb ed="X" n="0828c11"/><lb ed="R033" n="0887b01"/>觀身如鏡像言說如響聲心則如幻化不以戒自高。</p></cb:div>
+<lb ed="X" n="0828c12"/><lb ed="R033" n="0887b02"/><cb:div type="commentary"><p xml:id="pX20p0828c1201" rend="margin-left:1em">【註】持戒所由因乎三業求三業不可得則持戒亦
+<lb ed="X" n="0828c13"/><lb ed="R033" n="0887b03"/>不可得不當自高也。</p></cb:div>
+<lb ed="X" n="0828c14"/><lb ed="R033" n="0887b04"/><cb:div type="orig"><p xml:id="pX20p0828c1401">其心常柔輭安住寂滅性悉滅一切惡通達於善法
+<lb ed="X" n="0828c15"/><lb ed="R033" n="0887b05"/>持戒及毀戒不得此二相如是見法性則持無漏戒。</p></cb:div>
+<lb ed="X" n="0828c16"/><lb ed="R033" n="0887b06"/><cb:div type="commentary"><p xml:id="pX20p0828c1601" rend="margin-left:1em">【註】柔輭乃定共之戒寂滅乃道共之戒此二者即
+<lb ed="X" n="0828c17"/><lb ed="R033" n="0887b07"/>攝眾生戒也滅惡乃攝律儀戒達善乃攝善法戒
+<lb ed="X" n="0828c18"/><lb ed="R033" n="0887b08"/>此舉三聚淨戒也持毀不二者用顯此三聚戒亦
+<lb ed="X" n="0828c19"/><lb ed="R033" n="0887b09"/>即大乘無相戒也。</p></cb:div>
+<lb ed="X" n="0828c20"/><lb ed="R033" n="0887b10"/><cb:div type="orig"><p xml:id="pX20p0828c2001"><anchor xml:id="beg_6f" type="cb-app"/>已<anchor xml:id="end_6f"/>度忍辱岸能忍一切惡於諸眾生類其心常平等
+<lb ed="X" n="0828c21"/><lb ed="R033" n="0887b11"/>諸法念念滅其性常不住於中無罵辱亦無有恭敬
+<lb ed="X" n="0828c22"/><lb ed="R033" n="0887b12"/>若節節解身其心終不動知心不在內亦復不在外
+<lb ed="X" n="0828c23"/><lb ed="R033" n="0887b13"/>身怨及刀杖皆從四大起於地水火風未嘗有傷損
+<lb ed="X" n="0828c24"/><lb ed="R033" n="0887b14"/>通達於此事常行忍辱法菩薩行如是眾生不能動。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0829a" n="0829a"/>
+<lb ed="X" n="0829a01"/><lb ed="R033" n="0887b15"/><cb:div type="commentary"><p xml:id="pX20p0829a0101" rend="margin-left:1em">【註】此中忍辱有三種謂調順忍生忍無生忍初云
+<lb ed="X" n="0829a02"/><lb ed="R033" n="0887b16"/>能忍諸惡者即是生忍次云心平等者即是調順
+<lb ed="X" n="0829a03"/><lb ed="R033" n="0887b17"/>忍三云法念念滅者即是無生法忍是下所有偈
+<lb ed="X" n="0829a04"/><lb ed="R033" n="0887b18"/>文皆釋無生法忍之意也。</p></cb:div>
+<lb ed="X" n="0829a05"/><lb ed="R033" n="0888a01"/><cb:div type="orig"><p xml:id="pX20p0829a0501">勇猛勤精進堅住於大乘是人於身心而無所依止。</p></cb:div>
+<lb ed="X" n="0829a06"/><lb ed="R033" n="0888a02"/><cb:div type="commentary"><p xml:id="pX20p0829a0601" rend="margin-left:1em">【註】小乘著身心雖行精進不出有為大乘身心無
+<lb ed="X" n="0829a07"/><lb ed="R033" n="0888a03"/>有依止則是無精進之精進也。</p></cb:div>
+<lb ed="X" n="0829a08"/><lb ed="R033" n="0888a04"/><cb:div type="orig"><p xml:id="pX20p0829a0801">雖知生死本其際不可得為諸眾生故莊嚴大誓願。</p></cb:div>
+<lb ed="X" n="0829a09"/><lb ed="R033" n="0888a05"/><cb:div type="commentary"><p xml:id="pX20p0829a0901" rend="margin-left:1em">【註】菩薩知生死本際不得曷用精進邪然為化眾
+<lb ed="X" n="0829a10"/><lb ed="R033" n="0888a06"/>生故不捨大誓莊嚴也。</p></cb:div>
+<lb ed="X" n="0829a11"/><lb ed="R033" n="0888a07"/><cb:div type="orig"><p xml:id="pX20p0829a1101">法無決定性何許有滅相本際不可得為顛倒故說
+<lb ed="X" n="0829a12"/><lb ed="R033" n="0888a08"/>法性不可議常住於世間若能知如是不生亦不滅
+<lb ed="X" n="0829a13"/><lb ed="R033" n="0888a09"/>菩薩念眾生不解是法相為之勤精進令得離顛倒。</p></cb:div>
+<lb ed="X" n="0829a14"/><lb ed="R033" n="0888a10"/><cb:div type="commentary"><p xml:id="pX20p0829a1401" rend="margin-left:1em">【註】一切法本無決定非生非滅菩薩何用精進滅
+<lb ed="X" n="0829a15"/><lb ed="R033" n="0888a11"/>彼虗妄耶蓋由眾生不解如是無生滅性著諸虗
+<lb ed="X" n="0829a16"/><lb ed="R033" n="0888a12"/>妄故現行精進令彼滅顛倒耳。</p></cb:div>
+<lb ed="X" n="0829a17"/><lb ed="R033" n="0888a13"/><cb:div type="orig"><p xml:id="pX20p0829a1701">諸佛常不得眾生決定相而彼弘本願當觀精進力。</p></cb:div>
+<lb ed="X" n="0829a18"/><lb ed="R033" n="0888a14"/><cb:div type="commentary"><p xml:id="pX20p0829a1801" rend="margin-left:1em">【註】若菩薩為眾生而起精進者可有眾生決定相
+<lb ed="X" n="0829a19"/><lb ed="R033" n="0888a15"/>耶釋云佛不觀眾生有決定相菩薩欲弘本願故
+<lb ed="X" n="0829a20"/><lb ed="R033" n="0888a16"/>觀精進耳。</p></cb:div>
+<lb ed="X" n="0829a21"/><lb ed="R033" n="0888a17"/><cb:div type="orig"><p xml:id="pX20p0829a2101">思惟一切法知皆如幻化不得堅牢相觀之如虗空
+<lb ed="X" n="0829a22"/><lb ed="R033" n="0888a18"/>從虗妄分別貪著生苦惱為斯開法門令得入涅槃
+<lb ed="X" n="0829a23"/><lb ed="R033" n="0888b01"/>為彼行精進而不壞於法離法非法故常行真精進。</p></cb:div>
+<lb ed="X" n="0829a24"/><lb ed="R033" n="0888b02"/><cb:div type="commentary"><p xml:id="pX20p0829a2401" rend="margin-left:1em">【註】此釋觀精進之意以勤勇無間之力觀于世間
+<pb ed="X" xml:id="X20.0364.0829b" n="0829b"/>
+<lb ed="X" n="0829b01"/><lb ed="R033" n="0888b03"/>無有堅牢而眾生不了虗妄貪著生苦而菩薩行
+<lb ed="X" n="0829b02"/><lb ed="R033" n="0888b04"/>于精進然二乘不悟無生于法非法起於取捨不
+<lb ed="X" n="0829b03"/><lb ed="R033" n="0888b05"/>成精進大乘于此二邊遠離故名真精進矣。</p></cb:div>
+<lb ed="X" n="0829b04"/><lb ed="R033" n="0888b06"/><cb:div type="orig"><p xml:id="pX20p0829b0401">是等行遠離了達無諍定。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0829b0411" rend="margin-left:1em;inline">【註】由精進故獲得聲聞定
+<lb ed="X" n="0829b05"/><lb ed="R033" n="0888b07"/>也。</p></cb:div>
+<lb ed="X" n="0829b06"/><lb ed="R033" n="0888b08"/><cb:div type="orig"><p xml:id="pX20p0829b0601">獨處無憒閙常畏於生死樂住於閒居猶如犀一角
+<lb ed="X" n="0829b07"/><lb ed="R033" n="0888b09"/>遊戲諸禪定明達諸神通心常住平等處空閑聚落
+<lb ed="X" n="0829b08"/><lb ed="R033" n="0888b10"/>威儀無變異恒樂於禪定。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0829b0811" rend="margin-left:1em;inline">【註】此由精進故獲得辟支
+<lb ed="X" n="0829b09"/><lb ed="R033" n="0888b11"/>佛定也辟支觀還滅十二因緣悟知萬法無生故
+<lb ed="X" n="0829b10"/><lb ed="R033" n="0888b12"/>心住平等但不知眾生等有故名獨覺也。</p></cb:div>
+<lb ed="X" n="0829b11"/><lb ed="R033" n="0888b13"/><cb:div type="orig"><p xml:id="pX20p0829b1101">信解常定法及寂滅無漏其心得解脫故說常定者。</p></cb:div>
+<lb ed="X" n="0829b12"/><lb ed="R033" n="0888b14"/><cb:div type="commentary"><p xml:id="pX20p0829b1201" rend="margin-left:1em">【註】此因精進獲解大乘常定前聲聞辟支皆作意
+<lb ed="X" n="0829b13"/><lb ed="R033" n="0888b15"/>定此乃無作妙定剎那無生相可得剎那無滅相
+<lb ed="X" n="0829b14"/><lb ed="R033" n="0888b16"/>可得故謂之寂滅惟寂滅故不漏落二邊復謂之
+<lb ed="X" n="0829b15"/><lb ed="R033" n="0888b17"/>無漏標名有三釋意惟一以名異體同故也。</p></cb:div>
+<lb ed="X" n="0829b16"/><lb ed="R033" n="0888b18"/><cb:div type="orig"><p xml:id="pX20p0829b1601">自住平等法以此導眾生不違平等行故說常定者
+<lb ed="X" n="0829b17"/><lb ed="R033" n="0889a01"/>志念常堅固不忘菩提心亦能化眾生故說常定者
+<lb ed="X" n="0829b18"/><lb ed="R033" n="0889a02"/>常念於諸佛真實法性身遠離色身相故說常定者
+<lb ed="X" n="0829b19"/><lb ed="R033" n="0889a03"/>常修念於法如諸法實相亦無有憶念故說常定者
+<lb ed="X" n="0829b20"/><lb ed="R033" n="0889a04"/>常修念於僧僧即是無為離數及非數常入如是定。</p></cb:div>
+<lb ed="X" n="0829b21"/><lb ed="R033" n="0889a05"/><cb:div type="commentary"><p xml:id="pX20p0829b2101" rend="margin-left:1em">【註】此禪度中文分兩段初聲聞辟支佛定二大乘
+<lb ed="X" n="0829b22"/><lb ed="R033" n="0889a06"/>常定常定復分為四初即自利二即利他三即自
+<lb ed="X" n="0829b23"/><lb ed="R033" n="0889a07"/>他兼舉四即觀念三寶禪定雖分大小同依精進
+<lb ed="X" n="0829b24"/><lb ed="R033" n="0889a08"/>出生二者竝舉意在擇大也。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0829c" n="0829c"/>
+<lb ed="X" n="0829c01"/><lb ed="R033" n="0889a09"/><cb:div type="orig"><p xml:id="pX20p0829c0101">悉見十方國一切群生類而於眼色中終不生二相
+<lb ed="X" n="0829c02"/><lb ed="R033" n="0889a10"/>諸佛所說法一切能聽受而於耳聲中亦不生二相
+<lb ed="X" n="0829c03"/><lb ed="R033" n="0889a11"/>能於一心中知諸眾生心自心及彼心此二不分別
+<lb ed="X" n="0829c04"/><lb ed="R033" n="0889a12"/>憶念過去世如恒河沙劫是先及是後亦復不分別
+<lb ed="X" n="0829c05"/><lb ed="R033" n="0889a13"/>能至無量土現諸神通力而於身心中無有疲倦想
+<lb ed="X" n="0829c06"/><lb ed="R033" n="0889a14"/>分別知諸法樂說辯無盡於無央數劫開示法性相。</p></cb:div>
+<lb ed="X" n="0829c07"/><lb ed="R033" n="0889a15"/><cb:div type="commentary"><p xml:id="pX20p0829c0701" rend="margin-left:1em">【註】此由禪定故獲得六通也得天眼故能徹鑑群
+<lb ed="X" n="0829c08"/><lb ed="R033" n="0889a16"/>生得天耳故能具聞佛法得他心故知自他心得
+<lb ed="X" n="0829c09"/><lb ed="R033" n="0889a17"/>宿命故憶過去得神境故遊諸佛土得漏盡故開
+<lb ed="X" n="0829c10"/><lb ed="R033" n="0889a18"/>示法性是所謂靜極光通達也。</p></cb:div>
+<lb ed="X" n="0829c11"/><lb ed="R033" n="0889b01"/><cb:div type="orig"><p xml:id="pX20p0829c1101">智慧度彼岸善解陰入界常為眾生說無取無戲論。</p></cb:div>
+<lb ed="X" n="0829c12"/><lb ed="R033" n="0889b02"/><cb:div type="commentary"><p xml:id="pX20p0829c1201" rend="margin-left:1em">【註】凡夫由無智慧無明所覆于五陰六入十二處
+<lb ed="X" n="0829c13"/><lb ed="R033" n="0889b03"/>十八界妄生執著不能善解故沉生死菩薩善解
+<lb ed="X" n="0829c14"/><lb ed="R033" n="0889b04"/>陰等即是實性故度彼岸雖自度<anchor xml:id="beg_70" type="cb-app"/>已<anchor xml:id="end_70"/>收彼未度故
+<lb ed="X" n="0829c15"/><lb ed="R033" n="0889b05"/>為說法雖為說法于法相無所取善知陰等無性
+<lb ed="X" n="0829c16"/><lb ed="R033" n="0889b06"/>故所說真實離於戲論也。</p></cb:div>
+<lb ed="X" n="0829c17"/><lb ed="R033" n="0889b07"/><cb:div type="orig"><p xml:id="pX20p0829c1701">善知因緣法遠離二邊相。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0829c1711" rend="margin-left:1em;inline">【註】此釋前偈既知陰等性
+<lb ed="X" n="0829c18"/><lb ed="R033" n="0889b08"/>無則亦無可說云何而為眾生說耶釋云陰等實
+<lb ed="X" n="0829c19"/><lb ed="R033" n="0889b09"/>是無性不可說以因緣故可說也以因緣法亦是
+<lb ed="X" n="0829c20"/><lb ed="R033" n="0889b10"/>無性遠離可說不可說故又善知陰入界等皆由
+<lb ed="X" n="0829c21"/><lb ed="R033" n="0889b11"/>因緣出生無有自性故離二邊。</p></cb:div>
+<lb ed="X" n="0829c22"/><lb ed="R033" n="0889b12"/><cb:div type="orig"><p xml:id="pX20p0829c2201">知是煩惱因亦知是淨因。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0829c2211" rend="margin-left:1em;inline">【註】資始為因成業為緣然
+<lb ed="X" n="0829c23"/><lb ed="R033" n="0889b13"/>是二者互相生起煩惱因迷法性而起菩提亦因
+<lb ed="X" n="0829c24"/><lb ed="R033" n="0889b14"/>煩惱而顯故知互相由藉者皆一無性也。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0830a" n="0830a"/>
+<lb ed="X" n="0830a01"/><lb ed="R033" n="0889b15"/><cb:div type="orig"><p xml:id="pX20p0830a0101">信解因緣法則無諸邪見。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0830a0111" rend="margin-left:1em;inline">【註】信解因緣者中觀偈曰
+<lb ed="X" n="0830a02"/><lb ed="R033" n="0889b16"/>因緣所生法我說即是空亦名是假名亦名中道
+<lb ed="X" n="0830a03"/><lb ed="R033" n="0889b17"/>義若能如是信解則離邪見矣。</p></cb:div>
+<lb ed="X" n="0830a04"/><lb ed="R033" n="0889b18"/><cb:div type="orig"><p xml:id="pX20p0830a0401">法皆屬因緣無有定根本。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0830a0411" rend="margin-left:1em;inline">【註】說有不有譚空不空故
+<lb ed="X" n="0830a05"/><lb ed="R033" n="0890a01"/>無根本可定矣。</p></cb:div>
+<lb ed="X" n="0830a06"/><lb ed="R033" n="0890a02"/><cb:div type="orig"><p xml:id="pX20p0830a0601">我見與佛見空見生死見涅槃之見等皆無是諸見。</p></cb:div>
+<lb ed="X" n="0830a07"/><lb ed="R033" n="0890a03"/><cb:div type="commentary"><p xml:id="pX20p0830a0701" rend="margin-left:1em">【註】此釋無根本可定之意也我見佛見等是名二
+<lb ed="X" n="0830a08"/><lb ed="R033" n="0890a04"/>見如是二見廣求諸見皆無根本可定也。</p></cb:div>
+<lb ed="X" n="0830a09"/><lb ed="R033" n="0890a05"/><cb:div type="orig"><p xml:id="pX20p0830a0901">無量智慧光知諸法實相無暗無障礙是行菩薩道。</p></cb:div>
+<lb ed="X" n="0830a10"/><lb ed="R033" n="0890a06"/><cb:div type="commentary"><p xml:id="pX20p0830a1001" rend="margin-left:1em">【註】由悟因緣諸見皆無根本則得于無量智慧知
+<lb ed="X" n="0830a11"/><lb ed="R033" n="0890a07"/>諸實相矣。</p></cb:div>
+<lb ed="X" n="0830a12"/><lb ed="R033" n="0890a08"/><cb:div type="orig"><p xml:id="pX20p0830a1201">是乘名大乘不可思議乘悉容諸眾生猶不盡其量。</p></cb:div>
+<lb ed="X" n="0830a13"/><lb ed="R033" n="0890a09"/><cb:div type="commentary"><p xml:id="pX20p0830a1301" rend="margin-left:1em">【註】結指如上六度是名大乘是不思議乘也。</p></cb:div>
+<lb ed="X" n="0830a14"/><lb ed="R033" n="0890a10"/><cb:div type="orig"><p xml:id="pX20p0830a1401">一切諸乘中是乘為第一。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0830a1411" rend="margin-left:1em;inline">【註】諸乘即聲聞辟支佛菩
+<lb ed="X" n="0830a15"/><lb ed="R033" n="0890a11"/>薩佛乘也彼諸乘中皆入名言不無階級如是大
+<lb ed="X" n="0830a16"/><lb ed="R033" n="0890a12"/>度一一無相不可思議故為第一也。</p></cb:div>
+<lb ed="X" n="0830a17"/><lb ed="R033" n="0890a13"/><cb:div type="orig"><p xml:id="pX20p0830a1701">如此大乘者能出生餘乘餘乘有限量不能受一切
+<lb ed="X" n="0830a18"/><lb ed="R033" n="0890a14"/>唯此無上乘能悉受眾生。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0830a1811" rend="margin-left:1em;inline">【註】此最上乘法以法界為
+<lb ed="X" n="0830a19"/><lb ed="R033" n="0890a15"/>體一切由此出生故曰無不從此法界流究竟還
+<lb ed="X" n="0830a20"/><lb ed="R033" n="0890a16"/>歸此法界。</p></cb:div>
+<lb ed="X" n="0830a21"/><lb ed="R033" n="0890a17"/><cb:div type="orig"><p xml:id="pX20p0830a2101">若行此無量虗空之大乘於一切眾生無有慳悋心。</p></cb:div>
+<lb ed="X" n="0830a22"/><lb ed="R033" n="0890a18"/><cb:div type="commentary"><p xml:id="pX20p0830a2201" rend="margin-left:1em">【註】此之大乘猶如虗空不礙萬像之所發揮也。</p></cb:div>
+<lb ed="X" n="0830a23"/><lb ed="R033" n="0890b01"/><cb:div type="orig"><p xml:id="pX20p0830a2301">虗空無有量亦無有形色大乘亦如是無量無障礙。</p></cb:div>
+<lb ed="X" n="0830a24"/><lb ed="R033" n="0890b02"/><cb:div type="commentary"><p xml:id="pX20p0830a2401" rend="margin-left:1em">【註】前以虗空之無礙用況大乘之無礙此以虗空
+<pb ed="X" xml:id="X20.0364.0830b" n="0830b"/>
+<lb ed="X" n="0830b01"/><lb ed="R033" n="0890b03"/>之無形用況大乘之無形。</p></cb:div>
+<lb ed="X" n="0830b02"/><lb ed="R033" n="0890b04"/><cb:div type="orig"><p xml:id="pX20p0830b0201">若一切眾生乘於此大乘當觀是乘相寬博多所容。</p></cb:div>
+<lb ed="X" n="0830b03"/><lb ed="R033" n="0890b05"/><cb:div type="commentary"><p xml:id="pX20p0830b0301" rend="margin-left:1em">【註】此結歸無礙無形之意也。</p></cb:div>
+<lb ed="X" n="0830b04"/><lb ed="R033" n="0890b06"/><cb:div type="orig"><p xml:id="pX20p0830b0401">無量無數劫說大乘功德及乘此乘者不可得窮盡。</p></cb:div>
+<lb ed="X" n="0830b05"/><lb ed="R033" n="0890b07"/><cb:div type="commentary"><p xml:id="pX20p0830b0501" rend="margin-left:1em">【註】能乘之人所乘之法皆不可盡也。</p></cb:div>
+<lb ed="X" n="0830b06"/><lb ed="R033" n="0890b08"/><cb:div type="orig"><p xml:id="pX20p0830b0601">若人聞此經乃至持一偈永脫於諸難得到安隱處。</p></cb:div>
+<lb ed="X" n="0830b07"/><lb ed="R033" n="0890b09"/><cb:div type="commentary"><p xml:id="pX20p0830b0701" rend="margin-left:1em">【註】上則乘此脩行此則力未逮彼聞經隨喜少持
+<lb ed="X" n="0830b08"/><lb ed="R033" n="0890b10"/>一偈功德如是何況具足受持者乎。</p></cb:div>
+<lb ed="X" n="0830b09"/><lb ed="R033" n="0890b11"/><cb:div type="orig"><p xml:id="pX20p0830b0901">敬念此經者捨是身<anchor xml:id="beg_71" type="cb-app"/>已<anchor xml:id="end_71"/>後終不墮惡道常生人天中
+<lb ed="X" n="0830b10"/><lb ed="R033" n="0890b12"/>於後惡世時若得聞是經我皆與受記究竟成佛道。</p></cb:div>
+<lb ed="X" n="0830b11"/><lb ed="R033" n="0890b13"/><cb:div type="commentary"><p xml:id="pX20p0830b1101" rend="margin-left:1em">【註】是經者即是自心一切眾生迷背自心故流浪
+<lb ed="X" n="0830b12"/><lb ed="R033" n="0890b14"/>生死若聞自心諦信不疑則佛與受記也。</p></cb:div>
+<lb ed="X" n="0830b13"/><lb ed="R033" n="0890b15"/><cb:div type="orig"><p xml:id="pX20p0830b1301">若持此經者佛法在是人是人在佛法亦能轉法輪。</p></cb:div>
+<lb ed="X" n="0830b14"/><lb ed="R033" n="0890b16"/><cb:div type="commentary"><p xml:id="pX20p0830b1401" rend="margin-left:1em">【註】若信自心則佛法在是人所弘是人能荷擔佛
+<lb ed="X" n="0830b15"/><lb ed="R033" n="0890b17"/>法也。</p></cb:div>
+<lb ed="X" n="0830b16"/><lb ed="R033" n="0890b18"/><cb:div type="orig"><p xml:id="pX20p0830b1601">若人持是經能轉無量劫生死諸往來得近於佛道。</p></cb:div>
+<lb ed="X" n="0830b17"/><lb ed="R033" n="0891a01"/><cb:div type="commentary"><p xml:id="pX20p0830b1701" rend="margin-left:1em">【註】持是經者信慕大乘轉多劫為一念生死往來
+<lb ed="X" n="0830b18"/><lb ed="R033" n="0891a02"/>皆得近佛道矣。</p></cb:div>
+<lb ed="X" n="0830b19"/><lb ed="R033" n="0891a03"/><cb:div type="orig"><p xml:id="pX20p0830b1901">若能持是經精進大智慧是名極勇猛能破魔軍眾。</p></cb:div>
+<lb ed="X" n="0830b20"/><lb ed="R033" n="0891a04"/><cb:div type="commentary"><p xml:id="pX20p0830b2001" rend="margin-left:1em">【註】二乘亦稱精進然無道心不名勇猛菩薩一念
+<lb ed="X" n="0830b21"/><lb ed="R033" n="0891a05"/>信解便同正覺故言極勇猛矣。</p></cb:div>
+<lb ed="X" n="0830b22"/><lb ed="R033" n="0891a06"/><cb:div type="orig"><p xml:id="pX20p0830b2201">我於燃燈佛住忍得受記若有樂是經我受記亦然。</p></cb:div>
+<lb ed="X" n="0830b23"/><lb ed="R033" n="0891a07"/><cb:div type="commentary"><p xml:id="pX20p0830b2301" rend="margin-left:1em">【註】我于燃燈佛前解稱性大乘無法可得得受無
+<lb ed="X" n="0830b24"/><lb ed="R033" n="0891a08"/>生忍記我以是經與汝等說若能信樂受記如我
+<pb ed="X" xml:id="X20.0364.0830c" n="0830c"/>
+<lb ed="X" n="0830c01"/><lb ed="R033" n="0891a09"/>無有異也。</p></cb:div>
+<lb ed="X" n="0830c02"/><lb ed="R033" n="0891a10"/><cb:div type="orig"><p xml:id="pX20p0830c0201">若人於佛後能解說是經佛雖不在世為能作佛事
+<lb ed="X" n="0830c03"/><lb ed="R033" n="0891a11"/>佛說是偈時五千天子皆發阿耨多羅三藐三菩提
+<lb ed="X" n="0830c04"/><lb ed="R033" n="0891a12"/>心二千菩薩得無生法忍十千比丘不受諸法漏盡
+<lb ed="X" n="0830c05"/><lb ed="R033" n="0891a13"/>心得解脫三萬二千人遠塵離垢於諸法中得法眼
+<lb ed="X" n="0830c06"/><lb ed="R033" n="0891a14"/>淨。</p></cb:div></cb:div>
+<lb ed="X" n="0830c07"/><lb ed="R033" n="0891a15"/><cb:div type="pin"><cb:mulu type="其他" level="1">發菩提心品第十八</cb:mulu><head>發菩提心品第十八</head>
+<lb ed="X" n="0830c08"/><lb ed="R033" n="0891a16"/><cb:div type="commentary"><p xml:id="pX20p0830c0801" rend="margin-left:1em">【註】前品志慕大乘獲益如是其如上說行人聞益
+<lb ed="X" n="0830c09"/><lb ed="R033" n="0891a17"/>發心理果然矣恐不知發無所發妄執有得有願
+<lb ed="X" n="0830c10"/><lb ed="R033" n="0891a18"/>墮落邪小不知所向故文殊欲使法眼清淨啟佛
+<lb ed="X" n="0830c11"/><lb ed="R033" n="0891b01"/>決擇也。</p></cb:div>
+<lb ed="X" n="0830c12"/><lb ed="R033" n="0891b02"/><cb:div type="orig"><p xml:id="pX20p0830c1201">爾時文殊師利法王子白佛言世尊如我解佛所說
+<lb ed="X" n="0830c13"/><lb ed="R033" n="0891b03"/>義若有人發菩提願是為邪願所以者何諸有所得
+<lb ed="X" n="0830c14"/><lb ed="R033" n="0891b04"/>悉皆是邪若計得菩提而發願者是人諸所作行皆
+<lb ed="X" n="0830c15"/><lb ed="R033" n="0891b05"/>為是邪所以者何菩提不在欲界不在色界不在無
+<lb ed="X" n="0830c16"/><lb ed="R033" n="0891b06"/>色界菩提無有住處不應發願。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0830c1613" rend="margin-left:1em;inline">【註】菩提本是自心非
+<lb ed="X" n="0830c17"/><lb ed="R033" n="0891b07"/>是外物故無方所住處若發願求菩提者似慕其
+<lb ed="X" n="0830c18"/><lb ed="R033" n="0891b08"/>外矣何也有外可言有得若無外者不可言發願
+<lb ed="X" n="0830c19"/><lb ed="R033" n="0891b09"/>求菩提也。</p></cb:div>
+<lb ed="X" n="0830c20"/><lb ed="R033" n="0891b10"/><cb:div type="orig"><p xml:id="pX20p0830c2001">世尊譬如有人願得虗空寧得空不佛言不也世尊
+<lb ed="X" n="0830c21"/><lb ed="R033" n="0891b11"/>菩薩亦復如是發同虗空相菩提之願即是發虗空
+<lb ed="X" n="0830c22"/><lb ed="R033" n="0891b12"/>願。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0830c2202" rend="margin-left:1em;inline">【註】<anchor xml:id="nkr_note_orig_0830001" n="0830001"/>辟如人身內外循體皆空不知是空反欲求空
+<lb ed="X" n="0830c23"/><lb ed="R033" n="0891b13"/>豈非妄乎菩提自心亦復如是見聞知覺無非自
+<lb ed="X" n="0830c24"/><lb ed="R033" n="0891b14"/>心捨是則求寧不為妄乎。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0831a" n="0831a"/>
+<lb ed="X" n="0831a01"/><lb ed="R033" n="0891b15"/><cb:div type="orig"><p xml:id="pX20p0831a0101">菩提出過三世非是受相不可願也。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0831a0115" rend="margin-left:1em;inline">【註】此釋發同虗
+<lb ed="X" n="0831a02"/><lb ed="R033" n="0891b16"/>空願之意也以虗空無相不屬三世菩提亦無相
+<lb ed="X" n="0831a03"/><lb ed="R033" n="0891b17"/>非<anchor xml:id="beg_72" type="cb-app"/>已<anchor xml:id="end_72"/>得非當得非今得欲何願乎以菩提非受相
+<lb ed="X" n="0831a04"/><lb ed="R033" n="0891b18"/>非受故非得也。</p></cb:div>
+<lb ed="X" n="0831a05"/><lb ed="R033" n="0892a01"/><cb:div type="orig"><p xml:id="pX20p0831a0501">若菩薩起二相發菩提心作是念生死與菩提異邪
+<lb ed="X" n="0831a06"/><lb ed="R033" n="0892a02"/>見與菩提異涅槃與菩提異是則不行菩提道也。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0831a0620" rend="margin-left:1em;inline">【註】
+<lb ed="X" n="0831a07"/><lb ed="R033" n="0892a03"/>菩提云覺覺自心故若彼生死邪見等非自心者
+<lb ed="X" n="0831a08"/><lb ed="R033" n="0892a04"/>彼生死等應在自心之外矣若生死在自心之外
+<lb ed="X" n="0831a09"/><lb ed="R033" n="0892a05"/>則生死彼自生死于我何有而欲迯生死耶若生
+<lb ed="X" n="0831a10"/><lb ed="R033" n="0892a06"/>死等是自心不應起二見以心不取心心不捨心
+<lb ed="X" n="0831a11"/><lb ed="R033" n="0892a07"/>故也心不取捨則大小名相皆會歸一致矣。</p></cb:div>
+<lb ed="X" n="0831a12"/><lb ed="R033" n="0892a08"/><cb:div type="orig"><p xml:id="pX20p0831a1201">爾時思益梵天謂文殊師利菩薩云何行名菩提行
+<lb ed="X" n="0831a13"/><lb ed="R033" n="0892a09"/>答言若菩薩行一切法而於法無所行是名菩提行
+<lb ed="X" n="0831a14"/><lb ed="R033" n="0892a10"/>所以者何出過一切所行是行菩提。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0831a1415" rend="margin-left:1em;inline">【註】前以菩提出
+<lb ed="X" n="0831a15"/><lb ed="R033" n="0892a11"/>過三世故不應發願求菩提此中以菩提不屬有
+<lb ed="X" n="0831a16"/><lb ed="R033" n="0892a12"/>為但可無所行而行也行一切法非如二乘執<g ref="#CB01926">󰞆</g>
+<lb ed="X" n="0831a17"/><lb ed="R033" n="0892a13"/>斷無所行則不如凡夫執有為行而無行無行而
+<lb ed="X" n="0831a18"/><lb ed="R033" n="0892a14"/>行非心識可議也。</p></cb:div>
+<lb ed="X" n="0831a19"/><lb ed="R033" n="0892a15"/><cb:div type="orig"><p xml:id="pX20p0831a1901">又問云何出過一切所行是行菩提答言離眼耳鼻
+<lb ed="X" n="0831a20"/><lb ed="R033" n="0892a16"/>舌身意諸緣相是名出過一切所行。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0831a2015" rend="margin-left:1em;inline">【註】六根所緣無
+<lb ed="X" n="0831a21"/><lb ed="R033" n="0892a17"/>非妄境菩提即是實相離緣絕對故六根所不到
+<lb ed="X" n="0831a22"/><lb ed="R033" n="0892a18"/>六根不到則超諸行矣。</p></cb:div>
+<lb ed="X" n="0831a23"/><lb ed="R033" n="0892b01"/><cb:div type="orig"><p xml:id="pX20p0831a2301">又問出過有何義答言不出過平等所以者何一切
+<lb ed="X" n="0831a24"/><lb ed="R033" n="0892b02"/>法平等即是菩提。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0831a2408" rend="margin-left:1em;inline">【註】所謂出過諸行者但過諸虗妄
+<pb ed="X" xml:id="X20.0364.0831b" n="0831b"/>
+<lb ed="X" n="0831b01"/><lb ed="R033" n="0892b03"/>分別不出過平等以菩提性平等故梵天恐人不
+<lb ed="X" n="0831b02"/><lb ed="R033" n="0892b04"/>解菩提是平等無分別是特問其為義義性平等
+<lb ed="X" n="0831b03"/><lb ed="R033" n="0892b05"/>無過不過但不過平等而<anchor xml:id="beg_73" type="cb-app"/>已<anchor xml:id="end_73"/>。</p></cb:div>
+<lb ed="X" n="0831b04"/><lb ed="R033" n="0892b06"/><cb:div type="orig"><p xml:id="pX20p0831b0401">又問云何是發菩提願答言當如菩提又問何為菩
+<lb ed="X" n="0831b05"/><lb ed="R033" n="0892b07"/>提答言菩提非過去非未來非現在是故菩薩應以
+<lb ed="X" n="0831b06"/><lb ed="R033" n="0892b08"/>三世清淨心發菩提願。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0831b0610" rend="margin-left:1em;inline">【註】前云菩提同于虗空出過
+<lb ed="X" n="0831b07"/><lb ed="R033" n="0892b09"/>三世不可願也梵天重問何為菩提似同不解者
+<lb ed="X" n="0831b08"/><lb ed="R033" n="0892b10"/>恐人不悟菩提即是自心故特問明而文殊乃答
+<lb ed="X" n="0831b09"/><lb ed="R033" n="0892b11"/>應以三世清淨心發菩提願始獲泮然也。</p></cb:div>
+<lb ed="X" n="0831b10"/><lb ed="R033" n="0892b12"/><cb:div type="orig"><p xml:id="pX20p0831b1001">梵天如過去未來現在法從本<anchor xml:id="beg_74" type="cb-app"/>已<anchor xml:id="end_74"/>來常不生不生故
+<lb ed="X" n="0831b11"/><lb ed="R033" n="0892b13"/>不可說如是發願無所發願是發一切願所以者何
+<lb ed="X" n="0831b12"/><lb ed="R033" n="0892b14"/>以是行道能得薩婆若。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0831b1210" rend="margin-left:1em;inline">【註】前薩婆若品如來以五華
+<lb ed="X" n="0831b13"/><lb ed="R033" n="0892b15"/>布施則得具足六波羅蜜則能滿足薩婆若滿足
+<lb ed="X" n="0831b14"/><lb ed="R033" n="0892b16"/>薩婆若者眼不受色耳不受聲鼻不受香等是薩
+<lb ed="X" n="0831b15"/><lb ed="R033" n="0892b17"/>婆若滿足之義此中以三世清淨心了法無生是
+<lb ed="X" n="0831b16"/><lb ed="R033" n="0892b18"/>行薩婆若道前示根塵無生故菩薩由是受記此
+<lb ed="X" n="0831b17"/><lb ed="R033" n="0893a01"/>示三世平等非是受相菩薩發菩提心者當發其
+<lb ed="X" n="0831b18"/><lb ed="R033" n="0893a02"/>無所發之心也發其無所發之心當得薩婆若道
+<lb ed="X" n="0831b19"/><lb ed="R033" n="0893a03"/>前示圓滿之趣此示趍果之行故當前後合辯乃
+<lb ed="X" n="0831b20"/><lb ed="R033" n="0893a04"/>得了然也。</p></cb:div>
+<lb ed="X" n="0831b21"/><lb ed="R033" n="0893a05"/><cb:div type="orig"><p xml:id="pX20p0831b2101">又問何故說言薩婆若答言悉知一切真智慧故名
+<lb ed="X" n="0831b22"/><lb ed="R033" n="0893a06"/>為薩婆若。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0831b2205" rend="margin-left:1em;inline">【註】薩婆若云覺圓滿一切覺道至此圓滿
+<lb ed="X" n="0831b23"/><lb ed="R033" n="0893a07"/>故能悉知如百川眾流至于大海乃名具足故又
+<lb ed="X" n="0831b24"/><lb ed="R033" n="0893a08"/>云薩婆若海。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0831c" n="0831c"/>
+<lb ed="X" n="0831c01"/><lb ed="R033" n="0893a09"/><cb:div type="orig"><p xml:id="pX20p0831c0101">又問何等是真智慧答言無變異相如眾生無變異
+<lb ed="X" n="0831c02"/><lb ed="R033" n="0893a10"/>相真智慧亦無變異相。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0831c0210" rend="margin-left:1em;inline">【註】如來權教權分九界生死
+<lb ed="X" n="0831c03"/><lb ed="R033" n="0893a11"/>迷悟今據一乘實教融彼九界同是一如無有生
+<lb ed="X" n="0831c04"/><lb ed="R033" n="0893a12"/>死迷悟譬如百川眾流依處得名江河淮濟等若
+<lb ed="X" n="0831c05"/><lb ed="R033" n="0893a13"/>歸大海眾號頓消均名海水無有變異相也。</p></cb:div>
+<lb ed="X" n="0831c06"/><lb ed="R033" n="0893a14"/><cb:div type="orig"><p xml:id="pX20p0831c0601">又問云何是眾生相答言假名字畢竟離是眾生相
+<lb ed="X" n="0831c07"/><lb ed="R033" n="0893a15"/>如是無相則無變異若眾生與菩提異是為變異如
+<lb ed="X" n="0831c08"/><lb ed="R033" n="0893a16"/>菩提相眾生亦爾是故無變異。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0831c0813" rend="margin-left:1em;inline">【註】前云眾生無變異
+<lb ed="X" n="0831c09"/><lb ed="R033" n="0893a17"/>真智慧亦無變異此有二疑若謂眾生無變異則
+<lb ed="X" n="0831c10"/><lb ed="R033" n="0893a18"/>眾生是眾生佛是佛發心修道皆成唐棄安能轉
+<lb ed="X" n="0831c11"/><lb ed="R033" n="0893b01"/>凡成聖哉若謂有變異則一真法界之性同乎生
+<lb ed="X" n="0831c12"/><lb ed="R033" n="0893b02"/>滅故梵天重問何謂眾生相而文殊答曰假名字
+<lb ed="X" n="0831c13"/><lb ed="R033" n="0893b03"/>畢竟不可得是其相以假名字畢竟無體故何變
+<lb ed="X" n="0831c14"/><lb ed="R033" n="0893b04"/>異之有眾生相如鏡中像菩提相如水中月名字
+<lb ed="X" n="0831c15"/><lb ed="R033" n="0893b05"/>異者相異也無體之性未甞異也。</p></cb:div>
+<lb ed="X" n="0831c16"/><lb ed="R033" n="0893b06"/><cb:div type="orig"><p xml:id="pX20p0831c1601">菩提不可以餘道得但以我平等故菩提平等眾生
+<lb ed="X" n="0831c17"/><lb ed="R033" n="0893b07"/>性無我故如是可得菩提是故菩提無有變異所以
+<lb ed="X" n="0831c18"/><lb ed="R033" n="0893b08"/>者何如虗空無變異相一切諸法亦無變異相。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0831c1819" rend="margin-left:1em;inline">【註】菩
+<lb ed="X" n="0831c19"/><lb ed="R033" n="0893b09"/>提不可以餘道得者但以平等自心證得也分別
+<lb ed="X" n="0831c20"/><lb ed="R033" n="0893b10"/>故名眾生平等故名菩提分別平等同依自心無
+<lb ed="X" n="0831c21"/><lb ed="R033" n="0893b11"/>別有體無別有體故但了性無我則證得菩提所
+<lb ed="X" n="0831c22"/><lb ed="R033" n="0893b12"/>謂二而無二故無變異同于虗空一切法亦然也。</p></cb:div>
+<lb ed="X" n="0831c23"/><lb ed="R033" n="0893b13"/><cb:div type="orig"><p xml:id="pX20p0831c2301">爾時思益梵天謂文殊師利如來是實語者能說如
+<lb ed="X" n="0831c24"/><lb ed="R033" n="0893b14"/>是法文殊師利言如來於法無所說何以故如來尚
+<pb ed="X" xml:id="X20.0364.0832a" n="0832a"/>
+<lb ed="X" n="0832a01"/><lb ed="R033" n="0893b15"/>不得諸法何況說法。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0832a0109" rend="margin-left:1em;inline">【註】如來有時說求菩提為是有
+<lb ed="X" n="0832a02"/><lb ed="R033" n="0893b16"/>時說求菩提為非有時說有眾生有時說非眾生
+<lb ed="X" n="0832a03"/><lb ed="R033" n="0893b17"/>如是等法曾無斷了非大菩薩不能諦信小乘聲
+<lb ed="X" n="0832a04"/><lb ed="R033" n="0893b18"/>聞多致狐疑豈如來真實之言能如是說邪文殊
+<lb ed="X" n="0832a05"/><lb ed="R033" n="0894a01"/>謂如來未嘗說法凡有所說無非應機逗教於如
+<lb ed="X" n="0832a06"/><lb ed="R033" n="0894a02"/>來何有則如來尚不見諸法何況有說邪。</p></cb:div>
+<lb ed="X" n="0832a07"/><lb ed="R033" n="0894a03"/><cb:div type="orig"><p xml:id="pX20p0832a0701">思益言如來豈不分別諸法是世間是出世間是有
+<lb ed="X" n="0832a08"/><lb ed="R033" n="0894a04"/>為是無為耶文殊師利言於汝意云何是虗空可說
+<lb ed="X" n="0832a09"/><lb ed="R033" n="0894a05"/>可分別不思益言不也文殊師利言今說虗空名字
+<lb ed="X" n="0832a10"/><lb ed="R033" n="0894a06"/>以所說故有生有滅耶思益言不也文殊師利言如
+<lb ed="X" n="0832a11"/><lb ed="R033" n="0894a07"/>來說法亦復如是不以說故諸法有生有滅如此說
+<lb ed="X" n="0832a12"/><lb ed="R033" n="0894a08"/>法是不可說相亦以此法有所教誨是無所教誨所
+<lb ed="X" n="0832a13"/><lb ed="R033" n="0894a09"/>以者何如說法性不說法性亦如是是故說一切法
+<lb ed="X" n="0832a14"/><lb ed="R033" n="0894a10"/>住於如中如亦無所住。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0832a1410" rend="margin-left:1em;inline">【註】若如來不說法者如來豈
+<lb ed="X" n="0832a15"/><lb ed="R033" n="0894a11"/>不分別有為無為等邪而如來雖有分別分別即
+<lb ed="X" n="0832a16"/><lb ed="R033" n="0894a12"/>是無分別以法性不可得故猶如虗空不因說生
+<lb ed="X" n="0832a17"/><lb ed="R033" n="0894a13"/>為之生不因說滅為之滅而法性亦復如是故如
+<lb ed="X" n="0832a18"/><lb ed="R033" n="0894a14"/>來知是不可說而說知是不可說而說者說即是
+<lb ed="X" n="0832a19"/><lb ed="R033" n="0894a15"/>無說說是無說則亦無說而說無說而說為化眾
+<lb ed="X" n="0832a20"/><lb ed="R033" n="0894a16"/>生也為眾生而說者則說與無說皆不可得也。</p></cb:div>
+<lb ed="X" n="0832a21"/><lb ed="R033" n="0894a17"/><cb:div type="orig"><p xml:id="pX20p0832a2101">爾時釋梵四天王俱在會中即以天華散於佛上而
+<lb ed="X" n="0832a22"/><lb ed="R033" n="0894a18"/>作自言世尊若善男子善女人聞文殊師利說法有
+<lb ed="X" n="0832a23"/><lb ed="R033" n="0894b01"/>信解者當知是人能破魔軍及餘怨敵所以者何文
+<lb ed="X" n="0832a24"/><lb ed="R033" n="0894b02"/>殊師利今所說法能破一切邪見妄想。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0832a2416" rend="margin-left:1em;inline">【註】諸天以華
+<pb ed="X" xml:id="X20.0364.0832b" n="0832b"/>
+<lb ed="X" n="0832b01"/><lb ed="R033" n="0894b03"/>散佛者華表因也以此無願無求無得無說之為
+<lb ed="X" n="0832b02"/><lb ed="R033" n="0894b04"/>因能趣佛果故也無願故能破邪見無求故能破
+<lb ed="X" n="0832b03"/><lb ed="R033" n="0894b05"/>妄想破妄想故怨敵不能對破邪見故魔軍不得
+<lb ed="X" n="0832b04"/><lb ed="R033" n="0894b06"/>便是所謂稱性大乘世所希遇也。</p></cb:div>
+<lb ed="X" n="0832b05"/><lb ed="R033" n="0894b07"/><cb:div type="orig"><p xml:id="pX20p0832b0501">世尊若善男子善女人聞於是法不驚不怖當知是
+<lb ed="X" n="0832b06"/><lb ed="R033" n="0894b08"/>人不從小功德來。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0832b0608" rend="margin-left:1em;inline">【註】上言所說法勝此言聽法行人
+<lb ed="X" n="0832b07"/><lb ed="R033" n="0894b09"/>亦非下聖法華云若人能竊為一人說一句是人
+<lb ed="X" n="0832b08"/><lb ed="R033" n="0894b10"/>則為如來所使亦此之謂也。</p></cb:div>
+<lb ed="X" n="0832b09"/><lb ed="R033" n="0894b11"/><cb:div type="orig"><p xml:id="pX20p0832b0901">若是經所在之處當知此處則為諸佛擁護受用若
+<lb ed="X" n="0832b10"/><lb ed="R033" n="0894b12"/>聞是經處當知此處轉於法輪。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0832b1013" rend="margin-left:1em;inline">【註】是經所在則為諸
+<lb ed="X" n="0832b11"/><lb ed="R033" n="0894b13"/>佛護念者是經即是自心能知自心所在則佛為
+<lb ed="X" n="0832b12"/><lb ed="R033" n="0894b14"/>護念眾生不聞自心心外求故佛為說法令知所
+<lb ed="X" n="0832b13"/><lb ed="R033" n="0894b15"/>向故能聞自心則謂<anchor xml:id="beg_75" type="cb-app"/>已<anchor xml:id="end_75"/>轉法輪悟是自心即是諸
+<lb ed="X" n="0832b14"/><lb ed="R033" n="0894b16"/>佛說法能事以竟。</p></cb:div>
+<lb ed="X" n="0832b15"/><lb ed="R033" n="0894b17"/><cb:div type="orig"><p xml:id="pX20p0832b1501">是經在所住處聚落村邑山林曠埜塔寺僧房經行
+<lb ed="X" n="0832b16"/><lb ed="R033" n="0894b18"/>之處諸魔外道貪著之人不能侵嬈。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0832b1615" rend="margin-left:1em;inline">【註】聚落村邑動
+<lb ed="X" n="0832b17"/><lb ed="R033" n="0895a01"/>處也山林曠埜靜處也塔乃高出二邊逈離動靜
+<lb ed="X" n="0832b18"/><lb ed="R033" n="0895a02"/>也寺及僧房乃容受之處也經行乃脩道之處也
+<lb ed="X" n="0832b19"/><lb ed="R033" n="0895a03"/>如是等處不昧自心則為所在自心不昧則彼天
+<lb ed="X" n="0832b20"/><lb ed="R033" n="0895a04"/>魔外道皆不得侵嬈矣。</p></cb:div>
+<lb ed="X" n="0832b21"/><lb ed="R033" n="0895a05"/><cb:div type="orig"><p xml:id="pX20p0832b2101">世尊若人多供養過去諸佛乃能得聞如是經典。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0832b2120" rend="margin-left:1em;inline">【註】
+<lb ed="X" n="0832b22"/><lb ed="R033" n="0895a06"/>此結釋聞經之人不從小功德來之意也般若云
+<lb ed="X" n="0832b23"/><lb ed="R033" n="0895a07"/>後五百歲有能持戒脩福聞是章句信心清淨是
+<lb ed="X" n="0832b24"/><lb ed="R033" n="0895a08"/>人不于一佛二佛而種善根以于無量百千億諸
+<pb ed="X" xml:id="X20.0364.0832c" n="0832c"/>
+<lb ed="X" n="0832c01"/><lb ed="R033" n="0895a09"/>佛所種諸善根。</p></cb:div>
+<lb ed="X" n="0832c02"/><lb ed="R033" n="0895a10"/><cb:div type="orig"><p xml:id="pX20p0832c0201">世尊我等於此經中得智慧光明而不能得報佛及
+<lb ed="X" n="0832c03"/><lb ed="R033" n="0895a11"/>文殊師利思益梵天之恩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0832c0311" rend="margin-left:1em;inline">【註】此經乃所聞之法智慧
+<lb ed="X" n="0832c04"/><lb ed="R033" n="0895a12"/>乃能悟之心也佛及文殊乃說法之主也梵天乃
+<lb ed="X" n="0832c05"/><lb ed="R033" n="0895a13"/>善解正問者也能悟由所聞而為之開發所聞由
+<lb ed="X" n="0832c06"/><lb ed="R033" n="0895a14"/>能說而為之引導能說由能問而為之發起四者
+<lb ed="X" n="0832c07"/><lb ed="R033" n="0895a15"/>相繼缺一不可也端本其源歸功于佛與文殊梵
+<lb ed="X" n="0832c08"/><lb ed="R033" n="0895a16"/>天我因得聞是法開悟自心其恩曷能報哉。</p></cb:div>
+<lb ed="X" n="0832c09"/><lb ed="R033" n="0895a17"/><cb:div type="orig"><p xml:id="pX20p0832c0901">世尊我等所從聞經於是法師生世尊想。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0832c0917" rend="margin-left:1em;inline">【註】上云佛
+<lb ed="X" n="0832c10"/><lb ed="R033" n="0895a18"/>及文殊此中意云凡有法師能說是經我等得聞
+<lb ed="X" n="0832c11"/><lb ed="R033" n="0895b01"/>皆生世尊之想不致慢也。</p></cb:div>
+<lb ed="X" n="0832c12"/><lb ed="R033" n="0895b02"/><cb:div type="orig"><p xml:id="pX20p0832c1201">我等常當隨侍說是經者此善男子常為諸天之所
+<lb ed="X" n="0832c13"/><lb ed="R033" n="0895b03"/>擁護若人書寫是經讀誦解說時無量諸天為聽法
+<lb ed="X" n="0832c14"/><lb ed="R033" n="0895b04"/>故來至其所爾時世尊語釋梵四天王等大眾言善
+<lb ed="X" n="0832c15"/><lb ed="R033" n="0895b05"/>哉善哉如汝所說若三千大千世界滿中珍寶以為
+<lb ed="X" n="0832c16"/><lb ed="R033" n="0895b06"/>一分聞是經者所得功德以為一分其福勝彼置是
+<lb ed="X" n="0832c17"/><lb ed="R033" n="0895b07"/>三千大千世界若恒河沙等十方世界滿中珍寶聞
+<lb ed="X" n="0832c18"/><lb ed="R033" n="0895b08"/>是經者所得功德復勝于彼。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0832c1812" rend="margin-left:1em;inline">【註】二施之中法施為上
+<lb ed="X" n="0832c19"/><lb ed="R033" n="0895b09"/>故前後疊喻世界珍寶不及聞經以彼布施不聞
+<lb ed="X" n="0832c20"/><lb ed="R033" n="0895b10"/>是經只成世間有為福報不及聞經無漏智種故
+<lb ed="X" n="0832c21"/><lb ed="R033" n="0895b11"/>永嘉云住相布施生天福猶如仰箭射虗空勢力
+<lb ed="X" n="0832c22"/><lb ed="R033" n="0895b12"/>盡箭還墜招得來生不如意<anchor xml:id="nkr_note_orig_0832001" n="0832001"/>曾似無為實相門一
+<lb ed="X" n="0832c23"/><lb ed="R033" n="0895b13"/>超直入如來地此上總彰聞經布施二分優劣下
+<lb ed="X" n="0832c24"/><lb ed="R033" n="0895b14"/>乃別列聞經獲利。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0833a" n="0833a"/>
+<lb ed="X" n="0833a01"/><lb ed="R033" n="0895b15"/><cb:div type="orig"><p xml:id="pX20p0833a0101">諸善男子若欲得功德者當聽是經。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833a0115" rend="margin-left:1em;inline">【註】總列功德所
+<lb ed="X" n="0833a02"/><lb ed="R033" n="0895b16"/>由下乃別開功德名件。</p></cb:div>
+<lb ed="X" n="0833a03"/><lb ed="R033" n="0895b17"/><cb:div type="orig"><p xml:id="pX20p0833a0301">欲得身色端正欲得財富。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833a0311" rend="margin-left:1em;inline">【註】身色乃正報之本此經
+<lb ed="X" n="0833a04"/><lb ed="R033" n="0895b18"/>直指法身能聞此經則悟法身了知身色即非身
+<lb ed="X" n="0833a05"/><lb ed="R033" n="0896a01"/>色非色則端正斯在富乃依報之要此經顯揚藏
+<lb ed="X" n="0833a06"/><lb ed="R033" n="0896a02"/>祕能聞是經則悟藏心了知七功德財皆是我有
+<lb ed="X" n="0833a07"/><lb ed="R033" n="0896a03"/>皆我有故始名富饒。</p></cb:div>
+<lb ed="X" n="0833a08"/><lb ed="R033" n="0896a04"/><cb:div type="orig"><p xml:id="pX20p0833a0801">欲得眷屬欲得自在。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833a0809" rend="margin-left:1em;inline">【註】塵勞即吾眷屬皆名妙用皆
+<lb ed="X" n="0833a09"/><lb ed="R033" n="0896a05"/>名妙用則取捨斯忘取捨斯忘則縱橫自在。</p></cb:div>
+<lb ed="X" n="0833a10"/><lb ed="R033" n="0896a06"/><cb:div type="orig"><p xml:id="pX20p0833a1001">欲得具足天樂人樂欲得名稱。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833a1013" rend="margin-left:1em;inline">【註】<anchor xml:id="nkr_note_orig_0833001" n="0833001"/>大樂人樂非離心
+<lb ed="X" n="0833a11"/><lb ed="R033" n="0896a07"/>有能悟自心則名稱斯在。</p></cb:div>
+<lb ed="X" n="0833a12"/><lb ed="R033" n="0896a08"/><cb:div type="orig"><p xml:id="pX20p0833a1201">欲得多聞憶念堅固正行威儀。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833a1213" rend="margin-left:1em;inline">【註】若依文字多聞愽
+<lb ed="X" n="0833a13"/><lb ed="R033" n="0896a09"/>識有得有失不名堅固若依實相自性宗通何記
+<lb ed="X" n="0833a14"/><lb ed="R033" n="0896a10"/>何忘是名無漏了心無外則正行無差而威儀自
+<lb ed="X" n="0833a15"/><lb ed="R033" n="0896a11"/>若也。</p></cb:div>
+<lb ed="X" n="0833a16"/><lb ed="R033" n="0896a12"/><cb:div type="orig"><p xml:id="pX20p0833a1601">戒定智慧。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833a1605" rend="margin-left:1em;inline">【註】總六度為二門前五為福後一為慧福
+<lb ed="X" n="0833a17"/><lb ed="R033" n="0896a13"/>度以戒定為最故徧二端。</p></cb:div>
+<lb ed="X" n="0833a18"/><lb ed="R033" n="0896a14"/><cb:div type="orig"><p xml:id="pX20p0833a1801">解達經書欲得善知識。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833a1810" rend="margin-left:1em;inline">【註】前云多聞此云解達經書
+<lb ed="X" n="0833a19"/><lb ed="R033" n="0896a15"/>文似重疊上文應是總括世出世典此中應是獨
+<lb ed="X" n="0833a20"/><lb ed="R033" n="0896a16"/>尊大乘奧旨善知識者有二一者為知識所護前
+<lb ed="X" n="0833a21"/><lb ed="R033" n="0896a17"/>文云為善知識所護二者自為善知識前文云誰
+<lb ed="X" n="0833a22"/><lb ed="R033" n="0896a18"/>為眾生善知識。</p></cb:div>
+<lb ed="X" n="0833a23"/><lb ed="R033" n="0896b01"/><cb:div type="orig"><p xml:id="pX20p0833a2301">欲得三明六通欲得一切善法。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833a2313" rend="margin-left:1em;inline">【註】前則欲得其因此
+<lb ed="X" n="0833a24"/><lb ed="R033" n="0896b02"/>中欲得其果。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0833b" n="0833b"/>
+<lb ed="X" n="0833b01"/><lb ed="R033" n="0896b03"/><cb:div type="orig"><p xml:id="pX20p0833b0101">欲得阿耨多羅三藐三菩提。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833b0112" rend="margin-left:1em;inline">【註】自利之益也。</p></cb:div>
+<lb ed="X" n="0833b02"/><lb ed="R033" n="0896b04"/><cb:div type="orig"><p xml:id="pX20p0833b0201">欲得與一切眾生樂具。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833b0210" rend="margin-left:1em;inline">【註】利他之德也。</p></cb:div>
+<lb ed="X" n="0833b03"/><lb ed="R033" n="0896b05"/><cb:div type="orig"><p xml:id="pX20p0833b0301">欲得涅槃者當聽是經。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833b0310" rend="margin-left:1em;inline">【註】總結自他二利所歸之趣
+<lb ed="X" n="0833b04"/><lb ed="R033" n="0896b06"/>除此實相自心別無有道也。</p></cb:div>
+<lb ed="X" n="0833b05"/><lb ed="R033" n="0896b07"/><cb:div type="orig"><p xml:id="pX20p0833b0501">受持讀誦如法修行廣為人說諸善男子若行是經
+<lb ed="X" n="0833b06"/><lb ed="R033" n="0896b08"/>者我不見其人不得如是具足快樂。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833b0615" rend="margin-left:1em;inline">【註】受而不失持
+<lb ed="X" n="0833b07"/><lb ed="R033" n="0896b09"/>而不忘下根之人不能如此則當讀誦使獲通利
+<lb ed="X" n="0833b08"/><lb ed="R033" n="0896b10"/>如法而行此蓋言由聽而解由解而行由行而證
+<lb ed="X" n="0833b09"/><lb ed="R033" n="0896b11"/>故言具足快樂必然之道也。</p></cb:div>
+<lb ed="X" n="0833b10"/><lb ed="R033" n="0896b12"/><cb:div type="orig"><p xml:id="pX20p0833b1001">善男子我今語汝若人所從聞是經處若和尚若阿
+<lb ed="X" n="0833b11"/><lb ed="R033" n="0896b13"/>闍黎我不見世間供養之具能報其恩。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833b1116" rend="margin-left:1em;inline">【註】下文釋成
+<lb ed="X" n="0833b12"/><lb ed="R033" n="0896b14"/>不能報所以謂也。</p></cb:div>
+<lb ed="X" n="0833b13"/><lb ed="R033" n="0896b15"/><cb:div type="orig"><p xml:id="pX20p0833b1301">是法出過世間世間供養所不能報是法度於世間
+<lb ed="X" n="0833b14"/><lb ed="R033" n="0896b16"/>世間財物所不能報是法無染染汙之物所不能報。</p></cb:div>
+<lb ed="X" n="0833b15"/><lb ed="R033" n="0896b17"/><cb:div type="commentary"><p xml:id="pX20p0833b1501" rend="margin-left:1em">【註】出過世間則有為不能及度世間則利欲不能
+<lb ed="X" n="0833b16"/><lb ed="R033" n="0896b18"/>干于是財物供養總名染汙非法相應故皆不能
+<lb ed="X" n="0833b17"/><lb ed="R033" n="0897a01"/>也。</p></cb:div>
+<lb ed="X" n="0833b18"/><lb ed="R033" n="0897a02"/><cb:div type="orig"><p xml:id="pX20p0833b1801">諸善男子是法餘無能報唯有一事如說脩行若人
+<lb ed="X" n="0833b19"/><lb ed="R033" n="0897a03"/>於此法中能如說脩行者是名能報師恩亦為恭敬
+<lb ed="X" n="0833b20"/><lb ed="R033" n="0897a04"/>於師淨畢報恩是名不空食人信施。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833b2015" rend="margin-left:1em;inline">【註】能報師恩善
+<lb ed="X" n="0833b21"/><lb ed="R033" n="0897a05"/>知本也不空食人福利他也蓋信施供養望我成
+<lb ed="X" n="0833b22"/><lb ed="R033" n="0897a06"/>道將利彼故。</p></cb:div>
+<lb ed="X" n="0833b23"/><lb ed="R033" n="0897a07"/><cb:div type="orig"><p xml:id="pX20p0833b2301">是則名為順如來語順如來教是名越度眾流是名
+<lb ed="X" n="0833b24"/><lb ed="R033" n="0897a08"/>過諸險道。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833b2405" rend="margin-left:1em;inline">【註】不聞實相心常為生死險道所陷若聞
+<pb ed="X" xml:id="X20.0364.0833c" n="0833c"/>
+<lb ed="X" n="0833c01"/><lb ed="R033" n="0897a09"/>此經則險道斯度矣。</p></cb:div>
+<lb ed="X" n="0833c02"/><lb ed="R033" n="0897a10"/><cb:div type="orig"><p xml:id="pX20p0833c0201">是名建立勝幢是名能破敵陣是名師子之王無所
+<lb ed="X" n="0833c03"/><lb ed="R033" n="0897a11"/>畏故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833c0303" rend="margin-left:1em;inline">【註】一切萬法至心而極若了此心則勝幢高豎
+<lb ed="X" n="0833c04"/><lb ed="R033" n="0897a12"/>破諸邪論怨敵猶師子之王無所恐怖矣。</p></cb:div>
+<lb ed="X" n="0833c05"/><lb ed="R033" n="0897a13"/><cb:div type="orig"><p xml:id="pX20p0833c0501">是名象王心柔輭故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833c0509" rend="margin-left:1em;inline">【註】無畏乃破敵之威柔輭乃悅
+<lb ed="X" n="0833c06"/><lb ed="R033" n="0897a14"/>人之德。</p></cb:div>
+<lb ed="X" n="0833c07"/><lb ed="R033" n="0897a15"/><cb:div type="orig"><p xml:id="pX20p0833c0701">是名牛王外道論師無能壞故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833c0713" rend="margin-left:1em;inline">【註】喻如牛王群牛畏
+<lb ed="X" n="0833c08"/><lb ed="R033" n="0897a16"/>伏故。</p></cb:div>
+<lb ed="X" n="0833c09"/><lb ed="R033" n="0897a17"/><cb:div type="orig"><p xml:id="pX20p0833c0901">是名醫王能療一切病故是名無所驚怖能說甚深
+<lb ed="X" n="0833c10"/><lb ed="R033" n="0897a18"/>法故是名能具足捨捨諸煩惱故是名持清淨戒究
+<lb ed="X" n="0833c11"/><lb ed="R033" n="0897b01"/>盡善法故是名得大忍辱離我我所故是名大精進
+<lb ed="X" n="0833c12"/><lb ed="R033" n="0897b02"/>力於無量劫心無倦故是名具足禪定常念繫心住
+<lb ed="X" n="0833c13"/><lb ed="R033" n="0897b03"/>一處故是名有大智慧善解言說諸章句故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833c1318" rend="margin-left:1em;inline">【註】此舉
+<lb ed="X" n="0833c14"/><lb ed="R033" n="0897b04"/>依一心具足六波羅蜜也。</p></cb:div>
+<lb ed="X" n="0833c15"/><lb ed="R033" n="0897b05"/><cb:div type="orig"><p xml:id="pX20p0833c1501">是名有大功德以無量福莊嚴身相故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833c1516" rend="margin-left:1em;inline">【註】達磨云功
+<lb ed="X" n="0833c16"/><lb ed="R033" n="0897b06"/>德在自性中求非外可得此經備宣自性故能聞
+<lb ed="X" n="0833c17"/><lb ed="R033" n="0897b07"/>能說者則有大功德莊嚴矣。</p></cb:div>
+<lb ed="X" n="0833c18"/><lb ed="R033" n="0897b08"/><cb:div type="orig"><p xml:id="pX20p0833c1801">是名有大威德能蔽日月諸光明故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833c1815" rend="margin-left:1em;inline">【註】日惟照晝月
+<lb ed="X" n="0833c19"/><lb ed="R033" n="0897b09"/>惟照夜心光洞然照無不矚故日月有所未及也
+<lb ed="X" n="0833c20"/><lb ed="R033" n="0897b10"/>又餘經行人于有無二邊各就其長猶如日月各
+<lb ed="X" n="0833c21"/><lb ed="R033" n="0897b11"/>據晝夜此經純談實相餘方便教光為之隱蔽是
+<lb ed="X" n="0833c22"/><lb ed="R033" n="0897b12"/>知實相威德超諸方便矣。</p></cb:div>
+<lb ed="X" n="0833c23"/><lb ed="R033" n="0897b13"/><cb:div type="orig"><p xml:id="pX20p0833c2301">是名大力持佛十力故是名大雲能震法雷故是名
+<lb ed="X" n="0833c24"/><lb ed="R033" n="0897b14"/>大雨滅煩惱塵故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0833c2408" rend="margin-left:1em;inline">【註】如來十力二乘有所不堪惟實
+<pb ed="X" xml:id="X20.0364.0834a" n="0834a"/>
+<lb ed="X" n="0834a01"/><lb ed="R033" n="0897b15"/>相相應故能持此實相之法慈悲普覆如雲驚悟
+<lb ed="X" n="0834a02"/><lb ed="R033" n="0897b16"/>群品如雷滅除煩惱如雨蓋由眾生迷此實相受
+<lb ed="X" n="0834a03"/><lb ed="R033" n="0897b17"/>諸熱惱行人若能持說自利利他何所不該矣。</p></cb:div>
+<lb ed="X" n="0834a04"/><lb ed="R033" n="0897b18"/><cb:div type="orig"><p xml:id="pX20p0834a0401">是名為舍至涅槃故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834a0409" rend="margin-left:1em;inline">【註】眾生不聞實相以生死為宅
+<lb ed="X" n="0834a05"/><lb ed="R033" n="0898a01"/>一聞此經則離生死宅處涅槃舍矣。</p></cb:div>
+<lb ed="X" n="0834a06"/><lb ed="R033" n="0898a02"/><cb:div type="orig"><p xml:id="pX20p0834a0601">是名大救救生死畏故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834a0610" rend="margin-left:1em;inline">【註】信方便教有無破蕩則取
+<lb ed="X" n="0834a07"/><lb ed="R033" n="0898a03"/>捨未忘于生死不為無畏故不名救此實相心中
+<lb ed="X" n="0834a08"/><lb ed="R033" n="0898a04"/>遠離戲論分別尚不得涅槃何生死可畏乎故曰
+<lb ed="X" n="0834a09"/><lb ed="R033" n="0898a05"/>大救。</p></cb:div>
+<lb ed="X" n="0834a10"/><lb ed="R033" n="0898a06"/><cb:div type="orig"><p xml:id="pX20p0834a1001">是名燈明離無明暗故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834a1010" rend="margin-left:1em;inline">【註】乘智慧燈照明實相則無
+<lb ed="X" n="0834a11"/><lb ed="R033" n="0898a07"/>明自離矣。</p></cb:div>
+<lb ed="X" n="0834a12"/><lb ed="R033" n="0898a08"/><cb:div type="orig"><p xml:id="pX20p0834a1201">是名歸趣魔所怖者之所依故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834a1213" rend="margin-left:1em;inline">【註】眾生怖<anchor xml:id="nkr_note_orig_0834001" n="0834001"/>躡魔冤者
+<lb ed="X" n="0834a13"/><lb ed="R033" n="0898a09"/>由未聞如是經也而持經者與說實相則魔冤不
+<lb ed="X" n="0834a14"/><lb ed="R033" n="0898a10"/>復怖故是所歸之趣矣。</p></cb:div>
+<lb ed="X" n="0834a15"/><lb ed="R033" n="0898a11"/><cb:div type="orig"><p xml:id="pX20p0834a1501">是名眾生究竟之道。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834a1509" rend="margin-left:1em;inline">【註】一切眾生究竟歸于實相故。</p></cb:div>
+<lb ed="X" n="0834a16"/><lb ed="R033" n="0898a12"/><cb:div type="orig"><p xml:id="pX20p0834a1601">是名得位坐道場故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834a1609" rend="margin-left:1em;inline">【註】如來不得一法而坐道場行
+<lb ed="X" n="0834a17"/><lb ed="R033" n="0898a13"/>人能持是經亦不得一法故即名得位。</p></cb:div>
+<lb ed="X" n="0834a18"/><lb ed="R033" n="0898a14"/><cb:div type="orig"><p xml:id="pX20p0834a1801">是名<anchor xml:id="beg_76" type="cb-app"/>已<anchor xml:id="end_76"/>得法眼是名見諸法如是名知空法相故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834a1820" rend="margin-left:1em;inline">【註】
+<lb ed="X" n="0834a19"/><lb ed="R033" n="0898a15"/>得法眼者以實相不礙鑒俗也見諸法如者以實
+<lb ed="X" n="0834a20"/><lb ed="R033" n="0898a16"/>相不礙證真也知空法相者了此二邊皆入中道
+<lb ed="X" n="0834a21"/><lb ed="R033" n="0898a17"/>第一義空也。</p></cb:div>
+<lb ed="X" n="0834a22"/><lb ed="R033" n="0898a18"/><cb:div type="orig"><p xml:id="pX20p0834a2201">是名安住大悲是名安立大慈是名不捨一切眾生。</p></cb:div>
+<lb ed="X" n="0834a23"/><lb ed="R033" n="0898b01"/><cb:div type="commentary"><p xml:id="pX20p0834a2301" rend="margin-left:1em">【註】行人持此實相之經則妙含三德三德既具則
+<lb ed="X" n="0834a24"/><lb ed="R033" n="0898b02"/>運平等大悲拔眾生之苦興無緣大慈與眾生之
+<pb ed="X" xml:id="X20.0364.0834b" n="0834b"/>
+<lb ed="X" n="0834b01"/><lb ed="R033" n="0898b03"/>樂慈悲既備則不捨一切眾生矣。</p></cb:div>
+<lb ed="X" n="0834b02"/><lb ed="R033" n="0898b04"/><cb:div type="orig"><p xml:id="pX20p0834b0201">是名背於小乘是名向於大乘是名除捨顛倒是名
+<lb ed="X" n="0834b03"/><lb ed="R033" n="0898b05"/>至於平等是名入於法位。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834b0311" rend="margin-left:1em;inline">【註】未達實相則法法成差
+<lb ed="X" n="0834b04"/><lb ed="R033" n="0898b06"/>若悟實相則法住法位矣。</p></cb:div>
+<lb ed="X" n="0834b05"/><lb ed="R033" n="0898b07"/><cb:div type="orig"><p xml:id="pX20p0834b0501">是名安住道場是名破壞諸魔是名轉於法輪諸善
+<lb ed="X" n="0834b06"/><lb ed="R033" n="0898b08"/>男子我若一劫若減一劫稱揚讚嘆說是如說修行
+<lb ed="X" n="0834b07"/><lb ed="R033" n="0898b09"/>功德不能窮盡如來之辯亦不可盡。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834b0715" rend="margin-left:1em;inline">【註】蓋實相無相
+<lb ed="X" n="0834b08"/><lb ed="R033" n="0898b10"/>故持經者功德不可盡如來讚辭亦不可盡皆稱
+<lb ed="X" n="0834b09"/><lb ed="R033" n="0898b11"/>實相故也。</p></cb:div>
+<lb ed="X" n="0834b10"/><lb ed="R033" n="0898b12"/><cb:div type="orig"><p xml:id="pX20p0834b1001">爾時會中有天子名不退轉白佛言世尊所說隨法
+<lb ed="X" n="0834b11"/><lb ed="R033" n="0898b13"/>行隨法行者為何謂耶佛告天子隨法行者不行一
+<lb ed="X" n="0834b12"/><lb ed="R033" n="0898b14"/>切法是名隨法行所以者何若不行諸法則不分別
+<lb ed="X" n="0834b13"/><lb ed="R033" n="0898b15"/>是正是邪如是行者不行善不行不善不行有漏不
+<lb ed="X" n="0834b14"/><lb ed="R033" n="0898b16"/>行無漏不行世間不行出世間不行有為不行無為
+<lb ed="X" n="0834b15"/><lb ed="R033" n="0898b17"/>不行生死不行涅<anchor xml:id="beg_77" type="cb-app"/>槃<anchor xml:id="end_77"/>是名隨法行。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834b1514" rend="margin-left:1em;inline">【註】前文殊謂發願
+<lb ed="X" n="0834b16"/><lb ed="R033" n="0898b18"/>求菩提是名邪願不知是諸法平等平等即是實
+<lb ed="X" n="0834b17"/><lb ed="R033" n="0899a01"/>相悟此實相即得菩提菩提云覺覺法平等故覺
+<lb ed="X" n="0834b18"/><lb ed="R033" n="0899a02"/>法平等則諸法無非實相皆實相者則離揀擇離
+<lb ed="X" n="0834b19"/><lb ed="R033" n="0899a03"/>揀擇則隨所行法皆稱實相隨所行法皆稱實相
+<lb ed="X" n="0834b20"/><lb ed="R033" n="0899a04"/>則于菩提無有退轉故天子名曰不退轉即諸法
+<lb ed="X" n="0834b21"/><lb ed="R033" n="0899a05"/>實相之象也由達諸法皆實相故不分別正邪善
+<lb ed="X" n="0834b22"/><lb ed="R033" n="0899a06"/>惡乃至世出世間有為無為以其不分別故隨其
+<lb ed="X" n="0834b23"/><lb ed="R033" n="0899a07"/>行皆稱菩提故曰無往而不自得也儒云在天而
+<lb ed="X" n="0834b24"/><lb ed="R033" n="0899a08"/>天在人而人百姓日用而不知良可悲夫。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0834c" n="0834c"/>
+<lb ed="X" n="0834c01"/><lb ed="R033" n="0899a09"/><cb:div type="orig"><p xml:id="pX20p0834c0101">若起法相者是則不名隨法行也。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834c0114" rend="margin-left:1em;inline">【註】上則不分別法
+<lb ed="X" n="0834c02"/><lb ed="R033" n="0899a10"/>隨其所行皆稱菩提此中出過云若起法相則凡
+<lb ed="X" n="0834c03"/><lb ed="R033" n="0899a11"/>有所行皆不得名為隨順法行故曰法本無好醜
+<lb ed="X" n="0834c04"/><lb ed="R033" n="0899a12"/>好醜起于心我信之矣。</p></cb:div>
+<lb ed="X" n="0834c05"/><lb ed="R033" n="0899a13"/><cb:div type="orig"><p xml:id="pX20p0834c0501">若念言我行是法是則戲論不隨法行。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834c0516" rend="margin-left:1em;inline">【註】法無方所
+<lb ed="X" n="0834c06"/><lb ed="R033" n="0899a14"/>亦無名狀若言有可行者故名戲論。</p></cb:div>
+<lb ed="X" n="0834c07"/><lb ed="R033" n="0899a15"/><cb:div type="orig"><p xml:id="pX20p0834c0701">若不受一切法則隨法行於一切法無憶念無分別
+<lb ed="X" n="0834c08"/><lb ed="R033" n="0899a16"/>無所行是名隨法行。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834c0809" rend="margin-left:1em;inline">【註】無憶念則世性本空無分別
+<lb ed="X" n="0834c09"/><lb ed="R033" n="0899a17"/>則戲論斯遠無所行則有為斯盡如是而行何退
+<lb ed="X" n="0834c10"/><lb ed="R033" n="0899a18"/>轉之有也。</p></cb:div>
+<lb ed="X" n="0834c11"/><lb ed="R033" n="0899b01"/><cb:div type="orig"><p xml:id="pX20p0834c1101">爾時不退轉天子白佛言世尊若能如是隨法行者
+<lb ed="X" n="0834c12"/><lb ed="R033" n="0899b02"/>是人畢竟不復邪行所以者何正行者名為畢竟住
+<lb ed="X" n="0834c13"/><lb ed="R033" n="0899b03"/>邪道者無隨法行住正道者有隨法行世尊行正行
+<lb ed="X" n="0834c14"/><lb ed="R033" n="0899b04"/>者無所邪法所以者何諸法平等無差別故。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0834c1418" rend="margin-left:1em;inline">【註】釋成
+<lb ed="X" n="0834c15"/><lb ed="R033" n="0899b05"/>邪道無隨法行正道有隨法行之意也既云隨法
+<lb ed="X" n="0834c16"/><lb ed="R033" n="0899b06"/>而行則隨邪則邪隨正則正何故邪無正有邪以
+<lb ed="X" n="0834c17"/><lb ed="R033" n="0899b07"/>邪道行者隨戲論分別故無隨法行也正道行者
+<lb ed="X" n="0834c18"/><lb ed="R033" n="0899b08"/>隨順諸法平等無有分別故有隨法行也。</p></cb:div>
+<lb ed="X" n="0834c19"/><lb ed="R033" n="0899b09"/><cb:div type="orig"><p xml:id="pX20p0834c1901">爾時思益梵天謂不退轉天子汝於此中隨法行不。</p></cb:div>
+<lb ed="X" n="0834c20"/><lb ed="R033" n="0899b10"/><cb:div type="commentary"><p xml:id="pX20p0834c2001" rend="margin-left:1em">【註】所言隨法行者隨其正性而行無有能行所行
+<lb ed="X" n="0834c21"/><lb ed="R033" n="0899b11"/>若著能所則不得名為隨法行也故梵天恐人隨
+<lb ed="X" n="0834c22"/><lb ed="R033" n="0899b12"/>于能所故致斯問。</p></cb:div>
+<lb ed="X" n="0834c23"/><lb ed="R033" n="0899b13"/><cb:div type="orig"><p xml:id="pX20p0834c2301">答言若世尊所說法中有二相者我當行隨法行今
+<lb ed="X" n="0834c24"/><lb ed="R033" n="0899b14"/>以無二相是隨法行於中行者及所行法俱不可得。</p></cb:div>
+<pb ed="X" xml:id="X20.0364.0835a" n="0835a"/>
+<lb ed="X" n="0835a01"/><lb ed="R033" n="0899b15"/><cb:div type="commentary"><p xml:id="pX20p0835a0101" rend="margin-left:1em">【註】無二相者無能所二相也若云我行隨法行者
+<lb ed="X" n="0835a02"/><lb ed="R033" n="0899b16"/>即墮能所能所之法佛所不說以佛不說有能所
+<lb ed="X" n="0835a03"/><lb ed="R033" n="0899b17"/>故能行之行所行之法悉不可得故我不見有行
+<lb ed="X" n="0835a04"/><lb ed="R033" n="0899b18"/>隨法行者安有能所哉。</p></cb:div>
+<lb ed="X" n="0835a05"/><lb ed="R033" n="0900a01"/><cb:div type="orig"><p xml:id="pX20p0835a0501">梵天我以不二法行隨法行離諸分別故如諸法如
+<lb ed="X" n="0835a06"/><lb ed="R033" n="0900a02"/>行是名隨法行。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0835a0607" rend="margin-left:1em;inline">【註】一切諸法皆如相隨其如相而行
+<lb ed="X" n="0835a07"/><lb ed="R033" n="0900a03"/>離諸分別是名行也。</p></cb:div>
+<lb ed="X" n="0835a08"/><lb ed="R033" n="0900a04"/><cb:div type="orig"><p xml:id="pX20p0835a0801">思益言汝未曾見此佛土耶天子言此佛土亦未曾
+<lb ed="X" n="0835a09"/><lb ed="R033" n="0900a05"/>見我。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0835a0903" rend="margin-left:1em;inline">【註】梵天意曰若無分別隨法而行者寧不見此
+<lb ed="X" n="0835a10"/><lb ed="R033" n="0900a06"/>佛土耶若見佛土則能所顯然乃得云無分別乎
+<lb ed="X" n="0835a11"/><lb ed="R033" n="0900a07"/>天子曰佛土亦不見我我不見佛土者心外無法
+<lb ed="X" n="0835a12"/><lb ed="R033" n="0900a08"/>故佛土不見我者法住法位故。</p></cb:div>
+<lb ed="X" n="0835a13"/><lb ed="R033" n="0900a09"/><cb:div type="orig"><p xml:id="pX20p0835a1301">思益言此佛土不能思惟分別見與不見天子言我
+<lb ed="X" n="0835a14"/><lb ed="R033" n="0900a10"/>亦不思惟分別曾於佛土見與不見。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0835a1415" rend="margin-left:1em;inline">【註】若佛土無分
+<lb ed="X" n="0835a15"/><lb ed="R033" n="0900a11"/>別不能見我我亦無分別不見佛土是所謂各各
+<lb ed="X" n="0835a16"/><lb ed="R033" n="0900a12"/>不相知各各不相到楞嚴云汝今諦觀法法何狀
+<lb ed="X" n="0835a17"/><lb ed="R033" n="0900a13"/>意同。</p></cb:div>
+<lb ed="X" n="0835a18"/><lb ed="R033" n="0900a14"/><cb:div type="orig"><p xml:id="pX20p0835a1801">思益言何人未見能見天子言一切凡夫未見聖法
+<lb ed="X" n="0835a19"/><lb ed="R033" n="0900a15"/>位若能入者是為先所未見而見。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0835a1914" rend="margin-left:1em;inline">【註】下釋成未見能
+<lb ed="X" n="0835a20"/><lb ed="R033" n="0900a16"/>見之意。</p></cb:div>
+<lb ed="X" n="0835a21"/><lb ed="R033" n="0900a17"/><cb:div type="orig"><p xml:id="pX20p0835a2101">是法位相非眼所見非耳鼻舌身意識所知但應隨
+<lb ed="X" n="0835a22"/><lb ed="R033" n="0900a18"/>如相見如眼如乃至意如法位如亦如是若能如是
+<lb ed="X" n="0835a23"/><lb ed="R033" n="0900b01"/>見者是名正見。</p></cb:div><cb:div type="commentary"><p xml:id="pX20p0835a2307" rend="margin-left:1em;inline">【註】未見法位則起分別若入法位則
+<lb ed="X" n="0835a24"/><lb ed="R033" n="0900b02"/>分別不生分別不生故六根如六根如故六塵如
+<pb ed="X" xml:id="X20.0364.0835b" n="0835b"/>
+<lb ed="X" n="0835b01"/><lb ed="R033" n="0900b03"/>六塵如故六識如根塵識如即知法位如知法位
+<lb ed="X" n="0835b02"/><lb ed="R033" n="0900b04"/>如即是先所未見而今能見也能見是法位性本
+<lb ed="X" n="0835b03"/><lb ed="R033" n="0900b05"/>如是則于菩提心無有<anchor xml:id="beg_78" type="cb-app"/>已<anchor xml:id="end_78"/>發無有當發無有今發
+<lb ed="X" n="0835b04"/><lb ed="R033" n="0900b06"/>了知發無可發是真發菩提心也。</p></cb:div></cb:div>
+<lb ed="X" n="0835b05"/><lb ed="R033" n="0900b07"/>
+<lb ed="X" n="0835b06"/><lb ed="R033" n="0900b08"/><cb:juan fun="close" n="3"><cb:jhead>思益梵天所問經簡註卷之三</cb:jhead></cb:juan>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp2" cb:from="#beg_49" cb:to="#end_49"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_4a" cb:to="#end_4a"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_4b" cb:to="#end_4b"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_4c" cb:to="#end_4c"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_4d" cb:to="#end_4d"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_4e" cb:to="#end_4e"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_4f" cb:to="#end_4f"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_50" cb:to="#end_50"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_51" cb:to="#end_51"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_52" cb:to="#end_52"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_53" cb:to="#end_53"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_54" cb:to="#end_54"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_55" cb:to="#end_55"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_56" cb:to="#end_56"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_57" cb:to="#end_57"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_58" cb:to="#end_58"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_59" cb:to="#end_59"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_5a" cb:to="#end_5a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_5b" cb:to="#end_5b"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_5c" cb:to="#end_5c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_5d" cb:to="#end_5d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_5e" cb:to="#end_5e"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_5f" cb:to="#end_5f"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_60" cb:to="#end_60"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_61" cb:to="#end_61"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_62" cb:to="#end_62"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_63" cb:to="#end_63"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_64" cb:to="#end_64"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_65" cb:to="#end_65"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_66" cb:to="#end_66"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_67" cb:to="#end_67"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_68" cb:to="#end_68"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_69" cb:to="#end_69"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_6a" cb:to="#end_6a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_6b" cb:to="#end_6b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_6c" cb:to="#end_6c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_6d" cb:to="#end_6d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_6e" cb:to="#end_6e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_6f" cb:to="#end_6f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_70" cb:to="#end_70"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_71" cb:to="#end_71"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_72" cb:to="#end_72"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_73" cb:to="#end_73"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_74" cb:to="#end_74"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_75" cb:to="#end_75"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_76" cb:to="#end_76"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_77" cb:to="#end_77"><corr>槃</corr><sic>樂</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_78" cb:to="#end_78"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+<cb:div type="cbeta-notes">
+<head>CBETA 校勘記</head>
+<p>
+</p>
+</cb:div>
+<cb:div type="xuzang-notes">
+<head>卍續藏 校勘記</head>
+<p>
+<note n="0818001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0818001">慾疑愆</note>
+<note n="0819001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0819001">典下疑脫過字</note>
+<note n="0820001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0820001">化疑他</note>
+<note n="0825001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0825001">靜當作淨</note>
+<note n="0827001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0827001">人經作入</note>
+<note n="0830001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0830001">辟與譬通</note>
+<note n="0832001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0832001">曾疑爭</note>
+<note n="0833001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0833001">大疑天</note>
+<note n="0834001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0834001">躡疑懾</note>
+</p>
+</cb:div>
+</back></text></TEI>

@@ -1,0 +1,1262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="P182n1615">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Northern Yongle Edition of the Canon, Electronic version, No. 1615 大明三藏法數(第14卷-第35卷)</title>
+			<author>明 一如等編集</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.6 $<date>$Date: 2012/07/06 03:47:40 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		<respStmt xml:id="resp2"><resp>corrections</resp><name>Yonglebei</name></respStmt>
+		<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA</name></respStmt>
+	</editionStmt>
+	<extent>22卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/07/06 03:47:40 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Northern Yongle Edition of the Canon Vol. 182, No. 1615 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00562">
+	<charName>CBETA CHARACTER CB00562</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+(梳-木)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>疏</value>
+	</charProp>
+	<mapping type="unicode">U+47FD</mapping>
+	<mapping cb:dec="983602" type="PUA">U+F0232</mapping>
+</char>
+<char xml:id="CB00712">
+	<charName>CBETA CHARACTER CB00712</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[禾*會]</value>
+	</charProp>
+	<mapping type="unicode">U+258B6</mapping>
+	<mapping cb:dec="983752" type="PUA">U+F02C8</mapping>
+</char>
+<char xml:id="CB00859">
+	<charName>CBETA CHARACTER CB00859</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[薛/女]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>孽</value>
+	</charProp>
+	<mapping type="unicode">U+3738</mapping>
+	<mapping cb:dec="983899" type="PUA">U+F035B</mapping>
+</char>
+<char xml:id="CB01008">
+	<charName>CBETA CHARACTER CB01008</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(暇-日)-(己-(乳-孚))+几]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>段</value>
+	</charProp>
+	<mapping cb:dec="984048" type="PUA">U+F03F0</mapping>
+</char>
+<char xml:id="CB02167">
+	<charName>CBETA CHARACTER CB02167</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[損-口+ㄙ]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>損</value>
+	</charProp>
+	<mapping cb:dec="985207" type="PUA">U+F0877</mapping>
+</char>
+<char xml:id="CB02494">
+	<charName>CBETA CHARACTER CB02494</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+(乏-之+友)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>跋</value>
+	</charProp>
+	<mapping type="unicode">U+47E6</mapping>
+	<mapping cb:dec="985534" type="PUA">U+F09BE</mapping>
+</char>
+<char xml:id="CB03878">
+	<charName>CBETA CHARACTER CB03878</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[仁-二+業]</value>
+	</charProp>
+	<mapping type="unicode">U+3492</mapping>
+	<mapping cb:dec="986918" type="PUA">U+F0F26</mapping>
+</char>
+<char xml:id="CB04456">
+	<charName>CBETA CHARACTER CB04456</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[更-一]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>臾</value>
+	</charProp>
+	<mapping type="normal_unicode">U+3B30</mapping>
+	<mapping cb:dec="987496" type="PUA">U+F1168</mapping>
+</char>
+<char xml:id="CB05315">
+	<charName>CBETA CHARACTER CB05315</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[爂-火+焚]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>爨</value>
+	</charProp>
+	<mapping type="unicode">U+3E11</mapping>
+	<mapping cb:dec="988355" type="PUA">U+F14C3</mapping>
+</char>
+<char xml:id="CB06171">
+	<charName>CBETA CHARACTER CB06171</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[逅-口+巾]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>遞</value>
+	</charProp>
+	<mapping cb:dec="989211" type="PUA">U+F181B</mapping>
+</char>
+<char xml:id="CB08504">
+	<charName>CBETA CHARACTER CB08504</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[舀*炎]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>燄</value>
+	</charProp>
+	<mapping type="unicode">U+269A8</mapping>
+	<mapping cb:dec="991544" type="PUA">U+F2138</mapping>
+</char>
+<char xml:id="CB10258">
+	<charName>CBETA CHARACTER CB10258</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[戮-(彰-章)+小]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>戮</value>
+	</charProp>
+	<mapping cb:dec="993298" type="PUA">U+F2812</mapping>
+</char>
+<char xml:id="CB11301">
+	<charName>CBETA CHARACTER CB11301</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[門@(八/允)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>閱</value>
+	</charProp>
+	<mapping cb:dec="994341" type="PUA">U+F2C25</mapping>
+</char>
+<char xml:id="CB14081">
+	<charName>CBETA CHARACTER CB14081</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[木*豆*寸]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>樹</value>
+	</charProp>
+	<mapping type="unicode">U+235F3</mapping>
+	<mapping cb:dec="997121" type="PUA">U+F3701</mapping>
+</char>
+<char xml:id="CB15081">
+	<charName>CBETA CHARACTER CB15081</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[竺-二+束]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>策</value>
+	</charProp>
+	<mapping type="unicode">U+41FF</mapping>
+	<mapping cb:dec="998121" type="PUA">U+F3AE9</mapping>
+</char>
+<char xml:id="CB21906">
+	<charName>CBETA CHARACTER CB21906</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[辟-口+言]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>譬</value>
+	</charProp>
+	<mapping type="unicode">U+2842B</mapping>
+	<mapping cb:dec="1004946" type="PUA">U+F5592</mapping>
+</char>
+<char xml:id="CB21942">
+	<charName>CBETA CHARACTER CB21942</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[婬-壬+(工/山)]</value>
+	</charProp>
+	<mapping cb:dec="1004982" type="PUA">U+F55B6</mapping>
+</char>
+<char xml:id="CB21945">
+	<charName>CBETA CHARACTER CB21945</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[淫-壬+(工/山)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>淫</value>
+	</charProp>
+	<mapping cb:dec="1004985" type="PUA">U+F55B9</mapping>
+</char>
+<char xml:id="CB30246">
+	<charName>CBETA CHARACTER CB30246</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(冰-水+〡)*ㄆ]</value>
+	</charProp>
+	<mapping cb:dec="1013286" type="PUA">U+F7626</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-09-14T14:04:32">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">八</cb:mulu><cb:div type="other">
+<pb ed="P" xml:id="P182.1615.0459a" n="0459a"/>
+<lb ed="P" n="0459a01"/><milestone unit="juan" n="26"/><cb:mulu type="卷" n="26"></cb:mulu><cb:juan fun="open" n="26"><cb:jhead>大明三藏法數卷第二十六　　　　碣八</cb:jhead></cb:juan>
+<lb ed="P" n="0459a02"/><byline cb:type="other">上天竺前住持沙門一如等奉　勑集註</byline>
+<lb ed="P" n="0459a03"/><entry><form><anchor xml:id="beg_137" type="cb-app"/>八<anchor xml:id="end_137"/>功德水<note place="inline">出稱讚淨土經</note></form><cb:def><p xml:id="pP182p0459a0311" rend="margin-left:1em;inline">八功德水謂阿彌陀佛極
+<lb ed="P" n="0459a04"/>樂淨土池中之水有八種功德也。</p><p xml:id="pP182p0459a0414" rend="margin-left:1em;inline">【一澄淨】
+<lb ed="P" n="0459a05"/>謂其水澄渟潔淨是為澄淨功德。</p><p xml:id="pP182p0459a0514" rend="margin-left:1em;inline">【二清
+<lb ed="P" n="0459a06"/>冷】謂其水清瀅涼冷是為清冷功德。</p><p xml:id="pP182p0459a0615" rend="margin-left:1em;inline">【三甘
+<lb ed="P" n="0459a07"/>美】謂其水甘甜嘉美是為甘羙功德。</p><p xml:id="pP182p0459a0715" rend="margin-left:1em;inline">【四
+<lb ed="P" n="0459a08"/>輕輭】謂其水輕浮柔輭是為輕輭功德。</p><p xml:id="pP182p0459a0816" rend="margin-left:1em;inline">【五
+<lb ed="P" n="0459a09"/>潤澤】謂其水滋潤澤物是為潤澤功德。</p><p xml:id="pP182p0459a0916" rend="margin-left:1em;inline">【六
+<lb ed="P" n="0459a10"/>安和】謂其水人若飲時身心即得安隱調
+<pb ed="P" xml:id="P182.1615.0459b" n="0459b"/>
+<lb ed="P" n="0459b01"/>和是為安和功德。</p><p xml:id="pP182p0459b0108" rend="margin-left:1em;inline">【七除患】謂其水人若飲
+<lb ed="P" n="0459b02"/>時能除飢渴等患是為除患功德。</p><p xml:id="pP182p0459b0214" rend="margin-left:1em;inline">【八增益】
+<lb ed="P" n="0459b03"/>謂其水人若飲時即能長養善根增益四
+<lb ed="P" n="0459b04"/>大是為增益功德<note place="inline">四大者即人身中地水火風也</note>。</p></cb:def></entry>
+<lb ed="P" n="0459b05"/><entry><form>八風<note place="inline">亦名八法出佛地經論</note></form><cb:def><p xml:id="pP182p0459b0512" rend="margin-left:1em;inline">謂此八法世間所愛所憎
+<lb ed="P" n="0459b06"/>而能扇動人心名之為風苟心有所主安
+<lb ed="P" n="0459b07"/>住正法不為愛憎之所惑亂即八風不能
+<lb ed="P" n="0459b08"/>動也。</p><p xml:id="pP182p0459b0803" rend="margin-left:1em;inline">【一利】利者利益謂凡有益於我者皆
+<lb ed="P" n="0459b09"/>名為利要覽云得可意事曰利是也。</p><p xml:id="pP182p0459b0915" rend="margin-left:1em;inline">【二衰】
+<lb ed="P" n="0459b10"/>衰者減也謂凡有減<g ref="#CB02167">󰡷</g>於我者皆名為衰
+<pb ed="P" xml:id="P182.1615.0460a" n="0460a"/>
+<lb ed="P" n="0460a01"/>要覽云失可意事曰衰是也。</p><p xml:id="pP182p0460a0112" rend="margin-left:1em;inline">【三毀】毀者毀
+<lb ed="P" n="0460a02"/>謗也謂因惡其人構合異語潛地而訕謗
+<lb ed="P" n="0460a03"/>之要覽云陰為毀訕曰毀是也。</p><p xml:id="pP182p0460a0313" rend="margin-left:1em;inline">【四譽】譽即
+<lb ed="P" n="0460a04"/>讚譽謂因喜其人雖不對靣亦必潛以善
+<lb ed="P" n="0460a05"/>言而讚譽之要覽云陰為讚羙曰譽是也。</p>
+<lb ed="P" n="0460a06"/><p xml:id="pP182p0460a0601" rend="margin-left:1em">【五稱】稱即稱道謂因推重其人凡於眾中
+<lb ed="P" n="0460a07"/>必稱道其善以美之要覽云陽為讚美曰
+<lb ed="P" n="0460a08"/>稱是也。</p><p xml:id="pP182p0460a0804" rend="margin-left:1em;inline">【六譏】譏者誹也謂因惡其人本無
+<lb ed="P" n="0460a09"/>其事妄為實有對眾明說要覽云陽為誹
+<lb ed="P" n="0460a10"/><anchor xml:id="beg_138" type="cb-app"/>刺<anchor xml:id="end_138"/>曰譏是也。</p><p xml:id="pP182p0460a1006" rend="margin-left:1em;inline">【七苦】苦即逼迫之義謂或遇
+<pb ed="P" xml:id="P182.1615.0460b" n="0460b"/>
+<lb ed="P" n="0460b01"/>惡緣惡境身心受其逼迫要覽云逼惱身
+<lb ed="P" n="0460b02"/>心曰苦是也。</p><p xml:id="pP182p0460b0206" rend="margin-left:1em;inline">【八樂】樂即歡恱之意謂或遇
+<lb ed="P" n="0460b03"/>好緣好境身心皆得歡恱要覽云適恱身
+<lb ed="P" n="0460b04"/>心曰樂是也。</p></cb:def></entry>
+<lb ed="P" n="0460b05"/><entry><form>八種粥<note place="inline">出十誦律</note></form><cb:def><p xml:id="pP182p0460b0508" rend="margin-left:1em;inline">佛在迦尸國竹園中與諸比丘
+<lb ed="P" n="0460b06"/>一處安居爾時諸居士作種種粥持詣竹
+<lb ed="P" n="0460b07"/>園以施佛僧故有八種之名<note place="inline">梵語比丘華言乞士居士
+<lb ed="P" n="0460b08"/>者清淨自居也</note>。</p><p xml:id="pP182p0460b0807" rend="margin-left:1em;inline">【一酥粥】酥粥者謂以牛馬等酥和
+<lb ed="P" n="0460b09"/>於米粟煑為粥也。</p><p xml:id="pP182p0460b0908" rend="margin-left:1em;inline">【二油粥】油粥者謂以荏
+<lb ed="P" n="0460b10"/>酥麻等油和於米粟煑為粥也。</p><p xml:id="pP182p0460b1013" rend="margin-left:1em;inline">【三胡麻粥】
+<pb ed="P" xml:id="P182.1615.0461a" n="0461a"/>
+<lb ed="P" n="0461a01"/>胡麻粥者謂取胡麻子和於米粟煑為粥
+<lb ed="P" n="0461a02"/>也。</p><p xml:id="pP182p0461a0202" rend="margin-left:1em;inline">【四乳粥】乳粥者謂以牛馬等乳和於米
+<lb ed="P" n="0461a03"/>粟煑為粥也。</p><p xml:id="pP182p0461a0306" rend="margin-left:1em;inline">【五小荳粥】小荳粥者謂以綠
+<lb ed="P" n="0461a04"/>荳赤荳等和於米粟煑為粥也。</p><p xml:id="pP182p0461a0413" rend="margin-left:1em;inline">【六摩沙荳
+<lb ed="P" n="0461a05"/>粥】摩沙荳疑即大荳也盖梵語摩訶華言
+<lb ed="P" n="0461a06"/>大今云摩沙者乃梵音遠近不同也謂以
+<lb ed="P" n="0461a07"/>此荳和於米粟煑為粥也。</p><p xml:id="pP182p0461a0711" rend="margin-left:1em;inline">【七麻子粥】麻子
+<lb ed="P" n="0461a08"/>粥者謂以黃麻子和於米粟煑為粥也。</p><p xml:id="pP182p0461a0816" rend="margin-left:1em;inline">【八
+<lb ed="P" n="0461a09"/>薄粥】薄粥者或用米或用粟煑為稀粥也。</p></cb:def></entry>
+<lb ed="P" n="0461a10"/><entry><form>八不淨物<note place="inline">出華嚴經隨<g ref="#CB00562">䟽</g>演義鈔</note></form><cb:def><p xml:id="pP182p0461a1014" rend="margin-left:1em;inline">佛在世時誡諸弟子乞
+<pb ed="P" xml:id="P182.1615.0461b" n="0461b"/>
+<lb ed="P" n="0461b01"/>食自活少欲知足不許畜此等物以其能
+<lb ed="P" n="0461b02"/>生貪戀計着之心染污梵行故有此八不
+<lb ed="P" n="0461b03"/>淨之名也<note place="inline">梵行即淨行也</note>。</p><p xml:id="pP182p0461b0311" rend="margin-left:1em;inline">【一置買田宅】謂比丘當
+<lb ed="P" n="0461b04"/>依眾居止勤修出世清淨無為之道若私
+<lb ed="P" n="0461b05"/>置田宅以圖自足是為不淨<note place="inline">梵語比丘華言乞士</note>。</p><p xml:id="pP182p0461b0520" rend="margin-left:1em;inline">【二
+<lb ed="P" n="0461b06"/>種植根栽】謂比丘當勤修道業於世間資
+<lb ed="P" n="0461b07"/>生之事不生貪著若不為眾私自種植田
+<lb ed="P" n="0461b08"/>園內妨行業是為不淨。</p><p xml:id="pP182p0461b0810" rend="margin-left:1em;inline">【三貯聚穀粟】謂比
+<lb ed="P" n="0461b09"/>丘當乞食資身清淨活命若不為眾私自
+<lb ed="P" n="0461b10"/>藏貯穀粟米麥是為不淨。</p><p xml:id="pP182p0461b1011" rend="margin-left:1em;inline">【四畜養奴婢】謂
+<pb ed="P" xml:id="P182.1615.0462a" n="0462a"/>
+<lb ed="P" n="0462a01"/>比丘當閑居淨處修攝其心行安樂行若
+<lb ed="P" n="0462a02"/>不為眾畜養奴婢驅使作務是為不淨。</p><p xml:id="pP182p0462a0216" rend="margin-left:1em;inline">【五
+<lb ed="P" n="0462a03"/>畜養群畜】謂比丘當持禁戒慈心不殺若
+<lb ed="P" n="0462a04"/>畜養牛馬等畜孳生之類以污梵行是
+<lb ed="P" n="0462a05"/>為不淨。</p><p xml:id="pP182p0462a0504" rend="margin-left:1em;inline">【六藏積金銀錢寶】謂比丘當以清
+<lb ed="P" n="0462a06"/>雅為高安貧樂道身無長物若貪積世間
+<lb ed="P" n="0462a07"/>所重金銀資財等物資生求利計筭出納
+<lb ed="P" n="0462a08"/>有乖道行是為不淨。</p><p xml:id="pP182p0462a0809" rend="margin-left:1em;inline">【七藏積象牙刻鏤等
+<lb ed="P" n="0462a09"/>物】謂比丘當奉佛戒志尚儉素於諸玩好
+<lb ed="P" n="0462a10"/>心不貪戀布衣草座常懷知足若貪世
+<pb ed="P" xml:id="P182.1615.0462b" n="0462b"/>
+<lb ed="P" n="0462b01"/>間稀有雕飾之物是為不淨。</p><p xml:id="pP182p0462b0112" rend="margin-left:1em;inline">【八藏積銅鐵
+<lb ed="P" n="0462b02"/>釜鑊以自煑<g ref="#CB05315">㸑</g>】謂比丘與眾居止當與眾
+<lb ed="P" n="0462b03"/>同飡或乞食自活勵精梵行成就道業若
+<lb ed="P" n="0462b04"/>藏積釜鑊以自煑<g ref="#CB05315">㸑</g>別眾而食是為不淨。</p></cb:def></entry>
+<lb ed="P" n="0462b05"/><entry><form>八依<note place="inline">出瑜伽師地論</note></form><cb:def><p xml:id="pP182p0462b0509" rend="margin-left:1em;inline">【一施設依】施設猶建立也謂人
+<lb ed="P" n="0462b06"/>依五蘊中假用言說施設我及眾生各各
+<lb ed="P" n="0462b07"/>不同有如是生類如是種姓如是名字如
+<lb ed="P" n="0462b08"/>是飲食如是苦樂壽夭等是名施設依<note place="inline">五蘊
+<lb ed="P" n="0462b09"/>者色蘊受蘊想蘊行蘊識蘊也</note>。</p><p xml:id="pP182p0462b0913" rend="margin-left:1em;inline">【二攝受依】攝受含攝容受
+<lb ed="P" n="0462b10"/>也謂人依於父母妻子奴婢僮僕等以為
+<pb ed="P" xml:id="P182.1615.0463a" n="0463a"/>
+<lb ed="P" n="0463a01"/>我所攝受故名攝受依。</p><p xml:id="pP182p0463a0110" rend="margin-left:1em;inline">【三住持依】謂人依
+<lb ed="P" n="0463a02"/>叚觸思識四種之食則能攝養諸根住立
+<lb ed="P" n="0463a03"/>支持故名住持依<note place="inline"><g ref="#CB01008">󰏰</g>食者<g ref="#CB01008">󰏰</g>即分叚謂以香味觸三塵為體入腹
+<lb ed="P" n="0463a04"/>變壞資益諸根也觸食者謂眼識等所對色等諸塵柔輭細滑等觸而生喜樂資益
+<lb ed="P" n="0463a05"/>諸根也思食者謂第六意識思於可愛之境生希望意而潤益諸根也識食者識即
+<lb ed="P" n="0463a06"/>第八識也謂由前三食勢分所資能令此識增勝執持諸根也</note>。</p><p xml:id="pP182p0463a0625" rend="margin-left:1em;inline">【四流轉依】
+<lb ed="P" n="0463a07"/>謂人依五蘊中受想行識四心起諸煩惱
+<lb ed="P" n="0463a08"/>業因流轉三界生死故名流轉依。</p><p xml:id="pP182p0463a0814" rend="margin-left:1em;inline">【五障礙
+<lb ed="P" n="0463a09"/>依】謂諸天魔外道隨有修善法處即往其
+<lb ed="P" n="0463a10"/>前為作障礙故名障礙依。</p><p xml:id="pP182p0463a1011" rend="margin-left:1em;inline">【六苦惱依】謂人
+<pb ed="P" xml:id="P182.1615.0463b" n="0463b"/>
+<lb ed="P" n="0463b01"/>依於欲界領受一切憂苦不生厭離之心
+<lb ed="P" n="0463b02"/>故名苦惱依。</p><p xml:id="pP182p0463b0206" rend="margin-left:1em;inline">【七適恱依】謂人依諸禪定靜
+<lb ed="P" n="0463b03"/>息思慮身心湛寂得法喜樂故名適恱依。</p>
+<lb ed="P" n="0463b04"/><p xml:id="pP182p0463b0401" rend="margin-left:1em">【八後邊依】謂阿羅漢三界惑業<anchor xml:id="beg_139" type="cb-app"/>已<anchor xml:id="end_139"/>盡更不
+<lb ed="P" n="0463b05"/>受生其最後身依有餘涅槃而住故名後
+<lb ed="P" n="0463b06"/>邊依<note place="inline">梵語阿羅漢華言無生又云無學三界者欲界色界無色界也有餘涅槃
+<lb ed="P" n="0463b07"/>者羅漢三界惑業<anchor xml:id="beg_13a" type="cb-app"/>已<anchor xml:id="end_13a"/>盡尚餘色身未滅故也梵語涅槃華言滅度</note>。</p></cb:def></entry></cb:div>
+<lb ed="P" n="0463b08"/><cb:div type="other"><cb:mulu type="其他" level="1">九</cb:mulu><entry><form>佛具九惱<note place="inline">出大智度論并興起行經</note></form><cb:def><p xml:id="pP182p0463b0815" rend="margin-left:1em;inline">如來<anchor xml:id="beg_13b" type="cb-app"/>已<anchor xml:id="end_13b"/>離一切障礙
+<lb ed="P" n="0463b09"/>成就無量諸勝功德豈有如是種種業報
+<lb ed="P" n="0463b10"/>之實盖亦善巧方便令諸眾生知造善惡
+<pb ed="P" xml:id="P182.1615.0464a" n="0464a"/>
+<lb ed="P" n="0464a01"/>業因必有苦樂果報故說此九種惱事也。</p>
+<lb ed="P" n="0464a02"/><p xml:id="pP182p0464a0201" rend="margin-left:1em">【一六年苦行】佛言徃昔波羅奈城邊有婆
+<lb ed="P" n="0464a03"/>羅門子名火鬘復有瓦師之子名護喜二
+<lb ed="P" n="0464a04"/>子少小心相敬念護喜謂火鬘曰共見迦
+<lb ed="P" n="0464a05"/>葉如來火鬘荅曰何用見此髠道人如是
+<lb ed="P" n="0464a06"/>至三後日護喜復曰可共暫見荅曰何用
+<lb ed="P" n="0464a07"/>見此髠頭道人何有佛道於是護喜捉火
+<lb ed="P" n="0464a08"/>鬘頭曰為汝共見如來火鬘驚怖心念此
+<lb ed="P" n="0464a09"/>非小緣必有好事耳即曰今放我頭我共
+<lb ed="P" n="0464a10"/>汝去既至佛所禮迦葉足護喜白佛火鬘
+<pb ed="P" xml:id="P182.1615.0464b" n="0464b"/>
+<lb ed="P" n="0464b01"/>不識三寶願佛開化火鬘覩佛相好心生
+<lb ed="P" n="0464b02"/>歡喜出家學道時火鬘者即我身是護
+<lb ed="P" n="0464b03"/>喜者我為太子逾城出家時作瓶天子導
+<lb ed="P" n="0464b04"/>我者是我徃昔以惡言道迦葉佛故受諸
+<lb ed="P" n="0464b05"/>苦報由此餘殃今欲臨成佛時復受六年
+<lb ed="P" n="0464b06"/>苦行也<note place="inline">梵語波羅奈華言江遶城梵語婆羅門華言淨行梵語迦葉華言飲
+<lb ed="P" n="0464b07"/>光三寶者佛寶法寶僧寶也作瓶天子即色界淨居天也</note>。</p><p xml:id="pP182p0464b0723" rend="margin-left:1em;inline">【二孫陀利謗】
+<lb ed="P" n="0464b08"/>佛言徃昔波羅奈城有愽戲人名淨眼時
+<lb ed="P" n="0464b09"/>有<g ref="#CB21942">󵖶</g>女名鹿相淨眼誘此女人共車出城
+<lb ed="P" n="0464b10"/>至<g ref="#CB14081">𣗳</g>園中共相娛樂時彼園中有辟支佛
+<pb ed="P" xml:id="P182.1615.0465a" n="0465a"/>
+<lb ed="P" n="0465a01"/>修行道法淨眼待辟支佛入城乞食遂殺
+<lb ed="P" n="0465a02"/>鹿相埋辟支佛廬中後累辟支佛將至死
+<lb ed="P" n="0465a03"/>地淨眼見<anchor xml:id="beg_13c" type="cb-app"/>已<anchor xml:id="end_13c"/>即起悲心我所造作自當受
+<lb ed="P" n="0465a04"/>之故自說罪因國王即殺淨眼時彼淨眼
+<lb ed="P" n="0465a05"/>者則我身是彼鹿相者孫陀利是以是因
+<lb ed="P" n="0465a06"/>緣無數千嵗受無量苦今雖得佛由此餘
+<lb ed="P" n="0465a07"/>殃故獲孫陀利女謗也<note place="inline">辟支佛梵語辟支迦羅華言緣覺</note>。</p>
+<lb ed="P" n="0465a08"/><p xml:id="pP182p0465a0801" rend="margin-left:1em">【二木槍】佛在羅<g ref="#CB11301">󲰥</g>祇竹園精舍入城乞食
+<lb ed="P" n="0465a09"/>忽有木槍迸在佛前心自念言此是宿緣
+<lb ed="P" n="0465a10"/>我當受之眾見驚愕佛復心念現償宿緣
+<pb ed="P" xml:id="P182.1615.0465b" n="0465b"/>
+<lb ed="P" n="0465b01"/>使眾人見不敢造惡便踊身虛空去地一
+<lb ed="P" n="0465b02"/>仞木槍逐佛乃至七由延槍亦隨之佛於
+<lb ed="P" n="0465b03"/>空中化一青石厚闊十二由延佛立石上
+<lb ed="P" n="0465b04"/>槍即穿石出在佛前又化地水火風各厚
+<lb ed="P" n="0465b05"/>闊十二由延佛立其上槍亦穿過佛復上
+<lb ed="P" n="0465b06"/>四天王宮次第乃至梵天槍亦次第而上
+<lb ed="P" n="0465b07"/>至於佛前所過諸天與說宿緣佛復從梵
+<lb ed="P" n="0465b08"/>天下至羅<g ref="#CB11301">󲰥</g>祇城槍亦尋下國人隨從看
+<lb ed="P" n="0465b09"/>此因緣佛恐眾人見償此緣皆悶死是故
+<lb ed="P" n="0465b10"/>佛語眾人各自還歸亦勑諸比丘眾各還
+<pb ed="P" xml:id="P182.1615.0466a" n="0466a"/>
+<lb ed="P" n="0466a01"/>房<anchor xml:id="beg_13d" type="cb-app"/>已<anchor xml:id="end_13d"/>佛便心念當償宿緣遂疊大衣敷座
+<lb ed="P" n="0466a02"/>而坐即展右足木槍便從足趺徹過舍利
+<lb ed="P" n="0466a03"/><anchor xml:id="beg_13e" type="cb-app"/>弗<anchor xml:id="end_13e"/>等皆至佛所禮拜慰問為說宿緣徃昔
+<lb ed="P" n="0466a04"/>有兩部主賈客入海取寶後遇水漲爭船
+<lb ed="P" n="0466a05"/>第二部主與第一部主格戰第二部主以
+<lb ed="P" n="0466a06"/>鑹矛鑹第一部主脚過即便命終佛告舍
+<lb ed="P" n="0466a07"/>利弗爾時第二部主者即我身是第一部
+<lb ed="P" n="0466a08"/>主者今提婆達兜是我時鑹彼脚以是因
+<lb ed="P" n="0466a09"/>緣受諸苦報今雖得佛由此殘緣故受木
+<lb ed="P" n="0466a10"/>槍<anchor xml:id="beg_13f" type="cb-app"/>刺<anchor xml:id="end_13f"/>脚也<note place="inline">梵語羅<g ref="#CB11301">󲰥</g>祇華言王舍城梵語由延即由旬華言限量四天三
+<pb ed="P" xml:id="P182.1615.0466b" n="0466b"/>
+<lb ed="P" n="0466b01"/>者東方持國天王南方增長天王西方廣目天王北方多聞天王也梵語比丘華言
+<lb ed="P" n="0466b02"/>乞士梵語舍利弗華言鶖子梵語提婆達兜亦云提婆達多又云調達華言天熱</note>。</p>
+<lb ed="P" n="0466b03"/><p xml:id="pP182p0466b0301" rend="margin-left:1em">【四馬麥】佛言過去世時有比婆葉如來在
+<lb ed="P" n="0466b04"/>槃頭摩<g ref="#CB02494">䟦</g>城中與大比丘眾俱有槃頭王
+<lb ed="P" n="0466b05"/>與諸臣民請佛供養及比丘僧佛默然許
+<lb ed="P" n="0466b06"/>之王還具饌<anchor xml:id="beg_140" type="cb-app"/>已<anchor xml:id="end_140"/>畢即執香爐啟曰唯願屈
+<lb ed="P" n="0466b07"/>尊來受我供佛勑大眾徃詣王宮食畢各
+<lb ed="P" n="0466b08"/>還時為病比丘取食而歸爾時城中有婆
+<lb ed="P" n="0466b09"/>羅門教五百童子佛從婆羅門所過時婆
+<lb ed="P" n="0466b10"/>羅門見食香美便起妬意此髠沙門正應
+<pb ed="P" xml:id="P182.1615.0467a" n="0467a"/>
+<lb ed="P" n="0467a01"/>食馬麥不應食甘饌亦教童子言此等師
+<lb ed="P" n="0467a02"/>主皆食馬麥時婆羅門者即我身是五百
+<lb ed="P" n="0467a03"/>童子者五百羅漢是我時言他食馬麥故
+<lb ed="P" n="0467a04"/>受諸苦報今雖得佛由此殘緣我及眾等
+<lb ed="P" n="0467a05"/>於毘蘭邑食馬麥九十日也<note place="inline">梵語沙門華言息心又云
+<lb ed="P" n="0467a06"/>勤息比婆葉槃頭摩<g ref="#CB02494">䟦</g>毘蘭俱無翻</note>。</p><p xml:id="pP182p0467a0615" rend="margin-left:1em;inline">【五流離王殺釋種】佛在
+<lb ed="P" n="0467a07"/>世時波斯匿王新紹王位使臣求親於迦
+<lb ed="P" n="0467a08"/>毘羅國釋種之家時摩訶男婢生一女顏
+<lb ed="P" n="0467a09"/>貌端正送與波斯匿王後生一子名曰流
+<lb ed="P" n="0467a10"/>離及年八嵗與梵志子好苦詣摩訶男家
+<pb ed="P" xml:id="P182.1615.0467b" n="0467b"/>
+<lb ed="P" n="0467b01"/>時迦毘羅國新起一講堂欲請如來於中
+<lb ed="P" n="0467b02"/>供養爾時流離太子徃至講堂即陞師子
+<lb ed="P" n="0467b03"/>之座時諸釋種見之罵言此婢生物敢入
+<lb ed="P" n="0467b04"/>中坐於是出語梵志子好苦曰此諸釋種
+<lb ed="P" n="0467b05"/>捉我毀辱乃至於此我後紹王位時汝當
+<lb ed="P" n="0467b06"/>告我此事流離太子後紹王位好苦以前
+<lb ed="P" n="0467b07"/>事告之流離集兵徃伐釋種佛告比丘
+<lb ed="P" n="0467b08"/>徃昔之時此羅<g ref="#CB11301">󲰥</g>城有捕魚村時世饑儉
+<lb ed="P" n="0467b09"/>彼村有池多魚時城中人向於池中捕魚
+<lb ed="P" n="0467b10"/>食之池中有二種魚一名麩二名多舌各
+<pb ed="P" xml:id="P182.1615.0468a" n="0468a"/>
+<lb ed="P" n="0468a01"/>懷報怨時有一小兒在岸見魚跳而喜以
+<lb ed="P" n="0468a02"/>杖打彼魚頭爾時羅<g ref="#CB11301">󲰥</g>人者今釋種是麩
+<lb ed="P" n="0468a03"/>魚者今流離王是多舌魚者今梵志好苦
+<lb ed="P" n="0468a04"/>是小兒者即我身是以是因緣故流離王
+<lb ed="P" n="0468a05"/>殺釋種也<note place="inline">梵語波斯匿華言勝軍梵語迦毘羅華言黃色</note>。</p><p xml:id="pP182p0468a0523" rend="margin-left:1em;inline">【六乞食
+<lb ed="P" n="0468a06"/>空鉢】佛嘗入婆羅門聚落中乞食不得空
+<lb ed="P" n="0468a07"/>鉢而還。</p><p xml:id="pP182p0468a0704" rend="margin-left:1em;inline">【七旃荼女謗】佛言徃昔有佛名盡
+<lb ed="P" n="0468a08"/>勝如來會中有兩種比丘一名無勝一名
+<lb ed="P" n="0468a09"/>常歡時波羅奈城有大愛長者婦名善幻
+<lb ed="P" n="0468a10"/>兩種比丘徃來其家以為檀越無勝比丘
+<pb ed="P" xml:id="P182.1615.0468b" n="0468b"/>
+<lb ed="P" n="0468b01"/>為斷漏故供養無乏常歡比丘結使未除
+<lb ed="P" n="0468b02"/>供養微薄常歡比丘興嫉妬心誹謗無勝
+<lb ed="P" n="0468b03"/>與善幻通不以道法供養乃恩愛耳時常
+<lb ed="P" n="0468b04"/>歡者則我身是善幻婦者今旃荼是<note place="inline">旃荼亦名
+<lb ed="P" n="0468b05"/>旃沙</note>我時謗無勝故受諸苦報今雖得佛由
+<lb ed="P" n="0468b06"/>此餘殃我為外道比丘王臣說法之時却
+<lb ed="P" n="0468b07"/>被多舌童女繫盂起腹來至我前謗曰
+<lb ed="P" n="0468b08"/>沙門何以不說家事乃說他事今汝自樂
+<lb ed="P" n="0468b09"/>不知我苦汝先共我通使我有身今當臨
+<lb ed="P" n="0468b10"/>月事須酥油以養小兒盡當給我爾時眾
+<pb ed="P" xml:id="P182.1615.0469a" n="0469a"/>
+<lb ed="P" n="0469a01"/>會皆低頭默然時釋提桓因化作一鼠入
+<lb ed="P" n="0469a02"/>其衣裏嚙盂繫斷忽然落地眾等見<anchor xml:id="beg_141" type="cb-app"/>已<anchor xml:id="end_141"/>
+<lb ed="P" n="0469a03"/>皆大歡喜<note place="inline">旃荼梵語具云旃荼羅華言嚴幟又云屠者謂惡業自嚴行時
+<lb ed="P" n="0469a04"/>搖鈴持竹為標幟也梵語檀華言施言檀越者華梵兼舉耳謂能行施則超越貧窮
+<lb ed="P" n="0469a05"/>之海也斷漏者言斷生死之漏也結使者即惑業也梵語釋提桓因華言能天主</note>。</p>
+<lb ed="P" n="0469a06"/><p xml:id="pP182p0469a0601" rend="margin-left:1em">【八調達推山】佛徃昔於羅<g ref="#CB11301">󲰥</g>祇城有長者
+<lb ed="P" n="0469a07"/>名須檀家富多財子名須摩提其父須檀
+<lb ed="P" n="0469a08"/>命終<anchor xml:id="beg_142" type="cb-app"/>已<anchor xml:id="end_142"/>後摩提異母弟名修耶舍摩提不
+<lb ed="P" n="0469a09"/>欲與弟分財一日與弟執手共登耆闍崛
+<lb ed="P" n="0469a10"/>山將至高崕便推置崕底以石塠之其弟
+<pb ed="P" xml:id="P182.1615.0469b" n="0469b"/>
+<lb ed="P" n="0469b01"/>命絕佛告舍利弗長者須檀者我父王白
+<lb ed="P" n="0469b02"/>淨是也須摩提者則我身是修耶舍者今
+<lb ed="P" n="0469b03"/>提婆達多是也以是因緣我於耆闍崛山
+<lb ed="P" n="0469b04"/>經行為提婆達多舉崕石以擲我頭山神
+<lb ed="P" n="0469b05"/>以手接石石邊小片迸中我脚拇指破而
+<lb ed="P" n="0469b06"/>血出<note place="inline">梵語耆闍崛華言鷲頭即靈鷲山也須檀須摩提俱無翻</note>。</p><p xml:id="pP182p0469b0625" rend="margin-left:1em;inline">【九寒風
+<lb ed="P" n="0469b07"/>索衣】佛於阿羅婆伽林中冬至前後八夜
+<lb ed="P" n="0469b08"/>寒風破竹嘗索三衣禦寒<note place="inline">阿羅婆伽無翻</note>。</p></cb:def></entry>
+<lb ed="P" n="0469b09"/><entry><form>大乘九部<note place="inline">出大智度論</note></form><cb:def><p xml:id="pP182p0469b0910" rend="margin-left:1em;inline">謂佛所說大乘諸經無因
+<lb ed="P" n="0469b10"/>緣論議譬喻之三部故云九部也以大乘
+<pb ed="P" xml:id="P182.1615.0470a" n="0470a"/>
+<lb ed="P" n="0470a01"/>直說大法不假因緣唯談圓理故絕論議
+<lb ed="P" n="0470a02"/>獨顯真常不待譬喻是以大乘諸經唯存
+<lb ed="P" n="0470a03"/>方廣等九部也別論雖爾若通而言之凡
+<lb ed="P" n="0470a04"/>大小乘經無不具有十二部也。</p><p xml:id="pP182p0470a0413" rend="margin-left:1em;inline">【一修多羅】梵
+<lb ed="P" n="0470a05"/>語修多羅華言契經契者上契諸佛之理下
+<lb ed="P" n="0470a06"/>契眾生之機也經法也常也乃聖教之總
+<lb ed="P" n="0470a07"/>名今言修多羅即經中長行之文也謂直
+<lb ed="P" n="0470a08"/>說法相隨其義理長短不以字數為拘是
+<lb ed="P" n="0470a09"/>為長行。</p><p xml:id="pP182p0470a0904" rend="margin-left:1em;inline">【二祇夜】梵語祇夜華言應頌又
+<lb ed="P" n="0470a10"/>云重頌或云偈謂應前長行之文重宣其
+<pb ed="P" xml:id="P182.1615.0470b" n="0470b"/>
+<lb ed="P" n="0470b01"/>義也或二句四句六句八句乃至多句等
+<lb ed="P" n="0470b02"/>皆名為頌。</p><p xml:id="pP182p0470b0205" rend="margin-left:1em;inline">【三伽陀】梵語伽陀華言諷頌謂
+<lb ed="P" n="0470b03"/>不頌長行之文但直說偈句如金光明經
+<lb ed="P" n="0470b04"/>中空品等是也亦名孤起如楞嚴經中阿
+<lb ed="P" n="0470b05"/>難讚佛偈云妙湛總持不動尊等是也
+<lb ed="P" n="0470b06"/><note place="inline">楞嚴梵語具云首楞嚴華言健相分別梵語阿難華言慶喜</note>。</p><p xml:id="pP182p0470b0624" rend="margin-left:1em;inline">【四伊帝目
+<lb ed="P" n="0470b07"/>多】梵語伊帝目多華言本事謂如來說諸
+<lb ed="P" n="0470b08"/>菩薩等因地所行之事也如法華經中說
+<lb ed="P" n="0470b09"/>藥王菩薩曾於日月淨明德佛所得法歡
+<lb ed="P" n="0470b10"/>喜然身然臂以為供養行諸苦行求菩提
+<pb ed="P" xml:id="P182.1615.0471a" n="0471a"/>
+<lb ed="P" n="0471a01"/>道等是也<note place="inline">菩薩梵語具云華提薩埵華言覺有情</note>。</p><p xml:id="pP182p0471a0120" rend="margin-left:1em;inline">【五闍多伽】
+<lb ed="P" n="0471a02"/>梵語闍多伽華言本生謂佛說諸菩薩等
+<lb ed="P" n="0471a03"/>本地受生之事及自說為菩薩時修諸苦
+<lb ed="P" n="0471a04"/>行等事如涅槃經云比丘當知我於過去
+<lb ed="P" n="0471a05"/>作鹿作羆作麞作兔作粟散王轉輪聖
+<lb ed="P" n="0471a06"/>王龍金翅鳥諸如是等行菩薩道時所受
+<lb ed="P" n="0471a07"/>身之類是也。</p><p xml:id="pP182p0471a0706" rend="margin-left:1em;inline">【六阿浮達磨】梵語阿浮達磨
+<lb ed="P" n="0471a08"/>華言未曾有亦云希有如佛生時即行七
+<lb ed="P" n="0471a09"/>步足跡之處皆有蓮華放大光明遍照十
+<lb ed="P" n="0471a10"/>方世界而發是言我是度一切眾生生老
+<pb ed="P" xml:id="P182.1615.0471b" n="0471b"/>
+<lb ed="P" n="0471b01"/>病死者地大震動天雨眾華<g ref="#CB14081">𣗳</g>出音聲
+<lb ed="P" n="0471b02"/>作天妓樂如是等無量希有之事是名未
+<lb ed="P" n="0471b03"/>曾有又四種等凡有聞所未聞見所未見
+<lb ed="P" n="0471b04"/>皆名未曾有<note place="inline">四眾者比丘比丘尼優婆塞優婆夷也</note>。</p><p xml:id="pP182p0471b0421" rend="margin-left:1em;inline">【七優陀
+<lb ed="P" n="0471b05"/>那】梵語優陀那華言自說謂無有人問
+<lb ed="P" n="0471b06"/>如來以他心智觀眾生機而自宣說如楞
+<lb ed="P" n="0471b07"/>嚴會上說五十種魔事不待阿難請問
+<lb ed="P" n="0471b08"/>又如阿彌陀經無有緣起自告舍利弗等
+<lb ed="P" n="0471b09"/>是也<note place="inline">五十種魔事者謂於色受想行識五陰中各有十種也梵語阿彌陀華言
+<lb ed="P" n="0471b10"/>無量壽梵語舍利弗華言鶖子</note>。</p><p xml:id="pP182p0471b1013" rend="margin-left:1em;inline">【八毘佛畧】梵語毘佛畧華
+<pb ed="P" xml:id="P182.1615.0472a" n="0472a"/>
+<lb ed="P" n="0472a01"/>言方廣正理名方包富名廣謂大乘方等
+<lb ed="P" n="0472a02"/>經典其義廣大猶如虛空即諸經之理體
+<lb ed="P" n="0472a03"/>也。</p><p xml:id="pP182p0472a0302" rend="margin-left:1em;inline">【九和伽羅】梵語和伽羅華言授記謂如
+<lb ed="P" n="0472a04"/>來為諸菩薩緣覺聲聞授作佛記如法華
+<lb ed="P" n="0472a05"/>經云汝阿逸多於當來世而成佛道號曰
+<lb ed="P" n="0472a06"/>彌勒等是也<note place="inline">梵語阿逸多華言無能勝梵語彌勒華言慈氏</note>。</p></cb:def></entry>
+<lb ed="P" n="0472a07"/><entry><form>華嚴九會說<note place="inline">出華嚴經隨<g ref="#CB00562">䟽</g>演義鈔</note></form><cb:def><p xml:id="pP182p0472a0715" rend="margin-left:1em;inline">華嚴者謂如來
+<lb ed="P" n="0472a08"/>以萬行因華莊嚴法身果德也九會說
+<lb ed="P" n="0472a09"/>者如來與菩薩四眾天龍八部於菩提場
+<lb ed="P" n="0472a10"/>等處九番聚會而廣說此法也<note place="inline">菩薩梵語具云菩提
+<pb ed="P" xml:id="P182.1615.0472b" n="0472b"/>
+<lb ed="P" n="0472b01"/>薩埵華言覺有情四眾者比丘比丘尼優婆塞優婆夷也八部者天龍夜叉乾闥婆
+<lb ed="P" n="0472b02"/>阿修羅迦樓羅緊那羅摩睺羅迦也梵語菩提華言道<g ref="#CB14081">𣗳</g>名也如來於此<g ref="#CB14081">𣗳</g>下成道
+<lb ed="P" n="0472b03"/>故其處名菩提場</note>。</p><p xml:id="pP182p0472b0308" rend="margin-left:1em;inline">【第一會】此會菩提場普賢菩薩說
+<lb ed="P" n="0472b04"/>如來依報因果法門自第一卷至十一卷
+<lb ed="P" n="0472b05"/>共六品經<note place="inline">依報者即所依之國土也六品者世主妙嚴品如來現相品普
+<lb ed="P" n="0472b06"/>賢三昧品世界成就品華藏世界品毘盧遮那品也</note>。</p><p xml:id="pP182p0472b0621" rend="margin-left:1em;inline">【第二會】此會普
+<lb ed="P" n="0472b07"/>光明殿文殊師利菩薩等說十信等法門
+<lb ed="P" n="0472b08"/>自第十二卷至十五卷共六品經<note place="inline">普光明殿者其
+<lb ed="P" n="0472b09"/>殿眾寶所成光明照映又佛於中說法普放光明故也梵語文殊師利華言妙德十
+<lb ed="P" n="0472b10"/>信者信心念心精進心慧心定心不退心護法心回向心戒心願心也六品者如來
+<pb ed="P" xml:id="P182.1615.0473a" n="0473a"/>
+<lb ed="P" n="0473a01"/>名號品四聖諦品光明覺品菩薩問明品淨行品賢首品也</note>。</p><p xml:id="pP182p0473a0124" rend="margin-left:1em;inline">【第三會】此
+<lb ed="P" n="0473a02"/>會忉利天宮法慧菩薩說十住等法門自
+<lb ed="P" n="0473a03"/>第十六卷至十八卷共六品經<note place="inline">梵語忉利華言三十
+<lb ed="P" n="0473a04"/>三即帝釋等三十三天所居之處也十住者發心住治地住修行住生貴住方便具
+<lb ed="P" n="0473a05"/>足住正心住不退住童真住法王子住灌頂住也六品者昇須彌山頂品須彌山頂
+<lb ed="P" n="0473a06"/>偈讚品十住品梵行品初發心功德品明法品也</note>。</p><p xml:id="pP182p0473a0620" rend="margin-left:1em;inline">【第四會】此會於
+<lb ed="P" n="0473a07"/>夜摩天宮功德林菩薩說十行等法門自
+<lb ed="P" n="0473a08"/>第十九卷至二十一卷共四品經<note place="inline">梵語夜摩華言
+<lb ed="P" n="0473a09"/>善時分以此天時時唱快樂故也十行者歡喜行饒益行無嗔恨行無盡行離癡亂
+<lb ed="P" n="0473a10"/>行善現行無着行尊重行善法行真實行也四品者昇夜摩天宮品夜摩宮中偈讚
+<pb ed="P" xml:id="P182.1615.0473b" n="0473b"/>
+<lb ed="P" n="0473b01"/>品十行品十無盡藏品也</note>。</p><p xml:id="pP182p0473b0111" rend="margin-left:1em;inline">【第五會】此會兜率天宮金剛
+<lb ed="P" n="0473b02"/>幢菩薩說十迴向等法門自第二十二卷
+<lb ed="P" n="0473b03"/>至三十三卷共三品經<note place="inline">梵語兜率華言知足以此天於五欲
+<lb ed="P" n="0473b04"/>境知止足故也十迴向者救護眾生離眾生相迴向不壞迴向等一切佛迴向至一
+<lb ed="P" n="0473b05"/>切處迴向無盡功德藏迴向隨順平等善根迴向隨順等觀一切眾生迴向真如相
+<lb ed="P" n="0473b06"/>迴向無縛解脫迴向法界無量迴向也三品者兜率天宮品兜率天宮偈讚品十迴
+<lb ed="P" n="0473b07"/>向品也</note>。</p><p xml:id="pP182p0473b0704" rend="margin-left:1em;inline">【第六會】此會他化天宮金剛藏菩薩
+<lb ed="P" n="0473b08"/>說十地法門自第三十四卷至三十九卷
+<lb ed="P" n="0473b09"/>共一品經<note place="inline">他化者謂諸欲樂境不勞日化皆由他化而自在受用即他化
+<lb ed="P" n="0473b10"/>自在天也十地者歡喜地離垢地發光地<g ref="#CB08504">𦦨</g>慧地難勝地現前地遠行地不動地善
+<pb ed="P" xml:id="P182.1615.0474a" n="0474a"/>
+<lb ed="P" n="0474a01"/>慧地法雲地也品即十地品也</note>。</p><p xml:id="pP182p0474a0113" rend="margin-left:1em;inline">【第七會】此會復於普光
+<lb ed="P" n="0474a02"/>明殿毘盧遮那如來說阿僧祇數量法門
+<lb ed="P" n="0474a03"/>普賢菩薩亦說十大三昧等及等覺法門
+<lb ed="P" n="0474a04"/>自第四十卷至五十二卷共十一品經<note place="inline">梵語
+<lb ed="P" n="0474a05"/>毘盧遮那華言遍一切處梵語阿僧祇華言無數梵語三昧華言正定等覺者云復
+<lb ed="P" n="0474a06"/>妙覺佛位猶有一等勝前諸位得稱覺也十大三昧者普光大三昧妙光大三昧次
+<lb ed="P" n="0474a07"/>第遍徃諸佛國土大三昧清淨深入行大三昧知過去莊嚴藏大三昧智光明藏大
+<lb ed="P" n="0474a08"/>三昧了知一切世界佛莊嚴大三昧眾生差別身三昧法界自在大三昧無礙輪大
+<lb ed="P" n="0474a09"/>三昧也十一品者十定品十通品十忍品阿僧祇品如來壽量品諸菩薩住處品佛
+<lb ed="P" n="0474a10"/>不思議法品如來十身相海品如來隨好光明功德品普賢行品如來出現品也</note>。</p>
+<pb ed="P" xml:id="P182.1615.0474b" n="0474b"/>
+<lb ed="P" n="0474b01"/><p xml:id="pP182p0474b0101" rend="margin-left:1em">【第八會】此會復於普光明殿普賢菩薩說
+<lb ed="P" n="0474b02"/>離世間法門自第五十三卷至五十九卷
+<lb ed="P" n="0474b03"/>共一品經<note place="inline">離世間法者謂超越世間大乘之法也一品即離世間品也</note>。</p>
+<lb ed="P" n="0474b04"/><p xml:id="pP182p0474b0401" rend="margin-left:1em">【第九會】此會逝多林文殊師利菩薩等說
+<lb ed="P" n="0474b05"/>入法界法門自第六十卷至八十卷共一
+<lb ed="P" n="0474b06"/>品<note place="inline">梵語逝多華言勝林即給孤獨園也法界者交徹融攝故曰法界即諸佛平等
+<lb ed="P" n="0474b07"/>法身之理也一品即入法界品也</note>。</p></cb:def></entry>
+<lb ed="P" n="0474b08"/><entry><form>九種大禪<note place="inline">出地持經</note></form><cb:def><p xml:id="pP182p0474b0809" rend="margin-left:1em;inline">禪梵語具云禪那華言靜慮
+<lb ed="P" n="0474b09"/>謂菩薩既憑弘誓利益眾生則當進修深
+<lb ed="P" n="0474b10"/>廣大行然深廣之行莫若禪定言禪則一
+<pb ed="P" xml:id="P182.1615.0475a" n="0475a"/>
+<lb ed="P" n="0475a01"/>切皆攝所謂若諸菩薩成道轉法輪入涅
+<lb ed="P" n="0475a02"/>槃勝妙功德思惟修法利生方便皆在其
+<lb ed="P" n="0475a03"/>中是故說此九種禪定之相也<note place="inline">梵語涅槃華言滅度</note>。</p>
+<lb ed="P" n="0475a04"/><p xml:id="pP182p0475a0401" rend="margin-left:1em">【一自性禪】謂於菩薩藏聞思從前所行世
+<lb ed="P" n="0475a05"/>間出世間善一心安住或止分或觀分或俱
+<lb ed="P" n="0475a06"/>分無不攝也<note place="inline">菩薩藏者菩薩所修之法藏也聞思從前所行世間出世
+<lb ed="P" n="0475a07"/>間善者聞持思念<anchor xml:id="beg_143" type="cb-app"/>已<anchor xml:id="end_143"/>徃所行世間出世間一切善法也止分者謂攝心不散即定也
+<lb ed="P" n="0475a08"/>觀分者謂分別照了即慧也俱分者謂止觀雙修定慧平等也分者位也謂安於止
+<lb ed="P" n="0475a09"/>觀相應位分也菩薩於所修法藏聞持思念過去所行一切善法一心安住止觀平
+<lb ed="P" n="0475a10"/>等大慧利益眾生也而言自性者謂菩薩所修之禪觀心實相不從外得即本有之
+<pb ed="P" xml:id="P182.1615.0475b" n="0475b"/>
+<lb ed="P" n="0475b01"/>定也</note>。</p><p xml:id="pP182p0475b0103" rend="margin-left:1em;inline">【二一切禪】謂修此禪定則自行化他一
+<lb ed="P" n="0475b02"/>切諸法無不攝也名有三種一者現法樂
+<lb ed="P" n="0475b03"/>住禪謂離一切妄想身心止息第一寂滅
+<lb ed="P" n="0475b04"/>捨離味著及一切相現得法喜之樂而住
+<lb ed="P" n="0475b05"/>於定也二者出生三昧功德禪謂出生種
+<lb ed="P" n="0475b06"/>種不可思議無量無數一切三昧功德也
+<lb ed="P" n="0475b07"/>三者利益眾生禪謂眾生所作皆與同
+<lb ed="P" n="0475b08"/>事復以法義開導饒益莫不令其離苦
+<lb ed="P" n="0475b09"/>得樂也<note place="inline">捨離味著及一切相者謂內於禪定之味外及一切諸相心能捨離
+<lb ed="P" n="0475b10"/>而不樂著也梵語三昧華言正定同事者謂隨諸眾生同其行事而饒益之也</note>。</p><p xml:id="pP182p0475b1031" rend="margin-left:1em;inline">【三
+<pb ed="P" xml:id="P182.1615.0476a" n="0476a"/>
+<lb ed="P" n="0476a01"/>難禪】難禪者謂此禪定不易修也名有三
+<lb ed="P" n="0476a02"/>種第一難禪謂久習勝妙禪定於諸三昧
+<lb ed="P" n="0476a03"/>心得自在哀愍眾生欲令成就捨第一禪樂
+<lb ed="P" n="0476a04"/>而生欲界也第二難禪謂依此定出生無
+<lb ed="P" n="0476a05"/>量無邊不可思議諸深三昧出過聲聞辟
+<lb ed="P" n="0476a06"/>支佛上也第三難禪謂依此定得無上菩
+<lb ed="P" n="0476a07"/>提也<note place="inline">第一禪樂者即勝妙禪定之樂也辟支梵語具云辟支迦羅華言緣覺梵
+<lb ed="P" n="0476a08"/>語菩提華言道</note>。</p><p xml:id="pP182p0476a0807" rend="margin-left:1em;inline">【四一切門禪】門即出入之義謂一
+<lb ed="P" n="0476a09"/>切禪定皆由此門而出名有四種一者有
+<lb ed="P" n="0476a10"/>覺有觀禪謂初心在緣名覺細心分別禪
+<pb ed="P" xml:id="P182.1615.0476b" n="0476b"/>
+<lb ed="P" n="0476b01"/>味曰觀即色界初禪定也二者喜俱禪謂
+<lb ed="P" n="0476b02"/>得此禪定喜心共發即第二禪也三者樂
+<lb ed="P" n="0476b03"/>俱禪謂得此禪定則發勝妙之樂即第三
+<lb ed="P" n="0476b04"/>禪也四者捨俱禪謂入此禪則心平等而
+<lb ed="P" n="0476b05"/>無善惡憎愛之意即第四禪也。</p><p xml:id="pP182p0476b0513" rend="margin-left:1em;inline">【五善人禪】
+<lb ed="P" n="0476b06"/>謂一切善法無所不攝乃大善根眾生之
+<lb ed="P" n="0476b07"/>所共修名有五種一者不味著謂於禪定
+<lb ed="P" n="0476b08"/>之味不樂著也二者慈心俱謂愛念眾生
+<lb ed="P" n="0476b09"/>之心與禪俱發也三者悲心俱謂悲愍眾
+<lb ed="P" n="0476b10"/>生之心與禪俱發也四者喜心俱謂歡喜
+<pb ed="P" xml:id="P182.1615.0477a" n="0477a"/>
+<lb ed="P" n="0477a01"/>眾生離苦得樂之心與禪俱發也五者捨
+<lb ed="P" n="0477a02"/>心俱謂無憎無愛平等之心與禪俱發也。</p>
+<lb ed="P" n="0477a03"/><p xml:id="pP182p0477a0301" rend="margin-left:1em">【六一切行禪】謂大乘一切行法無不含
+<lb ed="P" n="0477a04"/>攝名有十三種一者善禪謂此禪定能
+<lb ed="P" n="0477a05"/>攝一切善法也二者無記化化禪謂不待
+<lb ed="P" n="0477a06"/>作意思惟自然能於定中作種種變化而
+<lb ed="P" n="0477a07"/>無窮也三者止分禪謂攝心不散與定相
+<lb ed="P" n="0477a08"/>應也四者觀分禪謂分別照了與慧相應
+<lb ed="P" n="0477a09"/>也五者自他利禪謂正定現前則能自利
+<lb ed="P" n="0477a10"/>利他也六者正念禪謂於定中正念思惟
+<pb ed="P" xml:id="P182.1615.0477b" n="0477b"/>
+<lb ed="P" n="0477b01"/>無諸雜想也七者出生神通力功德禪謂
+<lb ed="P" n="0477b02"/>得此大定則一切神通功德悉皆由之而
+<lb ed="P" n="0477b03"/>出生也八者名緣禪謂於一切諸法名相因
+<lb ed="P" n="0477b04"/>緣悉得通達無礙也九者義緣禪謂於一
+<lb ed="P" n="0477b05"/>切諸法義理因緣悉能通達曉了也十者
+<lb ed="P" n="0477b06"/>止相緣禪謂於寂靜因緣之相圓明洞徹
+<lb ed="P" n="0477b07"/>永離一切散亂也十一者舉相緣禪謂能
+<lb ed="P" n="0477b08"/>照了諸法起滅因緣悉皆清淨無礙也十
+<lb ed="P" n="0477b09"/>二者捨相緣禪謂於一切善惡法相因緣
+<lb ed="P" n="0477b10"/>悉皆捨離清淨而無染着也十三者現法
+<pb ed="P" xml:id="P182.1615.0478a" n="0478a"/>
+<lb ed="P" n="0478a01"/>樂住第一義禪謂因此定現得法喜之
+<lb ed="P" n="0478a02"/>樂而安住於第一義也<note place="inline">第一義者謂實相中道之理無二無
+<lb ed="P" n="0478a03"/>別也</note>。</p><p xml:id="pP182p0478a0303" rend="margin-left:1em;inline">【七除惱禪】謂修此禪定能除滅眾生種
+<lb ed="P" n="0478a04"/>種苦惱名有八種一者呪術所依禪謂因
+<lb ed="P" n="0478a05"/>此定能以呪術之力除諸毒害霜雹寒熱
+<lb ed="P" n="0478a06"/>鬼病一切苦患也二者除病禪謂因此定
+<lb ed="P" n="0478a07"/>能除地水火風四大所起眾病也三者雲
+<lb ed="P" n="0478a08"/>雨禪謂因此定能興致甘雨消滅灾旱救
+<lb ed="P" n="0478a09"/>諸饑饉也四者等度禪謂因此定能濟諸
+<lb ed="P" n="0478a10"/>恐難及一切水陸人非人怖也五者饒益
+<pb ed="P" xml:id="P182.1615.0478b" n="0478b"/>
+<lb ed="P" n="0478b01"/>禪謂因此定能以飲食饒益曠野飢渴眾
+<lb ed="P" n="0478b02"/>生也六者調伏禪謂因此定能以財物調
+<lb ed="P" n="0478b03"/>伏眾生也七者開覺禪謂因此定能覺悟
+<lb ed="P" n="0478b04"/>迷惑眾生也八者等作禪謂因此定能令
+<lb ed="P" n="0478b05"/>眾生所作悉皆成就也<note place="inline">非人者即龍鬼之類也</note>。</p><p xml:id="pP182p0478b0519" rend="margin-left:1em;inline">【八此
+<lb ed="P" n="0478b06"/>世他世樂禪】謂修此禪定能令眾生悉得
+<lb ed="P" n="0478b07"/>現在未來一切之樂名有九種一者神足
+<lb ed="P" n="0478b08"/>變現調伏眾生禪謂因此定而能變現種
+<lb ed="P" n="0478b09"/>種神足通力調伏一切眾生也二者隨說
+<lb ed="P" n="0478b10"/>調伏眾生禪謂因此定而能隨順說法調
+<pb ed="P" xml:id="P182.1615.0479a" n="0479a"/>
+<lb ed="P" n="0479a01"/>伏一切眾生也三者教誡變現調伏眾生
+<lb ed="P" n="0479a02"/>禪謂因此定能以正法教誨誡諭調伏一
+<lb ed="P" n="0479a03"/>切眾生也四者為惡眾生示惡趣禪謂因
+<lb ed="P" n="0479a04"/>此定能為惡業眾生示現修羅餓鬼畜生
+<lb ed="P" n="0479a05"/>地獄等趣令其改惡遷善也五者失辯眾
+<lb ed="P" n="0479a06"/>生以辯饒益禪謂因此足而於眾生不能
+<lb ed="P" n="0479a07"/>辯說正法者即以辯才而饒益之令其心
+<lb ed="P" n="0479a08"/>識開悟也六者失念眾生以念饒益禪謂
+<lb ed="P" n="0479a09"/>因此定而於眾生失正念者能以正念而
+<lb ed="P" n="0479a10"/>饒益之令其邪見不生也七者造不顛倒
+<pb ed="P" xml:id="P182.1615.0479b" n="0479b"/>
+<lb ed="P" n="0479b01"/>論微妙讚頌摩得勒伽為令正法久住世
+<lb ed="P" n="0479b02"/>禪謂因此定開發妙慧心不顛倒能造微
+<lb ed="P" n="0479b03"/>妙讚頌摩得勒伽之論而令正法流通久
+<lb ed="P" n="0479b04"/>住於世也八者世間技術義饒益攝取眾
+<lb ed="P" n="0479b05"/>生禪謂因此定能以書數筭計資生方法
+<lb ed="P" n="0479b06"/>如是等種種眾具攝取饒益一切眾生也
+<lb ed="P" n="0479b07"/>九者暫息惡趣放光明禪謂因此定放大
+<lb ed="P" n="0479b08"/>光明暫令修羅等趣息其苦惱也<note place="inline">神定者謂神通
+<lb ed="P" n="0479b09"/>滿足也梵語摩得勒伽亦云摩怛理伽華言本母即論名謂能興立教義為本為母
+<lb ed="P" n="0479b10"/>故也</note>。</p><p xml:id="pP182p0479b1003" rend="margin-left:1em;inline">【九清淨淨禪】謂依此禪定一切煩惱惑
+<pb ed="P" xml:id="P182.1615.0480a" n="0480a"/>
+<lb ed="P" n="0480a01"/>業悉皆斷盡即得大菩提清淨之果名為
+<lb ed="P" n="0480a02"/>清淨重言淨者以清淨之相亦不可得也
+<lb ed="P" n="0480a03"/>名有十種一者世間清淨淨不味不染污
+<lb ed="P" n="0480a04"/>禪謂依此定於一切天人所修世間禪定
+<lb ed="P" n="0480a05"/>悉不味著亦不見有染污之相名為清淨
+<lb ed="P" n="0480a06"/>重言淨者以此淨相亦不可得也二者出
+<lb ed="P" n="0480a07"/>世間清淨淨禪謂依此定於一切聲聞緣
+<lb ed="P" n="0480a08"/>覺所修出世間禪定悉無染礙名為清淨
+<lb ed="P" n="0480a09"/>重言淨者以此淨相亦不可得也三者方
+<lb ed="P" n="0480a10"/>便清淨淨禪謂依此定能善巧方便演說
+<pb ed="P" xml:id="P182.1615.0480b" n="0480b"/>
+<lb ed="P" n="0480b01"/>無量妙法化度一切眾生悉無染礙名為
+<lb ed="P" n="0480b02"/>清淨重言淨者以此淨相了不可得也四
+<lb ed="P" n="0480b03"/>者根本清淨淨禪謂依此定於色界四禪
+<lb ed="P" n="0480b04"/>根本之定悉無染礙名為清淨重言淨者
+<lb ed="P" n="0480b05"/>以此淨相亦不可得也五者根本上勝進
+<lb ed="P" n="0480b06"/>清淨淨禪謂依此定於色界四禪根本雖
+<lb ed="P" n="0480b07"/>得最上殊勝增進之定悉無染礙名為清
+<lb ed="P" n="0480b08"/>淨重言淨者以此淨相亦不可得也六者
+<lb ed="P" n="0480b09"/>入住起力清淨淨禪謂依此定或入或住
+<lb ed="P" n="0480b10"/>或起力用自在無染無礙名為清淨重言
+<pb ed="P" xml:id="P182.1615.0481a" n="0481a"/>
+<lb ed="P" n="0481a01"/>淨者以此淨相亦不可得也七者捨復入
+<lb ed="P" n="0481a02"/>力清淨淨禪謂依此定捨而復入力用自
+<lb ed="P" n="0481a03"/>在無染無礙名為清淨重言淨者以此淨
+<lb ed="P" n="0481a04"/>相亦不可得也八者神通所作力清淨淨
+<lb ed="P" n="0481a05"/>禪謂依此定能以種種神通力用變現自
+<lb ed="P" n="0481a06"/>在利益一切悉無染礙名為清淨重言淨
+<lb ed="P" n="0481a07"/>者以此淨相亦不可得也九者離一切見
+<lb ed="P" n="0481a08"/>清淨淨禪謂依此定而於斷常有無一切
+<lb ed="P" n="0481a09"/>諸見悉皆遠離而無染礙名為清淨重言
+<lb ed="P" n="0481a10"/>淨者以此淨相亦不可得也十者煩惱智
+<pb ed="P" xml:id="P182.1615.0481b" n="0481b"/>
+<lb ed="P" n="0481b01"/>障斷清淨淨禪謂依此定於見思等諸
+<lb ed="P" n="0481b02"/>煩惱惑及障理之智皆<anchor xml:id="beg_144" type="cb-app"/>已<anchor xml:id="end_144"/>斷滅悉無染礙
+<lb ed="P" n="0481b03"/>名為清淨重言淨者以此淨相亦不可得
+<lb ed="P" n="0481b04"/>也<note place="inline">四禪者初禪二禪三禪四禪也根本定者謂四禪之定為諸禪之根本能出生
+<lb ed="P" n="0481b05"/>一切禪定也斷常者謂外道妄計此身滅<anchor xml:id="beg_145" type="cb-app"/>已<anchor xml:id="end_145"/>更不再生名斷見復計此身滅<anchor xml:id="beg_146" type="cb-app"/>已<anchor xml:id="end_146"/>還生
+<lb ed="P" n="0481b06"/>名常見也障理之智者謂聲聞雖得人空之智若大乘菩薩以此智即是障理之惑
+<lb ed="P" n="0481b07"/>故也</note>。</p></cb:def></entry>
+<lb ed="P" n="0481b08"/><entry><form>九次第定<note place="inline">出法界次第</note></form><cb:def><p xml:id="pP182p0481b0810" rend="margin-left:1em;inline">九者自初禪至滅受想定
+<lb ed="P" n="0481b09"/>凡九種也次第者謂人若入禪時智慧深
+<lb ed="P" n="0481b10"/>利能從一禪又入一禪如是次第而入心
+<pb ed="P" xml:id="P182.1615.0482a" n="0482a"/>
+<lb ed="P" n="0482a01"/>心相續不生異念無間無雜定者攝心不
+<lb ed="P" n="0482a02"/>亂也。</p><p xml:id="pP182p0482a0203" rend="margin-left:1em;inline">【初禪次第定】謂人修禪定離欲界惡
+<lb ed="P" n="0482a03"/>不善法有覺有觀離生喜樂定觀均齊其
+<lb ed="P" n="0482a04"/>心次第而入無有雜念間隔也<note place="inline">有覺有觀者初心在
+<lb ed="P" n="0482a05"/>緣曰覺細心分別禪味曰觀即是初禪之定相離生喜樂者慶恱之心名為喜恬淡
+<lb ed="P" n="0482a06"/>之心名為樂初禪既離欲界惡不善法故生此喜樂也定觀均齊者觀即是慧所謂
+<lb ed="P" n="0482a07"/>定慧平等也</note>。</p><p xml:id="pP182p0482a0706" rend="margin-left:1em;inline">【二禪次第定】謂人修禪定從初禪
+<lb ed="P" n="0482a08"/>入二禪時一心無覺無觀定生喜樂其心
+<lb ed="P" n="0482a09"/>次第而入無有雜念間隔也<note place="inline">無覺無觀者既入二禪即
+<lb ed="P" n="0482a10"/>離初禪覺觀動散也定生喜樂者既無覺觀攝心在定則生喜樂此即二禪之定相
+<pb ed="P" xml:id="P182.1615.0482b" n="0482b"/>
+<lb ed="P" n="0482b01"/>也</note>。</p><p xml:id="pP182p0482b0102" rend="margin-left:1em;inline">【三禪次第定】謂人修禪定從二禪入三
+<lb ed="P" n="0482b02"/>禪時離喜行捨而受身樂唯聖人能說而
+<lb ed="P" n="0482b03"/>復捨念行樂其心次第而入無有雜念間
+<lb ed="P" n="0482b04"/>隔也<note place="inline">離喜行捨者謂厭離二禪大喜動散攝心不受也受身樂者既離二禪之
+<lb ed="P" n="0482b05"/>喜而身受三禪之樂也聖人能說者此樂極勝超過一切喜樂非凡夫所知也捨念
+<lb ed="P" n="0482b06"/>行樂者謂能捨二禪之喜念而行三禪之樂也</note>。</p><p xml:id="pP182p0482b0619" rend="margin-left:1em;inline">【四禪次第定】謂人
+<lb ed="P" n="0482b07"/>修禪定從三禪入四禪時斷喜樂故不喜
+<lb ed="P" n="0482b08"/>不樂其心次第而入無有雜念間隔也<note place="inline">斷喜
+<lb ed="P" n="0482b09"/>樂者謂斷二禪之喜及三禪之樂也不喜不樂者謂心無善惡寂然平等即是四禪
+<lb ed="P" n="0482b10"/>之定相也</note>。</p><p xml:id="pP182p0482b1005" rend="margin-left:1em;inline">【五虛空處次第定】謂人修禪定從色
+<pb ed="P" xml:id="P182.1615.0483a" n="0483a"/>
+<lb ed="P" n="0483a01"/>界入無色界則滅一切色相不念種種異
+<lb ed="P" n="0483a02"/>相入無邊虛空處其心次第而入無有雜
+<lb ed="P" n="0483a03"/>念間隔也<note place="inline">滅一切色相者謂滅根境可見可對一切色相也既得四禪定
+<lb ed="P" n="0483a04"/><anchor xml:id="beg_147" type="cb-app"/>已<anchor xml:id="end_147"/>猶厭色界色質為礙不得自在於是心求出離滅一切色相而修虛空處定心與
+<lb ed="P" n="0483a05"/>虛空之法相應則不念種種異相也</note>。</p><p xml:id="pP182p0483a0515" rend="margin-left:1em;inline">【六識處次第定】謂人修
+<lb ed="P" n="0483a06"/>禪定既得虛空處定<anchor xml:id="beg_148" type="cb-app"/>已<anchor xml:id="end_148"/>心緣虛空虛空無邊
+<lb ed="P" n="0483a07"/>緣多則散能破於定即捨虛空轉心緣識心
+<lb ed="P" n="0483a08"/>與識法相應則過一切無邊虛空處入一
+<lb ed="P" n="0483a09"/>切無邊識處其心次第而入無有雜念間
+<lb ed="P" n="0483a10"/>隔也<note place="inline">過一切無邊虛空處者既入識處則超過虛空處也</note>。</p><p xml:id="pP182p0483a1023" rend="margin-left:1em;inline">【七無所有
+<pb ed="P" xml:id="P182.1615.0483b" n="0483b"/>
+<lb ed="P" n="0483b01"/>處次第定】無所有處者即不緣一切內外
+<lb ed="P" n="0483b02"/>境界也謂人修禪定既得識處定<anchor xml:id="beg_149" type="cb-app"/>已<anchor xml:id="end_149"/>三世
+<lb ed="P" n="0483b03"/>心識無量無邊緣多則散能破於定即捨
+<lb ed="P" n="0483b04"/>所緣之識轉心緣無所有處其心次第而
+<lb ed="P" n="0483b05"/>入無有雜念間隔也<note place="inline">內外境者內即識處外即虛空處也三世
+<lb ed="P" n="0483b06"/>者過去現在未來也</note>。</p><p xml:id="pP182p0483b0609" rend="margin-left:1em;inline">【八非想非非想次第定】非想者
+<lb ed="P" n="0483b07"/>非識處之有想也非非想者非無所有處
+<lb ed="P" n="0483b08"/>之無想也謂人修禪定既得無所有處定
+<lb ed="P" n="0483b09"/><anchor xml:id="beg_14a" type="cb-app"/>已<anchor xml:id="end_14a"/>深知無想處如癡有想處如癰如瘡即
+<lb ed="P" n="0483b10"/>捨無所有處緣念非有想非無想之法其
+<pb ed="P" xml:id="P182.1615.0484a" n="0484a"/>
+<lb ed="P" n="0484a01"/>心次第而入無有雜念間隔也<note place="inline">如癡者<g ref="#CB21906">𨐫</g>無心想也
+<lb ed="P" n="0484a02"/>如癰如瘡者有痛即覺譬有心想也</note>。</p><p xml:id="pP182p0484a0215" rend="margin-left:1em;inline">【九滅受想次第定】滅受
+<lb ed="P" n="0484a03"/>想者即受想心滅而不復起也謂人修禪
+<lb ed="P" n="0484a04"/>定從非有想非無想入滅受想定時其心
+<lb ed="P" n="0484a05"/>明利次第而入無有雜念間隔是為滅受
+<lb ed="P" n="0484a06"/>想次第定若得此定不久即證阿羅漢果
+<lb ed="P" n="0484a07"/>也<note place="inline">梵語阿羅漢華言無學又云無生</note>。</p></cb:def></entry>
+<lb ed="P" n="0484a08"/><entry><form>九識<note place="inline">出宗鏡錄</note></form><cb:def><p xml:id="pP182p0484a0807" rend="margin-left:1em;inline">識以了別為義謂能照了分別一
+<lb ed="P" n="0484a09"/>切諸法故也。</p><p xml:id="pP182p0484a0906" rend="margin-left:1em;inline">【一眼識】謂眼與色為緣而生
+<lb ed="P" n="0484a10"/>眼識眼識依根而生眼根因識能見是能
+<pb ed="P" xml:id="P182.1615.0484b" n="0484b"/>
+<lb ed="P" n="0484b01"/>見者名為眼識。</p><p xml:id="pP182p0484b0107" rend="margin-left:1em;inline">【二耳識】謂耳與聲為緣而
+<lb ed="P" n="0484b02"/>生耳識耳識依根而生耳根因識能聽是
+<lb ed="P" n="0484b03"/>能聽者名為耳識。</p><p xml:id="pP182p0484b0308" rend="margin-left:1em;inline">【三鼻識】謂鼻與香為緣
+<lb ed="P" n="0484b04"/>而生鼻識鼻識依根而生鼻根因識能齅
+<lb ed="P" n="0484b05"/>是能齅者名為鼻識。</p><p xml:id="pP182p0484b0509" rend="margin-left:1em;inline">【四舌識】謂舌與味為
+<lb ed="P" n="0484b06"/>緣而生舌識舌識依根而生舌根因識能
+<lb ed="P" n="0484b07"/>嘗是能嘗者名為舌識。</p><p xml:id="pP182p0484b0710" rend="margin-left:1em;inline">【五身識】謂身與觸
+<lb ed="P" n="0484b08"/>為緣而生身識身識依根而生身根因識
+<lb ed="P" n="0484b09"/>能覺是能覺者名為身識。</p><p xml:id="pP182p0484b0911" rend="margin-left:1em;inline">【六意識】謂意
+<lb ed="P" n="0484b10"/>法為緣而生意識意識依根而生意根因
+<pb ed="P" xml:id="P182.1615.0485a" n="0485a"/>
+<lb ed="P" n="0485a01"/>識即能分別以能分別前五根所緣色等
+<lb ed="P" n="0485a02"/>五塵境界是名意識若斷此識即成聲聞
+<lb ed="P" n="0485a03"/>緣覺<note place="inline">五根者即眼根耳根鼻根舌根身根也五塵者即色塵聲塵香塵味塵觸
+<lb ed="P" n="0485a04"/>塵也</note>。</p><p xml:id="pP182p0485a0403" rend="margin-left:1em;inline">【七末那識】梵語末那華言意亦名相續
+<lb ed="P" n="0485a05"/>識又名分別識此識本無定體即第八識
+<lb ed="P" n="0485a06"/>之染分依第八識自證分而生緣第八識
+<lb ed="P" n="0485a07"/>見分而執為我為第六識之主執轉第六
+<lb ed="P" n="0485a08"/>識所緣善惡之境而成染淨皆由此識也
+<lb ed="P" n="0485a09"/>前第六識名意識今此識亦名意者謂第
+<lb ed="P" n="0485a10"/>六識依根而得名此識當體而立號第六
+<pb ed="P" xml:id="P182.1615.0485b" n="0485b"/>
+<lb ed="P" n="0485b01"/>識雖能分別五塵好惡而由此識傳送相
+<lb ed="P" n="0485b02"/>續也若斷此識即成菩薩<note place="inline">依根者根即意根也當體者即
+<lb ed="P" n="0485b03"/>分別之體也</note>。</p><p xml:id="pP182p0485b0306" rend="margin-left:1em;inline">【八阿頼耶識】梵語阿頼耶華言藏
+<lb ed="P" n="0485b04"/>識此識染淨同源生滅和合而具有四分
+<lb ed="P" n="0485b05"/>如摩尼珠體本清淨又如明鏡能含萬像
+<lb ed="P" n="0485b06"/>若以染分言之無明依之而起結業由此
+<lb ed="P" n="0485b07"/>而生具足煩惱塵勞變現根身世界即前
+<lb ed="P" n="0485b08"/>七種識境皆是也若以淨體言之即本覺
+<lb ed="P" n="0485b09"/>心源離念清淨等虛空界即後之菴摩
+<lb ed="P" n="0485b10"/>羅識是也無法不含無事不攝是名藏識
+<pb ed="P" xml:id="P182.1615.0486a" n="0486a"/>
+<lb ed="P" n="0486a01"/>若轉此識即成佛果<note place="inline">四分者一相分相即形相謂此識能變現
+<lb ed="P" n="0486a02"/>根身世界及諸法名義相狀皆由第八識此分而生如鏡中所現之影像也二見分
+<lb ed="P" n="0486a03"/>見即照了之義謂此識能照燭一切諸法及解了諸法義理如鏡中之明能照萬像
+<lb ed="P" n="0486a04"/>也三自證分自證取具之法謂此識能持見分相分親證無礙如鏡之圓體常持其
+<lb ed="P" n="0486a05"/>明能含眾像也四證自證分證即能證之體自證即所具之法能持前自證分見分
+<lb ed="P" n="0486a06"/>相分皆不離此分是第八識本體如鏡之背也梵語摩尼華言離垢根身者眼等諸
+<lb ed="P" n="0486a07"/>根色身也</note>。</p><p xml:id="pP182p0486a0705" rend="margin-left:1em;inline">【九菴摩羅識】梵語菴摩羅華言清淨識
+<lb ed="P" n="0486a08"/>亦云白淨無垢識此識乃一切眾生清淨
+<lb ed="P" n="0486a09"/>本源心地諸佛如來所證法身果德在聖
+<lb ed="P" n="0486a10"/>不增在凡不減非生死之能覊非涅槃之
+<pb ed="P" xml:id="P182.1615.0486b" n="0486b"/>
+<lb ed="P" n="0486b01"/>能寂染淨俱泯纖塵不立明同皎月湛若
+<lb ed="P" n="0486b02"/>太虛是名清淨識<note place="inline">梵語涅槃華言滅度</note>。</p></cb:def></entry>
+<lb ed="P" n="0486b03"/><entry><form>九緣生識<note place="inline">出成唯識論并宗鏡錄</note></form><cb:def><p xml:id="pP182p0486b0314" rend="margin-left:1em;inline">緣即助成之義九緣
+<lb ed="P" n="0486b04"/>生識者謂明空根境等九種之緣生眼耳
+<lb ed="P" n="0486b05"/>鼻舌等八種之識也以眼耳鼻舌身五識
+<lb ed="P" n="0486b06"/>依第八識相分建立由第八識種子而生
+<lb ed="P" n="0486b07"/>攬明空諸境而為相也第六識緣第八識
+<lb ed="P" n="0486b08"/>相分而得生取五塵境界而分別依第七
+<lb ed="P" n="0486b09"/>識而能執取也第七識緣第八識見分而
+<lb ed="P" n="0486b10"/>得起轉第六識染淨而為依也第八識為
+<pb ed="P" xml:id="P182.1615.0487a" n="0487a"/>
+<lb ed="P" n="0487a01"/>眾識之根本含諸法之種子依第七識而
+<lb ed="P" n="0487a02"/>能轉托五根識而為相也由是而知識藉
+<lb ed="P" n="0487a03"/>緣生緣因識有更互為依<g ref="#CB06171">󱠛</g>相倚托而有
+<lb ed="P" n="0487a04"/>多少不同故言九緣生識也<note place="inline">相分者相即形相分謂分
+<lb ed="P" n="0487a05"/>齊謂世間種種色像境界凡有名相者皆是第八識之相分也五塵者色塵聲塵香
+<lb ed="P" n="0487a06"/>塵味塵觸塵也</note>。</p><p xml:id="pP182p0487a0607" rend="margin-left:1em;inline">【一明緣】明者日月之光能顯諸色
+<lb ed="P" n="0487a07"/>相也謂眼因明而見無明則不能發於眼
+<lb ed="P" n="0487a08"/>識故明為眼識之緣也。</p><p xml:id="pP182p0487a0810" rend="margin-left:1em;inline">【二空緣】空者蕩然
+<lb ed="P" n="0487a09"/>無礙而能顯諸色相也謂眼以空而能見
+<lb ed="P" n="0487a10"/>耳以空而能聞無空則不能發眼耳之識
+<pb ed="P" xml:id="P182.1615.0487b" n="0487b"/>
+<lb ed="P" n="0487b01"/>故空為眼識耳識之緣也。</p><p xml:id="pP182p0487b0111" rend="margin-left:1em;inline">【三根緣】根者眼
+<lb ed="P" n="0487b02"/>耳鼻舌身五根也謂眼識依眼根而能
+<lb ed="P" n="0487b03"/>見耳識依耳根而能聞鼻識依鼻根而
+<lb ed="P" n="0487b04"/>能齅舌識依舌根而能嘗身識依身根
+<lb ed="P" n="0487b05"/>而能覺若無五根則五識無所依故五根
+<lb ed="P" n="0487b06"/>為五識之緣也。</p><p xml:id="pP182p0487b0607" rend="margin-left:1em;inline">【四境緣】境者色聲香味觸
+<lb ed="P" n="0487b07"/>五塵之境也謂眼等五根雖具見聞齅嘗
+<lb ed="P" n="0487b08"/>覺等五識若無色等五種塵境作對則五
+<lb ed="P" n="0487b09"/>識無由能發故境為五識之緣也<note place="inline">五識者眼識耳
+<lb ed="P" n="0487b10"/>識鼻識舌識身識也</note>。</p><p xml:id="pP182p0487b1009" rend="margin-left:1em;inline">【五作意緣】作意者即心所法有
+<pb ed="P" xml:id="P182.1615.0488a" n="0488a"/>
+<lb ed="P" n="0488a01"/>警察之義謂如眼初對色時便能覺察引
+<lb ed="P" n="0488a02"/>領趣境使第六識即起分別善惡之念及
+<lb ed="P" n="0488a03"/>耳鼻舌身初對境時亦能如是覺察引領
+<lb ed="P" n="0488a04"/>是以遍行一切識境皆由作意故作意為
+<lb ed="P" n="0488a05"/>眼等六識之緣也<note place="inline">心所者受想行也六識者眼識耳識鼻識舌識
+<lb ed="P" n="0488a06"/>身識意識也</note>。</p><p xml:id="pP182p0488a0606" rend="margin-left:1em;inline">【六根本依緣】根本即第八阿頼耶
+<lb ed="P" n="0488a07"/>識依即倚託也謂第八識是諸識之根本
+<lb ed="P" n="0488a08"/>眼等六識依第八識相分而得生第八識
+<lb ed="P" n="0488a09"/>相分託眼等六識而得起故根本依為六
+<lb ed="P" n="0488a10"/>識及第八識之緣也<note place="inline">梵語阿頼耶華言藏識</note>。</p><p xml:id="pP182p0488a1018" rend="margin-left:1em;inline">【七染淨
+<pb ed="P" xml:id="P182.1615.0488b" n="0488b"/>
+<lb ed="P" n="0488b01"/>依緣】染淨依者即第七末那識也謂一切
+<lb ed="P" n="0488b02"/>染淨諸法皆依此識而轉也謂眼耳等六
+<lb ed="P" n="0488b03"/>識於色聲等六塵境上起諸煩惱惑業則
+<lb ed="P" n="0488b04"/>轉此煩惱染法歸於第八識而成有漏若
+<lb ed="P" n="0488b05"/>六識修諸道品白淨之業則轉此道品淨
+<lb ed="P" n="0488b06"/>法歸於第八識而成無漏故名染淨依也
+<lb ed="P" n="0488b07"/>然此第七識亦依第八識而能轉第八識
+<lb ed="P" n="0488b08"/>依第七識而隨緣更互為依<g ref="#CB06171">󱠛</g>相倚託故
+<lb ed="P" n="0488b09"/>染淨依為眼等八種識之緣也<note place="inline">梵語末那華言意八
+<lb ed="P" n="0488b10"/>種識者眼識耳識鼻識舌識身識意識第七識第八識也</note>。</p><p xml:id="pP182p0488b1023" rend="margin-left:1em;inline">【八分別依緣】
+<pb ed="P" xml:id="P182.1615.0489a" n="0489a"/>
+<lb ed="P" n="0489a01"/>分別者即第六識也此識能分別善惡有
+<lb ed="P" n="0489a02"/>漏無漏色心諸法以眼等五根雖能取境
+<lb ed="P" n="0489a03"/>然皆依此識而有分別也是知五根境之
+<lb ed="P" n="0489a04"/>好惡由分別而生第七識之染淨由分別
+<lb ed="P" n="0489a05"/>而知第八識之相分由分別而顯故分別
+<lb ed="P" n="0489a06"/>依為眼等八種識之緣也。</p><p xml:id="pP182p0489a0611" rend="margin-left:1em;inline">【九種子緣】種子
+<lb ed="P" n="0489a07"/>即眼等八種識之種子也謂眼識依眼根
+<lb ed="P" n="0489a08"/>種子而能見色耳識依耳根種子而能聞
+<lb ed="P" n="0489a09"/>聲鼻識依鼻根種子而能聞香舌識依
+<lb ed="P" n="0489a10"/>舌根種子而能嘗味身識依身根種子而
+<pb ed="P" xml:id="P182.1615.0489b" n="0489b"/>
+<lb ed="P" n="0489b01"/>能覺觸意識依意根種子而能分別第
+<lb ed="P" n="0489b02"/>七識依染淨種子而能相續第八識依含
+<lb ed="P" n="0489b03"/>藏種子而能出生一切諸法以諸識各依
+<lb ed="P" n="0489b04"/>種子而生故種子為眼根等諸識之緣也。</p></cb:def></entry>
+<lb ed="P" n="0489b05"/><entry><form>如來藏九喻<note place="inline">出寶性論</note></form><cb:def><p xml:id="pP182p0489b0510" rend="margin-left:1em;inline">如來藏即是眾生本
+<lb ed="P" n="0489b06"/>源清淨心地諸佛法身之果德也具足諸
+<lb ed="P" n="0489b07"/>法包含萬像諸佛證此藏心利益羣生
+<lb ed="P" n="0489b08"/>應用無盡眾生迷此藏心常為無明煩惱
+<lb ed="P" n="0489b09"/>障覆業惑之所纏縛而不能證得佛令
+<lb ed="P" n="0489b10"/>眾生修行一切善法斷除煩惱無明顯出
+<pb ed="P" xml:id="P182.1615.0490a" n="0490a"/>
+<lb ed="P" n="0490a01"/>自<anchor xml:id="beg_14b" type="cb-app"/>己<anchor xml:id="end_14b"/>如來藏清淨法身之體故說此九
+<lb ed="P" n="0490a02"/>種譬喻也<note place="inline">無所明了故曰無明昏煩之法惱亂心神故曰煩惱</note>。</p><p xml:id="pP182p0490a0225" rend="margin-left:1em;inline">【一萎
+<lb ed="P" n="0490a03"/>華佛身喻】萎枯顇也萎華譬無明煩惱
+<lb ed="P" n="0490a04"/>佛身譬如來藏也謂一切眾生煩惱身中
+<lb ed="P" n="0490a05"/>本有功德莊嚴如來藏身而為無明貪惑
+<lb ed="P" n="0490a06"/>所覆而不能見也論云功德莊嚴佛住在
+<lb ed="P" n="0490a07"/>萎華中是也。</p><p xml:id="pP182p0490a0706" rend="margin-left:1em;inline">【二巖蜂淳蜜喻】巖蜂譬煩惱
+<lb ed="P" n="0490a08"/>蜜以譬如來藏謂蜂為人所觸則放毒螫
+<lb ed="P" n="0490a09"/>人為境所逆則生嗔害也盖一切眾生如
+<lb ed="P" n="0490a10"/>來藏中具有功德法味而為無明嗔恚之
+<pb ed="P" xml:id="P182.1615.0490b" n="0490b"/>
+<lb ed="P" n="0490b01"/>所纏繞不得其用猶彼淳美之蜜而為群
+<lb ed="P" n="0490b02"/>蜂之所圍遶而不能得其味也論云上妙
+<lb ed="P" n="0490b03"/>羙味蜜為群蜂圍遶是也。</p><p xml:id="pP182p0490b0311" rend="margin-left:1em;inline">【三糠<g ref="#CB00712">𥢶</g>稉米喻】糠
+<lb ed="P" n="0490b04"/>穀皮<g ref="#CB00712">𥢶</g>糠之麤者譬煩惱也稉米譬如來
+<lb ed="P" n="0490b05"/>藏法身之體也盖如來藏法身之體隱在眾
+<lb ed="P" n="0490b06"/>生無明癡惑之中不得受用猶粳米在糠
+<lb ed="P" n="0490b07"/><g ref="#CB00712">𥢶</g>之內而不可充食也論云糓實在<g ref="#CB00712">𥢶</g>中
+<lb ed="P" n="0490b08"/>無人能受用是也。</p><p xml:id="pP182p0490b0808" rend="margin-left:1em;inline">【四糞穢真金喻】糞穢譬
+<lb ed="P" n="0490b09"/>煩惱真金譬如來藏性謂法身本淨猶如
+<lb ed="P" n="0490b10"/>真金為煩惱糞穢覆污而不明潔盖一切
+<pb ed="P" xml:id="P182.1615.0491a" n="0491a"/>
+<lb ed="P" n="0491a01"/>眾生飄流三界而迷失如來藏性於煩惱
+<lb ed="P" n="0491a02"/>之中亦猶人遺棄真金於糞穢之內也論
+<lb ed="P" n="0491a03"/>云如人行遠路遺金糞穢中是也<note place="inline">三界者欲界色
+<lb ed="P" n="0491a04"/>界無色界也</note>。</p><p xml:id="pP182p0491a0406" rend="margin-left:1em;inline">【五貧家寶藏喻】貧家譬眾生寶藏
+<lb ed="P" n="0491a05"/>譬如來藏性謂一切眾生無明煩惱身中
+<lb ed="P" n="0491a06"/>而有如來藏性猶貧人屋內而有珍寶之
+<lb ed="P" n="0491a07"/>藏也貧人雖有寶藏為地所覆而不能見
+<lb ed="P" n="0491a08"/>眾生雖具法身為無明煩惱所覆而不能
+<lb ed="P" n="0491a09"/>顯也論云譬如貧人舍地有珍寶藏是也。</p>
+<lb ed="P" n="0491a10"/><p xml:id="pP182p0491a1001" rend="margin-left:1em">【六菴羅內實喻】菴羅梵語具云菴摩羅華
+<pb ed="P" xml:id="P182.1615.0491b" n="0491b"/>
+<lb ed="P" n="0491b01"/>言柰果名也內實者即果內之種子果譬
+<lb ed="P" n="0491b02"/>煩惱妄惑內實譬如來藏中菩提種子謂
+<lb ed="P" n="0491b03"/>諸眾生煩惱妄惑之中而有如來藏菩提
+<lb ed="P" n="0491b04"/>種子安住不動猶菴羅果內而有種子含
+<lb ed="P" n="0491b05"/>藏不朽也論云如種種果<g ref="#CB14081">𣗳</g>子芽不朽壞
+<lb ed="P" n="0491b06"/>是也<note place="inline">梵語菩提華言道</note>。</p><p xml:id="pP182p0491b0610" rend="margin-left:1em;inline">【七弊衣金像喻】弊衣即破
+<lb ed="P" n="0491b07"/>垢之衣譬煩惱金像即佛身之像譬如來
+<lb ed="P" n="0491b08"/>藏謂如來藏清淨法身為無明弊垢之所
+<lb ed="P" n="0491b09"/>纏覆墮在生死道中猶弊垢之衣纏褁真
+<lb ed="P" n="0491b10"/>金之像棄於道路也論云弊衣纏金像在
+<pb ed="P" xml:id="P182.1615.0492a" n="0492a"/>
+<lb ed="P" n="0492a01"/>於道路中是也。</p><p xml:id="pP182p0492a0107" rend="margin-left:1em;inline">【八貧女貴胎喻】貧女譬無
+<lb ed="P" n="0492a02"/>明煩惱貴胎者即貧女胎中所懷貴人譬
+<lb ed="P" n="0492a03"/>如來藏謂一切眾生無明煩惱之中而有
+<lb ed="P" n="0492a04"/>如來清淨法身之體而不能見如貧女懷
+<lb ed="P" n="0492a05"/>貴人之胎而不自知也論云譬如孤獨女
+<lb ed="P" n="0492a06"/>身懷轉輪王是也。</p><p xml:id="pP182p0492a0608" rend="margin-left:1em;inline">【九焦模鑄像喻】焦模者
+<lb ed="P" n="0492a07"/>焦土所為之模範譬煩惱鑄像者所鑄金
+<lb ed="P" n="0492a08"/>像譬如來藏謂如來藏性在眾生無明暗惑
+<lb ed="P" n="0492a09"/>之中猶鎔真金鑄像在於焦模之內而不能
+<lb ed="P" n="0492a10"/>顯見也論云如人鎔真金鑄在泥模中是也。</p></cb:def></entry>
+<pb ed="P" xml:id="P182.1615.0492b" n="0492b"/>
+<lb ed="P" n="0492b01"/><entry><form>金剛九喻<note place="inline">出金剛經論釋</note></form><cb:def><p xml:id="pP182p0492b0111" rend="margin-left:1em;inline">金剛九喻者乃是金剛般
+<lb ed="P" n="0492b02"/>若經中九種譬喻也此經有三譯一姚秦
+<lb ed="P" n="0492b03"/>鳩摩羅什法師譯二魏菩提流支法師譯
+<lb ed="P" n="0492b04"/>三陳真諦法師譯此九種譬喻乃是魏時
+<lb ed="P" n="0492b05"/>所譯之文所謂一切有為法如星瞖燈幻
+<lb ed="P" n="0492b06"/>露泡夢電雲應作如是觀是也<note place="inline">梵語般若華言智慧梵語
+<lb ed="P" n="0492b07"/>鳩摩羅什華言童壽梵語菩提流支華言覺希</note>。</p><p xml:id="pP182p0492b0719" rend="margin-left:1em;inline">【一星喻】謂星宿夜
+<lb ed="P" n="0492b08"/>則明朗日光一照眾星皆隱以譬眾生昏
+<lb ed="P" n="0492b09"/>迷執著諸見自為明了若以正智之心照
+<lb ed="P" n="0492b10"/>之則眾見皆滅也論云譬如星宿為日所
+<pb ed="P" xml:id="P182.1615.0493a" n="0493a"/>
+<lb ed="P" n="0493a01"/>映而不現故智日心法亦復如是。</p><p xml:id="pP182p0493a0114" rend="margin-left:1em;inline">【二瞖喻】
+<lb ed="P" n="0493a02"/>謂人目有障瞖則見空華等相以譬眾生
+<lb ed="P" n="0493a03"/>無明覆障則見一切有為虛妄之境界也
+<lb ed="P" n="0493a04"/>論云如目有瞖則見空華觀有為法亦復
+<lb ed="P" n="0493a05"/>如是。</p><p xml:id="pP182p0493a0503" rend="margin-left:1em;inline">【三燈喻】謂燈因膏油而熖熖無窮以
+<lb ed="P" n="0493a06"/>譬眾生妄識依貪愛境界而生生不絕也
+<lb ed="P" n="0493a07"/>論云譬如燈光識亦如是依止貪愛諸法
+<lb ed="P" n="0493a08"/>住故。</p><p xml:id="pP182p0493a0803" rend="margin-left:1em;inline">【四幻喻】謂諸幻化之事無而忽有體
+<lb ed="P" n="0493a09"/>本不實皆因幻師呪術之力假作種種形
+<lb ed="P" n="0493a10"/>相以譬世間山河大地皆是虛妄幻化以
+<pb ed="P" xml:id="P182.1615.0493b" n="0493b"/>
+<lb ed="P" n="0493b01"/>因眾生惑業力故而妄有種種境界也論
+<lb ed="P" n="0493b02"/>云譬如幻事所依住處亦復如是以器世
+<lb ed="P" n="0493b03"/>間無實體故<note place="inline">噐世間者謂世界如噐即山河大地等物是也</note>。</p><p xml:id="pP182p0493b0324" rend="margin-left:1em;inline">【五露
+<lb ed="P" n="0493b04"/>喻】謂露霑於草木體不久停為風所吹須
+<lb ed="P" n="0493b05"/><g ref="#CB04456">󱅨</g>即落以譬眾生幻身雖於世間暫爾留
+<lb ed="P" n="0493b06"/>住為無常風所吹倐忽變滅也論云譬如
+<lb ed="P" n="0493b07"/>朝露身以如是暫時住故。</p><p xml:id="pP182p0493b0711" rend="margin-left:1em;inline">【六泡喻】泡水漚
+<lb ed="P" n="0493b08"/>也謂水泡因渧水風三者和合而成以譬
+<lb ed="P" n="0493b09"/>眾生根境識三法和合而有苦樂受用之
+<lb ed="P" n="0493b10"/>境也論云譬如水泡所受用事亦復如是
+<pb ed="P" xml:id="P182.1615.0494a" n="0494a"/>
+<lb ed="P" n="0494a01"/>根境識等三法合故<note place="inline">渧水點也根境識者根即眼根耳根鼻根
+<lb ed="P" n="0494a02"/>舌根身根意根也境即色塵聲塵香塵味塵觸塵法塵也識即眼識耳識鼻識舌識
+<lb ed="P" n="0494a03"/>身識意識也</note>。</p><p xml:id="pP182p0494a0306" rend="margin-left:1em;inline">【七夢喻】謂晝緣諸境夜則感夢本
+<lb ed="P" n="0494a04"/>無實體惟因想生以譬眾生緣念過去造
+<lb ed="P" n="0494a05"/>作諸事境雖<anchor xml:id="beg_14c" type="cb-app"/>已<anchor xml:id="end_14c"/>滅緣想即現蓋言一切有
+<lb ed="P" n="0494a06"/>為之法皆因妄想而成亦如夢境也論云
+<lb ed="P" n="0494a07"/>又如夢境過去諸法亦復如是。</p><p xml:id="pP182p0494a0713" rend="margin-left:1em;inline">【八電喻】謂
+<lb ed="P" n="0494a08"/>雷電之光剎那不住以譬一切現在諸法
+<lb ed="P" n="0494a09"/>猶如電光倐忽則滅也論云譬如電光剎
+<lb ed="P" n="0494a10"/>那不住現在諸法亦復如是<note place="inline">梵語剎那華言一念</note>。</p><p xml:id="pP182p0494a1020" rend="margin-left:1em;inline">【九
+<pb ed="P" xml:id="P182.1615.0494b" n="0494b"/>
+<lb ed="P" n="0494b01"/>雲喻】謂雲能降雨澤又能變現不常以譬
+<lb ed="P" n="0494b02"/>眾生阿頼耶識含藏諸法能持未來種種
+<lb ed="P" n="0494b03"/>境界變現不定也論云譬如雲影未來諸
+<lb ed="P" n="0494b04"/>法亦復如是阿頼耶識與一切法為種子
+<lb ed="P" n="0494b05"/>根本故<note place="inline">梵語阿頼耶華言藏識即第八識也</note>。</p></cb:def></entry>
+<lb ed="P" n="0494b06"/><entry><form>小乘九部<note place="inline">出大智度論</note></form><cb:def><p xml:id="pP182p0494b0610" rend="margin-left:1em;inline">部即部類謂佛所說經有
+<lb ed="P" n="0494b07"/>大乘小乘不同故分十二部及九部之別
+<lb ed="P" n="0494b08"/>也小乘諸經於十二部中無方廣授記無
+<lb ed="P" n="0494b09"/>問自說之三部故云九部法華經云我此
+<lb ed="P" n="0494b10"/>九部法隨順眾生說是也別論雖爾若通
+<pb ed="P" xml:id="P182.1615.0495a" n="0495a"/>
+<lb ed="P" n="0495a01"/>而言之凡大小乘經無不具有十二部也
+<lb ed="P" n="0495a02"/><note place="inline">無方廣部者方廣乃大乘常住之理以小乘惟說生滅之法故無也無授記者以小
+<lb ed="P" n="0495a03"/>乘之人未得作佛故無也無無問自說者以小乘之人說必假緣故無也假緣者假
+<lb ed="P" n="0495a04"/>問荅發起之緣也</note>。</p><p xml:id="pP182p0495a0408" rend="margin-left:1em;inline">【一修多羅】梵語修多羅華言契
+<lb ed="P" n="0495a05"/>經契者上契諸佛之理下契眾生之機也
+<lb ed="P" n="0495a06"/>經法也常也乃聖教之總名今言修多羅
+<lb ed="P" n="0495a07"/>即經中長行之文也謂直說法相隨其義
+<lb ed="P" n="0495a08"/>理長短不以字數為拘是為長行也<note place="inline">法者十界
+<lb ed="P" n="0495a09"/>同遵也常者三世不易也</note>。</p><p xml:id="pP182p0495a0911" rend="margin-left:1em;inline">【二祇夜】梵語祇夜華言應頌
+<lb ed="P" n="0495a10"/>又云重頌或云偈謂應前長行之文重宣
+<pb ed="P" xml:id="P182.1615.0495b" n="0495b"/>
+<lb ed="P" n="0495b01"/>其義也或二句四句六句八句乃至多句
+<lb ed="P" n="0495b02"/>等皆名為頌。</p><p xml:id="pP182p0495b0206" rend="margin-left:1em;inline">【三伽陀】梵語伽陀華言諷頌
+<lb ed="P" n="0495b03"/>謂不頌長行之文直說偈句如金光明經
+<lb ed="P" n="0495b04"/>中空品等是也亦名孤起如楞嚴經中阿
+<lb ed="P" n="0495b05"/>難讚佛偈云妙湛總持不動尊等是也<note place="inline">楞嚴
+<lb ed="P" n="0495b06"/>梵語具云首楞嚴華言徤相分別梵語阿難華言慶喜</note>。</p><p xml:id="pP182p0495b0622" rend="margin-left:1em;inline">【四尼陀羅】梵
+<lb ed="P" n="0495b07"/>語尼陀羅華言因緣如諸經中有人問故
+<lb ed="P" n="0495b08"/>為說是事律中有人犯是事故制是戒凡
+<lb ed="P" n="0495b09"/>一切佛語緣起之事皆名因緣如法華經
+<lb ed="P" n="0495b10"/>化城喻品說宿世因緣等是也。</p><p xml:id="pP182p0495b1013" rend="margin-left:1em;inline">【五伊帝目
+<pb ed="P" xml:id="P182.1615.0496a" n="0496a"/>
+<lb ed="P" n="0496a01"/>多】梵語伊帝目多華言本事謂如來說諸
+<lb ed="P" n="0496a02"/>菩薩等因地所行之事也如法華經中說
+<lb ed="P" n="0496a03"/>藥王菩薩曾於日月淨明德佛所得法歡
+<lb ed="P" n="0496a04"/>喜然身然臂以為供養行諸苦行求菩提
+<lb ed="P" n="0496a05"/>道等是也。</p><p xml:id="pP182p0496a0505" rend="margin-left:1em;inline">【六闍多伽】梵語闍多伽華言本
+<lb ed="P" n="0496a06"/>生謂如來說諸菩薩等本地受生之事及
+<lb ed="P" n="0496a07"/>自說為菩薩時修諸苦行等事如涅槃經
+<lb ed="P" n="0496a08"/>云比丘當知我於過去作鹿作羆作麞作
+<lb ed="P" n="0496a09"/>兔作粟散王轉輪聖王龍金翅鳥諸如是
+<lb ed="P" n="0496a10"/>等行菩薩道時所受身等之類是也<note place="inline">梵語比丘
+<pb ed="P" xml:id="P182.1615.0496b" n="0496b"/>
+<lb ed="P" n="0496b01"/>華言乞士</note>。</p><p xml:id="pP182p0496b0105" rend="margin-left:1em;inline">【七阿浮達磨】梵語阿浮達磨華言未
+<lb ed="P" n="0496b02"/>曾有亦云希有如佛生時即行七步足跡
+<lb ed="P" n="0496b03"/>之處皆有蓮花放大光明遍照十方世界
+<lb ed="P" n="0496b04"/>而發是言我是度一切眾生生老病死者
+<lb ed="P" n="0496b05"/>地大震動天雨眾花樹出音聲作天妓樂
+<lb ed="P" n="0496b06"/>如是等無量希有之事是名未曾有又四
+<lb ed="P" n="0496b07"/>眾等<anchor xml:id="beg_14d" type="cb-app"/>凡<anchor xml:id="end_14d"/>有聞所未聞見所未見皆名未曾
+<lb ed="P" n="0496b08"/>有<note place="inline">四眾者比丘比丘尼優婆塞優婆夷也</note>。</p><p xml:id="pP182p0496b0817" rend="margin-left:1em;inline">【八婆陀】梵語婆陀
+<lb ed="P" n="0496b09"/>華言譬喻謂如來說法為鈍根者未能即
+<lb ed="P" n="0496b10"/>解故假譬喻以曉示之令其易悟是名譬
+<pb ed="P" xml:id="P182.1615.0497a" n="0497a"/>
+<lb ed="P" n="0497a01"/>喻如法華經中火宅藥草等喻是也。</p><p xml:id="pP182p0497a0115" rend="margin-left:1em;inline">【九優
+<lb ed="P" n="0497a02"/>婆提舍】梵語優波提舍華言論議謂諸經
+<lb ed="P" n="0497a03"/>中問答辯論諸法之事是為論議如法華
+<lb ed="P" n="0497a04"/>經提婆達多品中智積菩薩與文殊師利
+<lb ed="P" n="0497a05"/>相見論說妙法等是也<note place="inline">梵語提婆達多又云調達華言天熱
+<lb ed="P" n="0497a06"/>梵語文殊師利華言妙德</note>。</p></cb:def></entry>
+<lb ed="P" n="0497a07"/><entry><form>菩薩修行九種差別<note place="inline">出大乘莊嚴經論</note></form><cb:def><p xml:id="pP182p0497a0716" rend="margin-left:1em;inline">【一善行生死】
+<lb ed="P" n="0497a08"/>菩薩成就道業為化導有情雖出沒於生
+<lb ed="P" n="0497a09"/>死中不為生死染着譬如病人服苦澁藥
+<lb ed="P" n="0497a10"/>但為除病不生嫌棄也。</p><p xml:id="pP182p0497a1010" rend="margin-left:1em;inline">【二善行眾生】菩薩
+<pb ed="P" xml:id="P182.1615.0497b" n="0497b"/>
+<lb ed="P" n="0497b01"/>於諸眾生起大悲心設有病苦常行救濟
+<lb ed="P" n="0497b02"/>不生疲怠譬如良醫親近病者心無厭捨
+<lb ed="P" n="0497b03"/>也。</p><p xml:id="pP182p0497b0302" rend="margin-left:1em;inline">【三善行自心】菩薩能調伏自心破除煩
+<lb ed="P" n="0497b04"/>惱增長菩提譬如有智之人善能調伏奴
+<lb ed="P" n="0497b05"/><g ref="#CB03878">㒒</g>之類也<note place="inline">梵語菩提華言道</note>。</p><p xml:id="pP182p0497b0512" rend="margin-left:1em;inline">【四善行欲塵】菩薩雖
+<lb ed="P" n="0497b06"/>處欲塵而不染着精修梵行增長法財譬
+<lb ed="P" n="0497b07"/>如商人善於販賣獲大利益也。</p><p xml:id="pP182p0497b0713" rend="margin-left:1em;inline">【五善行三業】
+<lb ed="P" n="0497b08"/>菩薩精修於身口意三者之業思惟<g ref="#CB15081">䇿</g>勵
+<lb ed="P" n="0497b09"/>悉令清淨譬如善浣衣人能除穢垢也。</p><p xml:id="pP182p0497b0916" rend="margin-left:1em;inline">【六
+<lb ed="P" n="0497b10"/>善行不惱眾生】菩薩於諸眾生常起憐憫
+<pb ed="P" xml:id="P182.1615.0498a" n="0498a"/>
+<lb ed="P" n="0498a01"/>之心雖有加惡於我不生瞋惱譬如慈父
+<lb ed="P" n="0498a02"/>愛念小兒雖有穢垢不生憎惡也。</p><p xml:id="pP182p0498a0214" rend="margin-left:1em;inline">【七善行
+<lb ed="P" n="0498a03"/>修習】菩薩修習菩提之道勇猛精勤心無
+<lb ed="P" n="0498a04"/>間斷譬如以木鑽火未熱不息也。</p><p xml:id="pP182p0498a0414" rend="margin-left:1em;inline">【八善行
+<lb ed="P" n="0498a05"/>三昧】梵語三昧華言正定菩薩修習正定
+<lb ed="P" n="0498a06"/>不亂不昏遂使功德資長譬如出財與人
+<lb ed="P" n="0498a07"/>得人保息方獲利益也。</p><p xml:id="pP182p0498a0710" rend="margin-left:1em;inline">【九善行般若】梵語
+<lb ed="P" n="0498a08"/>般若華言智慧菩薩以清淨智照了世間
+<lb ed="P" n="0498a09"/>一切諸法心無疑惑譬如幻師知諸幻事
+<lb ed="P" n="0498a10"/>悉由幻作求其真實皆不可得也。</p></cb:def></entry>
+<pb ed="P" xml:id="P182.1615.0498b" n="0498b"/>
+<lb ed="P" n="0498b01"/><entry><form>九病<note place="inline">出長阿含經</note></form><cb:def><p xml:id="pP182p0498b0108" rend="margin-left:1em;inline">經云人壽增至四萬歲時其人
+<lb ed="P" n="0498b02"/>作是念言我等由修善故壽命延長今可
+<lb ed="P" n="0498b03"/>更增少善即孝養父母敬事師長延於壽
+<lb ed="P" n="0498b04"/>命至八萬歲當此之時人<anchor xml:id="beg_14e" type="cb-app"/>已<anchor xml:id="end_14e"/>有此九種之
+<lb ed="P" n="0498b05"/>病也。</p><p xml:id="pP182p0498b0503" rend="margin-left:1em;inline">【一寒病】謂人必寒溫得宜則身體安樂
+<lb ed="P" n="0498b06"/>若為寒凍所逼則成一切病也。</p><p xml:id="pP182p0498b0613" rend="margin-left:1em;inline">【二熱病】謂
+<lb ed="P" n="0498b07"/>人必溫凉得宜則身體和暢若為熱毒所
+<lb ed="P" n="0498b08"/>中則成一切病也。</p><p xml:id="pP182p0498b0808" rend="margin-left:1em;inline">【三饑病】謂人必假飲食
+<lb ed="P" n="0498b09"/>以資其身則諸根強徤若不得食則虛弱
+<lb ed="P" n="0498b10"/>而成一切病也。</p><p xml:id="pP182p0498b1007" rend="margin-left:1em;inline">【四渴病】謂人必假漿水以
+<pb ed="P" xml:id="P182.1615.0499a" n="0499a"/>
+<lb ed="P" n="0499a01"/>養其體若不得漿水之飲則腸胃枯焦而
+<lb ed="P" n="0499a02"/>成一切病也。</p><p xml:id="pP182p0499a0206" rend="margin-left:1em;inline">【五大便病】謂人必假飲食資
+<lb ed="P" n="0499a03"/>益諸根入腹變壞須便利以時若強忍過
+<lb ed="P" n="0499a04"/>當即能生一切病也。</p><p xml:id="pP182p0499a0409" rend="margin-left:1em;inline">【六小便病】謂人必得
+<lb ed="P" n="0499a05"/>湯水資潤色身入腹之後須便利以時若
+<lb ed="P" n="0499a06"/>強忍過當即能生一切病也。</p><p xml:id="pP182p0499a0612" rend="margin-left:1em;inline">【七欲病】謂人
+<lb ed="P" n="0499a07"/>貪於<g ref="#CB21942">󵖶</g>欲則能成癆怯虛弱一切病也。</p><p xml:id="pP182p0499a0716" rend="margin-left:1em;inline">【八
+<lb ed="P" n="0499a08"/>饕餮病】<note place="inline">饕他刀切餮他結切</note>饕餮即貪食也謂人必
+<lb ed="P" n="0499a09"/>須飲食以養其身若貪食過度即能生一
+<lb ed="P" n="0499a10"/>切病也。</p><p xml:id="pP182p0499a1004" rend="margin-left:1em;inline">【九老病】謂人年老則筋力衰弱或
+<pb ed="P" xml:id="P182.1615.0499b" n="0499b"/>
+<lb ed="P" n="0499b01"/>起居食息不能中節即成一切病也。</p></cb:def></entry>
+<lb ed="P" n="0499b02"/><entry><form>九種橫死<note place="inline">出藥師經</note></form><cb:def><p xml:id="pP182p0499b0209" rend="margin-left:1em;inline">謂人生於世間當勤修佛法
+<lb ed="P" n="0499b03"/>敬依國化不作諸惡奉行眾善斯能盡其
+<lb ed="P" n="0499b04"/>天年不然則必遭橫逆而死故有此九種
+<lb ed="P" n="0499b05"/>也。</p><p xml:id="pP182p0499b0502" rend="margin-left:1em;inline">【一得病無醫】謂人得病雖輕然無醫藥
+<lb ed="P" n="0499b06"/>及看病者或遇常醫而不投以良藥又有
+<lb ed="P" n="0499b07"/>不知正法惟信世間邪魔外道妖<g ref="#CB00859">㜸</g>之師
+<lb ed="P" n="0499b08"/>妄說禍福便生恐動卜問吉凶殺諸眾生
+<lb ed="P" n="0499b09"/>求神請福欲希延年終不能得以此而喪
+<lb ed="P" n="0499b10"/>其生皆為橫死。</p><p xml:id="pP182p0499b1007" rend="margin-left:1em;inline">【二王法誅<g ref="#CB10258">󲠒</g>】謂人妄作非為
+<pb ed="P" xml:id="P182.1615.0500a" n="0500a"/>
+<lb ed="P" n="0500a01"/>遭罹國憲被王法之所誅是為橫死。</p><p xml:id="pP182p0500a0115" rend="margin-left:1em;inline">【三非
+<lb ed="P" n="0500a02"/>人奪精氣】謂人或畋獵嬉戲或躭<g ref="#CB21945">󵖹</g>嗜酒
+<lb ed="P" n="0500a03"/>放逸無度橫為非人鬼恠之類奪其精氣
+<lb ed="P" n="0500a04"/>而死是為橫死<note place="inline">奪精氣者如法華經中羅剎女等奪一切眾生精氣
+<lb ed="P" n="0500a05"/>者是也</note>。</p><p xml:id="pP182p0500a0504" rend="margin-left:1em;inline">【四火焚】謂人或被火焚燒而喪其命
+<lb ed="P" n="0500a06"/>是為橫死。</p><p xml:id="pP182p0500a0605" rend="margin-left:1em;inline">【五水溺】謂人或因墮水沉溺而
+<lb ed="P" n="0500a07"/>喪其命是為橫死。</p><p xml:id="pP182p0500a0708" rend="margin-left:1em;inline">【六惡獸啖】謂人或於山
+<lb ed="P" n="0500a08"/>林因被虎狼惡獸之所啖食是為橫死。</p><p xml:id="pP182p0500a0816" rend="margin-left:1em;inline">【七
+<lb ed="P" n="0500a09"/>墮崖】謂人或於山間墜墮巖崖顛仆而喪
+<lb ed="P" n="0500a10"/>其命是為橫死。</p><p xml:id="pP182p0500a1007" rend="margin-left:1em;inline">【八毒藥呪咀】謂人或被毒
+<pb ed="P" xml:id="P182.1615.0500b" n="0500b"/>
+<lb ed="P" n="0500b01"/>藥及呪詛厭魅起尸鬼等之所中害而喪
+<lb ed="P" n="0500b02"/>其生是為橫死<note place="inline">起尸鬼者謂呪死尸起而厭人也</note>。</p><p xml:id="pP182p0500b0220" rend="margin-left:1em;inline">【九饑渴
+<lb ed="P" n="0500b03"/>所困】謂人或被饑渴之所困逼不得飲食
+<lb ed="P" n="0500b04"/>而喪其生是為橫死。</p></cb:def></entry>
+<lb ed="P" n="0500b05"/><entry><form>九住心<note place="inline">出大乘莊嚴經論</note></form><cb:def><p xml:id="pP182p0500b0511" rend="margin-left:1em;inline">【一安住心】謂修行之人於
+<lb ed="P" n="0500b06"/>習禪時或數息或觀心當須繫緣一境念
+<lb ed="P" n="0500b07"/>念相續安住其心不令散亂也。</p><p xml:id="pP182p0500b0713" rend="margin-left:1em;inline">【二攝住心】
+<lb ed="P" n="0500b08"/>謂修行之人於習禪時攝心寧靜則禪定
+<lb ed="P" n="0500b09"/>可成若覺一念稍動即便攝持令心安住
+<lb ed="P" n="0500b10"/>也。</p><p xml:id="pP182p0500b1002" rend="margin-left:1em;inline">【三解住心】謂修行之人於習禪時既解
+<pb ed="P" xml:id="P182.1615.0501a" n="0501a"/>
+<lb ed="P" n="0501a01"/>知覺觀之心攀緣外廣即當<g ref="#CB30246">󷘦</g><anchor xml:id="beg_14f" type="cb-app"/>斂<anchor xml:id="end_14f"/>安住也
+<lb ed="P" n="0501a02"/><note place="inline">初心在緣曰覺細心分別禪味曰觀</note>。</p><p xml:id="pP182p0501a0215" rend="margin-left:1em;inline">【四轉住心】謂修行之人
+<lb ed="P" n="0501a03"/>於習禪時覺心既息不妄搖動得靜定功
+<lb ed="P" n="0501a04"/>轉樂安住也。</p><p xml:id="pP182p0501a0406" rend="margin-left:1em;inline">【五伏住心】謂修行之人於習
+<lb ed="P" n="0501a05"/>禪時心住靜定久或生厭隨而折伏益加
+<lb ed="P" n="0501a06"/>精進也。</p><p xml:id="pP182p0501a0604" rend="margin-left:1em;inline">【六息住心】謂修行之人於習禪時
+<lb ed="P" n="0501a07"/>忽覺內心動亂而生過失於一念間即令
+<lb ed="P" n="0501a08"/>止息也。</p><p xml:id="pP182p0501a0804" rend="margin-left:1em;inline">【七滅住心】謂修行之人於習禪時
+<lb ed="P" n="0501a09"/>或由外緣忽起貪愛等念即當猛省方便
+<lb ed="P" n="0501a10"/>滅除無令增長也。</p><p xml:id="pP182p0501a1008" rend="margin-left:1em;inline">【八性住心】謂修行之人
+<pb ed="P" xml:id="P182.1615.0501b" n="0501b"/>
+<lb ed="P" n="0501b01"/>於習禪時既能息諸妄念則知心性本來
+<lb ed="P" n="0501b02"/>明靜任運安住也。</p><p xml:id="pP182p0501b0208" rend="margin-left:1em;inline">【九持住心】謂修行之人
+<lb ed="P" n="0501b03"/>於習禪時功行純熟安住正定不由作意
+<lb ed="P" n="0501b04"/>任運持善不失持惡不生也。</p></cb:def></entry>
+<lb ed="P" n="0501b05"/>
+<lb ed="P" n="0501b06"/>
+<lb ed="P" n="0501b07"/><cb:juan fun="close" n="26"><cb:jhead>大明三藏法數卷第二十六</cb:jhead></cb:juan>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_137" cb:to="#end_137"><corr>八</corr><sic>　</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_138" cb:to="#end_138"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_139" cb:to="#end_139"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13a" cb:to="#end_13a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13b" cb:to="#end_13b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13c" cb:to="#end_13c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13d" cb:to="#end_13d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13e" cb:to="#end_13e"><corr>弗</corr><sic>佛</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13f" cb:to="#end_13f"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_140" cb:to="#end_140"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_141" cb:to="#end_141"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_142" cb:to="#end_142"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_143" cb:to="#end_143"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_144" cb:to="#end_144"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_145" cb:to="#end_145"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_146" cb:to="#end_146"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_147" cb:to="#end_147"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_148" cb:to="#end_148"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_149" cb:to="#end_149"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14a" cb:to="#end_14a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14b" cb:to="#end_14b"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14c" cb:to="#end_14c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14d" cb:to="#end_14d"><corr>凡</corr><sic>几</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14e" cb:to="#end_14e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14f" cb:to="#end_14f"><corr>斂</corr><sic>歛</sic></choice>
+</p>
+</cb:div>
+<cb:div type="cbeta-notes">
+<head>CBETA 校勘記</head>
+<p>
+</p>
+</cb:div>
+<cb:div type="yongle-notes">
+<head>永樂北藏 校勘記</head>
+<p>
+</p>
+</cb:div>
+</back></text></TEI>

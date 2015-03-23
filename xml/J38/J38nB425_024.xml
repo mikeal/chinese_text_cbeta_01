@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="J38nB425">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Jiaxing Canon, Electronic version, No. B425 即非禪師全錄</title>
+			<author>清 如一說　明洞等編（依駒本印）　附佛祖圖</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.16 $<date>$Date: 2012/06/27 08:16:08 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>25卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/06/27 08:16:08 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Jiaxing Canon Vol. 38, No. B425 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version), Part of text as provided by LINDEN</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二），LINDEN 大德提供之部份經文</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00576">
+	<charName>CBETA CHARACTER CB00576</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[寧*頁]</value>
+	</charProp>
+	<mapping type="unicode">U+29573</mapping>
+	<mapping cb:dec="983616" type="PUA">U+F0240</mapping>
+</char>
+<char xml:id="CB15428">
+	<charName>CBETA CHARACTER CB15428</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[竺-二+虞]</value>
+	</charProp>
+	<mapping type="unicode">U+25D42</mapping>
+	<mapping cb:dec="998468" type="PUA">U+F3C44</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2009-02-03T14:49:37">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">詩偈八</cb:mulu><cb:mulu type="其他" level="2">七言四句</cb:mulu>
+<pb ed="J" xml:id="J38.B425.0735a" n="0735a"/>
+<lb ed="J" n="0735a01"/><milestone unit="juan" n="24"/><cb:mulu type="卷" n="24"></cb:mulu><cb:juan fun="open" n="24"><cb:jhead>即非禪師全錄卷之二十四</cb:jhead></cb:juan>
+<lb ed="J" n="0735a02"/><byline cb:type="editor">門人明洞性安性節明覺明幢仝編</byline>
+<lb ed="J" n="0735a03"/><cb:div type="other"><cb:mulu type="其他" level="1">銘</cb:mulu><head>銘</head>
+<lb ed="J" n="0735a04"/><cb:div type="other"><cb:mulu type="其他" level="2">應城鐘銘</cb:mulu><head>應城鐘銘<note place="inline">有序</note></head>
+<lb ed="J" n="0735a05"/><p xml:id="pJ38p0735a0501" rend="margin-left:1em">歲次乙巳春豐州太守源忠真大檀越同法雲洞
+<lb ed="J" n="0735a06"/>上座延山僧於本州開山山名廣壽寺名福聚寶
+<lb ed="J" n="0735a07"/>構既成復範鉅鐘耑為祝國用覺群靈其大心功
+<lb ed="J" n="0735a08"/>德與乾坤同悠久者矣太守請銘銘曰。</p>
+<lb ed="J" n="0735a09"/><lg xml:id="lgJ38p0735a0901" type="abnormal"><l rend="text-indent:0em">鐘是銅鑄饒舌指註格外知音丹霄獨步叢林禮樂
+<lb ed="J" n="0735a10"/>衲僧軌度大振綱宗隨機頓赴聞於無聞聞性空故
+<lb ed="J" n="0735a11"/>聲而非聲道心獨露如是返聞功超沙數凡聖揚眉
+<lb ed="J" n="0735a12"/>人天覺悟體靜壽山用弘福聚常轉法輪國基永固</l></lg></cb:div>
+<lb ed="J" n="0735a13"/><cb:div type="other"><cb:mulu type="其他" level="2">崎陽鐘銘</cb:mulu><head>崎陽鐘銘<note place="inline">并序</note></head>
+<lb ed="J" n="0735a14"/><p xml:id="pJ38p0735a1401" rend="margin-left:1em">崎主島田源守政檀護愍昏衢之不覺警子姓之
+<lb ed="J" n="0735a15"/>迷蒙乃捐俸範銅鐘以時考<unclear></unclear>俾聞者從迷悟覺
+<lb ed="J" n="0735a16"/>共證圓通政事之暇重示慈旨其設心用器可謂
+<lb ed="J" n="0735a17"/>弘矣歲乙巳中元後六日郵書請銘為之銘曰。</p>
+<lb ed="J" n="0735a18"/><lg xml:id="lgJ38p0735a1801" type="abnormal"><l rend="text-indent:0em">惟我大士從聞進修一根圓證六用俱休源氏守政
+<lb ed="J" n="0735a19"/>由聲悟性寂然忘機遇物則應應念如霆迪陽啟冥
+<lb ed="J" n="0735a20"/>時至震發百蟄咸醒以模以範方便爐<anchor xml:id="beg_11d" type="cb-app"/>鍛<anchor xml:id="end_11d"/>一音普被
+<lb ed="J" n="0735a21"/>如日之旦</l></lg></cb:div>
+<lb ed="J" n="0735a22"/><cb:div type="other"><cb:mulu type="其他" level="2">泉福寺鐘銘</cb:mulu><head>泉福寺鐘銘<note place="inline">有序</note></head>
+<lb ed="J" n="0735a23"/><p xml:id="pJ38p0735a2301" rend="margin-left:1em">筑前宗像郡距城之北越百里間有山名影向島
+<lb ed="J" n="0735a24"/>名鐘崎原其所由昔有巨鐘沈此海滸橫機截渡
+<lb ed="J" n="0735a25"/>不利舟楫鄉人患之合舉不起且舉必得殃知下
+<lb ed="J" n="0735a26"/>有龍鬼司護待時而然因是不敢復動識者僉議
+<lb ed="J" n="0735a27"/>再範銅鐘建樓崎步使人時時扣擊於陰雨晦冥
+<lb ed="J" n="0735a28"/>風潮浩蕩之際令津渡彼岸者聞聲知所趨向則
+<lb ed="J" n="0735a29"/>不墮前轍功德之大應與鐘聲揚溢俱無盡矣乙
+<lb ed="J" n="0735a30"/>巳仲秋朔日泉福寺寺主照空來謁銘為之銘曰。</p>
+<pb ed="J" xml:id="J38.B425.0735b" n="0735b"/>
+<lb ed="J" n="0735b01"/><lg xml:id="lgJ38p0735b0101" type="abnormal"><l rend="text-indent:0em">像郡之北名曰鐘崎昔有巨鐘忽沈水湄年深月遠
+<lb ed="J" n="0735b02"/>龍鬼護持民莫觸背況敢動移識者合議珍重臨崎
+<lb ed="J" n="0735b03"/>再範大器聲應篙師從昏暗中如母得兒默守斯要
+<lb ed="J" n="0735b04"/>發宣以時返聞無性圓證剋期人天護福永壽贊詞</l></lg></cb:div>
+<lb ed="J" n="0735b05"/><cb:div type="other"><cb:mulu type="其他" level="2">圓照寺鐘銘</cb:mulu><head>圓照寺鐘銘<note place="inline">有序</note></head>
+<lb ed="J" n="0735b06"/><p xml:id="pJ38p0735b0601" rend="margin-left:1em">寺在西海道肥後州志岐縣之萬松山寬永中鈴
+<lb ed="J" n="0735b07"/>木重成郡守承先大將軍鈞命鼎建為祝釐之所
+<lb ed="J" n="0735b08"/>令嗣重辰復鑄銅鐘以揚正教俾黎庶有情同歸
+<lb ed="J" n="0735b09"/>佛化倘因聲而入圓通因圓通而證滿覺則無負
+<lb ed="J" n="0735b10"/>於斯鐘之建也寺主遠來徵銘銘曰。</p>
+<lb ed="J" n="0735b11"/><lg xml:id="lgJ38p0735b1101" type="abnormal"><l rend="text-indent:0em">鈴木居士宗秀禪和鳩冶巨嘴以警自他晨昏百八
+<lb ed="J" n="0735b12"/>破煩惱魔由聞而覺俱渡夢河苦脫六趣利及娑婆
+<lb ed="J" n="0735b13"/>如斯崇德證蜜波羅真實教體永劫不磨誰銘是勒
+<lb ed="J" n="0735b14"/>廣壽頭陀</l></lg></cb:div>
+<lb ed="J" n="0735b15"/><cb:div type="other"><cb:mulu type="其他" level="2">三嶽寺鐘銘</cb:mulu><head>三嶽寺鐘銘</head>
+<lb ed="J" n="0735b16"/><p xml:id="pJ38p0735b1601" rend="margin-left:1em">此方教體妙在音聞所以存禪德以鐘聲轉法輪
+<lb ed="J" n="0735b17"/>諦聽為佛事警悟昏衢願亦至矣己酉夏遣僧來
+<lb ed="J" n="0735b18"/>請銘銘曰。</p>
+<lb ed="J" n="0735b19"/><lg xml:id="lgJ38p0735b1901" type="abnormal"><l rend="text-indent:0em">超出五合法音遠震為警迷途大啟正信聲不在鐘
+<lb ed="J" n="0735b20"/>耳亦無聽以空為體無扣不應度垣匪礙心圓如鏡
+<lb ed="J" n="0735b21"/>一切有情圓覺同證</l></lg></cb:div>
+<lb ed="J" n="0735b22"/><cb:div type="other"><cb:mulu type="其他" level="2">華藏閣鐘銘</cb:mulu><head>華藏閣鐘銘<note place="inline">并序</note></head>
+<lb ed="J" n="0735b23"/><p xml:id="pJ38p0735b2301" rend="margin-left:1em">高城光巨上座與大石道固信士道聚之間恒思
+<lb ed="J" n="0735b24"/>濟益念三途未脫苦網敞高閣以懸鉅鐘聲越遐
+<lb ed="J" n="0735b25"/>邇法利冥陽高著隻眼頓登華藏玄門一歷耳根
+<lb ed="J" n="0735b26"/>徹證毘盧法界其功自不可思議者矣炷香請銘
+<lb ed="J" n="0735b27"/>為之銘曰。</p>
+<lb ed="J" n="0735b28"/><lg xml:id="lgJ38p0735b2801" type="abnormal"><l rend="text-indent:0em">實際理地廓無形名方便門中萬法交并華<anchor xml:id="beg_11e" type="cb-app"/>虡<anchor xml:id="end_11e"/>鏗鯨
+<lb ed="J" n="0735b29"/>體用惟貞表裏洞徹頓覺幽明道福資始金石貫誠
+<lb ed="J" n="0735b30"/>不壞世相為勒斯銘</l></lg></cb:div>
+<pb ed="J" xml:id="J38.B425.0735c" n="0735c"/>
+<lb ed="J" n="0735c01"/><cb:div type="other"><cb:mulu type="其他" level="2">安國寺鐘銘</cb:mulu><head>安國寺鐘銘<note place="inline">有序</note></head>
+<lb ed="J" n="0735c02"/><p xml:id="pJ38p0735c0201" rend="margin-left:1em">雪上座慕叢林禮樂範銅為鐘朝夕考擊用覺冥
+<lb ed="J" n="0735c03"/>陽其立願可謂弘矣懷香求銘銘曰。</p>
+<lb ed="J" n="0735c04"/><lg xml:id="lgJ38p0735c0401" type="abnormal"><l rend="text-indent:0em">體佛慈悲振拔六趣運大音聲而作佛事普赴群機
+<lb ed="J" n="0735c05"/>無遠不至月白霜清益神其智上窮有頂下及無際
+<lb ed="J" n="0735c06"/>一觸其音頓超十地新新常住恢恢法器福利人天
+<lb ed="J" n="0735c07"/>曷可思議</l></lg></cb:div></cb:div>
+<lb ed="J" n="0735c08"/>
+<lb ed="J" n="0735c09"/>
+<lb ed="J" n="0735c10"/>
+<lb ed="J" n="0735c11"/>
+<lb ed="J" n="0735c12"/>
+<lb ed="J" n="0735c13"/>
+<lb ed="J" n="0735c14"/>
+<lb ed="J" n="0735c15"/>
+<lb ed="J" n="0735c16"/>
+<lb ed="J" n="0735c17"/>
+<lb ed="J" n="0735c18"/>
+<lb ed="J" n="0735c19"/>
+<lb ed="J" n="0735c20"/>
+<lb ed="J" n="0735c21"/><cb:div type="xu"><cb:mulu type="序" level="1">序</cb:mulu><head>序</head>
+<lb ed="J" n="0735c22"/><cb:div type="xu"><cb:mulu type="序" level="2">餘錄自序</cb:mulu><head>餘錄自序</head>
+<lb ed="J" n="0735c23"/><p xml:id="pJ38p0735c2301">侍者重編予詩偈雜著另梓流通與世結文字緣別
+<lb ed="J" n="0735c24"/>名曰餘錄予怪而問之何謂餘錄對曰吾師前後著
+<lb ed="J" n="0735c25"/>作或得於禪定之餘或得於杖屨之餘或得於應接
+<lb ed="J" n="0735c26"/>之餘或得於鎚拂之餘茲編卷帙又得於脫略之餘
+<lb ed="J" n="0735c27"/>味斯全旨則見於古人未說之餘以是立名耳予笑
+<lb ed="J" n="0735c28"/>而答曰是則是矣未盡善也夫身心一如身外無餘
+<lb ed="J" n="0735c29"/>知此則求錄之實尚不可得而況名之以餘耶侍者
+<lb ed="J" n="0735c30"/>復進而言曰古人立言與名俱垂不朽非身心之餘
+<pb ed="J" xml:id="J38.B425.0736a" n="0736a"/>
+<lb ed="J" n="0736a01"/>歟予曰噫是何言也天地數終世界變壞聖賢載籍
+<lb ed="J" n="0736a02"/>一切不存於言何寄於名何有雖然猶有說焉變壞
+<lb ed="J" n="0736a03"/>之中有不變壞者存不變壞者何即當人本具一篇
+<lb ed="J" n="0736a04"/>真文字流露充塞離文字相無起滅相在三世諸佛
+<lb ed="J" n="0736a05"/>不見其有餘在河沙凡夫不見其欠少窮劫不盡朗
+<lb ed="J" n="0736a06"/>然獨存子能索之於此則可以名餘錄耳侍者承命
+<lb ed="J" n="0736a07"/>唯唯請題首簡再拜而退於是乎書。</p></cb:div>
+<lb ed="J" n="0736a08"/><cb:div type="xu"><cb:mulu type="序" level="2">滄浪聲詩序</cb:mulu><head>滄浪聲詩序</head>
+<lb ed="J" n="0736a09"/><p xml:id="pJ38p0736a0901">心源已澂識浪自滅復何聲之云乎猶恐澂而不活
+<lb ed="J" n="0736a10"/>不能無激于滄浪也活不失澂聲則非聲矣憶予丁
+<lb ed="J" n="0736a11"/>酉春東渡南來旬日宴坐舟中滿眼滿耳以及通身
+<lb ed="J" n="0736a12"/>毛孔皆作吼天浪語震地潮音吾實未嘗聞也非無
+<lb ed="J" n="0736a13"/>聞也所聞恒寂能聞亦空能所雙絕而真聞獨露耳
+<lb ed="J" n="0736a14"/>於斯時也求聲之相不可得況其名乎法弟獨知禪
+<lb ed="J" n="0736a15"/>師跋涉汪洋放浪詩偈以滄浪之聲名其集意在言
+<lb ed="J" n="0736a16"/>外也觀斯集者又當言外而求之人能言外求之于
+<lb ed="J" n="0736a17"/>禪師之道與有聞矣。</p></cb:div>
+<lb ed="J" n="0736a18"/><cb:div type="xu"><cb:mulu type="序" level="2">一滴艸序</cb:mulu><head>一滴艸序</head>
+<lb ed="J" n="0736a19"/><p xml:id="pJ38p0736a1901">鴆毒一滴斷人命根醍醐一滴活人性命倘遇非器
+<lb ed="J" n="0736a20"/>而不善用縱上味亦能誤人可不慎歟高泉法姪乃
+<lb ed="J" n="0736a21"/>黃檗慧和尚之嗣童真入道負清淨器貯曹溪一滴
+<lb ed="J" n="0736a22"/>于妙齡之年他日霈之為霖為雨盍未可量也禪暇
+<lb ed="J" n="0736a23"/>喜作詩偈不覺盈帙自鳴其集曰一滴意謂文字之
+<lb ed="J" n="0736a24"/>於吾道猶一滴投于巨海視彼河伯自多不復知有
+<lb ed="J" n="0736a25"/>百谷王者為何如哉辛丑夏不憚萬里鯨濤省覲師
+<lb ed="J" n="0736a26"/>翁道由崎島首謁余于聖壽山中闊別十載相見如
+<lb ed="J" n="0736a27"/>隔生意外道聚月餘將別去出是集請益復丐一言
+<lb ed="J" n="0736a28"/>為證余因是而讀之顧其言澹而旨遠如澂川逶迤
+<lb ed="J" n="0736a29"/>而無怒奔之狀非涵養之功烏能至是雖未盡其餘
+<lb ed="J" n="0736a30"/>然嘗潮一滴味具百川舌頭具眼者必有取焉是為
+<pb ed="J" xml:id="J38.B425.0736b" n="0736b"/>
+<lb ed="J" n="0736b01"/>序。</p></cb:div>
+<lb ed="J" n="0736b02"/><cb:div type="xu"><cb:mulu type="序" level="2">山居合艸序</cb:mulu><head>山居合艸序</head>
+<lb ed="J" n="0736b03"/><p xml:id="pJ38p0736b0301">壬寅春榕友持廣陵伯萬石君山居合詠來余喜而
+<lb ed="J" n="0736b04"/>讀之句含蘸碧之淵韻協五音之洞儼然一座斂石
+<lb ed="J" n="0736b05"/>山飛來海外與五島爭奇矣非胸中洞澈筆底玲瓏
+<lb ed="J" n="0736b06"/>焉能並露山身谿舌不惟調高一時抑道合千古誠
+<lb ed="J" n="0736b07"/>足傳也余出岫廿載餘因道而忘其山因詩如見其
+<lb ed="J" n="0736b08"/>人因人而懷其義不揣管窺重校授梓未審二公與
+<lb ed="J" n="0736b09"/>山靈肯石點否。</p></cb:div>
+<lb ed="J" n="0736b10"/><cb:div type="xu"><cb:mulu type="序" level="2">盂蘭普度序</cb:mulu><head>盂蘭普度序</head>
+<lb ed="J" n="0736b11"/><p xml:id="pJ38p0736b1101">眾生無盡佛菩薩之弘願無窮仁人之心即佛菩薩
+<lb ed="J" n="0736b12"/>之心也末劫眾生可傷尤甚或夙業所感殞于天災
+<lb ed="J" n="0736b13"/>或現業應償斃于時事或因召移缺典或乏宗嗣靡
+<lb ed="J" n="0736b14"/>依望一滴之無從思度脫之何自凄風楚雨枉自悲
+<lb ed="J" n="0736b15"/>號目擊耳聞重為怛惻茲逢中元佳節乃尊者度母
+<lb ed="J" n="0736b16"/>之辰本山特建盂蘭普度數日分道場陳年公案不
+<lb ed="J" n="0736b17"/>得不重新提起耳盍三寶為眾生福田檀度發心非
+<lb ed="J" n="0736b18"/>止植福藉此為進道之資以報其多生父母也施諸
+<lb ed="J" n="0736b19"/>有情豈但飽滿直欲度彼脫鬼倫與諸趣俱生極樂
+<lb ed="J" n="0736b20"/>也樂國既生大地無冤愁之鬼親恩重答天下皆孝
+<lb ed="J" n="0736b21"/>悌之人可致風雨時若河海晏清由斯觀之則檀波
+<lb ed="J" n="0736b22"/>孝德與弘願等無有異也茲土向稱福善之邦多駐
+<lb ed="J" n="0736b23"/>四方賢士倘有能行難行共成勝會誠無愧于仁人
+<lb ed="J" n="0736b24"/>君子亦知出世佛菩薩原不離于世間也壬寅孟秋
+<lb ed="J" n="0736b25"/>朔某頭陀題。</p></cb:div>
+<lb ed="J" n="0736b26"/><cb:div type="xu"><cb:mulu type="序" level="2">新黃檗志略序</cb:mulu><head>新黃檗志略序</head>
+<lb ed="J" n="0736b27"/><p xml:id="pJ38p0736b2701">山以人重人以道顯道藉眾傳傳道之本不可以無
+<lb ed="J" n="0736b28"/>紀也本師老人自甲午秋東渡即有採隱之思遙望
+<lb ed="J" n="0736b29"/>茲山紫氣而識之第時節未彰戢影于普門者八載
+<lb ed="J" n="0736b30"/>至辛丑冬承　國主布地遂欣然卓錫焉乃將太和
+<pb ed="J" xml:id="J38.B425.0736c" n="0736c"/>
+<lb ed="J" n="0736c01"/>易以黃檗盍取所自之名用廣斷際之道無不在也
+<lb ed="J" n="0736c02"/>于是觀光起敬聞風知慕檀施日眾建置一新佛有
+<lb ed="J" n="0736c03"/>殿僧有堂膳有田雲水川增開堂祝聖林壑爛然生
+<lb ed="J" n="0736c04"/>色矣噫山不遇于昔而獨遇于今非山靈有待歟余
+<lb ed="J" n="0736c05"/>不獨為山靈喜亦為國家喜也國有道而道人至止
+<lb ed="J" n="0736c06"/>禎興之兆于斯見耳　宣宗皇帝有云唐國無以為
+<lb ed="J" n="0736c07"/>寶惟有道之士為鎮國寶當知王化法化與乾坤日
+<lb ed="J" n="0736c08"/>月交相悠久癸卯中秋余入山省覲睹其山川迴環
+<lb ed="J" n="0736c09"/>宛然圖畫殆天造地設以壯大觀信龍象之窟宅植
+<lb ed="J" n="0736c10"/>福之勝地也老人慮後之學者不知其本手輯志略
+<lb ed="J" n="0736c11"/>以垂將來命予編閱因僭敘如此如其詳悉以俟大
+<lb ed="J" n="0736c12"/>方。</p></cb:div>
+<lb ed="J" n="0736c13"/><cb:div type="xu"><cb:mulu type="序" level="2">雲濤詩卷序</cb:mulu><head>雲濤詩卷序</head>
+<lb ed="J" n="0736c14"/><p xml:id="pJ38p0736c1401">凡人之品格不同則其所行亦異是以鄉有舉里有
+<lb ed="J" n="0736c15"/>選褒美之不足則為歌詩以詠歎之一粟何居士素
+<lb ed="J" n="0736c16"/>行精純操心篤慎持二十年齋力為法門檀護此誠
+<lb ed="J" n="0736c17"/>人中之傑也甲午秋歸命我黃檗老人而老人時見
+<lb ed="J" n="0736c18"/>重焉今夏特入太和山省覲老人以雲濤會志喜木
+<lb ed="J" n="0736c19"/>法兄及諸公各為詩以贈之然詩之清新雅麗足為
+<lb ed="J" n="0736c20"/>居士傳神而居士品格高超遂得與詩俱垂不朽此
+<lb ed="J" n="0736c21"/>何啻一命之榮鄉里之重也耶予不勝贊歎為序卷
+<lb ed="J" n="0736c22"/>端。</p></cb:div>
+<lb ed="J" n="0736c23"/><cb:div type="xu"><cb:mulu type="序" level="2">同聲艸序</cb:mulu><head>同聲艸序</head>
+<lb ed="J" n="0736c24"/><p xml:id="pJ38p0736c2401">子有寺裏青山雲外樓之句盍指臥遊居也居雖小
+<lb ed="J" n="0736c25"/>山海大觀一覽而盡得之黃檗老人曾宴息于此及
+<lb ed="J" n="0736c26"/>余卓錫有檀越林大堂因其局布金而更張之居成
+<lb ed="J" n="0736c27"/>瞻雲賦詩以敦其本緇素參訪倚韻而和者不覺盈
+<lb ed="J" n="0736c28"/>快予命門人將鍥之梓有客進而請曰禪宗不立文
+<lb ed="J" n="0736c29"/>字何取于聲詩而傳歟曰詩乃心之聲也因感物而
+<lb ed="J" n="0736c30"/>著形焉形聲相感觸目無非文字所謂詩即文字之
+<pb ed="J" xml:id="J38.B425.0737a" n="0737a"/>
+<lb ed="J" n="0737a01"/>禪不達乎此禪與詩岐而為二矣如悟明不二則聲
+<lb ed="J" n="0737a02"/>和響順志同氣合可以植而為忠為孝為聖為賢此
+<lb ed="J" n="0737a03"/>聲詩有補於世教者多矣其可不傳乎客不復語余
+<lb ed="J" n="0737a04"/>亦默然因為之序。</p></cb:div>
+<lb ed="J" n="0737a05"/><cb:div type="xu"><cb:mulu type="序" level="2">老子鬳齋口義序</cb:mulu><head>老子鬳齋口義序</head>
+<lb ed="J" n="0737a06"/><p xml:id="pJ38p0737a0601">是書傳至東國將三百載陰翼王化者多矣惜無序
+<lb ed="J" n="0737a07"/>文不紀世次只標鬳齋林某後學不知為何許人時
+<lb ed="J" n="0737a08"/>有洞上座者博通古今知是閩產一日謁予致問曰
+<lb ed="J" n="0737a09"/>鬳齋居士是貴族否曰先遠祖也因慮唐之一白三
+<lb ed="J" n="0737a10"/>產兩悟分宗尋補宸翰圖像及省邑之名前後二號
+<lb ed="J" n="0737a11"/>以便後之學者知予祖之生緣出處敢僭述焉祖諱
+<lb ed="J" n="0737a12"/>希逸字肅翁號竹溪宋端平乙未會魁嘗為玉堂文
+<lb ed="J" n="0737a13"/>字官鬳齋其書室也早年潛心此道屏去腥葷先從
+<lb ed="J" n="0737a14"/>樂軒陳先生學次參桑萬菴禪師深有得于三教合
+<lb ed="J" n="0737a15"/>一之旨為政之暇釋三教之書皎如三光豈非世出
+<lb ed="J" n="0737a16"/>世間之人表哉其所著有易講春秋傳楞嚴維摩註
+<lb ed="J" n="0737a17"/>疏老莊列口義及竹溪集等書家傳流布歷今四百
+<lb ed="J" n="0737a18"/>餘祀隨世浮沈十存四五予幼時披誦不置自學佛
+<lb ed="J" n="0737a19"/>後無復經目不意於甲辰秋飛錫豐州寓源太守之
+<lb ed="J" n="0737a20"/>金粟園重睹是書不勝欣慰但歲月久遠版經幾翻
+<lb ed="J" n="0737a21"/>字至亥豕脫誤且中間入一二語不知何人增贅與
+<lb ed="J" n="0737a22"/>本文不相吻合甚戾當日作者之意由是仍家傳舊
+<lb ed="J" n="0737a23"/>本而刪正之遂捐缽資付梓用廣流通庶遠祖手眼
+<lb ed="J" n="0737a24"/>重新老氏面目猶在或謂儒教治世釋教度世足矣
+<lb ed="J" n="0737a25"/>復用道教奚為予曰當時佛教未至儒教難治而老
+<lb ed="J" n="0737a26"/>君乘時救世著道德經五千言授關尹子莊周繼之
+<lb ed="J" n="0737a27"/>始有道教之稱其所發明三皇五帝之道德其文約
+<lb ed="J" n="0737a28"/>而詳其理簡而至至以修身養神之方治國治家之
+<lb ed="J" n="0737a29"/>法天地變化之道莫不備焉史載孔子問禮於老氏
+<lb ed="J" n="0737a30"/>及佛教既至古道元指天竺古皇為老氏之師然道
+<pb ed="J" xml:id="J38.B425.0737b" n="0737b"/>
+<lb ed="J" n="0737b01"/>之源本一鼎而為三互成天下之化無非欲教人克
+<lb ed="J" n="0737b02"/>明斯道者也唐肅宗皇帝題三教聖人贊云儒君之
+<lb ed="J" n="0737b03"/>師曰魯仲尼仲尼師聃龍吾不知聃師西乾善入無
+<lb ed="J" n="0737b04"/>為稽首正覺吾師師師由斯觀之儒釋道三教為天
+<lb ed="J" n="0737b05"/>下國家相孚治化有如三光垂象闕一不可後之君
+<lb ed="J" n="0737b06"/>子讀其書窮其義忘其言契其道自能咸造聖人不
+<lb ed="J" n="0737b07"/>二之域超然獨露萬象之表矣雖然正眼觀來猶是
+<lb ed="J" n="0737b08"/>毘盧耳邊消息頂<g ref="#CB00576">𩕳</g>上一著須是過量人始得客謝
+<lb ed="J" n="0737b09"/>而退併識諸簡首。</p></cb:div></cb:div>
+<lb ed="J" n="0737b10"/>
+<lb ed="J" n="0737b11"/><cb:div type="other"><cb:mulu type="其他" level="1">跋</cb:mulu><head>跋</head>
+<lb ed="J" n="0737b12"/><cb:div type="other"><cb:mulu type="其他" level="2">題黃魯直居士手書道德經</cb:mulu><head>題黃魯直居士手書道德經</head>
+<lb ed="J" n="0737b13"/><p xml:id="pJ38p0737b1301">學士寫經尊崇其道林君惜字兼重其人寶此遺舉
+<lb ed="J" n="0737b14"/>豈徒為耳目翫哉若能睹蹟明心則老子面目猶在
+<lb ed="J" n="0737b15"/>苟尚其蹟一雙眼睛被學士換<anchor xml:id="beg_11f" type="cb-app"/>卻<anchor xml:id="end_11f"/>了也。</p></cb:div>
+<lb ed="J" n="0737b16"/><cb:div type="other"><cb:mulu type="其他" level="2">題嚴統後</cb:mulu><head>題嚴統後</head>
+<lb ed="J" n="0737b17"/><p xml:id="pJ38p0737b1701">統上綱宗聯芳佛祖嚴正法眼照耀古今直得虛空
+<lb ed="J" n="0737b18"/>點首萬象揚眉吾祖之功盍有不可思議者矣書至
+<lb ed="J" n="0737b19"/>榑桑如日東明大地眾生藉是而醒覺耳幻寄逸然
+<lb ed="J" n="0737b20"/>禪德行深願重以法為懷獨減衣盂之資鳩諸善信
+<lb ed="J" n="0737b21"/>共肩剞劂用廣流通其設心措慮與吾祖同一慈憫
+<lb ed="J" n="0737b22"/>可謂仁之至義之深也老人及木法兄既跋而贊之
+<lb ed="J" n="0737b23"/>予雖不能言烏可以無言。</p></cb:div>
+<lb ed="J" n="0737b24"/><cb:div type="other"><cb:mulu type="其他" level="2">題松花罈</cb:mulu><head>題松花罈</head>
+<lb ed="J" n="0737b25"/><p xml:id="pJ38p0737b2501">醍醐上味為世所珍若遇非器翻成穢物君子擇器
+<lb ed="J" n="0737b26"/>可不慎歟長岡大司空家有茶罈傳自祖父流于上
+<lb ed="J" n="0737b27"/>古外質素樸內蘊蘭馨因以松花名之戒家人護惜
+<lb ed="J" n="0737b28"/>如眼中珠咦世間美器誠為難得長岡實之不亦宜
+<lb ed="J" n="0737b29"/>乎一日耑託融公轉為求識遂書數語以歸之乃問
+<lb ed="J" n="0737b30"/>融公曰渠之世器吾已知矣公之法器試舉似看公
+<pb ed="J" xml:id="J38.B425.0737c" n="0737c"/>
+<lb ed="J" n="0737c01"/>佇立微笑予曰猶較一籌公唯唯避坐予復謂之曰
+<lb ed="J" n="0737c02"/>公此法器自無始劫流至于今盡未來際而不損壞
+<lb ed="J" n="0737c03"/>者較之世器與天地同悠久而傳自上古者不啻宵
+<lb ed="J" n="0737c04"/>壤矣然此法器人人本具只為年代已久多為遺忘
+<lb ed="J" n="0737c05"/>今既歷歷不昧實為希有倘他日以裝法乳實為幸
+<lb ed="J" n="0737c06"/>甚紙長併書此以示。</p></cb:div>
+<lb ed="J" n="0737c07"/><cb:div type="other"><cb:mulu type="其他" level="2">題畫卷</cb:mulu><head>題畫卷</head>
+<lb ed="J" n="0737c08"/><p xml:id="pJ38p0737c0801">明解元唐伯虎慕唐宋文物圖成此卷妙手丹青盍
+<lb ed="J" n="0737c09"/>得意時筆也流傳數十年脫落在何一粟居士箱裏
+<lb ed="J" n="0737c10"/>一日特來請跋出以相示翛然靜深神氣飛動亞然
+<lb ed="J" n="0737c11"/>欲語不勝清絕遂援筆題其後曰佛說三界法惟是
+<lb ed="J" n="0737c12"/>一心作故十界聖凡皆一心之影像然像外之像影
+<lb ed="J" n="0737c13"/>中之影及一切幻妄豈從外來耶但了法法惟心此
+<lb ed="J" n="0737c14"/>心亦如幻耳幻若不立真亦俱遣且道影像向甚處
+<lb ed="J" n="0737c15"/>安著者裏具一隻眼看。</p></cb:div>
+<lb ed="J" n="0737c16"/><cb:div type="other"><cb:mulu type="其他" level="2">題畫馬</cb:mulu><head>題畫馬</head>
+<lb ed="J" n="0737c17"/><p xml:id="pJ38p0737c1701">龍無常形筆可欺世驥以恒見畫者難工工其似者
+<lb ed="J" n="0737c18"/>人皆貴之予觀此圖臥立展轉情狀入神意非庸筆
+<lb ed="J" n="0737c19"/>所能殆必趙松雪學士擬向異類中行寓其逸想耳
+<lb ed="J" n="0737c20"/>子其珍之以俟明眼。</p></cb:div></cb:div>
+<lb ed="J" n="0737c21"/><cb:div type="other"><cb:mulu type="其他" level="1">文</cb:mulu><head>文</head>
+<lb ed="J" n="0737c22"/><p cb:type="head2" xml:id="pJ38p0737c2201">紀壽文</p>
+<lb ed="J" n="0737c23"/><p xml:id="pJ38p0737c2301">歲重光大淵獻復月之孔日恭逢本師老和尚八秩
+<lb ed="J" n="0737c24"/>降生之辰壽山嗣法不肖徒如一敬爇栴檀頂五百
+<lb ed="J" n="0737c25"/>拜奉祝以文曰天地未分道在天地天地判矣道在
+<lb ed="J" n="0737c26"/>聖賢聖賢出世道滿天下夫道之在天下也與天地
+<lb ed="J" n="0737c27"/>同一氣與今古同一時與歲月同一息與晝夜無分
+<lb ed="J" n="0737c28"/>限量同一機焉自覺皇應世肇啟大道之光為九天
+<lb ed="J" n="0737c29"/>十地授受相承垂今七十葉以至本師老人法嗣徑
+<lb ed="J" n="0737c30"/>山費老祖之一燈即同大道之一光與一氣一息一
+<pb ed="J" xml:id="J38.B425.0738a" n="0738a"/>
+<lb ed="J" n="0738a01"/>機為天下用至足為天下法也天下之人有能入聖
+<lb ed="J" n="0738a02"/>賢之閫奧窮天地之根源者始可與言出世之道也
+<lb ed="J" n="0738a03"/>茲值老人大誕不肖雖不敏可無片言為出世壽據
+<lb ed="J" n="0738a04"/>世出而論無生尚不可得豈有生之可算數無量壽
+<lb ed="J" n="0738a05"/>尚不可名豈可計甲子而為慶祝然不肖之所壽老
+<lb ed="J" n="0738a06"/>人者異乎世之所謂壽也為壽一燈之光先天而映
+<lb ed="J" n="0738a07"/>後世者也伏思老人自幼至壯之老出處參方千百
+<lb ed="J" n="0738a08"/>其艱繼承大法出世開堂歷三十餘載七住名藍大
+<lb ed="J" n="0738a09"/>振黃檗宗風為中外叢林師表荷國主賜地開山成
+<lb ed="J" n="0738a10"/>今東渡一系宗始座下龍象恒千指圍繞無非法子
+<lb ed="J" n="0738a11"/>宗孫為一系相承於不息豈非古斷際之重來歟今
+<lb ed="J" n="0738a12"/>者壽屆耋齡道貌龐然春風法身矍然乾健耳聰目
+<lb ed="J" n="0738a13"/>明甚為希有不肖是祝豈徒奓東海之籌誇南山之
+<lb ed="J" n="0738a14"/>頌喻天地之高厚能且盡哉若老人者道邁今古德
+<lb ed="J" n="0738a15"/>配聖賢壯契無生年忘逸老雖示生之可見而其所
+<lb ed="J" n="0738a16"/>以生之不可見豈等閒春秋同日語耶且夫山之高
+<lb ed="J" n="0738a17"/>有頂海之深有涯乾坤之固有時而弊將焉用祝烏
+<lb ed="J" n="0738a18"/>足是擬惟最上一乘正法眼為壽乃致其幾耳試觀
+<lb ed="J" n="0738a19"/>乎先天地生而無始後天地老而無終萬有依為父
+<lb ed="J" n="0738a20"/>母四時循歷不凋此是吾老人正法之長春也與其
+<lb ed="J" n="0738a21"/>趙州翁之柏樹子密菴祖之破砂盆無二無二分無
+<lb ed="J" n="0738a22"/>別無斷故即此無二無別之長春普壽人天以及未
+<lb ed="J" n="0738a23"/>來際盡大地微塵數眾生同證本來金剛壽域同明
+<lb ed="J" n="0738a24"/>固有元辰是不肖之至祝也作如是觀者始知我師
+<lb ed="J" n="0738a25"/>之道一一則著著則圓圓則大大則化化則浩然如
+<lb ed="J" n="0738a26"/>環之無端無端之理可以包天地超日月詎祇年劫
+<lb ed="J" n="0738a27"/>之多歷已哉敢於是為壽老人亦自破顏而默點也
+<lb ed="J" n="0738a28"/>耳重說偈曰陽回觸動法中龍福海無邊足有容異
+<lb ed="J" n="0738a29"/>國雙傳東日缽耋齡大振少林宗頂門涌日昭沙界
+<lb ed="J" n="0738a30"/>舌罅藏雷徹九重正眼豁空壽者相微塵數劫一春
+<pb ed="J" xml:id="J38.B425.0738b" n="0738b"/>
+<lb ed="J" n="0738b01"/>冬。</p></cb:div>
+<lb ed="J" n="0738b02"/><cb:div type="other"><cb:mulu type="其他" level="1">祭文</cb:mulu><head>祭文</head>
+<lb ed="J" n="0738b03"/><cb:div type="other"><cb:mulu type="其他" level="2">祭考妣文</cb:mulu><head>祭考妣文</head>
+<lb ed="J" n="0738b04"/><p xml:id="pJ38p0738b0401">維順治歲在癸巳孟秋望日出家男某等恭就雪峰
+<lb ed="J" n="0738b05"/>山堂設位致祭稽首拜奠先考林府君先妣方老孺
+<lb ed="J" n="0738b06"/>人謹陳情以昭告曰嗚呼生我父母也育我父母也
+<lb ed="J" n="0738b07"/>昇天罔極何以答劬勞也不孝之罪不容不再言之
+<lb ed="J" n="0738b08"/>也蚤年失怙辭母出家非背恩也將期出世之道報
+<lb ed="J" n="0738b09"/>父母也不願婚娶非絕倫也將以紹法王之覺胤也
+<lb ed="J" n="0738b10"/>長兄獨膳非乏供也將以禪悅法味助甘旨也圓頂
+<lb ed="J" n="0738b11"/>然臂非毀傷也效古人重法輕身易成道業也故從
+<lb ed="J" n="0738b12"/>其大而忘其世之所謂孝也孀母欣然放之而從不
+<lb ed="J" n="0738b13"/>孝之志也及不孝歸省未嘗不以此道喻吾母也吾
+<lb ed="J" n="0738b14"/>母念道勤切每至忘暄涼廢寢食以克臻此道也吾
+<lb ed="J" n="0738b15"/>父當年雖未聞道而歸今或聞之必含笑于九原也
+<lb ed="J" n="0738b16"/>去春吾母念佛西往俱會吾父于上善之堂自無疑
+<lb ed="J" n="0738b17"/>也不孝忍生為法即父母肉身常住于世為擔荷也
+<lb ed="J" n="0738b18"/>茲值自恣之晨敢薦露芽秋月于古雪峰頭將報親
+<lb ed="J" n="0738b19"/>也嚴慈有靈同在寂滅光中霑法喜也海淚山毫亦
+<lb ed="J" n="0738b20"/>不能盡述不孝風木之遐思也願雙親生生世世為
+<lb ed="J" n="0738b21"/>不退轉菩提眷屬也尚饗。</p></cb:div>
+<lb ed="J" n="0738b22"/><cb:div type="other"><cb:mulu type="其他" level="2">祭福嚴費老和尚文</cb:mulu><head>祭福嚴費老和尚文</head>
+<lb ed="J" n="0738b23"/><p xml:id="pJ38p0738b2301">歲辛丑十月六日黃檗法孫如一寓肥州聖壽山崇
+<lb ed="J" n="0738b24"/>福禪寺為前一日申刻郵到福嚴師翁老和尚遺囑
+<lb ed="J" n="0738b25"/>併末後事實一封開函拜讀知師翁以是年三月廿
+<lb ed="J" n="0738b26"/>九日未時示寂今早同大眾灑掃法堂設位掛真謹
+<lb ed="J" n="0738b27"/>以名果之奠稽首再拜昭告于覺靈曰不肖廿五年
+<lb ed="J" n="0738b28"/>前從翁受戒廿五年後復承法誨得法源流是翁三
+<lb ed="J" n="0738b29"/>代落髮連枝祖共師太法屬孫曹仰如泰岱訃音忽
+<lb ed="J" n="0738b30"/>聞肝膽俱碎最後純陀遠愧不逮戀慕慈恩此心未
+<pb ed="J" xml:id="J38.B425.0738c" n="0738c"/>
+<lb ed="J" n="0738c01"/>艾道履德容不能復對鏡裏虛空重加綵繪翁嗣天
+<lb ed="J" n="0738c02"/>童正傳濟派道播寰中聲馳域外棒頭日月光吞沙
+<lb ed="J" n="0738c03"/>界喝下雷霆頓醒聾聵世壽七旬法說十會林皆栴
+<lb ed="J" n="0738c04"/>檀窟無異類將墜五燈不無顯晦厥集大成有光先
+<lb ed="J" n="0738c05"/>輩化事甫周功成而退大地眾生如失覆載末後光
+<lb ed="J" n="0738c06"/>明人天頂戴舍利金剛劫不同壞潮泣林號龍驤虎
+<lb ed="J" n="0738c07"/>拜願度未度來而必再定起那伽神遊大塊輪雲滄
+<lb ed="J" n="0738c08"/>桑無在不在尚饗。</p></cb:div>
+<lb ed="J" n="0738c09"/><cb:div type="other"><cb:mulu type="其他" level="2">祭德叟老檀越文</cb:mulu><head>祭德叟老檀越文</head>
+<lb ed="J" n="0738c10"/><p xml:id="pJ38p0738c1001">康熙七年十月廿四日乃前散騎常侍右近衛將監
+<lb ed="J" n="0738c11"/>源檀越德叟老居士首七之辰本山住持嗣祖沙門
+<lb ed="J" n="0738c12"/>某謹以瓣香甌茗致奠於台靈而言曰天地之大亦
+<lb ed="J" n="0738c13"/>歸乎極新故之恒何忻何戚人命遷謝如月晦蝕體
+<lb ed="J" n="0738c14"/>有盈虧光無變易況我檀越德本夙植扶豎剎竿不
+<lb ed="J" n="0738c15"/>忘佛敕身現元勛行同知識望重日邦名垂千億百
+<lb ed="J" n="0738c16"/>福滿前芝蘭盈膝退自功成韜光斂跡道契三周義
+<lb ed="J" n="0738c17"/>辱膠漆檀度丘山補報無及聊展寸忱薦以法力冀
+<lb ed="J" n="0738c18"/>轉蓮胎度世為急心心相照幽冥咫尺靈其鑑之。</p></cb:div>
+<lb ed="J" n="0738c19"/><cb:div type="other"><cb:mulu type="其他" level="2">祭龍溪禪師文</cb:mulu><head>祭龍溪禪師文</head>
+<lb ed="J" n="0738c20"/><p xml:id="pJ38p0738c2001">法弟龍溪禪師於今歲庚戌八月廿三日償水劫示
+<lb ed="J" n="0738c21"/>寂越二七為九月初五日訃聞聖壽山崇福寺同門
+<lb ed="J" n="0738c22"/>法兄某暨徒眾等作禮設位於山堂具茗果之奠奉
+<lb ed="J" n="0738c23"/>輓以偈併祭以文略敘其由曰嗚呼法弟榑桑首枝
+<lb ed="J" n="0738c24"/>金風頓折其枝雖萎其香愈烈塵世觀之以為匪祥
+<lb ed="J" n="0738c25"/>道眼照之如月盈缺請法開山堪稱僧傑續嗣砂盆
+<lb ed="J" n="0738c26"/>極力持挈上皇問道猶梅蘸雪西江橫吞羯羅吐舌
+<lb ed="J" n="0738c27"/>報緣會遇因該果徹警世無常示命呼吸朝聞夕可
+<lb ed="J" n="0738c28"/>片時千劫豈比生而罔聞死同灰滅神光徽猷終古
+<lb ed="J" n="0738c29"/>互迭萬象同辭莫竟其說於是以超情無閒之道以
+<lb ed="J" n="0738c30"/>致誠亮大寂定中必鑒予之痛切尚饗。</p></cb:div></cb:div>
+<pb ed="J" xml:id="J38.B425.0739a" n="0739a"/>
+<lb ed="J" n="0739a01"/><cb:div type="other"><cb:mulu type="其他" level="1">雜著</cb:mulu><head>雜著</head>
+<lb ed="J" n="0739a02"/><cb:div type="other"><cb:mulu type="其他" level="2">齋單引</cb:mulu><head>齋單引</head>
+<lb ed="J" n="0739a03"/><lg xml:id="lgJ38p0739a0301" type="abnormal"><l rend="text-indent:0em">施與受等食與法等是法平等福無等等一飯一茶
+<lb ed="J" n="0739a04"/>各自猛省</l></lg></cb:div>
+<lb ed="J" n="0739a05"/><cb:div type="other"><cb:mulu type="其他" level="2">寒林榜</cb:mulu><head>寒林榜</head>
+<lb ed="J" n="0739a06"/><p xml:id="pJ38p0739a0601">半點迷雲障盡無邊法界一輪慧月照空黑壤三途
+<lb ed="J" n="0739a07"/>鏡中之四聖非真夢裏之六凡自鬧天堂地獄元無
+<lb ed="J" n="0739a08"/>寸土福因業果結由一心苟非當下洞明依舊面前
+<lb ed="J" n="0739a09"/>黑暗汝等佛子大地冤親各展本地風光放下孃生
+<lb ed="J" n="0739a10"/>袋子赤腳踏翻生死海空拳打破祖師關直駕大乘
+<lb ed="J" n="0739a11"/>之車休跨白鶴頓入無生之國莫問楊州急切承當
+<lb ed="J" n="0739a12"/>幸母蹉過。</p></cb:div>
+<lb ed="J" n="0739a13"/><cb:div type="other"><cb:mulu type="其他" level="2">題心光壽榮信女影</cb:mulu><head>題心光壽榮信女影</head>
+<lb ed="J" n="0739a14"/><p xml:id="pJ38p0739a1401">壽榮上條氏乃法雲上座之養母也幼而穎悟好奉
+<lb ed="J" n="0739a15"/>佛閱經典過目成誦志求出家祖母不許年十七隨
+<lb ed="J" n="0739a16"/>祖母往神京稟戒於泉涌如周律師又謁大德妙心
+<lb ed="J" n="0739a17"/>法性諸師問禪學年大為諸親奪志遂歸大羽氏乃
+<lb ed="J" n="0739a18"/>別立庶房以充箕帚自築一室閒居齋戒閱諸經無
+<lb ed="J" n="0739a19"/>虛日或續一麻絲稱佛號一聲續一縷念經咒一句
+<lb ed="J" n="0739a20"/>積若千束織成全機命工製袈裟褊衫特供有道尊
+<lb ed="J" n="0739a21"/>宿其餘勝事難以殫述慶安壬辰秋大限時至令左
+<lb ed="J" n="0739a22"/>右設香案觀心念佛諸親環坐掩袖垂淚母止曰盍
+<lb ed="J" n="0739a23"/>各收涕聞天樂聲耶復請開善長老越溪為證明曰
+<lb ed="J" n="0739a24"/>時至矣合掌而逝春秋二十有八火化骨中綴舍利
+<lb ed="J" n="0739a25"/>見聞無不嘆異未寂之先聞黃檗老和尚將至本國
+<lb ed="J" n="0739a26"/>喜為雲子曰觀水須觀海法駕若至必須依止為出
+<lb ed="J" n="0739a27"/>世舟航庶不負出家初志惜我不見有子歸依吾願
+<lb ed="J" n="0739a28"/>足矣雲子依山僧座下發明大事皆孺人力也諒必
+<lb ed="J" n="0739a29"/>含笑于寂光中矣戌申秋十七年忌雲子述緣起求
+<lb ed="J" n="0739a30"/>薦乃為書。</p></cb:div></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_11d" cb:to="#end_11d"><corr>鍛</corr><sic>鍜</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_11e" cb:to="#end_11e"><corr>虡</corr><sic><g ref="#CB15428">𥵂</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_11f" cb:to="#end_11f"><corr>卻</corr><sic>郤</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

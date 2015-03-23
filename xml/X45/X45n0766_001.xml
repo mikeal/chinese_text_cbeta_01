@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X45n0766">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 766 起信論直解</title>
+			<author>明 德清述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $<date>$Date: 2009/04/22 08:58:45 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>Xuzangjing</name></respStmt>
+		<respStmt xml:id="resp2"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>2卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:58:45 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 45, No. 766 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB15081">
+	<charName>CBETA CHARACTER CB15081</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[竺-二+束]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>策</value>
+	</charProp>
+	<mapping type="unicode">U+41FF</mapping>
+	<mapping cb:dec="998121" type="PUA">U+F3AE9</mapping>
+</char>
+<char xml:id="CB15470">
+	<charName>CBETA CHARACTER CB15470</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(奧-釆+米)-大+ㄎ]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>粵</value>
+	</charProp>
+	<mapping cb:dec="998510" type="PUA">U+F3C6E</mapping>
+</char>
+<char xml:id="CB18607">
+	<charName>CBETA CHARACTER CB18607</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[穴/眇]</value>
+	</charProp>
+	<mapping cb:dec="1001647" type="PUA">U+F48AF</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2006-11-17T16:29:16">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" xml:id="X45.0766.0484b" n="0484b"/>
+<lb ed="X" n="0484b01"/><milestone unit="juan" n="1"/>
+<lb ed="X" n="0484b02"/><cb:div type="xu"><cb:mulu type="序" level="1">No. 766-A 刻起信論直解題辭</cb:mulu><head>No. 766-A
+<lb ed="X" n="0484b03"/><lb ed="R072" n="0153a01"/> <anchor xml:id="nkr_note_orig_0484002" n="0484002"/>刻起信論直解題辭</head>
+<lb ed="X" n="0484b04"/>
+<lb ed="X" n="0484b05"/><lb ed="R072" n="0153a02"/><p xml:id="pX45p0484b0501">起信論者。乃馬鳴大師為破小乘外道邪見。宗百部
+<lb ed="X" n="0484b06"/><lb ed="R072" n="0153a03"/>大乘經典所作。以為發起正信也。故立論宗法界一
+<lb ed="X" n="0484b07"/><lb ed="R072" n="0153a04"/>心。開真妄二門。徹生滅之本。窮迷悟之源。指修行之
+<lb ed="X" n="0484b08"/><lb ed="R072" n="0153a05"/>正路。示止觀之妙門。總括一萬一千餘言。理無不盡。
+<lb ed="X" n="0484b09"/><lb ed="R072" n="0153a06"/>事無不該。可謂大教之關鑰。禪宗司南也。以文約義
+<lb ed="X" n="0484b10"/><lb ed="R072" n="0153a07"/>博。幽深窈<g ref="#CB18607">󴢯</g>。難以致詰。賢首舊疏。科釋最為精詳。加
+<lb ed="X" n="0484b11"/><lb ed="R072" n="0153a08"/>之記文浩瀚。學者望洋。杳莫可究。予嘗就本疏。少刪
+<lb ed="X" n="0484b12"/><lb ed="R072" n="0153a09"/>其繁。目為疏略。業<anchor xml:id="beg_1" type="cb-app"/>已<anchor xml:id="end_1"/>刻雙徑。率多尊崇。頃念法門寥
+<lb ed="X" n="0484b13"/><lb ed="R072" n="0153a10"/>落。講席荒涼。初學之士。既無師匠可憑。<anchor xml:id="beg_2" type="cb-app"/>己<anchor xml:id="end_2"/>眼不明。非
+<lb ed="X" n="0484b14"/><lb ed="R072" n="0153a11"/>仗此論。無以入大乘生正信。將恐久而無聞焉。山居
+<lb ed="X" n="0484b15"/><lb ed="R072" n="0153a12"/>禪悅之暇。因祖舊章。率意直注本文。貴在一貫。不假
+<lb ed="X" n="0484b16"/><lb ed="R072" n="0153a13"/>旁引枝蔓。而一心真妄迷悟之義。了然畢見。如視白
+<lb ed="X" n="0484b17"/><lb ed="R072" n="0153a14"/>黑。足有便於初學。非敢聞於大方也。門人超逸。久依
+<lb ed="X" n="0484b18"/><lb ed="R072" n="0153a15"/>在座。深討論義。似得其旨。今攜草歸<g ref="#CB15470">󳱮</g>。志欲刻之以
+<lb ed="X" n="0484b19"/><lb ed="R072" n="0153a16"/>為法施。予謂無佛法地。後學有志參究大法者。又當
+<lb ed="X" n="0484b20"/><lb ed="R072" n="0153a17"/>以此為瓦注也。若夫得意遺言。直入唯心現量。是在
+<lb ed="X" n="0484b21"/><lb ed="R072" n="0153a18"/>當人智眼。</p><p xml:id="pX45p0484b2105" rend="margin-left:0em;text-indent:1em;inline">時
+<lb ed="X" n="0484b22" type="honorific"/><lb ed="R072" n="0153b01"/>泰昌改元歲在庚申仲冬朔</p>
+<lb ed="X" n="0484b23"/><lb ed="R072" n="0153b02"/><p xml:id="pX45p0484b2301" rend="margin-left:8em">匡山逸叟憨山釋德清述</p></cb:div>
+<lb ed="X" n="0484b24"/>
+<pb ed="X" xml:id="X45.0766.0484c" n="0484c"/>
+<lb ed="X" n="0484c01"/>
+<lb ed="X" n="0484c02"/><cb:div type="other"><cb:mulu type="其他" level="1">No. 766-B 華嚴宗法界緣起綱要</cb:mulu><head>No. 766-B
+<lb ed="X" n="0484c03"/><lb ed="R072" n="0153b04"/> 華嚴宗法界緣起綱要</head>
+<lb ed="X" n="0484c04"/>
+<lb ed="X" n="0484c05"/><lb ed="R072" n="0153b05"/><p xml:id="pX45p0484c0501" rend="margin-left:1em">華嚴七祖。以馬鳴為初祖。然此論中未及圓融之
+<lb ed="X" n="0484c06"/><lb ed="R072" n="0153b06"/>旨。何以稱耶。向未有知其說者。後學竟茫然莫辨。
+<lb ed="X" n="0484c07"/><lb ed="R072" n="0153b07"/>故了不加意。使古人建立宗旨。卒無以暢明於世
+<lb ed="X" n="0484c08"/><lb ed="R072" n="0153b08"/>也。故今略示其要。令知所宗。</p>
+<lb ed="X" n="0484c09"/><lb ed="R072" n="0153b09"/><p xml:id="pX45p0484c0901">華嚴圓宗。以一真法界統四法界。依四法界立十玄
+<lb ed="X" n="0484c10"/><lb ed="R072" n="0153b10"/>門。惟四界十玄。皆由六相而立。是則六相以成圓融
+<lb ed="X" n="0484c11"/><lb ed="R072" n="0153b11"/>無礙之宗也。此論總明六相。則包括四界十玄理趣
+<lb ed="X" n="0484c12"/><lb ed="R072" n="0153b12"/>無遺。以六相為圓融之統。是則此論攝法界而無盡
+<lb ed="X" n="0484c13"/><lb ed="R072" n="0153b13"/>矣。故首標一心真如。為一法界大總相法門體也。且
+<lb ed="X" n="0484c14"/><lb ed="R072" n="0153b14"/>此論宗百部大乘所造。然百部大乘。乃化佛建立。即
+<lb ed="X" n="0484c15"/><lb ed="R072" n="0153b15"/>實之權。今此論總攝權乘歸於一實。要顯即權之實。
+<lb ed="X" n="0484c16"/><lb ed="R072" n="0153b16"/>引歸果海圓融之極致也。然論中雖未明顯圓融之
+<lb ed="X" n="0484c17"/><lb ed="R072" n="0153b17"/>旨。且三乘五性頓漸修證。都歸一心果海之源。而圓
+<lb ed="X" n="0484c18"/><lb ed="R072" n="0153b18"/>融具德。皆一心之妙。<anchor xml:id="beg_3" type="cb-app"/>已<anchor xml:id="end_3"/>具華嚴宗中。故此不說。單為
+<lb ed="X" n="0484c19"/><lb ed="R072" n="0154a01"/>引攝歸於性海。故論中最初所歸者乃報身佛。及斷
+<lb ed="X" n="0484c20"/><lb ed="R072" n="0154a02"/>惑所見者亦報身佛。而論義具明染淨同真。為一心
+<lb ed="X" n="0484c21"/><lb ed="R072" n="0154a03"/>之相用。以一念為染淨之緣起。是則全同華嚴。以法
+<lb ed="X" n="0484c22"/><lb ed="R072" n="0154a04"/>界緣起為宗。而十二緣生。即如來普光明智也。是知
+<lb ed="X" n="0484c23"/><lb ed="R072" n="0154a05"/>要入華嚴法界。必由此論為入法界之門也。</p>
+<lb ed="X" n="0484c24"/><lb ed="R072" n="0154a06"/><p xml:id="pX45p0484c2401">言六相者。乃總別同異成壞也。</p>
+<pb ed="X" xml:id="X45.0766.0485a" n="0485a"/>
+<lb ed="X" n="0485a01"/><lb ed="R072" n="0154a07"/><list><item xml:id="itemX45p0485a0101">一者總相。即一心真如。為法界大總相法門體。</item>
+<lb ed="X" n="0485a02"/><lb ed="R072" n="0154a08"/><item xml:id="itemX45p0485a0201">二者別相。即一心二門。三細六麤。五意六染。修斷差
+<lb ed="X" n="0485a03"/><lb ed="R072" n="0154a09"/>別也。</item>
+<lb ed="X" n="0485a04"/><lb ed="R072" n="0154a10"/><item xml:id="itemX45p0485a0401">三者同相。即聖凡染淨。因果性相。同一真如。即瓦器
+<lb ed="X" n="0485a05"/><lb ed="R072" n="0154a11"/>微塵之喻也。</item>
+<lb ed="X" n="0485a06"/><lb ed="R072" n="0154a12"/><item xml:id="itemX45p0485a0601">四者異相。即染淨諸法。各各差別。不一不雜。如塵器
+<lb ed="X" n="0485a07"/><lb ed="R072" n="0154a13"/>之不一也。</item>
+<lb ed="X" n="0485a08"/><lb ed="R072" n="0154a14"/><item xml:id="itemX45p0485a0801">五者成相。即染淨諸法。皆由一念緣起而成也。</item>
+<lb ed="X" n="0485a09"/><lb ed="R072" n="0154a15"/><item xml:id="itemX45p0485a0901">六者壞相。即染淨諸淨。各住自位。各各無性。無以自
+<lb ed="X" n="0485a10"/><lb ed="R072" n="0154a16"/>立也。</item></list>
+<lb ed="X" n="0485a11"/><lb ed="R072" n="0154a17"/><p xml:id="pX45p0485a1101">言四法界。乃理法界。事法界。理事無礙法界。事事無
+<lb ed="X" n="0485a12"/><lb ed="R072" n="0154a18"/>礙法界也。</p>
+<lb ed="X" n="0485a13"/><lb ed="R072" n="0154b01"/><list><item xml:id="itemX45p0485a1301">一者理法界。即一心真如。更無別法。全一真理。</item>
+<lb ed="X" n="0485a14"/><lb ed="R072" n="0154b02"/><item xml:id="itemX45p0485a1401">二者事法界。即一切聖凡染淨。依正因果。諸差別事
+<lb ed="X" n="0485a15"/><lb ed="R072" n="0154b03"/>法也。</item>
+<lb ed="X" n="0485a16"/><lb ed="R072" n="0154b04"/><item xml:id="itemX45p0485a1601">三者理事無礙法界者。由上理事相成。共有十門。以
+<lb ed="X" n="0485a17"/><lb ed="R072" n="0154b05"/>事攬理成。故全理成事。以理成事。故全事即理。以
+<lb ed="X" n="0485a18"/><lb ed="R072" n="0154b06"/>理能成事。故事不礙理。而能顯理。以事攬理成。故
+<lb ed="X" n="0485a19"/><lb ed="R072" n="0154b07"/>理不礙事。而能融事。理能成事。故全事即理。事能
+<lb ed="X" n="0485a20"/><lb ed="R072" n="0154b08"/>顯理。故全理即事。以理事相即。故得理事融鎔無
+<lb ed="X" n="0485a21"/><lb ed="R072" n="0154b09"/>礙也。法界觀十門分別。最為昭著。此略舉其要。</item>
+<lb ed="X" n="0485a22"/><lb ed="R072" n="0154b10"/><item xml:id="itemX45p0485a2201">四者事事無礙法界。以上理事無礙。今全理成事。故
+<lb ed="X" n="0485a23"/><lb ed="R072" n="0154b11"/>不必更言其理。以全事全理。故事事融攝。無障無
+<lb ed="X" n="0485a24"/><lb ed="R072" n="0154b12"/>礙。但以六相該收一切事法。則法法圓融。故成十
+<pb ed="X" xml:id="X45.0766.0485b" n="0485b"/>
+<lb ed="X" n="0485b01"/><lb ed="R072" n="0154b13"/>重玄門。以彰法界之大用。故此論義會六相。則<anchor xml:id="beg_4" type="cb-app"/>已<anchor xml:id="end_4"/>
+<lb ed="X" n="0485b02"/><lb ed="R072" n="0154b14"/>攝事事無礙圓融具德宗也。十玄門義。具在華嚴
+<lb ed="X" n="0485b03"/><lb ed="R072" n="0154b15"/>玄談中說。今但列名。</item></list>
+<lb ed="X" n="0485b04"/><lb ed="R072" n="0154b16"/><p xml:id="pX45p0485b0401">十門玄者。</p>
+<lb ed="X" n="0485b05"/><lb ed="R072" n="0154b17"/><list><item xml:id="itemX45p0485b0501">一同時具足相應門</item><item xml:id="itemX45p0485b0509">二廣狹自在無礙門</item>
+<lb ed="X" n="0485b06"/><lb ed="R072" n="0154b18"/><item xml:id="itemX45p0485b0601">三一多相容不同門</item><item xml:id="itemX45p0485b0609">四諸法相即自在門</item>
+<lb ed="X" n="0485b07"/><lb ed="R072" n="0155a01"/><item xml:id="itemX45p0485b0701">五祕密隱顯俱成門</item><item xml:id="itemX45p0485b0709">六微細相容安立門</item>
+<lb ed="X" n="0485b08"/><lb ed="R072" n="0155a02"/><item xml:id="itemX45p0485b0801">七因陀羅網境界門</item><item xml:id="itemX45p0485b0809">八託事顯法生解門</item>
+<lb ed="X" n="0485b09"/><lb ed="R072" n="0155a03"/><item xml:id="itemX45p0485b0901">九十世隔法異成門</item><item xml:id="itemX45p0485b0909">十主伴圓融具德門</item></list>
+<lb ed="X" n="0485b10"/><lb ed="R072" n="0155a04"/><p xml:id="pX45p0485b1001" rend="margin-left:1em">此十玄門義。如法界觀。及玄談中說。</p></cb:div>
+<lb ed="X" n="0485b11"/>
+<lb ed="X" n="0485b12"/>
+<lb ed="X" n="0485b13"/>
+<lb ed="X" n="0485b14"/>
+<lb ed="X" n="0485b15"/><cb:div type="other"><cb:mulu type="其他" level="1">大乘起信論直解</cb:mulu>
+<lb ed="X" n="0485b16"/><cb:docNumber>No. 766</cb:docNumber>
+<lb ed="X" n="0485b17"/><lb ed="R072" n="0156a01"/><cb:juan fun="open" n="1"><cb:mulu type="卷" n="1"></cb:mulu><cb:jhead>大乘起信論直解卷上</cb:jhead></cb:juan>
+<lb ed="X" n="0485b18"/><lb ed="R072" n="0156a02"/>
+<lb ed="X" n="0485b19"/><lb ed="R072" n="0156a03"/><cb:div type="commentary"><p xml:id="pX45p0485b1901" rend="margin-left:1em">此論之題目。乃一論之綱宗也。言大乘起信者。為
+<lb ed="X" n="0485b20"/><lb ed="R072" n="0156a04"/>欲發起大乘正信故。言大乘者。即所信之法體。所
+<lb ed="X" n="0485b21"/><lb ed="R072" n="0156a05"/>言法者。謂眾生心。是心即攝一切世間出世間法。
+<lb ed="X" n="0485b22"/><lb ed="R072" n="0156a06"/>具有體相用三大義。故云大也。乘者。謂此一心有
+<lb ed="X" n="0485b23"/><lb ed="R072" n="0156a07"/>運載義。以諸佛乘此而證菩提涅槃。菩薩乘此廣
+<lb ed="X" n="0485b24"/><lb ed="R072" n="0156a08"/>修萬行。下化眾生。上求佛果。眾生乘此而輪轉生
+<pb ed="X" xml:id="X45.0766.0485c" n="0485c"/>
+<lb ed="X" n="0485c01"/><lb ed="R072" n="0156a09"/>死。以此一心。是一切聖凡迷悟因果之總相故。故
+<lb ed="X" n="0485c02"/><lb ed="R072" n="0156a10"/>下文云。即是一法界大總相法門體。今者欲令眾
+<lb ed="X" n="0485c03"/><lb ed="R072" n="0156a11"/>生諦信此心即是大乘。正解不謬。意要發起大乘
+<lb ed="X" n="0485c04"/><lb ed="R072" n="0156a12"/>正信。故云大乘起信。然能信者是人。大乘即所信
+<lb ed="X" n="0485c05"/><lb ed="R072" n="0156a13"/>之法。義兼人法。以法為機設故。此論之作。以佛入
+<lb ed="X" n="0485c06"/><lb ed="R072" n="0156a14"/>滅六百年中。小乘之人。不信唯心。心外取法。多起
+<lb ed="X" n="0485c07"/><lb ed="R072" n="0156a15"/>諍論。外道邪執。破壞正法。故論主興悲。特造此論。
+<lb ed="X" n="0485c08"/><lb ed="R072" n="0156a16"/>故下因緣云。為欲除疑捨邪執故。以疑與信反。今
+<lb ed="X" n="0485c09"/><lb ed="R072" n="0156a17"/>信此心。則疑自除矣。此論葢宗楞伽思益等百部
+<lb ed="X" n="0485c10"/><lb ed="R072" n="0156a18"/>大乘經所造。發明唯心唯識之旨。統歸一心。為性
+<lb ed="X" n="0485c11"/><lb ed="R072" n="0156b01"/>相二宗之綱要。深窮迷悟之根源。指示修行之犍
+<lb ed="X" n="0485c12"/><lb ed="R072" n="0156b02"/>要。所謂總攝如來所說深廣之義。實大教之綱宗。
+<lb ed="X" n="0485c13"/><lb ed="R072" n="0156b03"/>禪門之的旨也。論者。決擇是非。發明正理。揀非經
+<lb ed="X" n="0485c14"/><lb ed="R072" n="0156b04"/>律。故以論明。賢首本疏精詳。但科段少隔。前<anchor xml:id="beg_5" type="cb-app"/>已<anchor xml:id="end_5"/>刪
+<lb ed="X" n="0485c15"/><lb ed="R072" n="0156b05"/>繁從略。謂之疏略。然其中文義。少有不馴。故今仍
+<lb ed="X" n="0485c16"/><lb ed="R072" n="0156b06"/>遵本疏正義。順為直解。以便初學。非敢妄有臆說。
+<lb ed="X" n="0485c17"/><lb ed="R072" n="0156b07"/>觀者幸無以人廢言。取信於心。是所望也。</p></cb:div>
+<lb ed="X" n="0485c18"/><lb ed="R072" n="0156b08"/><cb:div type="orig"><p xml:id="pX45p0485c1801" rend="margin-left:3em">馬鳴菩薩造</p></cb:div>
+<lb ed="X" n="0485c19"/><lb ed="R072" n="0156b09"/><cb:div type="commentary"><p xml:id="pX45p0485c1901" rend="margin-left:1em">此造論人也。馬鳴者。以此菩薩初生之時。感羣馬
+<lb ed="X" n="0485c20"/><lb ed="R072" n="0156b10"/>悲鳴。故以為名。及說法時。諸馬聞之。亦皆悲鳴。疏
+<lb ed="X" n="0485c21"/><lb ed="R072" n="0156b11"/>引摩訶摩耶經云。如來滅後六百歲<anchor xml:id="beg_6" type="cb-app"/>已<anchor xml:id="end_6"/>。諸外道等。
+<lb ed="X" n="0485c22"/><lb ed="R072" n="0156b12"/>邪見競興。毀滅佛法。有一比丘名曰馬鳴。善說法
+<lb ed="X" n="0485c23"/><lb ed="R072" n="0156b13"/>要。降伏一切諸外道輩。</p></cb:div>
+<lb ed="X" n="0485c24"/><lb ed="R072" n="0156b14"/><cb:div type="orig"><p xml:id="pX45p0485c2401" rend="margin-left:3em">真諦三藏譯</p></cb:div>
+<pb ed="X" xml:id="X45.0766.0486a" n="0486a"/>
+<lb ed="X" n="0486a01"/><lb ed="R072" n="0156b15"/><cb:div type="commentary"><p xml:id="pX45p0486a0101" rend="margin-left:1em">此譯人名也。論有二譯。一西印土優禪尼國沙門
+<lb ed="X" n="0486a02"/><lb ed="R072" n="0156b16"/>波羅末陀。此云真諦。梁元帝承聖三年。於衡州建
+<lb ed="X" n="0486a03"/><lb ed="R072" n="0156b17"/>興寺。譯成一卷。二十四紙。一于闐國沙門實叉難
+<lb ed="X" n="0486a04"/><lb ed="R072" n="0156b18"/>陀。此云喜學。大周則天時。於東都佛授記寺。譯成
+<lb ed="X" n="0486a05"/><lb ed="R072" n="0157a01"/>兩卷。亦二十四紙。今行前譯。</p></cb:div>
+<lb ed="X" n="0486a06"/><lb ed="R072" n="0157a02"/><cb:div type="orig"><p xml:id="pX45p0486a0601" rend="margin-left:4em">唐西京太原寺沙門　法藏　造疏</p>
+<lb ed="X" n="0486a07"/><lb ed="R072" n="0157a03"/><p xml:id="pX45p0486a0701" rend="margin-left:4em">明匡山法雲寺沙門　德清　直解</p></cb:div>
+<lb ed="X" n="0486a08"/><lb ed="R072" n="0157a04"/><cb:div type="commentary"><p xml:id="pX45p0486a0801" rend="margin-left:2em">將著論文先歸敬請加。</p><p xml:id="pX45p0486a0810" rend="margin-left:2em;inline">後正述論文。</p><p xml:id="pX45p0486a0815" rend="margin-left:2em;inline">且初。</p></cb:div>
+<lb ed="X" n="0486a09"/><lb ed="R072" n="0157a05"/><cb:div type="orig"><lg xml:id="lgX45p0486a0901"><l>歸命盡十方</l></lg></cb:div>
+<lb ed="X" n="0486a10"/><lb ed="R072" n="0157a06"/><cb:div type="commentary"><p xml:id="pX45p0486a1001" rend="margin-left:1em">將造斯論。先須歸命三寶。請求加被。所以然者。以
+<lb ed="X" n="0486a11"/><lb ed="R072" n="0157a07"/>造論釋經。經乃佛說。佛智甚深。非情可測。故請三
+<lb ed="X" n="0486a12"/><lb ed="R072" n="0157a08"/>寶威力加被攝受。故使論義印契佛心。且示法有
+<lb ed="X" n="0486a13"/><lb ed="R072" n="0157a09"/>所宗。以三寶是所依故。今云歸命。表能歸之心也。
+<lb ed="X" n="0486a14"/><lb ed="R072" n="0157a10"/>欲入法性。先忘我相。然命以統攝六根。今以命歸。
+<lb ed="X" n="0486a15"/><lb ed="R072" n="0157a11"/>則身心俱亡。能歸之至也。十方乃所歸之分際。意
+<lb ed="X" n="0486a16"/><lb ed="R072" n="0157a12"/>謂所著論義。乃十法界之宗。故須歸命盡十方之
+<lb ed="X" n="0486a17"/><lb ed="R072" n="0157a13"/>三寶。以心無分限。故境亦無量。意在歸十方法界
+<lb ed="X" n="0486a18"/><lb ed="R072" n="0157a14"/>帝網剎中無盡三寶也。</p></cb:div>
+<lb ed="X" n="0486a19"/><lb ed="R072" n="0157a15"/><cb:div type="orig"><lg xml:id="lgX45p0486a1901"><l>最勝業徧知</l><l>色無礙自在</l><l>救世大悲者</l></lg></cb:div>
+<lb ed="X" n="0486a20"/><lb ed="R072" n="0157a16"/><cb:div type="commentary"><p xml:id="pX45p0486a2001" rend="margin-left:1em">此歸佛寶也。佛以三輪應物。今所歸三輪。皆最殊
+<lb ed="X" n="0486a21"/><lb ed="R072" n="0157a17"/>勝。意顯非應化身。乃從法垂報之身也。徧知。意業
+<lb ed="X" n="0486a22"/><lb ed="R072" n="0157a18"/>最勝也。凡夫不知。外道邪知。二乘偏知。菩薩分知。
+<lb ed="X" n="0486a23"/><lb ed="R072" n="0157b01"/>唯佛徧知。以實智證理。理無不徹。權智鑒機。機無
+<lb ed="X" n="0486a24"/><lb ed="R072" n="0157b02"/>不宜。乃至法界眾生心念樂欲。無不盡知。故云徧
+<pb ed="X" xml:id="X45.0766.0486b" n="0486b"/>
+<lb ed="X" n="0486b01"/><lb ed="R072" n="0157b03"/>也。色無礙自在。身業最勝也。華嚴。佛有無量相。相
+<lb ed="X" n="0486b02"/><lb ed="R072" n="0157b04"/>有無量好。根根圓融。周徧自在。十身歷然。無壞無
+<lb ed="X" n="0486b03"/><lb ed="R072" n="0157b05"/>雜。故云無礙。救世大悲。語業最勝也。佛以音聲輪。
+<lb ed="X" n="0486b04"/><lb ed="R072" n="0157b06"/>應機說法。一音各解。故語最勝也。世。乃眾生世間。
+<lb ed="X" n="0486b05"/><lb ed="R072" n="0157b07"/>所救之處。大悲。乃能救之心。如來唯用大悲為力
+<lb ed="X" n="0486b06"/><lb ed="R072" n="0157b08"/>故。者。指人也。</p></cb:div>
+<lb ed="X" n="0486b07"/><lb ed="R072" n="0157b09"/><cb:div type="orig"><lg xml:id="lgX45p0486b0701"><l>及彼身體相</l><l>法性真如海</l><l>無量功德藏</l></lg></cb:div>
+<lb ed="X" n="0486b08"/><lb ed="R072" n="0157b10"/><cb:div type="commentary"><p xml:id="pX45p0486b0801" rend="margin-left:1em">此歸法寶也。及者。謂不但歸佛。亦歸法也。彼身。指
+<lb ed="X" n="0486b09"/><lb ed="R072" n="0157b11"/>上佛身。佛以法為身故。謂從真如所流教法。即是
+<lb ed="X" n="0486b10"/><lb ed="R072" n="0157b12"/>法身常住。以此中<anchor xml:id="beg_7" type="cb-app"/>已<anchor xml:id="end_7"/>有如來全身故。意顯此法即
+<lb ed="X" n="0486b11"/><lb ed="R072" n="0157b13"/>佛之體相本無二故。法性真如。正指法體。謂真如
+<lb ed="X" n="0486b12"/><lb ed="R072" n="0157b14"/>法性。即法身真體。以此法身。在有情為佛性。在無
+<lb ed="X" n="0486b13"/><lb ed="R072" n="0157b15"/>情為法性。以與一切染淨諸法為體性故。以有隨
+<lb ed="X" n="0486b14"/><lb ed="R072" n="0157b16"/>緣不變。不變隨緣。故喻如海。遇風起諸波浪。濕性
+<lb ed="X" n="0486b15"/><lb ed="R072" n="0157b17"/>無二。故云相也。如來藏中。含攝眾德。故云功德藏。</p></cb:div>
+<lb ed="X" n="0486b16"/><lb ed="R072" n="0157b18"/><cb:div type="orig"><lg xml:id="lgX45p0486b1601"><l>如實修行等</l></lg></cb:div>
+<lb ed="X" n="0486b17"/><lb ed="R072" n="0158a01"/><cb:div type="commentary"><p xml:id="pX45p0486b1701" rend="margin-left:1em">此歸僧寶也。僧通凡聖大小。今言如實修行。乃地
+<lb ed="X" n="0486b18"/><lb ed="R072" n="0158a02"/>上菩薩也。據後譯云。無邊德藏僧。勤求正覺者。則
+<lb ed="X" n="0486b19"/><lb ed="R072" n="0158a03"/>上句歎德。人能攝德。故名為藏。</p>
+<lb ed="X" n="0486b20"/><lb ed="R072" n="0158a04"/><p xml:id="pX45p0486b2001" rend="margin-left:2em">下述造論意。</p></cb:div>
+<lb ed="X" n="0486b21"/><lb ed="R072" n="0158a05"/><cb:div type="orig"><lg xml:id="lgX45p0486b2101"><l>為欲令眾生</l><l>除疑捨邪執</l><l>起大乘正信</l>
+<lb ed="X" n="0486b22"/><lb ed="R072" n="0158a06"/><l>佛種不斷故</l></lg></cb:div>
+<lb ed="X" n="0486b23"/><lb ed="R072" n="0158a07"/><cb:div type="commentary"><p xml:id="pX45p0486b2301" rend="margin-left:1em">此述造論意也。法不虗設。必有所為。今有四意。一
+<lb ed="X" n="0486b24"/><lb ed="R072" n="0158a08"/>以二乘不信唯心。故顯示一心正義。令除疑惑。二
+<pb ed="X" xml:id="X45.0766.0486c" n="0486c"/>
+<lb ed="X" n="0486c01"/><lb ed="R072" n="0158a09"/>以外道邪執。故對治邪執。令捨邪見。三以修行者
+<lb ed="X" n="0486c02"/><lb ed="R072" n="0158a10"/>未起正行。故分別發趣道相。令起正信以為行本。
+<lb ed="X" n="0486c03"/><lb ed="R072" n="0158a11"/>四為使信成滿。入住不退。堪受佛果。故云佛種不
+<lb ed="X" n="0486c04"/><lb ed="R072" n="0158a12"/>斷。為此多意。所以造論。</p></cb:div>
+<lb ed="X" n="0486c05"/><lb ed="R072" n="0158a13"/><cb:div type="orig"><p xml:id="pX45p0486c0501">論曰。有法能起摩訶衍信根。是故應說。</p></cb:div>
+<lb ed="X" n="0486c06"/><lb ed="R072" n="0158a14"/><cb:div type="commentary"><p xml:id="pX45p0486c0601" rend="margin-left:1em">此總標論宗本也。法者。即論所依宗本。謂一心法
+<lb ed="X" n="0486c07"/><lb ed="R072" n="0158a15"/>具二門三大義故正示所宗。摩訶衍。此云大乘。謂
+<lb ed="X" n="0486c08"/><lb ed="R072" n="0158a16"/>所宗心法。即是大乘。能信此心。即是大乘根本。有
+<lb ed="X" n="0486c09"/><lb ed="R072" n="0158a17"/>此勝益。是故須說。</p></cb:div>
+<lb ed="X" n="0486c10"/><lb ed="R072" n="0158a18"/><cb:div type="orig"><p xml:id="pX45p0486c1001">說有五分。云何為五。一者因緣分。二者立義分。三者
+<lb ed="X" n="0486c11"/><lb ed="R072" n="0158b01"/>解釋分。四者修行信心分。五者勸修利益分。</p></cb:div>
+<lb ed="X" n="0486c12"/><lb ed="R072" n="0158b02"/><cb:div type="commentary"><p xml:id="pX45p0486c1201" rend="margin-left:1em">此標作論規製。初開章門也。然分章者。使知義有
+<lb ed="X" n="0486c13"/><lb ed="R072" n="0158b03"/>所屬。故此一論大文。立有五分而為次第。法不孤
+<lb ed="X" n="0486c14"/><lb ed="R072" n="0158b04"/>起。必有因由。故首列因緣。由致既彰。必有宗本。故
+<lb ed="X" n="0486c15"/><lb ed="R072" n="0158b05"/>次立義。宗本幽深。非釋莫解。故次解釋。既解法義。
+<lb ed="X" n="0486c16"/><lb ed="R072" n="0158b06"/>非行莫階。故次修行信心。解行雖陳。純根懈退。故
+<lb ed="X" n="0486c17"/><lb ed="R072" n="0158b07"/>次勸修。此一論之大節也。凡經有三分。此因緣即
+<lb ed="X" n="0486c18"/><lb ed="R072" n="0158b08"/>序。中三分為正宗。勸修為流通。</p>
+<lb ed="X" n="0486c19"/><lb ed="R072" n="0158b09"/><p xml:id="pX45p0486c1901" rend="margin-left:2em">下釋因緣分。</p></cb:div>
+<lb ed="X" n="0486c20"/><lb ed="R072" n="0158b10"/><cb:div type="orig"><p xml:id="pX45p0486c2001">初說因緣分。問曰。有何因緣而造此論。答曰。是因緣
+<lb ed="X" n="0486c21"/><lb ed="R072" n="0158b11"/>有八。云何為八。一者。因緣總相。所謂為令眾生離一
+<lb ed="X" n="0486c22"/><lb ed="R072" n="0158b12"/>切苦。得究竟樂。非求世間名利恭敬故。</p></cb:div>
+<lb ed="X" n="0486c23"/><lb ed="R072" n="0158b13"/><cb:div type="commentary"><p xml:id="pX45p0486c2301" rend="margin-left:1em">此八因緣中。第一總相。與一論為發起之由也。以
+<lb ed="X" n="0486c24"/><lb ed="R072" n="0158b14"/>凡夫外道。迷此一心。以招苦苦壞苦行苦分段生
+<pb ed="X" xml:id="X45.0766.0487a" n="0487a"/>
+<lb ed="X" n="0487a01"/><lb ed="R072" n="0158b15"/>死之苦。二乘菩薩。尚有變易生死之微苦。今開示
+<lb ed="X" n="0487a02"/><lb ed="R072" n="0158b16"/>此心。令依之而修。則證得菩提覺法樂。涅槃寂滅
+<lb ed="X" n="0487a03"/><lb ed="R072" n="0158b17"/>樂。<anchor xml:id="beg_8" type="cb-app"/>但<anchor xml:id="end_8"/>為眾生離苦得樂。非求世間名利恭敬故。</p></cb:div>
+<lb ed="X" n="0487a04"/><lb ed="R072" n="0158b18"/><cb:div type="orig"><p xml:id="pX45p0487a0401">二者。為欲解釋如來根本之義。令諸眾生正解不謬
+<lb ed="X" n="0487a05"/><lb ed="R072" n="0159a01"/>故。</p></cb:div>
+<lb ed="X" n="0487a06"/><lb ed="R072" n="0159a02"/><cb:div type="commentary"><p xml:id="pX45p0487a0601" rend="margin-left:1em">此與立義分。及解釋分中。顯示正義。對治邪執。作
+<lb ed="X" n="0487a07"/><lb ed="R072" n="0159a03"/>發起因緣也。以眾生無有正解。多起邪見。以不達
+<lb ed="X" n="0487a08"/><lb ed="R072" n="0159a04"/>如來根本義故。今立義分中一心二門三大之義。
+<lb ed="X" n="0487a09"/><lb ed="R072" n="0159a05"/>乃如來之根本。今廣解釋。令諸眾生正解不謬故
+<lb ed="X" n="0487a10"/><lb ed="R072" n="0159a06"/>也。</p></cb:div>
+<lb ed="X" n="0487a11"/><lb ed="R072" n="0159a07"/><cb:div type="orig"><p xml:id="pX45p0487a1101">三者。為令善根成熟眾生。於摩訶衍法堪任不退信
+<lb ed="X" n="0487a12"/><lb ed="R072" n="0159a08"/>故。</p></cb:div>
+<lb ed="X" n="0487a13"/><lb ed="R072" n="0159a09"/><cb:div type="commentary"><p xml:id="pX45p0487a1301" rend="margin-left:1em">此即下分別發趣道相因緣也。以彼文云。令利根
+<lb ed="X" n="0487a14"/><lb ed="R072" n="0159a10"/>者。發決定信。進趣大道。堪任住於不退信故。此當
+<lb ed="X" n="0487a15"/><lb ed="R072" n="0159a11"/>十信滿心。故云成熟。入十住正定聚。故云不退。</p></cb:div>
+<lb ed="X" n="0487a16"/><lb ed="R072" n="0159a12"/><cb:div type="orig"><p xml:id="pX45p0487a1601">四者。為令善根微少眾生。修習信心故。</p></cb:div>
+<lb ed="X" n="0487a17"/><lb ed="R072" n="0159a13"/><cb:div type="commentary"><p xml:id="pX45p0487a1701" rend="margin-left:1em">此即下修行信心分。謂為令善根微少眾生。發四
+<lb ed="X" n="0487a18"/><lb ed="R072" n="0159a14"/>種心。修五種行。漸得善根成熟。以信未滿。故云微
+<lb ed="X" n="0487a19"/><lb ed="R072" n="0159a15"/>少。令進向滿。故云修行信心也。</p></cb:div>
+<lb ed="X" n="0487a20"/><lb ed="R072" n="0159a16"/><cb:div type="orig"><p xml:id="pX45p0487a2001">五者。為示方便。消惡業障。善護其心。遠離癡慢。出邪
+<lb ed="X" n="0487a21"/><lb ed="R072" n="0159a17"/>網故。</p></cb:div>
+<lb ed="X" n="0487a22"/><lb ed="R072" n="0159a18"/><cb:div type="commentary"><p xml:id="pX45p0487a2201" rend="margin-left:1em">此下為根劣易退者。賴多方便。故有四也。四中前
+<lb ed="X" n="0487a23"/><lb ed="R072" n="0159b01"/>三。為下中上。後一勸修。今當下品。謂為令業重惑
+<lb ed="X" n="0487a24"/><lb ed="R072" n="0159b02"/>多者。善根難發。故說禮懺方便。消惡業障。遠離癡
+<pb ed="X" xml:id="X45.0766.0487b" n="0487b"/>
+<lb ed="X" n="0487b01"/><lb ed="R072" n="0159b03"/>慢。出邪魔網故。</p></cb:div>
+<lb ed="X" n="0487b02"/><lb ed="R072" n="0159b04"/><cb:div type="orig"><p xml:id="pX45p0487b0201">六者。為示修習止觀。對治凡夫二乘心過故。</p></cb:div>
+<lb ed="X" n="0487b03"/><lb ed="R072" n="0159b05"/><cb:div type="commentary"><p xml:id="pX45p0487b0301" rend="margin-left:1em">此當中品也。下文修習止觀門中。雙明止觀。遣凡
+<lb ed="X" n="0487b04"/><lb ed="R072" n="0159b06"/>小二執。故云對治。</p></cb:div>
+<lb ed="X" n="0487b05"/><lb ed="R072" n="0159b07"/><cb:div type="orig"><p xml:id="pX45p0487b0501">七者。為示專念方便。生於佛前。必定不退信心故。</p></cb:div>
+<lb ed="X" n="0487b06"/><lb ed="R072" n="0159b08"/><cb:div type="commentary"><p xml:id="pX45p0487b0601" rend="margin-left:1em">此當上品也。即下文修行信心分末。勸生淨土。為
+<lb ed="X" n="0487b07"/><lb ed="R072" n="0159b09"/>劣根怯弱眾生。恐後報緣差成退。故令往生淨土。
+<lb ed="X" n="0487b08"/><lb ed="R072" n="0159b10"/>成不退也。</p></cb:div>
+<lb ed="X" n="0487b09"/><lb ed="R072" n="0159b11"/><cb:div type="orig"><p xml:id="pX45p0487b0901">八者。為示利益。勸修行故。</p></cb:div>
+<lb ed="X" n="0487b10"/><lb ed="R072" n="0159b12"/><cb:div type="commentary"><p xml:id="pX45p0487b1001" rend="margin-left:1em">此即下勸修利益分。謂為懈慢眾生。舉彼損益。勸
+<lb ed="X" n="0487b11"/><lb ed="R072" n="0159b13"/>令修習。總<g ref="#CB15081">䇿</g>成前諸行也。</p></cb:div>
+<lb ed="X" n="0487b12"/><lb ed="R072" n="0159b14"/><cb:div type="orig"><p xml:id="pX45p0487b1201">有如是等因緣。所以造論。</p></cb:div>
+<lb ed="X" n="0487b13"/><lb ed="R072" n="0159b15"/><cb:div type="commentary"><p xml:id="pX45p0487b1301" rend="margin-left:1em">此總結造論因緣也。葢菩薩本意。為度眾生。故以
+<lb ed="X" n="0487b14"/><lb ed="R072" n="0159b16"/>眾生發起造論之因緣也。此八因緣。初一是總。餘
+<lb ed="X" n="0487b15"/><lb ed="R072" n="0159b17"/>七別緣。總括一論。具載下文。</p></cb:div>
+<lb ed="X" n="0487b16"/><lb ed="R072" n="0159b18"/><cb:div type="orig"><p xml:id="pX45p0487b1601">問曰。脩多羅中。具有此法。何須重說。答曰。脩多羅中。
+<lb ed="X" n="0487b17"/><lb ed="R072" n="0160a01"/>雖有此法。以眾生根行不等。受解緣別。所謂如來在
+<lb ed="X" n="0487b18"/><lb ed="R072" n="0160a02"/>世。眾生利根。能說之人。色心業勝。圓音一演。異類等
+<lb ed="X" n="0487b19"/><lb ed="R072" n="0160a03"/>解。則不須論。</p></cb:div>
+<lb ed="X" n="0487b20"/><lb ed="R072" n="0160a04"/><cb:div type="commentary"><p xml:id="pX45p0487b2001" rend="margin-left:1em">此問明所以造論之意也。問曰。如上所示一一法
+<lb ed="X" n="0487b21"/><lb ed="R072" n="0160a05"/>門。佛說契經中具有。何暇重論。答曰。以眾生根有
+<lb ed="X" n="0487b22"/><lb ed="R072" n="0160a06"/>利鈍。受教之緣不等。故有經論之殊。所謂下。釋成
+<lb ed="X" n="0487b23"/><lb ed="R072" n="0160a07"/>根機不同。受解各別。故有經論廣略之不一也。葢
+<lb ed="X" n="0487b24"/><lb ed="R072" n="0160a08"/>如來在世。眾生根利。機因勝也。親見佛身三業殊
+<pb ed="X" xml:id="X45.0766.0487c" n="0487c"/>
+<lb ed="X" n="0487c01"/><lb ed="R072" n="0160a09"/>勝。親聞圓音。緣勝也。如此。則一音演說。異類齊解。
+<lb ed="X" n="0487c02"/><lb ed="R072" n="0160a10"/>此則尚不假結集之經。又何須論。</p></cb:div>
+<lb ed="X" n="0487c03"/><lb ed="R072" n="0160a11"/><cb:div type="orig"><p xml:id="pX45p0487c0301">若如來滅後。或有眾生。能以自力廣聞而取解者。</p></cb:div>
+<lb ed="X" n="0487c04"/><lb ed="R072" n="0160a12"/><cb:div type="commentary"><p xml:id="pX45p0487c0401" rend="margin-left:1em">此言如來滅後。根機不一。因緣各別。受解不同。於
+<lb ed="X" n="0487c05"/><lb ed="R072" n="0160a13"/>經於論。則有廣略不等也。且如來滅後。當正法之
+<lb ed="X" n="0487c06"/><lb ed="R072" n="0160a14"/>時。去佛不遠。眾生根利。有自智力。故能廣聞多經
+<lb ed="X" n="0487c07"/><lb ed="R072" n="0160a15"/>而取解者。</p></cb:div>
+<lb ed="X" n="0487c08"/><lb ed="R072" n="0160a16"/><cb:div type="orig"><p xml:id="pX45p0487c0801">或有眾生。亦以自力少聞而多解者。</p></cb:div>
+<lb ed="X" n="0487c09"/><lb ed="R072" n="0160a17"/><cb:div type="commentary"><p xml:id="pX45p0487c0901" rend="margin-left:1em">此亦利根眾生。有自智力。不假多聞。或一言之下。
+<lb ed="X" n="0487c10"/><lb ed="R072" n="0160a18"/>心地開通。一軸之中。義天朗耀。如上二類之機。則
+<lb ed="X" n="0487c11"/><lb ed="R072" n="0160b01"/>不須論。</p></cb:div>
+<lb ed="X" n="0487c12"/><lb ed="R072" n="0160b02"/><cb:div type="orig"><p xml:id="pX45p0487c1201">或有眾生無自心力。因於廣論而得解者。</p></cb:div>
+<lb ed="X" n="0487c13"/><lb ed="R072" n="0160b03"/><cb:div type="commentary"><p xml:id="pX45p0487c1301" rend="margin-left:1em">此乃劣機鈍根。無自智力。不能於經解甚深義。要
+<lb ed="X" n="0487c14"/><lb ed="R072" n="0160b04"/>假廣論多聞而得解者。</p></cb:div>
+<lb ed="X" n="0487c15"/><lb ed="R072" n="0160b05"/><cb:div type="orig"><p xml:id="pX45p0487c1501">自有眾生。復以廣論文多為煩。心樂總持少文而攝
+<lb ed="X" n="0487c16"/><lb ed="R072" n="0160b06"/>多義。能取解者。</p></cb:div>
+<lb ed="X" n="0487c17"/><lb ed="R072" n="0160b07"/><cb:div type="commentary"><p xml:id="pX45p0487c1701" rend="margin-left:1em">此自有厭煩要略之機。故略論不可不作。正為此
+<lb ed="X" n="0487c18"/><lb ed="R072" n="0160b08"/>論之因緣也。</p></cb:div>
+<lb ed="X" n="0487c19"/><lb ed="R072" n="0160b09"/><cb:div type="orig"><p xml:id="pX45p0487c1901">如是此論。為欲總攝如來廣大深法無邊義故。應說
+<lb ed="X" n="0487c20"/><lb ed="R072" n="0160b10"/>此論。</p></cb:div>
+<lb ed="X" n="0487c21"/><lb ed="R072" n="0160b11"/><cb:div type="commentary"><p xml:id="pX45p0487c2101" rend="margin-left:1em">此結今造論之意也。此論始終萬一千餘言。則<anchor xml:id="beg_9" type="cb-app"/>已<anchor xml:id="end_9"/>
+<lb ed="X" n="0487c22"/><lb ed="R072" n="0160b12"/>總攝如來廣大深法無邊妙義。盡在其中。可謂文
+<lb ed="X" n="0487c23"/><lb ed="R072" n="0160b13"/>至略而義至廣。所謂總百部大乘奧義。包括無遺。
+<lb ed="X" n="0487c24"/><lb ed="R072" n="0160b14"/>廓法界一心。如觀掌果。誠入理之玄門。修行之妙
+<pb ed="X" xml:id="X45.0766.0488a" n="0488a"/>
+<lb ed="X" n="0488a01"/><lb ed="R072" n="0160b15"/>指也。學者可不盡心焉。</p></cb:div>
+<lb ed="X" n="0488a02"/><lb ed="R072" n="0160b16"/><cb:div type="orig"><p xml:id="pX45p0488a0201"><anchor xml:id="beg_a" type="cb-app"/>已<anchor xml:id="end_a"/>說因緣分。次說立義分。摩訶衍者。總說有二種。云
+<lb ed="X" n="0488a03"/><lb ed="R072" n="0160b17"/>何為二。一者法。二者義。所言法者。謂眾生心。是心則
+<lb ed="X" n="0488a04"/><lb ed="R072" n="0160b18"/>攝一切世間出世間法。依於此心。顯示摩訶衍義。何
+<lb ed="X" n="0488a05"/><lb ed="R072" n="0161a01"/>以故。是心真如相。即示摩訶衍體故。是心生滅因緣
+<lb ed="X" n="0488a06"/><lb ed="R072" n="0161a02"/>相。能示摩訶衍自體相用故。</p></cb:div>
+<lb ed="X" n="0488a07"/><lb ed="R072" n="0161a03"/><cb:div type="commentary"><p xml:id="pX45p0488a0701" rend="margin-left:1em">此立義分。首標一心宗體。以顯大乘名義也。所言
+<lb ed="X" n="0488a08"/><lb ed="R072" n="0161a04"/>法者。謂一真法界大總相法門體。即如來藏清淨
+<lb ed="X" n="0488a09"/><lb ed="R072" n="0161a05"/>真心也。然而此心。體絕聖凡。本無迷悟。自性清淨。
+<lb ed="X" n="0488a10"/><lb ed="R072" n="0161a06"/>了無妄染。離名離相。絕諸對待。唯一真源。更無二
+<lb ed="X" n="0488a11"/><lb ed="R072" n="0161a07"/>法。又何有大乘之名耶。楞伽云大乘非乘。今言大
+<lb ed="X" n="0488a12"/><lb ed="R072" n="0161a08"/>乘者。葢依眾生心而立此名也。所言總攝世出世
+<lb ed="X" n="0488a13"/><lb ed="R072" n="0161a09"/>法者。經云如來藏轉三十二相入一切眾生身中。
+<lb ed="X" n="0488a14"/><lb ed="R072" n="0161a10"/>是則迷如來藏而為識藏。乃眾生心也。以此心乃
+<lb ed="X" n="0488a15"/><lb ed="R072" n="0161a11"/>不生不滅與生滅和合而成。名阿賴耶識。而此識
+<lb ed="X" n="0488a16"/><lb ed="R072" n="0161a12"/>體原是真如。亦名本覺。本無生滅。今因無明動彼
+<lb ed="X" n="0488a17"/><lb ed="R072" n="0161a13"/>淨心而有生滅。故為業識。以此心本是真如。故攝
+<lb ed="X" n="0488a18"/><lb ed="R072" n="0161a14"/>出世四聖之法。以依業識則有生死。故攝六凡之
+<lb ed="X" n="0488a19"/><lb ed="R072" n="0161a15"/>法。故云是心攝一切世間出世間法故。今依此心
+<lb ed="X" n="0488a20"/><lb ed="R072" n="0161a16"/>顯示大乘義者。以法界一心。具有體相用三大義
+<lb ed="X" n="0488a21"/><lb ed="R072" n="0161a17"/>故。今依此一心。開真如生滅二門。若約真如門。則
+<lb ed="X" n="0488a22"/><lb ed="R072" n="0161a18"/>離一切相。名言雙絕。但顯其體。不顯相用。故云即
+<lb ed="X" n="0488a23"/><lb ed="R072" n="0161b01"/>示摩訶衍體。若約生滅門。則妄依真起。即顯相用。
+<lb ed="X" n="0488a24"/><lb ed="R072" n="0161b02"/>故於生滅門中。具顯體相用三大之義。是故名大。
+<pb ed="X" xml:id="X45.0766.0488b" n="0488b"/>
+<lb ed="X" n="0488b01"/><lb ed="R072" n="0161b03"/>依此真妄二法有二轉依。是故名乘。故云依眾生
+<lb ed="X" n="0488b02"/><lb ed="R072" n="0161b04"/>心顯示大乘義也。此總出大乘得名之所以。先示
+<lb ed="X" n="0488b03"/><lb ed="R072" n="0161b05"/>真妄心法。通為大乘法體也。</p>
+<lb ed="X" n="0488b04"/><lb ed="R072" n="0161b06"/><p xml:id="pX45p0488b0401" rend="margin-left:2em">下示三大義。</p></cb:div>
+<lb ed="X" n="0488b05"/><lb ed="R072" n="0161b07"/><cb:div type="orig"><p xml:id="pX45p0488b0501">所言義者。則有三種。云何為三。一者體大。謂一切法
+<lb ed="X" n="0488b06"/><lb ed="R072" n="0161b08"/>真如平等不增減故。二者相大。謂如來藏具足無量
+<lb ed="X" n="0488b07"/><lb ed="R072" n="0161b09"/>性功德故。三者用大。能生一切世間出世間善因果
+<lb ed="X" n="0488b08"/><lb ed="R072" n="0161b10"/>故。一切諸佛本所乘故。一切菩薩皆乘此法到如來
+<lb ed="X" n="0488b09"/><lb ed="R072" n="0161b11"/>地故。</p></cb:div>
+<lb ed="X" n="0488b10"/><lb ed="R072" n="0161b12"/><cb:div type="commentary"><p xml:id="pX45p0488b1001" rend="margin-left:1em">此標列義門。以顯大乘得名。為下正義之張本也。
+<lb ed="X" n="0488b11"/><lb ed="R072" n="0161b13"/>所言義者。謂名依義立。有何義故而立大乘之名
+<lb ed="X" n="0488b12"/><lb ed="R072" n="0161b14"/>耶。以有三大義。故得大名。以有二運轉義。故得乘
+<lb ed="X" n="0488b13"/><lb ed="R072" n="0161b15"/>名。此之名義。蓋因真妄二法和合而有。故云依眾
+<lb ed="X" n="0488b14"/><lb ed="R072" n="0161b16"/>生心顯示摩訶衍義也。若言其體。則唯一真如。平
+<lb ed="X" n="0488b15"/><lb ed="R072" n="0161b17"/>等不二。不增不減。故<anchor xml:id="beg_b" type="cb-app"/>但<anchor xml:id="end_b"/>言體。今依如來藏隨染淨
+<lb ed="X" n="0488b16"/><lb ed="R072" n="0161b18"/>緣。以隨淨緣。則具無量自性功德。則成出世間因
+<lb ed="X" n="0488b17"/><lb ed="R072" n="0162a01"/>果。以隨染緣。則變自性功德而為恒沙煩惱。則成
+<lb ed="X" n="0488b18"/><lb ed="R072" n="0162a02"/>世間因果。故相用方顯。以此三大。染淨之所不虧。
+<lb ed="X" n="0488b19"/><lb ed="R072" n="0162a03"/>生滅之所不變。是故名大。諸佛菩薩皆乘此心。是
+<lb ed="X" n="0488b20"/><lb ed="R072" n="0162a04"/>故名乘。一論大旨。唯釋此義。故為宗本。</p></cb:div>
+<lb ed="X" n="0488b21"/><lb ed="R072" n="0162a05"/><cb:div type="orig"><p xml:id="pX45p0488b2101"><anchor xml:id="beg_c" type="cb-app"/>已<anchor xml:id="end_c"/>說立義分。次說解釋分。</p></cb:div>
+<lb ed="X" n="0488b22"/><lb ed="R072" n="0162a06"/><cb:div type="commentary"><p xml:id="pX45p0488b2201" rend="margin-left:1em">此結前生後。</p></cb:div>
+<lb ed="X" n="0488b23"/><lb ed="R072" n="0162a07"/><cb:div type="orig"><p xml:id="pX45p0488b2301">解釋有三種。云何為三。一者顯示正義。二者對治邪
+<lb ed="X" n="0488b24"/><lb ed="R072" n="0162a08"/>執。三者分別發趣道相。</p></cb:div>
+<pb ed="X" xml:id="X45.0766.0488c" n="0488c"/>
+<lb ed="X" n="0488c01"/><lb ed="R072" n="0162a09"/><cb:div type="commentary"><p xml:id="pX45p0488c0101" rend="margin-left:1em">此標列釋名也。顯示者。正釋大乘所依法義。對治
+<lb ed="X" n="0488c02"/><lb ed="R072" n="0162a10"/>者。既明正體。須遣異計。上釋大義。發趣者。趣進次
+<lb ed="X" n="0488c03"/><lb ed="R072" n="0162a11"/>第。正明乘義。此正宗一分。有此三段。依義解釋。</p></cb:div>
+<lb ed="X" n="0488c04"/><lb ed="R072" n="0162a12"/><cb:div type="orig"><p xml:id="pX45p0488c0401">顯示正義者。依一心法有二種門。云何為二。一者心
+<lb ed="X" n="0488c05"/><lb ed="R072" n="0162a13"/>真如門。二者心生滅門。是二種門。皆各總攝一切法。
+<lb ed="X" n="0488c06"/><lb ed="R072" n="0162a14"/>此義云何。以是二門不相離故。</p></cb:div>
+<lb ed="X" n="0488c07"/><lb ed="R072" n="0162a15"/><cb:div type="commentary"><p xml:id="pX45p0488c0701" rend="margin-left:1em">此標宗本正義。以釋立義依眾生心顯示摩訶衍
+<lb ed="X" n="0488c08"/><lb ed="R072" n="0162a16"/>義。為一論之綱要也。此論宗楞伽等經所造。今一
+<lb ed="X" n="0488c09"/><lb ed="R072" n="0162a17"/>心二門。葢依經而立也。經云。寂滅者名為一心。一
+<lb ed="X" n="0488c10"/><lb ed="R072" n="0162a18"/>心者名如來藏。此心一法不立。有無俱遣。生佛皆
+<lb ed="X" n="0488c11"/><lb ed="R072" n="0162b01"/>空。故云遠離覺所覺。是二悉皆離。是則真妄不立。
+<lb ed="X" n="0488c12"/><lb ed="R072" n="0162b02"/>寂滅湛然。故經中百八句。大慧約十法界名相妄
+<lb ed="X" n="0488c13"/><lb ed="R072" n="0162b03"/>想而問。故佛答云一切皆非。今云是心真如。為一
+<lb ed="X" n="0488c14"/><lb ed="R072" n="0162b04"/>法界大總相法門體。即經所示寂滅一心也。以一
+<lb ed="X" n="0488c15"/><lb ed="R072" n="0162b05"/>心寂滅不可說示。故大慧便問諸識有幾種生住
+<lb ed="X" n="0488c16"/><lb ed="R072" n="0162b06"/>滅。是約生滅門中容有言說。故五法三自性。皆依
+<lb ed="X" n="0488c17"/><lb ed="R072" n="0162b07"/>生滅門而有也。以經云諸識略有三種相。謂真識。
+<lb ed="X" n="0488c18"/><lb ed="R072" n="0162b08"/>現識。分別事識。故今論依一心立二門者。葢依真
+<lb ed="X" n="0488c19"/><lb ed="R072" n="0162b09"/>識立真如門。依現識分別事識立生滅門。故今真
+<lb ed="X" n="0488c20"/><lb ed="R072" n="0162b10"/>如。乃一心之真如。故名相妄想一切皆非。一法不
+<lb ed="X" n="0488c21"/><lb ed="R072" n="0162b11"/>立。四句俱遣。以依二識。故三細六麤五意六染。總
+<lb ed="X" n="0488c22"/><lb ed="R072" n="0162b12"/>屬名相妄想。皆生滅門收。此論立義之宗本也。前
+<lb ed="X" n="0488c23"/><lb ed="R072" n="0162b13"/>立義中云眾生心攝世間出世間法者。葢總約真
+<lb ed="X" n="0488c24"/><lb ed="R072" n="0162b14"/>妄和合之一心。以通含染淨諸法。為顯大乘依之
+<pb ed="X" xml:id="X45.0766.0489a" n="0489a"/>
+<lb ed="X" n="0489a01"/><lb ed="R072" n="0162b15"/>而得名也。今云是二種門皆各總攝一切法者。以
+<lb ed="X" n="0489a02"/><lb ed="R072" n="0162b16"/>顯如來藏識藏。真妄和合。各有力用。互相含攝。以
+<lb ed="X" n="0489a03"/><lb ed="R072" n="0162b17"/>顯不思議熏變之妙也。以如來藏具有恒沙諸淨
+<lb ed="X" n="0489a04"/><lb ed="R072" n="0162b18"/>功德。今迷而為識藏。而變恒沙淨功德而為染緣。
+<lb ed="X" n="0489a05"/><lb ed="R072" n="0163a01"/>今言各總攝者。以如來藏隨淨法熏。則真有力而
+<lb ed="X" n="0489a06"/><lb ed="R072" n="0163a02"/>妄無力。故染緣即變為淨法。則總攝染緣於如來
+<lb ed="X" n="0489a07"/><lb ed="R072" n="0163a03"/>藏中。通為不思議之淨用。若隨無明染緣熏。則妄
+<lb ed="X" n="0489a08"/><lb ed="R072" n="0163a04"/>有力而真無力。故淨德即變為染緣。則攝淨德於
+<lb ed="X" n="0489a09"/><lb ed="R072" n="0163a05"/>藏識中。通為不思議之業用。是則總是一如來藏。
+<lb ed="X" n="0489a10"/><lb ed="R072" n="0163a06"/><anchor xml:id="beg_d" type="cb-app"/>但<anchor xml:id="end_d"/>隨染淨熏變。以致真妄各別。互相含攝。故云以
+<lb ed="X" n="0489a11"/><lb ed="R072" n="0163a07"/>是二門不相離故也。此明如來藏不思議熏變之
+<lb ed="X" n="0489a12"/><lb ed="R072" n="0163a08"/>妙。故以此各總攝標顯。向下論文中生滅因緣染
+<lb ed="X" n="0489a13"/><lb ed="R072" n="0163a09"/>淨熏習。皆發揮此三字而<anchor xml:id="beg_e" type="cb-app"/>已<anchor xml:id="end_e"/>。</p></cb:div>
+<lb ed="X" n="0489a14"/><lb ed="R072" n="0163a10"/><cb:div type="orig"><p xml:id="pX45p0489a1401">心真如者。即是一法界大總相法門體。所謂心性不
+<lb ed="X" n="0489a15"/><lb ed="R072" n="0163a11"/>生不滅。一切諸法。唯依妄念而有差別。若離妄念。則
+<lb ed="X" n="0489a16"/><lb ed="R072" n="0163a12"/>無一切境界之相。是故一切法。從本以來。離言說相。
+<lb ed="X" n="0489a17"/><lb ed="R072" n="0163a13"/>離名字相。離心緣相。畢竟平等。無有變異。不可破壞。
+<lb ed="X" n="0489a18"/><lb ed="R072" n="0163a14"/>唯是一心。故名真如。</p></cb:div>
+<lb ed="X" n="0489a19"/><lb ed="R072" n="0163a15"/><cb:div type="commentary"><p xml:id="pX45p0489a1901" rend="margin-left:1em">此標釋立義分中是心真如也。何以名真如耶。謂
+<lb ed="X" n="0489a20"/><lb ed="R072" n="0163a16"/>即是一法界大總相法門體。一法界者。即無二真
+<lb ed="X" n="0489a21"/><lb ed="R072" n="0163a17"/>心。為萬法之所因依。界者。因也。總相法門體者。即
+<lb ed="X" n="0489a22"/><lb ed="R072" n="0163a18"/>一切聖凡依正因果之總相。皆依此心而為其體。
+<lb ed="X" n="0489a23"/><lb ed="R072" n="0163b01"/>然此心體本不生滅。所謂常住真心也。既云一真。
+<lb ed="X" n="0489a24"/><lb ed="R072" n="0163b02"/>元無差別之相。而今有差別者。唯依妄念而有返
+<pb ed="X" xml:id="X45.0766.0489b" n="0489b"/>
+<lb ed="X" n="0489b01"/><lb ed="R072" n="0163b03"/>顯。若無妄念。則湛寂一心。了無差別境界之相矣。
+<lb ed="X" n="0489b02"/><lb ed="R072" n="0163b04"/>雖則萬法差別。法法皆真。是故一切法從本<anchor xml:id="beg_f" type="cb-app"/>已<anchor xml:id="end_f"/>來。
+<lb ed="X" n="0489b03"/><lb ed="R072" n="0163b05"/>言思路絕。心行處滅。故一切言說名字分別。皆不
+<lb ed="X" n="0489b04"/><lb ed="R072" n="0163b06"/>可得。故皆云離也。由是染淨不能異。故云畢竟平
+<lb ed="X" n="0489b05"/><lb ed="R072" n="0163b07"/>等。四相所不遷。故無變異。不屬有為。故不可破壞。
+<lb ed="X" n="0489b06"/><lb ed="R072" n="0163b08"/>唯是一心。更無別法。以不妄不變。故名真如。</p></cb:div>
+<lb ed="X" n="0489b07"/><lb ed="R072" n="0163b09"/><cb:div type="orig"><p xml:id="pX45p0489b0701">以一切言說假名無實。<anchor xml:id="beg_10" type="cb-app"/>但<anchor xml:id="end_10"/>隨妄念。不可得故。言真如
+<lb ed="X" n="0489b08"/><lb ed="R072" n="0163b10"/>者。亦無有相。謂言說之極。因言遣言。此真如體無有
+<lb ed="X" n="0489b09"/><lb ed="R072" n="0163b11"/>可遣。以一切法悉皆真故。亦無可立。以一切法皆同
+<lb ed="X" n="0489b10"/><lb ed="R072" n="0163b12"/>如故。當知一切法不可說不可念。故名為真如。</p></cb:div>
+<lb ed="X" n="0489b11"/><lb ed="R072" n="0163b13"/><cb:div type="commentary"><p xml:id="pX45p0489b1101" rend="margin-left:1em">此釋上離緣。以顯真如絕待也。問。何以真如離名
+<lb ed="X" n="0489b12"/><lb ed="R072" n="0163b14"/>言相耶。答。以一切言說假名無實故。問。何以離心
+<lb ed="X" n="0489b13"/><lb ed="R072" n="0163b15"/>緣相耶。答。以隨妄念不可得故。問。若名言心緣一
+<lb ed="X" n="0489b14"/><lb ed="R072" n="0163b16"/>切皆離。如何是真如相耶。答。真如者亦無有相。以
+<lb ed="X" n="0489b15"/><lb ed="R072" n="0163b17"/>真如體離相寂滅。不可以相取故。問。既離名絕相。
+<lb ed="X" n="0489b16"/><lb ed="R072" n="0163b18"/>何以有真如之名耶。答。以真如之名。乃言說之極。
+<lb ed="X" n="0489b17"/><lb ed="R072" n="0164a01"/>此名之外。更無有可加者。故以真如之名。以遣名
+<lb ed="X" n="0489b18"/><lb ed="R072" n="0164a02"/>言之執耳。非是真如有相可名也。問。若名言既遣。
+<lb ed="X" n="0489b19"/><lb ed="R072" n="0164a03"/>而此真如之體亦可遣耶。答。此真如之體真實無
+<lb ed="X" n="0489b20"/><lb ed="R072" n="0164a04"/>妄。則無可遣。以可遣者妄耳。不可遣者真也。以一
+<lb ed="X" n="0489b21"/><lb ed="R072" n="0164a05"/>切法悉皆真故。無可遣也。問。若諸妄俱遣。唯立真
+<lb ed="X" n="0489b22"/><lb ed="R072" n="0164a06"/>如一法耶。答。亦無可立。謂若真外別有一法。則言
+<lb ed="X" n="0489b23"/><lb ed="R072" n="0164a07"/>可立。以一切法。皆與真如同體。無二無別。又何可
+<lb ed="X" n="0489b24"/><lb ed="R072" n="0164a08"/>立。以有如是義故。當知一切法不可說不可念。故
+<pb ed="X" xml:id="X45.0766.0489c" n="0489c"/>
+<lb ed="X" n="0489c01"/><lb ed="R072" n="0164a09"/>名真如。此究竟離相之地也。</p></cb:div>
+<lb ed="X" n="0489c02"/><lb ed="R072" n="0164a10"/><cb:div type="orig"><p xml:id="pX45p0489c0201">問曰。若如是義者。諸眾生等。云何隨順而能得入。答
+<lb ed="X" n="0489c03"/><lb ed="R072" n="0164a11"/>曰。若知一切法。雖說無有能說可說。雖念亦無能念
+<lb ed="X" n="0489c04"/><lb ed="R072" n="0164a12"/>可念。是名隨順。若離於念。名為得入。</p></cb:div>
+<lb ed="X" n="0489c05"/><lb ed="R072" n="0164a13"/><cb:div type="commentary"><p xml:id="pX45p0489c0501" rend="margin-left:1em">此問明隨順得入。以明觀智境也。問曰。言真如之
+<lb ed="X" n="0489c06"/><lb ed="R072" n="0164a14"/>體。既言思路絕。舉心即錯。動念即乖。則諸眾生等。
+<lb ed="X" n="0489c07"/><lb ed="R072" n="0164a15"/>云何隨順而得悟入。答曰。若知一切法雖說無有
+<lb ed="X" n="0489c08"/><lb ed="R072" n="0164a16"/>可說。雖念無有可念。此是方便隨順。若離於念。名
+<lb ed="X" n="0489c09"/><lb ed="R072" n="0164a17"/>為得入。以離念境界。唯證相應。故云得入。</p>
+<lb ed="X" n="0489c10"/><lb ed="R072" n="0164a18"/><p xml:id="pX45p0489c1001" rend="margin-left:2em">上明離言以明觀智境。</p>
+<lb ed="X" n="0489c11"/><lb ed="R072" n="0164b01"/><p xml:id="pX45p0489c1101" rend="margin-left:2em">下依言辯德以明生信境。</p></cb:div>
+<lb ed="X" n="0489c12"/><lb ed="R072" n="0164b02"/><cb:div type="orig"><p xml:id="pX45p0489c1201">復次真如者。依言說分別有二種義。一者如實空。以
+<lb ed="X" n="0489c13"/><lb ed="R072" n="0164b03"/>能究竟顯實故。二者如實不空。以有自體。具足無漏
+<lb ed="X" n="0489c14"/><lb ed="R072" n="0164b04"/>性功德故。</p></cb:div>
+<lb ed="X" n="0489c15"/><lb ed="R072" n="0164b05"/><cb:div type="commentary"><p xml:id="pX45p0489c1501" rend="margin-left:1em">此依言辯德。以釋立義分中是心真如相也。前顯
+<lb ed="X" n="0489c16"/><lb ed="R072" n="0164b06"/>離言但示其體。故云即一法界體平等無二。今則
+<lb ed="X" n="0489c17"/><lb ed="R072" n="0164b07"/>依言辯相。故云有二種義。義即相也。以即體之相
+<lb ed="X" n="0489c18"/><lb ed="R072" n="0164b08"/>故。但標真如。謂顯體有空不空二義也。如實空者。
+<lb ed="X" n="0489c19"/><lb ed="R072" n="0164b09"/>謂真如實體之中。空無妄染。以妄空故。實體自顯。
+<lb ed="X" n="0489c20"/><lb ed="R072" n="0164b10"/>故云究竟顯實。如實不空言有自體者。以異妄無
+<lb ed="X" n="0489c21"/><lb ed="R072" n="0164b11"/>體。謂自體不空。非斷滅也。言具足無漏性功德者。
+<lb ed="X" n="0489c22"/><lb ed="R072" n="0164b12"/>以異恒沙有漏煩惱。故云具足等。言如實體中。雖
+<lb ed="X" n="0489c23"/><lb ed="R072" n="0164b13"/>空無妄染。而能具足無漏性功德故。佛性論云。由
+<lb ed="X" n="0489c24"/><lb ed="R072" n="0164b14"/>客塵空故。與法界相離。無上法不空。與法界相隨。
+<pb ed="X" xml:id="X45.0766.0490a" n="0490a"/>
+<lb ed="X" n="0490a01"/><lb ed="R072" n="0164b15"/>是則妄染雖空。而德相不空也。</p></cb:div>
+<lb ed="X" n="0490a02"/><lb ed="R072" n="0164b16"/><cb:div type="orig"><p xml:id="pX45p0490a0201">所言空者。從本<anchor xml:id="beg_11" type="cb-app"/>已<anchor xml:id="end_11"/>來。一切染法不相應故。謂離一切
+<lb ed="X" n="0490a03"/><lb ed="R072" n="0164b17"/>法差別之相。以無虗妄心念故。</p></cb:div>
+<lb ed="X" n="0490a04"/><lb ed="R072" n="0164b18"/><cb:div type="commentary"><p xml:id="pX45p0490a0401" rend="margin-left:1em">此略釋空義也。謂真如實體。但依妄染本無。故說
+<lb ed="X" n="0490a05"/><lb ed="R072" n="0165a01"/>體空。若離妄染。則無空可說。謂此真體從來與一
+<lb ed="X" n="0490a06"/><lb ed="R072" n="0165a02"/>切染法不相應故。謂離一切妄法差別之相。則絕
+<lb ed="X" n="0490a07"/><lb ed="R072" n="0165a03"/>境。以無虗妄心念。則絕心。心境皆絕。故言如實空
+<lb ed="X" n="0490a08"/><lb ed="R072" n="0165a04"/>耳。</p></cb:div>
+<lb ed="X" n="0490a09"/><lb ed="R072" n="0165a05"/><cb:div type="orig"><p xml:id="pX45p0490a0901">當知真如自性。非有相。非無相。非非有相。非非無相。
+<lb ed="X" n="0490a10"/><lb ed="R072" n="0165a06"/>非有無俱相。非一相。非異相。非非一相。非非異相。非
+<lb ed="X" n="0490a11"/><lb ed="R072" n="0165a07"/>一異俱相。</p></cb:div>
+<lb ed="X" n="0490a12"/><lb ed="R072" n="0165a08"/><cb:div type="commentary"><p xml:id="pX45p0490a1201" rend="margin-left:1em">此廣釋空義。以顯真如實體。本離四句絕百非也。
+<lb ed="X" n="0490a13"/><lb ed="R072" n="0165a09"/>然有無四句。乃內教學佛法不得意者所計也。一
+<lb ed="X" n="0490a14"/><lb ed="R072" n="0165a10"/>異等四句。乃外道謬計也。謂真如之體。即般若真
+<lb ed="X" n="0490a15"/><lb ed="R072" n="0165a11"/>空。若不得般若義。則妄起四計。是為四謗。今顯四
+<lb ed="X" n="0490a16"/><lb ed="R072" n="0165a12"/>句既離。百非自遣。般若實體。平等現前。故總云非。
+<lb ed="X" n="0490a17"/><lb ed="R072" n="0165a13"/>楞伽百八俱非。總不出此二四句計。</p></cb:div>
+<lb ed="X" n="0490a18"/><lb ed="R072" n="0165a14"/><cb:div type="orig"><p xml:id="pX45p0490a1801">乃至總說。依一切眾生以有妄心。念念分別。皆不相
+<lb ed="X" n="0490a19"/><lb ed="R072" n="0165a15"/>應。故說為空。若離妄心。實無可空故。</p></cb:div>
+<lb ed="X" n="0490a20"/><lb ed="R072" n="0165a16"/><cb:div type="commentary"><p xml:id="pX45p0490a2001" rend="margin-left:1em">此結顯空義也。謂真如實體。非思量分別之境。故
+<lb ed="X" n="0490a21"/><lb ed="R072" n="0165a17"/>眾生種種妄想分別。皆與此體總不相應。以為遣
+<lb ed="X" n="0490a22"/><lb ed="R072" n="0165a18"/>彼妄念。故說體空。若離妄心。則空亦不立矣。又何
+<lb ed="X" n="0490a23"/><lb ed="R072" n="0165b01"/>有空之一字可說也。此則妄念既離。真亦不立。所
+<lb ed="X" n="0490a24"/><lb ed="R072" n="0165b02"/>謂究竟顯實也。</p></cb:div>
+<pb ed="X" xml:id="X45.0766.0490b" n="0490b"/>
+<lb ed="X" n="0490b01"/><lb ed="R072" n="0165b03"/><cb:div type="orig"><p xml:id="pX45p0490b0101">所言不空者。<anchor xml:id="beg_12" type="cb-app"/>已<anchor xml:id="end_12"/>顯法體空無妄故。即是真心。常恒不
+<lb ed="X" n="0490b02"/><lb ed="R072" n="0165b04"/>變。淨法滿足。則名不空。亦無有相可取。以離念境界。
+<lb ed="X" n="0490b03"/><lb ed="R072" n="0165b05"/>唯證相應故。</p></cb:div>
+<lb ed="X" n="0490b04"/><lb ed="R072" n="0165b06"/><cb:div type="commentary"><p xml:id="pX45p0490b0401" rend="margin-left:1em">此明不空義也。謂此不空更非別法。即前<anchor xml:id="beg_13" type="cb-app"/>已<anchor xml:id="end_13"/>顯法
+<lb ed="X" n="0490b05"/><lb ed="R072" n="0165b07"/>體空無妄染。即是真心常恒不變之實體。而此體
+<lb ed="X" n="0490b06"/><lb ed="R072" n="0165b08"/>中本有恒沙淨德。向被妄染遮障不顯。今妄染既
+<lb ed="X" n="0490b07"/><lb ed="R072" n="0165b09"/>離。則本有淨法滿足。以此義故。名為不空。不是別
+<lb ed="X" n="0490b08"/><lb ed="R072" n="0165b10"/>有實法可取也。惟此不空之體。非妄念分別可到。
+<lb ed="X" n="0490b09"/><lb ed="R072" n="0165b11"/>乃是離念境界。唯證相應。故永嘉云唯證乃知難
+<lb ed="X" n="0490b10"/><lb ed="R072" n="0165b12"/>可測也。</p>
+<lb ed="X" n="0490b11"/><lb ed="R072" n="0165b13"/><p xml:id="pX45p0490b1101" rend="margin-left:2em">上釋心真如門竟。</p><p xml:id="pX45p0490b1108" rend="margin-left:2em;inline">下釋心生滅門有二大科。</p>
+<lb ed="X" n="0490b12"/><lb ed="R072" n="0165b14"/><p xml:id="pX45p0490b1201" rend="margin-left:2em">初釋生滅心法。</p><p xml:id="pX45p0490b1207" rend="margin-left:2em;inline">二辯所示之義。</p>
+<lb ed="X" n="0490b13"/><lb ed="R072" n="0165b15"/><p xml:id="pX45p0490b1301" rend="margin-left:2em">初中又二。</p><p xml:id="pX45p0490b1305" rend="margin-left:2em;inline">初染淨生滅。</p>
+<lb ed="X" n="0490b14"/><lb ed="R072" n="0165b16"/><p xml:id="pX45p0490b1401" rend="margin-left:2em">二染淨相資。</p><p xml:id="pX45p0490b1406" rend="margin-left:2em;inline">且初。</p></cb:div>
+<lb ed="X" n="0490b15"/><lb ed="R072" n="0165b17"/><cb:div type="orig"><p xml:id="pX45p0490b1501">心生滅者。依如來藏。故有生滅心。所謂不生不滅與
+<lb ed="X" n="0490b16"/><lb ed="R072" n="0165b18"/>生滅和合。非一非異。名為阿黎耶識。</p></cb:div>
+<lb ed="X" n="0490b17"/><lb ed="R072" n="0166a01"/><cb:div type="commentary"><p xml:id="pX45p0490b1701" rend="margin-left:1em">此釋立義分中是心生滅因緣相。先明生滅心以
+<lb ed="X" n="0490b18"/><lb ed="R072" n="0166a02"/>顯一心之源也。言依如來藏者。即所立一心真如。
+<lb ed="X" n="0490b19"/><lb ed="R072" n="0166a03"/>乃一法界大總相法門體也。以此心體本來無染。
+<lb ed="X" n="0490b20"/><lb ed="R072" n="0166a04"/>故云自性清淨。寂滅湛然。故云不生。常住不動。故
+<lb ed="X" n="0490b21"/><lb ed="R072" n="0166a05"/>云不滅。不妄不變。故名真如。一切如來恒沙淨德
+<lb ed="X" n="0490b22"/><lb ed="R072" n="0166a06"/>性自具足。故名如來藏。以此藏性本無迷悟。了無
+<lb ed="X" n="0490b23"/><lb ed="R072" n="0166a07"/>聖凡。而為十法界一切聖凡因果所依。故云一法
+<lb ed="X" n="0490b24"/><lb ed="R072" n="0166a08"/>界大總相法門體。故論立此為一心真源。楞伽云。
+<pb ed="X" xml:id="X45.0766.0490c" n="0490c"/>
+<lb ed="X" n="0490c01"/><lb ed="R072" n="0166a09"/>如來藏為生死因。若生若滅。故今在生滅門中。要
+<lb ed="X" n="0490c02"/><lb ed="R072" n="0166a10"/>顯此心為迷悟依。故云依如來藏有生滅心。譬如
+<lb ed="X" n="0490c03"/><lb ed="R072" n="0166a11"/>波濤依海水而有也。若據此一心真如。則了絕聖
+<lb ed="X" n="0490c04"/><lb ed="R072" n="0166a12"/>凡。故云三界唯心。則心外無一法可得。今顯聖凡
+<lb ed="X" n="0490c05"/><lb ed="R072" n="0166a13"/>迷悟因果。皆生滅門收。所謂不了一法界義故。不
+<lb ed="X" n="0490c06"/><lb ed="R072" n="0166a14"/>覺動念而有無明。迷此真心變為藏識。故經云識
+<lb ed="X" n="0490c07"/><lb ed="R072" n="0166a15"/>藏如來藏。故云不生不滅與生滅和合。非一非異。
+<lb ed="X" n="0490c08"/><lb ed="R072" n="0166a16"/>名為阿黎耶識。經喻如波濤依水。正顯萬法唯識
+<lb ed="X" n="0490c09"/><lb ed="R072" n="0166a17"/>也。故論立此識為生法之本。故下三細六麤五意
+<lb ed="X" n="0490c10"/><lb ed="R072" n="0166a18"/>六染。皆依識變。即返妄歸真。亦依此識斷證。故楞
+<lb ed="X" n="0490c11"/><lb ed="R072" n="0166b01"/>伽約真如門。則一切皆非。不容有說。而可說者。葢
+<lb ed="X" n="0490c12"/><lb ed="R072" n="0166b02"/>約生滅門耳。此一論之宗依。學者須先識其源頭。
+<lb ed="X" n="0490c13"/><lb ed="R072" n="0166b03"/>故槩示於此。</p></cb:div>
+<lb ed="X" n="0490c14"/><lb ed="R072" n="0166b04"/><cb:div type="orig"><p xml:id="pX45p0490c1401">此識有二種義。能攝一切法。生一切法。云何為二。一
+<lb ed="X" n="0490c15"/><lb ed="R072" n="0166b05"/>者覺義。二者不覺義。</p></cb:div>
+<lb ed="X" n="0490c16"/><lb ed="R072" n="0166b06"/><cb:div type="commentary"><p xml:id="pX45p0490c1601" rend="margin-left:1em">此依真妄和合。釋此識有二種義。以顯迷悟因依
+<lb ed="X" n="0490c17"/><lb ed="R072" n="0166b07"/>也。二義者。即覺不覺二義也。經云如來藏轉三十
+<lb ed="X" n="0490c18"/><lb ed="R072" n="0166b08"/>二相入一切眾生身中。以此識稱心意意識。故名
+<lb ed="X" n="0490c19"/><lb ed="R072" n="0166b09"/>眾生。謂此識本如來藏所成。而為眾生本有之佛
+<lb ed="X" n="0490c20"/><lb ed="R072" n="0166b10"/>性。故云覺義。今被無明障蔽而不知。故云不覺義。
+<lb ed="X" n="0490c21"/><lb ed="R072" n="0166b11"/>能攝能生者。謂聖凡依正因果。依此一心建立。含
+<lb ed="X" n="0490c22"/><lb ed="R072" n="0166b12"/>攝無遺。故云攝一切法。今以隨無明流。而生三細
+<lb ed="X" n="0490c23"/><lb ed="R072" n="0166b13"/>六麤一切世間之染法。依始覺返流。則生出世四
+<lb ed="X" n="0490c24"/><lb ed="R072" n="0166b14"/>聖之淨法。是則染淨因果。皆從真妄熏變。皆此識
+<pb ed="X" xml:id="X45.0766.0491a" n="0491a"/>
+<lb ed="X" n="0491a01"/><lb ed="R072" n="0166b15"/>之力用。故云能攝能生。</p></cb:div>
+<lb ed="X" n="0491a02"/><lb ed="R072" n="0166b16"/><cb:div type="orig"><p xml:id="pX45p0491a0201">所言覺義者。謂心體離念。離念相者。等虗空界無所
+<lb ed="X" n="0491a03"/><lb ed="R072" n="0166b17"/>不徧。法界一相。即是如來平等法身。依此法身說名
+<lb ed="X" n="0491a04"/><lb ed="R072" n="0166b18"/>本覺。</p></cb:div>
+<lb ed="X" n="0491a05"/><lb ed="R072" n="0167a01"/><cb:div type="commentary"><p xml:id="pX45p0491a0501" rend="margin-left:1em">此顯眾生本有不迷之佛性也。所言眾生佛性者。
+<lb ed="X" n="0491a06"/><lb ed="R072" n="0167a02"/>乃如來藏。實諸佛之法身。今雖流轉五道而為眾
+<lb ed="X" n="0491a07"/><lb ed="R072" n="0167a03"/>生。而本體湛然常住。不動周圓。未曾欠缺。但因眾
+<lb ed="X" n="0491a08"/><lb ed="R072" n="0167a04"/>生一念無明妄心遮障而不顯現。故日用而不自
+<lb ed="X" n="0491a09"/><lb ed="R072" n="0167a05"/>知。以眾生從來不曾離念故。若能離念。則本體廓
+<lb ed="X" n="0491a10"/><lb ed="R072" n="0167a06"/>然。如太虗空。無所不徧。則一切妄念差別境界。融
+<lb ed="X" n="0491a11"/><lb ed="R072" n="0167a07"/>成一味真心。唯法界一相。更無對待。惟此即是如
+<lb ed="X" n="0491a12"/><lb ed="R072" n="0167a08"/>來平等法身。乃眾生之本有。故依此法身說名本
+<lb ed="X" n="0491a13"/><lb ed="R072" n="0167a09"/>覺。大經云我於一切眾生身中成等正覺。葢依此
+<lb ed="X" n="0491a14"/><lb ed="R072" n="0167a10"/>平等法身。故說眾生舊來成佛。依此義也。</p></cb:div>
+<lb ed="X" n="0491a15"/><lb ed="R072" n="0167a11"/><cb:div type="orig"><p xml:id="pX45p0491a1501">何以故。本覺義者。對始覺說。以始覺者即同本覺。始
+<lb ed="X" n="0491a16"/><lb ed="R072" n="0167a12"/>覺義者。依本覺故而有不覺。依不覺故說有始覺。又
+<lb ed="X" n="0491a17"/><lb ed="R072" n="0167a13"/>以覺心源故。名究竟覺。不覺心源故。非究竟覺。</p></cb:div>
+<lb ed="X" n="0491a18"/><lb ed="R072" n="0167a14"/><cb:div type="commentary"><p xml:id="pX45p0491a1801" rend="margin-left:1em">此覈本覺得名。以顯始覺為返流還淨之智也。由
+<lb ed="X" n="0491a19"/><lb ed="R072" n="0167a15"/>前明妄依真起。故說依黎耶有覺不覺。此迷妄之
+<lb ed="X" n="0491a20"/><lb ed="R072" n="0167a16"/>通相也。今就一覺而分本始二義。葢別顯從迷返
+<lb ed="X" n="0491a21"/><lb ed="R072" n="0167a17"/>悟。要依始覺之智為張本也。然此覺性。若約不迷。
+<lb ed="X" n="0491a22"/><lb ed="R072" n="0167a18"/>但直名覺。今因在迷中。一向不覺。特因始覺而顯。
+<lb ed="X" n="0491a23"/><lb ed="R072" n="0167b01"/>然非新生。乃是眾生之本有。故云本覺。今日方覺。
+<lb ed="X" n="0491a24"/><lb ed="R072" n="0167b02"/>故云對始覺而說也。且此始覺亦不從外來。特由
+<pb ed="X" xml:id="X45.0766.0491b" n="0491b"/>
+<lb ed="X" n="0491b01"/><lb ed="R072" n="0167b03"/>本覺內熏之力而發。更無二體。故云即同本覺。是
+<lb ed="X" n="0491b02"/><lb ed="R072" n="0167b04"/>則始本不二。元一覺也。又今言始覺義者。亦非創
+<lb ed="X" n="0491b03"/><lb ed="R072" n="0167b05"/>起。葢依迷本覺之無明心中而發。一向不覺。今始
+<lb ed="X" n="0491b04"/><lb ed="R072" n="0167b06"/>覺之者。要顯實由本覺內熏之功。故云依本覺等。
+<lb ed="X" n="0491b05"/><lb ed="R072" n="0167b07"/>譬如醒人而有睡夢。從夢覺者。即本醒人。非他人
+<lb ed="X" n="0491b06"/><lb ed="R072" n="0167b08"/>也。原此覺性元無二義。今就三細六麤迷源既遠。
+<lb ed="X" n="0491b07"/><lb ed="R072" n="0167b09"/>若返流還淨。要始覺有功。本覺乃顯。然依四相。始
+<lb ed="X" n="0491b08"/><lb ed="R072" n="0167b10"/>覺滅相。漸漸覺至生相。生相既破。歸一心源。法身
+<lb ed="X" n="0491b09"/><lb ed="R072" n="0167b11"/>全顯。名究竟覺。其在中路。未至心源。皆非究竟也。
+<lb ed="X" n="0491b10"/><lb ed="R072" n="0167b12"/>故下約四相以明始覺之漸。</p></cb:div>
+<lb ed="X" n="0491b11"/><lb ed="R072" n="0167b13"/><cb:div type="orig"><p xml:id="pX45p0491b1101">此義云何。如凡夫人。覺知前念起惡故。能止後念令
+<lb ed="X" n="0491b12"/><lb ed="R072" n="0167b14"/>其不起。雖復名覺。即是不覺故。</p></cb:div>
+<lb ed="X" n="0491b13"/><lb ed="R072" n="0167b15"/><cb:div type="commentary"><p xml:id="pX45p0491b1301" rend="margin-left:1em">此徵釋上究竟不究竟義。以明始覺漸次也。若約
+<lb ed="X" n="0491b14"/><lb ed="R072" n="0167b16"/>返流寄位。當依三細六麤。此中正說一心生滅。尚
+<lb ed="X" n="0491b15"/><lb ed="R072" n="0167b17"/>未發明麤細之相。今因說始覺故。姑就始終生住
+<lb ed="X" n="0491b16"/><lb ed="R072" n="0167b18"/>異滅四相。以明從凡至聖。以顯返流漸漸至究竟
+<lb ed="X" n="0491b17"/><lb ed="R072" n="0168a01"/>覺。假此以顯始覺之相也。如凡夫人下。謂從觀行
+<lb ed="X" n="0491b18"/><lb ed="R072" n="0168a02"/>位。先覺滅相也。言覺滅相者。謂眾生造業之心。念
+<lb ed="X" n="0491b19"/><lb ed="R072" n="0168a03"/>念生滅。未曾暫止。今覺此一念滅處。正是引起後
+<lb ed="X" n="0491b20"/><lb ed="R072" n="0168a04"/>念造業之心令生也。故覺了前念起惡之心滅時。
+<lb ed="X" n="0491b21"/><lb ed="R072" n="0168a05"/>即就滅處止其後念之惡更不容起。故念念滅時。
+<lb ed="X" n="0491b22"/><lb ed="R072" n="0168a06"/>念念止之。止之既久。則令惡念不生。此所謂止惡
+<lb ed="X" n="0491b23"/><lb ed="R072" n="0168a07"/>防非。故雖覺惡念不容其起。但在生滅心中遏捺。
+<lb ed="X" n="0491b24"/><lb ed="R072" n="0168a08"/>未見不生滅性。故云雖覺即是不覺。若約後六麤。
+<pb ed="X" xml:id="X45.0766.0491c" n="0491c"/>
+<lb ed="X" n="0491c01"/><lb ed="R072" n="0168a09"/>當覺起業相。</p></cb:div>
+<lb ed="X" n="0491c02"/><lb ed="R072" n="0168a10"/><cb:div type="orig"><p xml:id="pX45p0491c0201">如二乘觀智。初發意菩薩等。覺於念異。念無異相。以
+<lb ed="X" n="0491c03"/><lb ed="R072" n="0168a11"/>捨麤分別執著相故。名相似覺。</p></cb:div>
+<lb ed="X" n="0491c04"/><lb ed="R072" n="0168a12"/><cb:div type="commentary"><p xml:id="pX45p0491c0401" rend="margin-left:1em">此明覺異相。當三賢位也。言如二乘觀智者。謂二
+<lb ed="X" n="0491c05"/><lb ed="R072" n="0168a13"/>乘人。作生空觀。破分別我執。初發意菩薩。即依彼
+<lb ed="X" n="0491c06"/><lb ed="R072" n="0168a14"/>生空作法空觀。破分別法執。從信入住。至十向滿
+<lb ed="X" n="0491c07"/><lb ed="R072" n="0168a15"/>心。漸斷分別二障。名相似覺。為覺異相。言異相者。
+<lb ed="X" n="0491c08"/><lb ed="R072" n="0168a16"/>謂我法差別對待不忘。漸漸覺破執取之念。了不
+<lb ed="X" n="0491c09"/><lb ed="R072" n="0168a17"/>可得。故云念無異相。約六麤。當破執取計名字。故
+<lb ed="X" n="0491c10"/><lb ed="R072" n="0168a18"/>云捨麤分別執著故。以未見真如。但比觀而知。故
+<lb ed="X" n="0491c11"/><lb ed="R072" n="0168b01"/>云相似。</p></cb:div>
+<lb ed="X" n="0491c12"/><lb ed="R072" n="0168b02"/><cb:div type="orig"><p xml:id="pX45p0491c1201">如法身菩薩等。覺於念住。念無住相。以離分別麤念
+<lb ed="X" n="0491c13"/><lb ed="R072" n="0168b03"/>相故。名隨分覺。</p></cb:div>
+<lb ed="X" n="0491c14"/><lb ed="R072" n="0168b04"/><cb:div type="commentary"><p xml:id="pX45p0491c1401" rend="margin-left:1em">此明覺住相。當地上菩薩也。言法身者。謂地上菩
+<lb ed="X" n="0491c15"/><lb ed="R072" n="0168b05"/>薩。依真如法為自體。故名法身。言住相者。謂分別
+<lb ed="X" n="0491c16"/><lb ed="R072" n="0168b06"/>境界。能所對待。念念未忘。心有所著。故云住相。今
+<lb ed="X" n="0491c17"/><lb ed="R072" n="0168b07"/>地上菩薩。入真如觀。觀察自心念念分別。住無住
+<lb ed="X" n="0491c18"/><lb ed="R072" n="0168b08"/>相。則能離分別麤念。此約六麤三細。當覺智相相
+<lb ed="X" n="0491c19"/><lb ed="R072" n="0168b09"/>續。及能見能現。四種住相。此四名為俱生我法二
+<lb ed="X" n="0491c20"/><lb ed="R072" n="0168b10"/>執。分破分證。故名隨分覺。此上三相。皆非究竟。以
+<lb ed="X" n="0491c21"/><lb ed="R072" n="0168b11"/>未至心源故。</p></cb:div>
+<lb ed="X" n="0491c22"/><lb ed="R072" n="0168b12"/><cb:div type="orig"><p xml:id="pX45p0491c2201">如菩薩地盡。滿足方便。一念相應。覺心初起。心無初
+<lb ed="X" n="0491c23"/><lb ed="R072" n="0168b13"/>相。以遠離微細念故。得見心性。心即常住。名究竟覺。</p></cb:div>
+<lb ed="X" n="0491c24"/><lb ed="R072" n="0168b14"/><cb:div type="commentary"><p xml:id="pX45p0491c2401" rend="margin-left:1em">此明覺生相也。謂十地菩薩。真窮惑盡。悉皆究竟。
+<pb ed="X" xml:id="X45.0766.0492a" n="0492a"/>
+<lb ed="X" n="0492a01"/><lb ed="R072" n="0168b15"/>故云滿足方便。言方便者。乃觀行修斷之法也。以
+<lb ed="X" n="0492a02"/><lb ed="R072" n="0168b16"/>此菩薩研真斷惑至此。以一念觀心。與無念相應。
+<lb ed="X" n="0492a03"/><lb ed="R072" n="0168b17"/>從此更無可斷矣。此總顯究竟覺心。下明究竟之
+<lb ed="X" n="0492a04"/><lb ed="R072" n="0168b18"/>所以。言相應者。但覺一念無明動心初起之時。自
+<lb ed="X" n="0492a05"/><lb ed="R072" n="0169a01"/>心體中了無初起之相。本自寂滅無生。故云心無
+<lb ed="X" n="0492a06"/><lb ed="R072" n="0169a02"/>初相。是則無念真心。遠離最初微細動念。故得見
+<lb ed="X" n="0492a07"/><lb ed="R072" n="0169a03"/>心性。既無生相變異。唯一心源。故云心即常住。至
+<lb ed="X" n="0492a08"/><lb ed="R072" n="0169a04"/>此始本合一。名究竟覺也。</p></cb:div>
+<lb ed="X" n="0492a09"/><lb ed="R072" n="0169a05"/><cb:div type="orig"><p xml:id="pX45p0492a0901">是故脩多羅說。若有眾生能觀無念者。則為向佛智
+<lb ed="X" n="0492a10"/><lb ed="R072" n="0169a06"/>故。</p></cb:div>
+<lb ed="X" n="0492a11"/><lb ed="R072" n="0169a07"/><cb:div type="commentary"><p xml:id="pX45p0492a1101" rend="margin-left:1em">此證明無念為成佛之捷要也。意謂不<anchor xml:id="beg_14" type="cb-app"/>但<anchor xml:id="end_14"/>菩薩修
+<lb ed="X" n="0492a12"/><lb ed="R072" n="0169a08"/>斷。以至無念。名為究竟。即凡諸眾生。二六時中。苟
+<lb ed="X" n="0492a13"/><lb ed="R072" n="0169a09"/>能觀察無念者。則念念向佛智矣。成佛之要。無踰
+<lb ed="X" n="0492a14"/><lb ed="R072" n="0169a10"/>此者。故特揭示於此。</p></cb:div>
+<lb ed="X" n="0492a15"/><lb ed="R072" n="0169a11"/><cb:div type="orig"><p xml:id="pX45p0492a1501">又心起者。無有初相可知。而言知初相者。即謂無念。
+<lb ed="X" n="0492a16"/><lb ed="R072" n="0169a12"/>是故一切眾生。不名為覺。以從本來念念相續。未曾
+<lb ed="X" n="0492a17"/><lb ed="R072" n="0169a13"/>離念。故說無始無明。</p></cb:div>
+<lb ed="X" n="0492a18"/><lb ed="R072" n="0169a14"/><cb:div type="commentary"><p xml:id="pX45p0492a1801" rend="margin-left:1em">此重顯無念。以釋心有初相之疑也。恐惑者聞覺
+<lb ed="X" n="0492a19"/><lb ed="R072" n="0169a15"/>心初起之說。將謂有初相可知。故此釋云。又心起
+<lb ed="X" n="0492a20"/><lb ed="R072" n="0169a16"/>者。無有初相可知。今言知初相者。葢知最初本無
+<lb ed="X" n="0492a21"/><lb ed="R072" n="0169a17"/>念也。以此無念為究竟覺。則知一切眾生皆不名
+<lb ed="X" n="0492a22"/><lb ed="R072" n="0169a18"/>覺。以從來未曾離念。以有此念。故說無始無明。由
+<lb ed="X" n="0492a23"/><lb ed="R072" n="0169b01"/>是觀之。一切眾生無邊生死。但依一念而繫之也。</p></cb:div>
+<lb ed="X" n="0492a24"/><lb ed="R072" n="0169b02"/><cb:div type="orig"><p xml:id="pX45p0492a2401">若得無念者。則知心相生住異滅。以無念等故。而實
+<pb ed="X" xml:id="X45.0766.0492b" n="0492b"/>
+<lb ed="X" n="0492b01"/><lb ed="R072" n="0169b03"/>無有始覺之異。以四相俱時而有。皆無自立。本來平
+<lb ed="X" n="0492b02"/><lb ed="R072" n="0169b04"/>等。同一覺故。</p></cb:div>
+<lb ed="X" n="0492b03"/><lb ed="R072" n="0169b05"/><cb:div type="commentary"><p xml:id="pX45p0492b0301" rend="margin-left:1em">此明究竟一心真源也。良以真源湛寂。本無生滅。
+<lb ed="X" n="0492b04"/><lb ed="R072" n="0169b06"/>然此生滅。但因妄念而有。今若得無念。則知四相
+<lb ed="X" n="0492b05"/><lb ed="R072" n="0169b07"/>同時。寂滅平等。唯一真心。更無先後。是則真覺圓
+<lb ed="X" n="0492b06"/><lb ed="R072" n="0169b08"/>明。本來不迷。又何有覺。以寂滅心中。四相同時。其
+<lb ed="X" n="0492b07"/><lb ed="R072" n="0169b09"/>體本空。故皆無自立。以當體無生。故云平等同一
+<lb ed="X" n="0492b08"/><lb ed="R072" n="0169b10"/>真覺。此言既無四相可覺。又何有始覺之異耶。此
+<lb ed="X" n="0492b09"/><lb ed="R072" n="0169b11"/>實究竟一心之旨也。</p>
+<lb ed="X" n="0492b10"/><lb ed="R072" n="0169b12"/><p xml:id="pX45p0492b1001" rend="margin-left:2em">上明始覺。</p><p xml:id="pX45p0492b1005" rend="margin-left:2em;inline">下明本覺義有二。</p>
+<lb ed="X" n="0492b11"/><lb ed="R072" n="0169b13"/><p xml:id="pX45p0492b1101" rend="margin-left:2em">初明隨緣本覺。</p><p xml:id="pX45p0492b1107" rend="margin-left:2em;inline">二明性淨本覺。</p><p xml:id="pX45p0492b1113" rend="margin-left:2em;inline">且初。</p></cb:div>
+<lb ed="X" n="0492b12"/><lb ed="R072" n="0169b14"/><cb:div type="orig"><p xml:id="pX45p0492b1201">復次本覺隨染分別。生二種相。與彼本覺不相捨離。
+<lb ed="X" n="0492b13"/><lb ed="R072" n="0169b15"/>云何為二。一者智淨相。二者不思議業相。</p></cb:div>
+<lb ed="X" n="0492b14"/><lb ed="R072" n="0169b16"/><cb:div type="commentary"><p xml:id="pX45p0492b1401" rend="margin-left:1em">此承上始覺有功本覺乃顯。故此明本覺出纏還
+<lb ed="X" n="0492b15"/><lb ed="R072" n="0169b17"/>淨有二種相也。言生二種者。以前云黎耶生一切
+<lb ed="X" n="0492b16"/><lb ed="R072" n="0169b18"/>法。以本覺內熏。起始覺之智。轉染令淨。顯此二種。
+<lb ed="X" n="0492b17"/><lb ed="R072" n="0170a01"/>故云生。用不離體。故云不相捨離。言智淨相者。由
+<lb ed="X" n="0492b18"/><lb ed="R072" n="0170a02"/>始覺智除染還淨。此出纏本覺也。不思議業相者。
+<lb ed="X" n="0492b19"/><lb ed="R072" n="0170a03"/>謂本覺轉染還淨。自然而有不思議用也。</p>
+<lb ed="X" n="0492b20"/><lb ed="R072" n="0170a04"/><p xml:id="pX45p0492b2001" rend="margin-left:2em">此標名。</p><p xml:id="pX45p0492b2004" rend="margin-left:2em;inline">下釋相。</p></cb:div>
+<lb ed="X" n="0492b21"/><lb ed="R072" n="0170a05"/><cb:div type="orig"><p xml:id="pX45p0492b2101">智淨相者。謂依法力熏習。如實修行。滿足方便故。破
+<lb ed="X" n="0492b22"/><lb ed="R072" n="0170a06"/>和合識相。滅相續心相。顯現法身。智湻淨故。</p></cb:div>
+<lb ed="X" n="0492b23"/><lb ed="R072" n="0170a07"/><cb:div type="commentary"><p xml:id="pX45p0492b2301" rend="margin-left:1em">此明本覺出纏智淨相也。依法力者。謂由真如。內
+<lb ed="X" n="0492b24"/><lb ed="R072" n="0170a08"/>熏之力。及所流教法外熏之力。發起信解。依教熏
+<pb ed="X" xml:id="X45.0766.0492c" n="0492c"/>
+<lb ed="X" n="0492c01"/><lb ed="R072" n="0170a09"/>修。故云法力熏習。此地前三賢比觀相似行也。以
+<lb ed="X" n="0492c02"/><lb ed="R072" n="0170a10"/>修習力。得見真如。稱真實而修。故云如實修行。此
+<lb ed="X" n="0492c03"/><lb ed="R072" n="0170a11"/>登地修真如三昧也。滿足方便者。以至八地深證
+<lb ed="X" n="0492c04"/><lb ed="R072" n="0170a12"/>真如。破和合識內根本無明。滅三細相續微細生
+<lb ed="X" n="0492c05"/><lb ed="R072" n="0170a13"/>相。顯現法身。染緣脫盡。覺體湻淨。此全仗始覺之
+<lb ed="X" n="0492c06"/><lb ed="R072" n="0170a14"/>功也。</p></cb:div>
+<lb ed="X" n="0492c07"/><lb ed="R072" n="0170a15"/><cb:div type="orig"><p xml:id="pX45p0492c0701">此義云何。以一切心識之相。皆是無明。無明之相。不
+<lb ed="X" n="0492c08"/><lb ed="R072" n="0170a16"/>離覺性。非可壞。非不可壞。如大海水。因風波動。水相
+<lb ed="X" n="0492c09"/><lb ed="R072" n="0170a17"/>風相不相捨離。而水非動性。若風止滅。動相則滅。濕
+<lb ed="X" n="0492c10"/><lb ed="R072" n="0170a18"/>性不壞故。如是眾生自性清淨心。因無明風動。心與
+<lb ed="X" n="0492c11"/><lb ed="R072" n="0170b01"/>無明。俱無形相。不相捨離。而心非動性。若無明滅。相
+<lb ed="X" n="0492c12"/><lb ed="R072" n="0170b02"/>續則滅。智性不壞故。</p></cb:div>
+<lb ed="X" n="0492c13"/><lb ed="R072" n="0170b03"/><cb:div type="commentary"><p xml:id="pX45p0492c1301" rend="margin-left:1em">此明相滅性不壞。以釋上滅相續心之疑也。恐疑
+<lb ed="X" n="0492c14"/><lb ed="R072" n="0170b04"/>者前云不生不滅與生滅和合成阿黎耶識。此識
+<lb ed="X" n="0492c15"/><lb ed="R072" n="0170b05"/>生滅。即相續心也。今滅相續心。則連體俱滅。豈不
+<lb ed="X" n="0492c16"/><lb ed="R072" n="0170b06"/>淪於斷滅耶。故此釋云。生滅者。心之相也。不生滅
+<lb ed="X" n="0492c17"/><lb ed="R072" n="0170b07"/>者。心之體也。以一切生滅心相。皆是無明。以此無
+<lb ed="X" n="0492c18"/><lb ed="R072" n="0170b08"/>明依真而起。故云不離覺性。非一非異。故云非可
+<lb ed="X" n="0492c19"/><lb ed="R072" n="0170b09"/>壞非不可壞。以非一。故可壞。以無明生滅。而覺性
+<lb ed="X" n="0492c20"/><lb ed="R072" n="0170b10"/>不生滅。然可壞者無明生滅心也。如波因水有。波
+<lb ed="X" n="0492c21"/><lb ed="R072" n="0170b11"/>可滅而水不可滅。濕性不壞故。以非異。故不可壞。
+<lb ed="X" n="0492c22"/><lb ed="R072" n="0170b12"/>以無明不離覺性。其體本空。故云俱無形相。無明
+<lb ed="X" n="0492c23"/><lb ed="R072" n="0170b13"/>實性。即是覺性。是則但了無明體空。則相續心相
+<lb ed="X" n="0492c24"/><lb ed="R072" n="0170b14"/>自滅。非覺性滅。智性不壞故也。楞伽云。非自真相
+<pb ed="X" xml:id="X45.0766.0493a" n="0493a"/>
+<lb ed="X" n="0493a01"/><lb ed="R072" n="0170b15"/>識滅。但業相滅。若自真相識滅者。藏識則滅。藏識
+<lb ed="X" n="0493a02"/><lb ed="R072" n="0170b16"/>若滅者。不異外道斷見論議。故可滅者。乃轉識生
+<lb ed="X" n="0493a03"/><lb ed="R072" n="0170b17"/>滅心相。非不生滅之心體也。</p></cb:div>
+<lb ed="X" n="0493a04"/><lb ed="R072" n="0170b18"/><cb:div type="orig"><p xml:id="pX45p0493a0401">不思議業相者。以依智淨相。能作一切勝妙境界。所
+<lb ed="X" n="0493a05"/><lb ed="R072" n="0171a01"/>謂無量功德之相。常無斷絕。隨眾生根自然相應。種
+<lb ed="X" n="0493a06"/><lb ed="R072" n="0171a02"/>種而現。得利益故。</p></cb:div>
+<lb ed="X" n="0493a07"/><lb ed="R072" n="0171a03"/><cb:div type="commentary"><p xml:id="pX45p0493a0701" rend="margin-left:1em">此明本覺還淨。而有不思議業用也。意謂本覺在
+<lb ed="X" n="0493a08"/><lb ed="R072" n="0171a04"/>迷。而眾生依之造業。故云業力不可思議。今出纏
+<lb ed="X" n="0493a09"/><lb ed="R072" n="0171a05"/>還淨。而本有不思議神通妙用。能作勝妙境界無
+<lb ed="X" n="0493a10"/><lb ed="R072" n="0171a06"/>量功德之相。隨眾生根自然相應而現。令得利益。
+<lb ed="X" n="0493a11"/><lb ed="R072" n="0171a07"/>此正觀音大士。生滅既滅。寂滅現前。即得上與十
+<lb ed="X" n="0493a12"/><lb ed="R072" n="0171a08"/>方諸佛同一慈力。下與六道眾生共一悲仰。故能
+<lb ed="X" n="0493a13"/><lb ed="R072" n="0171a09"/>現三十二應。十四無畏等。一一功德。利益眾生。此
+<lb ed="X" n="0493a14"/><lb ed="R072" n="0171a10"/>不思議力。性自具足。故云依智淨相也。故唯識若
+<lb ed="X" n="0493a15"/><lb ed="R072" n="0171a11"/>破七識。則云如來現起他受用。十地菩薩所被機。
+<lb ed="X" n="0493a16"/><lb ed="R072" n="0171a12"/>諸佛既爾。則眾生有能修得本智。則妙用亦然。此
+<lb ed="X" n="0493a17"/><lb ed="R072" n="0171a13"/>顯始覺之成功也。</p>
+<lb ed="X" n="0493a18"/><lb ed="R072" n="0171a14"/><p xml:id="pX45p0493a1801" rend="margin-left:2em">上明隨染本覺竟。</p><p xml:id="pX45p0493a1808" rend="margin-left:2em;inline">下明性淨本覺。</p></cb:div>
+<lb ed="X" n="0493a19"/><lb ed="R072" n="0171a15"/><cb:div type="orig"><p xml:id="pX45p0493a1901">復次覺體相者。有四種大義。與虗空等。猶如淨鏡。</p></cb:div>
+<lb ed="X" n="0493a20"/><lb ed="R072" n="0171a16"/><cb:div type="commentary"><p xml:id="pX45p0493a2001" rend="margin-left:1em">此標性淨覺體。意顯不迷之本覺也。謂即指前覺
+<lb ed="X" n="0493a21"/><lb ed="R072" n="0171a17"/>體。故云復次。上由始覺所顯智淨相。意顯屬修生。
+<lb ed="X" n="0493a22"/><lb ed="R072" n="0171a18"/>此下四種顯屬本有。故云覺體相。以虗空喻其廣
+<lb ed="X" n="0493a23"/><lb ed="R072" n="0171b01"/>博包含。以淨鏡喻其圓明能現。二喻相成。故雙舉
+<lb ed="X" n="0493a24"/><lb ed="R072" n="0171b02"/>之。若依法界一心。約海印三昧。則虗空即鏡。以森
+<pb ed="X" xml:id="X45.0766.0493b" n="0493b"/>
+<lb ed="X" n="0493b01"/><lb ed="R072" n="0171b03"/>羅萬象。皆現於空鏡之中。若海湛空澄。則空鏡之
+<lb ed="X" n="0493b02"/><lb ed="R072" n="0171b04"/>影像。印於海底。謂之海印。佛心普印法界。故名海
+<lb ed="X" n="0493b03"/><lb ed="R072" n="0171b05"/>印三昧。此理更著。</p></cb:div>
+<lb ed="X" n="0493b04"/><lb ed="R072" n="0171b06"/><cb:div type="orig"><p xml:id="pX45p0493b0401">云何為四。一者如實空鏡。遠離一切心境界相。無法
+<lb ed="X" n="0493b05"/><lb ed="R072" n="0171b07"/>可現。非覺照義故。</p></cb:div>
+<lb ed="X" n="0493b06"/><lb ed="R072" n="0171b08"/><cb:div type="commentary"><p xml:id="pX45p0493b0601" rend="margin-left:1em">此明性淨本覺如實體空義也。謂本有真心。乃真
+<lb ed="X" n="0493b07"/><lb ed="R072" n="0171b09"/>如實體。本自清淨。不屬迷悟。不假修為。廣博包含。
+<lb ed="X" n="0493b08"/><lb ed="R072" n="0171b10"/>寂滅離相。故云遠離一切心境界相。絕諸對待。唯
+<lb ed="X" n="0493b09"/><lb ed="R072" n="0171b11"/>一真心。故云無法可現。寂滅湛然。故云非覺照義。
+<lb ed="X" n="0493b10"/><lb ed="R072" n="0171b12"/>此乃眾生本具法身。不假始覺而有者。</p></cb:div>
+<lb ed="X" n="0493b11"/><lb ed="R072" n="0171b13"/><cb:div type="orig"><p xml:id="pX45p0493b1101">二者因熏習鏡。謂如實不空。一切世間境界悉於中
+<lb ed="X" n="0493b12"/><lb ed="R072" n="0171b14"/>現。不出不入。不失不壞。常住一心。以一切法即真實
+<lb ed="X" n="0493b13"/><lb ed="R072" n="0171b15"/>性故。又一切染法所不能染。智體不動。具足無漏熏
+<lb ed="X" n="0493b14"/><lb ed="R072" n="0171b16"/>眾生故。</p></cb:div>
+<lb ed="X" n="0493b15"/><lb ed="R072" n="0171b17"/><cb:div type="commentary"><p xml:id="pX45p0493b1501" rend="margin-left:1em">此明性淨如實不空義也。此有二義。先明不空。次
+<lb ed="X" n="0493b16"/><lb ed="R072" n="0171b18"/>明熏習。言不空者。謂此真覺之體。如大圓鏡。一切
+<lb ed="X" n="0493b17"/><lb ed="R072" n="0172a01"/>世間境界悉於中現。以十法界染淨依正因果。皆
+<lb ed="X" n="0493b18"/><lb ed="R072" n="0172a02"/>在此一心中分明顯現。此心本無內外。故云不出
+<lb ed="X" n="0493b19"/><lb ed="R072" n="0172a03"/>不入。緣至即現。故云不失。所現即真。故云不壞。以
+<lb ed="X" n="0493b20"/><lb ed="R072" n="0172a04"/>離生滅。故云常住一心。此心亦名常住法身。即是
+<lb ed="X" n="0493b21"/><lb ed="R072" n="0172a05"/>一切諸法真實之性。故在無情。謂之法性。在有情。
+<lb ed="X" n="0493b22"/><lb ed="R072" n="0172a06"/>謂之佛性。以眾生本具。故作內熏之因也。又一切
+<lb ed="X" n="0493b23"/><lb ed="R072" n="0172a07"/>下。明熏習義。謂此覺性。雖在眾生無明染汙之中。
+<lb ed="X" n="0493b24"/><lb ed="R072" n="0172a08"/>其體清淨。故一切染法所不能染。以智體不動故。
+<pb ed="X" xml:id="X45.0766.0493c" n="0493c"/>
+<lb ed="X" n="0493c01"/><lb ed="R072" n="0172a09"/>以性具恒沙無漏淨德故。能與眾生作內熏之因。
+<lb ed="X" n="0493c02"/><lb ed="R072" n="0172a10"/>故令眾生覺悟無常。厭生死苦。發心修行。求出離
+<lb ed="X" n="0493c03"/><lb ed="R072" n="0172a11"/>道。實仗此自體為內熏之因。故云因熏習也。</p></cb:div>
+<lb ed="X" n="0493c04"/><lb ed="R072" n="0172a12"/><cb:div type="orig"><p xml:id="pX45p0493c0401">三者法出離鏡。謂不空法。出煩惱礙智礙。離和合相。
+<lb ed="X" n="0493c05"/><lb ed="R072" n="0172a13"/>湻淨明故。</p></cb:div>
+<lb ed="X" n="0493c06"/><lb ed="R072" n="0172a14"/><cb:div type="commentary"><p xml:id="pX45p0493c0601" rend="margin-left:1em">此明本有覺性依法出離也。謂眾生覺性。本自具
+<lb ed="X" n="0493c07"/><lb ed="R072" n="0172a15"/>有智慧德相。但為妄想顛倒而不證得。今由始覺
+<lb ed="X" n="0493c08"/><lb ed="R072" n="0172a16"/>之功。治障離垢。斷二種礙。破和合識。顯現本有。湻
+<lb ed="X" n="0493c09"/><lb ed="R072" n="0172a17"/>淨明故。譬如磨鏡。垢淨明現。雖云雖垢。而光明本
+<lb ed="X" n="0493c10"/><lb ed="R072" n="0172a18"/>有。不是新生。但一向障蔽。今始出離耳。</p></cb:div>
+<lb ed="X" n="0493c11"/><lb ed="R072" n="0172b01"/><cb:div type="orig"><p xml:id="pX45p0493c1101">四者緣熏習鏡。謂依法出離故。徧照眾生之心。令修
+<lb ed="X" n="0493c12"/><lb ed="R072" n="0172b02"/>善根。隨念示現故。</p></cb:div>
+<lb ed="X" n="0493c13"/><lb ed="R072" n="0172b03"/><cb:div type="commentary"><p xml:id="pX45p0493c1301" rend="margin-left:1em">此明出纏本覺。即能與眾生作外緣熏習也。言法
+<lb ed="X" n="0493c14"/><lb ed="R072" n="0172b04"/>出離者。即上離障出纏之本覺也。謂此覺體。生佛
+<lb ed="X" n="0493c15"/><lb ed="R072" n="0172b05"/>等同。向為眾生本有佛性。作內熏之因。今修行者
+<lb ed="X" n="0493c16"/><lb ed="R072" n="0172b06"/>離障出纏。證得法身。即能徧照眾生之心。而起同
+<lb ed="X" n="0493c17"/><lb ed="R072" n="0172b07"/>體大悲。現種種身相。調伏眾生。作外熏之緣。以大
+<lb ed="X" n="0493c18"/><lb ed="R072" n="0172b08"/>圓鏡平等顯現。與眾生心光明互照。以眾生迷而
+<lb ed="X" n="0493c19"/><lb ed="R072" n="0172b09"/>不覺。覺智圓明。故能徧照也。</p>
+<lb ed="X" n="0493c20"/><lb ed="R072" n="0172b10"/><p xml:id="pX45p0493c2001" rend="margin-left:2em">上釋覺義。</p><p xml:id="pX45p0493c2005" rend="margin-left:2em;inline">下釋不覺義。</p></cb:div>
+<lb ed="X" n="0493c21"/><lb ed="R072" n="0172b11"/><cb:div type="orig"><p xml:id="pX45p0493c2101">所言不覺義者。謂不如實知真如法一故。不覺心起
+<lb ed="X" n="0493c22"/><lb ed="R072" n="0172b12"/>而有其念。念無自相。不離本覺。猶如迷人。依方故迷。
+<lb ed="X" n="0493c23"/><lb ed="R072" n="0172b13"/>若離於方。則無有迷。眾生亦爾。依覺故迷。若離覺性。
+<lb ed="X" n="0493c24"/><lb ed="R072" n="0172b14"/>則無不覺。以有不覺妄想心故。能知名義。為說真覺。
+<pb ed="X" xml:id="X45.0766.0494a" n="0494a"/>
+<lb ed="X" n="0494a01"/><lb ed="R072" n="0172b15"/>若離不覺之心。則無真覺自相可說。</p></cb:div>
+<lb ed="X" n="0494a02"/><lb ed="R072" n="0172b16"/><cb:div type="commentary"><p xml:id="pX45p0494a0201" rend="margin-left:1em">此明不覺依覺而有。要顯不覺即覺也。問曰。覺性
+<lb ed="X" n="0494a03"/><lb ed="R072" n="0172b17"/>湛然。圓明寂照。何以而成不覺耶。答曰。由不稱真
+<lb ed="X" n="0494a04"/><lb ed="R072" n="0172b18"/>實而知真如法一故。忽然心起而有其念。即此一
+<lb ed="X" n="0494a05"/><lb ed="R072" n="0173a01"/>念。名為生相無明。由此無明即失本明。故云不覺。
+<lb ed="X" n="0494a06"/><lb ed="R072" n="0173a02"/>即此一念本無自相。不離本覺之體。是則全真覺
+<lb ed="X" n="0494a07"/><lb ed="R072" n="0173a03"/>之體而成不覺故。如迷人依方故迷故。眾生依覺
+<lb ed="X" n="0494a08"/><lb ed="R072" n="0173a04"/>故迷。若離覺性。則無不覺之相矣。問曰。何以知其
+<lb ed="X" n="0494a09"/><lb ed="R072" n="0173a05"/>不覺即真覺耶。答曰。然不覺者。乃眾生妄想之心
+<lb ed="X" n="0494a10"/><lb ed="R072" n="0173a06"/>也。眾生雖是妄想一向不覺。若今指示即心是佛。
+<lb ed="X" n="0494a11"/><lb ed="R072" n="0173a07"/>即能知名義。以能知名識義。便是本有真覺之性。
+<lb ed="X" n="0494a12"/><lb ed="R072" n="0173a08"/>軌持生解。以此故為說眾生佛性。即是真覺。以此
+<lb ed="X" n="0494a13"/><lb ed="R072" n="0173a09"/>不覺。乃是真覺全體而成故。若離不覺之心。則無
+<lb ed="X" n="0494a14"/><lb ed="R072" n="0173a10"/>真覺自相可說。以此不覺即覺故。眾生但一念迴
+<lb ed="X" n="0494a15"/><lb ed="R072" n="0173a11"/>光。即同本有。能知無念。便證法身。</p>
+<lb ed="X" n="0494a16"/><lb ed="R072" n="0173a12"/><p xml:id="pX45p0494a1601" rend="margin-left:2em">上明根本不覺。</p><p xml:id="pX45p0494a1607" rend="margin-left:2em;inline">下明枝末不覺二。</p>
+<lb ed="X" n="0494a17"/><lb ed="R072" n="0173a13"/><p xml:id="pX45p0494a1701" rend="margin-left:2em">初無明不覺生三細。</p><p xml:id="pX45p0494a1709" rend="margin-left:2em;inline">二境界為緣長六麤。</p>
+<lb ed="X" n="0494a18"/><lb ed="R072" n="0173a14"/><p xml:id="pX45p0494a1801" rend="margin-left:2em">且初。</p></cb:div>
+<lb ed="X" n="0494a19"/><lb ed="R072" n="0173a15"/><cb:div type="orig"><p xml:id="pX45p0494a1901">復次依不覺故生三種相。與彼不覺相應不離。</p></cb:div>
+<lb ed="X" n="0494a20"/><lb ed="R072" n="0173a16"/><cb:div type="commentary"><p xml:id="pX45p0494a2001" rend="margin-left:1em">此標無明為因生三細也。末不離本。故云相應不
+<lb ed="X" n="0494a21"/><lb ed="R072" n="0173a17"/>離。</p></cb:div>
+<lb ed="X" n="0494a22"/><lb ed="R072" n="0173a18"/><cb:div type="orig"><p xml:id="pX45p0494a2201">云何為三。一者無明業相。以依不覺故心動。說名為
+<lb ed="X" n="0494a23"/><lb ed="R072" n="0173b01"/>業。覺即不動。動即有苦。果不離因故。</p></cb:div>
+<lb ed="X" n="0494a24"/><lb ed="R072" n="0173b02"/><cb:div type="commentary"><p xml:id="pX45p0494a2401" rend="margin-left:1em">此標無明業相也。以揀本覺不思議業。故云無明
+<pb ed="X" xml:id="X45.0766.0494b" n="0494b"/>
+<lb ed="X" n="0494b01"/><lb ed="R072" n="0173b03"/>業相。以依最初一念不覺心動。即此動心。名為業
+<lb ed="X" n="0494b02"/><lb ed="R072" n="0173b04"/>相。返顯覺即不動。謂覺真如。則無動念。足知不覺
+<lb ed="X" n="0494b03"/><lb ed="R072" n="0173b05"/>故心動也。動即有苦者。以無邊生死苦果。皆因此
+<lb ed="X" n="0494b04"/><lb ed="R072" n="0173b06"/>動念而生。故云果不離因故。若離動念。則二死永
+<lb ed="X" n="0494b05"/><lb ed="R072" n="0173b07"/>亡。故云若觀無念。則為向佛智。</p></cb:div>
+<lb ed="X" n="0494b06"/><lb ed="R072" n="0173b08"/><cb:div type="orig"><p xml:id="pX45p0494b0601">二者能見相。以依動故能見。不動則無見。三者境界
+<lb ed="X" n="0494b07"/><lb ed="R072" n="0173b09"/>相。以依能見故。境界妄現。離見則無境界。</p></cb:div>
+<lb ed="X" n="0494b08"/><lb ed="R072" n="0173b10"/><cb:div type="commentary"><p xml:id="pX45p0494b0801" rend="margin-left:1em">此標釋轉現二相也。以能見名轉相者。謂真如智
+<lb ed="X" n="0494b09"/><lb ed="R072" n="0173b11"/>照。本無能所。今既迷智體而轉為妄見。以妄有境
+<lb ed="X" n="0494b10"/><lb ed="R072" n="0173b12"/>界可見。故名為轉。此見葢依動念而有。以一念動
+<lb ed="X" n="0494b11"/><lb ed="R072" n="0173b13"/>心失彼精了。便成妄見。返顯不動則無見也。境界
+<lb ed="X" n="0494b12"/><lb ed="R072" n="0173b14"/>相者。即現相也。以無相真心。因一念妄動。則形所
+<lb ed="X" n="0494b13"/><lb ed="R072" n="0173b15"/>相而為妄見所見之境界。故云以依能見故境界
+<lb ed="X" n="0494b14"/><lb ed="R072" n="0173b16"/>妄現。然此境界。即虗空四大之妄相。楞嚴三細云。
+<lb ed="X" n="0494b15"/><lb ed="R072" n="0173b17"/>因明立所。所既妄立。生汝妄能。則先現後轉。此則
+<lb ed="X" n="0494b16"/><lb ed="R072" n="0173b18"/>先轉後現。然彼約山河大地生起之相。重在境。此
+<lb ed="X" n="0494b17"/><lb ed="R072" n="0174a01"/>單約心法生起之相。重在心。其實三細同時。本無
+<lb ed="X" n="0494b18"/><lb ed="R072" n="0174a02"/>先後也。此三細皆依無明而立。前云若無明滅則
+<lb ed="X" n="0494b19"/><lb ed="R072" n="0174a03"/>相續心滅。葢相續心依此三細而立也。以不相離。
+<lb ed="X" n="0494b20"/><lb ed="R072" n="0174a04"/>故滅則同滅。</p>
+<lb ed="X" n="0494b21"/><lb ed="R072" n="0174a05"/><p xml:id="pX45p0494b2101" rend="margin-left:2em">上明無明不覺生三細。</p>
+<lb ed="X" n="0494b22"/><lb ed="R072" n="0174a06"/><p xml:id="pX45p0494b2201" rend="margin-left:2em">下明境界為緣生六麤。</p></cb:div>
+<lb ed="X" n="0494b23"/><lb ed="R072" n="0174a07"/><cb:div type="orig"><p xml:id="pX45p0494b2301">以有境界緣故。復生六種相。云何為六。一者智相。依
+<lb ed="X" n="0494b24"/><lb ed="R072" n="0174a08"/>於境界。心起分別。愛與不愛故。</p></cb:div>
+<pb ed="X" xml:id="X45.0766.0494c" n="0494c"/>
+<lb ed="X" n="0494c01"/><lb ed="R072" n="0174a09"/><cb:div type="commentary"><p xml:id="pX45p0494c0101" rend="margin-left:1em">此標六麤。先明智相也。智即分別心也。謂先所現
+<lb ed="X" n="0494c02"/><lb ed="R072" n="0174a10"/>境界。不了唯心虗妄。創起慧數分別逆順好醜。愛
+<lb ed="X" n="0494c03"/><lb ed="R072" n="0174a11"/>與不愛故。</p></cb:div>
+<lb ed="X" n="0494c04"/><lb ed="R072" n="0174a12"/><cb:div type="orig"><p xml:id="pX45p0494c0401">二者相續相。依於智故。生其苦樂。覺心起念。相應不
+<lb ed="X" n="0494c05"/><lb ed="R072" n="0174a13"/>斷故。</p></cb:div>
+<lb ed="X" n="0494c06"/><lb ed="R072" n="0174a14"/><cb:div type="commentary"><p xml:id="pX45p0494c0601" rend="margin-left:1em">此釋相續相也。謂依所分別逆順二境。可愛則生
+<lb ed="X" n="0494c07"/><lb ed="R072" n="0174a15"/>樂受。不愛則生苦受。數數起念。相續不斷。起惑潤
+<lb ed="X" n="0494c08"/><lb ed="R072" n="0174a16"/>業。引持生死。相續不斷。故名相續相。</p></cb:div>
+<lb ed="X" n="0494c09"/><lb ed="R072" n="0174a17"/><cb:div type="orig"><p xml:id="pX45p0494c0901">三者執取相。依於相續。緣念境界。住持苦樂。心起著
+<lb ed="X" n="0494c10"/><lb ed="R072" n="0174a18"/>故。</p></cb:div>
+<lb ed="X" n="0494c11"/><lb ed="R072" n="0174b01"/><cb:div type="commentary"><p xml:id="pX45p0494c1101" rend="margin-left:1em">此釋執取相也。謂先緣念境界。於苦樂等不了虗
+<lb ed="X" n="0494c12"/><lb ed="R072" n="0174b02"/>妄。深生取著。故下文云。即此相續識。依諸凡夫取
+<lb ed="X" n="0494c13"/><lb ed="R072" n="0174b03"/>著轉深。計我我所也。</p></cb:div>
+<lb ed="X" n="0494c14"/><lb ed="R072" n="0174b04"/><cb:div type="orig"><p xml:id="pX45p0494c1401">四者計名字相。依於妄執。分別假名言相故。</p></cb:div>
+<lb ed="X" n="0494c15"/><lb ed="R072" n="0174b05"/><cb:div type="commentary"><p xml:id="pX45p0494c1501" rend="margin-left:1em">此釋計名字相也。謂依先執取虗妄心境。分別假
+<lb ed="X" n="0494c16"/><lb ed="R072" n="0174b06"/>名言相。云計名字相。上來四相。若配我法二執。前
+<lb ed="X" n="0494c17"/><lb ed="R072" n="0174b07"/>二法執。後二我執。又惑業苦三。上四皆惑。下二業
+<lb ed="X" n="0494c18"/><lb ed="R072" n="0174b08"/>苦。</p></cb:div>
+<lb ed="X" n="0494c19"/><lb ed="R072" n="0174b09"/><cb:div type="orig"><p xml:id="pX45p0494c1901">五者起業相。依於名字。尋名取著。造種種業故。</p></cb:div>
+<lb ed="X" n="0494c20"/><lb ed="R072" n="0174b10"/><cb:div type="commentary"><p xml:id="pX45p0494c2001" rend="margin-left:1em">此釋起業相也。謂依前所分別假名言相。尋名取
+<lb ed="X" n="0494c21"/><lb ed="R072" n="0174b11"/>著。發動身口。造種種業。名起業相。</p></cb:div>
+<lb ed="X" n="0494c22"/><lb ed="R072" n="0174b12"/><cb:div type="orig"><p xml:id="pX45p0494c2201">六者業繫苦相。以依業受報。不自在故。</p></cb:div>
+<lb ed="X" n="0494c23"/><lb ed="R072" n="0174b13"/><cb:div type="commentary"><p xml:id="pX45p0494c2301" rend="margin-left:1em">此釋業繫苦相也。謂先所造善惡等業。受苦樂等
+<lb ed="X" n="0494c24"/><lb ed="R072" n="0174b14"/>報。輪迴三界。長縛生死。不自在故。名業繫苦。</p></cb:div>
+<pb ed="X" xml:id="X45.0766.0495a" n="0495a"/>
+<lb ed="X" n="0495a01"/><lb ed="R072" n="0174b15"/><cb:div type="orig"><p xml:id="pX45p0495a0101">當知無明能生一切染法。以一切染法。皆是不覺相
+<lb ed="X" n="0495a02"/><lb ed="R072" n="0174b16"/>故。</p></cb:div>
+<lb ed="X" n="0495a03"/><lb ed="R072" n="0174b17"/><cb:div type="commentary"><p xml:id="pX45p0495a0301" rend="margin-left:1em">此結末歸本。以顯無明為生死染法之因也。然一
+<lb ed="X" n="0495a04"/><lb ed="R072" n="0174b18"/>切染法。皆依根本無明而生。根本無明。乃最初動
+<lb ed="X" n="0495a05"/><lb ed="R072" n="0175a01"/>念也。以眾生從來未曾離念。故云一切染法皆是
+<lb ed="X" n="0495a06"/><lb ed="R072" n="0175a02"/>不覺之相。意顯若了無念。則一切煩惱頓斷。故此
+<lb ed="X" n="0495a07"/><lb ed="R072" n="0175a03"/>結指最初一念為生死苦本。欲令行人見苦知因。
+<lb ed="X" n="0495a08"/><lb ed="R072" n="0175a04"/>要知離念為修行之要也。</p>
+<lb ed="X" n="0495a09"/><lb ed="R072" n="0175a05"/><p xml:id="pX45p0495a0901" rend="margin-left:2em">上總釋無明為染法因。</p><p xml:id="pX45p0495a0910" rend="margin-left:2em;inline">下雙辯真妄同異。</p></cb:div>
+<lb ed="X" n="0495a10"/><lb ed="R072" n="0175a06"/><cb:div type="orig"><p xml:id="pX45p0495a1001">復次覺與不覺。有二種相。云何為二。一者同相。二者
+<lb ed="X" n="0495a11"/><lb ed="R072" n="0175a07"/>異相。</p></cb:div>
+<lb ed="X" n="0495a12"/><lb ed="R072" n="0175a08"/><cb:div type="commentary"><p xml:id="pX45p0495a1201" rend="margin-left:1em">此辯真妄同異相也。初云依如來藏有生滅心。不
+<lb ed="X" n="0495a13"/><lb ed="R072" n="0175a09"/>生不滅與生滅和合。非一非異。名阿黎耶識。今既
+<lb ed="X" n="0495a14"/><lb ed="R072" n="0175a10"/>明生滅心。要明生滅即不生滅。故此辯同異也。</p></cb:div>
+<lb ed="X" n="0495a15"/><lb ed="R072" n="0175a11"/><cb:div type="orig"><p xml:id="pX45p0495a1501">同相者。譬如種種瓦器。皆同微塵性相。如是無漏無
+<lb ed="X" n="0495a16"/><lb ed="R072" n="0175a12"/>明。種種業幻。皆同真如性相。</p></cb:div>
+<lb ed="X" n="0495a17"/><lb ed="R072" n="0175a13"/><cb:div type="commentary"><p xml:id="pX45p0495a1701" rend="margin-left:1em">此喻顯生滅即不生滅也。依微塵而有瓦器。喻顯
+<lb ed="X" n="0495a18"/><lb ed="R072" n="0175a14"/>染淨生滅。皆依真如也。無漏。本覺淨法。無明。染因。
+<lb ed="X" n="0495a19"/><lb ed="R072" n="0175a15"/>此二乃是真如隨緣相因。故同一真如之性也。種
+<lb ed="X" n="0495a20"/><lb ed="R072" n="0175a16"/>種業幻。謂本覺有不思議業。能作一切勝妙境界。
+<lb ed="X" n="0495a21"/><lb ed="R072" n="0175a17"/>無明業力。能生三細六麤。作一切生死苦樂等事。
+<lb ed="X" n="0495a22"/><lb ed="R072" n="0175a18"/>此真妄二法。皆是幻有。所謂生死涅槃。皆如幻夢。
+<lb ed="X" n="0495a23"/><lb ed="R072" n="0175b01"/>故云皆同真如性相。故染淨二法。皆真如相用也。</p></cb:div>
+<lb ed="X" n="0495a24"/><lb ed="R072" n="0175b02"/><cb:div type="orig"><p xml:id="pX45p0495a2401">是故脩多羅中。依於此義。說一切眾生。本來常住。入
+<pb ed="X" xml:id="X45.0766.0495b" n="0495b"/>
+<lb ed="X" n="0495b01"/><lb ed="R072" n="0175b03"/>於涅槃。菩提之法。非可修相。非可作相。畢竟無得。亦
+<lb ed="X" n="0495b02"/><lb ed="R072" n="0175b04"/>無色相可見。而有見色相者。唯是隨染業幻所作。非
+<lb ed="X" n="0495b03"/><lb ed="R072" n="0175b05"/>是智色不空之性。以智相無可見故。</p></cb:div>
+<lb ed="X" n="0495b04"/><lb ed="R072" n="0175b06"/><cb:div type="commentary"><p xml:id="pX45p0495b0401" rend="margin-left:1em">此引經證成同相義也。謂覺與不覺皆即真如。故
+<lb ed="X" n="0495b05"/><lb ed="R072" n="0175b07"/>眾生本來常住入於涅槃。故淨名云。一切眾生即
+<lb ed="X" n="0495b06"/><lb ed="R072" n="0175b08"/>涅槃相。不復更滅。謂本始二覺皆即真如。故諸佛
+<lb ed="X" n="0495b07"/><lb ed="R072" n="0175b09"/>菩提非可修相。畢竟無得。前約不覺即如。故眾生
+<lb ed="X" n="0495b08"/><lb ed="R072" n="0175b10"/>舊來入涅槃。次約覺智即真。故諸佛菩提無新得
+<lb ed="X" n="0495b09"/><lb ed="R072" n="0175b11"/>也。問曰。眾生既本是佛。何故不見報化之色相耶。
+<lb ed="X" n="0495b10"/><lb ed="R072" n="0175b12"/>答曰。但約真如性德而言。以真如法體本無色相
+<lb ed="X" n="0495b11"/><lb ed="R072" n="0175b13"/>可見故也。又問言。真如法性非色相者。何故諸佛
+<lb ed="X" n="0495b12"/><lb ed="R072" n="0175b14"/>證之而有報化種種色相耶。答曰。彼諸佛色相。但
+<lb ed="X" n="0495b13"/><lb ed="R072" n="0175b15"/>隨眾生染幻心中變現。亦非本覺不空性中而有
+<lb ed="X" n="0495b14"/><lb ed="R072" n="0175b16"/>也。以本覺智非可見相故。</p></cb:div>
+<lb ed="X" n="0495b15"/><lb ed="R072" n="0175b17"/><cb:div type="orig"><p xml:id="pX45p0495b1501">異相者。如種種瓦器。各各不同。如是無漏無明。隨染
+<lb ed="X" n="0495b16"/><lb ed="R072" n="0175b18"/>幻差別。性染幻差別故。</p></cb:div>
+<lb ed="X" n="0495b17"/><lb ed="R072" n="0176a01"/><cb:div type="commentary"><p xml:id="pX45p0495b1701" rend="margin-left:1em">此喻明即同而異也。言種種瓦器雖同微塵。但以
+<lb ed="X" n="0495b18"/><lb ed="R072" n="0176a02"/>隨造作緣各各不同。如是本覺無明真妄二法。雖
+<lb ed="X" n="0495b19"/><lb ed="R072" n="0176a03"/>同一真如法性。本無差別。<anchor xml:id="beg_15" type="cb-app"/>但<anchor xml:id="end_15"/>今隨染幻緣故。種種
+<lb ed="X" n="0495b20"/><lb ed="R072" n="0176a04"/>差別。真妄皆言隨染差別者。以諸淨功德。皆就染
+<lb ed="X" n="0495b21"/><lb ed="R072" n="0176a05"/>翻成。故單約染幻。所謂心性有動。則有過恒沙等
+<lb ed="X" n="0495b22"/><lb ed="R072" n="0176a06"/>妄染之義。心性無動。則有過恒沙等諸淨功德相
+<lb ed="X" n="0495b23"/><lb ed="R072" n="0176a07"/>義示現。此但就眾生心中轉變。故云隨染幻也。意
+<lb ed="X" n="0495b24"/><lb ed="R072" n="0176a08"/>謂差別者乃是染幻差別。非真如法性有差別也。
+<pb ed="X" xml:id="X45.0766.0495c" n="0495c"/>
+<lb ed="X" n="0495c01"/><lb ed="R072" n="0176a09"/>此結歸本無差別義也。</p>
+<lb ed="X" n="0495c02"/><lb ed="R072" n="0176a10"/><p xml:id="pX45p0495c0201" rend="margin-left:2em">上釋生滅心竟。</p><p xml:id="pX45p0495c0207" rend="margin-left:2em;inline">下釋生滅因緣。</p></cb:div>
+<lb ed="X" n="0495c03"/><lb ed="R072" n="0176a11"/><cb:div type="orig"><p xml:id="pX45p0495c0301">復次生滅因緣者。所謂眾生依心。意。意識轉故。此義
+<lb ed="X" n="0495c04"/><lb ed="R072" n="0176a12"/>云何。以依阿黎耶識。說有無明。不覺而起。能見。能現。
+<lb ed="X" n="0495c05"/><lb ed="R072" n="0176a13"/>能取境界。起念相續。故說為意。</p></cb:div>
+<lb ed="X" n="0495c06"/><lb ed="R072" n="0176a14"/><cb:div type="commentary"><p xml:id="pX45p0495c0601" rend="margin-left:1em">此明一心生滅。乃真妄互為因緣。以顯阿黎耶識
+<lb ed="X" n="0495c07"/><lb ed="R072" n="0176a15"/>生一切法也。而眾生長劫相續生死不斷者。獨意
+<lb ed="X" n="0495c08"/><lb ed="R072" n="0176a16"/>之一法為過最重。以眾生依心意意識轉故也。依
+<lb ed="X" n="0495c09"/><lb ed="R072" n="0176a17"/>心者。經云如來藏若生若滅。今識藏即如來藏。故
+<lb ed="X" n="0495c10"/><lb ed="R072" n="0176a18"/>說依心。然此藏心本無生滅。而生滅相續者乃意。
+<lb ed="X" n="0495c11"/><lb ed="R072" n="0176b01"/>而起惑造業者意之識也。此句標定。下徵釋云此
+<lb ed="X" n="0495c12"/><lb ed="R072" n="0176b02"/>義云何。謂如何生滅相續者是意耶。答曰。以依阿
+<lb ed="X" n="0495c13"/><lb ed="R072" n="0176b03"/>棃耶識說有無明不覺而起。此生滅之源也。依心
+<lb ed="X" n="0495c14"/><lb ed="R072" n="0176b04"/>等者。謂真如一心本無生滅。但以一念妄動。熏彼
+<lb ed="X" n="0495c15"/><lb ed="R072" n="0176b05"/>心體。迷本圓明。故說無明。此無明依真而起。熏彼
+<lb ed="X" n="0495c16"/><lb ed="R072" n="0176b06"/>藏心變為藏識。此真如為因。無明為緣。生起賴耶。
+<lb ed="X" n="0495c17"/><lb ed="R072" n="0176b07"/>當業相也。是則心通真妄。然此無明業相。尚未分
+<lb ed="X" n="0495c18"/><lb ed="R072" n="0176b08"/>能所。了無對待。故雖生不生。但以無明返熏賴耶。
+<lb ed="X" n="0495c19"/><lb ed="R072" n="0176b09"/>則本有智光。變為能見之妄見。令無相真體。變為
+<lb ed="X" n="0495c20"/><lb ed="R072" n="0176b10"/>所現之妄境。由此見相既分。能所對待。故妄見能
+<lb ed="X" n="0495c21"/><lb ed="R072" n="0176b11"/>取境界。心境和合。復起念著。相續不斷。故說此相
+<lb ed="X" n="0495c22"/><lb ed="R072" n="0176b12"/>續者乃意。非心也。此以無明為因。境界為緣。故又
+<lb ed="X" n="0495c23"/><lb ed="R072" n="0176b13"/>生起六麤之相。所以生死相續長劫而不斷者意
+<lb ed="X" n="0495c24"/><lb ed="R072" n="0176b14"/>之過也。論顯意為生滅之主。以七八二識通名為
+<pb ed="X" xml:id="X45.0766.0496a" n="0496a"/>
+<lb ed="X" n="0496a01"/><lb ed="R072" n="0176b15"/>意。故下釋有五種。</p></cb:div>
+<lb ed="X" n="0496a02"/><lb ed="R072" n="0176b16"/><cb:div type="orig"><p xml:id="pX45p0496a0201">此意復有五種名。云何為五。一者名為業識。謂無明
+<lb ed="X" n="0496a03"/><lb ed="R072" n="0176b17"/>力不覺心動故<note place="inline">此顯最初生相。即名為意</note>。二者名為轉識。依於動
+<lb ed="X" n="0496a04"/><lb ed="R072" n="0176b18"/>心能見相故<note place="inline">此顯能轉真智而為妄見者亦意也</note>。三者名為現識。所謂
+<lb ed="X" n="0496a05"/><lb ed="R072" n="0177a01"/>能現一切境界。猶如明鏡現於色像。現識亦爾。隨其
+<lb ed="X" n="0496a06"/><lb ed="R072" n="0177a02"/>五塵。對至即現。無有前後。以一切時任運而起。常在
+<lb ed="X" n="0496a07"/><lb ed="R072" n="0177a03"/>前故<note place="inline">此顯精明識體。圓現五塵境界。所以任運恒起。持而不失。常在前者。亦意之力。取以為境。此三
+<lb ed="X" n="0496a08"/><lb ed="R072" n="0177a04"/>細也</note>。四者名為智識。謂分別染淨法故<note place="inline">此顯八識雖能圓現五塵。<anchor xml:id="beg_16" type="cb-app"/>但<anchor xml:id="end_16"/>現
+<lb ed="X" n="0496a09"/><lb ed="R072" n="0177a05"/>而無分別。至分別染淨取捨者。乃意為主也。此六麤之智相也</note>。五者名為相續識。以
+<lb ed="X" n="0496a10"/><lb ed="R072" n="0177a06"/>念相應不斷故<note place="inline">此正顯念念相續不斷者。指歸於意也。以一念最初無明。雖生三細。心境
+<lb ed="X" n="0496a11"/><lb ed="R072" n="0177a07"/>尚未和合。故不相應。因智識分別。取以為境。而念念攀緣。生生不斷者。名相續相。皆是意轉。故此三細二麤。皆
+<lb ed="X" n="0496a12"/><lb ed="R072" n="0177a08"/>名意也</note>。住持過去無量世等善惡之業。令不失故<note place="inline">上言念念
+<lb ed="X" n="0496a13"/><lb ed="R072" n="0177a09"/>相續。乃自體相續。今云住持過去等業不失。乃令他生死相續。以此意乃執取善惡染淨等法。以賴耶所藏之
+<lb ed="X" n="0496a14"/><lb ed="R072" n="0177a10"/>處以為種子。名我愛執藏。故不失壞。以作未來長劫生死之因。亦意之力也</note>。復能成熟現
+<lb ed="X" n="0496a15"/><lb ed="R072" n="0177a11"/>在未來苦樂等報。無差違故<note place="inline">此明以前所藏善惡種子為因。能感未來生死
+<lb ed="X" n="0496a16"/><lb ed="R072" n="0177a12"/>苦樂之果而不差者。亦意之力也</note>。能令現在<anchor xml:id="beg_17" type="cb-app"/>已<anchor xml:id="end_17"/>經之事。忽然而念。未
+<lb ed="X" n="0496a17"/><lb ed="R072" n="0177a13"/>來之事。不覺妄慮<note place="inline">此明眾生日用念念攀緣者蓋由種子習氣內熏。發起現行。念念不
+<lb ed="X" n="0496a18"/><lb ed="R072" n="0177a14"/>斷。現前起業者。亦意之力也。下結妄源</note>。是故三界虗偽。唯心所作。離心
+<lb ed="X" n="0496a19"/><lb ed="R072" n="0177a15"/>則無六塵境界<note place="inline">此結過歸意也。謂如來藏中。本無三界生死虛假之相。故曰唯心。於今現
+<lb ed="X" n="0496a20"/><lb ed="R072" n="0177a16"/>有三界之相者。乃意依心所作耳。若此妄意一念不生。則無六塵之相。塵相既空。則妄見亦泯。一心圓明。如此
+<lb ed="X" n="0496a21"/><lb ed="R072" n="0177a17"/>則六塵境界又何從而有耶。蓋顯生死乃意依心所作耳</note>。</p></cb:div>
+<lb ed="X" n="0496a22"/><lb ed="R072" n="0177a18"/><cb:div type="commentary"><p xml:id="pX45p0496a2201" rend="margin-left:1em">此明生滅因緣最初以真如為因。以一念妄動之
+<lb ed="X" n="0496a23"/><lb ed="R072" n="0177b01"/>無明為緣。故轉彼真心而為藏識之業相也。既而
+<lb ed="X" n="0496a24"/><lb ed="R072" n="0177b02"/>妄念返熏業識。而轉成能見能現。此無明不覺生
+<pb ed="X" xml:id="X45.0766.0496b" n="0496b"/>
+<lb ed="X" n="0496b01"/><lb ed="R072" n="0177b03"/>三細也。見相一立。心境對待。而妄念取為我有。分
+<lb ed="X" n="0496b02"/><lb ed="R072" n="0177b04"/>別淨穢。執之不捨。種種分別。念念相續。以取長劫
+<lb ed="X" n="0496b03"/><lb ed="R072" n="0177b05"/>生死者。此以無明為因。境界為緣。生起六麤之相。
+<lb ed="X" n="0496b04"/><lb ed="R072" n="0177b06"/>總之皆以念念相續而為根本。故此三細二麤通
+<lb ed="X" n="0496b05"/><lb ed="R072" n="0177b07"/>名為意。故八識論通名思量。是知意乃生滅之本。
+<lb ed="X" n="0496b06"/><lb ed="R072" n="0177b08"/>故此論云眾生依心意意識轉。此特生滅相續者
+<lb ed="X" n="0496b07"/><lb ed="R072" n="0177b09"/>乃意轉。至若起惑造業者乃意識。謂是此意所發
+<lb ed="X" n="0496b08"/><lb ed="R072" n="0177b10"/>之識耳。故下意識別說。顯此意為根也。向云此論
+<lb ed="X" n="0496b09"/><lb ed="R072" n="0177b11"/>不立七識。今此智相相續為意。即是七識。故云。一
+<lb ed="X" n="0496b10"/><lb ed="R072" n="0177b12"/>種是思量。七識偏名意。今三細二麤通名意者。正
+<lb ed="X" n="0496b11"/><lb ed="R072" n="0177b13"/>瑜伽之作意。以念念生滅者乃作意耳。故以此意
+<lb ed="X" n="0496b12"/><lb ed="R072" n="0177b14"/>為生滅之源。</p></cb:div>
+<lb ed="X" n="0496b13"/><lb ed="R072" n="0177b15"/><cb:div type="orig"><p xml:id="pX45p0496b1301">此義云何<note place="inline">徵問生滅既云是意。如何說依心生滅耶</note>。以一切法皆從心起。
+<lb ed="X" n="0496b14"/><lb ed="R072" n="0177b16"/>妄念而生<note place="inline">謂心是法界總相之體。本來不生。了無一法。今現一切法者。皆從妄念作意而生。非
+<lb ed="X" n="0496b15"/><lb ed="R072" n="0177b17"/>心生也</note>。一切分別。即分別自心<note place="inline">諸法唯心所現。以無明不了。妄生分別。其實所
+<lb ed="X" n="0496b16"/><lb ed="R072" n="0177b18"/>分別者皆自心耳。以心外無法故</note>。心不見心。無相可得<note place="inline">以所分別者皆妄相耳。真
+<lb ed="X" n="0496b17"/><lb ed="R072" n="0178a01"/>心無相。豈可得分別耶</note>。當知世間一切境界。皆依眾生無明妄
+<lb ed="X" n="0496b18"/><lb ed="R072" n="0178a02"/>心而得住持<note place="inline">若了真心無相。則三界頓空。當知現有三界之相者。特依妄心而得住持耳</note>。
+<lb ed="X" n="0496b19"/><lb ed="R072" n="0178a03"/>是故一切法如鏡中像。無體可得。唯心虗妄<note place="inline">三界妄相。乃業
+<lb ed="X" n="0496b20"/><lb ed="R072" n="0178a04"/>幻所作。本來不實。如鏡現像。<anchor xml:id="beg_18" type="cb-app"/>但<anchor xml:id="end_18"/>唯眾生妄心分別而有</note>。以心生則種種法生。心
+<lb ed="X" n="0496b21"/><lb ed="R072" n="0178a05"/>滅則種種法滅故。</p></cb:div>
+<lb ed="X" n="0496b22"/><lb ed="R072" n="0178a06"/><cb:div type="commentary"><p xml:id="pX45p0496b2201" rend="margin-left:1em">從此義云何下。徵明諸法由心生滅。葢歸重一念
+<lb ed="X" n="0496b23"/><lb ed="R072" n="0178a07"/>為生法之本也。良以真心本無生滅。只因最初一
+<lb ed="X" n="0496b24"/><lb ed="R072" n="0178a08"/>念無明妄動。遂轉廣大無相真心。而為三界之妄
+<pb ed="X" xml:id="X45.0766.0496c" n="0496c"/>
+<lb ed="X" n="0496c01"/><lb ed="R072" n="0178a09"/>法。是則諸法皆從心起。由妄念而生也。推一念元
+<lb ed="X" n="0496c02"/><lb ed="R072" n="0178a10"/>無自體。依真而立。則妄本即真。故諸法唯心。而妄
+<lb ed="X" n="0496c03"/><lb ed="R072" n="0178a11"/>分別者皆自心也。所謂自心取自心。非幻成幻法。
+<lb ed="X" n="0496c04"/><lb ed="R072" n="0178a12"/><anchor xml:id="beg_19" type="cb-app"/>但<anchor xml:id="end_19"/>眾生不了心本無相。故妄境不空。故知眾生妄
+<lb ed="X" n="0496c05"/><lb ed="R072" n="0178a13"/>法。皆依妄心住持。於真心中了不可得。以一念之
+<lb ed="X" n="0496c06"/><lb ed="R072" n="0178a14"/>迷。則萬法齊彰。故云心生則種種法生。若了一念
+<lb ed="X" n="0496c07"/><lb ed="R072" n="0178a15"/>無生。則三界頓空。故云心滅則種種法滅。此論直
+<lb ed="X" n="0496c08"/><lb ed="R072" n="0178a16"/>指一心。但了一念無生。則頓發佛地。所謂若能觀
+<lb ed="X" n="0496c09"/><lb ed="R072" n="0178a17"/>無念者。則為向佛智矣。悲夫。眾生從本<anchor xml:id="beg_1a" type="cb-app"/>已<anchor xml:id="end_1a"/>來。念念
+<lb ed="X" n="0496c10"/><lb ed="R072" n="0178a18"/>相續。未曾離念。故生死不斷耳。</p>
+<lb ed="X" n="0496c11"/><lb ed="R072" n="0178b01"/><p xml:id="pX45p0496c1101" rend="margin-left:2em">上明相續意。</p><p xml:id="pX45p0496c1106" rend="margin-left:2em;inline">下明意識。</p></cb:div>
+<lb ed="X" n="0496c12"/><lb ed="R072" n="0178b02"/><cb:div type="orig"><p xml:id="pX45p0496c1201">復次言意識者。即此相續識。依諸凡夫取著轉深。計
+<lb ed="X" n="0496c13"/><lb ed="R072" n="0178b03"/>我我所。種種妄執。隨事攀緣。分別六塵。名為意識。亦
+<lb ed="X" n="0496c14"/><lb ed="R072" n="0178b04"/>名分離識。又復說名分別事識。此識依見愛煩惱增
+<lb ed="X" n="0496c15"/><lb ed="R072" n="0178b05"/>長義故。</p></cb:div>
+<lb ed="X" n="0496c16"/><lb ed="R072" n="0178b06"/><cb:div type="commentary"><p xml:id="pX45p0496c1601" rend="margin-left:1em">此明意識即前相續識。但依凡夫取著外境。執為
+<lb ed="X" n="0496c17"/><lb ed="R072" n="0178b07"/>我我所。攀緣六塵。為我受用。故名意之識。葢以相
+<lb ed="X" n="0496c18"/><lb ed="R072" n="0178b08"/>續為根。故深執著我愛起惑造業者乃意識耳。此
+<lb ed="X" n="0496c19"/><lb ed="R072" n="0178b09"/>六麤之執取計名字二麤相也。以此識外依五根
+<lb ed="X" n="0496c20"/><lb ed="R072" n="0178b10"/>分別取境。故名分離識。又通緣內外根境種種事
+<lb ed="X" n="0496c21"/><lb ed="R072" n="0178b11"/>相。故又名分別事識。此識依見愛等者。葢五住地
+<lb ed="X" n="0496c22"/><lb ed="R072" n="0178b12"/>無明。顯前五意。總依無明住地。此意識見愛等四
+<lb ed="X" n="0496c23"/><lb ed="R072" n="0178b13"/>住地煩惱。將以起惑造業也。</p>
+<lb ed="X" n="0496c24"/><lb ed="R072" n="0178b14"/><p xml:id="pX45p0496c2401" rend="margin-left:2em">上明一心生滅因緣乃順無明流生起生死染
+<pb ed="X" xml:id="X45.0766.0497a" n="0497a"/>
+<lb ed="X" n="0497a01"/><lb ed="R072" n="0178b15"/>法。</p><p xml:id="pX45p0497a0102" rend="margin-left:2em;inline">下明依一心生滅因緣即染還淨以明
+<lb ed="X" n="0497a02"/><lb ed="R072" n="0178b16"/>頓漸不同。</p></cb:div>
+<lb ed="X" n="0497a03"/><lb ed="R072" n="0178b17"/><cb:div type="orig"><p xml:id="pX45p0497a0301">依無明熏習所起識者。非凡夫能知。亦非二乘智慧
+<lb ed="X" n="0497a04"/><lb ed="R072" n="0178b18"/>所覺。謂依菩薩從初正信發心觀察。若證法身。得少
+<lb ed="X" n="0497a05"/><lb ed="R072" n="0179a01"/>分知。乃至菩薩究竟地。不能盡知。唯佛窮了。</p></cb:div>
+<lb ed="X" n="0497a06"/><lb ed="R072" n="0179a02"/><cb:div type="commentary"><p xml:id="pX45p0497a0601" rend="margin-left:1em">此略明還淨。以顯緣起甚深也。謂此根本無明。業
+<lb ed="X" n="0497a07"/><lb ed="R072" n="0179a03"/>識甚深。最極微細。今欲返妄歸真。直須破此無明
+<lb ed="X" n="0497a08"/><lb ed="R072" n="0179a04"/>根本業識。方證一心之源。乃為究竟。良由此識甚
+<lb ed="X" n="0497a09"/><lb ed="R072" n="0179a05"/>深。施功不易。以非凡夫所知境界。亦非二乘智慧
+<lb ed="X" n="0497a10"/><lb ed="R072" n="0179a06"/>所覺。以二乘不知有此識故。即菩薩修行。從初正
+<lb ed="X" n="0497a11"/><lb ed="R072" n="0179a07"/>信發心觀察。歷過三賢。但以比觀。故少分知。乃至
+<lb ed="X" n="0497a12"/><lb ed="R072" n="0179a08"/>登地法身大士。但覺住相。以極十地究竟。亦不能
+<lb ed="X" n="0497a13"/><lb ed="R072" n="0179a09"/>盡知。皆屬分知。唯佛能了。故知此識甚深。豈易破
+<lb ed="X" n="0497a14"/><lb ed="R072" n="0179a10"/>哉。此言頓悟之難也。悲夫。今之參禪之士。此識行
+<lb ed="X" n="0497a15"/><lb ed="R072" n="0179a11"/>相尚且不知。即以悟道自負。豈非增上慢者哉。</p>
+<lb ed="X" n="0497a16"/><lb ed="R072" n="0179a12"/><p xml:id="pX45p0497a1601" rend="margin-left:2em">下釋難知所以。</p></cb:div>
+<lb ed="X" n="0497a17"/><lb ed="R072" n="0179a13"/><cb:div type="orig"><p xml:id="pX45p0497a1701">何以故。是心從本<anchor xml:id="beg_1b" type="cb-app"/>已<anchor xml:id="end_1b"/>來。自性清淨而有無明。為無明
+<lb ed="X" n="0497a18"/><lb ed="R072" n="0179a14"/>所染。有其染心<note place="inline">此明本不染而染。故難可了知</note>。雖有染心。而常恒不
+<lb ed="X" n="0497a19"/><lb ed="R072" n="0179a15"/>變<note place="inline">此染而不染。難可了知</note>。是故此義唯佛能知。所謂心性常無
+<lb ed="X" n="0497a20"/><lb ed="R072" n="0179a16"/>念故。名為不變。以不達一法界故。心不相應。忽然念
+<lb ed="X" n="0497a21"/><lb ed="R072" n="0179a17"/>起。名為無明。</p></cb:div>
+<lb ed="X" n="0497a22"/><lb ed="R072" n="0179a18"/><cb:div type="commentary"><p xml:id="pX45p0497a2201" rend="margin-left:1em">此徵明甚深難知之所以也。問。何故以識唯佛能
+<lb ed="X" n="0497a23"/><lb ed="R072" n="0179b01"/>知耶。答曰。以清淨心中。本來無染。因無明故。有其
+<lb ed="X" n="0497a24"/><lb ed="R072" n="0179b02"/>染心。此不染而染。難可了知也。雖有染心。而心體
+<pb ed="X" xml:id="X45.0766.0497b" n="0497b"/>
+<lb ed="X" n="0497b01"/><lb ed="R072" n="0179b03"/>清淨。常恒不變。此染而不變。故難可了知也。以此
+<lb ed="X" n="0497b02"/><lb ed="R072" n="0179b04"/>甚深微細。故非三賢十聖可及。唯佛能了耳。問曰。
+<lb ed="X" n="0497b03"/><lb ed="R072" n="0179b05"/>既云有染。何以說常恒不變耶。答曰。以眾生妄想
+<lb ed="X" n="0497b04"/><lb ed="R072" n="0179b06"/>念念攀緣。而此心體恒常。本自無念。即念處無念。
+<lb ed="X" n="0497b05"/><lb ed="R072" n="0179b07"/>故說不變。此所以難可了知也。問曰。既云是心從
+<lb ed="X" n="0497b06"/><lb ed="R072" n="0179b08"/>本<anchor xml:id="beg_1c" type="cb-app"/>已<anchor xml:id="end_1c"/>來自性清淨。因何而有無明耶。答曰。以不達
+<lb ed="X" n="0497b07"/><lb ed="R072" n="0179b09"/>一法界故。心體自不相應。忽然起念。名為無明。即
+<lb ed="X" n="0497b08"/><lb ed="R072" n="0179b10"/>此忽然起處。最極微細。不可思議。所謂不思議熏
+<lb ed="X" n="0497b09"/><lb ed="R072" n="0179b11"/>故。難可了知。以從中起故。唯佛能知。所以非菩薩
+<lb ed="X" n="0497b10"/><lb ed="R072" n="0179b12"/>所知也。</p>
+<lb ed="X" n="0497b11"/><lb ed="R072" n="0179b13"/><p xml:id="pX45p0497b1101" rend="margin-left:2em">上略明還淨因緣。</p>
+<lb ed="X" n="0497b12"/><lb ed="R072" n="0179b14"/><p xml:id="pX45p0497b1201" rend="margin-left:2em">下詳示約位斷惑廣明還淨因緣。</p></cb:div>
+<lb ed="X" n="0497b13"/><lb ed="R072" n="0179b15"/><cb:div type="orig"><p xml:id="pX45p0497b1301">染心者有六種。云何為六。一者執相應染<note place="inline">此六麤執取計名字
+<lb ed="X" n="0497b14"/><lb ed="R072" n="0179b16"/>二相</note>。依二乘解脫。及信相應地遠離故<note place="inline">此當第六意識見思二惑。故二
+<lb ed="X" n="0497b15"/><lb ed="R072" n="0179b17"/>乘及十信能離</note>。二者不斷相應染<note place="inline">此相續相</note>。依信相應地修學方
+<lb ed="X" n="0497b16"/><lb ed="R072" n="0179b18"/>便<note place="inline">從十信至十向</note>漸漸能捨。得淨心地究竟離故<note place="inline">從三賢至初地</note>。三
+<lb ed="X" n="0497b17"/><lb ed="R072" n="0180a01"/>者分別智相應染<note place="inline">此智相</note>。依具戒地<note place="inline">二地</note>漸離。乃至無相
+<lb ed="X" n="0497b18"/><lb ed="R072" n="0180a02"/>方便地究竟離故<note place="inline">從二地至七地能離</note>。四者現色不相應染<note place="inline">三細
+<lb ed="X" n="0497b19"/><lb ed="R072" n="0180a03"/>現相</note>。依色自在地<note place="inline">八地</note>能離故。五者能見心不相應染<note place="inline">見相</note>。
+<lb ed="X" n="0497b20"/><lb ed="R072" n="0180a04"/>依心自在地<note place="inline">九地</note>能離故。六者根本業不相應染<note place="inline">無明業相</note>。
+<lb ed="X" n="0497b21"/><lb ed="R072" n="0180a05"/>依菩薩盡地。得入如來地能離故。不了一法界義者。
+<lb ed="X" n="0497b22"/><lb ed="R072" n="0180a06"/>從信相應地觀察學斷。入淨心地隨分得離。乃至如
+<lb ed="X" n="0497b23"/><lb ed="R072" n="0180a07"/>來地能究竟離故。</p></cb:div>
+<lb ed="X" n="0497b24"/><lb ed="R072" n="0180a08"/><cb:div type="commentary"><p xml:id="pX45p0497b2401" rend="margin-left:1em">此詳約位以辯離惑漸次淺深。廣明還淨因緣也。
+<pb ed="X" xml:id="X45.0766.0497c" n="0497c"/>
+<lb ed="X" n="0497c01"/><lb ed="R072" n="0180a09"/>由前略示還淨。頓破最初根本無明。非三賢十聖
+<lb ed="X" n="0497c02"/><lb ed="R072" n="0180a10"/>所能。唯佛能了。故此詳示依位漸離之次第也。言
+<lb ed="X" n="0497c03"/><lb ed="R072" n="0180a11"/>信相應地者。乃從信入住。入生空觀。單破見思。即
+<lb ed="X" n="0497c04"/><lb ed="R072" n="0180a12"/>見愛煩惱。此地雖發心志斷無明。其力未充。麤垢
+<lb ed="X" n="0497c05"/><lb ed="R072" n="0180a13"/>先落。止能斷見思耳。執相應染。乃六麤執取計名
+<lb ed="X" n="0497c06"/><lb ed="R072" n="0180a14"/>字相。為見愛煩惱。屬第六識。正二乘所斷。不斷相
+<lb ed="X" n="0497c07"/><lb ed="R072" n="0180a15"/>應染。乃相續相。天台以此名界內外塵沙惑。三賢
+<lb ed="X" n="0497c08"/><lb ed="R072" n="0180a16"/>斷此。乃登初地。故從初住至初地能離。以捨分別
+<lb ed="X" n="0497c09"/><lb ed="R072" n="0180a17"/>二障故。分別智相應染。乃六麤之細分。即智相。屬
+<lb ed="X" n="0497c10"/><lb ed="R072" n="0180a18"/>俱生我執。然地上雖志破無明。以從初至七。有相
+<lb ed="X" n="0497c11"/><lb ed="R072" n="0180b01"/>觀多。但能破俱生我執耳。現色不相應染。乃現識。
+<lb ed="X" n="0497c12"/><lb ed="R072" n="0180b02"/>此在八地。<anchor xml:id="beg_1d" type="cb-app"/>已<anchor xml:id="end_1d"/>證平等真如。得色自在。故能離之。能
+<lb ed="X" n="0497c13"/><lb ed="R072" n="0180b03"/>見不相應染。乃轉識。為見相。九地得心自在。故能
+<lb ed="X" n="0497c14"/><lb ed="R072" n="0180b04"/>離之。根本業不相應染。乃業識。即業相。此依十地
+<lb ed="X" n="0497c15"/><lb ed="R072" n="0180b05"/>滿心。至等覺金剛道後。斷此即入如來果海。此上
+<lb ed="X" n="0497c16"/><lb ed="R072" n="0180b06"/>離染還淨之漸次也。上云為無明所染。有其染心。
+<lb ed="X" n="0497c17"/><lb ed="R072" n="0180b07"/>是則六染皆依無明為根。六染乃無明差別之相
+<lb ed="X" n="0497c18"/><lb ed="R072" n="0180b08"/>耳。今染心既滅。則無明亦隨滅。今云不達一法界
+<lb ed="X" n="0497c19"/><lb ed="R072" n="0180b09"/>義等者。正指忽然起念之無明。亦從信相應地觀
+<lb ed="X" n="0497c20"/><lb ed="R072" n="0180b10"/>察云云。乃至如來地究竟離也。實教斷無明約四
+<lb ed="X" n="0497c21"/><lb ed="R072" n="0180b11"/>十二分。初發信心志斷無明。義見於此。然生滅因
+<lb ed="X" n="0497c22"/><lb ed="R072" n="0180b12"/>緣。義該染淨生滅。此還淨因緣也。</p></cb:div>
+<lb ed="X" n="0497c23"/><lb ed="R072" n="0180b13"/><cb:div type="orig"><p xml:id="pX45p0497c2301">言相應義者。謂心念法異。依染淨差別。而知相緣相
+<lb ed="X" n="0497c24"/><lb ed="R072" n="0180b14"/>同故。不相應義者。即心不覺。常無別異。不同知相緣
+<pb ed="X" xml:id="X45.0766.0498a" n="0498a"/>
+<lb ed="X" n="0498a01"/><lb ed="R072" n="0180b15"/>相故。</p></cb:div>
+<lb ed="X" n="0498a02"/><lb ed="R072" n="0180b16"/><cb:div type="commentary"><p xml:id="pX45p0498a0201" rend="margin-left:1em">釋上六染相應不相應所緣同異也。前三染言相
+<lb ed="X" n="0498a03"/><lb ed="R072" n="0180b17"/>應者。謂心王心所各別。故云心念法異。緣所緣之
+<lb ed="X" n="0498a04"/><lb ed="R072" n="0180b18"/>境染淨不同。若心王緣染淨。而心所亦隨同之。故
+<lb ed="X" n="0498a05"/><lb ed="R072" n="0181a01"/>云知相緣相同故。名相應也。不相應者。乃即心不
+<lb ed="X" n="0498a06"/><lb ed="R072" n="0181a02"/>覺。未分王所。不與外境相應。故常無別異。故云不
+<lb ed="X" n="0498a07"/><lb ed="R072" n="0181a03"/>相應也。此中約無明熏真心成業識。生起三細。為
+<lb ed="X" n="0498a08"/><lb ed="R072" n="0181a04"/>即心不覺。未分王所。故云不相應耳。</p></cb:div>
+<lb ed="X" n="0498a09"/><lb ed="R072" n="0181a05"/><cb:div type="orig"><p xml:id="pX45p0498a0901">又染心義者。名為煩惱礙。能障真如根本智故。無明
+<lb ed="X" n="0498a10"/><lb ed="R072" n="0181a06"/>義者。名為智礙。能障世間自然業智故。</p></cb:div>
+<lb ed="X" n="0498a11"/><lb ed="R072" n="0181a07"/><cb:div type="commentary"><p xml:id="pX45p0498a1101" rend="margin-left:1em">此明染心依無明而有。其體雖同。而為礙不同也。
+<lb ed="X" n="0498a12"/><lb ed="R072" n="0181a08"/>以染心喧動。為煩惱礙。故障根本智。染相差別。故
+<lb ed="X" n="0498a13"/><lb ed="R072" n="0181a09"/>障真如平等。無明昏迷。故障世間自然業智。此如
+<lb ed="X" n="0498a14"/><lb ed="R072" n="0181a10"/>量智也。此出體。下徵其相。</p></cb:div>
+<lb ed="X" n="0498a15"/><lb ed="R072" n="0181a11"/><cb:div type="orig"><p xml:id="pX45p0498a1501">此義云何。</p></cb:div>
+<lb ed="X" n="0498a16"/><lb ed="R072" n="0181a12"/><cb:div type="commentary"><p xml:id="pX45p0498a1601" rend="margin-left:1em">問意云。無明細。應障理智。染心麤。應障量智。何以
+<lb ed="X" n="0498a17"/><lb ed="R072" n="0181a13"/>不然。下釋所以。</p></cb:div>
+<lb ed="X" n="0498a18"/><lb ed="R072" n="0181a14"/><cb:div type="orig"><p xml:id="pX45p0498a1801">以依染心。能見能現。妄取境界。違平等性故。</p></cb:div>
+<lb ed="X" n="0498a19"/><lb ed="R072" n="0181a15"/><cb:div type="commentary"><p xml:id="pX45p0498a1901" rend="margin-left:1em">此釋煩惱障理之所以也。能見能現。三不相應染
+<lb ed="X" n="0498a20"/><lb ed="R072" n="0181a16"/>也。妄取境界。三相應染也。謂真如平等本智。無能
+<lb ed="X" n="0498a21"/><lb ed="R072" n="0181a17"/>所相。今染心妄取境界。能所對待。覿體相違。故障
+<lb ed="X" n="0498a22"/><lb ed="R072" n="0181a18"/>理智也。</p></cb:div>
+<lb ed="X" n="0498a23"/><lb ed="R072" n="0181b01"/><cb:div type="orig"><p xml:id="pX45p0498a2301">以一切法常靜。無有起相。無明不覺。妄與法違。故不
+<lb ed="X" n="0498a24"/><lb ed="R072" n="0181b02"/>能得隨順世間一切境界種種知故。</p></cb:div>
+<pb ed="X" xml:id="X45.0766.0498b" n="0498b"/>
+<lb ed="X" n="0498b01"/><lb ed="R072" n="0181b03"/><cb:div type="commentary"><p xml:id="pX45p0498b0101" rend="margin-left:1em">此釋無明礙障量智也。以世間諸法常寂滅相。無
+<lb ed="X" n="0498b02"/><lb ed="R072" n="0181b04"/>有起動。此唯量智能知。今無明昏迷。妄有生滅。不
+<lb ed="X" n="0498b03"/><lb ed="R072" n="0181b05"/>了諸法寂靜。妄與法乖。故正障量智。使之不能隨
+<lb ed="X" n="0498b04"/><lb ed="R072" n="0181b06"/>順世間種種知也。</p>
+<lb ed="X" n="0498b05"/><lb ed="R072" n="0181b07"/><p xml:id="pX45p0498b0501" rend="margin-left:2em">上釋生滅因緣。</p><p xml:id="pX45p0498b0507" rend="margin-left:2em;inline">下釋生滅相。</p></cb:div>
+<lb ed="X" n="0498b06"/><lb ed="R072" n="0181b08"/><cb:div type="orig"><p xml:id="pX45p0498b0601">復次生滅相者有二種。云何為二。一者麤。與心相應
+<lb ed="X" n="0498b07"/><lb ed="R072" n="0181b09"/>故。二者細。與心不相應故。又麤中之麤。凡夫境界。麤
+<lb ed="X" n="0498b08"/><lb ed="R072" n="0181b10"/>中之細。及細中之麤。菩薩境界。細中之細。是佛境界。
+<lb ed="X" n="0498b09"/><lb ed="R072" n="0181b11"/>此二種生滅。依於無明熏習而有。所謂依因依緣。依
+<lb ed="X" n="0498b10"/><lb ed="R072" n="0181b12"/>因者不覺義故。依緣者妄作境界義故。若因滅則緣
+<lb ed="X" n="0498b11"/><lb ed="R072" n="0181b13"/>滅。因滅故不相應心滅。緣滅故相應心滅。</p></cb:div>
+<lb ed="X" n="0498b12"/><lb ed="R072" n="0181b14"/><cb:div type="commentary"><p xml:id="pX45p0498b1201" rend="margin-left:1em">此釋立義分中是心生滅相也。謂心本無相。因生
+<lb ed="X" n="0498b13"/><lb ed="R072" n="0181b15"/>滅麤細無明惑染以顯其相。言相應者。乃分別執
+<lb ed="X" n="0498b14"/><lb ed="R072" n="0181b16"/>計三麤。則有外境與心相應。又王所相應。不相應
+<lb ed="X" n="0498b15"/><lb ed="R072" n="0181b17"/>者。心境未分故。無可相應。此辯麤細之相也。下約
+<lb ed="X" n="0498b16"/><lb ed="R072" n="0181b18"/>人以明。謂執計二染乃麤中之麤。是三賢所覺。分
+<lb ed="X" n="0498b17"/><lb ed="R072" n="0182a01"/>別相續乃麤中之細。及轉現二染乃細中之麤。是
+<lb ed="X" n="0498b18"/><lb ed="R072" n="0182a02"/>地上菩薩所覺。若無明業相乃細中之細。唯佛能
+<lb ed="X" n="0498b19"/><lb ed="R072" n="0182a03"/>了。此離染之大段也。言二種生滅依無明而有者。
+<lb ed="X" n="0498b20"/><lb ed="R072" n="0182a04"/>顯此染心依因緣而生。亦依因緣而滅也。初因無
+<lb ed="X" n="0498b21"/><lb ed="R072" n="0182a05"/>明不覺生三細。境界為緣長六麤。今因滅則緣亦
+<lb ed="X" n="0498b22"/><lb ed="R072" n="0182a06"/>滅矣。故因滅則三細滅。緣滅則六麤滅。此相依自
+<lb ed="X" n="0498b23"/><lb ed="R072" n="0182a07"/>然之勢也。</p></cb:div>
+<lb ed="X" n="0498b24"/><lb ed="R072" n="0182a08"/><cb:div type="orig"><p xml:id="pX45p0498b2401">問曰。若心滅者。云何相續。若相續者。云何說究竟滅。
+<pb ed="X" xml:id="X45.0766.0498c" n="0498c"/>
+<lb ed="X" n="0498c01"/><lb ed="R072" n="0182a09"/>答曰。所言滅者。唯心相滅。非心體滅。</p></cb:div>
+<lb ed="X" n="0498c02"/><lb ed="R072" n="0182a10"/><cb:div type="commentary"><p xml:id="pX45p0498c0201" rend="margin-left:1em">此問答以明妄相滅而心體不滅也。葢問者以妄
+<lb ed="X" n="0498c03"/><lb ed="R072" n="0182a11"/>心為體。故疑相滅而心亦滅耳。言若心滅者云何
+<lb ed="X" n="0498c04"/><lb ed="R072" n="0182a12"/>相續。此疑相應心若滅。則不相應染云何相續。若
+<lb ed="X" n="0498c05"/><lb ed="R072" n="0182a13"/>不相應心體不滅。則無明細染亦相續不滅。云何
+<lb ed="X" n="0498c06"/><lb ed="R072" n="0182a14"/>說究竟滅耶。意謂無明依心而有。故疑心不滅。而
+<lb ed="X" n="0498c07"/><lb ed="R072" n="0182a15"/>無明相續亦不滅也。答意<anchor xml:id="beg_1e" type="cb-app"/>但<anchor xml:id="end_1e"/>滅妄染心相。不滅心
+<lb ed="X" n="0498c08"/><lb ed="R072" n="0182a16"/>體。若心體俱滅。則墮斷滅。誰證佛果耶。</p>
+<lb ed="X" n="0498c09"/><lb ed="R072" n="0182a17"/><p xml:id="pX45p0498c0901" rend="margin-left:2em">下以喻明相滅性不滅。</p></cb:div>
+<lb ed="X" n="0498c10"/><lb ed="R072" n="0182a18"/><cb:div type="orig"><p xml:id="pX45p0498c1001">如風依水而有動相。若水滅者。則風相斷絕。無所依
+<lb ed="X" n="0498c11"/><lb ed="R072" n="0182b01"/>止。以水不滅。風相相續。唯風滅故。動相隨滅。非是水
+<lb ed="X" n="0498c12"/><lb ed="R072" n="0182b02"/>滅。無明亦爾。依心體而動。若心體滅者。則眾生斷絕。
+<lb ed="X" n="0498c13"/><lb ed="R072" n="0182b03"/>無所依止。以體不滅。心得相續。唯癡滅故。心相隨滅。
+<lb ed="X" n="0498c14"/><lb ed="R072" n="0182b04"/>非心智滅。</p></cb:div>
+<lb ed="X" n="0498c15"/><lb ed="R072" n="0182b05"/><cb:div type="commentary"><p xml:id="pX45p0498c1501" rend="margin-left:1em">此喻明妄滅而心不滅也。水喻真心。風喻無明。動
+<lb ed="X" n="0498c16"/><lb ed="R072" n="0182b06"/>相喻波浪生滅相。法喻中。水滅則風相斷絕無所
+<lb ed="X" n="0498c17"/><lb ed="R072" n="0182b07"/>依止者。顯波有麤細。因風有大小。謂大風滅則巨
+<lb ed="X" n="0498c18"/><lb ed="R072" n="0182b08"/>浪滅。不無小風微波。正喻麤染雖滅。而細染尚續。
+<lb ed="X" n="0498c19"/><lb ed="R072" n="0182b09"/>如止巨浪而微波尚存。其義自含兩重耳。法合中。
+<lb ed="X" n="0498c20"/><lb ed="R072" n="0182b10"/>若心體滅者。則眾生斷絕。無所依止。前云眾生依
+<lb ed="X" n="0498c21"/><lb ed="R072" n="0182b11"/>心意意識轉。故言心體若滅。則眾生斷絕。無所依
+<lb ed="X" n="0498c22"/><lb ed="R072" n="0182b12"/>止也。義顯二種生住滅中。相生住滅雖滅。而流注
+<lb ed="X" n="0498c23"/><lb ed="R072" n="0182b13"/>生住尚在故。十地菩薩依止異熟而入佛果故。以
+<lb ed="X" n="0498c24"/><lb ed="R072" n="0182b14"/>此流注為依止故。宗門名真常流注者此耳。</p>
+<pb ed="X" xml:id="X45.0766.0499a" n="0499a"/>
+<lb ed="X" n="0499a01"/><lb ed="R072" n="0182b15"/><p xml:id="pX45p0499a0101" rend="margin-left:2em">上生滅因緣相中有二大科。初染淨生滅。次染
+<lb ed="X" n="0499a02"/><lb ed="R072" n="0182b16"/>淨相資。前染淨生滅<anchor xml:id="beg_1f" type="cb-app"/>已<anchor xml:id="end_1f"/>竟。</p><p xml:id="pX45p0499a0211" rend="margin-left:2em;inline">下明染淨相資。</p></cb:div>
+<lb ed="X" n="0499a03"/><lb ed="R072" n="0182b17"/>
+<lb ed="X" n="0499a04"/><lb ed="R072" n="0182b18"/><cb:juan fun="close" n="1"><cb:jhead>大乘起信論直解卷上</cb:jhead></cb:juan>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp2" cb:from="#beg_1" cb:to="#end_1"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_2" cb:to="#end_2"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_3" cb:to="#end_3"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_4" cb:to="#end_4"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_5" cb:to="#end_5"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_6" cb:to="#end_6"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_7" cb:to="#end_7"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_8" cb:to="#end_8"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_9" cb:to="#end_9"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_a" cb:to="#end_a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_b" cb:to="#end_b"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_c" cb:to="#end_c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_d" cb:to="#end_d"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_e" cb:to="#end_e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_f" cb:to="#end_f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_10" cb:to="#end_10"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_11" cb:to="#end_11"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_12" cb:to="#end_12"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_13" cb:to="#end_13"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_14" cb:to="#end_14"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_15" cb:to="#end_15"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_16" cb:to="#end_16"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_17" cb:to="#end_17"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_18" cb:to="#end_18"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_19" cb:to="#end_19"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_1a" cb:to="#end_1a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_1b" cb:to="#end_1b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_1c" cb:to="#end_1c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_1d" cb:to="#end_1d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_1e" cb:to="#end_1e"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_1f" cb:to="#end_1f"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+<cb:div type="xuzang-notes">
+<head>卍續藏 校勘記</head>
+<p>
+<note n="0484002" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0484002">畫一續藏所收疏略無此序并法界緣起綱要</note>
+</p>
+</cb:div>
+</back></text></TEI>

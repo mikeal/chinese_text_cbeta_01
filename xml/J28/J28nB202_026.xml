@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="J28nB202">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Jiaxing Canon, Electronic version, No. B202 百癡禪師語錄</title>
+			<author>清 元說　超宣等編</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.15 $<date>$Date: 2012/06/27 08:14:02 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>30卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/06/27 08:14:02 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Jiaxing Canon Vol. 28, No. B202 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version), Part of text as provided by LINDEN</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二），LINDEN 大德提供之部份經文</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB01223">
+	<charName>CBETA CHARACTER CB01223</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*耶]</value>
+	</charProp>
+	<mapping type="unicode">U+35BF</mapping>
+	<mapping cb:dec="984263" type="PUA">U+F04C7</mapping>
+</char>
+<char xml:id="CB21238">
+	<charName>CBETA CHARACTER CB21238</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[雝/玉]</value>
+	</charProp>
+	<mapping type="unicode">U+24AD4</mapping>
+	<mapping cb:dec="1004278" type="PUA">U+F52F6</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2008-11-24T13:39:08">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">說</cb:mulu><cb:mulu type="其他" level="2">劍光說</cb:mulu>
+<pb ed="J" xml:id="J28.B202.0134c" n="0134c"/>
+<lb ed="J" n="0134c01"/><milestone unit="juan" n="26"/><cb:mulu type="卷" n="26"></cb:mulu><cb:juan fun="open" n="26"><cb:jhead>百癡禪師語錄卷第二十六</cb:jhead></cb:juan>
+<lb ed="J" n="0134c02"/><byline cb:type="editor">嗣法門人超宣等編</byline>
+<lb ed="J" n="0134c03"/><cb:div type="other"><cb:mulu type="其他" level="1">跋題</cb:mulu><head>跋題</head>
+<lb ed="J" n="0134c04"/><cb:div type="other"><cb:mulu type="其他" level="2">跋血書華嚴經</cb:mulu><head>跋血書華嚴經</head>
+<lb ed="J" n="0134c05"/><p xml:id="pJ28p0134c0501">楚文上人以一滴娘生血書此大部經卷酬佛深恩
+<lb ed="J" n="0134c06"/>其願力可謂勤且至矣予偶借閱過見夫紅雲絢爛
+<lb ed="J" n="0134c07"/>紫霧蒸騰恍若置身於華藏世界海與毘盧彌勒文
+<lb ed="J" n="0134c08"/>殊普賢同樹赤城旗幟又若與善財童子遊歷南方
+<lb ed="J" n="0134c09"/>參訪諸善惡知識共演唱最妙陀羅故曰一念普觀
+<lb ed="J" n="0134c10"/>無量劫無去無來亦無住如是了知三世事超諸方
+<lb ed="J" n="0134c11"/>便成十力果能大家恁麼信去箇箇成佛<anchor xml:id="beg_15d" type="cb-app"/>已<anchor xml:id="end_15d"/>畢更有
+<lb ed="J" n="0134c12"/>什麼佛恩可酬眾生可度者乎然杜順法師云懷州
+<lb ed="J" n="0134c13"/>牛喫禾益州馬腹脹天下覓醫人炙豬左膊上且道
+<lb ed="J" n="0134c14"/>這四句偈還與華嚴意旨有相應也無若道無杜順
+<lb ed="J" n="0134c15"/>法師為甚如是說若道有楚上人為何不并書在這
+<lb ed="J" n="0134c16"/>裏臨安紙貴頭陀一狀供招倘遇明眼作家也只胡
+<lb ed="J" n="0134c17"/>盧而釋。</p></cb:div>
+<lb ed="J" n="0134c18"/><cb:div type="other"><cb:mulu type="其他" level="2">跋血書法華經</cb:mulu><head>跋血書法華經</head>
+<lb ed="J" n="0134c19"/><p xml:id="pJ28p0134c1901">雅上座發大勇猛精進心於自<anchor xml:id="beg_15e" type="cb-app"/>己<anchor xml:id="end_15e"/>指端放出紅蓮華
+<lb ed="J" n="0134c20"/>色光明書此七軸法寶報答佛恩復持來示余求跋
+<lb ed="J" n="0134c21"/>數語余應之曰不能也豈不見經中道是法非思量
+<lb ed="J" n="0134c22"/>分別之所能解既非思量分別之所能解汝如何書
+<lb ed="J" n="0134c23"/>得汝既書不得余又如何跋得書不得跋不得向此
+<lb ed="J" n="0134c24"/>處挨拶將去便見盡虛空法界是一部經無邊香水
+<lb ed="J" n="0134c25"/>海是一滴血則此要書要跋底又向什麼處著乎雅
+<lb ed="J" n="0134c26"/>上座唯唯有間余曰吾跋已竟也遂呼管城子書之。</p></cb:div>
+<lb ed="J" n="0134c27"/><cb:div type="other"><cb:mulu type="其他" level="2">跋陳宗煥手書法華經</cb:mulu><head>跋陳宗煥手書法華經</head>
+<lb ed="J" n="0134c28"/><p xml:id="pJ28p0134c2801">生身母氏歸何處七軸蓮經墨正濃書罷案頭翻數
+<lb ed="J" n="0134c29"/>遍猶如古木動悲風以此報恩亦已足矣然其中有
+<lb ed="J" n="0134c30"/>一句子完完全全居士實未曾書著且道是那一句
+<pb ed="J" xml:id="J28.B202.0135a" n="0135a"/>
+<lb ed="J" n="0135a01"/>忽地筆尖倒卓硯水奔騰娘生面孔儼然獨露方信
+<lb ed="J" n="0135a02"/>祖師道本來真父母歷劫不相離豈曰報之云乎時
+<lb ed="J" n="0135a03"/>碧梧葉捲紅蓼花開某道人謹跋。</p></cb:div>
+<lb ed="J" n="0135a04"/><cb:div type="other"><cb:mulu type="其他" level="2">跋梵網經</cb:mulu><head>跋梵網經</head>
+<lb ed="J" n="0135a05"/><p xml:id="pJ28p0135a0501">盡十方世界是箇網子盡世界人物是箇坐網底人
+<lb ed="J" n="0135a06"/>此網非密非疏即不得離不得但能於節目未分時
+<lb ed="J" n="0135a07"/>把定要綱輕輕一扯百雜碎便爾透脫無依全身獨
+<lb ed="J" n="0135a08"/>露刀山劍樹任其逍遙餓鬼畜生隨類而往莫道閻
+<lb ed="J" n="0135a09"/>羅大王佛祖都來摸索不著若猶未也且認此牢固
+<lb ed="J" n="0135a10"/>腳跟謾自說大話好。</p></cb:div>
+<lb ed="J" n="0135a11"/><cb:div type="other"><cb:mulu type="其他" level="2">題金剛經</cb:mulu><head>題金剛經</head>
+<lb ed="J" n="0135a12"/><p xml:id="pJ28p0135a1201">若見諸相非相即見如來若見諸相非相不見如來
+<lb ed="J" n="0135a13"/>喚教中說底是便背卻宗喚宗中說底是又違卻教
+<lb ed="J" n="0135a14"/>明上人汝若向這裏明得三十二分不消一捏佛及
+<lb ed="J" n="0135a15"/>須菩提總是提瓶挈笠漢所謂真能受持此經者語
+<lb ed="J" n="0135a16"/>寔不虛其或取黃卷赤軸以為然未免觸途成滯驢
+<lb ed="J" n="0135a17"/>年討甚快活哉。</p></cb:div>
+<lb ed="J" n="0135a18"/><cb:div type="other"><cb:mulu type="其他" level="2">題祥禪人所藏五祖演和尚語錄</cb:mulu><head>題祥禪人所藏五祖演和尚語錄</head>
+<lb ed="J" n="0135a19"/><p xml:id="pJ28p0135a1901">擒龍捉虎攫霧拏雲手段高超不可湊泊至其念聰
+<lb ed="J" n="0135a20"/>明咒唱綿州歌則又風流迥特今古罕聞此東山一
+<lb ed="J" n="0135a21"/>宗盛行天下也祥禪人汝且道我與麼說還說得著
+<lb ed="J" n="0135a22"/>麼如弗以為然試請諸方批判。</p></cb:div>
+<lb ed="J" n="0135a23"/><cb:div type="other"><cb:mulu type="其他" level="2">題中峰和尚梅花詩</cb:mulu><head>題中峰和尚梅花詩</head>
+<lb ed="J" n="0135a24"/><p xml:id="pJ28p0135a2401">幻住老祖於度竹篦子句下洞徹源底灼然如新篁
+<lb ed="J" n="0135a25"/>參天氣概不倫凡卉若夫梅花百詠特其餘技耳比
+<lb ed="J" n="0135a26"/>見叢林學者各抄襲一冊以為腰囊至寶將謂幻住
+<lb ed="J" n="0135a27"/>老祖面目全在於是吾恐常寂光中必莞爾笑曰此
+<lb ed="J" n="0135a28"/>等瞎阿師亦太辜負予也。</p></cb:div>
+<lb ed="J" n="0135a29"/><cb:div type="other"><cb:mulu type="其他" level="2">題禪林寶訓後</cb:mulu><head>題禪林寶訓後</head>
+<lb ed="J" n="0135a30"/><p xml:id="pJ28p0135a3001">勢利人我在古昔不少此輩今之叢席上下以勢利
+<pb ed="J" xml:id="J28.B202.0135b" n="0135b"/>
+<lb ed="J" n="0135b01"/>人我互相欺凌者醜惡較來尤甚而道德仁義又何
+<lb ed="J" n="0135b02"/>必問其能與否也三復斯編應知無地縮頸。</p></cb:div>
+<lb ed="J" n="0135b03"/><cb:div type="other"><cb:mulu type="其他" level="2">題韓愈論佛骨表後</cb:mulu><head>題韓愈論佛骨表後</head>
+<lb ed="J" n="0135b04"/><p xml:id="pJ28p0135b0401">如來大頭腦昌黎何曾夢見故其所論佛骨表亦只
+<lb ed="J" n="0135b05"/>就事跡較量聳動天聽所謂夏虫不可以語冰者毋
+<lb ed="J" n="0135b06"/>怪其然。</p></cb:div>
+<lb ed="J" n="0135b07"/><cb:div type="other"><cb:mulu type="其他" level="2">題東坡所畫古梅墨刻</cb:mulu><head>題東坡所畫古梅墨刻</head>
+<lb ed="J" n="0135b08"/><p xml:id="pJ28p0135b0801">大丈夫秉貞勵操飄然獨立不受世累拘染者有如
+<lb ed="J" n="0135b09"/>此梅余觀此梅坡老一生為人彷彿之筆尖上百載
+<lb ed="J" n="0135b10"/>後聞風者能無興起乎。</p></cb:div>
+<lb ed="J" n="0135b11"/><cb:div type="other"><cb:mulu type="其他" level="2">題葉泰交所書地藏院答問錄</cb:mulu><head>題葉泰交所書地藏院答問錄</head>
+<lb ed="J" n="0135b12"/><p xml:id="pJ28p0135b1201">泰交葉居士不循本分以種種言句呈解於我老人
+<lb ed="J" n="0135b13"/>好與三十棒我老人閱之不依本分鉗鎚復以種種
+<lb ed="J" n="0135b14"/>言句增其繩索亦好與三十棒今居士又欲求數語
+<lb ed="J" n="0135b15"/>於蓮峰冠諸編首蓮峰更為種種分剖亦未免好與
+<lb ed="J" n="0135b16"/>三十棒雖然如是此九十棒中也有權也有實也有
+<lb ed="J" n="0135b17"/>照也有用簡點得出者秪這一錄皆為剩語將來把
+<lb ed="J" n="0135b18"/>火燒卻不為分外假如依稀恍惚半信半疑鼻孔總
+<lb ed="J" n="0135b19"/>在我老人掌輪裏且不得學蓮峰恁麼說話三十棒
+<lb ed="J" n="0135b20"/>自領去莫帶累葉居士好。</p></cb:div>
+<lb ed="J" n="0135b21"/><cb:div type="other"><cb:mulu type="其他" level="2">題王右軍墨刻筆陣圖</cb:mulu><head>題王右軍墨刻筆陣圖</head>
+<lb ed="J" n="0135b22"/><p xml:id="pJ28p0135b2201">於一毫頭上布出龍蛇陣略屈折縱橫莫不指揮如
+<lb ed="J" n="0135b23"/>意蓋有神乎筆墨中妙於筆墨外者使若君而禦侮
+<lb ed="J" n="0135b24"/>城壘可無虞矣竹窗神倦令人目擊奮然。</p></cb:div>
+<lb ed="J" n="0135b25"/><cb:div type="other"><cb:mulu type="其他" level="2">題伏龍和尚與無用貴長老書後</cb:mulu><head>題伏龍和尚與無用貴長老書後</head>
+<lb ed="J" n="0135b26"/><p xml:id="pJ28p0135b2601">意得恁麼正詞得恁麼厲無明和尚雖則徹底憐兒
+<lb ed="J" n="0135b27"/>抑亦有為而發獨惜是刻已久今人猶未之知不然
+<lb ed="J" n="0135b28"/>何紛紛覆轍至此。</p></cb:div>
+<lb ed="J" n="0135b29"/><cb:div type="other"><cb:mulu type="其他" level="2">題十牛圖</cb:mulu><head>題十牛圖</head>
+<lb ed="J" n="0135b30"/><p xml:id="pJ28p0135b3001">梁山老漢做箇十牛頌子可謂慈悲之故落草之談
+<pb ed="J" xml:id="J28.B202.0135c" n="0135c"/>
+<lb ed="J" n="0135c01"/>後來人錯下手腳更畫此十牛樣子致使吠影承虛
+<lb ed="J" n="0135c02"/>者將謂有恁麼事異端並起邪法難扶苦哉急宜畀
+<lb ed="J" n="0135c03"/>之丙丁免梁山在鼻孔裏冷地發笑。</p></cb:div>
+<lb ed="J" n="0135c04"/><cb:div type="other"><cb:mulu type="其他" level="2">題文上人所藏密老和尚語錄</cb:mulu><head>題文上人所藏密老和尚語錄</head>
+<lb ed="J" n="0135c05"/><p xml:id="pJ28p0135c0501">臨濟云山僧無一法與人秪是治病解縛汝取山僧
+<lb ed="J" n="0135c06"/>口裏語不如休歇無事去看他極力舉揚如吹毛寶
+<lb ed="J" n="0135c07"/>劍直截單提不容擬議大非鉤章棘句爭求實法者
+<lb ed="J" n="0135c08"/>所能彷彿二十九傳至我密雲師翁於祖道將墜之
+<lb ed="J" n="0135c09"/>秋用一條白棒生擒活捉鏟削枝蔓是又儼然臨濟
+<lb ed="J" n="0135c10"/>再出也數年間法化大行兒孫遍地其所鏤行語錄
+<lb ed="J" n="0135c11"/>雖遐陬僻壤莫不家有而珍崇之文禪人汝亦曾向
+<lb ed="J" n="0135c12"/>此錄中別具隻眼麼若徒數墨循行驢年未夢見在。</p></cb:div>
+<lb ed="J" n="0135c13"/><cb:div type="other"><cb:mulu type="其他" level="2">題蔡翁臣農即事後</cb:mulu><head>題蔡翁臣農即事後</head>
+<lb ed="J" n="0135c14"/><p xml:id="pJ28p0135c1401">這老措大二十年來不避艱險為法場旗幟海內聞
+<lb ed="J" n="0135c15"/>風久矣茲欲寓跡於農與諸耕夫牧豎钁頭邊大作
+<lb ed="J" n="0135c16"/>佛事其意抑何如也余觀臣農即事詩譬猶夜泉飛
+<lb ed="J" n="0135c17"/>壑清韻泠然直令人一唱三歎古云綠樹重陰蓋四
+<lb ed="J" n="0135c18"/>鄰青苔日厚自無塵科頭箕踞長松下白眼看他世
+<lb ed="J" n="0135c19"/>上人噫嘻是豈足以見蔡翁哉。</p></cb:div>
+<lb ed="J" n="0135c20"/><cb:div type="other"><cb:mulu type="其他" level="2">題祈遠唐孝廉所惠東坡屏刻</cb:mulu><head>題祈遠唐孝廉所惠東坡屏刻</head>
+<lb ed="J" n="0135c21"/><p xml:id="pJ28p0135c2101">歐陽公作醉翁亭記筆力瀟灑景趣逼真足稱文中
+<lb ed="J" n="0135c22"/>佳畫元祐間東坡為擘窠大書重以勒石是記與書
+<lb ed="J" n="0135c23"/>兩美並垂千古又豈菜肚阿師所容易識哉憶予騎
+<lb ed="J" n="0135c24"/>竹馬時曾閱此刻津津弗置今偶拾之維摩手裏得
+<lb ed="J" n="0135c25"/>非有感而然耶花懸靜几日映疏櫺命侍僧展開一
+<lb ed="J" n="0135c26"/>覽悠然想見二老之面目猶在。</p></cb:div>
+<lb ed="J" n="0135c27"/><cb:div type="other"><cb:mulu type="其他" level="2">題唐孝廉所惠曹羅浮畫冊</cb:mulu><head>題唐孝廉所惠曹羅浮畫冊</head>
+<lb ed="J" n="0135c28"/><p xml:id="pJ28p0135c2801">世界畫景也世界人畫中人也夫孰為假孰為真乎
+<lb ed="J" n="0135c29"/>矧翠竹蒼松原非外境白雲流水總是天機等閒描
+<lb ed="J" n="0135c30"/>畫將來亦有無限神通妙用吾知居士必不以案頭
+<pb ed="J" xml:id="J28.B202.0136a" n="0136a"/>
+<lb ed="J" n="0136a01"/>玩物擲予也雖然秪如描不成畫不就底一著且道
+<lb ed="J" n="0136a02"/>落在何處具眼高流試指出看。</p></cb:div>
+<lb ed="J" n="0136a03"/><cb:div type="other"><cb:mulu type="其他" level="2">題徵禪人所書濟宗尊宿語</cb:mulu><head>題徵禪人所書濟宗尊宿語</head>
+<lb ed="J" n="0136a04"/><p xml:id="pJ28p0136a0401">這一隊老古錐尋常瞞神嚇鬼說出許多絡索余當
+<lb ed="J" n="0136a05"/>年不識好惡以至手錄再三今盡擲之無有矣徵禪
+<lb ed="J" n="0136a06"/>人汝又不識好惡從新錄過并將予所說底絡索參
+<lb ed="J" n="0136a07"/>雜其間得無證父攘羊令明眼者揶揄我耶然雖如
+<lb ed="J" n="0136a08"/>是且喜余有箇推托處如何是推托處待長慶山點
+<lb ed="J" n="0136a09"/>頭時卻向汝道。</p></cb:div>
+<lb ed="J" n="0136a10"/><cb:div type="other"><cb:mulu type="其他" level="2">題自書儒宗要覽</cb:mulu><head>題自書儒宗要覽</head>
+<lb ed="J" n="0136a11"/><p xml:id="pJ28p0136a1101">山居清暇偶閱古人書錄成此帙蓋亦熟處難忘匪
+<lb ed="J" n="0136a12"/>故喜綺艷語也圓通秀謂黃庭堅曰汝以艷語動天
+<lb ed="J" n="0136a13"/>下人淫心不止馬腹中正恐生泥犁耳矧我輩尚欲
+<lb ed="J" n="0136a14"/>從事斯乎讀者宜知之。</p></cb:div>
+<lb ed="J" n="0136a15"/><cb:div type="other"><cb:mulu type="其他" level="2">題畫牡丹</cb:mulu><head>題畫牡丹</head>
+<lb ed="J" n="0136a16"/><p xml:id="pJ28p0136a1601">牡丹稱花中富貴世酷愛之愛而畫畫而蓄蓄而不
+<lb ed="J" n="0136a17"/>忍置固其宜也若夫芳蘭噴幽谷勁竹挺寒巖富貴
+<lb ed="J" n="0136a18"/>雖弗及牡丹品韻則有獨勝者不識墨士遊人曾留
+<lb ed="J" n="0136a19"/>意否吾謂世情亦然。</p></cb:div>
+<lb ed="J" n="0136a20"/><cb:div type="other"><cb:mulu type="其他" level="2">題張玉可手卷後</cb:mulu><head>題張玉可手卷後</head>
+<lb ed="J" n="0136a21"/><p xml:id="pJ28p0136a2101">顧虎頭寫金粟如來影光明照寺張僧繇畫龍於安
+<lb ed="J" n="0136a22"/>樂壁上破屋昇天佳手通神千古莫比玉可翁其得
+<lb ed="J" n="0136a23"/>虎頭衣缽為僧繇苗裔耶不然何筆墨靈妙之若斯
+<lb ed="J" n="0136a24"/>也獨惜予質醜陋面目可憎今日不著便卻被伊塗
+<lb ed="J" n="0136a25"/>抹一上簡點將來三十棒應先自喫還有三十棒畢
+<lb ed="J" n="0136a26"/>竟放伊弗過為甚如此有功者賞。</p></cb:div>
+<lb ed="J" n="0136a27"/><cb:div type="other"><cb:mulu type="其他" level="2">題盧生黃粱夢記</cb:mulu><head>題盧生黃粱夢記</head>
+<lb ed="J" n="0136a28"/><p xml:id="pJ28p0136a2801">邯鄲一枕歷盡榮華五十載覺來黃粱炊尚未熟呂
+<lb ed="J" n="0136a29"/>翁豈徒以此窒盧生大欲耶蓋為愚如盧生者甚多
+<lb ed="J" n="0136a30"/>特借盧生喚醒之耳奈何人不自知反笑盧生是使
+<pb ed="J" xml:id="J28.B202.0136b" n="0136b"/>
+<lb ed="J" n="0136b01"/>乾坤成長夜而開睛作夢竟茫茫無了期也吾因取
+<lb ed="J" n="0136b02"/>是記表而出之。</p></cb:div>
+<lb ed="J" n="0136b03"/><cb:div type="other"><cb:mulu type="其他" level="2">跋諸子和戴觀中詩卷後</cb:mulu><head>跋諸子和戴觀中詩卷後</head>
+<lb ed="J" n="0136b04"/><p xml:id="pJ28p0136b0401">我此一隊牛兒馬子常在月下風前潑狼潑賴盡大
+<lb ed="J" n="0136b05"/>地人無收拾得不意被箇沒面目書翁用些須草料
+<lb ed="J" n="0136b06"/>誘出鞭逼直得各各倒身撒尿臭氣薰天山僧聞之
+<lb ed="J" n="0136b07"/>忍耐不禁連聲高叫云快活快活何故金鏃慣調思
+<lb ed="J" n="0136b08"/>百戰冤家偏撞對頭人然雖如是也須護惜蹄角好。</p></cb:div>
+<lb ed="J" n="0136b09"/><cb:div type="other"><cb:mulu type="其他" level="2">題雪僊梅軸</cb:mulu><head>題雪僊梅軸</head>
+<lb ed="J" n="0136b10"/><p xml:id="pJ28p0136b1001">梅至老而榦愈古骨愈堅香愈遠亦花卉中一大丈
+<lb ed="J" n="0136b11"/>夫也是故予非好畫也乃愛梅也愛梅不妨與此畫
+<lb ed="J" n="0136b12"/>並好也懸諸座右以自警并愧今之老不丈夫者。</p></cb:div>
+<lb ed="J" n="0136b13"/><cb:div type="other"><cb:mulu type="其他" level="2">題扇中蘆鴈</cb:mulu><head>題扇中蘆鴈</head>
+<lb ed="J" n="0136b14"/><p xml:id="pJ28p0136b1401">覺範洪題宋迪平沙落鴈圖云湖容秋色磨青銅夕
+<lb ed="J" n="0136b15"/>陽沙白光濛濛翩翻欲下更嘔軋一十五五依蘆叢
+<lb ed="J" n="0136b16"/>西興未歸愁欲老日暮無雲天似掃一聲風笛忽驚
+<lb ed="J" n="0136b17"/>飛羲之書空作行草誠所謂有聲畫可與宋迪無聲
+<lb ed="J" n="0136b18"/>句比隆者也今觀此扇中畫鴈或飛或宿出沒於長
+<lb ed="J" n="0136b19"/>蘆淺渚間生意真機勃勃欲動畫乎詩乎有聲無聲
+<lb ed="J" n="0136b20"/>吾不得而名之矣商飆披拂正當斯時汝宜默誦大
+<lb ed="J" n="0136b21"/>悲神咒以呵護之不然恐逐隊成群潑天飛過去也。</p></cb:div>
+<lb ed="J" n="0136b22"/><cb:div type="other"><cb:mulu type="其他" level="2">題月侍者畫扇</cb:mulu><head>題月侍者畫扇</head>
+<lb ed="J" n="0136b23"/><p xml:id="pJ28p0136b2301">玉斧修成搖動浮光侵几席生綃巧製揭開飛翠冷
+<lb ed="J" n="0136b24"/>簾幃何況孤峰幻出怪樹增奇遠淡近濃難可指目
+<lb ed="J" n="0136b25"/>此二語作畫扇會也得不作畫扇會也得所以道白
+<lb ed="J" n="0136b26"/>雲影裏神仙現手把紅羅扇遮面急須著眼看仙人
+<lb ed="J" n="0136b27"/>莫看仙人手中扇。</p></cb:div>
+<lb ed="J" n="0136b28"/><cb:div type="other"><cb:mulu type="其他" level="2">題郁上人所藏神宗皇帝御劄墨刻後</cb:mulu><head>題郁上人所藏神宗皇帝御劄墨刻後</head>
+<lb ed="J" n="0136b29"/><p xml:id="pJ28p0136b2901">王錫爵掌內閣事神宗有手詔數十幅問安慰諭以
+<lb ed="J" n="0136b30"/>至立儲釋謗言言委婉字字典型蓋一時君聖臣良
+<pb ed="J" xml:id="J28.B202.0136c" n="0136c"/>
+<lb ed="J" n="0136c01"/>心同道合雖上古都俞之風不是過矣此劄勒石藏
+<lb ed="J" n="0136c02"/>之御書樓已久王氏子孫襲為世寶今宗廟禾黍陵
+<lb ed="J" n="0136c03"/>寢荒榛恐欲求之非易易汝宜謹守毋使仙官六丁
+<lb ed="J" n="0136c04"/>負之而趨太平景象末季無由想見也。</p></cb:div>
+<lb ed="J" n="0136c05"/><cb:div type="other"><cb:mulu type="其他" level="2">題德孚手卷後</cb:mulu><head>題德孚手卷後</head>
+<lb ed="J" n="0136c06"/><p xml:id="pJ28p0136c0601">鍾繇書如群鵝戲海羲之書如龍跳天門張芝書如
+<lb ed="J" n="0136c07"/>漢武欲仙自古至今傳者數數矣新安德孚翁以善
+<lb ed="J" n="0136c08"/>書著諸名公鉅紳皆有題記予不諳字訣其敢作閒
+<lb ed="J" n="0136c09"/>言語塗糊耶八法森嚴涵霧雨六書磊落燦珠璣敬
+<lb ed="J" n="0136c10"/>拈套句為翁贈。</p></cb:div>
+<lb ed="J" n="0136c11"/><cb:div type="other"><cb:mulu type="其他" level="2">題沈其璋牡丹畫軸</cb:mulu><head>題沈其璋牡丹畫軸</head>
+<lb ed="J" n="0136c12"/><p xml:id="pJ28p0136c1201">國色千般媚天香一種奇花如牡丹富貴極矣然而
+<lb ed="J" n="0136c13"/>春開夏茂秋脫冬枯不免隨時變換何似此幅之妖
+<lb ed="J" n="0136c14"/>冶長存日與閒華翠羽相為上下而無有輕折態耶
+<lb ed="J" n="0136c15"/>試懸諸堂前令彼識者共鑒。</p></cb:div>
+<lb ed="J" n="0136c16"/><cb:div type="other"><cb:mulu type="其他" level="2">題澹禪人柳軸</cb:mulu><head>題澹禪人柳軸</head>
+<lb ed="J" n="0136c17"/><p xml:id="pJ28p0136c1701">眉葉翻風舞絲條映日青行人休盡折留取蔭長亭
+<lb ed="J" n="0136c18"/>古德與麼道予卻不與麼道何故未有伊下手處在
+<lb ed="J" n="0136c19"/>而今若要下手且向此無聲黃鸝著眼聽始得。</p></cb:div>
+<lb ed="J" n="0136c20"/><cb:div type="other"><cb:mulu type="其他" level="2">題淵禪人所藏曹太史栴檀林墨蹟</cb:mulu><head>題淵禪人所藏曹太史栴檀林墨蹟</head>
+<lb ed="J" n="0136c21"/><p xml:id="pJ28p0136c2101">獅子窟中必無異獸栴檀林內必無雜木然在今法
+<lb ed="J" n="0136c22"/>運澆漓異獸之廁於獅窟雜木之混於栴林者不可
+<lb ed="J" n="0136c23"/>勝數峨雪太史特為鐵老書此三字意固有在非徒
+<lb ed="J" n="0136c24"/>誇譽<anchor xml:id="beg_15f" type="cb-app"/>己<anchor xml:id="end_15f"/>也淵禪人汝既得是藏而寶之且畢竟以何
+<lb ed="J" n="0136c25"/>者為栴檀何者為林乎設或荊棘橫生切忌切忌。</p></cb:div>
+<lb ed="J" n="0136c26"/><cb:div type="other"><cb:mulu type="其他" level="2">題朱秀峰白雲仙徑畫扇</cb:mulu><head>題朱秀峰白雲仙徑畫扇</head>
+<lb ed="J" n="0136c27"/><p xml:id="pJ28p0136c2701">其徑幽而深其樹高而古白雲冉冉迥絕去來之蹤
+<lb ed="J" n="0136c28"/>綠水潺潺了無動靜之相二仙人於此逍遙快樂或
+<lb ed="J" n="0136c29"/>欲叱石成羊耶抑欲畫江為路耶秀峰居士日與伊
+<lb ed="J" n="0136c30"/>晤對何不問取一轉語好伊若云曾經丹化後隨分
+<pb ed="J" xml:id="J28.B202.0137a" n="0137a"/>
+<lb ed="J" n="0137a01"/>樂閒身咄咄此是現成句子三十烏藤教伊自領去。</p></cb:div>
+<lb ed="J" n="0137a02"/><cb:div type="other"><cb:mulu type="其他" level="2">題祖庚上人畫扇</cb:mulu><head>題祖庚上人畫扇</head>
+<lb ed="J" n="0137a03"/><p xml:id="pJ28p0137a0301">儼和尚偶於夜間山頂坐次忽雲開見月大嘯一聲
+<lb ed="J" n="0137a04"/>灃陽東居民明晨迭相推問直至藥山其徒云昨夜
+<lb ed="J" n="0137a05"/>和尚山頂大嘯李翱贈詩有選得幽居愜野情之句
+<lb ed="J" n="0137a06"/>可謂詩中畫矣茲仲和張翁依襲數語為祖禪點出
+<lb ed="J" n="0137a07"/>奇巒偉木筆筆通神得非畫中詩乎予不善畫亦不
+<lb ed="J" n="0137a08"/>善詩然見人之善畫善詩者必加獎譽蓋以其得裁
+<lb ed="J" n="0137a09"/>成造化手也炎威劫汗想對此而毛骨冷然。</p></cb:div>
+<lb ed="J" n="0137a10"/><cb:div type="other"><cb:mulu type="其他" level="2">題郭嗣夫所藏金書金剛經塔軸</cb:mulu><head>題郭嗣夫所藏金書金剛經塔軸</head>
+<lb ed="J" n="0137a11"/><p xml:id="pJ28p0137a1101">瞿曇老扯出如許葛藤不過蕩相破執使其了解究
+<lb ed="J" n="0137a12"/>竟別無他說後來人不善勦除更於葛藤上牽枝引
+<lb ed="J" n="0137a13"/>蔓疊成此箇塔樣用泥金為書層層欄楯湊合佛字
+<lb ed="J" n="0137a14"/>雖曰住相未忘然而精巧異常誠非算數譬喻所能
+<lb ed="J" n="0137a15"/>及也正當與麼時喚作經又是塔喚作塔又是經喚
+<lb ed="J" n="0137a16"/>作非經非塔似屬瞞頇喚作即塔即經大煞儱侗英
+<lb ed="J" n="0137a17"/>俊上流向聲求色見之外驀地覷透舍衛風光儼然
+<lb ed="J" n="0137a18"/>在目若猶未也黃金自有黃金價終不和沙賣與人。</p></cb:div>
+<lb ed="J" n="0137a19"/><cb:div type="other"><cb:mulu type="其他" level="2">題海翁狎鷗圖</cb:mulu><head>題海翁狎鷗圖</head>
+<lb ed="J" n="0137a20"/><p xml:id="pJ28p0137a2001">海翁好鷗日之海上與鷗遊鷗來從者百數其父欲
+<lb ed="J" n="0137a21"/>取玩明晨鷗飛舞不下矣所謂機心起則萬境交紛
+<lb ed="J" n="0137a22"/>機心忘則萬境俱寂大小海翁被這群鷗看破千古
+<lb ed="J" n="0137a23"/>翻成笑話此圖如舊且道伊機心起耶機心忘耶呵
+<lb ed="J" n="0137a24"/>呵海翁又添一箇也。</p></cb:div>
+<lb ed="J" n="0137a25"/><cb:div type="other"><cb:mulu type="其他" level="2">跋路養田所乞諸方齋僧偈及署眾名號卷後</cb:mulu><head>跋路養田所乞諸方齋僧偈及署眾名號卷後</head>
+<lb ed="J" n="0137a26"/><p xml:id="pJ28p0137a2601">以六十九歲老翁運些須草料到處餵驢餵馬心其
+<lb ed="J" n="0137a27"/>堅乎願亦切矣竊怪夫受餵者各各打濕嘴唇未免
+<lb ed="J" n="0137a28"/>鼓粥飯氣帶累許多茄子瓠子無地竄身不知是誰
+<lb ed="J" n="0137a29"/>之過明發頭陀隨例也得一分且如何為伊折合去
+<lb ed="J" n="0137a30"/>阿<g ref="#CB01223">㖿</g>阿<g ref="#CB01223">㖿</g>啞子喫苦瓜看來覺有滋味。</p></cb:div>
+<pb ed="J" xml:id="J28.B202.0137b" n="0137b"/>
+<lb ed="J" n="0137b01"/><cb:div type="other"><cb:mulu type="其他" level="2">題山君獻鹿圖</cb:mulu><head>題山君獻鹿圖</head>
+<lb ed="J" n="0137b02"/><p xml:id="pJ28p0137b0201">晉郭文山遊忽有虎張口向前如求救狀文視口內
+<lb ed="J" n="0137b03"/>橫骨以手探去之虎至明日銜一鹿于庭報謝嗚呼
+<lb ed="J" n="0137b04"/>獸類之猛厲者莫如虎尚且知恩報恩今之人面虎
+<lb ed="J" n="0137b05"/>彎殺羿弓者視此寧不少愧乎洪生筆畫劉子笥藏
+<lb ed="J" n="0137b06"/>謂無所感激而然吾弗信也。</p></cb:div>
+<lb ed="J" n="0137b07"/><cb:div type="other"><cb:mulu type="其他" level="2">題涌卍果禪師畫竹</cb:mulu><head>題涌卍果禪師畫竹</head>
+<lb ed="J" n="0137b08"/><p xml:id="pJ28p0137b0801">涌卍性喜竹亦喜畫竹予諗其故答云此君能耐歲
+<lb ed="J" n="0137b09"/>寒耳客冬寄予一幅并書絕句云贈君把作任公釣
+<lb ed="J" n="0137b10"/>釣盡魚龍東海湄涌卍秉心固別有在也未幾訃音
+<lb ed="J" n="0137b11"/>已至顧竹追思不覺墮淚後之得者謂涌卍所長僅
+<lb ed="J" n="0137b12"/>爾爾則誤賺一船人。</p></cb:div>
+<lb ed="J" n="0137b13"/><cb:div type="other"><cb:mulu type="其他" level="2">題項王小紀</cb:mulu><head>題項王小紀</head>
+<lb ed="J" n="0137b14"/><p xml:id="pJ28p0137b1401">蓋世拔山威風凜凜至垓下之會乃作兒女泣態何
+<lb ed="J" n="0137b15"/>其不丈夫也大都人至痛切處必有難為情者古德
+<lb ed="J" n="0137b16"/>云將軍莫老江山恨近日江山不姓劉觀此亦可以
+<lb ed="J" n="0137b17"/>釋然矣。</p></cb:div>
+<lb ed="J" n="0137b18"/><cb:div type="other"><cb:mulu type="其他" level="2">題萬上人所畫墨蘭</cb:mulu><head>題萬上人所畫墨蘭</head>
+<lb ed="J" n="0137b19"/><p xml:id="pJ28p0137b1901">宋社既墟有太學生鄭思肖者精墨蘭不畫土根無
+<lb ed="J" n="0137b20"/>所憑藉或問之則曰地為元人奪去汝不知耶忠義
+<lb ed="J" n="0137b21"/>滑稽無出此老然而素縑半幅即其所憑藉處又何
+<lb ed="J" n="0137b22"/>須畫土方稱全蘭乎予乃笑問者之多事而知萬公
+<lb ed="J" n="0137b23"/>之意與他迥別也。</p></cb:div>
+<lb ed="J" n="0137b24"/><cb:div type="other"><cb:mulu type="其他" level="2">題墨刻金剛經卷後</cb:mulu><head>題墨刻金剛經卷後</head>
+<lb ed="J" n="0137b25"/><p xml:id="pJ28p0137b2501">般若體性人人具足住相受持便墮虛妄迦文舌頭
+<lb ed="J" n="0137b26"/>太煞入泥入水引得須菩提望空啟告至今未解鏟
+<lb ed="J" n="0137b27"/>絕乾初居士又將此印板上款詞各處首呈轉見外
+<lb ed="J" n="0137b28"/>揚家醜住相受持耶人人具足耶明發筆禿無能且
+<lb ed="J" n="0137b29"/>待諸方霹靂手判斷。</p></cb:div>
+<lb ed="J" n="0137b30"/><cb:div type="other"><cb:mulu type="其他" level="2">題中峰和尚與大覺長老書後</cb:mulu><head>題中峰和尚與大覺長老書後</head>
+<pb ed="J" xml:id="J28.B202.0137c" n="0137c"/>
+<lb ed="J" n="0137c01"/><p xml:id="pJ28p0137c0101">泰定叟以中峰之命迭尸大覺而不欲師一山亦可
+<lb ed="J" n="0137c02"/>謂苟徇世諦昧其所繇來矣若非中峰至公至正至
+<lb ed="J" n="0137c03"/>嚴至明力卻之善諭之其不為顛倒而濫受者幾希
+<lb ed="J" n="0137c04"/>而今世漓俗薄何止奉金請拂以院易嗣究竟源混
+<lb ed="J" n="0137c05"/>脈衰終身無受用處徒然貽笑千古也此書關係法
+<lb ed="J" n="0137c06"/>門甚鉅凡我匡徒領眾者各宜鏤心勿令輕淺禪流
+<lb ed="J" n="0137c07"/>謬蹈覆轍。</p></cb:div>
+<lb ed="J" n="0137c08"/><cb:div type="other"><cb:mulu type="其他" level="2">題仲玉畫扇</cb:mulu><head>題仲玉畫扇</head>
+<lb ed="J" n="0137c09"/><p xml:id="pJ28p0137c0901">突入雲山幾萬重茅簷斜倚綠陰濃我來借問無言
+<lb ed="J" n="0137c10"/>說想契維摩不二宗似耶真耶請明辨之。</p></cb:div>
+<lb ed="J" n="0137c11"/><cb:div type="other"><cb:mulu type="其他" level="2">題湧卍畫竹并楓山小帖後</cb:mulu><head>題湧卍畫竹并楓山小帖後</head>
+<lb ed="J" n="0137c12"/><p xml:id="pJ28p0137c1201">斷翁老有餘興興之所到長竿短幅任意發揮蓋得
+<lb ed="J" n="0137c13"/>其瀟灑疏逸之性而以筆端遊戲三昧者也楓山此
+<lb ed="J" n="0137c14"/>帖雖云見獵猶喜亦是因時救獘後之觀者當體取
+<lb ed="J" n="0137c15"/>前人言行落處則幾矣。</p></cb:div>
+<lb ed="J" n="0137c16"/><cb:div type="other"><cb:mulu type="其他" level="2">題五十三參繡軸</cb:mulu><head>題五十三參繡軸</head>
+<lb ed="J" n="0137c17"/><p xml:id="pJ28p0137c1701">昔文殊謂善財童子云汝今見我得根本智未得差
+<lb ed="J" n="0137c18"/>別智可以南遊於是歷一百一十城參五十三善知
+<lb ed="J" n="0137c19"/>識差別門庭一一透過解行俱圓成正等覺雖然真
+<lb ed="J" n="0137c20"/>善知識不離自家道在<anchor xml:id="beg_160" type="cb-app"/>己<anchor xml:id="end_160"/>求豈從外覓若見得這箇
+<lb ed="J" n="0137c21"/>善知識五十三員總是路傍閒漢其或未能恁麼承
+<lb ed="J" n="0137c22"/>當五十三員有前有後芒鞋緊峭何妨逐位參來故
+<lb ed="J" n="0137c23"/>經云善知識者長諸善根譬如雪山長諸藥草善知
+<lb ed="J" n="0137c24"/>識者是功德處譬如大海出生眾寶由親近善知識
+<lb ed="J" n="0137c25"/>能勇猛勤修一切智道由親近善知識能於一微塵
+<lb ed="J" n="0137c26"/>中說法聲遍法界甚矣善知識之利益人深也彥先
+<lb ed="J" n="0137c27"/>印居士有親近善知識大心乃以白絹數幅繡五十
+<lb ed="J" n="0137c28"/>三參聖像展卷披閱但覺煙雲燦爛五彩成章文殊
+<lb ed="J" n="0137c29"/>善財普賢彌勒與諸童男童女仙人國王勝熱婆羅
+<lb ed="J" n="0137c30"/>山樹等神盡在一針鋒上明明示現只如針鋒未舉
+<pb ed="J" xml:id="J28.B202.0138a" n="0138a"/>
+<lb ed="J" n="0138a01"/>以前五彩未彰之際這一隊老古錐又向何處相見
+<lb ed="J" n="0138a02"/>彥翁彥翁也須自家證悟始得。</p></cb:div>
+<lb ed="J" n="0138a03"/><cb:div type="other"><cb:mulu type="其他" level="2">題東山穎正禪師遺稿</cb:mulu><head>題東山穎正禪師遺稿</head>
+<lb ed="J" n="0138a04"/><p xml:id="pJ28p0138a0401">東山一生為人謹厚寬恤有古尊宿之風惜發用未
+<lb ed="J" n="0138a05"/>徵遽爾坐化是豈功名美器造物固吝不與人全哉
+<lb ed="J" n="0138a06"/>今所錄拈頌遺稿尚在吾篋笥中彼鹵莽輕狂麟楦
+<lb ed="J" n="0138a07"/>自冒者狼狼藉藉視此又何如耶。</p></cb:div>
+<lb ed="J" n="0138a08"/><cb:div type="other"><cb:mulu type="其他" level="2">題永禪人所書文文山正氣歌後</cb:mulu><head>題永禪人所書文文山正氣歌後</head>
+<lb ed="J" n="0138a09"/><p xml:id="pJ28p0138a0901">宋鼎已遷文山被執雖人力不可以奪天工而正氣
+<lb ed="J" n="0138a10"/>一歌當與天地相終始永禪人特書此為學徒法帖
+<lb ed="J" n="0138a11"/>想亦感之深慕之切歟不然藻繪其辭鏗鏘其韻目
+<lb ed="J" n="0138a12"/>前案上豈少也哉。</p></cb:div>
+<lb ed="J" n="0138a13"/><cb:div type="other"><cb:mulu type="其他" level="2">題諸葛武侯出師表後</cb:mulu><head>題諸葛武侯出師表後</head>
+<lb ed="J" n="0138a14"/><p xml:id="pJ28p0138a1401">鞠躬盡瘁死而後已義膽忠肝千古人臣榜樣昔湛
+<lb ed="J" n="0138a15"/>堂準老聞衲子讀此表豁然開悟具足無礙辯才汝
+<lb ed="J" n="0138a16"/>且道在那一句嗚呼不究其本而摭其末雖日聞日
+<lb ed="J" n="0138a17"/>誦亦奚以為也。</p></cb:div>
+<lb ed="J" n="0138a18"/><cb:div type="other"><cb:mulu type="其他" level="2">題畫黃雀</cb:mulu><head>題畫黃雀</head>
+<lb ed="J" n="0138a19"/><p xml:id="pJ28p0138a1901">么麼成群花枝拂拂欲動不知從何處飛來吾家有
+<lb ed="J" n="0138a20"/>活貍奴切莫令伊覷見記取記取。</p></cb:div>
+<lb ed="J" n="0138a21"/><cb:div type="other"><cb:mulu type="其他" level="2">題費和尚所授十八尊者揭厲圖</cb:mulu><head>題費和尚所授十八尊者揭厲圖</head>
+<lb ed="J" n="0138a22"/><p xml:id="pJ28p0138a2201">這一隊漢竭盡生平伎倆出沒於鯨波浩渺之中驅
+<lb ed="J" n="0138a23"/>神役怪與諸蝦鱉魚龍同為伴侶雖小乘根器不無
+<lb ed="J" n="0138a24"/>黃檗研脛之虞而在末法觀之誘掖正教之功灼然
+<lb ed="J" n="0138a25"/>少他弗得此軸從何人畫來福嚴先師竟以畀我焚
+<lb ed="J" n="0138a26"/>香三閱心意豁如回視今之沉迷苦海未能自由者
+<lb ed="J" n="0138a27"/>奚翅天淵而已耶。</p></cb:div>
+<lb ed="J" n="0138a28"/><cb:div type="other"><cb:mulu type="其他" level="2">題無依法姪所藏迂叟林君手畫紫山壽軸</cb:mulu><head>題無依法姪所藏迂叟林君手畫紫山壽軸</head>
+<lb ed="J" n="0138a29"/><p xml:id="pJ28p0138a2901">紫霄多奇巖怪石莆士紳皆知重之余謂重不在山
+<lb ed="J" n="0138a30"/>在乎山中人耳法姪<g ref="#CB21238">𤫔</g>公受囑歸來日與二三子踞
+<pb ed="J" xml:id="J28.B202.0138b" n="0138b"/>
+<lb ed="J" n="0138b01"/>虯松遊碧洞掬水烹茶談無義話何嘗認此為重即
+<lb ed="J" n="0138b02"/>其壽量亦合真性本源上越虛空遠超曠劫夫豈尋
+<lb ed="J" n="0138b03"/>常筆墨所能形容增飾哉然則林君之意聊寄泰岱
+<lb ed="J" n="0138b04"/>於毫芒使八極頂目者按圖索居究明大事若謂只
+<lb ed="J" n="0138b05"/>此足以重公非惟貽笑山靈而公且啞然自笑矣。</p></cb:div>
+<lb ed="J" n="0138b06"/><cb:div type="other"><cb:mulu type="其他" level="2">題十華黃先生所畫壽松軸</cb:mulu><head>題十華黃先生所畫壽松軸</head>
+<lb ed="J" n="0138b07"/><p xml:id="pJ28p0138b0701">此軸自莆陽蓮公帶來懸之虛堂見其怪節古枝凜
+<lb ed="J" n="0138b08"/>凜昂昂有歲寒不凋之象真近代名筆也辛丑秋入
+<lb ed="J" n="0138b09"/>閩應國懽請而獲聆謦咳方知迺翁自為傳神一幅
+<lb ed="J" n="0138b10"/>雲箋成一部實錄矣予壽云乎哉。</p></cb:div>
+<lb ed="J" n="0138b11"/><cb:div type="other"><cb:mulu type="其他" level="2">題野色秋聲圖</cb:mulu><head>題野色秋聲圖</head>
+<lb ed="J" n="0138b12"/><p xml:id="pJ28p0138b1201">夜閒無事坐聽亂蛩唧唧聲覺明月清風殊多冷致
+<lb ed="J" n="0138b13"/>但負愁腸者不堪入耳耳因憶曩日李君所贈手卷
+<lb ed="J" n="0138b14"/>飛潛萌植種種奇幻迺搜出披閱而筆識之亦以見
+<lb ed="J" n="0138b15"/>野色秋聲動人情思之不誣也。</p></cb:div>
+<lb ed="J" n="0138b16"/><cb:div type="other"><cb:mulu type="其他" level="2">題杜則居士秋吟後</cb:mulu><head>題杜則居士秋吟後</head>
+<lb ed="J" n="0138b17"/><p xml:id="pJ28p0138b1701">牢騷不平之氣發而為秋吟百篇字字幽閒句句慘
+<lb ed="J" n="0138b18"/>落及問其所以不平者何事即杜翁亦瞿然而不自
+<lb ed="J" n="0138b19"/>解天乎人乎夫誰與共白此心哉。</p></cb:div>
+<lb ed="J" n="0138b20"/><cb:div type="other"><cb:mulu type="其他" level="2">題老和尚在淮永寧寺所寄手札後</cb:mulu><head>題老和尚在淮永寧寺所寄手札後</head>
+<lb ed="J" n="0138b21"/><p xml:id="pJ28p0138b2101">此老以私心謀主大剎法綱廢墮言行乖張眾所共
+<lb ed="J" n="0138b22"/>知我老人書此數語警之有不欲形於筆要伊清夜
+<lb ed="J" n="0138b23"/>揣量之句真所謂父為子隱直在其中者也其如昏
+<lb ed="J" n="0138b24"/>沉弗悟竟至隕亡悲夫。</p></cb:div>
+<lb ed="J" n="0138b25"/><cb:div type="other"><cb:mulu type="其他" level="2">題莊子畫像</cb:mulu><head>題莊子畫像</head>
+<lb ed="J" n="0138b26"/><p xml:id="pJ28p0138b2601">漆園一書大都以脫形骸齊物我一死生證虛無為
+<lb ed="J" n="0138b27"/>極致所以立意幽玄出言放曠令人無處捉摸今夏
+<lb ed="J" n="0138b28"/>君能寶其書并繪其肖像晨夕而崇奉之是必有默
+<lb ed="J" n="0138b29"/>契於中而與此老共作逍遙遊耶不然何景慕之篤
+<lb ed="J" n="0138b30"/>若此。</p></cb:div></cb:div>
+<pb ed="J" xml:id="J28.B202.0138c" n="0138c"/>
+<lb ed="J" n="0138c01"/><cb:div type="other"><cb:mulu type="其他" level="1">歌</cb:mulu><head>歌</head>
+<lb ed="J" n="0138c02"/><cb:div type="other"><cb:mulu type="其他" level="2">知足歌</cb:mulu><head>知足歌</head>
+<lb ed="J" n="0138c03"/><lg xml:id="lgJ28p0138c0301" type="abnormal"><l rend="text-indent:0em">能知足能知足知足時時無不足無不足時只自知
+<lb ed="J" n="0138c04"/>聊將知足歌一曲青山腰白茅屋左有長松右有竹
+<lb ed="J" n="0138c05"/>最愛我來住此中悠悠蕩蕩忘拘束春知足夏知足
+<lb ed="J" n="0138c06"/>薰風遲日任相逐衣裏圓珠閃爍光世間寶換吾弗
+<lb ed="J" n="0138c07"/>欲秋知足冬知足桂子開過梅又馥纏身破衲煖烘
+<lb ed="J" n="0138c08"/>烘勝似綺羅千萬軸淡虀羹瓔珞粥跳下繩床炊正
+<lb ed="J" n="0138c09"/>熟喫得肚皮飽彭亨呼童曳杖入雲谷草茸茸花簇
+<lb ed="J" n="0138c10"/>簇石可漱兮泉可掬人世輸贏夢半生嗟見時流不
+<lb ed="J" n="0138c11"/>知足不知足蓬門變作黃金閣巍然數仞猶嫌低營
+<lb ed="J" n="0138c12"/>盡東西及南北不知足饔飧積至千鍾粟袖手堂前
+<lb ed="J" n="0138c13"/>猶道無升斗錙銖也削剝不念君與親不信罪與福
+<lb ed="J" n="0138c14"/>秪要妻兒骨肉肥誰管村農掩面哭不論是與非不
+<lb ed="J" n="0138c15"/>顧榮與辱轟轟趁卻好威權那知性命風前燭風前
+<lb ed="J" n="0138c16"/>燭容易卜看來總是空勞碌爭似儂家歲月閒一缽
+<lb ed="J" n="0138c17"/>一囊隨分足能知足能知足我今與汝歌一曲汝如
+<lb ed="J" n="0138c18"/>有意知足時請聽此曲效知足</l></lg></cb:div>
+<lb ed="J" n="0138c19"/><cb:div type="other"><cb:mulu type="其他" level="2">快活歌</cb:mulu><head>快活歌</head>
+<lb ed="J" n="0138c20"/><lg xml:id="lgJ28p0138c2001" type="abnormal"><l rend="text-indent:0em">真快活真快活快活道人活鱍鱍請君這裏立片時
+<lb ed="J" n="0138c21"/>暫聽我歌真快活行快活竹杖閒閒隨手撥或步峰
+<lb ed="J" n="0138c22"/>巔或水濱一聲長嘯乾坤闊住快活新築茆堂軒且
+<lb ed="J" n="0138c23"/>豁青山列似錦屏開又有雲粧紫霧抹坐快活蒲團
+<lb ed="J" n="0138c24"/>獨倚自超越直饒佛祖恁麼來都叫張三與孟八臥
+<lb ed="J" n="0138c25"/>快活木枕中間半葛怛幾度天明尚起遲流鶯徒向
+<lb ed="J" n="0138c26"/>耳邊聒不苦饑不畏渴渴則提瓶汲瀑花饑便燃鐺
+<lb ed="J" n="0138c27"/>煮肥蕨不管熱無衣不怕寒無裰熱則松下扇涼風
+<lb ed="J" n="0138c28"/>寒便爐邊燒榾柮榮辱窠是非闥當甚儂家臭皮襪
+<lb ed="J" n="0138c29"/>放曠常如癡兀人這些喚做真快活我見世人少快
+<lb ed="J" n="0138c30"/>活終日忙忙煩惱殺只為貪戀弗肯休故此志氣受
+<pb ed="J" xml:id="J28.B202.0139a" n="0139a"/>
+<lb ed="J" n="0139a01"/>拘奪富也不快活貴也不快活富貴有時能失脫功
+<lb ed="J" n="0139a02"/>也不快活名也不快活功重名高背負筈無常催生
+<lb ed="J" n="0139a03"/>死決馬面牛頭相逼拶盈箱金玉子孫多閻老案前
+<lb ed="J" n="0139a04"/>難救拔趁韶光聽我說識取此中真快活快活快活
+<lb ed="J" n="0139a05"/>真快活不信任從鬧活活</l></lg></cb:div>
+<lb ed="J" n="0139a06"/><cb:div type="other"><cb:mulu type="其他" level="2">採茶歌</cb:mulu><head>採茶歌</head>
+<lb ed="J" n="0139a07"/><lg xml:id="lgJ28p0139a0701" type="abnormal"><l rend="text-indent:0em">有茶有茶山之陽小者提籃大執筐葉葉枝枝不覆
+<lb ed="J" n="0139a08"/>藏挨身直入侵衣翠信手拈來帶露香一聲幽鳥韻
+<lb ed="J" n="0139a09"/>如簧</l></lg>
+<lb ed="J" n="0139a10"/><lg xml:id="lgJ28p0139a1001" type="abnormal"><l rend="text-indent:0em">有茶有茶山之中采采無多在<anchor xml:id="beg_161" type="cb-app"/>己<anchor xml:id="end_161"/>躬放下籃兒滿樹
+<lb ed="J" n="0139a11"/>空旋為入焙驚榆火又待炎爐吼浪風趙州公案此
+<lb ed="J" n="0139a12"/>君通</l></lg></cb:div>
+<lb ed="J" n="0139a13"/><cb:div type="other"><cb:mulu type="其他" level="2">天目古松歌</cb:mulu><head>天目古松歌<note place="inline">有引</note></head>
+<lb ed="J" n="0139a14"/><p xml:id="pJ28p0139a1401" rend="margin-left:1em">孝廉鄭平子禾梅谿里中仁厚有德人也耋年植
+<lb ed="J" n="0139a15"/>天目松一株奇古可愛令郎雲渡公求賦贈之。</p>
+<lb ed="J" n="0139a16"/><lg xml:id="lgJ28p0139a1601" type="abnormal"><l rend="text-indent:0em">天目之山崇而幽天月之松勢如虯怒濤響入半空
+<lb ed="J" n="0139a17"/>息葉葉枝枝撐斗牛誰為移植先生宅卓立庭前高
+<lb ed="J" n="0139a18"/>十尺勁質蒼姿敢耐霜古之今之為標格我想此松
+<lb ed="J" n="0139a19"/>有令名此松奇古如先生先生性與此松合培養終
+<lb ed="J" n="0139a20"/>年不改更對松吟兮倚松坐萬象森羅拍手和真趣
+<lb ed="J" n="0139a21"/>一團若箇知只知鼻孔下頭大穠桃郁李笑春風轉
+<lb ed="J" n="0139a22"/>眼飄西又墜東爭似此松色愈翠朝朝綠霧紫霞籠
+<lb ed="J" n="0139a23"/>此松可比先生壽皓髮渥容眉目秀先生德行<anchor xml:id="beg_162" type="cb-app"/>已<anchor xml:id="end_162"/>過
+<lb ed="J" n="0139a24"/>之人間天上純無疚我來此地獲觀光溢耳清音絕
+<lb ed="J" n="0139a25"/>覆藏但願此松長不老先生不老較松長</l></lg></cb:div>
+<lb ed="J" n="0139a26"/><cb:div type="other"><cb:mulu type="其他" level="2">秋軒水月歌</cb:mulu><head>秋軒水月歌</head>
+<lb ed="J" n="0139a27"/><lg xml:id="lgJ28p0139a2701" type="abnormal"><l rend="text-indent:0em">秋水磨銅碧且清秋月一輪透水明瀲灩波光千萬
+<lb ed="J" n="0139a28"/>里白蘋紅蓼渡頭生我今臨軒歌水月水月歌兮聲
+<lb ed="J" n="0139a29"/>嗚咽亂蛩唧唧訴空庭如助予懷傷久別別雙親兮
+<lb ed="J" n="0139a30"/>三十春殘碑古道雜荊榛歲時不向塋前掃慚憶當
+<pb ed="J" xml:id="J28.B202.0139b" n="0139b"/>
+<lb ed="J" n="0139b01"/>年負米人別昆友兮二十夏韡韡棠花開復謝鴈足
+<lb ed="J" n="0139b02"/>無書烽火傳陟崗瞻望淚交瀉水也月也何所分故
+<lb ed="J" n="0139b03"/>鄉此處絕相聞水中有月秋容好月下悲秋欲斷魂
+<lb ed="J" n="0139b04"/>斷魂魂斷情難已莫辜秋月映秋水安得同歌水月
+<lb ed="J" n="0139b05"/>秋團圞坐對秋軒裏</l></lg></cb:div>
+<lb ed="J" n="0139b06"/><cb:div type="other"><cb:mulu type="其他" level="2">採菱歌</cb:mulu><head>採菱歌</head>
+<lb ed="J" n="0139b07"/><lg xml:id="lgJ28p0139b0701" type="abnormal"><l rend="text-indent:0em">我愛橫塘北之東菱葉隨波綠且紅雨過亂雲天欲
+<lb ed="J" n="0139b08"/>暮白花點點灑空濛我愛橫塘西之北寒浸玻璃菱
+<lb ed="J" n="0139b09"/>乍熟利刺尖尖尖似錐青苞半是紫苞肉童子汝來
+<lb ed="J" n="0139b10"/>採勿憂瓦舟輕撥放中流採之又採忘疲倦瀉入疏
+<lb ed="J" n="0139b11"/>籃水面浮嫩者剝開味鮮美老者和莖帶角煮大家
+<lb ed="J" n="0139b12"/>相視樂欣欣饑可療也渴可止菱兮菱兮汝當知蘊
+<lb ed="J" n="0139b13"/>玉含珠正遇時菱兮菱兮汝當知頭角崢嶸正遇時
+<lb ed="J" n="0139b14"/>竊怪夫世間英人達士多有老死江湖而不得用之</l></lg></cb:div>
+<lb ed="J" n="0139b15"/><cb:div type="other"><cb:mulu type="其他" level="2">春思歌為亦庵邵公作</cb:mulu><head>春思歌為亦庵邵公作</head>
+<lb ed="J" n="0139b16"/><lg xml:id="lgJ28p0139b1601" type="abnormal"><l rend="text-indent:0em">弱絮暗風吹動新花高日爍開年年春事長如許倚
+<lb ed="J" n="0139b17"/>杖任徘徊解倦響泉在架寬愁玉液盈杯此中樂趣
+<lb ed="J" n="0139b18"/>君知也何待遠朋來</l></lg></cb:div>
+<lb ed="J" n="0139b19"/><cb:div type="other"><cb:mulu type="其他" level="2">香桂歌</cb:mulu><head>香桂歌</head>
+<lb ed="J" n="0139b20"/><lg xml:id="lgJ28p0139b2001" type="abnormal"><l rend="text-indent:0em">蕭颯金風入戶涼幾株老桂綴新黃月中分出無雙
+<lb ed="J" n="0139b21"/>種世上贏來第一香道者倚欄頻對立芬芳陣陣侵
+<lb ed="J" n="0139b22"/>衣褶翻云此境是先天十聖三賢覷不及覷得及兮
+<lb ed="J" n="0139b23"/>只自知鼻端有竅徹玄微相逢莫盡輕攀折蹉過當
+<lb ed="J" n="0139b24"/>前直指機</l></lg></cb:div>
+<lb ed="J" n="0139b25"/><cb:div type="other"><cb:mulu type="其他" level="2">木庵歌為和禪人作</cb:mulu><head>木庵歌為和禪人作</head>
+<lb ed="J" n="0139b26"/><lg xml:id="lgJ28p0139b2601" type="abnormal"><l rend="text-indent:0em">刳木以成庵森羅萬象盡同參就庵以名木露柱燈
+<lb ed="J" n="0139b27"/>籠光簇簇木即庵庵即木當陽直截無私曲庵非木
+<lb ed="J" n="0139b28"/>木非庵擬議進前落二三禪人木庵取為號箇裏何
+<lb ed="J" n="0139b29"/>曾有作造且待庵中木點頭寥寥超出古皇道</l></lg></cb:div>
+<lb ed="J" n="0139b30"/><cb:div type="other"><cb:mulu type="其他" level="2">長松翠竹歌為季寅姚檀護壽</cb:mulu><head>長松翠竹歌為季寅姚檀護壽</head>
+<pb ed="J" xml:id="J28.B202.0139c" n="0139c"/>
+<lb ed="J" n="0139c01"/><lg xml:id="lgJ28p0139c0101" type="abnormal"><l rend="text-indent:0em">君不見鬱鬱南山百尺松根條錯落似盤龍年深易
+<lb ed="J" n="0139c02"/>結香脂珀節勁能欺臘月冬又不見當時渭川千畝
+<lb ed="J" n="0139c03"/>竹亭亭解散琅玕束繁陰翠籜拂雲霄在處酬人顛
+<lb ed="J" n="0139c04"/>倒欲松竹風高絕比倫先生德厚自嶙峋予懷松竹
+<lb ed="J" n="0139c05"/>無窮盡預慶先生七十春七十繇來得者少先生得
+<lb ed="J" n="0139c06"/>已為標表童顏矍鑠弗扶筇兩耳聲通雙眼晶此係
+<lb ed="J" n="0139c07"/>真誠歷劫修長松翠竹合端由繞樹歌兮日未暮願
+<lb ed="J" n="0139c08"/>先生聞之心源洞徹與壺翁諗老而同流</l></lg></cb:div>
+<lb ed="J" n="0139c09"/><cb:div type="other"><cb:mulu type="其他" level="2">嬾頭陀歌</cb:mulu><head>嬾頭陀歌</head>
+<lb ed="J" n="0139c10"/><lg xml:id="lgJ28p0139c1001" type="abnormal"><l rend="text-indent:0em">好嬾頭陀真箇嬾上天下地無人管髼鬆白雪亂頭
+<lb ed="J" n="0139c11"/>抓不剪隨他長與短衣穿衲破兮縱拾斷麻也嬾縫
+<lb ed="J" n="0139c12"/>面垢形污兮縱酌清泉也嬾浣問伊教教弗知問伊
+<lb ed="J" n="0139c13"/>禪緩款款禿帚倒閒苔封塵滿三竿日遠未翻身紫
+<lb ed="J" n="0139c14"/>芉噇時八九碗嬾頭陀嬾頭陀上天下地無如何就
+<lb ed="J" n="0139c15"/>中也有奇特處風前解唱大小脫空歌</l></lg></cb:div>
+<lb ed="J" n="0139c16"/><cb:div type="other"><cb:mulu type="其他" level="2">雙鳩谷谷歌</cb:mulu><head>雙鳩谷谷歌</head>
+<lb ed="J" n="0139c17"/><lg xml:id="lgJ28p0139c1701" type="abnormal"><l rend="text-indent:0em">有鳥有鳥名斑鳩營巢傍我屋簷頭桑條日煖雛方
+<lb ed="J" n="0139c18"/>出翅羽未成計未周朝谷谷兮暮谷谷哺雛那倦飲
+<lb ed="J" n="0139c19"/>和啄豈知虐性黑貍奴來毀其巢食其肉雙鳩飛去
+<lb ed="J" n="0139c20"/>小雛亡谷谷孤孤痛斷腸誰無父母誰無子汝反張
+<lb ed="J" n="0139c21"/>牙快倚廊吁嗟乎物類不仁何至是聽呼孤谷越悲
+<lb ed="J" n="0139c22"/>傷</l></lg></cb:div>
+<lb ed="J" n="0139c23"/><cb:div type="other"><cb:mulu type="其他" level="2">台僊歌</cb:mulu><head>台僊歌<note place="inline">有引</note></head>
+<lb ed="J" n="0139c24"/><p xml:id="pJ28p0139c2401" rend="margin-left:1em">台僊者武原扆宣劉君別號也劉君慕晨肇採藥
+<lb ed="J" n="0139c25"/>之遇圖為行樂有純陽子指路其上并自題十一
+<lb ed="J" n="0139c26"/>韻言言灑脫予見而美之歌曰。</p>
+<lb ed="J" n="0139c27"/><lg xml:id="lgJ28p0139c2701" type="abnormal"><l rend="text-indent:0em">劉阮採藥忘歸路石徑梯斜天薄暮忽見桃花水一
+<lb ed="J" n="0139c28"/>溪胡麻飯出香無數中有人焉婉且英翠鬟玉珮踏
+<lb ed="J" n="0139c29"/>雲行殷勤接入碧紗洞通了仙情合世情及返兒孫
+<lb ed="J" n="0139c30"/>已七代茫茫誰復辨精彩繼訪靈蹤不可尋山桃水
+<pb ed="J" xml:id="J28.B202.0140a" n="0140a"/>
+<lb ed="J" n="0140a01"/>影空相對此事希奇今古傳台僊夙契亦欣然輸錢
+<lb ed="J" n="0140a02"/>付與丹青手描繪收歸半幅箋劍笠隨身何處去呂
+<lb ed="J" n="0140a03"/>翁直指勿疑慮松間月色夜濤寒步步分明該本據
+<lb ed="J" n="0140a04"/>該本據絕躋攀桃源未必在深山但得塵心長止息
+<lb ed="J" n="0140a05"/>透穿仙佛萬重關</l></lg></cb:div>
+<lb ed="J" n="0140a06"/><cb:div type="other"><cb:mulu type="其他" level="2">石馬歌</cb:mulu><head>石馬歌</head>
+<lb ed="J" n="0140a07"/><lg xml:id="lgJ28p0140a0701" type="abnormal"><l rend="text-indent:0em">石馬雕鞍橫古路往來騎玩人無數白楊蕭瑟撼天
+<lb ed="J" n="0140a08"/>風疑是奔騰嘶日暮泉下茫茫去不回功名富貴已
+<lb ed="J" n="0140a09"/>焉哉可憐石馬空長在辜負英魂泣夜臺夜臺泣何
+<lb ed="J" n="0140a10"/>似生前酌緩急緩急生前非所宜死後相思亦奚及
+<lb ed="J" n="0140a11"/>君不見銅雀淒涼荒草堆狐狸鼾臥誰收拾</l></lg></cb:div>
+<lb ed="J" n="0140a12"/><cb:div type="other"><cb:mulu type="其他" level="2">破屋歌次唯菴和尚韻</cb:mulu><head>破屋歌次唯菴和尚韻</head>
+<lb ed="J" n="0140a13"/><lg xml:id="lgJ28p0140a1301" type="abnormal"><l rend="text-indent:0em">無依道人無檢束出頭占住一閒屋雖然此屋破難
+<lb ed="J" n="0140a14"/>堪六戶虛凝皆具足春去秋來不記年萬般取用信
+<lb ed="J" n="0140a15"/>前緣惺惺長在屋中坐饑即餐兮困即眠阿呵呵勿
+<lb ed="J" n="0140a16"/>露乖天工豈肯亂差排惟有矢心行正道古今賢聖
+<lb ed="J" n="0140a17"/>是吾儕</l></lg></cb:div>
+<lb ed="J" n="0140a18"/><cb:div type="other"><cb:mulu type="其他" level="2">春雨歌</cb:mulu><head>春雨歌</head>
+<lb ed="J" n="0140a19"/><lg xml:id="lgJ28p0140a1901" type="abnormal"><l rend="text-indent:0em">春雨淋兮春水深柴如玉兮米如金米如金兮沒處
+<lb ed="J" n="0140a20"/>尋下民何咎兮上天何心</l></lg></cb:div></cb:div>
+<lb ed="J" n="0140a21"/><cb:div type="other"><cb:mulu type="其他" level="1">辭</cb:mulu><head>辭</head>
+<lb ed="J" n="0140a22"/><cb:div type="other"><cb:mulu type="其他" level="2">和陶淵明歸去來辭</cb:mulu><head>和陶淵明歸去來辭</head>
+<lb ed="J" n="0140a23"/><p xml:id="pJ28p0140a2301">歸去來兮此日回頭得所歸長翛然以自適轉覺夢
+<lb ed="J" n="0140a24"/>而奚悲信先聖之不遠知往祖之堪追識生死其如
+<lb ed="J" n="0140a25"/>幻歎世路以多非謝名場之跼蹐登萬仞而振衣窮
+<lb ed="J" n="0140a26"/>幽玄以淨盡歷坐對於隱微寂寂空庭雞犬飛奔有
+<lb ed="J" n="0140a27"/>客至止扣我柴門芳儀莫即雅韻攸存明日在天斜
+<lb ed="J" n="0140a28"/>照盈樽望江山之麗眼眺松竹以怡顏捲湘簾而縱
+<lb ed="J" n="0140a29"/>步觸處遇而皆安提衲僧之巴鼻撥向上之機關或
+<lb ed="J" n="0140a30"/>拾葉以留題或倦枕以昂觀興方來而弗禁似久出
+<pb ed="J" xml:id="J28.B202.0140b" n="0140b"/>
+<lb ed="J" n="0140b01"/>之轅還愛纖塵之莫染樂吾樂以盤桓歸去來兮願
+<lb ed="J" n="0140b02"/>竟此為佳游非天工之可就殫人力而難求勿慕浮
+<lb ed="J" n="0140b03"/>雲之喜勿懷饑渴之憂煮藜羹以度歲洵有待乎良
+<lb ed="J" n="0140b04"/>儔勞生役役猶不繫舟情未忘於朝市其胡能老林
+<lb ed="J" n="0140b05"/>丘俄炙手而張雀看逐浪以隨流幾蓋棺而瞑逝埋
+<lb ed="J" n="0140b06"/>黃土以暫休已矣乎曰歸曰歸正其時去矣兔烏不
+<lb ed="J" n="0140b07"/>可留茫茫遊子擬安之魚以水為命人以家為期鋤
+<lb ed="J" n="0140b08"/>四山之榛棘護靈苗以溉耔覿面來而非物信口道
+<lb ed="J" n="0140b09"/>而非詩明明了了無餘事除夕到也復奚疑。</p>
+<lb ed="J" n="0140b10"/><p xml:id="pJ28p0140b1001" rend="margin-left:2em">甲申夏國難遂庵感而歸耕賦歸去來辭贈之。</p>
+<lb ed="J" n="0140b11"/><p xml:id="pJ28p0140b1101">歸去來兮遂庵居士得所歸憫飄搖之世故懷禾黍
+<lb ed="J" n="0140b12"/>以興悲竭精誠而莫展幸前哲其可追修敝廬於僻
+<lb ed="J" n="0140b13"/>壤杜是是而非非腴田家之風味效新沐以更衣聽
+<lb ed="J" n="0140b14"/>天緣而自適無蹈患及防微春雨淋漓水碧長奔一
+<lb ed="J" n="0140b15"/>犁一笠荷出衡門牧兒踵後老牯具存有飯在簋有
+<lb ed="J" n="0140b16"/>酒在樽隨飽腹以寄傲掀虯髯以壯顏歌南山而拊
+<lb ed="J" n="0140b17"/>缶信行樂之足安思插鍬之慧寂與<anchor xml:id="beg_163" type="cb-app"/>己<anchor xml:id="end_163"/>事而相關任
+<lb ed="J" n="0140b18"/>居諸其變遷嘗默坐以深觀夏耐溽而芸蕪秋披霞
+<lb ed="J" n="0140b19"/>而刈還賽勾龍以畢歲覯婦子之桓桓歸去來兮願
+<lb ed="J" n="0140b20"/>終身乎此游徐稚曾自耕而食王通亦不仕而求皆
+<lb ed="J" n="0140b21"/>知幾之遠見故得意而忘憂賴斯門之可入盍託告
+<lb ed="J" n="0140b22"/>夫朋儔人情巇嶮如浪壓舟昔日瓊宮玉殿今朝野
+<lb ed="J" n="0140b23"/>樹雲丘誰抱慚而識愧力砥柱於中流但迷蒙而弗
+<lb ed="J" n="0140b24"/>返借聲勢以閒休<anchor xml:id="beg_164" type="cb-app"/>已<anchor xml:id="end_164"/>矣乎吾吐斯言匪其時見者聞
+<lb ed="J" n="0140b25"/>者悉厭留惟有遂庵獨得之務農以為業不忮以為
+<lb ed="J" n="0140b26"/>期培祖翁之片地趁良辰而壅耔明钁頭之的旨敲
+<lb ed="J" n="0140b27"/>月下之清詩葛巾鶴氅翩然也羲皇以上復奚疑。</p>
+<lb ed="J" n="0140b28"/><p xml:id="pJ28p0140b2801" rend="margin-left:2em">予自癸酉離鄉迄今二十餘載矣先人馬鬣伯
+<lb ed="J" n="0140b29"/>仲鴒歌每念及之殊為惋惻況值萬姓流離風
+<lb ed="J" n="0140b30"/>景不可復問乎因託父老招言而賦歸去來辭
+<pb ed="J" xml:id="J28.B202.0140c" n="0140c"/>
+<lb ed="J" n="0140c01"/>以答其意。</p>
+<lb ed="J" n="0140c02"/><p xml:id="pJ28p0140c0201">歸去來兮霞漳父老招我歸遺萬金之尺素言婉切
+<lb ed="J" n="0140c03"/>而含悲歎荊花之非舊責二親之不追問世間與世
+<lb ed="J" n="0140c04"/>出果孰是而孰非汝方袍以受供人無食亦無衣胡
+<lb ed="J" n="0140c05"/>忍心而背義不念昔之艱微群變紛紛朝住夕奔拋
+<lb ed="J" n="0140c06"/>妻上路推幼出門廩箱掠盡屋宇灰存胸多鬱結飲
+<lb ed="J" n="0140c07"/>少歡樽泉聲苦而亂耳樹色慘以羞顏閱數行之遠
+<lb ed="J" n="0140c08"/>寄思坐臥而奚安敦天倫於孝友實道誼所攸關病
+<lb ed="J" n="0140c09"/>懨懨其未已假書籍以清觀輪歲祀於五指過三七
+<lb ed="J" n="0140c10"/>而不還鬢垂霜而莫保敢恃質以寬桓歸去來兮願
+<lb ed="J" n="0140c11"/>束裝乎此游馬祖曾返漢州去予豈異是而弗求雖
+<lb ed="J" n="0140c12"/>津途之險阻兼兵革之殷憂但矢堅以前進毋慮患
+<lb ed="J" n="0140c13"/>於寡儔僊關有馬劍水有舟登東羅之梵閣蹈印石
+<lb ed="J" n="0140c14"/>之荒丘望梁峰之倒影汲龍井之甘流掃先塋以植
+<lb ed="J" n="0140c15"/>木友于篤而心休已矣乎汝招我歸斯其時故鄉不
+<lb ed="J" n="0140c16"/>可以久留越地吳天任適之修身為寶立本為期各
+<lb ed="J" n="0140c17"/>隨報緣之定分常懷善果以勤耔力咨參而證悟聽
+<lb ed="J" n="0140c18"/>記莂之新詩世出世間如了了方袍受供復奚疑。</p></cb:div></cb:div>
+<lb ed="J" n="0140c19"/><cb:div type="w"><p cb:type="pre" xml:id="pJ28p0140c1901"><note place="inline">海鹽縣比丘尼超巖蕭山縣比丘尼超順捐貲
+<lb ed="J" n="0140c20"/>助刻祈壽基永四智慧常明者</note></p></cb:div>
+<lb ed="J" n="0140c21"/><cb:juan fun="close" n="26"><cb:jhead>百癡禪師語錄卷第二十六終</cb:jhead></cb:juan>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_15d" cb:to="#end_15d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_15e" cb:to="#end_15e"><corr>己</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_15f" cb:to="#end_15f"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_160" cb:to="#end_160"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_161" cb:to="#end_161"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_162" cb:to="#end_162"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_163" cb:to="#end_163"><corr>己</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_164" cb:to="#end_164"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

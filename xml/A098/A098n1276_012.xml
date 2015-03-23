@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="A098n1276">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Jin Edition of the Canon, Electronic version, No. 1276 大唐開元釋教廣品歷章(第5卷-第20卷)</title>
+			<author>唐 玄逸撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $<date>$Date: 2012/06/25 02:45:05 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>15卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/06/25 02:45:05 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Jin Edition of the Canon Vol. 098, No. 1276 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00584">
+	<charName>CBETA CHARACTER CB00584</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[颱-台+犮]</value>
+	</charProp>
+	<mapping type="normal_unicode">U+98B0</mapping>
+	<mapping cb:dec="983624" type="PUA">U+F0248</mapping>
+</char>
+<char xml:id="CB06960">
+	<charName>CBETA CHARACTER CB06960</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[恕-女+工]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>恐</value>
+	</charProp>
+	<mapping type="unicode">U+22662</mapping>
+	<mapping cb:dec="990000" type="PUA">U+F1B30</mapping>
+</char>
+<char xml:id="CB07805">
+	<charName>CBETA CHARACTER CB07805</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[羌-儿+((寬-(寞-旲))-目)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>羌</value>
+	</charProp>
+	<mapping type="unicode">U+26351</mapping>
+	<mapping cb:dec="990845" type="PUA">U+F1E7D</mapping>
+</char>
+<char xml:id="CB08764">
+	<charName>CBETA CHARACTER CB08764</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宋-木+取]</value>
+	</charProp>
+	<mapping type="unicode">U+3761</mapping>
+	<mapping cb:dec="991804" type="PUA">U+F223C</mapping>
+</char>
+<char xml:id="CB09201">
+	<charName>CBETA CHARACTER CB09201</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(林/月)*ㄆ]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>散</value>
+	</charProp>
+	<mapping type="normal_unicode">U+22FE8</mapping>
+	<mapping cb:dec="992241" type="PUA">U+F23F1</mapping>
+</char>
+<char xml:id="CB10485">
+	<charName>CBETA CHARACTER CB10485</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[弓*口]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>弘</value>
+	</charProp>
+	<mapping cb:dec="993525" type="PUA">U+F28F5</mapping>
+</char>
+<char xml:id="CB13287">
+	<charName>CBETA CHARACTER CB13287</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[微-兀+(舛-夕)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>微</value>
+	</charProp>
+	<mapping cb:dec="996327" type="PUA">U+F33E7</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2011-02-15T14:27:59">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">大乘經律論</cb:mulu><cb:mulu type="其他" level="2">大乘經重單合譯八</cb:mulu><cb:div type="other">
+<pb ed="A" xml:id="A098.1276.0181b" n="0181b"/>
+<lb ed="A" n="0181b01"/><milestone unit="juan" n="12"/><cb:mulu type="卷" n="12"></cb:mulu><cb:juan fun="open" n="12"><cb:jhead>大唐開元釋教廣品歷章卷第十二　纓</cb:jhead></cb:juan>
+<lb ed="A" n="0181b02"/><byline cb:type="author"><note place="inline">京兆華嚴寺沙門釋玄逸篹</note></byline>
+<lb ed="A" n="0181b03"/><cb:div type="other"><cb:mulu type="其他" level="2">大乘經重單合譯九</cb:mulu>
+<lb ed="A" n="0181b04"/>
+<lb ed="A" n="0181b05"/>
+<lb ed="A" n="0181b06"/>
+<lb ed="A" n="0181b07"/>
+<lb ed="A" n="0181b08"/>
+<lb ed="A" n="0181b09"/>
+<lb ed="A" n="0181b10"/><p xml:id="pA098p0181b1001">【原經卷殘缺】</p>
+<lb ed="A" n="0181b11"/>
+<pb ed="A" xml:id="A098.1276.0182a" n="0182a"/>
+<lb ed="A" n="0182a01"/><list><item xml:id="itemA098p0182a0101"><anchor xml:id="beg_45" type="cb-app"/>佛頂尊勝陀羅尼經一卷<anchor xml:id="end_45"/></item>
+<lb ed="A" n="0182a02"/><item xml:id="itemA098p0182a0201">無量門<g ref="#CB13287">󳏧</g>密持經</item>
+<lb ed="A" n="0182a03"/><item xml:id="itemA098p0182a0301">出生無量門持經一卷<note place="inline"><anchor xml:id="beg_46" type="cb-app"/>或云新微密<anchor xml:id="end_46"/>持經</note></item>
+<lb ed="A" n="0182a04"/><item xml:id="itemA098p0182a0401">阿難陀目佉尼訶離陀隣尼經一卷</item>
+<lb ed="A" n="0182a05"/><item xml:id="itemA098p0182a0501">無量門破魔陀羅尼經一卷<note place="inline">或直云陀羅尼經</note></item>
+<lb ed="A" n="0182a06"/><item xml:id="itemA098p0182a0601">阿難陀目佉尼呵離陀經一卷<note place="inline">或云出無量門持經　蒲州十<unclear></unclear></note></item>
+<lb ed="A" n="0182a07"/><item xml:id="itemA098p0182a0701">勝<anchor xml:id="beg_47" type="cb-app"/>幢<anchor xml:id="end_47"/>臂印陀羅尼經一卷　<note place="inline">蒲州二紙</note></item>
+<lb ed="A" n="0182a08"/><item xml:id="itemA098p0182a0801">一向出生菩薩經一卷　<note place="inline">蒲州十二紙</note></item>
+<lb ed="A" n="0182a09"/><item xml:id="itemA098p0182a0901">出生無邊門陀羅尼經一卷　<note place="inline">蒲州十四紙</note></item>
+<lb ed="A" n="0182a10"/><item xml:id="itemA098p0182a1001">舍利弗陀羅尼經一卷　<note place="inline">蒲州八紙</note></item>
+<lb ed="A" n="0182a11"/><item xml:id="itemA098p0182a1101">妙臂印<anchor xml:id="beg_48" type="cb-app"/>幢<anchor xml:id="end_48"/>陀羅尼經一卷<note place="inline">別有一本七紙非是本經不可琉布</note>　<note place="inline">蒲州二紙</note></item>
+<lb ed="A" n="0182a12"/><item xml:id="itemA098p0182a1201">無崖際持法門一卷<note place="inline">一名無際經</note>　<note place="inline">蒲州十五紙</note></item>
+<pb ed="A" xml:id="A098.1276.0182b" n="0182b"/>
+<lb ed="A" n="0182b01"/><item xml:id="itemA098p0182b0101">尊勝菩薩所問一切諸法入無量門陀羅
+<lb ed="A" n="0182b02"/>尼經一卷<note place="inline">或直云尊勝菩薩所問經直云入無量門陀羅尼經</note>　<note place="inline">蒲州十七紙</note></item>
+<lb ed="A" n="0182b03"/><item xml:id="itemA098p0182b0301">金剛上味陀羅尼經一卷<note place="inline">蒲州十四紙</note></item>
+<lb ed="A" n="0182b04"/><item xml:id="itemA098p0182b0401">金剛場陀羅尼經一卷<note place="inline">蒲州十四紙</note></item>
+<lb ed="A" n="0182b05"/><item xml:id="itemA098p0182b0501">華積陀羅尼神祝經一卷　<note place="inline">蒲州三紙</note></item>
+<lb ed="A" n="0182b06"/><item xml:id="itemA098p0182b0601">六字祝王經一卷　<note place="inline">蒲州五紙</note></item>
+<lb ed="A" n="0182b07"/><item xml:id="itemA098p0182b0701">師子奮迅菩薩所問經一卷　<note place="inline">蒲州二紙</note></item>
+<lb ed="A" n="0182b08"/><item xml:id="itemA098p0182b0801">華聚陀羅尼祝經一卷　<note place="inline">蒲州三紙</note></item>
+<lb ed="A" n="0182b09"/><item xml:id="itemA098p0182b0901">六字神祝王經一卷　<note place="inline">蒲州六紙</note></item>
+<lb ed="A" n="0182b10"/><item xml:id="itemA098p0182b1001">虛空藏菩薩問佛經一卷<note place="inline">亦云虛空藏菩薩問七佛陀羅尼經亦云七加持經　蒲州十二紙</note></item>
+<lb ed="A" n="0182b11"/><item xml:id="itemA098p0182b1101">如來方便善巧祝經一卷　<note place="inline">蒲州十紙</note></item>
+<pb ed="A" xml:id="A098.1276.0183a" n="0183a"/>
+<lb ed="A" n="0183a01"/><item xml:id="itemA098p0183a0101">持句神祝經一卷<note place="inline">亦云陀羅尼句</note>　<note place="inline">蒲州三紙</note></item>
+<lb ed="A" n="0183a02"/><item xml:id="itemA098p0183a0201">陀隣尼鉢經一卷<note place="inline">亦云陀隣鉢祝</note>　<note place="inline">蒲州三紙</note></item>
+<lb ed="A" n="0183a03"/><item xml:id="itemA098p0183a0301">東方<g ref="#CB08764">㝡</g>勝燈王如來經一卷<note place="inline">題云東方<g ref="#CB08764">㝡</g>勝
+<lb ed="A" n="0183a04"/>燈王如來遣二菩薩送祝奉釋迦如來助鑊持世間經</note></item>
+<lb ed="A" n="0183a05"/><item xml:id="itemA098p0183a0501">善法方便陀羅尼祝經一卷　<note place="inline">蒲州五紙</note></item>
+<lb ed="A" n="0183a06"/><item xml:id="itemA098p0183a0601">金剛祕密善門陀羅尼經一卷　<note place="inline">蒲州五紙</note></item>
+<lb ed="A" n="0183a07"/><item xml:id="itemA098p0183a0701">護命法門神祝經一卷　<note place="inline">蒲州十一紙</note></item>
+<lb ed="A" n="0183a08"/><item xml:id="itemA098p0183a0801">無垢淨光大陀羅尼經一卷　<note place="inline">蒲州十二紙</note></item>
+<lb ed="A" n="0183a09"/><item xml:id="itemA098p0183a0901">請觀世音菩薩消伏毒害陀羅尼祝經一
+<lb ed="A" n="0183a10"/>卷<note place="inline">亦直云請觀世音經</note>　<note place="inline">蒲州十二紙</note></item>
+<lb ed="A" n="0183a11"/><item xml:id="itemA098p0183a1101">內藏百寶經一卷<note place="inline">亦云內藏百品經</note>　<note place="inline">蒲州八紙</note></item>
+<lb ed="A" n="0183a12"/><item xml:id="itemA098p0183a1201">溫室洗浴眾僧經一卷<note place="inline">亦云名溫室經</note>　<note place="inline">蒲州三紙</note></item>
+<pb ed="A" xml:id="A098.1276.0183b" n="0183b"/>
+<lb ed="A" n="0183b01"/><item xml:id="itemA098p0183b0101">須賴經一卷　<note place="inline">蒲州十八紙</note></item>
+<lb ed="A" n="0183b02"/><item xml:id="itemA098p0183b0201">私訶昧經一卷<note place="inline">或云弘呵末經一名菩薩道樹經　亦云道樹三昧經　蒲州十一紙</note></item>
+<lb ed="A" n="0183b03"/><item xml:id="itemA098p0183b0301">菩薩生地經一卷<note place="inline">一名<g ref="#CB07805">𦍑</g>摩鴗經</note>　<note place="inline">蒲州三紙</note></item>
+<lb ed="A" n="0183b04"/><item xml:id="itemA098p0183b0401">四不可得經一卷　<note place="inline">蒲州五紙</note></item>
+<lb ed="A" n="0183b05"/><item xml:id="itemA098p0183b0501">梵女首意經一卷<note place="inline">一名首意女經</note>　<note place="inline">蒲州五紙</note></item>
+<lb ed="A" n="0183b06"/><item xml:id="itemA098p0183b0601">成具光明定意經一卷<note place="inline">或云成具光明三昧經或直云成具光明經　蒲州二十二紙</note></item>
+<lb ed="A" n="0183b07"/><item xml:id="itemA098p0183b0701">寶網經一卷<note place="inline">亦云寶網童子經</note>　<note place="inline">蒲州二十三紙</note></item>
+<lb ed="A" n="0183b08"/><item xml:id="itemA098p0183b0801">菩薩修行經一卷<note place="inline">亦云威施長者問觀身行經亦云長者修行經　蒲州七紙</note></item>
+<lb ed="A" n="0183b09"/><item xml:id="itemA098p0183b0901">菩薩行五十緣身經<note place="inline">亦云菩薩緣身五十事經亦云五十漫身行經　蒲州六紙</note></item>
+<lb ed="A" n="0183b10"/><item xml:id="itemA098p0183b1001">諸德福田經一卷<note place="inline">或直云福田經或云諸福田經</note>　<note place="inline">蒲州五紙</note></item>
+<lb ed="A" n="0183b11"/><item xml:id="itemA098p0183b1101">大方等如來藏經一卷<note place="inline">或十二云如來藏經</note>　<note place="inline">蒲州九紙</note></item>
+<pb ed="A" xml:id="A098.1276.0184a" n="0184a"/>
+<lb ed="A" n="0184a01"/><item xml:id="itemA098p0184a0101">佛語經一卷　<note place="inline">蒲州四紙</note></item>
+<lb ed="A" n="0184a02"/><item xml:id="itemA098p0184a0201">金色王經一卷　<note place="inline">蒲州九紙</note></item>
+<lb ed="A" n="0184a03"/><item xml:id="itemA098p0184a0301">演道俗業經一卷　<note place="inline">蒲州九紙</note></item>
+<lb ed="A" n="0184a04"/><item xml:id="itemA098p0184a0401">百佛名經一卷　<note place="inline">蒲州六紙</note></item>
+<lb ed="A" n="0184a05"/><item xml:id="itemA098p0184a0501">稱揚諸佛功德經三卷<note place="inline">亦云集諸佛華經一名集華經一名現在佛名經或四卷　蒲州五十七紙</note></item>
+<lb ed="A" n="0184a06"/><item xml:id="itemA098p0184a0601">須真天子經三卷<note place="inline">亦云須真天子所問經亦云問四事經或二卷</note>　<note place="inline">蒲州四十六紙</note></item>
+<lb ed="A" n="0184a07"/><item xml:id="itemA098p0184a0701">摩訶摩耶經一卷<note place="inline">一名佛昇忉利天為母說法經亦直云摩耶經或二卷　蒲州二十六紙</note></item>
+<lb ed="A" n="0184a08"/><item xml:id="itemA098p0184a0801">除<g ref="#CB06960">𢙢</g>災患經一卷　<note place="inline">蒲州十七紙</note></item>
+<lb ed="A" n="0184a09"/><item xml:id="itemA098p0184a0901">孛經一卷<note place="inline">或云孛經鈔</note>　<note place="inline">蒲州十八紙</note></item>
+<lb ed="A" n="0184a10"/><item xml:id="itemA098p0184a1001">觀世音菩薩授記經一卷<note place="inline">一名觀世音受决經　蒲州一十三紙</note></item>
+<lb ed="A" n="0184a11"/><item xml:id="itemA098p0184a1101">海龍王經四卷<note place="inline">或三卷</note>　<note place="inline">蒲州七十三紙</note></item>
+<lb ed="A" n="0184a12"/><item xml:id="itemA098p0184a1201">首楞嚴三昧經三卷<note place="inline">或二卷亦直云首楞嚴經僧祐錄云新首楞嚴經　蒲州五十二紙</note></item>
+<pb ed="A" xml:id="A098.1276.0184b" n="0184b"/>
+<lb ed="A" n="0184b01"/><item xml:id="itemA098p0184b0101">觀普賢菩薩行法經一卷<note place="inline">云出深功德經
+<lb ed="A" n="0184b02"/>中或無法字亦云普賢觀經</note>　<note place="inline">蒲州十六紙</note></item>
+<lb ed="A" n="0184b03"/><item xml:id="itemA098p0184b0301">觀藥王藥上二菩薩一卷　<note place="inline">蒲州十九紙</note></item>
+<lb ed="A" n="0184b04"/><item xml:id="itemA098p0184b0401">不思議光菩薩所問經一卷<note place="inline">亦云不思議
+<lb ed="A" n="0184b05"/>光菩薩所說經亦云無思孩童菩薩經</note>　<note place="inline">蒲州十二紙</note></item>
+<lb ed="A" n="0184b06"/><item xml:id="itemA098p0184b0601">十住斷結經十卷<note place="inline"><g ref="#CB08764">㝡</g>聲聞菩薩十住除垢斷結經一名十千日光三昧定亦云十
+<lb ed="A" n="0184b07"/>地斷結經或十一卷或十四卷</note>　<note place="inline">蒲州三百五十四紙</note></item>
+<lb ed="A" n="0184b08"/><item xml:id="itemA098p0184b0801">諸佛要集經二卷<note place="inline">亦直云要集經天竺日佛陀陀僧祇提</note>　<note place="inline">蒲州四十三紙</note></item>
+<lb ed="A" n="0184b09"/><item xml:id="itemA098p0184b0901">未曾有因緣經二卷<note place="inline">或無因緣字度羅沙彌序　蒲州四十紙</note></item>
+<lb ed="A" n="0184b10"/><item xml:id="itemA098p0184b1001">菩薩瓔珞經十二卷<note place="inline">一名現在報或十四卷或十六卷或十二卷或二十卷　蒲州一百三十七紙</note></item>
+<lb ed="A" n="0184b11"/><item xml:id="itemA098p0184b1101">超日明三昧經二卷<note place="inline">或直云超日明經三卷</note>　<note place="inline">蒲州四十八紙</note></item>
+<pb ed="A" xml:id="A098.1276.0185a" n="0185a"/>
+<lb ed="A" n="0185a01"/><item xml:id="itemA098p0185a0101">賢幻經十三卷<note place="inline">題云<unclear></unclear>陀刧三昧晉日賢刧定意經或十卷或七卷一帙　蒲州一百九十一紙</note>
+<lb ed="A" n="0185a02"/>舊錄云賢刧三昧經</item></list>
+<lb ed="A" n="0185a03"/><list><item xml:id="itemA098p0185a0301">觀自在菩薩隨心祝經一卷<note place="inline">亦云多利心經凡二十一帙　二十八紙</note>
+<lb ed="A" n="0185a04"/><list><item xml:id="itemA098p0185a0401">觀自在菩薩隨心祝經一卷
+<lb ed="A" n="0185a05"/><list><item xml:id="itemA098p0185a0501">右大唐永徽四年大揔持寺沙門智
+<lb ed="A" n="0185a06"/>通於揔持寺譯見開元錄</item></list></item></list></item>
+<lb ed="A" n="0185a07"/><item xml:id="itemA098p0185a0701">種種雜祝經<note place="inline">或無經字雜祝揔二十三首七紙</note>
+<lb ed="A" n="0185a08"/><list><item xml:id="itemA098p0185a0801">種種雜祝經<note place="inline">周宇文氏天笁三藏閑那崛多譯</note>
+<lb ed="A" n="0185a09"/><list><item xml:id="itemA098p0185a0901">法華經內祝六首
+<lb ed="A" n="0185a10"/><list><item xml:id="itemA098p0185a1001">第一藥王菩薩說</item><item xml:id="itemA098p0185a1008">第二勇施菩薩說</item>
+<lb ed="A" n="0185a11"/><item xml:id="itemA098p0185a1101">第三毗沙門天王說</item><item xml:id="itemA098p0185a1109">第四持國天王說</item>
+<lb ed="A" n="0185a12"/><item xml:id="itemA098p0185a1201">第五十羅剎女共說</item><item xml:id="itemA098p0185a1209">第六普賢菩薩說</item></list></item>
+<pb ed="A" xml:id="A098.1276.0185b" n="0185b"/>
+<lb ed="A" n="0185b01"/><item xml:id="itemA098p0185b0101">旋塔滅罪陀羅尼</item>
+<lb ed="A" n="0185b02"/><item xml:id="itemA098p0185b0201">禮拜滅罪命諸佛來迎祝</item>
+<lb ed="A" n="0185b03"/><item xml:id="itemA098p0185b0301">供養三寶祝</item><item xml:id="itemA098p0185b0306">觀世音懺悔祝</item>
+<lb ed="A" n="0185b04"/><item xml:id="itemA098p0185b0401">金剛祝蛇祝</item><item xml:id="itemA098p0185b0406">坐禪安隱祝</item>
+<lb ed="A" n="0185b05"/><item xml:id="itemA098p0185b0501">祝腫祝</item><item xml:id="itemA098p0185b0504">金剛祝治惡鬼病</item>
+<lb ed="A" n="0185b06"/><item xml:id="itemA098p0185b0601">千轉陀羅尼</item>
+<lb ed="A" n="0185b07"/><item xml:id="itemA098p0185b0701">觀世音隨心祝<anchor xml:id="beg_49" type="cb-app"/>四<anchor xml:id="end_49"/>首
+<lb ed="A" n="0185b08"/><list><item xml:id="itemA098p0185b0801">第一滅罪清淨祝</item><item xml:id="itemA098p0185b0808">第二祝<note place="inline">無怖畏</note></item>
+<lb ed="A" n="0185b09"/><item xml:id="itemA098p0185b0901">第三祝<note place="inline">淨業障</note></item><item xml:id="itemA098p0185b0907">第四祝<note place="inline">嗔者歡喜</note></item></list></item>
+<lb ed="A" n="0185b10"/><item xml:id="itemA098p0185b1001">七俱胝佛神祝</item><item xml:id="itemA098p0185b1007">隨一切如來意神祝</item>
+<lb ed="A" n="0185b11"/><item xml:id="itemA098p0185b1101">六字陀羅尼祝</item><item xml:id="itemA098p0185b1107">歸依三寶祝
+<pb ed="A" xml:id="A098.1276.0186a" n="0186a"/>
+<lb ed="A" n="0186a01"/><list><item xml:id="itemA098p0186a0101">右周宇文氏天竺三藏闍那崛多於
+<lb ed="A" n="0186a02"/>益州龍泉寺譯見費長房錄</item></list></item></list></item></list></item>
+<lb ed="A" n="0186a03"/><item xml:id="itemA098p0186a0301">佛頂勝陀羅尼經<note place="inline">第一譯　八紙</note>
+<lb ed="A" n="0186a04"/><list><item xml:id="itemA098p0186a0401">佛頂勝陀羅尼經<note place="inline">杜行顗奉<anchor xml:id="beg_4a" type="cb-app"/>制<anchor xml:id="end_4a"/>譯</note>
+<lb ed="A" n="0186a05"/>　稽首一切智
+<lb ed="A" n="0186a06"/><list><item xml:id="itemA098p0186a0601">右大唐儀鳳四年正月五日朝<g ref="#CB09201">󲏱</g>郎
+<lb ed="A" n="0186a07"/>杜行顗奉<anchor xml:id="beg_4b" type="cb-app"/>制<anchor xml:id="end_4b"/>譯見大周錄寧速脟
+<lb ed="A" n="0186a08"/>軍度婆等證義及三藏地婆訶羅
+<lb ed="A" n="0186a09"/>證譯</item></list></item></list></item>
+<lb ed="A" n="0186a10"/><item xml:id="itemA098p0186a1001">佛頂<g ref="#CB08764">㝡</g>勝陀羅尼經<note place="inline">第二譯　九紙</note>
+<lb ed="A" n="0186a11"/><list><item xml:id="itemA098p0186a1101">佛頂<g ref="#CB08764">㝡</g>勝陀羅尼經字
+<lb ed="A" n="0186a12"/>　大輪金剛陀羅尼地婆訶羅譯<note place="inline">沙門彥琮</note>
+<pb ed="A" xml:id="A098.1276.0186b" n="0186b"/>
+<lb ed="A" n="0186b01"/><list><item xml:id="itemA098p0186b0101">右大唐永淳元年五月二十三日天竺
+<lb ed="A" n="0186b02"/>沙門地婆訶羅於京<g ref="#CB10485">󲣵</g>福寺共沙門彥
+<lb ed="A" n="0186b03"/>琮譯琮兼製序見經前序<unclear></unclear>開元
+<lb ed="A" n="0186b04"/>錄
+<lb ed="A" n="0186b05"/><list><item xml:id="itemA098p0186b0501">上三經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0186b06"/><item xml:id="itemA098p0186b0601">佛頂尊勝陀羅尼經一卷<note place="inline">第三譯　八紙</note>
+<lb ed="A" n="0186b07"/><list><item xml:id="itemA098p0186b0701">佛頂尊勝陀羅尼經一卷<note place="inline">罽賔沙門佛陀波利奉　詔譯</note>
+<lb ed="A" n="0186b08"/><list><item xml:id="itemA098p0186b0801">右大唐天皇時罽賔沙門佛陀波
+<lb ed="A" n="0186b09"/>利於西明寺譯見大周錄及經前序</item></list></item></list></item>
+<lb ed="A" n="0186b10"/><item xml:id="itemA098p0186b1001"><g ref="#CB08764">㝡</g>勝佛頂陀羅尼淨除業障經一卷
+<lb ed="A" n="0186b11"/><note place="inline">第四譯　十五紙日照三藏再譯</note>
+<pb ed="A" xml:id="A098.1276.0187a" n="0187a"/>
+<lb ed="A" n="0187a01"/><list><item xml:id="itemA098p0187a0101">佛說<g ref="#CB08764">㝡</g>勝佛頂陀羅尼經<note place="inline">中天竺沙門三藏地婆訶羅奉制譯</note>
+<lb ed="A" n="0187a02"/><list><item xml:id="itemA098p0187a0201">右大唐中天竺三藏地婆訶羅於東
+<lb ed="A" n="0187a03"/>都共沙門慧智再譯前緣後法二文
+<lb ed="A" n="0187a04"/>並廣見開元錄
+<lb ed="A" n="0187a05"/><list><item xml:id="itemA098p0187a0501">上二經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0187a06"/><item xml:id="itemA098p0187a0601">佛頂尊勝陀羅尼經一卷<note place="inline">義淨譯第五譯或加祝字　九紙</note>
+<lb ed="A" n="0187a07"/><list><item xml:id="itemA098p0187a0701">佛說佛頂尊勝陀羅尼經一卷<note place="inline">三藏法師義淨奉<anchor xml:id="beg_4c" type="cb-app"/>制<anchor xml:id="end_4c"/>譯</note>
+<lb ed="A" n="0187a08"/><list><item xml:id="itemA098p0187a0801">右大唐景龍四年四月十五日三藏法師
+<lb ed="A" n="0187a09"/>義淨於大薦福寺翻經院譯見開元錄</item></list></item></list></item>
+<lb ed="A" n="0187a10"/><item xml:id="itemA098p0187a1001">無量門微密持經一卷<note place="inline">一名成道降魔得一切智經第一譯六紙</note>
+<lb ed="A" n="0187a11"/><list><item xml:id="itemA098p0187a1101">無量門微密持經一卷<note place="inline">一名成道降魔得一切智</note>
+<lb ed="A" n="0187a12"/><list><item xml:id="itemA098p0187a1201">右吳代支謙譯見僧叡二秦錄
+<pb ed="A" xml:id="A098.1276.0187b" n="0187b"/>
+<lb ed="A" n="0187b01"/><list><item xml:id="itemA098p0187b0101">上二經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0187b02"/><item xml:id="itemA098p0187b0201">出生無量門持經一卷<note place="inline">或云新<g ref="#CB13287">󳏧</g>密持經第四譯　八紙</note>
+<lb ed="A" n="0187b03"/><list><item xml:id="itemA098p0187b0301">出生無量門持經一卷
+<lb ed="A" n="0187b04"/><list><item xml:id="itemA098p0187b0401">右東晉天竺沙門佛陀跋陀羅於廬小
+<lb ed="A" n="0187b05"/>譯見竺道祖等錄沙門法業等筆受</item></list></item></list></item>
+<lb ed="A" n="0187b06"/><item xml:id="itemA098p0187b0601">阿難陀目佉尼訶離陀隣尼經一卷<note place="inline">一名無量微
+<lb ed="A" n="0187b07"/>密於經一名跋陀羅<g ref="#CB13287">󳏧</g>量門神經一名功德直<unclear></unclear>魔陀羅尼經　第八譯十一紙</note>
+<lb ed="A" n="0187b08"/><list><item xml:id="itemA098p0187b0801">佛說阿難陀目佉尼訶離陀隣尼經一卷
+<lb ed="A" n="0187b09"/><list><item xml:id="itemA098p0187b0901">右元魏天竺沙門佛陀扇多於洛陽白
+<lb ed="A" n="0187b10"/>馬寺及鄴都金華寺譯見費長房
+<lb ed="A" n="0187b11"/>錄沙門曇林等筆受
+<pb ed="A" xml:id="A098.1276.0188a" n="0188a"/>
+<lb ed="A" n="0188a01"/><list><item xml:id="itemA098p0188a0101">上二經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0188a02"/><item xml:id="itemA098p0188a0201"><anchor xml:id="beg_4d" type="cb-app"/>無<anchor xml:id="end_4d"/>量門破魔陀羅尼經一卷<note place="inline">或直云破魔陀羅尼經第十譯　十二紙</note>
+<lb ed="A" n="0188a03"/><list><item xml:id="itemA098p0188a0301">佛說無量門破魔陀羅尼經一卷
+<lb ed="A" n="0188a04"/><note place="inline">宋大明年功德直於荊州譯</note>
+<lb ed="A" n="0188a05"/><list><item xml:id="itemA098p0188a0501">右宋大明六年天竺沙門功德直於荊州
+<lb ed="A" n="0188a06"/>禪房寺譯見僧祐錄沙門玄暢筆受</item></list></item></list></item>
+<lb ed="A" n="0188a07"/><item xml:id="itemA098p0188a0701">阿難陀目佉尼呵離陀經一卷<note place="inline">或云出無量門時經　第六譯
+<lb ed="A" n="0188a08"/>十經<g ref="#CB08764">㝡</g>云阿<unclear></unclear><unclear></unclear>自怯尼訶難陀隣尼經</note>
+<lb ed="A" n="0188a09"/><list><item xml:id="itemA098p0188a0901">阿難陀目佉尼呵離陀經一卷
+<lb ed="A" n="0188a10"/><list><item xml:id="itemA098p0188a1001">右宋元嘉年天竺三藏求那跋陀羅
+<lb ed="A" n="0188a11"/>於楊都譯見費長房錄</item></list></item></list></item>
+<lb ed="A" n="0188a12"/><item xml:id="itemA098p0188a1201">勝<anchor xml:id="beg_4e" type="cb-app"/>幢<anchor xml:id="end_4e"/>臂印陀羅尼經一卷<note place="inline">第一譯</note>
+<pb ed="A" xml:id="A098.1276.0188b" n="0188b"/>
+<lb ed="A" n="0188b01"/><list><item xml:id="itemA098p0188b0101">勝<anchor xml:id="beg_4f" type="cb-app"/>幢<anchor xml:id="end_4f"/>臂印陀羅尼經一卷<note place="inline">三藏法師玄奘奉　詔譯</note>
+<lb ed="A" n="0188b02"/><list><item xml:id="itemA098p0188b0201">右大唐永徽五年九月二十九日三藏
+<lb ed="A" n="0188b03"/>法師玄奘於大慈恩寺翻經院譯見
+<lb ed="A" n="0188b04"/>內典錄沙門大乘雲筆受
+<lb ed="A" n="0188b05"/><list><item xml:id="itemA098p0188b0501">上二經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0188b06"/><item xml:id="itemA098p0188b0601">一向出生菩薩經一卷<note place="inline">十四紙　第十譯</note>
+<lb ed="A" n="0188b07"/><list><item xml:id="itemA098p0188b0701">佛說一向出生菩薩經一卷<note place="inline">隋開皇年崛多等大興善寺譯</note>
+<lb ed="A" n="0188b08"/><list><item xml:id="itemA098p0188b0801">右隋開皇五年十一月沙門闍那崛
+<lb ed="A" n="0188b09"/>多譯十二月訖見費長房錄彥琮製
+<lb ed="A" n="0188b10"/>序沙門圓明等筆受</item></list></item></list></item>
+<lb ed="A" n="0188b11"/><item xml:id="itemA098p0188b1101">出生無邊門陀羅尼經一卷<note place="inline">第十一譯十七紙</note>
+<pb ed="A" xml:id="A098.1276.0189a" n="0189a"/>
+<lb ed="A" n="0189a01"/><list><item xml:id="itemA098p0189a0101">出生無邊門陀羅尼經一卷
+<lb ed="A" n="0189a02"/><list><item xml:id="itemA098p0189a0201">右大唐開元九年至相寺沙門釋智
+<lb ed="A" n="0189a03"/>嚴於奉恩寺譯見開元錄</item></list></item></list></item>
+<lb ed="A" n="0189a04"/><item xml:id="itemA098p0189a0401">舍利弗陀羅尼經一卷<note place="inline">第九譯　九紙</note>
+<lb ed="A" n="0189a05"/><list><item xml:id="itemA098p0189a0501">舍利弗陀羅尼經一卷
+<lb ed="A" n="0189a06"/><list><item xml:id="itemA098p0189a0601">右梁代扶南沙門僧伽婆羅於楊都
+<lb ed="A" n="0189a07"/>占雲舘等處譯見費長房錄</item></list></item></list></item>
+<lb ed="A" n="0189a08"/><item xml:id="itemA098p0189a0801">妙臂印<anchor xml:id="beg_50" type="cb-app"/>幢<anchor xml:id="end_50"/>陀羅尼經一卷<note place="inline">二紙第二譯別有一本六十紙非是本經不可流布</note>
+<lb ed="A" n="0189a09"/><list><item xml:id="itemA098p0189a0901">妙臂印<anchor xml:id="beg_51" type="cb-app"/>幢<anchor xml:id="end_51"/>陀羅尼經一卷
+<lb ed="A" n="0189a10"/><list><item xml:id="itemA098p0189a1001">右大周于闐國三藏實叉難陀譯見
+<lb ed="A" n="0189a11"/>開元錄
+<lb ed="A" n="0189a12"/><list><item xml:id="itemA098p0189a1201">上二經同卷
+<pb ed="A" xml:id="A098.1276.0189b" n="0189b"/>
+<lb ed="A" n="0189b01"/><list><item xml:id="itemA098p0189b0101">上十七經十卷同帙</item></list></item></list></item></list></item></list></item>
+<lb ed="A" n="0189b02"/><item xml:id="itemA098p0189b0201">無崖際持法門經一卷<note place="inline">一名無際經一名金剛首女所問經十七紙　第一譯</note>
+<lb ed="A" n="0189b03"/><list><item xml:id="itemA098p0189b0301">佛說無崖際持法門經一卷<note place="inline">西秦世法豎譯</note>
+<lb ed="A" n="0189b04"/><list><item xml:id="itemA098p0189b0401">右西秦沙門釋聖堅見始興及法上錄</item></list></item></list></item>
+<lb ed="A" n="0189b05"/><item xml:id="itemA098p0189b0501">尊勝菩薩入無量門陀羅尼經一卷
+<lb ed="A" n="0189b06"/><note place="inline">一名入無量門陀羅尼經一名尊勝菩薩所問經　第三譯　十九紙</note>
+<lb ed="A" n="0189b07"/><list><item xml:id="itemA098p0189b0701">尊勝菩薩所問一切諸法入無量門陀
+<lb ed="A" n="0189b08"/>羅尼經一卷
+<lb ed="A" n="0189b09"/><list><item xml:id="itemA098p0189b0901">右後齊河清年中居上方天懿於鄴都
+<lb ed="A" n="0189b10"/>譯見費長房錄</item></list></item></list></item>
+<lb ed="A" n="0189b11"/><item xml:id="itemA098p0189b1101">金剛上味陀羅尼經一卷<note place="inline">十六紙第一譯或二卷</note>
+<pb ed="A" xml:id="A098.1276.0190a" n="0190a"/>
+<lb ed="A" n="0190a01"/><list><item xml:id="itemA098p0190a0101">金剛上味陀羅尼經一卷<note place="inline">佛陀扇多譯沙門曇林筆</note>
+<lb ed="A" n="0190a02"/><list><item xml:id="itemA098p0190a0201">右後魏正光六年天竺沙門佛陀扇
+<lb ed="A" n="0190a03"/>多於洛陽白馬寺譯見費長房錄
+<lb ed="A" n="0190a04"/>沙門曇林之筆受</item></list></item></list></item>
+<lb ed="A" n="0190a05"/><item xml:id="itemA098p0190a0501">金剛場陀羅尼經一卷<note place="inline">第二譯　十六紙</note>
+<lb ed="A" n="0190a06"/><list><item xml:id="itemA098p0190a0601">金剛場陀羅尼經一卷<note place="inline">三藏法師闍那崛多譯</note>
+<lb ed="A" n="0190a07"/><list><item xml:id="itemA098p0190a0701">右隋開皇七年六月三藏闍那崛多
+<lb ed="A" n="0190a08"/>譯至八月訖見費長房錄彥琮製
+<lb ed="A" n="0190a09"/>序沙門僧琨等筆受</item></list></item></list></item>
+<lb ed="A" n="0190a10"/><item xml:id="itemA098p0190a1001">華積陀羅尼祝經一卷<note place="inline">三紙　或無神祝字</note>
+<lb ed="A" n="0190a11"/><list><item xml:id="itemA098p0190a1101">佛說華積陀羅尼神祝經
+<lb ed="A" n="0190a12"/><list><item xml:id="itemA098p0190a1201">右吳代支謙譯見寶唱錄</item></list></item></list></item>
+<pb ed="A" xml:id="A098.1276.0190b" n="0190b"/>
+<lb ed="A" n="0190b01"/><item xml:id="itemA098p0190b0101">六字祝王經一卷<note place="inline">第一譯　五紙</note>
+<lb ed="A" n="0190b02"/><list><item xml:id="itemA098p0190b0201">六字祝王經一卷
+<lb ed="A" n="0190b03"/><list><item xml:id="itemA098p0190b0301">右東晉失譯見開元錄</item></list></item></list></item>
+<lb ed="A" n="0190b04"/><item xml:id="itemA098p0190b0401">師子奮迅菩薩所問經一卷<note place="inline">三紙</note>
+<lb ed="A" n="0190b05"/><list><item xml:id="itemA098p0190b0501">師子奮迅菩薩所問經一卷
+<lb ed="A" n="0190b06"/><list><item xml:id="itemA098p0190b0601">右東晉失譯見開元錄</item></list></item></list></item>
+<lb ed="A" n="0190b07"/><item xml:id="itemA098p0190b0701">華聚陀羅尼祝經一卷<note place="inline">三紙或無祝字</note>
+<lb ed="A" n="0190b08"/><list><item xml:id="itemA098p0190b0801">華聚陀羅尼祝經一卷
+<lb ed="A" n="0190b09"/><list><item xml:id="itemA098p0190b0901">右東晉失譯見開元錄
+<lb ed="A" n="0190b10"/><list><item xml:id="itemA098p0190b1001">上四經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0190b11"/><item xml:id="itemA098p0190b1101">六字神祝經一卷<note place="inline">五紙或加王字　第二譯</note>
+<pb ed="A" xml:id="A098.1276.0191a" n="0191a"/>
+<lb ed="A" n="0191a01"/><list><item xml:id="itemA098p0191a0101">六字神祝王經一卷
+<lb ed="A" n="0191a02"/><list><item xml:id="itemA098p0191a0201">右梁代失譯見開元錄</item></list></item></list></item>
+<lb ed="A" n="0191a03"/><item xml:id="itemA098p0191a0301">虛空藏菩薩問佛經一卷<note place="inline">亦云虛空藏菩薩問七佛陀羅尼經</note>
+<lb ed="A" n="0191a04"/><list><item xml:id="itemA098p0191a0401">虛空藏菩薩問佛經一卷
+<lb ed="A" n="0191a05"/><list><item xml:id="itemA098p0191a0501">右梁代失譯見開元錄
+<lb ed="A" n="0191a06"/><list><item xml:id="itemA098p0191a0601">上二經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0191a07"/><item xml:id="itemA098p0191a0701">如來方便善巧祝經一卷<note place="inline">第二譯　十二紙</note>
+<lb ed="A" n="0191a08"/><list><item xml:id="itemA098p0191a0801">如來方便善巧祝經一卷<note place="inline">隋三藏法師闍那涅多譯</note>
+<lb ed="A" n="0191a09"/><list><item xml:id="itemA098p0191a0901">右隋開皇七年正月沙門闍那崛多
+<lb ed="A" n="0191a10"/>譯二月訖見費長房錄彥琮製序
+<lb ed="A" n="0191a11"/>沙門僧曇等筆受</item></list></item></list></item>
+<lb ed="A" n="0191a12"/><item xml:id="itemA098p0191a1201">持句神祝經一卷<note place="inline">亦云陀羅尼句</note>
+<pb ed="A" xml:id="A098.1276.0191b" n="0191b"/>
+<lb ed="A" n="0191b01"/><list><item xml:id="itemA098p0191b0101">持句神祝
+<lb ed="A" n="0191b02"/><list><item xml:id="itemA098p0191b0201">右吳代月氏優婆塞支謙譯見費
+<lb ed="A" n="0191b03"/>長房錄</item></list></item></list></item>
+<lb ed="A" n="0191b04"/><item xml:id="itemA098p0191b0401">陀隣尼鉢經一卷<note place="inline">亦云陀隣鉢祝三紙　第二譯</note>
+<lb ed="A" n="0191b05"/><list><item xml:id="itemA098p0191b0501">陀隣尼鉢經一卷
+<lb ed="A" n="0191b06"/><list><item xml:id="itemA098p0191b0601">右東晉孝武帝代太元年中西域沙
+<lb ed="A" n="0191b07"/>門竺曇無蘭於揚都譯見費長房錄
+<lb ed="A" n="0191b08"/><list><item xml:id="itemA098p0191b0801">上三經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0191b09"/><item xml:id="itemA098p0191b0901">東方<g ref="#CB08764">㝡</g>勝燈王如來經一卷<note place="inline">十五紙　第四譯</note>
+<lb ed="A" n="0191b10"/><list><item xml:id="itemA098p0191b1001">東方<g ref="#CB08764">㝡</g>勝燈王如來遣二菩薩送祝奉
+<lb ed="A" n="0191b11"/>釋迦如來助護持世間經一卷
+<pb ed="A" xml:id="A098.1276.0192a" n="0192a"/>
+<lb ed="A" n="0192a01"/>　我闍那崛多歸命大智海毗盧遮那佛
+<lb ed="A" n="0192a02"/><list><item xml:id="itemA098p0192a0201">右隋開皇年沙門闍那崛多等於
+<lb ed="A" n="0192a03"/>京大興善寺譯見內典錄</item></list></item></list></item>
+<lb ed="A" n="0192a04"/><item xml:id="itemA098p0192a0401">善法方便陀羅尼經一卷<note place="inline">第一譯　或加呪字　七紙</note>
+<lb ed="A" n="0192a05"/><list><item xml:id="itemA098p0192a0501">善法方便陀羅尼經一卷
+<lb ed="A" n="0192a06"/><list><item xml:id="itemA098p0192a0601">右東晉失譯見開元錄</item></list></item></list></item>
+<lb ed="A" n="0192a07"/><item xml:id="itemA098p0192a0701">金剛祕密善門陀羅尼經一卷
+<lb ed="A" n="0192a08"/><list><item xml:id="itemA098p0192a0801">金剛祕密善門陀羅尼經一卷
+<lb ed="A" n="0192a09"/><list><item xml:id="itemA098p0192a0901">右東晉失譯見開元錄
+<lb ed="A" n="0192a10"/><list><item xml:id="itemA098p0192a1001">上二經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0192a11"/><item xml:id="itemA098p0192a1101">護命法門神祝經一卷<note place="inline">第三譯　十三紙</note>
+<lb ed="A" n="0192a12"/><list><item xml:id="itemA098p0192a1201">護命法門神祝經一卷<note place="inline">大周菩提留志譯</note>
+<pb ed="A" xml:id="A098.1276.0192b" n="0192b"/>
+<lb ed="A" n="0192b01"/><list><item xml:id="itemA098p0192b0101">右大周長壽二年天竺三藏菩提留
+<lb ed="A" n="0192b02"/>志於神都佛授記寺譯見大周錄沙
+<lb ed="A" n="0192b03"/>門處一等筆受</item></list></item></list></item>
+<lb ed="A" n="0192b04"/><item xml:id="itemA098p0192b0401">無垢淨光陀羅尼經一卷<note place="inline">第二譯或加大字十四紙</note>
+<lb ed="A" n="0192b05"/><list><item xml:id="itemA098p0192b0501">無垢淨光陀羅尼經一卷<note place="inline">三藏法師彌陀山奉　制譯</note>
+<lb ed="A" n="0192b06"/><list><item xml:id="itemA098p0192b0601">右大周天末年西域沙門彌陀山共沙
+<lb ed="A" n="0192b07"/>門法藏等譯見開元錄</item></list></item></list></item>
+<lb ed="A" n="0192b08"/><item xml:id="itemA098p0192b0801">請觀世音經一卷<note place="inline">一名請觀世音經　十三紙　或無世字第二譯南譯一闕　或加祝字</note>
+<lb ed="A" n="0192b09"/><list><item xml:id="itemA098p0192b0901">請觀世音菩薩消伏毒害陀羅尼經
+<lb ed="A" n="0192b10"/>一卷<note place="inline">晉世竺難拔譯</note>
+<lb ed="A" n="0192b11"/><list><item xml:id="itemA098p0192b1101">右東晉代西域居士竺難提譯見法上錄
+<pb ed="A" xml:id="A098.1276.0193a" n="0193a"/>
+<lb ed="A" n="0193a01"/><list><item xml:id="itemA098p0193a0101">上十九經十二卷同帙</item></list></item></list></item></list></item>
+<lb ed="A" n="0193a02"/><item xml:id="itemA098p0193a0201">內藏百寶經<note place="inline">力名內栽百約經　九紙　安公云出方等部　第一譯　兩本問一</note>
+<lb ed="A" n="0193a03"/><list><item xml:id="itemA098p0193a0301">內藏百寶經一卷
+<lb ed="A" n="0193a04"/><list><item xml:id="itemA098p0193a0401">右後漢桓虛帝代月氏國沙門支婁
+<lb ed="A" n="0193a05"/>迦讖譯見僧祐錄<note place="inline">河南清信士孟福張進等筆受</note></item></list></item></list></item>
+<lb ed="A" n="0193a06"/><item xml:id="itemA098p0193a0601">溫室洗浴眾僧經一卷<note place="inline">亦直云溫室經第一譯兩本闕一　三紙</note>
+<lb ed="A" n="0193a07"/><list><item xml:id="itemA098p0193a0701">溫室洗浴眾僧經一卷
+<lb ed="A" n="0193a08"/><list><item xml:id="itemA098p0193a0801">右後漢代安息國沙門安世高譯見
+<lb ed="A" n="0193a09"/>費長房錄
+<lb ed="A" n="0193a10"/><list><item xml:id="itemA098p0193a1001">上二經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0193a11"/><item xml:id="itemA098p0193a1101">須賴經一卷<note place="inline">或名須賴菩薩經　第三譯四譯剛三本　三十一紙</note>
+<lb ed="A" n="0193a12"/><list><item xml:id="itemA098p0193a1201">須賴經一卷
+<pb ed="A" xml:id="A098.1276.0193b" n="0193b"/>
+<lb ed="A" n="0193b01"/><list><item xml:id="itemA098p0193b0101">右前涼咸安三年月氏優婆塞支施
+<lb ed="A" n="0193b02"/>崘於涼州州內譯歸慈王子帛延傅
+<lb ed="A" n="0193b03"/>語見經後記及開元錄<note place="inline">常侍趙澗等筆受</note></item></list></item></list></item>
+<lb ed="A" n="0193b04"/><item xml:id="itemA098p0193b0401">私訶昧經一卷<note place="inline">或云私訶末經一名菩薩道樹經亦名道樹三昧<unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear></note>
+<lb ed="A" n="0193b05"/><list><item xml:id="itemA098p0193b0501">私訶昧經一卷
+<lb ed="A" n="0193b06"/><list><item xml:id="itemA098p0193b0601">右吳代月氏國優婆塞支謙譯見釋
+<lb ed="A" n="0193b07"/>道安支敏度等錄</item></list></item></list></item>
+<lb ed="A" n="0193b08"/><item xml:id="itemA098p0193b0801">菩薩生地經一卷<note place="inline">三紙一名羌摩羯所問經　第一譯</note>
+<lb ed="A" n="0193b09"/><list><item xml:id="itemA098p0193b0901">菩薩生地經一卷
+<lb ed="A" n="0193b10"/><list><item xml:id="itemA098p0193b1001">右吳代支謙譯見竺道祖吳錄</item></list></item></list></item>
+<lb ed="A" n="0193b11"/><item xml:id="itemA098p0193b1101">四不可得經一卷<note place="inline">五紙　第二譯　兩本　則一</note>
+<pb ed="A" xml:id="A098.1276.0194a" n="0194a"/>
+<lb ed="A" n="0194a01"/><list><item xml:id="itemA098p0194a0101">四不可得經一卷
+<lb ed="A" n="0194a02"/><list><item xml:id="itemA098p0194a0201">右西晉沙門竺法護譯見聶道真釋
+<lb ed="A" n="0194a03"/>正度等錄清信士聶承遠筆受</item></list></item></list></item>
+<lb ed="A" n="0194a04"/><item xml:id="itemA098p0194a0401">梵女首意經一卷<note place="inline">六紙　第一譯　兩本闕一一名首意女紙　或加志字</note>
+<lb ed="A" n="0194a05"/><list><item xml:id="itemA098p0194a0501">梵女首意經一卷<note place="inline">晉世竺法護譯</note>
+<lb ed="A" n="0194a06"/><list><item xml:id="itemA098p0194a0601">右西晉沙門竺法護譯見僧祐錄清信
+<lb ed="A" n="0194a07"/>士聶承遠筆受
+<lb ed="A" n="0194a08"/><list><item xml:id="itemA098p0194a0801">上三經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0194a09"/><item xml:id="itemA098p0194a0901">成具光明定意經一卷<note place="inline">或云<anchor xml:id="beg_52" type="cb-app"/>成<anchor xml:id="end_52"/>具光明經　一云成具光明三昧經　二十五紙　第五譯南闕一</note>
+<lb ed="A" n="0194a10"/><list><item xml:id="itemA098p0194a1001">成具光明定意經一卷
+<lb ed="A" n="0194a11"/><list><item xml:id="itemA098p0194a1101">右後漢靈帝中平二年西域沙門支曜
+<lb ed="A" n="0194a12"/>於洛陽譯見朱士行等錄</item></list></item></list></item>
+<pb ed="A" xml:id="A098.1276.0194b" n="0194b"/>
+<lb ed="A" n="0194b01"/><item xml:id="itemA098p0194b0101">寶網經一卷<note place="inline">二十七紙　第一譯　一名寶網意子經　兩本闕一</note>
+<lb ed="A" n="0194b02"/><list><item xml:id="itemA098p0194b0201">佛說寶網經一卷<note place="inline">一晉世竺法護譯</note>
+<lb ed="A" n="0194b03"/><list><item xml:id="itemA098p0194b0301">右西晉沙門笁法護譯見聶道真等錄
+<lb ed="A" n="0194b04"/>清信士聶承遠等筆受</item></list></item></list></item>
+<lb ed="A" n="0194b05"/><item xml:id="itemA098p0194b0501">菩薩修行經一卷<note place="inline">亦名威施長者問觀身行經第二譯一名長者修行經　八紙</note>
+<lb ed="A" n="0194b06"/><list><item xml:id="itemA098p0194b0601">菩薩修行經二卷<note place="inline">亦名威施長者問觀身行經</note>
+<lb ed="A" n="0194b07"/><list><item xml:id="itemA098p0194b0701">右西晉惠帝代河內沙門白法祖譯
+<lb ed="A" n="0194b08"/>見費長房錄</item></list></item></list></item>
+<lb ed="A" n="0194b09"/><item xml:id="itemA098p0194b0901">菩薩行五十緣身經<note place="inline">亦名菩薩緣身經亦云菩薩緣身五十事經七紙第二譯亦云五十緣身行經</note>
+<lb ed="A" n="0194b10"/><list><item xml:id="itemA098p0194b1001">菩薩行五十緣身經
+<lb ed="A" n="0194b11"/><list><item xml:id="itemA098p0194b1101">右西晉沙門竺法護譯見竺道祖僧
+<pb ed="A" xml:id="A098.1276.0195a" n="0195a"/>
+<lb ed="A" n="0195a01"/>祐二錄清信士聶承遠筆受
+<lb ed="A" n="0195a02"/><list><item xml:id="itemA098p0195a0201">上二經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0195a03"/><item xml:id="itemA098p0195a0301">福田經一卷<note place="inline">一名諸福田經一名福田地經第一譯　六紙　兩本闕一</note>
+<lb ed="A" n="0195a04"/><list><item xml:id="itemA098p0195a0401">諸福田經一卷<note place="inline">晉世法炬法立等譯</note>
+<lb ed="A" n="0195a05"/><list><item xml:id="itemA098p0195a0501">右西晉惠帝代沙門法立共法炬等
+<lb ed="A" n="0195a06"/>於洛楊譯見僧祐錄</item></list></item></list></item>
+<lb ed="A" n="0195a07"/><item xml:id="itemA098p0195a0701">大方等如來藏經一卷<note place="inline">一名佛藏方等經十紙　第三譯闕二</note>
+<lb ed="A" n="0195a08"/><list><item xml:id="itemA098p0195a0801">大方等如來藏經一卷<note place="inline">晉義熙年佛陀跋陀羅譯</note>
+<lb ed="A" n="0195a09"/><list><item xml:id="itemA098p0195a0901">右東晉元熙二年天竺沙門佛陀跋陀羅
+<lb ed="A" n="0195a10"/>於楊都道場寺譯見竺道祖晉世雜錄
+<lb ed="A" n="0195a11"/><list><item xml:id="itemA098p0195a1101">上二經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0195a12"/><item xml:id="itemA098p0195a1201">佛語經一卷<note place="inline">四紙　第一譯　兩本闕一</note>
+<pb ed="A" xml:id="A098.1276.0195b" n="0195b"/>
+<lb ed="A" n="0195b01"/><list><item xml:id="itemA098p0195b0101">佛語經一卷
+<lb ed="A" n="0195b02"/><list><item xml:id="itemA098p0195b0201">右後魏天竺沙門菩提留支譯見費
+<lb ed="A" n="0195b03"/>長房錄僧朗筆受</item></list></item></list></item>
+<lb ed="A" n="0195b04"/><item xml:id="itemA098p0195b0401">金色王經一卷<note place="inline">十紙　第二譯　兩本闕一</note>
+<lb ed="A" n="0195b05"/><list><item xml:id="itemA098p0195b0501">金色王經一卷<note place="inline">後魏留支譯</note>
+<lb ed="A" n="0195b06"/><list><item xml:id="itemA098p0195b0601">右後魏興和四年優婆塞瞿曇般若
+<lb ed="A" n="0195b07"/>流支於鄴城金華寺譯見費長房錄
+<lb ed="A" n="0195b08"/>沙門曇林筆受
+<lb ed="A" n="0195b09"/><list><item xml:id="itemA098p0195b0901">上二經同卷</item></list></item></list></item></list></item>
+<lb ed="A" n="0195b10"/><item xml:id="itemA098p0195b1001">演道俗業經一卷<note place="inline">一云無業字第二譯兩本闕一十一紙</note>
+<lb ed="A" n="0195b11"/><list><item xml:id="itemA098p0195b1101">佛說演道俗業經一卷
+<pb ed="A" xml:id="A098.1276.0196a" n="0196a"/>
+<lb ed="A" n="0196a01"/><list><item xml:id="itemA098p0196a0101">右西秦太初年沙門聖堅譯見法上錄</item></list></item></list></item>
+<lb ed="A" n="0196a02"/><item xml:id="itemA098p0196a0201">百佛名經一卷<note place="inline">七紙第二譯兩本闕一</note>
+<lb ed="A" n="0196a03"/><list><item xml:id="itemA098p0196a0301">佛說百佛名經一卷
+<lb ed="A" n="0196a04"/><list><item xml:id="itemA098p0196a0401">右隋開皇二年十二月沙門那連提
+<lb ed="A" n="0196a05"/>耶舍於大興善寺譯見費長房錄
+<lb ed="A" n="0196a06"/>沙門惠獻筆受
+<lb ed="A" n="0196a07"/><list><item xml:id="itemA098p0196a0701">上二經同卷
+<lb ed="A" n="0196a08"/><list><item xml:id="itemA098p0196a0801">上十七經十卷同帙</item></list></item></list></item></list></item></list></item>
+<lb ed="A" n="0196a09"/><item xml:id="itemA098p0196a0901">稱揚諸佛功德經一部三卷<note place="inline">一名藥諸佛華經六十六紙
+<lb ed="A" n="0196a10"/>一名集華經第三譯或四卷一名現在佛名經</note>
+<lb ed="A" n="0196a11"/><list><item xml:id="itemA098p0196a1101">佛說稱揚諸佛功德經卷上<note place="inline">亦名集諸佛華經</note></item>
+<lb ed="A" n="0196a12"/><item xml:id="itemA098p0196a1201">佛說稱揚諸佛功德經卷中</item>
+<pb ed="A" xml:id="A098.1276.0196b" n="0196b"/>
+<lb ed="A" n="0196b01"/><item xml:id="itemA098p0196b0101">佛說稱揚諸佛功德經卷下
+<lb ed="A" n="0196b02"/><list><item xml:id="itemA098p0196b0201">右後魏延興二年西域沙門吉迦
+<lb ed="A" n="0196b03"/>夜與曇曜於北臺譯見道慧宋齊錄
+<lb ed="A" n="0196b04"/>劉孝摽筆受</item></list></item></list></item>
+<lb ed="A" n="0196b05"/><item xml:id="itemA098p0196b0501">須真天子經一部三卷<note place="inline">或名須真天子所問經亦云問四事經
+<lb ed="A" n="0196b06"/>五十三紙第一譯或二卷凡十品或四卷</note>
+<lb ed="A" n="0196b07"/><list><item xml:id="itemA098p0196b0701">佛說須真天子經所問四事品第一
+<lb ed="A" n="0196b08"/><note place="inline">晉太始年竺法護譯</note></item>
+<lb ed="A" n="0196b09"/><item xml:id="itemA098p0196b0901">須真天子經荅法義品第二<note place="inline">卷第二</note></item>
+<lb ed="A" n="0196b10"/><item xml:id="itemA098p0196b1001">須真天子經法純淑品第三</item>
+<lb ed="A" n="0196b11"/><item xml:id="itemA098p0196b1101">須真天子經聲聞品第四</item>
+<pb ed="A" xml:id="A098.1276.0197a" n="0197a"/>
+<lb ed="A" n="0197a01"/><item xml:id="itemA098p0197a0101">須真天子經無畏品第五</item>
+<lb ed="A" n="0197a02"/><item xml:id="itemA098p0197a0201">須真天子經住道品第六<note place="inline">卷第三</note></item>
+<lb ed="A" n="0197a03"/><item xml:id="itemA098p0197a0301">須真天子經菩薩行品第七</item>
+<lb ed="A" n="0197a04"/><item xml:id="itemA098p0197a0401">須真天子經分別品第八</item>
+<lb ed="A" n="0197a05"/><item xml:id="itemA098p0197a0501">須真天子經頌偈品第九</item>
+<lb ed="A" n="0197a06"/><item xml:id="itemA098p0197a0601">須真天子經道類品第十
+<lb ed="A" n="0197a07"/><list><item xml:id="itemA098p0197a0701">右西晉太始二年十一月八日沙門竺法
+<lb ed="A" n="0197a08"/>護於長安青門外白馬寺譯至十二
+<lb ed="A" n="0197a09"/>月三十日畢安文惠等傳語見笁道
+<lb ed="A" n="0197a10"/>祖等錄聶承遠等筆受</item></list></item></list></item>
+<lb ed="A" n="0197a11"/><item xml:id="itemA098p0197a1101">摩訶摩邪經一卷<note place="inline">或二卷一名佛昇忉利天為母說注三十紙亦直云
+<lb ed="A" n="0197a12"/>摩邪經第二譯兩本闕一</note>
+<pb ed="A" xml:id="A098.1276.0197b" n="0197b"/>
+<lb ed="A" n="0197b01"/><list><item xml:id="itemA098p0197b0101">摩訶摩耶經一卷<note place="inline">一名佛昇忉利天為母說法</note>
+<lb ed="A" n="0197b02"/><list><item xml:id="itemA098p0197b0201">右南齊沙門曇景於楊都譯見王宗
+<lb ed="A" n="0197b03"/>寶唱等錄</item></list></item></list></item>
+<lb ed="A" n="0197b04"/><item xml:id="itemA098p0197b0401">除恐災患經一卷<note place="inline">二十紙　第二譯　兩本闕一</note>
+<lb ed="A" n="0197b05"/><list><item xml:id="itemA098p0197b0501">除恐災患經一卷
+<lb ed="A" n="0197b06"/><list><item xml:id="itemA098p0197b0601">右西秦太初年沙門聖堅譯見始興
+<lb ed="A" n="0197b07"/>寶唱法上三秦錄</item></list></item></list></item>
+<lb ed="A" n="0197b08"/><item xml:id="itemA098p0197b0801">學鈔經一卷<note place="inline">二十一紙　第二譯或云學經鈔或云學經　第三譯</note>
+<lb ed="A" n="0197b09"/><list><item xml:id="itemA098p0197b0901">學鈔經一卷<note place="inline">第五藏</note>
+<lb ed="A" n="0197b10"/><list><item xml:id="itemA098p0197b1001">右吳代月氏國優婆塞支謙譯見僧祐錄</item></list></item></list></item>
+<lb ed="A" n="0197b11"/><item xml:id="itemA098p0197b1101">觀世音菩薩授記經一卷<note place="inline">一名觀世音受決經十五紙第三譯
+<pb ed="A" xml:id="A098.1276.0198a" n="0198a"/>
+<lb ed="A" n="0198a01"/>三本闡二一名觀世音得大勢菩薩授記經</note>
+<lb ed="A" n="0198a02"/><list><item xml:id="itemA098p0198a0201">觀世音菩薩授記經一卷<note place="inline">宋世曇無讖譯</note>
+<lb ed="A" n="0198a03"/><list><item xml:id="itemA098p0198a0301">右宋元嘉末幽州黃龍沙門曇無竭
+<lb ed="A" n="0198a04"/>於楊都譯見王賓僧祐等錄
+<lb ed="A" n="0198a05"/><list><item xml:id="itemA098p0198a0501">上六經十卷同帙</item></list></item></list></item></list></item>
+<lb ed="A" n="0198a06"/><item xml:id="itemA098p0198a0601">海龍王經一部四卷<note place="inline">或三卷第一譯兩本闕一八十五紙　凡二十品</note>
+<lb ed="A" n="0198a07"/><list><item xml:id="itemA098p0198a0701">佛說海龍王經卷第一<note place="inline">大乘藏</note>
+<lb ed="A" n="0198a08"/><list><item xml:id="itemA098p0198a0801">行品第一</item><item xml:id="itemA098p0198a0805">分別品第二</item>
+<lb ed="A" n="0198a09"/><item xml:id="itemA098p0198a0901">六度品第三</item><item xml:id="itemA098p0198a0906">無盡藏品第四</item></list></item>
+<lb ed="A" n="0198a10"/><item xml:id="itemA098p0198a1001">佛說海龍王經卷第二
+<lb ed="A" n="0198a11"/><list><item xml:id="itemA098p0198a1101">揔持品第五</item><item xml:id="itemA098p0198a1106">揔持身品第六</item>
+<lb ed="A" n="0198a12"/><item xml:id="itemA098p0198a1201">揔持門祝品第七</item><item xml:id="itemA098p0198a1208">分別名品第八</item>
+<pb ed="A" xml:id="A098.1276.0198b" n="0198b"/>
+<lb ed="A" n="0198b01"/><item xml:id="itemA098p0198b0101">授決品第九</item></list></item>
+<lb ed="A" n="0198b02"/><item xml:id="itemA098p0198b0201">佛說海龍王經卷第三
+<lb ed="A" n="0198b03"/><list><item xml:id="itemA098p0198b0301">請佛品第十</item><item xml:id="itemA098p0198b0306">十德六度品第十一</item>
+<lb ed="A" n="0198b04"/><item xml:id="itemA098p0198b0401">燕居阿須倫受決品第十二</item>
+<lb ed="A" n="0198b05"/><item xml:id="itemA098p0198b0501">無焚龍王受決品第十三</item>
+<lb ed="A" n="0198b06"/><item xml:id="itemA098p0198b0601">女寶錦受決品第十四</item><item xml:id="itemA098p0198b0610">天帝釋品第十五</item></list></item>
+<lb ed="A" n="0198b07"/><item xml:id="itemA098p0198b0701">佛說海龍王經卷第四
+<lb ed="A" n="0198b08"/><list><item xml:id="itemA098p0198b0801">金翅鳥品第十六</item><item xml:id="itemA098p0198b0808">舍利品第十七</item>
+<lb ed="A" n="0198b09"/><item xml:id="itemA098p0198b0901">法供養品第十八</item><item xml:id="itemA098p0198b0908">空淨品第十九</item>
+<lb ed="A" n="0198b10"/><item xml:id="itemA098p0198b1001">屬累受持品第二十
+<lb ed="A" n="0198b11"/><list><item xml:id="itemA098p0198b1101">右西晉太康六年七月十日沙門竺法護
+<pb ed="A" xml:id="A098.1276.0199a" n="0199a"/>
+<lb ed="A" n="0199a01"/>譯見聶道真等錄清信士聶承遠筆
+<lb ed="A" n="0199a02"/>受</item></list></item></list></item></list></item>
+<lb ed="A" n="0199a03"/><item xml:id="itemA098p0199a0301">首楞嚴三昧經一部三卷<note place="inline">或云首楞嚴經第九譯八闕五十五紙僧祐錄云新首楞嚴經</note>
+<lb ed="A" n="0199a04"/><list><item xml:id="itemA098p0199a0401">佛說首楞嚴三昧經卷上<note place="inline">後秦羅什共僧肇等長安逍遙園譯</note></item>
+<lb ed="A" n="0199a05"/><item xml:id="itemA098p0199a0501">佛說首楞嚴三昧經卷中</item>
+<lb ed="A" n="0199a06"/><item xml:id="itemA098p0199a0601">佛說首楞嚴三昧經卷下
+<lb ed="A" n="0199a07"/><list><item xml:id="itemA098p0199a0701">右後秦<g ref="#CB10485">󲣵</g>始年中三藏鳩摩羅什
+<lb ed="A" n="0199a08"/>於常安逍遙園譯見僧祐錄僧叡僧
+<lb ed="A" n="0199a09"/>肇等筆受</item></list></item></list></item>
+<lb ed="A" n="0199a10"/><item xml:id="itemA098p0199a1001">觀普賢菩薩行法經一卷<note place="inline">下注云出深功德經中　亦云普賢
+<lb ed="A" n="0199a11"/>觀經　十六紙　第三譯二闕　或無行注字</note>
+<lb ed="A" n="0199a12"/><list><item xml:id="itemA098p0199a1201">佛說觀普賢菩薩行法經一卷
+<pb ed="A" xml:id="A098.1276.0199b" n="0199b"/>
+<lb ed="A" n="0199b01"/><list><item xml:id="itemA098p0199b0101">右宋元嘉年罽賔沙門曇摩密多
+<lb ed="A" n="0199b02"/>於楊都譯見僧祐錄</item></list></item></list></item>
+<lb ed="A" n="0199b03"/><item xml:id="itemA098p0199b0301">觀藥王藥上菩薩經一卷<note place="inline">二十二紙　第二譯　問一或加二字</note>
+<lb ed="A" n="0199b04"/><list><item xml:id="itemA098p0199b0401">觀藥王藥上二菩薩經一卷
+<lb ed="A" n="0199b05"/><list><item xml:id="itemA098p0199b0501">右宋元嘉元年天竺沙門薑良耶舍
+<lb ed="A" n="0199b06"/>於鍾山道林寺譯見道慧宋齊錄
+<lb ed="A" n="0199b07"/>沙門僧含筆受</item></list></item></list></item>
+<lb ed="A" n="0199b08"/><item xml:id="itemA098p0199b0801">不思議光菩薩所說經一卷<note place="inline">十四紙一名無思議光孩童菩薩經第二譯闕一或加<unclear></unclear>字</note>
+<lb ed="A" n="0199b09"/><list><item xml:id="itemA098p0199b0901">不思議光菩薩所說經一卷<note place="inline">一名無思議光孩童菩薩經</note>
+<lb ed="A" n="0199b10"/><list><item xml:id="itemA098p0199b1001">右後秦<g ref="#CB10485">󲣵</g>始年中三藏鳩摩羅什於逍
+<lb ed="A" n="0199b11"/>遙園譯見費長房錄僧肇道常等筆受
+<pb ed="A" xml:id="A098.1276.0200a" n="0200a"/>
+<lb ed="A" n="0200a01"/><list><item xml:id="itemA098p0200a0101">上五經十卷同帙</item></list></item></list></item></list></item>
+<lb ed="A" n="0200a02"/><item xml:id="itemA098p0200a0201">十住斷結經一部十卷<note place="inline">或十一卷　二百九十二紙一云十地斷結經
+<lb ed="A" n="0200a03"/>凡三十三品一名十千日光三昧定第二譯闕一或十四卷一云<g ref="#CB08764">㝡</g>勝問菩薩十住除垢斷結經</note>
+<lb ed="A" n="0200a04"/><list><item xml:id="itemA098p0200a0401"><g ref="#CB08764">㝡</g>勝問菩薩十住除垢斷結經<note place="inline">一名十千日光三昧定</note>
+<lb ed="A" n="0200a05"/><list><item xml:id="itemA098p0200a0501">十住斷結經卷第一
+<lb ed="A" n="0200a06"/><list><item xml:id="itemA098p0200a0601">道引品第一</item><item xml:id="itemA098p0200a0606">留化品第二</item>
+<lb ed="A" n="0200a07"/><item xml:id="itemA098p0200a0701">空觀品第三</item><item xml:id="itemA098p0200a0706">色入品第四</item></list></item>
+<lb ed="A" n="0200a08"/><item xml:id="itemA098p0200a0801">十住斷結經卷第二
+<lb ed="A" n="0200a09"/><list><item xml:id="itemA098p0200a0901">了空品第五</item><item xml:id="itemA098p0200a0906">根門品第六</item>
+<lb ed="A" n="0200a10"/><item xml:id="itemA098p0200a1001">廣受品第七</item></list></item>
+<lb ed="A" n="0200a11"/><item xml:id="itemA098p0200a1101">十住斷結經卷第三
+<lb ed="A" n="0200a12"/><list><item xml:id="itemA098p0200a1201">童真品第八</item><item xml:id="itemA098p0200a1206">定意品第九</item></list></item>
+<pb ed="A" xml:id="A098.1276.0200b" n="0200b"/>
+<lb ed="A" n="0200b01"/><item xml:id="itemA098p0200b0101">十住斷結經卷第四
+<lb ed="A" n="0200b02"/><list><item xml:id="itemA098p0200b0201">菩薩成道品第十</item><item xml:id="itemA098p0200b0208">滅心品第十一</item></list></item>
+<lb ed="A" n="0200b03"/><item xml:id="itemA098p0200b0301">十住斷結經卷第五
+<lb ed="A" n="0200b04"/><list><item xml:id="itemA098p0200b0401">神足品第十二</item><item xml:id="itemA098p0200b0407">恭信品第十三</item>
+<lb ed="A" n="0200b05"/><item xml:id="itemA098p0200b0501">勇猛品第十四</item></list></item>
+<lb ed="A" n="0200b06"/><item xml:id="itemA098p0200b0601">十住斷結經卷第六
+<lb ed="A" n="0200b07"/><list><item xml:id="itemA098p0200b0701">碎身品第十五</item><item xml:id="itemA098p0200b0707">身入品第十六</item>
+<lb ed="A" n="0200b08"/><item xml:id="itemA098p0200b0801">辯才品第十七</item><item xml:id="itemA098p0200b0807">權智品第十八</item></list></item>
+<lb ed="A" n="0200b09"/><item xml:id="itemA098p0200b0901">十住斷結經卷第七
+<lb ed="A" n="0200b10"/><list><item xml:id="itemA098p0200b1001">化眾生品第十九</item><item xml:id="itemA098p0200b1008">三道滅度品第二十</item>
+<lb ed="A" n="0200b11"/><item xml:id="itemA098p0200b1101">乘無相品第二十一</item></list></item>
+<pb ed="A" xml:id="A098.1276.0201a" n="0201a"/>
+<lb ed="A" n="0201a01"/><item xml:id="itemA098p0201a0101">十住斷結經卷第八
+<lb ed="A" n="0201a02"/><list><item xml:id="itemA098p0201a0201">等慈品第二十二</item><item xml:id="itemA098p0201a0208">法界品第二十三</item></list></item>
+<lb ed="A" n="0201a03"/><item xml:id="itemA098p0201a0301">十住斷結經卷第九
+<lb ed="A" n="0201a04"/><list><item xml:id="itemA098p0201a0401">道智品第二十四</item><item xml:id="itemA098p0201a0408">身口意品第二十五</item></list></item>
+<lb ed="A" n="0201a05"/><item xml:id="itemA098p0201a0501">十住斷結經卷第十
+<lb ed="A" n="0201a06"/><list><item xml:id="itemA098p0201a0601">夢中成道品第二十六</item>
+<lb ed="A" n="0201a07"/><item xml:id="itemA098p0201a0701">菩薩證品第二十七</item><item xml:id="itemA098p0201a0709">解慧品第二十八</item>
+<lb ed="A" n="0201a08"/><item xml:id="itemA098p0201a0801">三毒品第二十九</item><item xml:id="itemA098p0201a0808">問泥洹品第三十</item>
+<lb ed="A" n="0201a09"/><item xml:id="itemA098p0201a0901">四梵堂品第三十一</item><item xml:id="itemA098p0201a0909">梵又請品第三十二</item>
+<lb ed="A" n="0201a10"/><item xml:id="itemA098p0201a1001">梵天囑累品第三十三
+<lb ed="A" n="0201a11"/><list><item xml:id="itemA098p0201a1101">右後秦涼州沙門竺佛念於長安譯
+<lb ed="A" n="0201a12"/>見僧叡二秦錄等</item></list></item></list></item></list></item></list></item>
+<pb ed="A" xml:id="A098.1276.0201b" n="0201b"/>
+<lb ed="A" n="0201b01"/><item xml:id="itemA098p0201b0101">諸佛要集經一部二卷<note place="inline">四十八紙亦云要集經天笁日佛陀僧祇提第一譯三本闕二譯</note>
+<lb ed="A" n="0201b02"/><list><item xml:id="itemA098p0201b0201">諸佛要集經卷上<note place="inline">晉世竺法護譯</note></item>
+<lb ed="A" n="0201b03"/><item xml:id="itemA098p0201b0301">諸佛要集經卷下<note place="inline">晉世笁法護譯</note>
+<lb ed="A" n="0201b04"/><list><item xml:id="itemA098p0201b0401">右西晉沙門竺法護譯見僧祐錄
+<lb ed="A" n="0201b05"/>清信士聶承遠筆受</item></list></item></list></item>
+<lb ed="A" n="0201b06"/><item xml:id="itemA098p0201b0601">未曾有因緣經一部二卷<note place="inline">一名未有經或無因緣字四十七
+<lb ed="A" n="0201b07"/>紙　第三譯闕一度羅睺紕沙彌序</note>
+<lb ed="A" n="0201b08"/><list><item xml:id="itemA098p0201b0801">佛說未曾有因緣經上<note place="inline">度羅睺羅沙彌序</note></item>
+<lb ed="A" n="0201b09"/><item xml:id="itemA098p0201b0901">佛說未曾有因緣經下
+<lb ed="A" n="0201b10"/><list><item xml:id="itemA098p0201b1001">右南齊沙門曇景於楊都譯見始興錄
+<lb ed="A" n="0201b11"/><list><item xml:id="itemA098p0201b1101">上三經十四卷二帙<note place="inline">上七下七</note></item></list></item></list></item></list></item>
+<pb ed="A" xml:id="A098.1276.0202a" n="0202a"/>
+<lb ed="A" n="0202a01"/><item xml:id="itemA098p0202a0101">菩薩纓珞經一部十二卷<note place="inline">或十四卷　或十六卷三百八十七紙　或十
+<lb ed="A" n="0202a02"/>三卷　或二十卷　第二譯兩本闕一一名現在報凡四十四品</note>
+<lb ed="A" n="0202a03"/><list><item xml:id="itemA098p0202a0301">菩薩纓珞經卷第一
+<lb ed="A" n="0202a04"/><list><item xml:id="itemA098p0202a0401">菩薩纓珞經普稱品第一</item>
+<lb ed="A" n="0202a05"/><item xml:id="itemA098p0202a0501">菩薩纓珞識定品第二</item>
+<lb ed="A" n="0202a06"/><item xml:id="itemA098p0202a0601">菩薩纓珞莊嚴道樹品第三</item></list></item>
+<lb ed="A" n="0202a07"/><item xml:id="itemA098p0202a0701">菩薩纓珞經卷第二
+<lb ed="A" n="0202a08"/><list><item xml:id="itemA098p0202a0801">菩薩纓珞龍王洛太子品第四</item>
+<lb ed="A" n="0202a09"/><item xml:id="itemA098p0202a0901">菩薩纓珞法門品第五</item></list></item>
+<lb ed="A" n="0202a10"/><item xml:id="itemA098p0202a1001">菩薩纓珞卷第三
+<lb ed="A" n="0202a11"/><list><item xml:id="itemA098p0202a1101">菩薩纓珞識界品第六</item>
+<lb ed="A" n="0202a12"/><item xml:id="itemA098p0202a1201">菩薩纓珞諸佛勸助品第七</item>
+<pb ed="A" xml:id="A098.1276.0202b" n="0202b"/>
+<lb ed="A" n="0202b01"/><item xml:id="itemA098p0202b0101">菩薩瓔珞如來品第八</item></list></item>
+<lb ed="A" n="0202b02"/><item xml:id="itemA098p0202b0201">菩薩纓珞卷第四
+<lb ed="A" n="0202b03"/><list><item xml:id="itemA098p0202b0301">菩薩纓珞音響品第九</item>
+<lb ed="A" n="0202b04"/><item xml:id="itemA098p0202b0401">菩薩瓔珞因緣品第十</item>
+<lb ed="A" n="0202b05"/><item xml:id="itemA098p0202b0501">菩薩瓔珞心品第十一</item>
+<lb ed="A" n="0202b06"/><item xml:id="itemA098p0202b0601">菩薩纓珞四聖諦品第十二</item>
+<lb ed="A" n="0202b07"/><item xml:id="itemA098p0202b0701">菩薩纓珞成道品第十三</item>
+<lb ed="A" n="0202b08"/><item xml:id="itemA098p0202b0801">菩薩纓珞生佛品第十四</item>
+<lb ed="A" n="0202b09"/><item xml:id="itemA098p0202b0901">菩薩瓔珞本末品第十五</item></list></item>
+<lb ed="A" n="0202b10"/><item xml:id="itemA098p0202b1001">菩薩瓔珞經卷第五
+<lb ed="A" n="0202b11"/><list><item xml:id="itemA098p0202b1101">菩薩瓔珞經非有識非無識品第十六</item>
+<pb ed="A" xml:id="A098.1276.0203a" n="0203a"/>
+<lb ed="A" n="0203a01"/><item xml:id="itemA098p0203a0101">菩薩瓔珞無量品第十七</item></list></item>
+<lb ed="A" n="0203a02"/><item xml:id="itemA098p0203a0201">菩薩瓔珞經卷第六
+<lb ed="A" n="0203a03"/><list><item xml:id="itemA098p0203a0301">菩薩瓔珞隨行品第十八</item></list></item>
+<lb ed="A" n="0203a04"/><item xml:id="itemA098p0203a0401">菩薩瓔珞經卷第七
+<lb ed="A" n="0203a05"/><list><item xml:id="itemA098p0203a0501">菩薩瓔珞光明品第十九</item>
+<lb ed="A" n="0203a06"/><item xml:id="itemA098p0203a0601">菩薩瓔珞無想品第二十</item>
+<lb ed="A" n="0203a07"/><item xml:id="itemA098p0203a0701">菩薩瓔珞無識品第二十一</item>
+<lb ed="A" n="0203a08"/><item xml:id="itemA098p0203a0801">菩薩瓔珞受迦葉勸行品第二十二</item>
+<lb ed="A" n="0203a09"/><item xml:id="itemA098p0203a0901">菩薩瓔珞有行無行品第二十三<note place="inline">第十卷四品之餘</note></item></list></item>
+<lb ed="A" n="0203a10"/><item xml:id="itemA098p0203a1001">菩薩瓔珞經卷第八
+<lb ed="A" n="0203a11"/><list><item xml:id="itemA098p0203a1101">菩薩瓔珞有受品第二十四</item>
+<lb ed="A" n="0203a12"/><item xml:id="itemA098p0203a1201">菩薩瓔珞無著品第二十五</item>
+<pb ed="A" xml:id="A098.1276.0203b" n="0203b"/>
+<lb ed="A" n="0203b01"/><item xml:id="itemA098p0203b0101">菩薩瓔珞淨智除垢品第二十六</item>
+<lb ed="A" n="0203b02"/><item xml:id="itemA098p0203b0201">菩薩瓔珞無斷品第二十七</item>
+<lb ed="A" n="0203b03"/><item xml:id="itemA098p0203b0301">菩薩瓔珞賢聖集品第二十八</item></list></item>
+<lb ed="A" n="0203b04"/><item xml:id="itemA098p0203b0401">菩薩瓔珞經卷第九
+<lb ed="A" n="0203b05"/><list><item xml:id="itemA098p0203b0501">菩薩瓔珞三道三乘品第二十九</item>
+<lb ed="A" n="0203b06"/><item xml:id="itemA098p0203b0601">菩薩瓔珞供養舍利品第三十</item>
+<lb ed="A" n="0203b07"/><item xml:id="itemA098p0203b0701">菩薩瓔珞譬喻品第三十一</item></list></item>
+<lb ed="A" n="0203b08"/><item xml:id="itemA098p0203b0801">菩薩瓔珞經卷第十
+<lb ed="A" n="0203b09"/><list><item xml:id="itemA098p0203b0901">菩薩瓔珞三世法相品第三十二</item>
+<lb ed="A" n="0203b10"/><item xml:id="itemA098p0203b1001">菩薩瓔珞清淨品第三十三</item>
+<lb ed="A" n="0203b11"/><item xml:id="itemA098p0203b1101">菩薩瓔珞釋提桓因問品第三十四</item>
+<pb ed="A" xml:id="A098.1276.0204a" n="0204a"/>
+<lb ed="A" n="0204a01"/><item xml:id="itemA098p0204a0101">菩薩瓔珞本末品第三十五</item></list></item>
+<lb ed="A" n="0204a02"/><item xml:id="itemA098p0204a0201">菩薩瓔珞經卷第十一
+<lb ed="A" n="0204a03"/><list><item xml:id="itemA098p0204a0301">菩薩瓔珞經聞法品第三十六</item>
+<lb ed="A" n="0204a04"/><item xml:id="itemA098p0204a0401">菩薩瓔珞淨居天品第三十七</item></list></item>
+<lb ed="A" n="0204a05"/><item xml:id="itemA098p0204a0501">菩薩瓔珞經卷第十二
+<lb ed="A" n="0204a06"/><list><item xml:id="itemA098p0204a0601">菩薩瓔珞十方法界品第三十八</item>
+<lb ed="A" n="0204a07"/><item xml:id="itemA098p0204a0701">菩薩瓔珞十智品第三十九</item>
+<lb ed="A" n="0204a08"/><item xml:id="itemA098p0204a0801">菩薩瓔珞應時品第四十</item>
+<lb ed="A" n="0204a09"/><item xml:id="itemA098p0204a0901">菩薩瓔珞十不思議品第四十一</item>
+<lb ed="A" n="0204a10"/><item xml:id="itemA098p0204a1001">菩薩瓔珞無我品第四十二</item>
+<lb ed="A" n="0204a11"/><item xml:id="itemA098p0204a1101">菩薩瓔珞等乘品第四十三</item>
+<lb ed="A" n="0204a12"/><item xml:id="itemA098p0204a1201">菩薩瓔珞三界品第四十四
+<pb ed="A" xml:id="A098.1276.0204b" n="0204b"/>
+<lb ed="A" n="0204b01"/><list><item xml:id="itemA098p0204b0101">右前秦建元十二年七月涼州沙門
+<lb ed="A" n="0204b02"/>竺佛念於長安譯見僧叡二秦錄
+<lb ed="A" n="0204b03"/>等開元錄云隨人附後秦錄</item></list></item></list></item></list></item>
+<lb ed="A" n="0204b04"/><item xml:id="itemA098p0204b0401">超日明三昧經一部二卷<note place="inline">或一名超日明經或二卷五十六紙第二譯兩本闕一</note>
+<lb ed="A" n="0204b05"/><list><item xml:id="itemA098p0204b0501">佛說超日明三昧經卷上<note place="inline">晉太始年聶承遠譯</note></item>
+<lb ed="A" n="0204b06"/><item xml:id="itemA098p0204b0601">佛說超日明三昧經卷下<note place="inline">晉太始年聶承遠譯</note>
+<lb ed="A" n="0204b07"/><list><item xml:id="itemA098p0204b0701">右西晉惠帝代清信士聶承遠譯見
+<lb ed="A" n="0204b08"/>高僧傳及僧祐錄
+<lb ed="A" n="0204b09"/><list><item xml:id="itemA098p0204b0901">上二經十四卷二帙<note place="inline">上七卷下七卷</note></item></list></item></list></item></list></item>
+<lb ed="A" n="0204b10"/><item xml:id="itemA098p0204b1001">賢劫經一部十三卷<note place="inline">或十卷或七卷二百二十四紙亦名<g ref="#CB00584">󰉈</g>陀刧三昧晉日賢刧
+<lb ed="A" n="0204b11"/>定意經　第一譯二本闕一凡二十四品　或八卷</note>
+<pb ed="A" xml:id="A098.1276.0205a" n="0205a"/>
+<lb ed="A" n="0205a01"/><list><item xml:id="itemA098p0205a0101">賢刧經卷第一<note place="inline"><g ref="#CB00584">󰉈</g>陀劫三昧晉日賢刧定意</note>
+<lb ed="A" n="0205a02"/><list><item xml:id="itemA098p0205a0201">問三昧品第一</item><item xml:id="itemA098p0205a0207">行品第二</item></list></item>
+<lb ed="A" n="0205a03"/><item xml:id="itemA098p0205a0301">賢刧經卷第二
+<lb ed="A" n="0205a04"/><list><item xml:id="itemA098p0205a0401">四事品第三</item><item xml:id="itemA098p0205a0406">法師品第四</item>
+<lb ed="A" n="0205a05"/><item xml:id="itemA098p0205a0501">法供養品第五</item><item xml:id="itemA098p0205a0507">諸度無極品第六</item></list></item>
+<lb ed="A" n="0205a06"/><item xml:id="itemA098p0205a0601">賢刧經卷第三
+<lb ed="A" n="0205a07"/><list><item xml:id="itemA098p0205a0701">習行品第七</item><item xml:id="itemA098p0205a0706">無際品第八</item></list></item>
+<lb ed="A" n="0205a08"/><item xml:id="itemA098p0205a0801">賢刧經卷第四<list><item xml:id="itemA098p0205a0807">無際品之下</item>
+<lb ed="A" n="0205a09"/><item xml:id="itemA098p0205a0901">聞持品第九</item></list></item>
+<lb ed="A" n="0205a10"/><item xml:id="itemA098p0205a1001">賢刧經卷第五
+<lb ed="A" n="0205a11"/><list><item xml:id="itemA098p0205a1101">神通品第十</item><item xml:id="itemA098p0205a1106">三十二相品第十一</item></list></item>
+<lb ed="A" n="0205a12"/><item xml:id="itemA098p0205a1201">賢刧經卷第六<list><item xml:id="itemA098p0205a1207">三十二相品之下</item>
+<pb ed="A" xml:id="A098.1276.0205b" n="0205b"/>
+<lb ed="A" n="0205b01"/><item xml:id="itemA098p0205b0101">順時品第十二</item><item xml:id="itemA098p0205b0107">三十七品第十三</item></list></item>
+<lb ed="A" n="0205b02"/><item xml:id="itemA098p0205b0201">賢刧經卷第七<list><item xml:id="itemA098p0205b0207">三十七品之下</item>
+<lb ed="A" n="0205b03"/><item xml:id="itemA098p0205b0301">寂然度無極品第十四</item></list></item>
+<lb ed="A" n="0205b04"/><item xml:id="itemA098p0205b0401">賢刧經卷第八
+<lb ed="A" n="0205b05"/><list><item xml:id="itemA098p0205b0501">寂然度無極品之下</item><item xml:id="itemA098p0205b0509">十種力品第十五</item>
+<lb ed="A" n="0205b06"/><item xml:id="itemA098p0205b0601">四無所畏品第十六</item><item xml:id="itemA098p0205b0609">十八不共品第十七</item></list></item>
+<lb ed="A" n="0205b07"/><item xml:id="itemA098p0205b0701">賢刧經卷第九<list><item xml:id="itemA098p0205b0707">十八不共品之下</item>
+<lb ed="A" n="0205b08"/><item xml:id="itemA098p0205b0801">方便品第十八</item><item xml:id="itemA098p0205b0807">八等品第十九</item></list></item>
+<lb ed="A" n="0205b09"/><item xml:id="itemA098p0205b0901">賢刧經卷第十<list><item xml:id="itemA098p0205b0907">千佛名號品第二十</item>
+<lb ed="A" n="0205b10"/><item xml:id="itemA098p0205b1001">千佛興立品第二十一</item></list></item>
+<lb ed="A" n="0205b11"/><item xml:id="itemA098p0205b1101">賢刧經卷第十一<list><item xml:id="itemA098p0205b1108">千佛興立品之二</item></list></item>
+<pb ed="A" xml:id="A098.1276.0206a" n="0206a"/>
+<lb ed="A" n="0206a01"/><item xml:id="itemA098p0206a0101">賢刧經卷第十二<list><item xml:id="itemA098p0206a0108">千佛興立品之三</item>
+<lb ed="A" n="0206a02"/><item xml:id="itemA098p0206a0201">千佛發意品第二十二</item><item xml:id="itemA098p0206a0210"></item></list></item>
+<lb ed="A" n="0206a03"/><item xml:id="itemA098p0206a0301">賢刧經卷第十三<list><item xml:id="itemA098p0206a0308">千佛發意品之下</item>
+<lb ed="A" n="0206a04"/><item xml:id="itemA098p0206a0401">歎古品第二十三</item><item xml:id="itemA098p0206a0408">囑累品第二十四
+<lb ed="A" n="0206a05"/><list><item xml:id="itemA098p0206a0501">右西晉元康元年七月二十一日沙
+<lb ed="A" n="0206a06"/>門竺法護譯見聶道真等錄趙
+<lb ed="A" n="0206a07"/>文龍筆受</item></list></item></list></item></list></item></list></cb:div>
+<lb ed="A" n="0206a08"/>
+<lb ed="A" n="0206a09"/><cb:juan fun="close" n="12"><cb:jhead>大唐開元釋教廣品歷章第十二</cb:jhead></cb:juan>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_45" cb:to="#end_45"><corr>佛頂尊勝陀羅尼經一卷</corr><sic><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_46" cb:to="#end_46"><corr>或云新微密</corr><sic><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_47" cb:to="#end_47"><corr>幢</corr><sic>憧</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_48" cb:to="#end_48"><corr>幢</corr><sic>憧</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_49" cb:to="#end_49"><corr>四</corr><sic>十</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4a" cb:to="#end_4a"><corr>制<note type="cf1">T55n2154_p0600a10</note></corr><sic>製</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4b" cb:to="#end_4b"><corr>制<note type="cf1">T55n2154_p0600a10</note></corr><sic>製</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4c" cb:to="#end_4c"><corr>制<note type="cf1">T19n0971_p0361c23</note></corr><sic>製</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4d" cb:to="#end_4d"><corr>無</corr><sic><unclear></unclear></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4e" cb:to="#end_4e"><corr>幢</corr><sic>憧</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4f" cb:to="#end_4f"><corr>幢</corr><sic>憧</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_50" cb:to="#end_50"><corr>幢</corr><sic>憧</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_51" cb:to="#end_51"><corr>幢</corr><sic>憧</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_52" cb:to="#end_52"><corr>成</corr><sic><unclear></unclear></sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

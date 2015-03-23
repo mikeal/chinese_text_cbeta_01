@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="P154n1519">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Northern Yongle Edition of the Canon, Electronic version, No. 1519 宗門統要正續集(第1卷-第12卷)</title>
+			<author>宋 宗永集　元 清茂續集</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.5 $<date>$Date: 2011/04/18 10:59:22 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>12卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/04/18 10:59:22 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Northern Yongle Edition of the Canon Vol. 154, No. 1519 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00331">
+	<charName>CBETA CHARACTER CB00331</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[束*束]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>棘</value>
+	</charProp>
+	<mapping type="unicode">U+235E5</mapping>
+	<mapping cb:dec="983371" type="PUA">U+F014B</mapping>
+</char>
+<char xml:id="CB00416">
+	<charName>CBETA CHARACTER CB00416</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[竺-二+帚]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>帚</value>
+	</charProp>
+	<mapping type="normal_unicode">U+7B92</mapping>
+	<mapping cb:dec="983456" type="PUA">U+F01A0</mapping>
+</char>
+<char xml:id="CB01269">
+	<charName>CBETA CHARACTER CB01269</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[木*突]</value>
+	</charProp>
+	<mapping type="unicode">U+2353B</mapping>
+	<mapping cb:dec="984309" type="PUA">U+F04F5</mapping>
+</char>
+<char xml:id="CB01334">
+	<charName>CBETA CHARACTER CB01334</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[怡-台+羅]</value>
+	</charProp>
+	<mapping type="unicode">U+39AC</mapping>
+	<mapping cb:dec="984374" type="PUA">U+F0536</mapping>
+</char>
+<char xml:id="CB02812">
+	<charName>CBETA CHARACTER CB02812</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[賒-示+未]</value>
+	</charProp>
+	<mapping cb:dec="985852" type="PUA">U+F0AFC</mapping>
+</char>
+<char xml:id="CB03939">
+	<charName>CBETA CHARACTER CB03939</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[革*(蔑-戍+戊)]</value>
+	</charProp>
+	<mapping cb:dec="986979" type="PUA">U+F0F63</mapping>
+</char>
+<char xml:id="CB05149">
+	<charName>CBETA CHARACTER CB05149</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[○@牛]</value>
+	</charProp>
+	<mapping cb:dec="988189" type="PUA">U+F141D</mapping>
+</char>
+<char xml:id="CB05201">
+	<charName>CBETA CHARACTER CB05201</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[羊*靈]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>羚</value>
+	</charProp>
+	<mapping type="unicode">U+263F0</mapping>
+	<mapping cb:dec="988241" type="PUA">U+F1451</mapping>
+</char>
+<char xml:id="CB08859">
+	<charName>CBETA CHARACTER CB08859</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[侮-母+小]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>你</value>
+	</charProp>
+	<mapping cb:dec="991899" type="PUA">U+F229B</mapping>
+</char>
+<char xml:id="CB08887">
+	<charName>CBETA CHARACTER CB08887</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[庭-壬+手]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>庭</value>
+	</charProp>
+	<mapping cb:dec="991927" type="PUA">U+F22B7</mapping>
+</char>
+<char xml:id="CB09125">
+	<charName>CBETA CHARACTER CB09125</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[紿-口+月]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>絹</value>
+	</charProp>
+	<mapping cb:dec="992165" type="PUA">U+F23A5</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-08-27T11:04:59">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">南嶽下第三世（一）</cb:mulu>
+<pb ed="P" xml:id="P154.1519.0671a" n="0671a"/>
+<lb ed="P" n="0671a01"/><milestone unit="juan" n="6"/><cb:mulu type="卷" n="6"></cb:mulu><cb:juan fun="open" n="6"><cb:jhead>宗門統要續集卷第六　　　　　　扶八</cb:jhead></cb:juan>
+<lb ed="P" n="0671a02"/><byline cb:type="collector">宋建溪沙門宗禾集
+<lb ed="P" n="0671a03"/>元建康保寧禪寺住持沙門清茂續集</byline>
+<lb ed="P" n="0671a04"/><cb:div type="other"><cb:mulu type="其他" level="1">南嶽下第三世（二）</cb:mulu><head>南嶽下第三世</head>
+<lb ed="P" n="0671a05"/><cb:div type="orig"><p xml:id="pP154p0671a0501">潭州大溈靈祐禪師<note place="inline">嗣百丈海</note>在百丈時夜侍立
+<lb ed="P" n="0671a06"/>次丈云看爐內有火也無師看來報云無丈
+<lb ed="P" n="0671a07"/>躬自至爐深撥忽得少火夾起云<g ref="#CB08859">󲊛</g>道無這
+<lb ed="P" n="0671a08"/>箇聻師因而契悟丈云欲知佛性義當觀時
+<lb ed="P" n="0671a09"/>節因緣時節若至其理自契便知<anchor xml:id="beg_43" type="cb-app"/>己<anchor xml:id="end_43"/>物不從
+<lb ed="P" n="0671a10"/>外得汝善護持。</p>
+<pb ed="P" xml:id="P154.1519.0671b" n="0671b"/>
+<lb ed="P" n="0671b01"/><p xml:id="pP154p0671b0101">師一日見劉鐵磨來師云老牸牛汝來也磨
+<lb ed="P" n="0671b02"/>云來日臺山大會齋和尚還去麼師乃放身
+<lb ed="P" n="0671b03"/>作臥勢磨便出去。</p></cb:div>
+<lb ed="P" n="0671b04"/><cb:div type="commentary"><p xml:id="pP154p0671b0401" rend="margin-left:1em">續淨慈一云眾中道放身便臥是不去劉
+<lb ed="P" n="0671b05"/>鐵磨懡<g ref="#CB01334">㦬</g>而行有甚交涉殊不知溈山老
+<lb ed="P" n="0671b06"/>漢平生一條脊梁拗不曲被劉鐵磨一推
+<lb ed="P" n="0671b07"/>推倒直至如今起不得若要扶起溈山請
+<lb ed="P" n="0671b08"/>大眾下一轉語眾無語師以拄杖一時趕
+<lb ed="P" n="0671b09"/>散。</p></cb:div>
+<lb ed="P" n="0671b10"/><cb:div type="orig"><p xml:id="pP154p0671b1001">師在百丈為典座百丈將選大溈主人乃請
+<pb ed="P" xml:id="P154.1519.0672a" n="0672a"/>
+<lb ed="P" n="0672a01"/>師同首座對眾下語出格者可往百丈遂拈
+<lb ed="P" n="0672a02"/>淨瓶置地上設問不得喚作淨瓶汝喚作什
+<lb ed="P" n="0672a03"/>麼首座云不可喚作木<g ref="#CB01269">𣔻</g>也百丈復問於師
+<lb ed="P" n="0672a04"/>師乃趯倒淨瓶而去百丈笑云第一座輸却
+<lb ed="P" n="0672a05"/>山子也因命師住持<note place="inline">首座即樺林也</note>。</p>
+<lb ed="P" n="0672a06"/><p xml:id="pP154p0672a0601">師因見仰山來遂以五指搭地劃一劃仰山
+<lb ed="P" n="0672a07"/>以手於項下劃一劃復拈自<anchor xml:id="beg_44" type="cb-app"/>己<anchor xml:id="end_44"/>耳抖擻三五
+<lb ed="P" n="0672a08"/>下師休去。</p>
+<lb ed="P" n="0672a09"/><p xml:id="pP154p0672a0901">師陞堂時有僧出云請和尚為眾說法師云
+<lb ed="P" n="0672a10"/>我為汝得徹困也僧便作禮。</p></cb:div>
+<pb ed="P" xml:id="P154.1519.0672b" n="0672b"/>
+<lb ed="P" n="0672b01"/><cb:div type="commentary"><p xml:id="pP154p0672b0101" rend="margin-left:1em">雪峯存聞云古人得與麼老婆心切玄沙
+<lb ed="P" n="0672b02"/>云山頭老和尚蹉過古人事峯問沙云什
+<lb ed="P" n="0672b03"/>麼處是老僧蹉過古人事處沙云大小溈
+<lb ed="P" n="0672b04"/>山被那僧一問直得百雜碎峯駭然。</p></cb:div>
+<lb ed="P" n="0672b05"/><cb:div type="orig"><p xml:id="pP154p0672b0501">師問仰山甚處來仰云田中來師云禾好刈
+<lb ed="P" n="0672b06"/>也未仰云好刈也師云作青見作黃見作不
+<lb ed="P" n="0672b07"/>青不黃見仰云和尚背後是什麼師云子還
+<lb ed="P" n="0672b08"/>見麼仰拈起禾穩云和尚何曾問這箇師云
+<lb ed="P" n="0672b09"/>此是鵞王擇乳。</p>
+<lb ed="P" n="0672b10"/><p xml:id="pP154p0672b1001">師因僧問如何是祖師西來意師竪起拂子
+<pb ed="P" xml:id="P154.1519.0673a" n="0673a"/>
+<lb ed="P" n="0673a01"/>後僧遇王常侍侍問溈山近日有何言句僧
+<lb ed="P" n="0673a02"/>舉前話侍云彼中兄弟如何商量僧云借色
+<lb ed="P" n="0673a03"/>明心附物顯理侍云不是這箇道理上座快
+<lb ed="P" n="0673a04"/>回去好某甲敢寄一書到和尚僧得書遂回
+<lb ed="P" n="0673a05"/>持上師拆開見畫一圓相內寫箇日字師云
+<lb ed="P" n="0673a06"/>誰知千里外有箇知音仰山侍次乃云雖然
+<lb ed="P" n="0673a07"/>如是也秪是箇俗漢師云子又作麼生仰却
+<lb ed="P" n="0673a08"/>畫一圓相於中書日字以脚抹却師乃大笑
+<lb ed="P" n="0673a09"/><note place="inline">一本小真</note>。</p>
+<lb ed="P" n="0673a10"/><p xml:id="pP154p0673a1001">師示眾云老僧百年後向山下作一頭水牯
+<pb ed="P" xml:id="P154.1519.0673b" n="0673b"/>
+<lb ed="P" n="0673b01"/>牛左脇書五字云溈山僧某甲此時若喚作
+<lb ed="P" n="0673b02"/>溈山僧又是水牯牛喚作水牯牛又是溈山
+<lb ed="P" n="0673b03"/>僧且道喚作什麼即得仰山出禮拜而去。</p></cb:div>
+<lb ed="P" n="0673b04"/><cb:div type="commentary"><p xml:id="pP154p0673b0401" rend="margin-left:1em">雲居膺云師無異號。</p><p xml:id="pP154p0673b0409" rend="margin-left:1em;inline">資福寶代作一圓
+<lb ed="P" n="0673b05"/>相托起。</p><p xml:id="pP154p0673b0504" rend="margin-left:1em;inline">芭蕉清代作此<g ref="#CB05149">󱐝</g>相呈之又云
+<lb ed="P" n="0673b06"/>同道者方知。</p><p xml:id="pP154p0673b0606" rend="margin-left:1em;inline">南塔涌云一千五百人善
+<lb ed="P" n="0673b07"/>知識只得一半。</p><p xml:id="pP154p0673b0707" rend="margin-left:1em;inline">芭蕉徹代當時作此∴
+<lb ed="P" n="0673b08"/>相呈之又云說也說了註也註了悟取好。</p>
+<lb ed="P" n="0673b09"/><p xml:id="pP154p0673b0901" rend="margin-left:1em">續保寧勇云和尚一等是入泥入水。</p></cb:div>
+<lb ed="P" n="0673b10"/><cb:div type="orig"><p xml:id="pP154p0673b1001">師因僧問從上諸聖直至如今和尚意旨如
+<pb ed="P" xml:id="P154.1519.0674a" n="0674a"/>
+<lb ed="P" n="0674a01"/>何師云目前是什麼物僧云莫秪這便是麼
+<lb ed="P" n="0674a02"/>師云阿那箇僧云適來秪對底師云<g ref="#CB08859">󲊛</g>擬那
+<lb ed="P" n="0674a03"/>箇去莫生事。</p></cb:div>
+<lb ed="P" n="0674a04"/><cb:div type="commentary"><p xml:id="pP154p0674a0401" rend="margin-left:1em">續蔣山懃云問頭太嶮答處太<g ref="#CB02812">󰫼</g>二俱不
+<lb ed="P" n="0674a05"/>了。</p></cb:div>
+<lb ed="P" n="0674a06"/><cb:div type="orig"><p xml:id="pP154p0674a0601">師問仰山云寂子速道莫入陰界仰云某甲
+<lb ed="P" n="0674a07"/>信亦不立師云汝信了不立未信不立仰云
+<lb ed="P" n="0674a08"/>只是某甲更信阿誰師云若與麼即是定性
+<lb ed="P" n="0674a09"/>聲聞仰云佛亦不見。</p>
+<lb ed="P" n="0674a10"/><p xml:id="pP154p0674a1001">師坐次見仰山從方丈前過師云若是百丈
+<pb ed="P" xml:id="P154.1519.0674b" n="0674b"/>
+<lb ed="P" n="0674b01"/>先師子須喫痛棒始得仰云今日事作麼生
+<lb ed="P" n="0674b02"/>師云合取兩片皮有分仰云此恩難報師云
+<lb ed="P" n="0674b03"/>非子不才老僧年邁仰云今日親見百丈師
+<lb ed="P" n="0674b04"/>翁師云子向甚句中見先師仰云不道見只
+<lb ed="P" n="0674b05"/>是無別師云始終作家。</p>
+<lb ed="P" n="0674b06"/><p xml:id="pP154p0674b0601">師因摘茶次謂仰山云終日摘茶只聞子聲
+<lb ed="P" n="0674b07"/>不見子形仰撼茶樹一下師云子只得其用
+<lb ed="P" n="0674b08"/>不得其體仰云未審和尚如何師良久仰云
+<lb ed="P" n="0674b09"/>和尚只得其體不得其用師云放子二十棒。</p></cb:div>
+<lb ed="P" n="0674b10"/><cb:div type="commentary"><p xml:id="pP154p0674b1001" rend="margin-left:1em">首山念云夫為宗師須具擇法眼始得當
+<pb ed="P" xml:id="P154.1519.0675a" n="0675a"/>
+<lb ed="P" n="0675a01"/>時不是溈山便見扶籬摸壁。</p><p xml:id="pP154p0675a0112" rend="margin-left:1em;inline">瑯瑘覺云
+<lb ed="P" n="0675a02"/>五更侵早起更有夜行人又云若不是溈
+<lb ed="P" n="0675a03"/>山洎合打破蔡州。</p>
+<lb ed="P" n="0675a04"/><p xml:id="pP154p0675a0401" rend="margin-left:1em">續白雲端云父子相投意氣相合機鋒互
+<lb ed="P" n="0675a05"/>換啐啄同時雖然如是畢竟如何道得體
+<lb ed="P" n="0675a06"/>用雙全去溈山放子二十棒也是養子之
+<lb ed="P" n="0675a07"/>緣。</p><p xml:id="pP154p0675a0702" rend="margin-left:1em;inline">蔣山懃云張公乍與李公友待罰李
+<lb ed="P" n="0675a08"/>公一盞酒倒被李公罰一盃好手手中呈
+<lb ed="P" n="0675a09"/>好手。</p><p xml:id="pP154p0675a0903" rend="margin-left:1em;inline">玉泉璉云直饒體用兩全爭奈當
+<lb ed="P" n="0675a10"/>頭蹉過過則且止放子二十棒又作麼生
+<pb ed="P" xml:id="P154.1519.0675b" n="0675b"/>
+<lb ed="P" n="0675b01"/>三盞酒粧公子面一枝華插美人頭。</p></cb:div>
+<lb ed="P" n="0675b02"/><cb:div type="orig"><p xml:id="pP154p0675b0201">師坐次仰山與香嚴侍立師問如今緫與麼
+<lb ed="P" n="0675b03"/>者少不與麼者多香嚴從西過東又從東過
+<lb ed="P" n="0675b04"/>西立師云這箇因緣三十年後如金擲地相
+<lb ed="P" n="0675b05"/>似仰云亦須是和尚提唱始得嚴云即今亦
+<lb ed="P" n="0675b06"/>不少師云合取狗口。</p></cb:div>
+<lb ed="P" n="0675b07"/><cb:div type="commentary"><p xml:id="pP154p0675b0701" rend="margin-left:1em">續南堂靜云象王嚬呻師子哮吼踞地盤
+<lb ed="P" n="0675b08"/>空移星換斗坐斷舌頭合取狗口一回擲
+<lb ed="P" n="0675b09"/>地作金聲九曲黃河徹底清。</p></cb:div>
+<lb ed="P" n="0675b10"/><cb:div type="orig"><p xml:id="pP154p0675b1001">師問仰山即今事且置自古事作麼生仰叉
+<pb ed="P" xml:id="P154.1519.0676a" n="0676a"/>
+<lb ed="P" n="0676a01"/>手近前師云猶是即今事自古事作麼生仰
+<lb ed="P" n="0676a02"/>叉手退後師云汝屈我我屈汝。</p></cb:div>
+<lb ed="P" n="0676a03"/><cb:div type="commentary"><p xml:id="pP154p0676a0301" rend="margin-left:1em">續蔣山懃云仰山雖善進前退後發明古
+<lb ed="P" n="0676a04"/>今其奈溈山向胡餅裏呷汁壓沙覓油雖
+<lb ed="P" n="0676a05"/>然如是且道仰山叉手意作麼生若也知
+<lb ed="P" n="0676a06"/>得行脚事辦其或未然老僧不曾孤負諸
+<lb ed="P" n="0676a07"/>人自是諸人孤負老僧。</p></cb:div>
+<lb ed="P" n="0676a08"/><cb:div type="orig"><p xml:id="pP154p0676a0801">師坐次仰山侍立師云寂子近日宗門中令
+<lb ed="P" n="0676a09"/>嗣作麼生仰云大有人疑著此事師云子又
+<lb ed="P" n="0676a10"/>作麼生仰云某甲秪管困來合眼健即坐禪
+<pb ed="P" xml:id="P154.1519.0676b" n="0676b"/>
+<lb ed="P" n="0676b01"/>所以未曾說著師云到這田地也難得仰云
+<lb ed="P" n="0676b02"/>據某甲見處著此一句語亦不得師云子為
+<lb ed="P" n="0676b03"/>一人也不得仰云自古聖人盡皆如是師云
+<lb ed="P" n="0676b04"/>大有人笑汝與麼秪對仰云解笑某甲是某
+<lb ed="P" n="0676b05"/>甲同叅師云出頭作麼生仰遶禪牀一帀師
+<lb ed="P" n="0676b06"/>云裂破古今。</p></cb:div>
+<lb ed="P" n="0676b07"/><cb:div type="commentary"><p xml:id="pP154p0676b0701" rend="margin-left:1em">續蔣山懃云動絃別曲葉落知秋自古自
+<lb ed="P" n="0676b08"/>今築著礚著鳥道玄路許他父子親遊若
+<lb ed="P" n="0676b09"/>是荊<g ref="#CB00331">𣗥</g>林中猶欠悟在以何為驗只如仰
+<lb ed="P" n="0676b10"/>山遶禪牀一帀溈山云裂破古今若是明
+<pb ed="P" xml:id="P154.1519.0677a" n="0677a"/>
+<lb ed="P" n="0677a01"/>眼衲僧瞞他一點不得。</p></cb:div>
+<lb ed="P" n="0677a02"/><cb:div type="orig"><p xml:id="pP154p0677a0201">師一日見香嚴仰山作餅次師云當時百丈
+<lb ed="P" n="0677a03"/>先師親得這箇道理仰與香嚴相顧視云什
+<lb ed="P" n="0677a04"/>麼人答得此話師云有一人答得仰云是阿
+<lb ed="P" n="0677a05"/>誰師指水牯牛云道道仰取一束草來香嚴
+<lb ed="P" n="0677a06"/>取一桶水來放牛前牛纔喫師云與麼與麼
+<lb ed="P" n="0677a07"/>不與麼不與麼二人俱作禮師云或時明或
+<lb ed="P" n="0677a08"/>時暗。</p>
+<lb ed="P" n="0677a09"/><p xml:id="pP154p0677a0901">師因仰山與北菴主上問訊時有官客喫茶
+<lb ed="P" n="0677a10"/>次師乃指似官人云同叅古佛來主云百年
+<pb ed="P" xml:id="P154.1519.0677b" n="0677b"/>
+<lb ed="P" n="0677b01"/>後覓箇人舉這話也難得師云即今作麼生
+<lb ed="P" n="0677b02"/>主云結舌有分答即不得師云官人見在自
+<lb ed="P" n="0677b03"/><anchor xml:id="beg_45" type="cb-app"/>己<anchor xml:id="end_45"/>也道不得主云仰山不甘此對師云作箇
+<lb ed="P" n="0677b04"/>菴主也難得。</p>
+<lb ed="P" n="0677b05"/><p xml:id="pP154p0677b0501">師向仰山云有俗弟子將三束<g ref="#CB09125">󲎥</g>來與我贖
+<lb ed="P" n="0677b06"/>鐘子故與世人受福仰云俗弟子則有<g ref="#CB09125">󲎥</g>與
+<lb ed="P" n="0677b07"/>和尚贖鐘子和尚將何物酬他師以拄杖敲
+<lb ed="P" n="0677b08"/>牀三下云我將這箇酬他仰云若是這箇用
+<lb ed="P" n="0677b09"/>作什麼師又敲三下云汝嫌這箇作什麼仰
+<lb ed="P" n="0677b10"/>云某甲不嫌這箇這箇只是大家底師云<g ref="#CB08859">󲊛</g>
+<pb ed="P" xml:id="P154.1519.0678a" n="0678a"/>
+<lb ed="P" n="0678a01"/>既知是大家底何得更就我覓物酬他仰云
+<lb ed="P" n="0678a02"/>只怪和尚把大家底行人事師云汝不見達
+<lb ed="P" n="0678a03"/>磨大師從西天來此土亦將此物來人事汝
+<lb ed="P" n="0678a04"/>諸人盡是受他信物者。</p>
+<lb ed="P" n="0678a05"/><p xml:id="pP154p0678a0501">師一日臥次仰山來師乃轉面向壁臥仰云
+<lb ed="P" n="0678a06"/>某甲是和尚弟子不用形迹師作起勢仰便
+<lb ed="P" n="0678a07"/>出去師召云寂子仰回師云聽老僧說箇夢
+<lb ed="P" n="0678a08"/>仰低頭作聽勢師云為我原看仰取一盆水
+<lb ed="P" n="0678a09"/>一條手巾來師遂洗面了纔坐香嚴入來師
+<lb ed="P" n="0678a10"/>云我適來與寂子作一上神通不同小小嚴
+<pb ed="P" xml:id="P154.1519.0678b" n="0678b"/>
+<lb ed="P" n="0678b01"/>云某甲在下面了了得知師云子試道看香
+<lb ed="P" n="0678b02"/>嚴乃點一椀茶來師歎云二子神通智慧過
+<lb ed="P" n="0678b03"/>於鶖子目連。</p></cb:div>
+<lb ed="P" n="0678b04"/><cb:div type="commentary"><p xml:id="pP154p0678b0401" rend="margin-left:1em">續蔣山懃云夢中說夢深許溈山妙用神
+<lb ed="P" n="0678b05"/>通須還二子傳茶度水耀古騰今年老心
+<lb ed="P" n="0678b06"/>孤怜兒惜子向衲僧門下一人在門外一
+<lb ed="P" n="0678b07"/>人在門裏更有一人遍界不曾藏佛眼覷
+<lb ed="P" n="0678b08"/>不見。</p><p xml:id="pP154p0678b0803" rend="margin-left:1em;inline">南堂靜云撥草瞻風孤峯獨宿鼓
+<lb ed="P" n="0678b09"/>無絃琴唱無生曲溈仰香嚴鼎之三足臨
+<lb ed="P" n="0678b10"/>機不費纖毫力任運分身千百億。</p></cb:div>
+<pb ed="P" xml:id="P154.1519.0679a" n="0679a"/>
+<lb ed="P" n="0679a01"/><cb:div type="orig"><p xml:id="pP154p0679a0101">師問雲巖承聞汝在藥山是不巖云是師云
+<lb ed="P" n="0679a02"/>藥山大人相作麼生巖云涅槃後有師云如
+<lb ed="P" n="0679a03"/>何是涅槃後有巖云水灑不著巖却問師未
+<lb ed="P" n="0679a04"/>審百丈大人相如何師云巍巍堂堂煒煒煌
+<lb ed="P" n="0679a05"/>煌聲前非聲色後非色蚊子上鐵牛無<g ref="#CB08859">󲊛</g>下
+<lb ed="P" n="0679a06"/>口處。</p>
+<lb ed="P" n="0679a07"/><p xml:id="pP154p0679a0701">師與仰山行次指前頭枯樹問前頭是什麼
+<lb ed="P" n="0679a08"/>仰云秪是枯樹子師指背後耘田公子云這
+<lb ed="P" n="0679a09"/>箇公子他後亦有五百眾。</p></cb:div>
+<lb ed="P" n="0679a10"/><cb:div type="commentary"><p xml:id="pP154p0679a1001" rend="margin-left:1em">溈山喆云山僧則不然耘田公子吾不如
+<pb ed="P" xml:id="P154.1519.0679b" n="0679b"/>
+<lb ed="P" n="0679b01"/>汝且道大圓是山僧是若人辨得許汝具
+<lb ed="P" n="0679b02"/>擇法眼若也不辨佛法熾然生滅。</p>
+<lb ed="P" n="0679b03"/><p xml:id="pP154p0679b0301" rend="margin-left:1em">續神鼎諲云為復意在耘田處為復意在
+<lb ed="P" n="0679b04"/>仰山分上為復緫不恁麼諸上座一切諸
+<lb ed="P" n="0679b05"/>法摐然更不用生事他是父子說法同道
+<lb ed="P" n="0679b06"/>方知。</p></cb:div>
+<lb ed="P" n="0679b07"/><cb:div type="orig"><p xml:id="pP154p0679b0701">師問仰山妙淨明心汝作麼生會仰云山河
+<lb ed="P" n="0679b08"/>大地日月星辰師云汝秪得其事仰云和尚
+<lb ed="P" n="0679b09"/>適來問什麼師云妙淨明心仰云喚作事得
+<lb ed="P" n="0679b10"/>麼師云如是如是。</p>
+<pb ed="P" xml:id="P154.1519.0680a" n="0680a"/>
+<lb ed="P" n="0680a01"/><p xml:id="pP154p0680a0101">師一日索門人呈語乃云聲色外與吾相見
+<lb ed="P" n="0680a02"/>時有幽州鑒弘上座呈語云不辭出來那箇
+<lb ed="P" n="0680a03"/>人無眼師不肯仰山凡四度呈語第一云見
+<lb ed="P" n="0680a04"/>取不見取底師云細如毫末冷似雪霜第二
+<lb ed="P" n="0680a05"/>度云聲色外誰求相見師云抵滯聲聞方外
+<lb ed="P" n="0680a06"/>榻第三度云如兩鏡相照於中無像師云此
+<lb ed="P" n="0680a07"/>語正也我是<g ref="#CB08859">󲊛</g>不是早立像了也仰山却問
+<lb ed="P" n="0680a08"/>師某甲精神昏昧拙於祗對未審和尚於百
+<lb ed="P" n="0680a09"/>丈師翁處作麼生呈語師云我於百丈先師
+<lb ed="P" n="0680a10"/>處呈語云如百千明鏡鑒像光影相照塵塵
+<pb ed="P" xml:id="P154.1519.0680b" n="0680b"/>
+<lb ed="P" n="0680b01"/>剎剎各不相借仰山於是禮拜。</p>
+<lb ed="P" n="0680b02"/><p xml:id="pP154p0680b0201">師因陸侍御入僧堂乃問如許多師僧為復
+<lb ed="P" n="0680b03"/>是喫粥飯僧為復是叅禪僧師云亦不是喫
+<lb ed="P" n="0680b04"/>粥飯僧亦不是叅禪僧御云在此作什麼師
+<lb ed="P" n="0680b05"/>云侍御自問他看。</p>
+<lb ed="P" n="0680b06"/><p xml:id="pP154p0680b0601">師因仰山踏衣次提起問正恁麼時和尚作
+<lb ed="P" n="0680b07"/>麼生師云正恁麼時我這裏無作麼生仰云
+<lb ed="P" n="0680b08"/>和尚有身而無用師良久却拈起問汝正恁
+<lb ed="P" n="0680b09"/>麼時作麼生仰云正恁麼時和尚還見伊不
+<lb ed="P" n="0680b10"/>師云汝有用而無身後師忽問汝春間有話
+<pb ed="P" xml:id="P154.1519.0681a" n="0681a"/>
+<lb ed="P" n="0681a01"/>未圓今試道看仰云正恁麼時切忌勃塑師
+<lb ed="P" n="0681a02"/>云停囚長智。</p>
+<lb ed="P" n="0681a03"/><p xml:id="pP154p0681a0301">師同百丈入山作務丈云將得火來麼師云
+<lb ed="P" n="0681a04"/>有丈云在甚處師把一枝柴吹兩吹度與丈
+<lb ed="P" n="0681a05"/>云如虫禦木。</p></cb:div>
+<lb ed="P" n="0681a06"/><cb:div type="commentary"><p xml:id="pP154p0681a0601" rend="margin-left:1em">續徑山杲云百丈若無後語洎被典座瞞。</p></cb:div>
+<lb ed="P" n="0681a07"/><cb:div type="orig"><p xml:id="pP154p0681a0701">師因仰山問百千萬境一時來作麼生師云
+<lb ed="P" n="0681a08"/>青不是黃長不是短諸法各住自位非干我
+<lb ed="P" n="0681a09"/>事仰乃作禮。</p>
+<lb ed="P" n="0681a10"/><p xml:id="pP154p0681a1001">師一日坐収足次乃指謂仰山云十二時中
+<pb ed="P" xml:id="P154.1519.0681b" n="0681b"/>
+<lb ed="P" n="0681b01"/>承他負載不可孤負他仰云昔日給孤園中
+<lb ed="P" n="0681b02"/>也只說這箇師云未在更道仰云寒時與他
+<lb ed="P" n="0681b03"/>韈著也不為分外。</p>
+<lb ed="P" n="0681b04"/><p xml:id="pP154p0681b0401">師因僧問如何是道師云無心是道僧云某
+<lb ed="P" n="0681b05"/>甲不會師云會取不會底好僧云如何是不
+<lb ed="P" n="0681b06"/>會底師云秪是<g ref="#CB08859">󲊛</g>不是別人。</p>
+<lb ed="P" n="0681b07"/><p xml:id="pP154p0681b0701">師示眾云仲冬嚴寒年年事晷運推移事若
+<lb ed="P" n="0681b08"/>何仰山近前叉手立師云我也知<g ref="#CB08859">󲊛</g>答這話
+<lb ed="P" n="0681b09"/>不得却問香嚴<g ref="#CB08859">󲊛</g>作麼生嚴云某甲偏答得
+<lb ed="P" n="0681b10"/>這話師再問嚴近前叉手立師云頼遇寂子
+<pb ed="P" xml:id="P154.1519.0682a" n="0682a"/>
+<lb ed="P" n="0682a01"/>不會。</p>
+<lb ed="P" n="0682a02"/><p xml:id="pP154p0682a0201">師示眾云汝等諸人各呈所悟看時有志和
+<lb ed="P" n="0682a03"/>上座出作禮師云不思善不思惡正與麼時
+<lb ed="P" n="0682a04"/>還我志和上座本來面目志云正與麼時是
+<lb ed="P" n="0682a05"/>某甲放身命處師云子莫落空不志云某甲
+<lb ed="P" n="0682a06"/>若見有空可落何曾是放身命處師云到這
+<lb ed="P" n="0682a07"/>裏何不問去志云某甲到這裏亦不見有和
+<lb ed="P" n="0682a08"/>尚可問師云汝福薄扶吾宗不起。</p>
+<lb ed="P" n="0682a09"/><p xml:id="pP154p0682a0901">師問仰山承聞子在百丈問一答十是不仰
+<lb ed="P" n="0682a10"/>云不敢師云佛法向上一句作麼生道仰擬
+<pb ed="P" xml:id="P154.1519.0682b" n="0682b"/>
+<lb ed="P" n="0682b01"/>開口師便喝師如是三問仰如是三擬答皆
+<lb ed="P" n="0682b02"/>被喝仰低頭垂淚云先師道教我更遇人始
+<lb ed="P" n="0682b03"/>得今日便是遇人也便發心看牛三年一日
+<lb ed="P" n="0682b04"/>師入山見在樹下坐禪師以拄杖點背一下
+<lb ed="P" n="0682b05"/>山回首師云寂子道得也未仰云雖道不得
+<lb ed="P" n="0682b06"/>且不就別人借口師云寂子會也。</p>
+<lb ed="P" n="0682b07"/><p xml:id="pP154p0682b0701">師因資國來叅乃指月示之國以手撥三下
+<lb ed="P" n="0682b08"/>師云不道汝不見秪是見處太麤。</p>
+<lb ed="P" n="0682b09"/><p xml:id="pP154p0682b0901">師一日坐次仰山香嚴侍立師云過去未來
+<lb ed="P" n="0682b10"/>與現在佛佛佛同宣人人得箇解脫之路仰
+<pb ed="P" xml:id="P154.1519.0683a" n="0683a"/>
+<lb ed="P" n="0683a01"/>云如何是人人解脫之路師回首看香嚴云
+<lb ed="P" n="0683a02"/>寂子借問何不對伊嚴云若問過去未來并
+<lb ed="P" n="0683a03"/>現在某甲却有箇祗對師云汝作麼祗對嚴
+<lb ed="P" n="0683a04"/>珍重便出師却問仰云與麼祗對還契子麼
+<lb ed="P" n="0683a05"/>仰云不契慧寂師云子又作麼生祗對老僧
+<lb ed="P" n="0683a06"/>仰珍重便出師呵呵大笑云如水乳合。</p>
+<lb ed="P" n="0683a07"/><p xml:id="pP154p0683a0701">師問道吾甚處去來吾云看病來師云有幾
+<lb ed="P" n="0683a08"/>人病吾云有病底有不病底師云不病底莫
+<lb ed="P" n="0683a09"/>是智頭陀不吾云病與不病緫不干他事急
+<lb ed="P" n="0683a10"/>道急道師云道得也與他沒交涉。</p>
+<pb ed="P" xml:id="P154.1519.0683b" n="0683b"/>
+<lb ed="P" n="0683b01"/><p xml:id="pP154p0683b0101">師問雲巖菩提以何為座巖云以無為為座
+<lb ed="P" n="0683b02"/>巖却問師師云以諸法空為座師又問道吾
+<lb ed="P" n="0683b03"/>吾云坐也聽伊坐臥也聽伊臥有一人不坐
+<lb ed="P" n="0683b04"/>不臥速道速道。</p>
+<lb ed="P" n="0683b05"/><p xml:id="pP154p0683b0501">師一日呈起如意復畫此<note place="inline">○○</note>相云有人道得
+<lb ed="P" n="0683b06"/>便得此如意道道時有僧云此如意本不是
+<lb ed="P" n="0683b07"/>和尚底師云得而無用又有僧云設與某甲
+<lb ed="P" n="0683b08"/>亦無著處。</p>
+<lb ed="P" n="0683b09"/><p xml:id="pP154p0683b0901">師示眾云一切眾生無佛性鹽官示眾云一
+<lb ed="P" n="0683b10"/>切眾生有佛性鹽官會下有二僧遂特詣師
+<pb ed="P" xml:id="P154.1519.0684a" n="0684a"/>
+<lb ed="P" n="0684a01"/>會下探之既到所聞說法莫測其涯若生輕
+<lb ed="P" n="0684a02"/>慢一日在<g ref="#CB08887">󲊷</g>中坐次見仰山來遂勸云師兄
+<lb ed="P" n="0684a03"/>切須勤學佛法不得容易仰遂作一圓相托
+<lb ed="P" n="0684a04"/>呈却拋向背後復展兩手就二僧索二僧茫
+<lb ed="P" n="0684a05"/>然不知所措仰乃勸云直須勤學佛法不得
+<lb ed="P" n="0684a06"/>容易珍重便去二僧逮返鹽官將行三十里
+<lb ed="P" n="0684a07"/>一人忽然有省自歎云當知溈山云一切眾
+<lb ed="P" n="0684a08"/>生無佛性誠不錯也却回溈山一人又行數
+<lb ed="P" n="0684a09"/>里因渡水亦有省自歎云溈山道一切眾生
+<lb ed="P" n="0684a10"/>無佛性灼然有他與麼道亦返溈山。</p>
+<pb ed="P" xml:id="P154.1519.0684b" n="0684b"/>
+<lb ed="P" n="0684b01"/><p xml:id="pP154p0684b0101">師因泥壁次李軍容來具公裳直至師背後
+<lb ed="P" n="0684b02"/>端簡而立師回首見便側泥盤作接泥勢軍
+<lb ed="P" n="0684b03"/>容便轉笏作進泥勢師便拋下泥盤與軍容
+<lb ed="P" n="0684b04"/>歸方丈。</p></cb:div>
+<lb ed="P" n="0684b05"/><cb:div type="commentary"><p xml:id="pP154p0684b0501" rend="margin-left:1em">巖頭奯聞云噫佛法澹泊也大小溈山泥
+<lb ed="P" n="0684b06"/>壁也不了。</p><p xml:id="pP154p0684b0605" rend="margin-left:1em;inline">明招謙云當時合作麼生免
+<lb ed="P" n="0684b07"/>被巖頭點檢代云却轉泥盤作泥壁勢便
+<lb ed="P" n="0684b08"/>拋下歸去。</p>
+<lb ed="P" n="0684b09"/><p xml:id="pP154p0684b0901" rend="margin-left:1em">續黃龍新云巖頭錯下名言殊不知溈山
+<lb ed="P" n="0684b10"/>軍容弄巧成拙。</p></cb:div>
+<pb ed="P" xml:id="P154.1519.0685a" n="0685a"/>
+<lb ed="P" n="0685a01"/><cb:div type="orig"><p xml:id="pP154p0685a0101">師因鄧隱峯到入堂於上板頭解放衣鉢師
+<lb ed="P" n="0685a02"/>聞師叔來先具威儀下堂相看峯纔見便放
+<lb ed="P" n="0685a03"/>身作睡勢師便歸方丈峯乃發去少間師問
+<lb ed="P" n="0685a04"/>侍者師叔在何處侍云<anchor xml:id="beg_46" type="cb-app"/>已<anchor xml:id="end_46"/>去也師云去時有
+<lb ed="P" n="0685a05"/>何言語侍云無言語師云莫道無語其聲如
+<lb ed="P" n="0685a06"/>雷。</p>
+<lb ed="P" n="0685a07"/><p xml:id="pP154p0685a0701">洪州黃檗斷際希運禪師示眾云汝等諸人
+<lb ed="P" n="0685a08"/>盡是噇酒糟漢與麼行脚何處有今日還知
+<lb ed="P" n="0685a09"/>大唐國裏無禪師麼時有僧云只如諸方匡
+<lb ed="P" n="0685a10"/>徒領眾又作麼生師云不道無禪只是無師。</p></cb:div>
+<pb ed="P" xml:id="P154.1519.0685b" n="0685b"/>
+<lb ed="P" n="0685b01"/><cb:div type="commentary"><p xml:id="pP154p0685b0101" rend="margin-left:1em">溈山祐問仰山作麼生仰云鵞王擇乳素
+<lb ed="P" n="0685b02"/>非鴨類溈云此實難辯。</p><p xml:id="pP154p0685b0210" rend="margin-left:1em;inline">五祖戒出僧語
+<lb ed="P" n="0685b03"/>謝和尚說得道理好。</p><p xml:id="pP154p0685b0309" rend="margin-left:1em;inline">石門聰云黃檗垂
+<lb ed="P" n="0685b04"/>示不妨奇特纔被布衲拶著失却一隻眼。</p>
+<lb ed="P" n="0685b05"/><p xml:id="pP154p0685b0501" rend="margin-left:1em">承天宗云五祖戒眼照四天下要見黃檗
+<lb ed="P" n="0685b06"/>猶未可若要扶竪正法眼藏須是黃檗宗
+<lb ed="P" n="0685b07"/>師。</p><p xml:id="pP154p0685b0702" rend="margin-left:1em;inline">翠巖真云諸方商確便道黃檗坐却
+<lb ed="P" n="0685b08"/>這僧又道黃檗被這僧上來直得分析不
+<lb ed="P" n="0685b09"/>下何為也翠巖輒生擬議霧豹澤毛未嘗
+<lb ed="P" n="0685b10"/>下食<g ref="#CB08887">󲊷</g>禽養勇終待驚人。</p><p xml:id="pP154p0685b1011" rend="margin-left:1em;inline">溈山喆云諸
+<pb ed="P" xml:id="P154.1519.0686a" n="0686a"/>
+<lb ed="P" n="0686a01"/>人還會麼莫怪從前多意氣他家曾踏上
+<lb ed="P" n="0686a02"/>頭關。</p>
+<lb ed="P" n="0686a03"/><p xml:id="pP154p0686a0301" rend="margin-left:1em">續法昌遇云我要無禪底做國師。</p><p xml:id="pP154p0686a0314" rend="margin-left:1em;inline">徑山
+<lb ed="P" n="0686a04"/>杲云且道是醍醐句是毒藥句。</p></cb:div>
+<lb ed="P" n="0686a05"/><cb:div type="orig"><p xml:id="pP154p0686a0501">師因百丈問甚處去來師云大雄山下採菌
+<lb ed="P" n="0686a06"/>子來丈云還見大蟲麼師便作虎聲丈拈斧
+<lb ed="P" n="0686a07"/>作斫勢師遂與丈一摑丈吟吟而笑便歸陞
+<lb ed="P" n="0686a08"/>堂謂眾云大雄山下有一大蟲汝等諸人也
+<lb ed="P" n="0686a09"/>須好看百丈老漢今日親遭一口。</p></cb:div>
+<lb ed="P" n="0686a10"/><cb:div type="commentary"><p xml:id="pP154p0686a1001" rend="margin-left:1em">溈山祐舉問仰山仰云和尚怎生溈云百
+<pb ed="P" xml:id="P154.1519.0686b" n="0686b"/>
+<lb ed="P" n="0686b01"/>丈當時便合一斧斫殺因什麼到如此仰
+<lb ed="P" n="0686b02"/>云不然溈云子又作麼生仰云百丈只解
+<lb ed="P" n="0686b03"/>騎虎頭不解把虎尾溈云子有嶮崖之句。</p>
+<lb ed="P" n="0686b04"/><p xml:id="pP154p0686b0401" rend="margin-left:1em">五祖戒云百丈大似作賊人心虛黃檗熟
+<lb ed="P" n="0686b05"/>處難忘。</p></cb:div>
+<lb ed="P" n="0686b06"/><cb:div type="orig"><p xml:id="pP154p0686b0601">師因百丈問運闍黎開田不易師云眾僧作
+<lb ed="P" n="0686b07"/>務丈云有煩道用師云爭敢辭勞丈云開得
+<lb ed="P" n="0686b08"/>多少田也師將鋤築地三下丈便喝師掩耳
+<lb ed="P" n="0686b09"/>而去。</p></cb:div>
+<lb ed="P" n="0686b10"/><cb:div type="commentary"><p xml:id="pP154p0686b1001" rend="margin-left:1em">溈山喆云黃檗開田功不浪施百丈住持
+<pb ed="P" xml:id="P154.1519.0687a" n="0687a"/>
+<lb ed="P" n="0687a01"/>今不虛行。</p>
+<lb ed="P" n="0687a02"/><p xml:id="pP154p0687a0201" rend="margin-left:1em">續瑯瑘覺云百丈一喝可謂垂絲於萬丈
+<lb ed="P" n="0687a03"/>潭中黃檗掩耳獨聳於千峯頂上。</p></cb:div>
+<lb ed="P" n="0687a04"/><cb:div type="orig"><p xml:id="pP154p0687a0401">師因有六人新到五人作禮中一人提起坐
+<lb ed="P" n="0687a05"/>具作一圓相師云我聞有一隻獵犬甚惡僧
+<lb ed="P" n="0687a06"/>云尋<g ref="#CB05201">𦏰</g>羊聲來師云<g ref="#CB05201">𦏰</g>羊無聲到汝尋僧云
+<lb ed="P" n="0687a07"/>尋<g ref="#CB05201">𦏰</g>羊跡來師云<g ref="#CB05201">𦏰</g>羊無跡到汝尋僧云尋
+<lb ed="P" n="0687a08"/><g ref="#CB05201">𦏰</g>羊蹤來師云<g ref="#CB05201">𦏰</g>羊無蹤到汝尋僧云與麼
+<lb ed="P" n="0687a09"/>則死<g ref="#CB05201">𦏰</g>羊也師便休至明日陞堂云昨日尋
+<lb ed="P" n="0687a10"/><g ref="#CB05201">𦏰</g>羊僧出來僧便出師云昨日公案未了老
+<pb ed="P" xml:id="P154.1519.0687b" n="0687b"/>
+<lb ed="P" n="0687b01"/>僧休去<g ref="#CB08859">󲊛</g>作麼生僧無語師云將謂是本色
+<lb ed="P" n="0687b02"/>衲子元來只是義學沙門以杖打出。</p></cb:div>
+<lb ed="P" n="0687b03"/><cb:div type="commentary"><p xml:id="pP154p0687b0301" rend="margin-left:1em">雪竇顯云只如聲響蹤跡既無獵犬向甚
+<lb ed="P" n="0687b04"/>處尋逐莫是絕聲響蹤跡處見黃檗麼諸
+<lb ed="P" n="0687b05"/>禪德要明陷虎之機也須是本分衲子。</p></cb:div>
+<lb ed="P" n="0687b06"/><cb:div type="orig"><p xml:id="pP154p0687b0601">師因普請次南泉云如許大身材戴箇些兒
+<lb ed="P" n="0687b07"/>大笠師云三千大千世界緫在裏許泉云王
+<lb ed="P" n="0687b08"/>老師聻師戴笠便行。</p>
+<lb ed="P" n="0687b09"/><p xml:id="pP154p0687b0901">師因裴相國捧一尊像於前胡跪云請師安
+<lb ed="P" n="0687b10"/>名師喚裴休休應喏師云與汝安名竟休作
+<pb ed="P" xml:id="P154.1519.0688a" n="0688a"/>
+<lb ed="P" n="0688a01"/>禮。</p></cb:div>
+<lb ed="P" n="0688a02"/><cb:div type="commentary"><p xml:id="pP154p0688a0201" rend="margin-left:1em">雪竇顯代休當時便喝。</p></cb:div>
+<lb ed="P" n="0688a03"/><cb:div type="orig"><p xml:id="pP154p0688a0301">師在南泉會下為首座一日捧鉢向南泉位
+<lb ed="P" n="0688a04"/>中坐泉入堂見乃問長老甚年中行道師云
+<lb ed="P" n="0688a05"/>威音王<anchor xml:id="beg_47" type="cb-app"/>已<anchor xml:id="end_47"/>前泉云猶是王老師兒孫下起師
+<lb ed="P" n="0688a06"/>過第二位坐泉休去。</p></cb:div>
+<lb ed="P" n="0688a07"/><cb:div type="commentary"><p xml:id="pP154p0688a0701" rend="margin-left:1em">溈山祐云欺敵者亡仰山云不然須知黃
+<lb ed="P" n="0688a08"/>檗有陷虎之機溈云子見處得與麼長。</p>
+<lb ed="P" n="0688a09"/><p xml:id="pP154p0688a0901" rend="margin-left:1em">雪竇顯云可惜王老師只見錐頭利我當
+<lb ed="P" n="0688a10"/>時若作南泉待伊道威音王<anchor xml:id="beg_48" type="cb-app"/>已<anchor xml:id="end_48"/>前即便於
+<pb ed="P" xml:id="P154.1519.0688b" n="0688b"/>
+<lb ed="P" n="0688b01"/>第二位生令黃檗一生起不得雖然如此
+<lb ed="P" n="0688b02"/>也須救取南泉。</p><p xml:id="pP154p0688b0207" rend="margin-left:1em;inline">雲峯恱云後來叢林中
+<lb ed="P" n="0688b03"/>多有商量或道黃檗有陷虎之機南泉有
+<lb ed="P" n="0688b04"/>殺虎之用若作與麼說話誠實苦哉殊不
+<lb ed="P" n="0688b05"/>知這老賊有年無德喫飯坐處也不依本
+<lb ed="P" n="0688b06"/>分若向雲峯門下說甚威音王<anchor xml:id="beg_49" type="cb-app"/>已<anchor xml:id="end_49"/>前王老
+<lb ed="P" n="0688b07"/>師更大直須喫棒趂出。</p></cb:div>
+<lb ed="P" n="0688b08"/><cb:div type="orig"><p xml:id="pP154p0688b0801">師在鹽官佛殿上禮拜次時太中帝為沙彌
+<lb ed="P" n="0688b09"/>乃問不著佛求不著法求不著僧求長老當
+<lb ed="P" n="0688b10"/>何所求師云不著佛求不著法求不者僧求
+<pb ed="P" xml:id="P154.1519.0689a" n="0689a"/>
+<lb ed="P" n="0689a01"/>常禮如是事彌云用禮何為師便與一堂彌
+<lb ed="P" n="0689a02"/>云太麤生師云這裏是什麼所在說麤說細
+<lb ed="P" n="0689a03"/>隨後擬掌沙彌便走。</p>
+<lb ed="P" n="0689a04"/><p xml:id="pP154p0689a0401">師一日捏拳云天下老和尚緫在這裏我若
+<lb ed="P" n="0689a05"/>放一線道從汝七縱八橫若不放過不消一
+<lb ed="P" n="0689a06"/>捏僧便問放一線道時如何師云七縱八橫
+<lb ed="P" n="0689a07"/>又問不放過不消一捏時如何師云普。</p></cb:div>
+<lb ed="P" n="0689a08"/><cb:div type="commentary"><p xml:id="pP154p0689a0801" rend="margin-left:1em">雲門偃因僧問如何是七縱八橫門云念
+<lb ed="P" n="0689a09"/>老僧年老僧云如何是普門云天光回照
+<lb ed="P" n="0689a10"/>僧云如何是天光回照門云骼胔少人知。</p></cb:div>
+<pb ed="P" xml:id="P154.1519.0689b" n="0689b"/>
+<lb ed="P" n="0689b01"/><cb:div type="orig"><p xml:id="pP154p0689b0101">師問百丈從上宗乘如何指示於人丈據坐
+<lb ed="P" n="0689b02"/>師云後代兒孫將何傳授丈云我將為<g ref="#CB08859">󲊛</g>是
+<lb ed="P" n="0689b03"/>箇人便歸方丈。</p></cb:div>
+<lb ed="P" n="0689b04"/><cb:div type="commentary"><p xml:id="pP154p0689b0401" rend="margin-left:1em">雲峯恱云百丈老人大似憐兒不覺醜雖
+<lb ed="P" n="0689b05"/>然如是盡法無民。</p>
+<lb ed="P" n="0689b06"/><p xml:id="pP154p0689b0601" rend="margin-left:1em">續雲居舜云到這裏能有幾人。</p></cb:div>
+<lb ed="P" n="0689b07"/><cb:div type="orig"><p xml:id="pP154p0689b0701">師因南泉問定慧等學明見佛性此理如何
+<lb ed="P" n="0689b08"/>師云十二時中不依倚一物始得泉云莫便
+<lb ed="P" n="0689b09"/>是長老見處麼師云不敢泉云漿水錢且致
+<lb ed="P" n="0689b10"/>草鞋錢教誰還師休去。</p></cb:div>
+<pb ed="P" xml:id="P154.1519.0690a" n="0690a"/>
+<lb ed="P" n="0690a01"/><cb:div type="commentary"><p xml:id="pP154p0690a0101" rend="margin-left:1em">溈山祐問仰山莫是黃檗構南泉不得麼
+<lb ed="P" n="0690a02"/>仰云不然須知黃檗有陷虎之機溈山云
+<lb ed="P" n="0690a03"/>子見處得與麼長。</p><p xml:id="pP154p0690a0308" rend="margin-left:1em;inline">保福展云若無溈仰
+<lb ed="P" n="0690a04"/>埋沒著黃檗。</p><p xml:id="pP154p0690a0406" rend="margin-left:1em;inline">五祖戒云仰山大似為蛇
+<lb ed="P" n="0690a05"/>畫足。</p>
+<lb ed="P" n="0690a06"/><p xml:id="pP154p0690a0601" rend="margin-left:1em">續雲峯恱云若不同牀睡焉知被底穿。</p>
+<lb ed="P" n="0690a07"/><p xml:id="pP154p0690a0701" rend="margin-left:1em">大溈智云欺敵者亡。</p><p xml:id="pP154p0690a0709" rend="margin-left:1em;inline">徑山杲云路逢劒
+<lb ed="P" n="0690a08"/>客須呈劒不是詩人不獻詩。</p></cb:div>
+<lb ed="P" n="0690a09"/><cb:div type="orig"><p xml:id="pP154p0690a0901">師因南泉問黃金為城白銀為壁此是甚人
+<lb ed="P" n="0690a10"/>若土處師云聖人居處泉云有一人居何國
+<pb ed="P" xml:id="P154.1519.0690b" n="0690b"/>
+<lb ed="P" n="0690b01"/>土師近前又手泉云道不得何不請王者師
+<lb ed="P" n="0690b02"/>道師云有一人居何國土泉云可惜許。</p>
+<lb ed="P" n="0690b03"/><p xml:id="pP154p0690b0301">師因南泉問什麼處去師云擇菜去泉云將
+<lb ed="P" n="0690b04"/>什麼擇師竪起刀子泉云汝只解作賔不解
+<lb ed="P" n="0690b05"/>作王師以刀子點三下。</p></cb:div>
+<lb ed="P" n="0690b06"/><cb:div type="commentary"><p xml:id="pP154p0690b0601" rend="margin-left:1em">續黃龍新云今時師僧往往將南泉黃檗
+<lb ed="P" n="0690b07"/>作擇菜會却。</p></cb:div>
+<lb ed="P" n="0690b08"/><cb:div type="orig"><p xml:id="pP154p0690b0801">廣州和安通禪師因仰山作沙彌時嘗喚寂
+<lb ed="P" n="0690b09"/>子與我拈牀子來仰持至師云送舊處著復
+<lb ed="P" n="0690b10"/>問寂子牀那邊是什麼仰云無物師云這邊
+<pb ed="P" xml:id="P154.1519.0691a" n="0691a"/>
+<lb ed="P" n="0691a01"/>聻仰云無物師又召寂子仰應諾師云去。</p>
+<lb ed="P" n="0691a02"/><p xml:id="pP154p0691a0201">清田和尚一日與瑫上座煎茶次師敲繩牀
+<lb ed="P" n="0691a03"/>三下瑫亦敲三下師云老僧敲有箇善巧上
+<lb ed="P" n="0691a04"/>座敲有何道理瑫云某甲敲有箇方便和尚
+<lb ed="P" n="0691a05"/>敲作麼生師舉起盞子瑫云善知識眼應須
+<lb ed="P" n="0691a06"/>恁麼煎茶了瑫却問和尚適來舉盞子意作
+<lb ed="P" n="0691a07"/>麼生師云不可更別有也。</p>
+<lb ed="P" n="0691a08"/><p xml:id="pP154p0691a0801">大于和尚與南用到茶堂見一僧近前問訊
+<lb ed="P" n="0691a09"/>用云我既不納汝汝亦不見我問訊阿誰僧
+<lb ed="P" n="0691a10"/>無語師云不得平白地恁麼問伊用云大于
+<pb ed="P" xml:id="P154.1519.0691b" n="0691b"/>
+<lb ed="P" n="0691b01"/>亦無語師乃把住其僧云是<g ref="#CB08859">󲊛</g>恁麼累我亦
+<lb ed="P" n="0691b02"/>然乃打一摑用便笑云朗月與青天。</p>
+<lb ed="P" n="0691b03"/><p xml:id="pP154p0691b0301">師因問侍者金剛正定一切皆然秋去冬來
+<lb ed="P" n="0691b04"/>且作麼生者云不妨和尚借問師云即今即
+<lb ed="P" n="0691b05"/>得去後作麼生者云誰敢問著某甲師云大
+<lb ed="P" n="0691b06"/>于還得麼者云猶要別人點檢在師云輔弼
+<lb ed="P" n="0691b07"/>宗師不廢光彩者乃作禮。</p>
+<lb ed="P" n="0691b08"/><p xml:id="pP154p0691b0801">杭州大慈寰中禪師示眾云山僧不解答話
+<lb ed="P" n="0691b09"/>只是識病時有僧出師便歸方丈。</p></cb:div>
+<lb ed="P" n="0691b10"/><cb:div type="commentary"><p xml:id="pP154p0691b1001" rend="margin-left:1em">雪竇顯云大凡扶竪宗乘須辯箇得失且
+<pb ed="P" xml:id="P154.1519.0692a" n="0692a"/>
+<lb ed="P" n="0692a01"/>大慈識病不答話時有僧出便歸方丈雪
+<lb ed="P" n="0692a02"/>竇識病不答話或有僧出劈脊便打諸方
+<lb ed="P" n="0692a03"/>識病不答話有僧出必然別有長處敢有
+<lb ed="P" n="0692a04"/>動著大唐天子只三人。</p>
+<lb ed="P" n="0692a05"/><p xml:id="pP154p0692a0501" rend="margin-left:1em">續黃龍南云可惜放過當時見伊出來劈
+<lb ed="P" n="0692a06"/>脊便打待伊知得行棒來處免見千古之
+<lb ed="P" n="0692a07"/>下遭人檢點黃龍今日也識病會答話忽
+<lb ed="P" n="0692a08"/>有箇漢出來掀倒禪牀這裏合作麼生指
+<lb ed="P" n="0692a09"/>凖諸上座請代一轉語看。</p><p xml:id="pP154p0692a0911" rend="margin-left:1em;inline">翠巖芝云這
+<lb ed="P" n="0692a10"/>僧出來大慈歸方丈並無箇道理甚麼處
+<pb ed="P" xml:id="P154.1519.0692b" n="0692b"/>
+<lb ed="P" n="0692b01"/>是識病處如今也須子細。</p></cb:div>
+<lb ed="P" n="0692b02"/><cb:div type="orig"><p xml:id="pP154p0692b0201">師掃地次因趙州問般若以何為體師云般
+<lb ed="P" n="0692b03"/>若以何為體趙州呵呵大笑師明日見趙州
+<lb ed="P" n="0692b04"/>掃地次却問般若以何為體趙州致掃<g ref="#CB00416">󰆠</g>拊
+<lb ed="P" n="0692b05"/>掌大笑師便歸方丈。</p></cb:div>
+<lb ed="P" n="0692b06"/><cb:div type="commentary"><p xml:id="pP154p0692b0601" rend="margin-left:1em">雪竇顯云前來也笑後來也笑笑中有刀
+<lb ed="P" n="0692b07"/>大慈還識麼直饒識得也未免喪身失命。</p>
+<lb ed="P" n="0692b08"/><p xml:id="pP154p0692b0801" rend="margin-left:1em">溈山喆云纔見呵呵大笑便與一掌明日
+<lb ed="P" n="0692b09"/>又問待伊大笑又與一掌大慈若下得這
+<lb ed="P" n="0692b10"/>兩掌趙州若不對他可謂生鐵鑄就風吹
+<pb ed="P" xml:id="P154.1519.0693a" n="0693a"/>
+<lb ed="P" n="0693a01"/>不入漢大凡宗師一等是搖撼乾坤直教
+<lb ed="P" n="0693a02"/>如旱天霹靂萬里無雲轟一聲教他眼目
+<lb ed="P" n="0693a03"/>定動豈不俊哉要識趙州大慈麼莫怪從
+<lb ed="P" n="0693a04"/>前多意氣他家曾謁聖明君。</p>
+<lb ed="P" n="0693a05"/><p xml:id="pP154p0693a0501" rend="margin-left:1em">續黃龍新云趙州金鍮不辯玉石不分直
+<lb ed="P" n="0693a06"/>饒分去也未夢見大慈在。</p><p xml:id="pP154p0693a0611" rend="margin-left:1em;inline">黃龍震云般
+<lb ed="P" n="0693a07"/>若非是無體二老不能知般若非是無用
+<lb ed="P" n="0693a08"/>二老不能用若也能知能用一言可以截
+<lb ed="P" n="0693a09"/>斷眾紛何必再三。</p><p xml:id="pP154p0693a0908" rend="margin-left:1em;inline">南華昺云兩箇漢只
+<lb ed="P" n="0693a10"/>解掩耳偷鈴不解移風易俗或有問南華
+<pb ed="P" xml:id="P154.1519.0693b" n="0693b"/>
+<lb ed="P" n="0693b01"/>般若以何為體劈脊便打待伊眼目定動
+<lb ed="P" n="0693b02"/>却問般若以何為體靈利漢忽然踏著必
+<lb ed="P" n="0693b03"/>定自知落處。</p></cb:div>
+<lb ed="P" n="0693b04"/><cb:div type="orig"><p xml:id="pP154p0693b0401">師示眾云說得一丈不如行取一尺說得一
+<lb ed="P" n="0693b05"/>尺不如行取一寸洞山云說取行不得底行
+<lb ed="P" n="0693b06"/>取說不得底雲居云行時無說路說時無行
+<lb ed="P" n="0693b07"/>路不說不行時合行甚麼路洛浦云行說俱
+<lb ed="P" n="0693b08"/>到即本事無行說俱不到即本事在。</p>
+<lb ed="P" n="0693b09"/><p xml:id="pP154p0693b0901">師住菴時南泉來問如何是菴中主師云蒼
+<lb ed="P" n="0693b10"/>天蒼天泉云蒼天且致如何是菴中主師云
+<pb ed="P" xml:id="P154.1519.0694a" n="0694a"/>
+<lb ed="P" n="0694a01"/>會即便會休口喃喃地泉便出。</p>
+<lb ed="P" n="0694a02"/><p xml:id="pP154p0694a0201">師因僧辭乃問什麼處去僧云江西去師云
+<lb ed="P" n="0694a03"/>將取老僧去得麼僧云非但和尚更有過於
+<lb ed="P" n="0694a04"/>和尚亦不將去。</p></cb:div>
+<lb ed="P" n="0694a05"/><cb:div type="commentary"><p xml:id="pP154p0694a0501" rend="margin-left:1em">汾陽昭代云知汝力微。</p><p xml:id="pP154p0694a0510" rend="margin-left:1em;inline">法眼益別云和
+<lb ed="P" n="0694a06"/>尚若去某甲提笠子。</p>
+<lb ed="P" n="0694a07"/><p xml:id="pP154p0694a0701" rend="margin-left:1em">續淨因成云這僧可謂擔頭不泊蠅是則
+<lb ed="P" n="0694a08"/>當如是要且只是孤生獨死底漢。</p><p xml:id="pP154p0694a0814" rend="margin-left:1em;inline">天童
+<lb ed="P" n="0694a09"/>覺云大慈合伴不著這僧不如獨行也須
+<lb ed="P" n="0694a10"/>是恁麼始得直饒大慈古佛也不奈這擔
+<pb ed="P" xml:id="P154.1519.0694b" n="0694b"/>
+<lb ed="P" n="0694b01"/>板漢何且道別有什麼長處。</p></cb:div>
+<lb ed="P" n="0694b02"/><cb:div type="orig"><p xml:id="pP154p0694b0201">天台平田普岸禪師訪茂源和尚源纔起迎
+<lb ed="P" n="0694b03"/>師近前把住云開口即失閉口即喪去此二
+<lb ed="P" n="0694b04"/>途請師別道源以手掩鼻師放開云一步較
+<lb ed="P" n="0694b05"/>易兩步較難源云著甚死急師云若非是師
+<lb ed="P" n="0694b06"/>不免諸方檢點。</p></cb:div></cb:div>
+<lb ed="P" n="0694b07"/>
+<lb ed="P" n="0694b08"/>
+<lb ed="P" n="0694b09"/>
+<lb ed="P" n="0694b10"/><cb:juan fun="close" n="6"><cb:jhead>宗門綂要續集卷第六</cb:jhead></cb:juan>
+<pb ed="P" xml:id="P154.1519.0695a" n="0695a"/>
+<lb ed="P" n="0695a01"/><cb:div type="w"><head>音釋</head>
+<lb ed="P" n="0695a02"/><cb:div type="note"><entry><form><g ref="#CB01269">𣔻</g></form><cb:def><p xml:id="pP154p0695a0202" rend="margin-left:1em;inline"><note place="inline">待骨切</note>。</p></cb:def></entry><entry cb:place="inline"><form>抖擻</form><cb:def><p xml:id="pP154p0695a0207" rend="margin-left:1em;inline"><note place="inline">抖音斗擻音叟抖擻振舉貌</note>。</p></cb:def></entry><entry cb:place="inline"><form>礚</form><cb:def><p xml:id="pP154p0695a0219" rend="margin-left:1em;inline"><note place="inline">苦盍切與磕同</note>。</p></cb:def></entry><entry cb:place="inline"><form>摐</form>
+<lb ed="P" n="0695a03"/><cb:def><p xml:id="pP154p0695a0301" rend="margin-left:1em"><note place="inline">初江切</note>。</p></cb:def></entry><entry cb:place="inline"><form><g ref="#CB03939">󰽣</g></form><cb:def><p xml:id="pP154p0695a0305" rend="margin-left:1em;inline"><note place="inline">勿發切足衣也</note>。</p></cb:def></entry><entry cb:place="inline"><form>噇</form><cb:def><p xml:id="pP154p0695a0312" rend="margin-left:1em;inline"><note place="inline">直雙切喫也</note>。</p></cb:def></entry><entry cb:place="inline"><form><g ref="#CB05201">𦏰</g></form><cb:def><p xml:id="pP154p0695a0318" rend="margin-left:1em;inline"><note place="inline">音零與羚同</note>。</p></cb:def></entry><entry cb:place="inline"><form>骼胔</form>
+<lb ed="P" n="0695a04"/><cb:def><p xml:id="pP154p0695a0401" rend="margin-left:1em"><note place="inline">骼柯額切胔疾智切露骨曰骼有肉曰胔</note>。</p></cb:def></entry></cb:div></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_43" cb:to="#end_43"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_44" cb:to="#end_44"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_45" cb:to="#end_45"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_46" cb:to="#end_46"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_47" cb:to="#end_47"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_48" cb:to="#end_48"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_49" cb:to="#end_49"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

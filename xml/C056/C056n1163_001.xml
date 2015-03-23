@@ -1,0 +1,3413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="C056n1163">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Zhonghua Canon, Electronic version, No. 1163 一切經音義(第1卷-第15卷)</title>
+			<author>唐 玄應撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.14 $<date>$Date: 2012/11/22 07:51:28 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>15卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/11/22 07:51:28 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Zhonghua Canon Vol. 056, No. 1163 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00042">
+	<charName>CBETA CHARACTER CB00042</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[八/異]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>冀</value>
+	</charProp>
+	<mapping type="normal_unicode">U+517E</mapping>
+	<mapping cb:dec="983082" type="PUA">U+F002A</mapping>
+</char>
+<char xml:id="CB00047">
+	<charName>CBETA CHARACTER CB00047</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*(隹/乃)]</value>
+	</charProp>
+	<mapping cb:dec="983087" type="PUA">U+F002F</mapping>
+</char>
+<char xml:id="CB00063">
+	<charName>CBETA CHARACTER CB00063</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*束]</value>
+	</charProp>
+	<mapping type="unicode">U+20CBF</mapping>
+	<mapping cb:dec="983103" type="PUA">U+F003F</mapping>
+</char>
+<char xml:id="CB00112">
+	<charName>CBETA CHARACTER CB00112</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[尸@工]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>尼</value>
+	</charProp>
+	<mapping type="unicode">U+21C31</mapping>
+	<mapping cb:dec="983152" type="PUA">U+F0070</mapping>
+</char>
+<char xml:id="CB00129">
+	<charName>CBETA CHARACTER CB00129</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[仁-二+易]</value>
+	</charProp>
+	<mapping type="unicode">U+3465</mapping>
+	<mapping cb:dec="983169" type="PUA">U+F0081</mapping>
+</char>
+<char xml:id="CB00145">
+	<charName>CBETA CHARACTER CB00145</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[少/兔]</value>
+	</charProp>
+	<mapping type="unicode">U+3779</mapping>
+	<mapping cb:dec="983185" type="PUA">U+F0091</mapping>
+</char>
+<char xml:id="CB00170">
+	<charName>CBETA CHARACTER CB00170</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[月*坒]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>髀</value>
+	</charProp>
+	<mapping type="unicode">U+43F6</mapping>
+	<mapping cb:dec="983210" type="PUA">U+F00AA</mapping>
+</char>
+<char xml:id="CB00232">
+	<charName>CBETA CHARACTER CB00232</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[古*頁]</value>
+	</charProp>
+	<mapping type="unicode">U+29476</mapping>
+	<mapping cb:dec="983272" type="PUA">U+F00E8</mapping>
+</char>
+<char xml:id="CB00267">
+	<charName>CBETA CHARACTER CB00267</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[矛*贊]</value>
+	</charProp>
+	<mapping type="unicode">U+408E</mapping>
+	<mapping cb:dec="983307" type="PUA">U+F010B</mapping>
+</char>
+<char xml:id="CB00324">
+	<charName>CBETA CHARACTER CB00324</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宋-木+巢]</value>
+	</charProp>
+	<mapping cb:dec="983364" type="PUA">U+F0144</mapping>
+</char>
+<char xml:id="CB00371">
+	<charName>CBETA CHARACTER CB00371</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[乳-孚+卓]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>乾</value>
+	</charProp>
+	<mapping type="unicode">U+200F5</mapping>
+	<mapping cb:dec="983411" type="PUA">U+F0173</mapping>
+</char>
+<char xml:id="CB00403">
+	<charName>CBETA CHARACTER CB00403</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[泳-永+公]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>沿</value>
+	</charProp>
+	<mapping type="unicode">U+3CC2</mapping>
+	<mapping cb:dec="983443" type="PUA">U+F0193</mapping>
+</char>
+<char xml:id="CB00426">
+	<charName>CBETA CHARACTER CB00426</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[金*矛]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>矛</value>
+	</charProp>
+	<mapping type="unicode">U+28968</mapping>
+	<mapping cb:dec="983466" type="PUA">U+F01AA</mapping>
+</char>
+<char xml:id="CB00501">
+	<charName>CBETA CHARACTER CB00501</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[馬*犬]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>馱</value>
+	</charProp>
+	<mapping type="unicode">U+4B7E</mapping>
+	<mapping cb:dec="983541" type="PUA">U+F01F5</mapping>
+</char>
+<char xml:id="CB00510">
+	<charName>CBETA CHARACTER CB00510</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[國*瓜]</value>
+	</charProp>
+	<mapping cb:dec="983550" type="PUA">U+F01FE</mapping>
+</char>
+<char xml:id="CB00550">
+	<charName>CBETA CHARACTER CB00550</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[登*斤]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>斲</value>
+	</charProp>
+	<mapping type="unicode">U+230C6</mapping>
+	<mapping cb:dec="983590" type="PUA">U+F0226</mapping>
+</char>
+<char xml:id="CB00603">
+	<charName>CBETA CHARACTER CB00603</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[齒*堯]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>咬</value>
+	</charProp>
+	<mapping type="unicode">U+4DA7</mapping>
+	<mapping cb:dec="983643" type="PUA">U+F025B</mapping>
+</char>
+<char xml:id="CB00604">
+	<charName>CBETA CHARACTER CB00604</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[齒*齊]</value>
+	</charProp>
+	<mapping type="unicode">U+4DA9</mapping>
+	<mapping cb:dec="983644" type="PUA">U+F025C</mapping>
+</char>
+<char xml:id="CB00626">
+	<charName>CBETA CHARACTER CB00626</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[疊*毛]</value>
+	</charProp>
+	<mapping type="unicode">U+3CB2</mapping>
+	<mapping cb:dec="983666" type="PUA">U+F0272</mapping>
+</char>
+<char xml:id="CB00629">
+	<charName>CBETA CHARACTER CB00629</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(應-心)/言]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>應</value>
+	</charProp>
+	<mapping type="normal_unicode">U+8B4D</mapping>
+	<mapping cb:dec="983669" type="PUA">U+F0275</mapping>
+</char>
+<char xml:id="CB00689">
+	<charName>CBETA CHARACTER CB00689</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*兮]</value>
+	</charProp>
+	<mapping type="unicode">U+20BCB</mapping>
+	<mapping cb:dec="983729" type="PUA">U+F02B1</mapping>
+</char>
+<char xml:id="CB00714">
+	<charName>CBETA CHARACTER CB00714</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[多*頁]</value>
+	</charProp>
+	<mapping type="unicode">U+4AC2</mapping>
+	<mapping cb:dec="983754" type="PUA">U+F02CA</mapping>
+</char>
+<char xml:id="CB00805">
+	<charName>CBETA CHARACTER CB00805</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[牟*含]</value>
+	</charProp>
+	<mapping type="unicode">U+246A5</mapping>
+	<mapping cb:dec="983845" type="PUA">U+F0325</mapping>
+</char>
+<char xml:id="CB00868">
+	<charName>CBETA CHARACTER CB00868</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[罽-厂]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>罽</value>
+	</charProp>
+	<mapping type="unicode">U+262FA</mapping>
+	<mapping cb:dec="983908" type="PUA">U+F0364</mapping>
+</char>
+<char xml:id="CB00890">
+	<charName>CBETA CHARACTER CB00890</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[打-丁+親]</value>
+	</charProp>
+	<mapping cb:dec="983930" type="PUA">U+F037A</mapping>
+</char>
+<char xml:id="CB00932">
+	<charName>CBETA CHARACTER CB00932</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[黎-(暴-(日/共))+(恭-共)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>黎</value>
+	</charProp>
+	<mapping type="unicode">U+25816</mapping>
+	<mapping cb:dec="983972" type="PUA">U+F03A4</mapping>
+</char>
+<char xml:id="CB00944">
+	<charName>CBETA CHARACTER CB00944</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*數]</value>
+	</charProp>
+	<mapping type="unicode">U+210A1</mapping>
+	<mapping cb:dec="983984" type="PUA">U+F03B0</mapping>
+</char>
+<char xml:id="CB00982">
+	<charName>CBETA CHARACTER CB00982</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[病-丙+土]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>莊</value>
+	</charProp>
+	<mapping type="unicode">U+3F75</mapping>
+	<mapping cb:dec="984022" type="PUA">U+F03D6</mapping>
+</char>
+<char xml:id="CB01002">
+	<charName>CBETA CHARACTER CB01002</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[得-彳]</value>
+	</charProp>
+	<mapping type="unicode">U+3775</mapping>
+	<mapping cb:dec="984042" type="PUA">U+F03EA</mapping>
+</char>
+<char xml:id="CB01007">
+	<charName>CBETA CHARACTER CB01007</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[葉-世+ㄊ]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>葉</value>
+	</charProp>
+	<mapping type="unicode">U+26C27</mapping>
+	<mapping cb:dec="984047" type="PUA">U+F03EF</mapping>
+</char>
+<char xml:id="CB01031">
+	<charName>CBETA CHARACTER CB01031</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[火*定]</value>
+	</charProp>
+	<mapping type="unicode">U+2429F</mapping>
+	<mapping cb:dec="984071" type="PUA">U+F0407</mapping>
+</char>
+<char xml:id="CB01040">
+	<charName>CBETA CHARACTER CB01040</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[此/束]</value>
+	</charProp>
+	<mapping cb:dec="984080" type="PUA">U+F0410</mapping>
+</char>
+<char xml:id="CB01055">
+	<charName>CBETA CHARACTER CB01055</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[泳-永+盥]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>盥</value>
+	</charProp>
+	<mapping type="unicode">U+240D7</mapping>
+	<mapping cb:dec="984095" type="PUA">U+F041F</mapping>
+</char>
+<char xml:id="CB01088">
+	<charName>CBETA CHARACTER CB01088</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[髟/(百-日+目)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>鬘</value>
+	</charProp>
+	<mapping type="unicode">U+29B48</mapping>
+	<mapping cb:dec="984128" type="PUA">U+F0440</mapping>
+</char>
+<char xml:id="CB01421">
+	<charName>CBETA CHARACTER CB01421</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*戒]</value>
+	</charProp>
+	<mapping type="unicode">U+3591</mapping>
+	<mapping cb:dec="984461" type="PUA">U+F058D</mapping>
+</char>
+<char xml:id="CB01524">
+	<charName>CBETA CHARACTER CB01524</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[月*巳]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>肥</value>
+	</charProp>
+	<mapping type="unicode">U+2663A</mapping>
+	<mapping cb:dec="984564" type="PUA">U+F05F4</mapping>
+</char>
+<char xml:id="CB01595">
+	<charName>CBETA CHARACTER CB01595</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[旁*毛]</value>
+	</charProp>
+	<mapping type="unicode">U+23BDF</mapping>
+	<mapping cb:dec="984635" type="PUA">U+F063B</mapping>
+</char>
+<char xml:id="CB01606">
+	<charName>CBETA CHARACTER CB01606</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[骨*力]</value>
+	</charProp>
+	<mapping type="unicode">U+4BC7</mapping>
+	<mapping cb:dec="984646" type="PUA">U+F0646</mapping>
+</char>
+<char xml:id="CB01706">
+	<charName>CBETA CHARACTER CB01706</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[金*氏]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>鉹</value>
+	</charProp>
+	<mapping type="unicode">U+2894C</mapping>
+	<mapping cb:dec="984746" type="PUA">U+F06AA</mapping>
+</char>
+<char xml:id="CB01961">
+	<charName>CBETA CHARACTER CB01961</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[乏-之+虫]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>虫</value>
+	</charProp>
+	<mapping type="unicode">U+459D</mapping>
+	<mapping cb:dec="985001" type="PUA">U+F07A9</mapping>
+</char>
+<char xml:id="CB02116">
+	<charName>CBETA CHARACTER CB02116</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[打-丁+雚]</value>
+	</charProp>
+	<mapping type="unicode">U+3A72</mapping>
+	<mapping cb:dec="985156" type="PUA">U+F0844</mapping>
+</char>
+<char xml:id="CB02148">
+	<charName>CBETA CHARACTER CB02148</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[怡-台+巿]</value>
+	</charProp>
+	<mapping type="unicode">U+3904</mapping>
+	<mapping cb:dec="985188" type="PUA">U+F0864</mapping>
+</char>
+<char xml:id="CB02510">
+	<charName>CBETA CHARACTER CB02510</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[盻-八]</value>
+	</charProp>
+	<mapping type="unicode">U+400E</mapping>
+	<mapping cb:dec="985550" type="PUA">U+F09CE</mapping>
+</char>
+<char xml:id="CB02544">
+	<charName>CBETA CHARACTER CB02544</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[目*昜]</value>
+	</charProp>
+	<mapping type="unicode">U+4051</mapping>
+	<mapping cb:dec="985584" type="PUA">U+F09F0</mapping>
+</char>
+<char xml:id="CB02547">
+	<charName>CBETA CHARACTER CB02547</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[而/火]</value>
+	</charProp>
+	<mapping type="unicode">U+43A1</mapping>
+	<mapping cb:dec="985587" type="PUA">U+F09F3</mapping>
+</char>
+<char xml:id="CB02610">
+	<charName>CBETA CHARACTER CB02610</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[木*沓]</value>
+	</charProp>
+	<mapping type="unicode">U+3B7C</mapping>
+	<mapping cb:dec="985650" type="PUA">U+F0A32</mapping>
+</char>
+<char xml:id="CB02666">
+	<charName>CBETA CHARACTER CB02666</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[齒*虐]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>齶</value>
+	</charProp>
+	<mapping type="unicode">U+2A63D</mapping>
+	<mapping cb:dec="985706" type="PUA">U+F0A6A</mapping>
+</char>
+<char xml:id="CB02737">
+	<charName>CBETA CHARACTER CB02737</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*長]</value>
+	</charProp>
+	<mapping cb:dec="985777" type="PUA">U+F0AB1</mapping>
+</char>
+<char xml:id="CB02758">
+	<charName>CBETA CHARACTER CB02758</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[月*且]</value>
+	</charProp>
+	<mapping type="unicode">U+43E3</mapping>
+	<mapping cb:dec="985798" type="PUA">U+F0AC6</mapping>
+</char>
+<char xml:id="CB02779">
+	<charName>CBETA CHARACTER CB02779</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[糸*多]</value>
+	</charProp>
+	<mapping type="unicode">U+25FEB</mapping>
+	<mapping cb:dec="985819" type="PUA">U+F0ADB</mapping>
+</char>
+<char xml:id="CB02780">
+	<charName>CBETA CHARACTER CB02780</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[糸*枲]</value>
+	</charProp>
+	<mapping type="unicode">U+26085</mapping>
+	<mapping cb:dec="985820" type="PUA">U+F0ADC</mapping>
+</char>
+<char xml:id="CB02795">
+	<charName>CBETA CHARACTER CB02795</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[革*亟]</value>
+	</charProp>
+	<mapping type="unicode">U+4A6F</mapping>
+	<mapping cb:dec="985835" type="PUA">U+F0AEB</mapping>
+</char>
+<char xml:id="CB02796">
+	<charName>CBETA CHARACTER CB02796</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宴-女+安]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>宴</value>
+	</charProp>
+	<mapping type="unicode">U+21A77</mapping>
+	<mapping cb:dec="985836" type="PUA">U+F0AEC</mapping>
+</char>
+<char xml:id="CB02853">
+	<charName>CBETA CHARACTER CB02853</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[打-丁+監]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>檻</value>
+	</charProp>
+	<mapping type="unicode">U+3A5C</mapping>
+	<mapping cb:dec="985893" type="PUA">U+F0B25</mapping>
+</char>
+<char xml:id="CB02863">
+	<charName>CBETA CHARACTER CB02863</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[利-禾+夾]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>刺</value>
+	</charProp>
+	<mapping type="unicode">U+34E8</mapping>
+	<mapping cb:dec="985903" type="PUA">U+F0B2F</mapping>
+</char>
+<char xml:id="CB03038">
+	<charName>CBETA CHARACTER CB03038</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[木*甫]</value>
+	</charProp>
+	<mapping type="unicode">U+3B6A</mapping>
+	<mapping cb:dec="986078" type="PUA">U+F0BDE</mapping>
+</char>
+<char xml:id="CB03192">
+	<charName>CBETA CHARACTER CB03192</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[夗/貝]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>貿</value>
+	</charProp>
+	<mapping type="unicode">U+27D4D</mapping>
+	<mapping cb:dec="986232" type="PUA">U+F0C78</mapping>
+</char>
+<char xml:id="CB03495">
+	<charName>CBETA CHARACTER CB03495</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*男]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>喃</value>
+	</charProp>
+	<mapping type="unicode">U+20CB8</mapping>
+	<mapping cb:dec="986535" type="PUA">U+F0DA7</mapping>
+</char>
+<char xml:id="CB03738">
+	<charName>CBETA CHARACTER CB03738</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[肄-聿+(企-止+米)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>隸</value>
+	</charProp>
+	<mapping cb:dec="986778" type="PUA">U+F0E9A</mapping>
+</char>
+<char xml:id="CB03901">
+	<charName>CBETA CHARACTER CB03901</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[病-丙+斯]</value>
+	</charProp>
+	<mapping type="unicode">U+24E8A</mapping>
+	<mapping cb:dec="986941" type="PUA">U+F0F3D</mapping>
+</char>
+<char xml:id="CB03947">
+	<charName>CBETA CHARACTER CB03947</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(上/天)*(企-止+米)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>隸</value>
+	</charProp>
+	<mapping cb:dec="986987" type="PUA">U+F0F6B</mapping>
+</char>
+<char xml:id="CB03982">
+	<charName>CBETA CHARACTER CB03982</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*是]</value>
+	</charProp>
+	<mapping type="unicode">U+35B7</mapping>
+	<mapping cb:dec="987022" type="PUA">U+F0F8E</mapping>
+</char>
+<char xml:id="CB04081">
+	<charName>CBETA CHARACTER CB04081</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[目*窅]</value>
+	</charProp>
+	<mapping type="unicode">U+2523E</mapping>
+	<mapping cb:dec="987121" type="PUA">U+F0FF1</mapping>
+</char>
+<char xml:id="CB04112">
+	<charName>CBETA CHARACTER CB04112</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[言*兮]</value>
+	</charProp>
+	<mapping type="unicode">U+46B7</mapping>
+	<mapping cb:dec="987152" type="PUA">U+F1010</mapping>
+</char>
+<char xml:id="CB04119">
+	<charName>CBETA CHARACTER CB04119</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[並*毛]</value>
+	</charProp>
+	<mapping type="unicode">U+23BA7</mapping>
+	<mapping cb:dec="987159" type="PUA">U+F1017</mapping>
+</char>
+<char xml:id="CB04216">
+	<charName>CBETA CHARACTER CB04216</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[竺-二+奧]</value>
+	</charProp>
+	<mapping type="unicode">U+425B</mapping>
+	<mapping cb:dec="987256" type="PUA">U+F1078</mapping>
+</char>
+<char xml:id="CB04245">
+	<charName>CBETA CHARACTER CB04245</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[喋-口+目]</value>
+	</charProp>
+	<mapping type="unicode">U+404B</mapping>
+	<mapping cb:dec="987285" type="PUA">U+F1095</mapping>
+</char>
+<char xml:id="CB04411">
+	<charName>CBETA CHARACTER CB04411</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[豁/土]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>壑</value>
+	</charProp>
+	<mapping cb:dec="987451" type="PUA">U+F113B</mapping>
+</char>
+<char xml:id="CB04447">
+	<charName>CBETA CHARACTER CB04447</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[月*互]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>胝</value>
+	</charProp>
+	<mapping type="unicode">U+26641</mapping>
+	<mapping cb:dec="987487" type="PUA">U+F115F</mapping>
+</char>
+<char xml:id="CB04456">
+	<charName>CBETA CHARACTER CB04456</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[更-一]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>臾</value>
+	</charProp>
+	<mapping type="normal_unicode">U+3B30</mapping>
+	<mapping cb:dec="987496" type="PUA">U+F1168</mapping>
+</char>
+<char xml:id="CB04552">
+	<charName>CBETA CHARACTER CB04552</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[凵@又]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>凶</value>
+	</charProp>
+	<mapping cb:dec="987592" type="PUA">U+F11C8</mapping>
+</char>
+<char xml:id="CB04565">
+	<charName>CBETA CHARACTER CB04565</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[利-禾+桼]</value>
+	</charProp>
+	<mapping type="unicode">U+34FC</mapping>
+	<mapping cb:dec="987605" type="PUA">U+F11D5</mapping>
+</char>
+<char xml:id="CB04732">
+	<charName>CBETA CHARACTER CB04732</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[豊*盍]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>豔</value>
+	</charProp>
+	<mapping type="unicode">U+27C1F</mapping>
+	<mapping cb:dec="987772" type="PUA">U+F127C</mapping>
+</char>
+<char xml:id="CB04974">
+	<charName>CBETA CHARACTER CB04974</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[夕/鹿]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>麤</value>
+	</charProp>
+	<mapping cb:dec="988014" type="PUA">U+F136E</mapping>
+</char>
+<char xml:id="CB05033">
+	<charName>CBETA CHARACTER CB05033</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[金*截]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>鐵</value>
+	</charProp>
+	<mapping type="unicode">U+496B</mapping>
+	<mapping cb:dec="988073" type="PUA">U+F13A9</mapping>
+</char>
+<char xml:id="CB05224">
+	<charName>CBETA CHARACTER CB05224</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[婁*頁]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>髏</value>
+	</charProp>
+	<mapping type="unicode">U+4AEB</mapping>
+	<mapping cb:dec="988264" type="PUA">U+F1468</mapping>
+</char>
+<char xml:id="CB05226">
+	<charName>CBETA CHARACTER CB05226</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[斯/言]</value>
+	</charProp>
+	<mapping type="unicode">U+27B0A</mapping>
+	<mapping cb:dec="988266" type="PUA">U+F146A</mapping>
+</char>
+<char xml:id="CB05315">
+	<charName>CBETA CHARACTER CB05315</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[爂-火+焚]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>爨</value>
+	</charProp>
+	<mapping type="unicode">U+3E11</mapping>
+	<mapping cb:dec="988355" type="PUA">U+F14C3</mapping>
+</char>
+<char xml:id="CB05397">
+	<charName>CBETA CHARACTER CB05397</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[黑*敢]</value>
+	</charProp>
+	<mapping type="unicode">U+2A4A0</mapping>
+	<mapping cb:dec="988437" type="PUA">U+F1515</mapping>
+</char>
+<char xml:id="CB05430">
+	<charName>CBETA CHARACTER CB05430</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[羲-ㄎ+乃]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>羲</value>
+	</charProp>
+	<mapping type="unicode">U+263C1</mapping>
+	<mapping cb:dec="988470" type="PUA">U+F1536</mapping>
+</char>
+<char xml:id="CB05532">
+	<charName>CBETA CHARACTER CB05532</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[利-禾+又]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>刈</value>
+	</charProp>
+	<mapping type="unicode">U+206AB</mapping>
+	<mapping cb:dec="988572" type="PUA">U+F159C</mapping>
+</char>
+<char xml:id="CB05644">
+	<charName>CBETA CHARACTER CB05644</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[怡-台+巴]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>怕</value>
+	</charProp>
+	<mapping type="unicode">U+225CC</mapping>
+	<mapping cb:dec="988684" type="PUA">U+F160C</mapping>
+</char>
+<char xml:id="CB05705">
+	<charName>CBETA CHARACTER CB05705</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[病-丙+曷]</value>
+	</charProp>
+	<mapping type="unicode">U+24E0E</mapping>
+	<mapping cb:dec="988745" type="PUA">U+F1649</mapping>
+</char>
+<char xml:id="CB06171">
+	<charName>CBETA CHARACTER CB06171</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[逅-口+巾]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>遞</value>
+	</charProp>
+	<mapping cb:dec="989211" type="PUA">U+F181B</mapping>
+</char>
+<char xml:id="CB06751">
+	<charName>CBETA CHARACTER CB06751</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[目*聶]</value>
+	</charProp>
+	<mapping type="unicode">U+25349</mapping>
+	<mapping cb:dec="989791" type="PUA">U+F1A5F</mapping>
+</char>
+<char xml:id="CB06900">
+	<charName>CBETA CHARACTER CB06900</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[去*欠]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>呿</value>
+	</charProp>
+	<mapping type="unicode">U+3C26</mapping>
+	<mapping cb:dec="989940" type="PUA">U+F1AF4</mapping>
+</char>
+<char xml:id="CB06902">
+	<charName>CBETA CHARACTER CB06902</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[由/日]</value>
+	</charProp>
+	<mapping cb:dec="989942" type="PUA">U+F1AF6</mapping>
+</char>
+<char xml:id="CB06960">
+	<charName>CBETA CHARACTER CB06960</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[恕-女+工]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>恐</value>
+	</charProp>
+	<mapping type="unicode">U+22662</mapping>
+	<mapping cb:dec="990000" type="PUA">U+F1B30</mapping>
+</char>
+<char xml:id="CB07065">
+	<charName>CBETA CHARACTER CB07065</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(冰-水+〡)*夫]</value>
+	</charProp>
+	<mapping cb:dec="990105" type="PUA">U+F1B99</mapping>
+</char>
+<char xml:id="CB07140">
+	<charName>CBETA CHARACTER CB07140</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[山/虫]</value>
+	</charProp>
+	<mapping cb:dec="990180" type="PUA">U+F1BE4</mapping>
+</char>
+<char xml:id="CB07150">
+	<charName>CBETA CHARACTER CB07150</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[互*鳥]</value>
+	</charProp>
+	<mapping type="unicode">U+29FCD</mapping>
+	<mapping cb:dec="990190" type="PUA">U+F1BEE</mapping>
+</char>
+<char xml:id="CB07203">
+	<charName>CBETA CHARACTER CB07203</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[目*長]</value>
+	</charProp>
+	<mapping type="unicode">U+251D4</mapping>
+	<mapping cb:dec="990243" type="PUA">U+F1C23</mapping>
+</char>
+<char xml:id="CB07448">
+	<charName>CBETA CHARACTER CB07448</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宜/八]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>冥</value>
+	</charProp>
+	<mapping type="unicode">U+21A0B</mapping>
+	<mapping cb:dec="990488" type="PUA">U+F1D18</mapping>
+</char>
+<char xml:id="CB07532">
+	<charName>CBETA CHARACTER CB07532</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[敵-ㄆ+殳]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>敵</value>
+	</charProp>
+	<mapping cb:dec="990572" type="PUA">U+F1D6C</mapping>
+</char>
+<char xml:id="CB07554">
+	<charName>CBETA CHARACTER CB07554</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[伭-〦+一]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>低</value>
+	</charProp>
+	<mapping type="normal_unicode">U+201D3</mapping>
+	<mapping cb:dec="990594" type="PUA">U+F1D82</mapping>
+</char>
+<char xml:id="CB07560">
+	<charName>CBETA CHARACTER CB07560</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[絅-口+又]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>網</value>
+	</charProp>
+	<mapping cb:dec="990600" type="PUA">U+F1D88</mapping>
+</char>
+<char xml:id="CB07694">
+	<charName>CBETA CHARACTER CB07694</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[參-(彰-章)+小]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>參</value>
+	</charProp>
+	<mapping type="unicode">U+3558</mapping>
+	<mapping cb:dec="990734" type="PUA">U+F1E0E</mapping>
+</char>
+<char xml:id="CB07710">
+	<charName>CBETA CHARACTER CB07710</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[羸-口+(罩-卓)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>羸</value>
+	</charProp>
+	<mapping cb:dec="990750" type="PUA">U+F1E1E</mapping>
+</char>
+<char xml:id="CB07773">
+	<charName>CBETA CHARACTER CB07773</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[刪-冊+(狦-(狂-王))]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>刪</value>
+	</charProp>
+	<mapping type="unicode">U+20702</mapping>
+	<mapping cb:dec="990813" type="PUA">U+F1E5D</mapping>
+</char>
+<char xml:id="CB07934">
+	<charName>CBETA CHARACTER CB07934</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[尚*殳]</value>
+	</charProp>
+	<mapping type="unicode">U+3C82</mapping>
+	<mapping cb:dec="990974" type="PUA">U+F1EFE</mapping>
+</char>
+<char xml:id="CB07968">
+	<charName>CBETA CHARACTER CB07968</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[虔-文+又]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>虔</value>
+	</charProp>
+	<mapping type="unicode">U+2719B</mapping>
+	<mapping cb:dec="991008" type="PUA">U+F1F20</mapping>
+</char>
+<char xml:id="CB07998">
+	<charName>CBETA CHARACTER CB07998</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[辟/止]</value>
+	</charProp>
+	<mapping type="unicode">U+239A2</mapping>
+	<mapping cb:dec="991038" type="PUA">U+F1F3E</mapping>
+</char>
+<char xml:id="CB08020">
+	<charName>CBETA CHARACTER CB08020</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[齒*司]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>齝</value>
+	</charProp>
+	<mapping type="unicode">U+2A5EA</mapping>
+	<mapping cb:dec="991060" type="PUA">U+F1F54</mapping>
+</char>
+<char xml:id="CB08054">
+	<charName>CBETA CHARACTER CB08054</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[蜎-口+ㄙ]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>蜎</value>
+	</charProp>
+	<mapping cb:dec="991094" type="PUA">U+F1F76</mapping>
+</char>
+<char xml:id="CB08121">
+	<charName>CBETA CHARACTER CB08121</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[土*壹]</value>
+	</charProp>
+	<mapping type="unicode">U+366A</mapping>
+	<mapping cb:dec="991161" type="PUA">U+F1FB9</mapping>
+</char>
+<char xml:id="CB08141">
+	<charName>CBETA CHARACTER CB08141</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[尸@既]</value>
+	</charProp>
+	<mapping type="unicode">U+21CC5</mapping>
+	<mapping cb:dec="991181" type="PUA">U+F1FCD</mapping>
+</char>
+<char xml:id="CB08295">
+	<charName>CBETA CHARACTER CB08295</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[禾*乃]</value>
+	</charProp>
+	<mapping type="unicode">U+4127</mapping>
+	<mapping cb:dec="991335" type="PUA">U+F2067</mapping>
+</char>
+<char xml:id="CB08334">
+	<charName>CBETA CHARACTER CB08334</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[糸*也]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>紖</value>
+	</charProp>
+	<mapping type="unicode">U+42B6</mapping>
+	<mapping cb:dec="991374" type="PUA">U+F208E</mapping>
+</char>
+<char xml:id="CB08399">
+	<charName>CBETA CHARACTER CB08399</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[言*乃]</value>
+	</charProp>
+	<mapping type="unicode">U+46AE</mapping>
+	<mapping cb:dec="991439" type="PUA">U+F20CF</mapping>
+</char>
+<char xml:id="CB08411">
+	<charName>CBETA CHARACTER CB08411</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[貝*遺]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>遺</value>
+	</charProp>
+	<mapping type="unicode">U+27E3D</mapping>
+	<mapping cb:dec="991451" type="PUA">U+F20DB</mapping>
+</char>
+<char xml:id="CB08486">
+	<charName>CBETA CHARACTER CB08486</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[革*由]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>冑</value>
+	</charProp>
+	<mapping type="unicode">U+4A5C</mapping>
+	<mapping cb:dec="991526" type="PUA">U+F2126</mapping>
+</char>
+<char xml:id="CB08521">
+	<charName>CBETA CHARACTER CB08521</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[莫/良]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>餕</value>
+	</charProp>
+	<mapping type="unicode">U+26FC9</mapping>
+	<mapping cb:dec="991561" type="PUA">U+F2149</mapping>
+</char>
+<char xml:id="CB08552">
+	<charName>CBETA CHARACTER CB08552</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[雍/月]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>臃</value>
+	</charProp>
+	<mapping type="unicode">U+2685A</mapping>
+	<mapping cb:dec="991592" type="PUA">U+F2168</mapping>
+</char>
+<char xml:id="CB08611">
+	<charName>CBETA CHARACTER CB08611</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[彳*勻]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>徇</value>
+	</charProp>
+	<mapping type="unicode">U+224C8</mapping>
+	<mapping cb:dec="991651" type="PUA">U+F21A3</mapping>
+</char>
+<char xml:id="CB08641">
+	<charName>CBETA CHARACTER CB08641</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[堇*少]</value>
+	</charProp>
+	<mapping type="unicode">U+377B</mapping>
+	<mapping cb:dec="991681" type="PUA">U+F21C1</mapping>
+</char>
+<char xml:id="CB08762">
+	<charName>CBETA CHARACTER CB08762</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宋-木+儿]</value>
+	</charProp>
+	<mapping type="normal_unicode">U+5B82</mapping>
+	<mapping cb:dec="991802" type="PUA">U+F223A</mapping>
+</char>
+<char xml:id="CB08764">
+	<charName>CBETA CHARACTER CB08764</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宋-木+取]</value>
+	</charProp>
+	<mapping type="unicode">U+3761</mapping>
+	<mapping cb:dec="991804" type="PUA">U+F223C</mapping>
+</char>
+<char xml:id="CB08782">
+	<charName>CBETA CHARACTER CB08782</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[戒-廾+矛]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>矛</value>
+	</charProp>
+	<mapping type="unicode">U+229B5</mapping>
+	<mapping cb:dec="991822" type="PUA">U+F224E</mapping>
+</char>
+<char xml:id="CB08857">
+	<charName>CBETA CHARACTER CB08857</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[阿-可+咢]</value>
+	</charProp>
+	<mapping type="unicode">U+28EA8</mapping>
+	<mapping cb:dec="991897" type="PUA">U+F2299</mapping>
+</char>
+<char xml:id="CB08887">
+	<charName>CBETA CHARACTER CB08887</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[庭-壬+手]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>庭</value>
+	</charProp>
+	<mapping cb:dec="991927" type="PUA">U+F22B7</mapping>
+</char>
+<char xml:id="CB08888">
+	<charName>CBETA CHARACTER CB08888</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[挺-壬+手]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>挺</value>
+	</charProp>
+	<mapping cb:dec="991928" type="PUA">U+F22B8</mapping>
+</char>
+<char xml:id="CB08891">
+	<charName>CBETA CHARACTER CB08891</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[栗-木+心]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>惡</value>
+	</charProp>
+	<mapping type="unicode">U+22663</mapping>
+	<mapping cb:dec="991931" type="PUA">U+F22BB</mapping>
+</char>
+<char xml:id="CB08894">
+	<charName>CBETA CHARACTER CB08894</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[烈-列+芻]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>炒</value>
+	</charProp>
+	<mapping type="unicode">U+24309</mapping>
+	<mapping cb:dec="991934" type="PUA">U+F22BE</mapping>
+</char>
+<char xml:id="CB08902">
+	<charName>CBETA CHARACTER CB08902</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[病-丙+衰]</value>
+	</charProp>
+	<mapping type="unicode">U+24E2C</mapping>
+	<mapping cb:dec="991942" type="PUA">U+F22C6</mapping>
+</char>
+<char xml:id="CB08961">
+	<charName>CBETA CHARACTER CB08961</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[這-言+彖]</value>
+	</charProp>
+	<mapping type="unicode">U+28535</mapping>
+	<mapping cb:dec="992001" type="PUA">U+F2301</mapping>
+</char>
+<char xml:id="CB08974">
+	<charName>CBETA CHARACTER CB08974</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[惱-囟+山]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>惱</value>
+	</charProp>
+	<mapping type="unicode">U+22649</mapping>
+	<mapping cb:dec="992014" type="PUA">U+F230E</mapping>
+</char>
+<char xml:id="CB09112">
+	<charName>CBETA CHARACTER CB09112</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[佫-口+用]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>備</value>
+	</charProp>
+	<mapping cb:dec="992152" type="PUA">U+F2398</mapping>
+</char>
+<char xml:id="CB09118">
+	<charName>CBETA CHARACTER CB09118</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[扃-戶+右]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>喬</value>
+	</charProp>
+	<mapping type="unicode">U+20CEE</mapping>
+	<mapping cb:dec="992158" type="PUA">U+F239E</mapping>
+</char>
+<char xml:id="CB09125">
+	<charName>CBETA CHARACTER CB09125</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[紿-口+月]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>絹</value>
+	</charProp>
+	<mapping cb:dec="992165" type="PUA">U+F23A5</mapping>
+</char>
+<char xml:id="CB09260">
+	<charName>CBETA CHARACTER CB09260</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[片*(厂@干)]</value>
+	</charProp>
+	<mapping cb:dec="992300" type="PUA">U+F242C</mapping>
+</char>
+<char xml:id="CB09311">
+	<charName>CBETA CHARACTER CB09311</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(〡*臣*巳)/女]</value>
+	</charProp>
+	<mapping type="normal_unicode">U+217EE</mapping>
+	<mapping cb:dec="992351" type="PUA">U+F245F</mapping>
+</char>
+<char xml:id="CB09320">
+	<charName>CBETA CHARACTER CB09320</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(利-禾+萌)/耳]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>聵</value>
+	</charProp>
+	<mapping cb:dec="992360" type="PUA">U+F2468</mapping>
+</char>
+<char xml:id="CB09400">
+	<charName>CBETA CHARACTER CB09400</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[利-禾+(ㄆ/小)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>剎</value>
+	</charProp>
+	<mapping type="unicode">U+206F4</mapping>
+	<mapping cb:dec="992440" type="PUA">U+F24B8</mapping>
+</char>
+<char xml:id="CB09529">
+	<charName>CBETA CHARACTER CB09529</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[憍-(夭/口)+右]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>憍</value>
+	</charProp>
+	<mapping cb:dec="992569" type="PUA">U+F2539</mapping>
+</char>
+<char xml:id="CB09621">
+	<charName>CBETA CHARACTER CB09621</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[擴-黃+(建-干+├)]</value>
+	</charProp>
+	<mapping cb:dec="992661" type="PUA">U+F2595</mapping>
+</char>
+<char xml:id="CB09694">
+	<charName>CBETA CHARACTER CB09694</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[烈-列+(爨-(大/火))]</value>
+	</charProp>
+	<mapping cb:dec="992734" type="PUA">U+F25DE</mapping>
+</char>
+<char xml:id="CB09755">
+	<charName>CBETA CHARACTER CB09755</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[烈-列+(雪-雨+(雪-雨))]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>炒</value>
+	</charProp>
+	<mapping type="normal_unicode">U+24217</mapping>
+	<mapping cb:dec="992795" type="PUA">U+F261B</mapping>
+</char>
+<char xml:id="CB09895">
+	<charName>CBETA CHARACTER CB09895</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[牙-(必-心)+?]</value>
+	</charProp>
+	<mapping type="unicode">U+3E26</mapping>
+	<mapping cb:dec="992935" type="PUA">U+F26A7</mapping>
+</char>
+<char xml:id="CB10056">
+	<charName>CBETA CHARACTER CB10056</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[沃-大+犬]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>沃</value>
+	</charProp>
+	<mapping cb:dec="993096" type="PUA">U+F2748</mapping>
+</char>
+<char xml:id="CB10256">
+	<charName>CBETA CHARACTER CB10256</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[颱-台+舟]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>帆</value>
+	</charProp>
+	<mapping type="unicode">U+295CB</mapping>
+	<mapping cb:dec="993296" type="PUA">U+F2810</mapping>
+</char>
+<char xml:id="CB10308">
+	<charName>CBETA CHARACTER CB10308</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[彳*魚*亍]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>衡</value>
+	</charProp>
+	<mapping type="unicode">U+2258D</mapping>
+	<mapping cb:dec="993348" type="PUA">U+F2844</mapping>
+</char>
+<char xml:id="CB10430">
+	<charName>CBETA CHARACTER CB10430</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[八/又]</value>
+	</charProp>
+	<mapping cb:dec="993470" type="PUA">U+F28BE</mapping>
+</char>
+<char xml:id="CB10438">
+	<charName>CBETA CHARACTER CB10438</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*固]</value>
+	</charProp>
+	<mapping type="unicode">U+20D31</mapping>
+	<mapping cb:dec="993478" type="PUA">U+F28C6</mapping>
+</char>
+<char xml:id="CB10452">
+	<charName>CBETA CHARACTER CB10452</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[土*用]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>堋</value>
+	</charProp>
+	<mapping type="unicode">U+212A4</mapping>
+	<mapping cb:dec="993492" type="PUA">U+F28D4</mapping>
+</char>
+<char xml:id="CB10485">
+	<charName>CBETA CHARACTER CB10485</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[弓*口]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>弘</value>
+	</charProp>
+	<mapping cb:dec="993525" type="PUA">U+F28F5</mapping>
+</char>
+<char xml:id="CB10758">
+	<charName>CBETA CHARACTER CB10758</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[幸*炎]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>燅</value>
+	</charProp>
+	<mapping cb:dec="993798" type="PUA">U+F2A06</mapping>
+</char>
+<char xml:id="CB10806">
+	<charName>CBETA CHARACTER CB10806</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[唐*毛]</value>
+	</charProp>
+	<mapping type="unicode">U+3CA5</mapping>
+	<mapping cb:dec="993846" type="PUA">U+F2A36</mapping>
+</char>
+<char xml:id="CB10832">
+	<charName>CBETA CHARACTER CB10832</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[崇*又]</value>
+	</charProp>
+	<mapping cb:dec="993872" type="PUA">U+F2A50</mapping>
+</char>
+<char xml:id="CB10840">
+	<charName>CBETA CHARACTER CB10840</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[習*戈]</value>
+	</charProp>
+	<mapping type="unicode">U+39BB</mapping>
+	<mapping cb:dec="993880" type="PUA">U+F2A58</mapping>
+</char>
+<char xml:id="CB10975">
+	<charName>CBETA CHARACTER CB10975</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[利-禾+咢]</value>
+	</charProp>
+	<mapping type="unicode">U+34F5</mapping>
+	<mapping cb:dec="994015" type="PUA">U+F2ADF</mapping>
+</char>
+<char xml:id="CB11301">
+	<charName>CBETA CHARACTER CB11301</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[門@(八/允)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>閱</value>
+	</charProp>
+	<mapping cb:dec="994341" type="PUA">U+F2C25</mapping>
+</char>
+<char xml:id="CB11540">
+	<charName>CBETA CHARACTER CB11540</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[畫*斤]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>斲</value>
+	</charProp>
+	<mapping type="unicode">U+230C2</mapping>
+	<mapping cb:dec="994580" type="PUA">U+F2D14</mapping>
+</char>
+<char xml:id="CB11894">
+	<charName>CBETA CHARACTER CB11894</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[瓜-、]</value>
+	</charProp>
+	<mapping type="unicode">U+244F0</mapping>
+	<mapping cb:dec="994934" type="PUA">U+F2E76</mapping>
+</char>
+<char xml:id="CB11920">
+	<charName>CBETA CHARACTER CB11920</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[禾*不]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>秠</value>
+	</charProp>
+	<mapping type="unicode">U+25763</mapping>
+	<mapping cb:dec="994960" type="PUA">U+F2E90</mapping>
+</char>
+<char xml:id="CB12025">
+	<charName>CBETA CHARACTER CB12025</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[車*秋]</value>
+	</charProp>
+	<mapping type="unicode">U+2834A</mapping>
+	<mapping cb:dec="995065" type="PUA">U+F2EF9</mapping>
+</char>
+<char xml:id="CB12202">
+	<charName>CBETA CHARACTER CB12202</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[彖*殳]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>毅</value>
+	</charProp>
+	<mapping type="normal_unicode">U+23AA3</mapping>
+	<mapping cb:dec="995242" type="PUA">U+F2FAA</mapping>
+</char>
+<char xml:id="CB12561">
+	<charName>CBETA CHARACTER CB12561</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[棇-心+儿]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>梲</value>
+	</charProp>
+	<mapping cb:dec="995601" type="PUA">U+F3111</mapping>
+</char>
+<char xml:id="CB12620">
+	<charName>CBETA CHARACTER CB12620</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[門@(豆*斗)]</value>
+	</charProp>
+	<mapping type="unicode">U+28D9C</mapping>
+	<mapping cb:dec="995660" type="PUA">U+F314C</mapping>
+</char>
+<char xml:id="CB12752">
+	<charName>CBETA CHARACTER CB12752</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[弓*(乞-乙+小)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>彌</value>
+	</charProp>
+	<mapping type="normal_unicode">U+5F25</mapping>
+	<mapping cb:dec="995792" type="PUA">U+F31D0</mapping>
+</char>
+<char xml:id="CB12777">
+	<charName>CBETA CHARACTER CB12777</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[序-予+(更-一)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>庾</value>
+	</charProp>
+	<mapping type="unicode">U+22214</mapping>
+	<mapping cb:dec="995817" type="PUA">U+F31E9</mapping>
+</char>
+<char xml:id="CB12865">
+	<charName>CBETA CHARACTER CB12865</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[翾-羽+月]</value>
+	</charProp>
+	<mapping cb:dec="995905" type="PUA">U+F3241</mapping>
+</char>
+<char xml:id="CB12919">
+	<charName>CBETA CHARACTER CB12919</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[利-禾+(罩-卓+止)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>剛</value>
+	</charProp>
+	<mapping cb:dec="995959" type="PUA">U+F3277</mapping>
+</char>
+<char xml:id="CB13177">
+	<charName>CBETA CHARACTER CB13177</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[肆-聿+(彰-章+(曼-又+方))]</value>
+	</charProp>
+	<mapping cb:dec="996217" type="PUA">U+F3379</mapping>
+</char>
+<char xml:id="CB13251">
+	<charName>CBETA CHARACTER CB13251</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[玝-十+小]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>珍</value>
+	</charProp>
+	<mapping type="normal_unicode">U+73CE</mapping>
+	<mapping cb:dec="996291" type="PUA">U+F33C3</mapping>
+</char>
+<char xml:id="CB13283">
+	<charName>CBETA CHARACTER CB13283</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[女*(乞-乙+小)]</value>
+	</charProp>
+	<mapping type="normal_unicode">U+59B3</mapping>
+	<mapping cb:dec="996323" type="PUA">U+F33E3</mapping>
+</char>
+<char xml:id="CB13454">
+	<charName>CBETA CHARACTER CB13454</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[簽*支]</value>
+	</charProp>
+	<mapping cb:dec="996494" type="PUA">U+F348E</mapping>
+</char>
+<char xml:id="CB14187">
+	<charName>CBETA CHARACTER CB14187</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[怡-台+奄]</value>
+	</charProp>
+	<mapping type="unicode">U+393F</mapping>
+	<mapping cb:dec="997227" type="PUA">U+F376B</mapping>
+</char>
+<char xml:id="CB14245">
+	<charName>CBETA CHARACTER CB14245</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[〦/失/衣]</value>
+	</charProp>
+	<mapping cb:dec="997285" type="PUA">U+F37A5</mapping>
+</char>
+<char xml:id="CB15032">
+	<charName>CBETA CHARACTER CB15032</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[白/八]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>貌</value>
+	</charProp>
+	<mapping type="unicode">U+34B5</mapping>
+	<mapping cb:dec="998072" type="PUA">U+F3AB8</mapping>
+</char>
+<char xml:id="CB15164">
+	<charName>CBETA CHARACTER CB15164</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(厂@((既-旡)-日+口))*頁]</value>
+	</charProp>
+	<mapping cb:dec="998204" type="PUA">U+F3B3C</mapping>
+</char>
+<char xml:id="CB15325">
+	<charName>CBETA CHARACTER CB15325</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[逅-口+巿]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>遞</value>
+	</charProp>
+	<mapping cb:dec="998365" type="PUA">U+F3BDD</mapping>
+</char>
+<char xml:id="CB15593">
+	<charName>CBETA CHARACTER CB15593</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[〦/(刀*了*(留-刀-田))/韭]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>齏</value>
+	</charProp>
+	<mapping cb:dec="998633" type="PUA">U+F3CE9</mapping>
+</char>
+<char xml:id="CB15656">
+	<charName>CBETA CHARACTER CB15656</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[阿-可+舀]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>陷</value>
+	</charProp>
+	<mapping type="unicode">U+49DF</mapping>
+	<mapping cb:dec="998696" type="PUA">U+F3D28</mapping>
+</char>
+<char xml:id="CB16287">
+	<charName>CBETA CHARACTER CB16287</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[瞽-支+皮]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>瞽</value>
+	</charProp>
+	<mapping type="unicode">U+25312</mapping>
+	<mapping cb:dec="999327" type="PUA">U+F3F9F</mapping>
+</char>
+<char xml:id="CB16347">
+	<charName>CBETA CHARACTER CB16347</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[卄/宋]</value>
+	</charProp>
+	<mapping type="unicode">U+26BD5</mapping>
+	<mapping cb:dec="999387" type="PUA">U+F3FDB</mapping>
+</char>
+<char xml:id="CB16765">
+	<charName>CBETA CHARACTER CB16765</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[薩-產+(辛/工)]</value>
+	</charProp>
+	<mapping cb:dec="999805" type="PUA">U+F417D</mapping>
+</char>
+<char xml:id="CB16971">
+	<charName>CBETA CHARACTER CB16971</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[火*曷]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>暍</value>
+	</charProp>
+	<mapping type="unicode">U+3DCE</mapping>
+	<mapping cb:dec="1000011" type="PUA">U+F424B</mapping>
+</char>
+<char xml:id="CB17236">
+	<charName>CBETA CHARACTER CB17236</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[女*芙]</value>
+	</charProp>
+	<mapping cb:dec="1000276" type="PUA">U+F4354</mapping>
+</char>
+<char xml:id="CB18232">
+	<charName>CBETA CHARACTER CB18232</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[米*睪]</value>
+	</charProp>
+	<mapping type="unicode">U+25F36</mapping>
+	<mapping cb:dec="1001272" type="PUA">U+F4738</mapping>
+</char>
+<char xml:id="CB21867">
+	<charName>CBETA CHARACTER CB21867</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[殤-昜+小]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>殄</value>
+	</charProp>
+	<mapping type="normal_unicode">U+239E0</mapping>
+	<mapping cb:dec="1004907" type="PUA">U+F556B</mapping>
+</char>
+<char xml:id="CB21879">
+	<charName>CBETA CHARACTER CB21879</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[辟-口+月]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>臂</value>
+	</charProp>
+	<mapping cb:dec="1004919" type="PUA">U+F5577</mapping>
+</char>
+<char xml:id="CB21945">
+	<charName>CBETA CHARACTER CB21945</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[淫-壬+(工/山)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>淫</value>
+	</charProp>
+	<mapping cb:dec="1004985" type="PUA">U+F55B9</mapping>
+</char>
+<char xml:id="CB21990">
+	<charName>CBETA CHARACTER CB21990</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[黎-(暴-(日/共))+小]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>黎</value>
+	</charProp>
+	<mapping type="unicode">U+257D6</mapping>
+	<mapping cb:dec="1005030" type="PUA">U+F55E6</mapping>
+</char>
+<char xml:id="CB22214">
+	<charName>CBETA CHARACTER CB22214</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[卄/料]</value>
+	</charProp>
+	<mapping cb:dec="1005254" type="PUA">U+F56C6</mapping>
+</char>
+<char xml:id="CB22226">
+	<charName>CBETA CHARACTER CB22226</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[千/止]</value>
+	</charProp>
+	<mapping cb:dec="1005266" type="PUA">U+F56D2</mapping>
+</char>
+<char xml:id="CB22230">
+	<charName>CBETA CHARACTER CB22230</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*彧]</value>
+	</charProp>
+	<mapping cb:dec="1005270" type="PUA">U+F56D6</mapping>
+</char>
+<char xml:id="CB22234">
+	<charName>CBETA CHARACTER CB22234</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[土*巴]</value>
+	</charProp>
+	<mapping cb:dec="1005274" type="PUA">U+F56DA</mapping>
+</char>
+<char xml:id="CB22243">
+	<charName>CBETA CHARACTER CB22243</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[土/軍]</value>
+	</charProp>
+	<mapping cb:dec="1005283" type="PUA">U+F56E3</mapping>
+</char>
+<char xml:id="CB22347">
+	<charName>CBETA CHARACTER CB22347</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[糸*桓]</value>
+	</charProp>
+	<mapping cb:dec="1005387" type="PUA">U+F574B</mapping>
+</char>
+<char xml:id="CB22421">
+	<charName>CBETA CHARACTER CB22421</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[甚*支]</value>
+	</charProp>
+	<mapping cb:dec="1005461" type="PUA">U+F5795</mapping>
+</char>
+<char xml:id="CB22443">
+	<charName>CBETA CHARACTER CB22443</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[鬲*昌]</value>
+	</charProp>
+	<mapping cb:dec="1005483" type="PUA">U+F57AB</mapping>
+</char>
+<char xml:id="CB22449">
+	<charName>CBETA CHARACTER CB22449</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[敝/韭]</value>
+	</charProp>
+	<mapping cb:dec="1005489" type="PUA">U+F57B1</mapping>
+</char>
+<char xml:id="CB22510">
+	<charName>CBETA CHARACTER CB22510</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[蟗-出]</value>
+	</charProp>
+	<mapping cb:dec="1005550" type="PUA">U+F57EE</mapping>
+</char>
+<char xml:id="CB22554">
+	<charName>CBETA CHARACTER CB22554</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[打-丁+耎]</value>
+	</charProp>
+	<mapping cb:dec="1005594" type="PUA">U+F581A</mapping>
+</char>
+<char xml:id="CB22555">
+	<charName>CBETA CHARACTER CB22555</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[打-丁+霝]</value>
+	</charProp>
+	<mapping cb:dec="1005595" type="PUA">U+F581B</mapping>
+</char>
+<char xml:id="CB22562">
+	<charName>CBETA CHARACTER CB22562</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[向-口+又]</value>
+	</charProp>
+	<mapping cb:dec="1005602" type="PUA">U+F5822</mapping>
+</char>
+<char xml:id="CB22613">
+	<charName>CBETA CHARACTER CB22613</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[竺-二+盒]</value>
+	</charProp>
+	<mapping cb:dec="1005653" type="PUA">U+F5855</mapping>
+</char>
+<char xml:id="CB22624">
+	<charName>CBETA CHARACTER CB22624</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[虺-虫+皮]</value>
+	</charProp>
+	<mapping cb:dec="1005664" type="PUA">U+F5860</mapping>
+</char>
+<char xml:id="CB22627">
+	<charName>CBETA CHARACTER CB22627</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[咒-几+田]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>留</value>
+	</charProp>
+	<mapping type="unicode">U+3F5E</mapping>
+	<mapping cb:dec="1005667" type="PUA">U+F5863</mapping>
+</char>
+<char xml:id="CB22628">
+	<charName>CBETA CHARACTER CB22628</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[恙-心+ㄆ]</value>
+	</charProp>
+	<mapping cb:dec="1005668" type="PUA">U+F5864</mapping>
+</char>
+<char xml:id="CB22651">
+	<charName>CBETA CHARACTER CB22651</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[毫-毛+老]</value>
+	</charProp>
+	<mapping cb:dec="1005691" type="PUA">U+F587B</mapping>
+</char>
+<char xml:id="CB22696">
+	<charName>CBETA CHARACTER CB22696</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[監-皿+言]</value>
+	</charProp>
+	<mapping cb:dec="1005736" type="PUA">U+F58A8</mapping>
+</char>
+<char xml:id="CB22702">
+	<charName>CBETA CHARACTER CB22702</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[瘠-月+日]</value>
+	</charProp>
+	<mapping cb:dec="1005742" type="PUA">U+F58AE</mapping>
+</char>
+<char xml:id="CB22719">
+	<charName>CBETA CHARACTER CB22719</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[鼬-由+夕]</value>
+	</charProp>
+	<mapping cb:dec="1005759" type="PUA">U+F58BF</mapping>
+</char>
+<char xml:id="CB22729">
+	<charName>CBETA CHARACTER CB22729</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[呫-口+乙]</value>
+	</charProp>
+	<mapping cb:dec="1005769" type="PUA">U+F58C9</mapping>
+</char>
+<char xml:id="CB22754">
+	<charName>CBETA CHARACTER CB22754</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[葺-耳+十]</value>
+	</charProp>
+	<mapping cb:dec="1005794" type="PUA">U+F58E2</mapping>
+</char>
+<char xml:id="CB22795">
+	<charName>CBETA CHARACTER CB22795</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(台*辛)/木]</value>
+	</charProp>
+	<mapping cb:dec="1005835" type="PUA">U+F590B</mapping>
+</char>
+<char xml:id="CB22819">
+	<charName>CBETA CHARACTER CB22819</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[曰/(夕*ㄗ)]</value>
+	</charProp>
+	<mapping cb:dec="1005859" type="PUA">U+F5923</mapping>
+</char>
+<char xml:id="CB22864">
+	<charName>CBETA CHARACTER CB22864</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[韋*(ㄆ/用)]</value>
+	</charProp>
+	<mapping cb:dec="1005904" type="PUA">U+F5950</mapping>
+</char>
+<char xml:id="CB22893">
+	<charName>CBETA CHARACTER CB22893</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(虎-儿+用)*瓦]</value>
+	</charProp>
+	<mapping cb:dec="1005933" type="PUA">U+F596D</mapping>
+</char>
+<char xml:id="CB22958">
+	<charName>CBETA CHARACTER CB22958</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[車*(乞-乙+小)]</value>
+	</charProp>
+	<mapping cb:dec="1005998" type="PUA">U+F59AE</mapping>
+</char>
+<char xml:id="CB22987">
+	<charName>CBETA CHARACTER CB22987</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[捐-口+(口/一)]</value>
+	</charProp>
+	<mapping cb:dec="1006027" type="PUA">U+F59CB</mapping>
+</char>
+<char xml:id="CB23011">
+	<charName>CBETA CHARACTER CB23011</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[肄-聿+(又/木)]</value>
+	</charProp>
+	<mapping cb:dec="1006051" type="PUA">U+F59E3</mapping>
+</char>
+<char xml:id="CB23053">
+	<charName>CBETA CHARACTER CB23053</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(夕/火)*(廿/火)]</value>
+	</charProp>
+	<mapping cb:dec="1006093" type="PUA">U+F5A0D</mapping>
+</char>
+<char xml:id="CB23057">
+	<charName>CBETA CHARACTER CB23057</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(立/月)*(巳/耳)]</value>
+	</charProp>
+	<mapping cb:dec="1006097" type="PUA">U+F5A11</mapping>
+</char>
+<char xml:id="CB23063">
+	<charName>CBETA CHARACTER CB23063</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[木*((└@口)/月)]</value>
+	</charProp>
+	<mapping cb:dec="1006103" type="PUA">U+F5A17</mapping>
+</char>
+<char xml:id="CB23074">
+	<charName>CBETA CHARACTER CB23074</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[打-丁+(序-予+干)]</value>
+	</charProp>
+	<mapping cb:dec="1006114" type="PUA">U+F5A22</mapping>
+</char>
+<char xml:id="CB23106">
+	<charName>CBETA CHARACTER CB23106</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[爂-火+(烈-列+林)]</value>
+	</charProp>
+	<mapping cb:dec="1006146" type="PUA">U+F5A42</mapping>
+</char>
+<char xml:id="CB23107">
+	<charName>CBETA CHARACTER CB23107</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[獼-爾+(乞-乙+小)]</value>
+	</charProp>
+	<mapping cb:dec="1006147" type="PUA">U+F5A43</mapping>
+</char>
+<char xml:id="CB23153">
+	<charName>CBETA CHARACTER CB23153</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[駭-人+(火-(班-玨))]</value>
+	</charProp>
+	<mapping cb:dec="1006193" type="PUA">U+F5A71</mapping>
+</char>
+<char xml:id="CB23188">
+	<charName>CBETA CHARACTER CB23188</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[采-木+(同-(一/口)+午)]</value>
+	</charProp>
+	<mapping cb:dec="1006228" type="PUA">U+F5A94</mapping>
+</char>
+<char xml:id="CB23232">
+	<charName>CBETA CHARACTER CB23232</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[((平-十)/(同-(一/口)+共))*于]</value>
+	</charProp>
+	<mapping cb:dec="1006272" type="PUA">U+F5AC0</mapping>
+</char>
+<char xml:id="CB23237">
+	<charName>CBETA CHARACTER CB23237</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[卄/(利-禾+(夾-(人*人)+(前-刖)))]</value>
+	</charProp>
+	<mapping cb:dec="1006277" type="PUA">U+F5AC5</mapping>
+</char>
+<char xml:id="CB26810">
+	<charName>CBETA CHARACTER CB26810</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(圪-乙+田)/皿]</value>
+	</charProp>
+	<mapping cb:dec="1009850" type="PUA">U+F68BA</mapping>
+</char>
+<char xml:id="CB30072">
+	<charName>CBETA CHARACTER CB30072</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(〦/米)*力]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>敕</value>
+	</charProp>
+	<mapping type="unicode">U+20860</mapping>
+	<mapping cb:dec="1013112" type="PUA">U+F7578</mapping>
+</char>
+<char xml:id="CB30155">
+	<charName>CBETA CHARACTER CB30155</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*垔]</value>
+	</charProp>
+	<mapping type="unicode">U+35B6</mapping>
+	<mapping cb:dec="1013195" type="PUA">U+F75CB</mapping>
+</char>
+<char xml:id="CB30529">
+	<charName>CBETA CHARACTER CB30529</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[皮-(〡/又)+(王/匆)]</value>
+	</charProp>
+	<mapping type="unicode">U+20045</mapping>
+	<mapping cb:dec="1013569" type="PUA">U+F7741</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-11-08T17:24:44">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text rend="no_nor"><body>
+<pb ed="C" xml:id="C056.1163.0813b" n="0813b"/>
+<lb ed="C" n="0813b01"/><milestone unit="juan" n="1"/><cb:div type="xu"><cb:mulu type="序" level="1">序</cb:mulu><head>大唐眾經音義序　　　　　　納</head>
+<lb ed="C" n="0813b02"/><byline cb:type="author">終南太一山<g ref="#CB18232">𥼶</g>氏</byline>
+<lb ed="C" n="0813b03"/><p xml:id="pC056p0813b0301">自法王命駕導之者九乘<g ref="#CB10485">󲣵</g>傳聲教
+<lb ed="C" n="0813b04"/>統之者三藏然則指月之喻無爽於
+<lb ed="C" n="0813b05"/>恒規因言之義有契於常則所以實
+<lb ed="C" n="0813b06"/>相窅冥開宗於文字<g ref="#CB02116">㩲</g>道綜御崇尚
+<lb ed="C" n="0813b07"/>於方言且夫一音各解惟聖之筌蹄
+<lb ed="C" n="0813b08"/>隨緣別悟在凡之准的西梵天語遂
+<lb ed="C" n="0813b09"/>古莫虧東華人言<g ref="#CB00403">㳂</g>時遷<g ref="#CB03192">𧵍</g>至如說
+<lb ed="C" n="0813b10"/>文在漢字止九千韻集出唐言增三
+<lb ed="C" n="0813b11"/>萬代代繁廣符六文而<g ref="#CB08888">󲊸</g>生時時間
+<lb ed="C" n="0813b12"/>發寄八體而陳迹求其本據諒在前
+<lb ed="C" n="0813b13"/>摸覈其離廣誠歸物議夫以佛教東
+<lb ed="C" n="0813b14"/>翻六百餘載舉其綱紐三千餘軸隨
+<lb ed="C" n="0813b15"/>部出音聞之徃說殷鑒群錄未曰大
+<lb ed="C" n="0813b16"/>觀然則必也正名孔君之貽誥隨俗
+<lb ed="C" n="0813b17"/>言晤<g ref="#CB18232">𥼶</g>父之流慈非相無以引心非
+<lb ed="C" n="0813b18"/>聲無以通解有大慈恩寺玄應法師
+<lb ed="C" n="0813b19"/>愽聞強記鏡林菀之宏摽窮討本支
+<lb ed="C" n="0813b20"/>通古今之<g ref="#CB09895">㸦</g>體故能讎挍源流勘<g ref="#CB11301">󲰥</g>
+<lb ed="C" n="0813b21"/>時代刪雅古之野素削澆薄之浮雜
+<lb ed="C" n="0813b22"/>悟通俗而顯教舉集略而騰美真可
+<pb ed="C" xml:id="C056.1163.0813c" n="0813c"/>
+<lb ed="C" n="0813c01"/>謂文字之鴻圖言音之龜鏡者也貞
+<lb ed="C" n="0813c02"/>觀末曆
+<lb ed="C" n="0813c03" type="honorific"/><g ref="#CB30072">𠡠</g>召<g ref="#CB07694">㕘</g>傳宗經正緯咨為實錄因譯
+<lb ed="C" n="0813c04"/>尋<g ref="#CB11301">󲰥</g>捃拾藏經為之音義注<g ref="#CB18232">𥼶</g>訓解
+<lb ed="C" n="0813c05"/>援引群籍證據卓明煥然可領結成
+<lb ed="C" n="0813c06"/>三<g ref="#CB14245">󳞥</g>自前代所出經論諸音依字直
+<lb ed="C" n="0813c07"/>反曾無迫顧致失教義寔迷匡俗今
+<lb ed="C" n="0813c08"/>所作者全異恒倫隨字刪定隨音徵
+<lb ed="C" n="0813c09"/>引并顯唐梵方言翻度雅鄭推十代
+<lb ed="C" n="0813c10"/>之紕紊定一期之風法文非詞費務
+<lb ed="C" n="0813c11"/>在綱正恐好異者輙復略之斯則得
+<lb ed="C" n="0813c12"/>於要約失於義本救弊開信終掩玄
+<lb ed="C" n="0813c13"/>化故重陳委想無昧焉序之云尒。</p></cb:div>
+<lb ed="C" n="0813c14"/><cb:juan fun="open" n="1"><cb:mulu type="卷" n="1"></cb:mulu><cb:jhead>一切經音義卷第一<note place="inline">大乘單本</note></cb:jhead></cb:juan>
+<lb ed="C" n="0813c15"/><byline cb:type="author">翻經沙門玄應撰</byline>
+<lb ed="C" n="0813c16"/><cb:div type="other"><cb:mulu type="其他" level="1">大乘經　單本</cb:mulu><list><item xml:id="itemC056p0813c1601">大方廣佛華嚴經</item><item xml:id="itemC056p0813c1608">大方等大集經</item>
+<lb ed="C" n="0813c17"/><item xml:id="itemC056p0813c1701">大集日藏分經</item><item xml:id="itemC056p0813c1707">大集月藏分經</item>
+<lb ed="C" n="0813c18"/><item xml:id="itemC056p0813c1801">大威德陁羅<g ref="#CB00112">𡰱</g>經</item><item xml:id="itemC056p0813c1808">法炬陁羅<g ref="#CB00112">𡰱</g>經</item></list>
+<lb ed="C" n="0813c19"/><cb:div type="other"><cb:mulu type="其他" level="2">大方廣佛華嚴經</cb:mulu><head>大方廣佛華嚴經</head>
+<lb ed="C" n="0813c20"/><cb:div type="other"><cb:mulu type="其他" level="3">第一卷</cb:mulu><head>第一卷</head>
+<lb ed="C" n="0813c21"/><entry><form>摩竭提</form><cb:def><p xml:id="pC056p0813c2104" rend="margin-left:1em;inline">或云摩竭陁亦言默偈陁又
+<lb ed="C" n="0813c22"/>作摩伽陁皆梵音訛轉也正言摩
+<lb ed="C" n="0813c23"/>揭陁此譯云善勝國或云无<g ref="#CB08974">𢙉</g>害
+<pb ed="C" xml:id="C056.1163.0814a" n="0814a"/>
+<lb ed="C" n="0814a01"/>國一說云摩伽星名此言不<g ref="#CB08891">𢙣</g>主
+<lb ed="C" n="0814a02"/>十二月也陁者<g ref="#CB30529">𠁅</g>也名為不<g ref="#CB08891">𢙣</g><g ref="#CB30529">𠁅</g>
+<lb ed="C" n="0814a03"/>國亦名星<g ref="#CB30529">𠁅</g>國也揭音渠謁反。</p></cb:def></entry>
+<lb ed="C" n="0814a04"/><entry><form>華<g ref="#CB13177">󳍹</g></form><cb:def><p xml:id="pC056p0814a0403" rend="margin-left:1em;inline">梵言俱蘇摩此譯云華摩羅此
+<lb ed="C" n="0814a05"/>譯云<g ref="#CB13177">󳍹</g>音蠻案西國結<g ref="#CB13177">󳍹</g>師多用
+<lb ed="C" n="0814a06"/>蘇摩那華行列結之以為條貫無
+<lb ed="C" n="0814a07"/>問男女貴賤皆此<g ref="#CB00982">㽵</g>嚴或首或身
+<lb ed="C" n="0814a08"/>以為飾好則諸經中有華<g ref="#CB13177">󳍹</g>市天
+<lb ed="C" n="0814a09"/><g ref="#CB13177">󳍹</g>寶<g ref="#CB13177">󳍹</g>等同其事也字體從髟音
+<lb ed="C" n="0814a10"/>所銜反臱聲臱音<g ref="#CB12752">󳇐</g>然反經文作
+<lb ed="C" n="0814a11"/><g ref="#CB01088">𩭈</g>非體也。</p></cb:def></entry>
+<lb ed="C" n="0814a12"/><entry><form>踰摩</form><cb:def><p xml:id="pC056p0814a1203" rend="margin-left:1em;inline">字書作逾同<g ref="#CB12777">𢈔</g>俱反字林踰越
+<lb ed="C" n="0814a13"/>也廣疋踰度也言摩<g ref="#CB00112">𡰱</g>者訛也正
+<lb ed="C" n="0814a14"/>言末<g ref="#CB00112">𡰱</g>謂珠之捴名也。</p></cb:def></entry>
+<lb ed="C" n="0814a15"/><entry><form>罣礙</form><cb:def><p xml:id="pC056p0814a1503" rend="margin-left:1em;inline">字略作罫同胡卦反<g ref="#CB07560">󱶈</g>礙也下
+<lb ed="C" n="0814a16"/>古文硋同五代反說文礙止也又
+<lb ed="C" n="0814a17"/>作閡郭璞以為古文礙字說文閡
+<lb ed="C" n="0814a18"/>外閉也經文作<g ref="#CB01002">㝵</g>音都勒反業衛
+<lb ed="C" n="0814a19"/>宏詔定古文官書<g ref="#CB01002">㝵</g>得二字同體
+<lb ed="C" n="0814a20"/>說文<g ref="#CB01002">㝵</g>取也尚書高宗夢<g ref="#CB01002">㝵</g>說是
+<lb ed="C" n="0814a21"/>也<g ref="#CB01002">㝵</g>非此義。</p></cb:def></entry>
+<lb ed="C" n="0814a22"/><entry><form>盧舍那</form><cb:def><p xml:id="pC056p0814a2204" rend="margin-left:1em;inline">或云嚧柘那亦言盧折羅此
+<lb ed="C" n="0814a23"/>譯云照謂遍照也以報佛淨色遍
+<pb ed="C" xml:id="C056.1163.0814b" n="0814b"/>
+<lb ed="C" n="0814b01"/>周法界故也又日月燈光遍周
+<lb ed="C" n="0814b02"/><g ref="#CB30529">𠁅</g>亦名盧舍那其義是也。</p></cb:def></entry>
+<lb ed="C" n="0814b03"/><entry><form>迴復</form><cb:def><p xml:id="pC056p0814b0303" rend="margin-left:1em;inline">又作洄澓二形同胡瓌<g ref="#CB07065">󱮙</g>福反
+<lb ed="C" n="0814b04"/>三蒼洄水轉也澓深也亦迴水也
+<lb ed="C" n="0814b05"/>深也。</p></cb:def></entry>
+<lb ed="C" n="0814b06"/><entry><form>癡<g ref="#CB16287">𥌒</g></form><cb:def><p xml:id="pC056p0814b0603" rend="margin-left:1em;inline">公戶反三蒼無目謂之<g ref="#CB16287">𥌒</g><g ref="#CB18232">𥼶</g>名
+<lb ed="C" n="0814b07"/>云<g ref="#CB16287">𥌒</g>目者眠眠然目平合如皷皮也。</p></cb:def></entry>
+<lb ed="C" n="0814b08"/><entry><form>切<g ref="#CB09400">𠛴</g></form><cb:def><p xml:id="pC056p0814b0803" rend="margin-left:1em;inline">又作擦同音察梵言差多羅此
+<lb ed="C" n="0814b09"/>譯云土田經中或言國或云土者
+<lb ed="C" n="0814b10"/>同其義也或作剎土者存二音也
+<lb ed="C" n="0814b11"/>即剎帝利名字田主者亦是也案
+<lb ed="C" n="0814b12"/><g ref="#CB09400">𠛴</g>書无此字即<g ref="#CB04565">㓼</g>字略也<g ref="#CB04565">㓼</g>音初
+<lb ed="C" n="0814b13"/>一反浮圖名剎者訛也應言剌瑟
+<lb ed="C" n="0814b14"/><g ref="#CB04447">𦙁</g>剌音力割反此譯云竿人以柱
+<lb ed="C" n="0814b15"/>代之名為剎柱以安佛骨義同土
+<lb ed="C" n="0814b16"/>田故名剎也以彼西國塔竿頭安
+<lb ed="C" n="0814b17"/>舍利故也。</p></cb:def></entry>
+<lb ed="C" n="0814b18"/><entry><form>沮壞</form><cb:def><p xml:id="pC056p0814b1803" rend="margin-left:1em;inline">才與反三蒼沮漸也壞敗也經
+<lb ed="C" n="0814b19"/>文作俎側呂反貯醢器也一日置
+<lb ed="C" n="0814b20"/>肉几也俎非此用。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0814b21"/><cb:div type="other"><cb:mulu type="其他" level="3">第二卷</cb:mulu><head>第二卷</head>
+<lb ed="C" n="0814b22"/><entry><form>安跱</form><cb:def><p xml:id="pC056p0814b2203" rend="margin-left:1em;inline">字詁古文峙今作跱同直耳反
+<lb ed="C" n="0814b23"/>廣疋峙止也謂亭亭然獨止立也。</p></cb:def></entry></cb:div>
+<pb ed="C" xml:id="C056.1163.0814c" n="0814c"/>
+<lb ed="C" n="0814c01"/><cb:div type="other"><cb:mulu type="其他" level="3">第三卷</cb:mulu><head>第三卷</head>
+<lb ed="C" n="0814c02"/><entry><form>攔揗</form><cb:def><p xml:id="pC056p0814c0203" rend="margin-left:1em;inline">又作闌同力寒反下食允反說
+<lb ed="C" n="0814c03"/>文闌檻也通俗文闌檻謂之楯王
+<lb ed="C" n="0814c04"/>逸注楚辝云從曰檻撗曰楯楯閒
+<lb ed="C" n="0814c05"/>子曰<g ref="#CB22555">󵠛</g>案蘭楯殿上臨邊之飾也
+<lb ed="C" n="0814c06"/>亦所以防人墜墮也今言鈎蘭是也。</p></cb:def></entry>
+<lb ed="C" n="0814c07"/><entry><form>群萌</form><cb:def><p xml:id="pC056p0814c0703" rend="margin-left:1em;inline">古文垊同麦耕反萌芽也廣疋
+<lb ed="C" n="0814c08"/>萌始也
+<lb ed="C" n="0814c09"/>案萌冥昧<g ref="#CB15032">㒵</g>也言眾庶無知也漢
+<lb ed="C" n="0814c10"/>書氓氓群<g ref="#CB00932">𥠖</g>是也。</p></cb:def></entry>
+<lb ed="C" n="0814c11"/><entry><form><g ref="#CB12752">󳇐</g>綸</form><cb:def><p xml:id="pC056p0814c1103" rend="margin-left:1em;inline">力旬反周布也易云<g ref="#CB12752">󳇐</g>綸天地
+<lb ed="C" n="0814c12"/>之道注云<g ref="#CB12752">󳇐</g>廣也綸經理也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0814c13"/><cb:div type="other"><cb:mulu type="其他" level="3">第四卷</cb:mulu><head>第四卷</head>
+<lb ed="C" n="0814c14"/><entry><form>煥明</form><cb:def><p xml:id="pC056p0814c1403" rend="margin-left:1em;inline">字書亦奐字同呼換反煥亦明
+<lb ed="C" n="0814c15"/>也謂光明炳煥也。</p></cb:def></entry>
+<lb ed="C" n="0814c16"/><entry><form>旗幡</form><cb:def><p xml:id="pC056p0814c1603" rend="margin-left:1em;inline">極基反<g ref="#CB18232">𥼶</g>名云熊虎為旗者軍
+<lb ed="C" n="0814c17"/>將所建者象其猛如虎與眾期其
+<lb ed="C" n="0814c18"/>下也。</p></cb:def></entry>
+<lb ed="C" n="0814c19"/><entry><form>諧雅</form><cb:def><p xml:id="pC056p0814c1903" rend="margin-left:1em;inline">胡皆反諧和也謂閑雅雍容音
+<lb ed="C" n="0814c20"/>聲和也雅素也亦從容妖麗也。</p></cb:def></entry>
+<lb ed="C" n="0814c21"/><entry><form>寮觀</form><cb:def><p xml:id="pC056p0814c2103" rend="margin-left:1em;inline">力堯反寮窓也蒼頡篇寮小空
+<lb ed="C" n="0814c22"/>也說文寮穿也經文有從手作撩
+<lb ed="C" n="0814c23"/>或從木作撩二形並非今用也。</p></cb:def></entry></cb:div>
+<pb ed="C" xml:id="C056.1163.0815a" n="0815a"/>
+<lb ed="C" n="0815a01"/><cb:div type="other"><cb:mulu type="其他" level="3">第五卷</cb:mulu><head>第五卷</head>
+<lb ed="C" n="0815a02"/><entry><form>眾祐</form><cb:def><p xml:id="pC056p0815a0203" rend="margin-left:1em;inline">于救反祐助也謂眾德相助成
+<lb ed="C" n="0815a03"/>也舊經多言眾祐者福祐也今多
+<lb ed="C" n="0815a04"/>言世尊者為世所尊也此盖隨義
+<lb ed="C" n="0815a05"/>立名耳。</p></cb:def></entry>
+<lb ed="C" n="0815a06"/><entry><form>仇對</form><cb:def><p xml:id="pC056p0815a0603" rend="margin-left:1em;inline">渠牛反仇怨也匹也三蒼頡篇
+<lb ed="C" n="0815a07"/>云怨耦曰仇廣疋仇<g ref="#CB08891">𢙣</g>也。</p></cb:def></entry>
+<lb ed="C" n="0815a08"/><entry><form>憤毒</form><cb:def><p xml:id="pC056p0815a0803" rend="margin-left:1em;inline">扶粉反說文憤懣也方言憤盈
+<lb ed="C" n="0815a09"/>也謂憤怒氣盈滿也亦情感也懣
+<lb ed="C" n="0815a10"/>音亡本反煩也。</p></cb:def></entry>
+<lb ed="C" n="0815a11"/><entry><form>驚駭</form><cb:def><p xml:id="pC056p0815a1103" rend="margin-left:1em;inline">胡騃反蒼頡篇駭亦驚也廣疋
+<lb ed="C" n="0815a12"/><g ref="#CB23153">󵩱</g>起也。</p></cb:def></entry>
+<lb ed="C" n="0815a13"/><entry><form>名遏</form><cb:def><p xml:id="pC056p0815a1303" rend="margin-left:1em;inline">古文閼同安曷反蒼頡篇遏遮
+<lb ed="C" n="0815a14"/>也詩傳曰遏止也亦絕也。</p></cb:def></entry>
+<lb ed="C" n="0815a15"/><entry><form>翳目</form><cb:def><p xml:id="pC056p0815a1503" rend="margin-left:1em;inline">韻集作瞖同於計反瞖目病也
+<lb ed="C" n="0815a16"/>說文目病生翳也並作翳韻集作
+<lb ed="C" n="0815a17"/>瞖近字也經文有作曀陰而風日
+<lb ed="C" n="0815a18"/>曀曀非此義。</p></cb:def></entry>
+<lb ed="C" n="0815a19"/><entry><form>孤煢</form><cb:def><p xml:id="pC056p0815a1903" rend="margin-left:1em;inline">古文惸儝二形同渠營反無父
+<lb ed="C" n="0815a20"/>曰孤無子曰獨無兄弟曰煢煢單
+<lb ed="C" n="0815a21"/>也煢煢无所依也字從卂從營省
+<lb ed="C" n="0815a22"/>聲卂音雖閏反。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0815a23"/><cb:div type="other"><cb:mulu type="其他" level="3">第六卷</cb:mulu><head>第六卷</head>
+<pb ed="C" xml:id="C056.1163.0815b" n="0815b"/>
+<lb ed="C" n="0815b01"/><entry><form>毗嵐</form><cb:def><p xml:id="pC056p0815b0103" rend="margin-left:1em;inline">力含反或作毗藍婆風或作鞞
+<lb ed="C" n="0815b02"/>嵐婆或云吠藍婆或作隨藍或言
+<lb ed="C" n="0815b03"/>旋藍皆是梵言此譯云迅猛風也。</p></cb:def></entry>
+<lb ed="C" n="0815b04"/><entry><form><g ref="#CB23057">󵨑</g>聵</form><cb:def><p xml:id="pC056p0815b0403" rend="margin-left:1em;inline">古文類聵二形今作顏又作<g ref="#CB09320">󲑨</g>
+<lb ed="C" n="0815b05"/>同牛快反國語聵不可使聽賈達
+<lb ed="C" n="0815b06"/>日生<g ref="#CB23057">󵨑</g>曰聵一云<g ref="#CB23057">󵨑</g>無識曰聵經
+<lb ed="C" n="0815b07"/>文從肉作膭胡對反<g ref="#CB01524">𦘺</g>也膭非經義。</p></cb:def></entry>
+<lb ed="C" n="0815b08"/><entry><form>噬諸</form><cb:def><p xml:id="pC056p0815b0803" rend="margin-left:1em;inline">時制反三蒼解話云噬齧也字
+<lb ed="C" n="0815b09"/>林噬啗也啗音徒敢也。</p></cb:def></entry>
+<lb ed="C" n="0815b10"/><entry><form>滌穢</form><cb:def><p xml:id="pC056p0815b1003" rend="margin-left:1em;inline">徒的反說文滌洒也亦除也謂
+<lb ed="C" n="0815b11"/>盪滌洒除去垢穢也滌亦除也。</p></cb:def></entry>
+<lb ed="C" n="0815b12"/><entry><form>盥掌</form><cb:def><p xml:id="pC056p0815b1203" rend="margin-left:1em;inline">公緩反說文盥澡手也春秋傳
+<lb ed="C" n="0815b13"/>曰奉迤<g ref="#CB10056">󲝈</g>盥案凡澡洒物皆曰盥
+<lb ed="C" n="0815b14"/>字體從手臼水臨皿上也臼音居
+<lb ed="C" n="0815b15"/>六反經文有更從水作<g ref="#CB01055">𤃗</g>非也迤
+<lb ed="C" n="0815b16"/>餘支反似勺抦中有道所以注水也。</p></cb:def></entry>
+<lb ed="C" n="0815b17"/><entry><form>發趾</form><cb:def><p xml:id="pC056p0815b1703" rend="margin-left:1em;inline">音止字林趾足也<g ref="#CB18232">𥼶</g>名云足一
+<lb ed="C" n="0815b18"/>進一止因以名焉。</p></cb:def></entry>
+<lb ed="C" n="0815b19"/><entry><form>園圃</form><cb:def><p xml:id="pC056p0815b1903" rend="margin-left:1em;inline">補五反江東音布二音蒼頡解
+<lb ed="C" n="0815b20"/>詁云種樹曰園種菜曰圃也詩云
+<lb ed="C" n="0815b21"/>無踰我園傳曰有樹也又云折柳
+<lb ed="C" n="0815b22"/>樊圃傳曰菜圃也皆其義矣。</p></cb:def></entry>
+<lb ed="C" n="0815b23"/><entry><form>衰耄</form><cb:def><p xml:id="pC056p0815b2303" rend="margin-left:1em;inline">字體作<g ref="#CB08902">𤸬</g>同所龜反說文<g ref="#CB08902">𤸬</g>减
+<pb ed="C" xml:id="C056.1163.0815c" n="0815c"/>
+<lb ed="C" n="0815c01"/>也亦損也礼記年五十始<g ref="#CB08902">𤸬</g><g ref="#CB08902">𤸬</g>懈
+<lb ed="C" n="0815c02"/>也今皆作衰下古文<g ref="#CB22651">󵡻</g>耄二形今
+<lb ed="C" n="0815c03"/>作耗同莫報反礼記八十曰耄鄭
+<lb ed="C" n="0815c04"/>玄曰耄惽忘也亦乱也。</p></cb:def></entry>
+<lb ed="C" n="0815c05"/><entry><form>甲冑</form><cb:def><p xml:id="pC056p0815c0503" rend="margin-left:1em;inline">古文<g ref="#CB08486">䩜</g>同除救反廣疋<g ref="#CB06902">󱫶</g>兜鍪
+<lb ed="C" n="0815c06"/>也中國行此音亦言鞮鍪江南行
+<lb ed="C" n="0815c07"/>此音鞮音仾鍪莫侯反。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0815c08"/><cb:div type="other"><cb:mulu type="其他" level="3">第七卷</cb:mulu><head>第七卷</head>
+<lb ed="C" n="0815c09"/><entry><form>八梵</form><cb:def><p xml:id="pC056p0815c0903" rend="margin-left:1em;inline">八種梵音者案十住断結經云
+<lb ed="C" n="0815c10"/>一不男音二不女音三不強音四不
+<lb ed="C" n="0815c11"/><g ref="#CB02547">䎡</g>音五不清音六不濁音七不雄
+<lb ed="C" n="0815c12"/>音八不雌音。</p></cb:def></entry>
+<lb ed="C" n="0815c13"/><entry><form>愽綜</form><cb:def><p xml:id="pC056p0815c1303" rend="margin-left:1em;inline">子送反綜習也三蒼綜理經也
+<lb ed="C" n="0815c14"/>謂機綱紀領絲者也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0815c15"/><cb:div type="other"><cb:mulu type="其他" level="3">第八卷</cb:mulu><head>第八卷</head>
+<lb ed="C" n="0815c16"/><entry><form>僅半</form><cb:def><p xml:id="pC056p0815c1603" rend="margin-left:1em;inline">古文<g ref="#CB08641">㝻</g>廑二形同渠鎮反僅劣
+<lb ed="C" n="0815c17"/>也僅猶纔也。</p></cb:def></entry>
+<lb ed="C" n="0815c18"/><entry><form>錠光</form><cb:def><p xml:id="pC056p0815c1803" rend="margin-left:1em;inline">大徑反又音殿三蒼無樹曰錠
+<lb ed="C" n="0815c19"/>有柄曰鐙一云無跗曰錠有跗曰
+<lb ed="C" n="0815c20"/>鐙亦即然燈佛也諸經中作提洹
+<lb ed="C" n="0815c21"/>竭佛梵言也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0815c22"/><cb:div type="other"><cb:mulu type="其他" level="3">第九卷</cb:mulu><head>第九卷</head>
+<lb ed="C" n="0815c23"/><entry><form>渾濁</form><cb:def><p xml:id="pC056p0815c2303" rend="margin-left:1em;inline">後昆後袞二反渾亂也說文渾
+<pb ed="C" xml:id="C056.1163.0816a" n="0816a"/>
+<lb ed="C" n="0816a01"/>水流聲一曰洿洿音一胡反。</p></cb:def></entry>
+<lb ed="C" n="0816a02"/><entry><form><g ref="#CB15164">󳬼</g><g ref="#CB02510">䀎</g></form><cb:def><p xml:id="pC056p0816a0203" rend="margin-left:1em;inline">眠見反說文邪視也蒼頡篇旁
+<lb ed="C" n="0816a03"/>視也方言自開而西秦晉之閒謂
+<lb ed="C" n="0816a04"/>視為<g ref="#CB02510">䀎</g>也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0816a05"/><cb:div type="other"><cb:mulu type="其他" level="3">第十二卷</cb:mulu><head>第十二卷</head>
+<lb ed="C" n="0816a06"/><entry><form>惠施</form><cb:def><p xml:id="pC056p0816a0603" rend="margin-left:1em;inline">胡桂反周礼施其惠鄭玄曰賙
+<lb ed="C" n="0816a07"/>衣食曰惠孟子曰分人以財謂之
+<lb ed="C" n="0816a08"/>惠是也說文惠仁也詩傳云惠愛也。</p></cb:def></entry>
+<lb ed="C" n="0816a09"/><entry><form>貧窶</form><cb:def><p xml:id="pC056p0816a0903" rend="margin-left:1em;inline">瞿庾反蒼頡篇無財曰貧無財
+<lb ed="C" n="0816a10"/>俻礼曰寠詩云終窶且貧傳曰窶
+<lb ed="C" n="0816a11"/>無礼是也字書窶空也貧陋也。</p></cb:def></entry>
+<lb ed="C" n="0816a12"/><entry><form>福伽羅</form><cb:def><p xml:id="pC056p0816a1204" rend="margin-left:1em;inline">經論中或作富伽羅或作富
+<lb ed="C" n="0816a13"/>特伽耶舊譯云人應云補特伽羅
+<lb ed="C" n="0816a14"/>此云數取趣也。</p></cb:def></entry>
+<lb ed="C" n="0816a15"/><entry><form>恃怙</form><cb:def><p xml:id="pC056p0816a1503" rend="margin-left:1em;inline">古文<g ref="#CB02148">㤄</g>同時止反下胡古反恃
+<lb ed="C" n="0816a16"/>頼也尒疋怙恃也韓詩无父何怙
+<lb ed="C" n="0816a17"/>怙頼也無母何恃恃負也。</p></cb:def></entry>
+<lb ed="C" n="0816a18"/><entry><form>妖<g ref="#CB04732">𧰟</g></form><cb:def><p xml:id="pC056p0816a1803" rend="margin-left:1em;inline">又作<g ref="#CB17236">󴍔</g>同於驕反三蒼妖妍也
+<lb ed="C" n="0816a19"/>謂少壯妍好之<g ref="#CB15032">㒵</g>也下又作艶同
+<lb ed="C" n="0816a20"/>余贍反說文好而長曰<g ref="#CB04732">𧰟</g>美也方
+<lb ed="C" n="0816a21"/>言秦晉之閒謂美色為<g ref="#CB04732">𧰟</g><g ref="#CB04732">𧰟</g>美也
+<lb ed="C" n="0816a22"/>字從<anchor xml:id="beg_1" type="cb-app"/>豐<anchor xml:id="end_1"/>音匹弓反盍聲。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0816a23"/><cb:div type="other"><cb:mulu type="其他" level="3">第十三卷</cb:mulu><head>第十三卷</head>
+<pb ed="C" xml:id="C056.1163.0816b" n="0816b"/>
+<lb ed="C" n="0816b01"/><entry><form>摩<g ref="#CB00145">㝹</g></form><cb:def><p xml:id="pC056p0816b0103" rend="margin-left:1em;inline">奴侯反正言摩奴末耶此云意
+<lb ed="C" n="0816b02"/>生身言諸天等從意化生也。</p></cb:def></entry>
+<lb ed="C" n="0816b03"/><entry><form>不殉</form><cb:def><p xml:id="pC056p0816b0303" rend="margin-left:1em;inline">旬俊反尚書殉于貨色注云殉
+<lb ed="C" n="0816b04"/>求也亦營也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0816b05"/><cb:div type="other"><cb:mulu type="其他" level="3">第十四卷</cb:mulu><head>第十四卷</head>
+<lb ed="C" n="0816b06"/><entry><form>六親</form><cb:def><p xml:id="pC056p0816b0603" rend="margin-left:1em;inline">漢書以奉六親應邵曰六親者
+<lb ed="C" n="0816b07"/>父母兄弟妻子也蒼頡篇親愛也
+<lb ed="C" n="0816b08"/><g ref="#CB18232">𥼶</g>名云親<g ref="#CB00890">󰍺</g>也言相隱<g ref="#CB00890">󰍺</g>也。</p></cb:def></entry>
+<lb ed="C" n="0816b09"/><entry><form>侮慢</form><cb:def><p xml:id="pC056p0816b0903" rend="margin-left:1em;inline">古文侮同亡甫反廣疋侮輕也
+<lb ed="C" n="0816b10"/>說文侮<g ref="#CB00129">㑥</g>也謂輕<g ref="#CB00129">㑥</g>玩弄也。</p></cb:def></entry>
+<lb ed="C" n="0816b11"/><entry><form><g ref="#CB06171">󱠛</g>相</form><cb:def><p xml:id="pC056p0816b1103" rend="margin-left:1em;inline">古文递同徒礼反尒疋<g ref="#CB15325">󳯝</g>迭也
+<lb ed="C" n="0816b12"/>郭璞日<g ref="#CB15325">󳯝</g>更易也迭音徒結反。</p></cb:def></entry>
+<lb ed="C" n="0816b13"/><entry><form><g ref="#CB13251">󳏃</g>饌</form><cb:def><p xml:id="pC056p0816b1303" rend="margin-left:1em;inline">又作<g ref="#CB08521">𦿉</g>同仕眷反說文<g ref="#CB09112">󲎘</g>具飲
+<lb ed="C" n="0816b14"/>食也論語先生饌馬融曰饌飲食也。</p></cb:def></entry>
+<lb ed="C" n="0816b15"/><entry><form>老邁</form><cb:def><p xml:id="pC056p0816b1503" rend="margin-left:1em;inline">莫芥反說文遠行也廣疋邁歸
+<lb ed="C" n="0816b16"/>徃也詩云日月其邁是也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0816b17"/><cb:div type="other"><cb:mulu type="其他" level="3">第十六卷</cb:mulu><head>第十六卷</head>
+<lb ed="C" n="0816b18"/><entry><form>沃焦</form><cb:def><p xml:id="pC056p0816b1803" rend="margin-left:1em;inline">烏木反迦延云沃焦者無限生
+<lb ed="C" n="0816b19"/>死案郭璞注江賦云大<g ref="#CB04411">󱄻</g>在東海
+<lb ed="C" n="0816b20"/>外<g ref="#CB10056">󲝈</g>焦海所瀉源水注<g ref="#CB30529">𠁅</g>也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0816b21"/><cb:div type="other"><cb:mulu type="其他" level="3">第十八卷</cb:mulu><head>第十八卷</head>
+<lb ed="C" n="0816b22"/><entry><form>相扣</form><cb:def><p xml:id="pC056p0816b2203" rend="margin-left:1em;inline">哭後反論語以林扣其脛注云
+<lb ed="C" n="0816b23"/>扣擊也三蒼作也。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0816c" n="0816c"/>
+<lb ed="C" n="0816c01"/><entry><form>六瘤</form><cb:def><p xml:id="pC056p0816c0103" rend="margin-left:1em;inline">力周反通俗文肉胅曰瘤三蒼
+<lb ed="C" n="0816c02"/>瘤小腫也尾即無瘤經文作流注
+<lb ed="C" n="0816c03"/>之流非也胅音徒結反。</p></cb:def></entry>
+<lb ed="C" n="0816c04"/><entry><form>或遺</form><cb:def><p xml:id="pC056p0816c0403" rend="margin-left:1em;inline">余季反廣疋遺與也尒疋胎遺
+<lb ed="C" n="0816c05"/>也謂相饋遺也遺猶贈也經文從
+<lb ed="C" n="0816c06"/>貝作<g ref="#CB08411">𧸽</g>近字也。</p></cb:def></entry>
+<lb ed="C" n="0816c07"/><entry><form>冠冕</form><cb:def><p xml:id="pC056p0816c0703" rend="margin-left:1em;inline">眉辯反世本云黃帝作冕周礼
+<lb ed="C" n="0816c08"/>弁師掌王之五冕鄭注云冕延上
+<lb ed="C" n="0816c09"/>覆也謂大夫以上冠也。</p></cb:def></entry>
+<lb ed="C" n="0816c10"/><entry><form>噍牙</form><cb:def><p xml:id="pC056p0816c1003" rend="margin-left:1em;inline">譙笑反蒼頡篇噍咀嚼也說文
+<lb ed="C" n="0816c11"/>噍嚼也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0816c12"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十卷</cb:mulu><head>第二十卷</head>
+<lb ed="C" n="0816c13"/><entry><form>七仞</form><cb:def><p xml:id="pC056p0816c1303" rend="margin-left:1em;inline">如振反說文仞謂申<g ref="#CB21879">󵕷</g>一尋也
+<lb ed="C" n="0816c14"/>取論語夫子之牆數仞苞咸曰七
+<lb ed="C" n="0816c15"/>尺曰仞今皆作刃非也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0816c16"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十一卷</cb:mulu><head>第二十一卷</head>
+<lb ed="C" n="0816c17"/><entry><form>禪頭</form><cb:def><p xml:id="pC056p0816c1703" rend="margin-left:1em;inline">是戰反梵言禪豆或言禪兜或
+<lb ed="C" n="0816c18"/>言繕都此譯云眾生也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0816c19"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十六卷</cb:mulu><head>第二十六卷</head>
+<lb ed="C" n="0816c20"/><entry><form>攏<g ref="#CB02853">㩜</g></form><cb:def><p xml:id="pC056p0816c2003" rend="margin-left:1em;inline">力東反下胡<g ref="#CB05397">𪒠</g>反三蒼攏所以
+<lb ed="C" n="0816c21"/>盛禽獸<g ref="#CB02853">㩜</g>闌也廣疋攏牢也謂養
+<lb ed="C" n="0816c22"/>禽獸之所也說文攏<g ref="#CB02853">㩜</g>也<g ref="#CB02853">㩜</g>圈也
+<lb ed="C" n="0816c23"/>圈音渠遠反。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0817a" n="0817a"/>
+<lb ed="C" n="0817a01"/><entry><form>捫摸</form><cb:def><p xml:id="pC056p0817a0103" rend="margin-left:1em;inline">莫奔莫本二反捫亦摸也詩云
+<lb ed="C" n="0817a02"/>莫捫朕舌傳曰捫撫持也謂執持
+<lb ed="C" n="0817a03"/>也經中有作摩捉日月是也。</p></cb:def></entry>
+<lb ed="C" n="0817a04"/><entry><form>僉皆</form><cb:def><p xml:id="pC056p0817a0403" rend="margin-left:1em;inline">且廉反僉咸也小尒疋僉同也方
+<lb ed="C" n="0817a05"/>言自開而東五國之都謂皆為僉。</p></cb:def></entry>
+<lb ed="C" n="0817a06"/><entry><form>循身</form><cb:def><p xml:id="pC056p0817a0603" rend="margin-left:1em;inline">古文作<g ref="#CB08611">𢓈</g>同似遵反三蒼<g ref="#CB08611">𢓈</g>遍
+<lb ed="C" n="0817a07"/>也尒疋率循也注云又為循行也
+<lb ed="C" n="0817a08"/>循亦巡也巡歷也循自也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0817a09"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十七卷</cb:mulu><head>第二十七卷</head>
+<lb ed="C" n="0817a10"/><entry><form>蠱毒</form><cb:def><p xml:id="pC056p0817a1003" rend="margin-left:1em;inline">公戶反說文蠱腹中虫也謂行
+<lb ed="C" n="0817a11"/>虫毒也經文從<g ref="#CB01961">䖝</g>作蛄音古胡反
+<lb ed="C" n="0817a12"/>螻蛄蟪蛄也蛄非此義。</p></cb:def></entry>
+<lb ed="C" n="0817a13"/><entry><form>溉灌</form><cb:def><p xml:id="pC056p0817a1303" rend="margin-left:1em;inline">歌賚反說文溉灌注也。</p></cb:def></entry>
+<lb ed="C" n="0817a14"/><entry><form>泥潦</form><cb:def><p xml:id="pC056p0817a1403" rend="margin-left:1em;inline">郎道反說文雨水也謂聚雨水
+<lb ed="C" n="0817a15"/>為洿潦也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0817a16"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十八卷</cb:mulu><head>第二十八卷</head>
+<lb ed="C" n="0817a17"/><entry><form>密迹</form><cb:def><p xml:id="pC056p0817a1703" rend="margin-left:1em;inline">梵言散那此譯云密主密是名
+<lb ed="C" n="0817a18"/>以知佛三密功德故也主者夜叉
+<lb ed="C" n="0817a19"/>主也案梵本都无迹義當以示迹
+<lb ed="C" n="0817a20"/>為神故譯經者義立名耳。</p></cb:def></entry>
+<lb ed="C" n="0817a21"/><entry><form><g ref="#CB02547">䎡</g>中</form><cb:def><p xml:id="pC056p0817a2103" rend="margin-left:1em;inline">而兖反梵言沒栗度此云<g ref="#CB02547">䎡</g>通
+<lb ed="C" n="0817a22"/>俗文物柔曰<g ref="#CB02547">䎡</g>三蒼<g ref="#CB02547">䎡</g>柔弱也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0817a23"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十九卷</cb:mulu><head>第二十九卷</head>
+<pb ed="C" xml:id="C056.1163.0817b" n="0817b"/>
+<lb ed="C" n="0817b01"/><entry><form>胞胎</form><cb:def><p xml:id="pC056p0817b0103" rend="margin-left:1em;inline">補交反說文胞兒生裹也尒疋
+<lb ed="C" n="0817b02"/>胎始養也。</p></cb:def></entry>
+<lb ed="C" n="0817b03"/><entry><form>軻梨</form><cb:def><p xml:id="pC056p0817b0303" rend="margin-left:1em;inline">口佐反應云軻地羅此譯云軻
+<lb ed="C" n="0817b04"/>者空也地羅者破也名空破山也。</p></cb:def></entry>
+<lb ed="C" n="0817b05"/><entry><form>由<g ref="#CB00371">𠃵</g></form><cb:def><p xml:id="pC056p0817b0503" rend="margin-left:1em;inline">巨焉反大論作揵陁羅山此譯
+<lb ed="C" n="0817b06"/>云由揵者雙陁羅者持名雙持山也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0817b07"/><cb:div type="other"><cb:mulu type="其他" level="3">第三十三卷</cb:mulu><head>第三十三卷</head>
+<lb ed="C" n="0817b08"/><entry><form>眩惑</form><cb:def><p xml:id="pC056p0817b0803" rend="margin-left:1em;inline">古文姰迿二形同侯遍反字林
+<lb ed="C" n="0817b09"/>眩乱也漢書<g ref="#CB21990">𥟖</g>靬條支國善眩案
+<lb ed="C" n="0817b10"/>眩亦幻也靬音居言反。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0817b11"/><cb:div type="other"><cb:mulu type="其他" level="3">第三十四卷</cb:mulu><head>第三十四卷</head>
+<lb ed="C" n="0817b12"/><entry><form>齗<g ref="#CB02666">𪘽</g></form><cb:def><p xml:id="pC056p0817b1203" rend="margin-left:1em;inline">牛斤反說文齒肉也<g ref="#CB02666">𪘽</g>又作腭
+<lb ed="C" n="0817b13"/>咢二形同五各反齒內上下肉也。</p></cb:def></entry>
+<lb ed="C" n="0817b14"/><entry><form>伊<g ref="#CB00112">𡰱</g>延</form><cb:def><p xml:id="pC056p0817b1404" rend="margin-left:1em;inline">或云<g ref="#CB30155">㖶</g><g ref="#CB00112">𡰱</g>延皆訛也正言黳
+<lb ed="C" n="0817b15"/><g ref="#CB00112">𡰱</g>延此鹿王名也<g ref="#CB30155">㖶</g>音烏賢反黳
+<lb ed="C" n="0817b16"/>烏奚反。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0817b17"/><cb:div type="other"><cb:mulu type="其他" level="3">第三十七卷</cb:mulu><head>第三十七卷</head>
+<lb ed="C" n="0817b18"/><entry><form>兩闢</form><cb:def><p xml:id="pC056p0817b1803" rend="margin-left:1em;inline">脾赤反說文闢開也經文有作
+<lb ed="C" n="0817b19"/>僻疋赤反避也又作辟卑亦反辟
+<lb ed="C" n="0817b20"/>法也理也辟非此義。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0817b21"/><cb:div type="other"><cb:mulu type="其他" level="3">第四十卷</cb:mulu><head>第四十卷</head>
+<lb ed="C" n="0817b22"/><entry><form>藉草</form><cb:def><p xml:id="pC056p0817b2203" rend="margin-left:1em;inline">茨夜反案藉猶薦也<g ref="#CB18232">𥼶</g>名云所
+<lb ed="C" n="0817b23"/>以自薦藉也。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0817c" n="0817c"/>
+<lb ed="C" n="0817c01"/><entry><form>或級</form><cb:def><p xml:id="pC056p0817c0103" rend="margin-left:1em;inline">羇立反礼記級次也左傳加勞
+<lb ed="C" n="0817c02"/>賜一級又云斬首二十三級案師
+<lb ed="C" n="0817c03"/>旋斬首一人賜爵一級因名賊首
+<lb ed="C" n="0817c04"/>為級也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0817c05"/><cb:div type="other"><cb:mulu type="其他" level="3">第四十三卷</cb:mulu><head>第四十三卷</head>
+<lb ed="C" n="0817c06"/><entry><form>罪舋</form><cb:def><p xml:id="pC056p0817c0603" rend="margin-left:1em;inline"><g ref="#CB05430">𦏁</g>鎮反舋罪也亦瑕隟也過也
+<lb ed="C" n="0817c07"/>字體從<g ref="#CB22226">󵛒</g>分聲<g ref="#CB05315">㸑</g>省血祭也象祭
+<lb ed="C" n="0817c08"/>竈也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0817c09"/><cb:div type="other"><cb:mulu type="其他" level="3">第四十四卷</cb:mulu><head>第四十四卷</head>
+<lb ed="C" n="0817c10"/><entry><form>澍法</form><cb:def><p xml:id="pC056p0817c1003" rend="margin-left:1em;inline">之喻上句二反時雨也謂潤生
+<lb ed="C" n="0817c11"/>百穀者也說文上古時雨所以澍
+<lb ed="C" n="0817c12"/>生万物者是也。</p></cb:def></entry>
+<lb ed="C" n="0817c13"/><entry><form>拜署</form><cb:def><p xml:id="pC056p0817c1303" rend="margin-left:1em;inline">時去反署位也謂署置之<g ref="#CB07968">𧆛</g>敬
+<lb ed="C" n="0817c14"/>也國語大位政之建也署位之表
+<lb ed="C" n="0817c15"/>也謂表識也署所以朝夕<g ref="#CB07968">𧆛</g>君命
+<lb ed="C" n="0817c16"/>也字從四者聲。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0817c17"/><cb:div type="other"><cb:mulu type="其他" level="3">第四十五卷</cb:mulu><head>第四十五卷</head>
+<lb ed="C" n="0817c18"/><entry><form>達<g ref="#CB00890">󰍺</g></form><cb:def><p xml:id="pC056p0817c1803" rend="margin-left:1em;inline">义覲反案尊婆湏蜜論亦作檀
+<lb ed="C" n="0817c19"/><g ref="#CB00890">󰍺</g>此云財施解言報施之法名曰
+<lb ed="C" n="0817c20"/>達<g ref="#CB00890">󰍺</g>導引福地亦名達<g ref="#CB00890">󰍺</g>復次割
+<lb ed="C" n="0817c21"/>意所愛成彼施度於今所益義是
+<lb ed="C" n="0817c22"/>檀<g ref="#CB00890">󰍺</g>又西域記云正言達<g ref="#CB00890">󰍺</g>拏或
+<lb ed="C" n="0817c23"/>云<g ref="#CB00501">䭾</g>器<g ref="#CB00112">𡰱</g>以用右手受他所施為
+<pb ed="C" xml:id="C056.1163.0818a" n="0818a"/>
+<lb ed="C" n="0818a01"/>其生福故從之立名也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0818a02"/><cb:div type="other"><cb:mulu type="其他" level="3">第四十八卷</cb:mulu><head>第四十八卷</head>
+<lb ed="C" n="0818a03"/><entry><form>池沼</form><cb:def><p xml:id="pC056p0818a0303" rend="margin-left:1em;inline">之遶反說文沼池也梵言賀邏
+<lb ed="C" n="0818a04"/><g ref="#CB00501">䭾</g>捴言池水也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0818a05"/><cb:div type="other"><cb:mulu type="其他" level="3">第五十一卷</cb:mulu><head>第五十一卷</head>
+<lb ed="C" n="0818a06"/><entry><form>舩舶</form><cb:def><p xml:id="pC056p0818a0603" rend="margin-left:1em;inline">音白埤蒼舶大舩也通俗文吴
+<lb ed="C" n="0818a07"/>舩曰艑晉舩曰舶大者長二十丈
+<lb ed="C" n="0818a08"/>載六七百人者是也艑音蒲<g ref="#CB21867">󵕫</g>反。</p></cb:def></entry>
+<lb ed="C" n="0818a09"/><entry><form>門閫</form><cb:def><p xml:id="pC056p0818a0903" rend="margin-left:1em;inline">又作梱同苦本反三蒼梱門限
+<lb ed="C" n="0818a10"/>也礼記外言不入於閫是。</p></cb:def></entry>
+<lb ed="C" n="0818a11"/><entry><form>西阿</form><cb:def><p xml:id="pC056p0818a1103" rend="margin-left:1em;inline">於何反韓詩云曲亰曰阿阿謂
+<lb ed="C" n="0818a12"/>山曲隈<g ref="#CB30529">𠁅</g>也。</p></cb:def></entry>
+<lb ed="C" n="0818a13"/><entry><form>周羅</form><cb:def><p xml:id="pC056p0818a1303" rend="margin-left:1em;inline">此譯云小寶也吉由羅應云枳
+<lb ed="C" n="0818a14"/>由邏寶此云纓絡<g ref="#CB12752">󳇐</g>呵羅應云<g ref="#CB12752">󳇐</g>
+<lb ed="C" n="0818a15"/>珂羅此云金帶。</p></cb:def></entry>
+<lb ed="C" n="0818a16"/><entry><form>舟<g ref="#CB23063">󵨗</g></form><cb:def><p xml:id="pC056p0818a1603" rend="margin-left:1em;inline">又作檝同子獵反易云黃帝剡
+<lb ed="C" n="0818a17"/>木為檝通俗文擢謂之艥<g ref="#CB18232">𥼶</g>名云
+<lb ed="C" n="0818a18"/><g ref="#CB22987">󵧋</g><g ref="#CB09621">󲖕</g>也撥水使舟<g ref="#CB09621">󲖕</g>疾也。</p></cb:def></entry>
+<lb ed="C" n="0818a19"/><entry><form>宣敘</form><cb:def><p xml:id="pC056p0818a1903" rend="margin-left:1em;inline">古文愃同雪緣反宣通也尒疋
+<lb ed="C" n="0818a20"/>宣遍也說文敘次第也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0818a21"/><cb:div type="other"><cb:mulu type="其他" level="3">第五十三卷</cb:mulu><head>第五十三卷</head>
+<lb ed="C" n="0818a22"/><entry><form>讌集</form><cb:def><p xml:id="pC056p0818a2203" rend="margin-left:1em;inline">又作<g ref="#CB02796">𡩷</g>燕二形同於薦反小會
+<lb ed="C" n="0818a23"/>也國語親戚<g ref="#CB02796">𡩷</g>饗賈逵曰不脫履
+<pb ed="C" xml:id="C056.1163.0818b" n="0818b"/>
+<lb ed="C" n="0818b01"/>外堂曰<g ref="#CB02796">𡩷</g>經文有從酉作醼嚥二
+<lb ed="C" n="0818b02"/>形並非也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0818b03"/><cb:div type="other"><cb:mulu type="其他" level="3">第五十四卷</cb:mulu><head>第五十四卷</head>
+<lb ed="C" n="0818b04"/><entry><form>斑下</form><cb:def><p xml:id="pC056p0818b0403" rend="margin-left:1em;inline">案古書或作頒同補姧反<note place="inline">頒遍也尒
+<lb ed="C" n="0818b05"/>疋斑遍賦與也</note>。</p></cb:def></entry>
+<lb ed="C" n="0818b06"/><entry><form>巖崿</form><cb:def><p xml:id="pC056p0818b0603" rend="margin-left:1em;inline">又作礹同牛衫反說文巖峯也
+<lb ed="C" n="0818b07"/>亦峻險也下又作<g ref="#CB08857">𨺨</g>同五各反通
+<lb ed="C" n="0818b08"/>俗文重<g ref="#CB22893">󵥭</g>曰<g ref="#CB08857">𨺨</g><g ref="#CB22893">󵥭</g>音言甑也山如
+<lb ed="C" n="0818b09"/>重甑曰<g ref="#CB08857">𨺨</g>。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0818b10"/><cb:div type="other"><cb:mulu type="其他" level="3">第五十五卷</cb:mulu><head>第五十五卷</head>
+<lb ed="C" n="0818b11"/><entry><form>囹圄</form><cb:def><p xml:id="pC056p0818b1103" rend="margin-left:1em;inline">力丁反下魚呂反獄名也周礼
+<lb ed="C" n="0818b12"/>三王始有獄廣疋夏曰夏臺殷曰
+<lb ed="C" n="0818b13"/><g ref="#CB22628">󵡤</g>里周曰囹圄皆獄之別名也<g ref="#CB22628">󵡤</g>
+<lb ed="C" n="0818b14"/>音弋夂反。</p></cb:def></entry>
+<lb ed="C" n="0818b15"/><entry><form>榜笞</form><cb:def><p xml:id="pC056p0818b1503" rend="margin-left:1em;inline">蒲衡反下又作抬同丑之反字
+<lb ed="C" n="0818b16"/>書榜棰也說文笞擊也。</p></cb:def></entry>
+<lb ed="C" n="0818b17"/><entry><form>流<g ref="#CB12752">󳇐</g><g ref="#CB00112">𡰱</g></form><cb:def><p xml:id="pC056p0818b1704" rend="margin-left:1em;inline">亦名嵐毗<g ref="#CB00112">𡰱</g>園名也諸經或
+<lb ed="C" n="0818b18"/>作此云解脫<g ref="#CB30529">𠁅</g>亦云断亦云滅正
+<lb ed="C" n="0818b19"/>言藍軬<g ref="#CB00112">𡰱</g>此云鹽即上古守園婢
+<lb ed="C" n="0818b20"/>名也因以名園飯那此云林也軬
+<lb ed="C" n="0818b21"/>音扶晚反。</p></cb:def></entry>
+<lb ed="C" n="0818b22"/><entry><form>瞿夷</form><cb:def><p xml:id="pC056p0818b2203" rend="margin-left:1em;inline">或言<g ref="#CB09529">󲔹</g>曇<g ref="#CB12752">󳇐</g>正言<g ref="#CB09118">𠳮</g>荅<g ref="#CB12752">󳇐</g>此云
+<lb ed="C" n="0818b23"/>明女十二遊經云明女。</p></cb:def></entry></cb:div>
+<pb ed="C" xml:id="C056.1163.0818c" n="0818c"/>
+<lb ed="C" n="0818c01"/><cb:div type="other"><cb:mulu type="其他" level="3">第五十六卷</cb:mulu><head>第五十六卷</head>
+<lb ed="C" n="0818c02"/><entry><form>殞滅</form><cb:def><p xml:id="pC056p0818c0203" rend="margin-left:1em;inline">為愍反聲類云殞沒也滅盡也
+<lb ed="C" n="0818c03"/>消絕也。</p></cb:def></entry>
+<lb ed="C" n="0818c04"/><entry><form>繒纊</form><cb:def><p xml:id="pC056p0818c0403" rend="margin-left:1em;inline">自陵反下今作絖同音曠說文
+<lb ed="C" n="0818c05"/>繒帛也纊綿也絮之細者曰纊。</p></cb:def></entry>
+<lb ed="C" n="0818c06"/><entry><form>淵渟</form><cb:def><p xml:id="pC056p0818c0603" rend="margin-left:1em;inline">狄經反廣疋渟止也埤蒼水止
+<lb ed="C" n="0818c07"/>曰渟字書水滯也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0818c08"/><cb:div type="other"><cb:mulu type="其他" level="3">第五十八卷</cb:mulu><head>第五十八卷</head>
+<lb ed="C" n="0818c09"/><entry><form>亘生</form><cb:def><p xml:id="pC056p0818c0903" rend="margin-left:1em;inline">歌鄧反詩云亘之秬<g ref="#CB11920">𥝣</g>傳曰亘
+<lb ed="C" n="0818c10"/>遍也經文有作絙音桓綬也又作
+<lb ed="C" n="0818c11"/><g ref="#CB22347">󵝋</g>公曾反大索也並非經意<g ref="#CB11920">𥝣</g>音
+<lb ed="C" n="0818c12"/>披鄙反。</p></cb:def></entry>
+<lb ed="C" n="0818c13"/><entry><form><g ref="#CB00510">󰇾</g>裂</form><cb:def><p xml:id="pC056p0818c1303" rend="margin-left:1em;inline">冝作攫九縛居碧二反說文攫
+<lb ed="C" n="0818c14"/>瓜持也攫扟也蒼頡篇攫持也淮
+<lb ed="C" n="0818c15"/>南子云獸窮則攫是也。</p></cb:def></entry>
+<lb ed="C" n="0818c16"/><entry><form>摩伽羅魚</form><cb:def><p xml:id="pC056p0818c1605" rend="margin-left:1em;inline">亦云摩竭魚正言麼迦羅
+<lb ed="C" n="0818c17"/>魚此云鯨魚謂魚之王也風土記
+<lb ed="C" n="0818c18"/>云海中有鯨魚長數千里穴<g ref="#CB30529">𠁅</g>海
+<lb ed="C" n="0818c19"/>底出則潮下入則潮上入出有時
+<lb ed="C" n="0818c20"/>故有上下。</p></cb:def></entry>
+<lb ed="C" n="0818c21"/><entry><form>無軛</form><cb:def><p xml:id="pC056p0818c2103" rend="margin-left:1em;inline">又作枙同於革反犁枙也亦車
+<lb ed="C" n="0818c22"/>軛也壓牛領者也。</p></cb:def></entry></cb:div></cb:div>
+<lb ed="C" n="0818c23"/><cb:div type="other"><cb:mulu type="其他" level="2">大方等大集經</cb:mulu><head>大方等大集經</head>
+<pb ed="C" xml:id="C056.1163.0819a" n="0819a"/>
+<lb ed="C" n="0819a01"/><cb:div type="other"><cb:mulu type="其他" level="3">第一卷</cb:mulu><head>第一卷</head>
+<lb ed="C" n="0819a02"/><entry><form>降注</form><cb:def><p xml:id="pC056p0819a0203" rend="margin-left:1em;inline">之喻反說文注灌也瀉也經文
+<lb ed="C" n="0819a03"/>從雨作霔非也。</p></cb:def></entry>
+<lb ed="C" n="0819a04"/><entry><form>厭人</form><cb:def><p xml:id="pC056p0819a0403" rend="margin-left:1em;inline">於舟反鬼名也梵言烏蘇慢此
+<lb ed="C" n="0819a05"/>譯言厭字苑云厭眠內不祥
+<lb ed="C" n="0819a06"/>也蒼頡篇云伏合人心曰厭
+<lb ed="C" n="0819a07"/>字從厂厂音呼旱反猒聲山
+<lb ed="C" n="0819a08"/>東音於<g ref="#CB01007">𦰧</g>反。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0819a09"/><cb:div type="other"><cb:mulu type="其他" level="3">第四卷</cb:mulu><head>第四卷</head>
+<lb ed="C" n="0819a10"/><entry><form>迦陵頻伽</form><cb:def><p xml:id="pC056p0819a1005" rend="margin-left:1em;inline">經中或作歌羅頻伽或云
+<lb ed="C" n="0819a11"/>加蘭伽或言羯羅頻迦或
+<lb ed="C" n="0819a12"/>言毗伽皆梵音訛轉也迦
+<lb ed="C" n="0819a13"/>陵者好毗伽者聲名好聲鳥也。</p></cb:def></entry>
+<lb ed="C" n="0819a14"/><entry><form>命命</form><cb:def><p xml:id="pC056p0819a1403" rend="margin-left:1em;inline">梵言耆婆耆婆鳥此言命命鳥
+<lb ed="C" n="0819a15"/>是也良祐力張反良善也亦
+<lb ed="C" n="0819a16"/>賢也下胡救反字林祐助也。</p></cb:def></entry>
+<lb ed="C" n="0819a17"/><entry><form>多伽羅香</form><cb:def><p xml:id="pC056p0819a1705" rend="margin-left:1em;inline">此云根香多摩羅跋香此
+<lb ed="C" n="0819a18"/>云藿葉香育坘花坘音直尸反
+<lb ed="C" n="0819a19"/>此譯云相應花也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0819a20"/><cb:div type="other"><cb:mulu type="其他" level="3">第六卷</cb:mulu><head>第六卷</head>
+<lb ed="C" n="0819a21"/><entry><form>七卓</form><cb:def><p xml:id="pC056p0819a2103" rend="margin-left:1em;inline">知角反卓越也釋名言舉脚有
+<lb ed="C" n="0819a22"/>所卓越也。</p></cb:def></entry>
+<lb ed="C" n="0819a23"/><entry><form><g ref="#CB08887">󲊷</g>燎</form><cb:def><p xml:id="pC056p0819a2303" rend="margin-left:1em;inline">力燒反鄭玄注周禮云樹於門外
+<pb ed="C" xml:id="C056.1163.0819b" n="0819b"/>
+<lb ed="C" n="0819b01"/>曰大燭於內曰<g ref="#CB08887">󲊷</g>燎經文作
+<lb ed="C" n="0819b02"/>錠鐐二形又作<g ref="#CB01031">𤊟</g>並非也。</p></cb:def></entry>
+<lb ed="C" n="0819b03"/><entry><form>摩夷</form><cb:def><p xml:id="pC056p0819b0303" rend="margin-left:1em;inline">正言摩怛理迦此云本母理為教
+<lb ed="C" n="0819b04"/>本故以名焉。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0819b05"/><cb:div type="other"><cb:mulu type="其他" level="3">第八卷</cb:mulu><head>第八卷</head>
+<lb ed="C" n="0819b06"/><entry><form>不肖</form><cb:def><p xml:id="pC056p0819b0603" rend="margin-left:1em;inline">先妙反小尒雅云不肖不似也謂
+<lb ed="C" n="0819b07"/>不似其先故曰不肖謂儜
+<lb ed="C" n="0819b08"/><g ref="#CB08891">𢙣</g>之類也字從<g ref="#CB22562">󵠢</g>小聲。</p></cb:def></entry>
+<lb ed="C" n="0819b09"/><entry><form>煒爗</form><cb:def><p xml:id="pC056p0819b0903" rend="margin-left:1em;inline">于匪反下為獵反說文煒盛明
+<lb ed="C" n="0819b10"/>皃也方言曄盛也經文作
+<lb ed="C" n="0819b11"/>瑋曄非體也。</p></cb:def></entry>
+<lb ed="C" n="0819b12"/><entry><form>耐磨</form><cb:def><p xml:id="pC056p0819b1203" rend="margin-left:1em;inline">奴代反謂堪能任耐也耐能也蒼
+<lb ed="C" n="0819b13"/>頡篇耐忍也。</p></cb:def></entry>
+<lb ed="C" n="0819b14"/><entry><form>穿押</form><cb:def><p xml:id="pC056p0819b1403" rend="margin-left:1em;inline">古狎反尒雅押輔也謂束也經文
+<lb ed="C" n="0819b15"/>作甲非也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0819b16"/><cb:div type="other"><cb:mulu type="其他" level="3">第九卷</cb:mulu><head>第九卷</head>
+<lb ed="C" n="0819b17"/><entry><form>援助</form><cb:def><p xml:id="pC056p0819b1703" rend="margin-left:1em;inline">于眷反謂依援護助之言也。</p></cb:def></entry>
+<lb ed="C" n="0819b18"/><entry><form>窯師</form><cb:def><p xml:id="pC056p0819b1803" rend="margin-left:1em;inline">餘招反說文燒瓦竈也通俗文
+<lb ed="C" n="0819b19"/>陶竈曰窯也。</p></cb:def></entry>
+<lb ed="C" n="0819b20"/><entry><form>村屯</form><cb:def><p xml:id="pC056p0819b2003" rend="margin-left:1em;inline">徒昆反字書屯亦村也廣雅屯聚
+<lb ed="C" n="0819b21"/>也聚音才句反。</p></cb:def></entry>
+<lb ed="C" n="0819b22"/><entry><form>摩納</form><cb:def><p xml:id="pC056p0819b2203" rend="margin-left:1em;inline">或云摩納婆或云摩那婆或云那
+<lb ed="C" n="0819b23"/>羅摩那皆是梵音訛轉耳
+<pb ed="C" xml:id="C056.1163.0819c" n="0819c"/>
+<lb ed="C" n="0819c01"/>此譯云年少淨行亦云人也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0819c02"/><cb:div type="other"><cb:mulu type="其他" level="3">第十二卷</cb:mulu><head>第十二卷</head>
+<lb ed="C" n="0819c03"/><entry><form>揵椎</form><cb:def><p xml:id="pC056p0819c0303" rend="margin-left:1em;inline">直追反經中或作揵遟案梵本臂
+<lb ed="C" n="0819c04"/>吒揵稚臂吒此云打揵稚所
+<lb ed="C" n="0819c05"/>打之木或檀或桐此無正
+<lb ed="C" n="0819c06"/>翻以彼無鐘磬故也但椎
+<lb ed="C" n="0819c07"/>稚相濫所以為誤<anchor xml:id="beg_2" type="cb-app"/>已<anchor xml:id="end_2"/>久。</p></cb:def></entry>
+<lb ed="C" n="0819c08"/><entry><form>羅差</form><cb:def><p xml:id="pC056p0819c0803" rend="margin-left:1em;inline">或言洛沙訛也應云勒义此譯
+<lb ed="C" n="0819c09"/>云紫色也。</p></cb:def></entry>
+<lb ed="C" n="0819c10"/><entry><form>憍奢耶</form><cb:def><p xml:id="pC056p0819c1004" rend="margin-left:1em;inline">此譯云虫衣謂用野蝅絲綿作
+<lb ed="C" n="0819c11"/>衣也應云俱舍此云藏謂
+<lb ed="C" n="0819c12"/>蝅藏在蠒中此即野蝅也。</p></cb:def></entry>
+<lb ed="C" n="0819c13"/><entry><form>趍走</form><cb:def><p xml:id="pC056p0819c1303" rend="margin-left:1em;inline">又作趨同且瑜反釋名疾行曰趍
+<lb ed="C" n="0819c14"/>疾趍曰走。</p></cb:def></entry>
+<lb ed="C" n="0819c15"/><entry><form>圊廁</form><cb:def><p xml:id="pC056p0819c1503" rend="margin-left:1em;inline">七情反廣雅圊圂屏廁也皆廁
+<lb ed="C" n="0819c16"/>之別名也。</p></cb:def></entry>
+<lb ed="C" n="0819c17"/><entry><form>褱異</form><cb:def><p xml:id="pC056p0819c1703" rend="margin-left:1em;inline">又作傀褻二形同古廻反傀美也
+<lb ed="C" n="0819c18"/>廣雅傀偉奇玩也。</p></cb:def></entry>
+<lb ed="C" n="0819c19"/><entry><form>禦之</form><cb:def><p xml:id="pC056p0819c1903" rend="margin-left:1em;inline">古文敔同魚舉反禦當也亦止
+<lb ed="C" n="0819c20"/>也尒雅禦禁也。</p></cb:def></entry>
+<lb ed="C" n="0819c21"/><entry><form>娑咩</form><cb:def><p xml:id="pC056p0819c2103" rend="margin-left:1em;inline"><note place="inline"><g ref="#CB12752">󳇐</g>尒反</note>。</p></cb:def></entry><entry cb:place="inline"><form>嘍濘</form><cb:def><p xml:id="pC056p0819c2108" rend="margin-left:1em;inline"><note place="inline">洛口反下奴定反</note>。</p></cb:def></entry><entry cb:place="inline"><form>婆坵</form><cb:def><p xml:id="pC056p0819c2117" rend="margin-left:1em;inline"><note place="inline">丁礼反</note>。</p></cb:def></entry><entry cb:place="inline"><form>囉緹</form><cb:def><p xml:id="pC056p0819c2122" rend="margin-left:1em;inline"><note place="inline">他礼反</note>。</p></cb:def></entry><entry cb:place="inline"><form>婆踟</form><cb:def><p xml:id="pC056p0819c2127" rend="margin-left:1em;inline"><note place="inline">直知反</note>。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0819c22"/><cb:div type="other"><cb:mulu type="其他" level="3">第十五卷</cb:mulu><head>第十五卷</head>
+<lb ed="C" n="0819c23"/><entry><form>劫波育</form><cb:def><p xml:id="pC056p0819c2304" rend="margin-left:1em;inline">或言刼具者訛也正言迦波羅
+<pb ed="C" xml:id="C056.1163.0820a" n="0820a"/>
+<lb ed="C" n="0820a01"/>高昌名<g ref="#CB00626">㲲</g>可以為布<g ref="#CB00868">𦋺</g>
+<lb ed="C" n="0820a02"/>賓<anchor xml:id="beg_3" type="cb-app"/>已<anchor xml:id="end_3"/>南大者成樹<anchor xml:id="beg_4" type="cb-app"/>已<anchor xml:id="end_4"/>北
+<lb ed="C" n="0820a03"/>形小狀如土葵有聲剖
+<lb ed="C" n="0820a04"/>以出如柳絮可紉以為
+<lb ed="C" n="0820a05"/>布也紉女<g ref="#CB13251">󳏃</g>反。</p></cb:def></entry>
+<lb ed="C" n="0820a06"/><entry><form>僂<g ref="#CB07998">𣦢</g></form><cb:def><p xml:id="pC056p0820a0603" rend="margin-left:1em;inline">力矩反僂曲也下方尺反<g ref="#CB07998">𣦢</g>不能行
+<lb ed="C" n="0820a07"/>也字從止。</p></cb:def></entry>
+<lb ed="C" n="0820a08"/><entry><form>跛蹇</form><cb:def><p xml:id="pC056p0820a0803" rend="margin-left:1em;inline">又作<g ref="#CB22624">󵡠</g>同補我反下居免反字林
+<lb ed="C" n="0820a09"/>跛蹇行不正也。</p></cb:def></entry>
+<lb ed="C" n="0820a10"/><entry><form>窊靣</form><cb:def><p xml:id="pC056p0820a1003" rend="margin-left:1em;inline">一瓜反廣雅窊下也經文作洿一
+<lb ed="C" n="0820a11"/>胡反洿池也。</p></cb:def></entry>
+<lb ed="C" n="0820a12"/><entry><form>櫨欂</form><cb:def><p xml:id="pC056p0820a1203" rend="margin-left:1em;inline">来都反下蒲麦反三蒼柱上方木
+<lb ed="C" n="0820a13"/>也山東江南皆曰枅自
+<lb ed="C" n="0820a14"/><anchor xml:id="beg_5" type="cb-app"/>陝<anchor xml:id="end_5"/>以西曰<g ref="#CB02610">㭼</g>枅音古奚反。</p></cb:def></entry>
+<lb ed="C" n="0820a15"/><entry><form>怡懌</form><cb:def><p xml:id="pC056p0820a1503" rend="margin-left:1em;inline">古文<g ref="#CB09311">󲑟</g>同翼之反下以石反尒雅
+<lb ed="C" n="0820a16"/>怡懌樂也經文作津
+<lb ed="C" n="0820a17"/>液之液非也。</p></cb:def></entry>
+<lb ed="C" n="0820a18"/><entry><form>監領</form><cb:def><p xml:id="pC056p0820a1803" rend="margin-left:1em;inline">古文<g ref="#CB22696">󵢨</g>同公衫反方言監察也亦
+<lb ed="C" n="0820a19"/>覧也經文作鑒非體也。</p></cb:def></entry>
+<lb ed="C" n="0820a20"/><entry><form>輨轄</form><cb:def><p xml:id="pC056p0820a2003" rend="margin-left:1em;inline">古緩反下又作<g ref="#CB22243">󵛣</g>鎋二形同胡瞎反
+<lb ed="C" n="0820a21"/>方言開之東西曰輨亦曰
+<lb ed="C" n="0820a22"/>轄謂軸頭<g ref="#CB05033">䥫</g>也鎋鍵也
+<lb ed="C" n="0820a23"/>經文從竹作管非體也。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0820b" n="0820b"/>
+<lb ed="C" n="0820b01"/><entry><form><g ref="#CB12025">𨍊</g>紖</form><cb:def><p xml:id="pC056p0820b0103" rend="margin-left:1em;inline">又作<g ref="#CB08334">䊶</g>絼二形同直忍反謂牛鼻
+<lb ed="C" n="0820b02"/>繩也。</p></cb:def></entry><entry cb:place="inline"><form>旒幢</form><cb:def><p xml:id="pC056p0820b0205" rend="margin-left:1em;inline">字書作統同呂周反謂旌旗之
+<lb ed="C" n="0820b03"/>垂者也天子十二旒諸侯
+<lb ed="C" n="0820b04"/>九旒是。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0820b05"/><cb:div type="other"><cb:mulu type="其他" level="3">第十六卷</cb:mulu><head>第十六卷</head>
+<lb ed="C" n="0820b06"/><entry><form>焦悸</form><cb:def><p xml:id="pC056p0820b0603" rend="margin-left:1em;inline">古文痵同其季反字林心動也說
+<lb ed="C" n="0820b07"/>文氣不定也。</p></cb:def></entry>
+<lb ed="C" n="0820b08"/><entry><form><g ref="#CB07140">󱯤</g>笑</form><cb:def><p xml:id="pC056p0820b0803" rend="margin-left:1em;inline">充之反蒼頡篇<g ref="#CB07140">󱯤</g>輕侮也經文從
+<lb ed="C" n="0820b09"/>口作嗤非體也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0820b10"/><cb:div type="other"><cb:mulu type="其他" level="3">第十七卷</cb:mulu><head>第十七卷</head>
+<lb ed="C" n="0820b11"/><entry><form>郁鳩</form><cb:def><p xml:id="pC056p0820b1103" rend="margin-left:1em;inline"><note place="inline">於六反</note>。</p></cb:def></entry><entry cb:place="inline"><form>鳩攡</form><cb:def><p xml:id="pC056p0820b1108" rend="margin-left:1em;inline"><note place="inline">力知反</note>。</p></cb:def></entry><entry cb:place="inline"><form>蔚耆</form><cb:def><p xml:id="pC056p0820b1113" rend="margin-left:1em;inline"><note place="inline">於費反</note>。</p></cb:def></entry><entry cb:place="inline"><form>曬婆</form><cb:def><p xml:id="pC056p0820b1118" rend="margin-left:1em;inline"><note place="inline">力訃反</note>。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0820b12"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十卷</cb:mulu><head>第二十卷</head>
+<lb ed="C" n="0820b13"/><entry><form>唏隸</form><cb:def><p xml:id="pC056p0820b1303" rend="margin-left:1em;inline"><note place="inline">呼凡反</note>。</p></cb:def></entry><entry cb:place="inline"><form>嘍梨</form><cb:def><p xml:id="pC056p0820b1308" rend="margin-left:1em;inline"><note place="inline">力口反經文作娶非也</note>。</p></cb:def></entry><entry cb:place="inline"><form>斫啾</form><cb:def><p xml:id="pC056p0820b1319" rend="margin-left:1em;inline"><note place="inline">子由反</note>。</p></cb:def></entry><entry cb:place="inline"><form>膝伽</form><cb:def><p xml:id="pC056p0820b1324" rend="margin-left:1em;inline"><note place="inline">私七反經
+<lb ed="C" n="0820b14"/>文作<unclear></unclear>非也</note>。</p></cb:def></entry><entry cb:place="inline"><form>提蘘</form><cb:def><p xml:id="pC056p0820b1408" rend="margin-left:1em;inline"><note place="inline">而羊反</note>。</p></cb:def></entry><entry cb:place="inline"><form><g ref="#CB16765">󴅽</g>陁</form><cb:def><p xml:id="pC056p0820b1413" rend="margin-left:1em;inline"><note place="inline">徒多反經文作馳非也</note>。</p></cb:def></entry><entry cb:place="inline"><form>茂睼</form><cb:def><p xml:id="pC056p0820b1424" rend="margin-left:1em;inline"><note place="inline">吐奚反經文作<g ref="#CB03982">㖷</g>非也</note>。</p></cb:def></entry>
+<lb ed="C" n="0820b15"/><entry><form>遁走</form><cb:def><p xml:id="pC056p0820b1503" rend="margin-left:1em;inline">今作遯<g ref="#CB08961">𨔵</g>二形同徒頓反遁逃也
+<lb ed="C" n="0820b16"/>廣雅遁避也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0820b17"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十一卷</cb:mulu><head>第二十一卷</head>
+<lb ed="C" n="0820b18"/><entry><form>刀戟</form><cb:def><p xml:id="pC056p0820b1803" rend="margin-left:1em;inline">居逆反字林有枝兵器也長六尺。</p></cb:def></entry>
+<lb ed="C" n="0820b19"/><entry><form>确盡</form><cb:def><p xml:id="pC056p0820b1903" rend="margin-left:1em;inline">苦角反孟子曰确<g ref="#CB22702">󵢮</g>薄地也今亦
+<lb ed="C" n="0820b20"/>取此。</p></cb:def></entry><entry cb:place="inline"><form>确瘦</form><cb:def><p xml:id="pC056p0820b2005" rend="margin-left:1em;inline">苦角反通俗文物堅硬謂之
+<lb ed="C" n="0820b21"/>确今取其義。</p></cb:def></entry>
+<lb ed="C" n="0820b22"/><entry><form>奎星</form><cb:def><p xml:id="pC056p0820b2203" rend="margin-left:1em;inline"><note place="inline">口携反</note>。</p></cb:def></entry><entry cb:place="inline"><form>婁星</form><cb:def><p xml:id="pC056p0820b2208" rend="margin-left:1em;inline"><note place="inline">力侯反</note>。</p></cb:def></entry><entry cb:place="inline"><form><g ref="#CB22819">󵤣</g>星</form><cb:def><p xml:id="pC056p0820b2213" rend="margin-left:1em;inline"><note place="inline">立鈍反</note>。</p></cb:def></entry><entry cb:place="inline"><form>觜星</form><cb:def><p xml:id="pC056p0820b2218" rend="margin-left:1em;inline"><note place="inline">子累反</note>。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0820b23"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十二卷</cb:mulu><head>第二十二卷</head>
+<pb ed="C" xml:id="C056.1163.0820c" n="0820c"/>
+<lb ed="C" n="0820c01"/><entry><form>嘻隸</form><cb:def><p xml:id="pC056p0820c0103" rend="margin-left:1em;inline"><note place="inline">盧基反</note>。</p></cb:def></entry><entry cb:place="inline"><form>究侜</form><cb:def><p xml:id="pC056p0820c0108" rend="margin-left:1em;inline"><note place="inline">竹流反</note>。</p></cb:def></entry><entry cb:place="inline"><form>婆<g ref="#CB01706">𨥌</g></form><cb:def><p xml:id="pC056p0820c0113" rend="margin-left:1em;inline"><note place="inline">昌氏反</note>。</p></cb:def></entry><entry cb:place="inline"><form>陁睼</form><cb:def><p xml:id="pC056p0820c0118" rend="margin-left:1em;inline"><note place="inline">吐<unclear></unclear>反</note>。</p></cb:def></entry><entry cb:place="inline"><form><g ref="#CB21945">󵖹</g>婆</form><cb:def><p xml:id="pC056p0820c0123" rend="margin-left:1em;inline"><note place="inline">以鉗反經文作
+<lb ed="C" n="0820c02"/><unclear></unclear>非也</note>。</p></cb:def></entry><entry cb:place="inline"><form>至朎</form><cb:def><p xml:id="pC056p0820c0206" rend="margin-left:1em;inline"><note place="inline">胡躭反經文作<g ref="#CB00805">𤚥</g>一非也</note>。</p></cb:def></entry><entry cb:place="inline"><form>仳他</form><cb:def><p xml:id="pC056p0820c0218" rend="margin-left:1em;inline"><note place="inline">父萎反</note>。</p></cb:def></entry>
+<lb ed="C" n="0820c03"/><entry><form>薜荔</form><cb:def><p xml:id="pC056p0820c0303" rend="margin-left:1em;inline">浦細反下力計反正言閇麗多此譯
+<lb ed="C" n="0820c04"/>云祖父或言餓鬼是餓鬼
+<lb ed="C" n="0820c05"/>中<g ref="#CB08764">㝡</g>劣者也。</p></cb:def></entry>
+<lb ed="C" n="0820c06"/><entry><form>尼鞀</form><cb:def><p xml:id="pC056p0820c0603" rend="margin-left:1em;inline"><note place="inline">徒刀反</note>。</p></cb:def></entry><entry cb:place="inline"><form><g ref="#CB04216">䉛</g>廁</form><cb:def><p xml:id="pC056p0820c0608" rend="margin-left:1em;inline"><note place="inline">於云反</note>。</p></cb:def></entry><entry cb:place="inline"><form>陁<g ref="#CB03495">𠲸</g></form><cb:def><p xml:id="pC056p0820c0613" rend="margin-left:1em;inline"><note place="inline">或作諵喃二形同女咸反</note>。</p></cb:def></entry><entry cb:place="inline"><form><g ref="#CB07203">𥇔</g>那</form><cb:def><p xml:id="pC056p0820c0625" rend="margin-left:1em;inline"><note place="inline">丑上反經文從口作<g ref="#CB02737">󰪱</g>非也</note>。</p></cb:def></entry>
+<lb ed="C" n="0820c07"/><entry><form>兵革</form><cb:def><p xml:id="pC056p0820c0703" rend="margin-left:1em;inline">古核反軍旅之事曰兵革謂兵器
+<lb ed="C" n="0820c08"/>雜有皮革也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0820c09"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十三卷</cb:mulu><head>第二十三卷</head>
+<lb ed="C" n="0820c10"/><entry><form>啅啅</form><cb:def><p xml:id="pC056p0820c1003" rend="margin-left:1em;inline"><note place="inline">陟角反</note>。</p></cb:def></entry><entry cb:place="inline"><form>兜仇</form><cb:def><p xml:id="pC056p0820c1008" rend="margin-left:1em;inline"><note place="inline">都侯反下渠牛反</note>。</p></cb:def></entry><entry cb:place="inline"><form>囉<g ref="#CB02779">𥿫</g></form><cb:def><p xml:id="pC056p0820c1017" rend="margin-left:1em;inline"><note place="inline">丑賜反</note>。</p></cb:def></entry><entry cb:place="inline"><form>鞞哹</form><cb:def><p xml:id="pC056p0820c1022" rend="margin-left:1em;inline"><note place="inline">疋尤反</note>。</p></cb:def></entry>
+<lb ed="C" n="0820c11"/><entry><form>噢南</form><cb:def><p xml:id="pC056p0820c1103" rend="margin-left:1em;inline"><note place="inline">於六反</note>。</p></cb:def></entry><entry cb:place="inline"><form>伽悢</form><cb:def><p xml:id="pC056p0820c1108" rend="margin-left:1em;inline"><note place="inline">力尚反</note>。</p></cb:def></entry><entry cb:place="inline"><form><g ref="#CB07554">󱶂</g>囉</form><cb:def><p xml:id="pC056p0820c1113" rend="margin-left:1em;inline"><note place="inline">丁奚反經文作<g ref="#CB02795">䩯</g>非也</note>。</p></cb:def></entry>
+<lb ed="C" n="0820c12"/><entry><form>埏埴</form><cb:def><p xml:id="pC056p0820c1203" rend="margin-left:1em;inline">尸延反下時力反埏擊也和也埴土也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0820c13"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十六卷</cb:mulu><head>第二十六卷</head>
+<lb ed="C" n="0820c14"/><entry><form>手探</form><cb:def><p xml:id="pC056p0820c1403" rend="margin-left:1em;inline">他含反說文手遠取曰探也。</p></cb:def></entry>
+<lb ed="C" n="0820c15"/><entry><form>伶俜</form><cb:def><p xml:id="pC056p0820c1503" rend="margin-left:1em;inline">歷丁反下疋丁反三蒼伶俜猶聡
+<lb ed="C" n="0820c16"/>翩也孤獨皃也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0820c17"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十八卷</cb:mulu><head>第二十八卷</head>
+<lb ed="C" n="0820c18"/><entry><form>脰蘘</form><cb:def><p xml:id="pC056p0820c1803" rend="margin-left:1em;inline"><note place="inline">翼之反下而羊反</note>。</p></cb:def></entry><entry cb:place="inline"><form><g ref="#CB22230">󵛖</g>呿</form><cb:def><p xml:id="pC056p0820c1812" rend="margin-left:1em;inline"><note place="inline">於六反下見庶反經文從豆作或非也</note>。</p></cb:def></entry><entry cb:place="inline"><form>膃摩</form><cb:def><p xml:id="pC056p0820c1829" rend="margin-left:1em;inline"><note place="inline">一兀反</note>。</p></cb:def></entry><entry cb:place="inline"><form>蹶比</form><cb:def><p xml:id="pC056p0820c1834" rend="margin-left:1em;inline"><note place="inline">日月反</note>。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0820c19"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十九卷</cb:mulu><head>第二十九卷</head>
+<lb ed="C" n="0820c20"/><entry><form>迦睇</form><cb:def><p xml:id="pC056p0820c2003" rend="margin-left:1em;inline">他第反一音徒計反依字傾視曰睇。</p></cb:def></entry>
+<lb ed="C" n="0820c21"/><entry><form>霖雨</form><cb:def><p xml:id="pC056p0820c2103" rend="margin-left:1em;inline">力金反雨自三日已上為霖。</p></cb:def></entry>
+<lb ed="C" n="0820c22"/><entry><form>係心</form><cb:def><p xml:id="pC056p0820c2203" rend="margin-left:1em;inline">古文繫継二形同古詣反係綴也
+<lb ed="C" n="0820c23"/>繫束也。</p></cb:def></entry></cb:div></cb:div>
+<pb ed="C" xml:id="C056.1163.0821a" n="0821a"/>
+<lb ed="C" n="0821a01"/><cb:div type="other"><cb:mulu type="其他" level="2">大集日藏分經</cb:mulu><head>大集日藏分經</head>
+<lb ed="C" n="0821a02"/><cb:div type="other"><cb:mulu type="其他" level="3">第一卷</cb:mulu><head>第一卷</head>
+<lb ed="C" n="0821a03"/><entry><form>僧伽藍</form><cb:def><p xml:id="pC056p0821a0304" rend="margin-left:1em;inline">舊譯云村正言僧伽羅磨云
+<lb ed="C" n="0821a04"/>眾園也。</p></cb:def></entry><entry cb:place="inline"><form>生挑</form><cb:def><p xml:id="pC056p0821a0406" rend="margin-left:1em;inline">他堯反聲類挑抉也謂
+<lb ed="C" n="0821a05"/>以手抉取物也抉音
+<lb ed="C" n="0821a06"/>烏決反。</p></cb:def></entry>
+<lb ed="C" n="0821a07"/><entry><form>俱蘭吒花</form><cb:def><p xml:id="pC056p0821a0705" rend="margin-left:1em;inline">或云拘蘭荼花此譯云紅色花也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0821a08"/><cb:div type="other"><cb:mulu type="其他" level="3">第二卷</cb:mulu><head>第二卷</head>
+<lb ed="C" n="0821a09"/><entry><form>逋沙</form><cb:def><p xml:id="pC056p0821a0903" rend="margin-left:1em;inline">布吾反又作補婁沙或言富留沙皆
+<lb ed="C" n="0821a10"/>訛也正言富盧沙此言士夫
+<lb ed="C" n="0821a11"/>或言丈夫經中或作甫訛也。</p></cb:def></entry>
+<lb ed="C" n="0821a12"/><entry><form>仳必</form><cb:def><p xml:id="pC056p0821a1203" rend="margin-left:1em;inline"><note place="inline">疋視反</note>。</p></cb:def></entry><entry cb:place="inline"><form>羅麼</form><cb:def><p xml:id="pC056p0821a1208" rend="margin-left:1em;inline"><note place="inline">莫可反</note>。</p></cb:def></entry><entry cb:place="inline"><form>復<g ref="#CB00714">䫂</g></form><cb:def><p xml:id="pC056p0821a1213" rend="margin-left:1em;inline"><note place="inline">都我反</note>。</p></cb:def></entry><entry cb:place="inline"><form>馺跛</form><cb:def><p xml:id="pC056p0821a1218" rend="margin-left:1em;inline"><note place="inline">蘇合反</note>。</p></cb:def></entry><entry cb:place="inline"><form>娑郵</form><cb:def><p xml:id="pC056p0821a1223" rend="margin-left:1em;inline"><note place="inline">无反</note>。</p></cb:def></entry>
+<lb ed="C" n="0821a13"/><entry><form><g ref="#CB30155">㖶</g><g ref="#CB23011">󵧣</g></form><cb:def><p xml:id="pC056p0821a1303" rend="margin-left:1em;inline"><note place="inline">因賢反</note>。</p></cb:def></entry><entry cb:place="inline"><form>摩爹</form><cb:def><p xml:id="pC056p0821a1308" rend="margin-left:1em;inline"><note place="inline">徒可反</note>。</p></cb:def></entry><entry cb:place="inline"><form>鉢郎</form><cb:def><p xml:id="pC056p0821a1313" rend="margin-left:1em;inline"><note place="inline">力可反</note>。</p></cb:def></entry><entry cb:place="inline"><form>囉栘</form><cb:def><p xml:id="pC056p0821a1318" rend="margin-left:1em;inline"><note place="inline">是奚反</note>。</p></cb:def></entry>
+<lb ed="C" n="0821a14"/><entry><form>三姥</form><cb:def><p xml:id="pC056p0821a1403" rend="margin-left:1em;inline"><note place="inline">亡古反</note>。</p></cb:def></entry><entry cb:place="inline"><form>咥<g ref="#CB01421">㖑</g></form><cb:def><p xml:id="pC056p0821a1408" rend="margin-left:1em;inline"><note place="inline">丑一反下呼戒反</note>。</p></cb:def></entry><entry cb:place="inline"><form><g ref="#CB08891">𢙣</g>踦</form><cb:def><p xml:id="pC056p0821a1417" rend="margin-left:1em;inline"><note place="inline">居綺反</note>。</p></cb:def></entry><entry cb:place="inline"><form>窣朱</form><cb:def><p xml:id="pC056p0821a1422" rend="margin-left:1em;inline"><note place="inline">乘伇反</note>。</p></cb:def></entry>
+<lb ed="C" n="0821a15"/><entry><form>迃嘍</form><cb:def><p xml:id="pC056p0821a1503" rend="margin-left:1em;inline"><note place="inline">一禹反下勒口反</note>。</p></cb:def></entry><entry cb:place="inline"><form>伊儸</form><cb:def><p xml:id="pC056p0821a1512" rend="margin-left:1em;inline"><note place="inline">力歌反</note>。</p></cb:def></entry><entry cb:place="inline"><form>系毗</form><cb:def><p xml:id="pC056p0821a1517" rend="margin-left:1em;inline"><note place="inline">下弟反</note>。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0821a16"/><cb:div type="other"><cb:mulu type="其他" level="3">第三卷</cb:mulu><head>第三卷</head>
+<lb ed="C" n="0821a17"/><entry><form>唵句</form><cb:def><p xml:id="pC056p0821a1703" rend="margin-left:1em;inline"><note place="inline">烏感反</note>。</p></cb:def></entry><entry cb:place="inline"><form>眵提</form><cb:def><p xml:id="pC056p0821a1708" rend="margin-left:1em;inline"><note place="inline">充支反</note>。</p></cb:def></entry><entry cb:place="inline"><form>那梯</form><cb:def><p xml:id="pC056p0821a1713" rend="margin-left:1em;inline"><note place="inline">他<g ref="#CB03738">󰺚</g>反</note>。</p></cb:def></entry>
+<lb ed="C" n="0821a18"/><entry><form>頻婆人</form><cb:def><p xml:id="pC056p0821a1804" rend="margin-left:1em;inline">案佛本行經云頻婆羅此數當十兆也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0821a19"/><cb:div type="other"><cb:mulu type="其他" level="3">第四卷</cb:mulu><head>第四卷</head>
+<lb ed="C" n="0821a20"/><entry><form>培鞞</form><cb:def><p xml:id="pC056p0821a2003" rend="margin-left:1em;inline"><note place="inline">蒲口蒲来二反</note>。</p></cb:def></entry><entry cb:place="inline"><form>阿紉</form><cb:def><p xml:id="pC056p0821a2011" rend="margin-left:1em;inline"><note place="inline">女<g ref="#CB13251">󳏃</g>反</note>。</p></cb:def></entry><entry cb:place="inline"><form>坒絰</form><cb:def><p xml:id="pC056p0821a2016" rend="margin-left:1em;inline"><note place="inline">扶必反下徒德反</note>。</p></cb:def></entry>
+<lb ed="C" n="0821a21"/><entry><form>姧宄</form><cb:def><p xml:id="pC056p0821a2103" rend="margin-left:1em;inline">居美反廣雅宄盜也左傳在內曰姧
+<lb ed="C" n="0821a22"/>在外曰宄。</p></cb:def></entry></cb:div>
+<pb ed="C" xml:id="C056.1163.0821b" n="0821b"/>
+<lb ed="C" n="0821b01"/><cb:div type="other"><cb:mulu type="其他" level="3">第五卷</cb:mulu><head>第五卷</head>
+<lb ed="C" n="0821b02"/><entry><form><g ref="#CB05224">䫫</g>頷</form><cb:def><p xml:id="pC056p0821b0203" rend="margin-left:1em;inline">又作髏同力侯反埤蒼頭骨也下
+<lb ed="C" n="0821b03"/>胡感反方言頷頥頷也。</p></cb:def></entry>
+<lb ed="C" n="0821b04"/><entry><form>腥臊</form><cb:def><p xml:id="pC056p0821b0403" rend="margin-left:1em;inline">又作胜同先丁反下又作鱢同乘勞
+<lb ed="C" n="0821b05"/>反通俗文魚臭曰腥假臭
+<lb ed="C" n="0821b06"/>曰臊猳音加。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0821b07"/><cb:div type="other"><cb:mulu type="其他" level="3">第六卷</cb:mulu><head>第六卷</head>
+<lb ed="C" n="0821b08"/><entry><form><g ref="#CB07710">󱸞</g>瘠</form><cb:def><p xml:id="pC056p0821b0803" rend="margin-left:1em;inline">古文膌同才亦反說文膌瘦瘠亦薄也。</p></cb:def></entry>
+<lb ed="C" n="0821b09"/><entry><form>蠅蛆</form><cb:def><p xml:id="pC056p0821b0903" rend="margin-left:1em;inline">千餘反三蒼蠅乳<g ref="#CB22562">󵠢</g>中曰蛆經文從虫作
+<lb ed="C" n="0821b10"/>蛆子餘反蝍蛆蜈蚣也又作疽
+<lb ed="C" n="0821b11"/>久癕也二形並非經義。</p></cb:def></entry>
+<lb ed="C" n="0821b12"/><entry><form>得臛</form><cb:def><p xml:id="pC056p0821b1203" rend="margin-left:1em;inline">呼各反王逸注楚辝云有菜曰羹无曰臛。</p></cb:def></entry>
+<lb ed="C" n="0821b13"/><entry><form>蔔<g ref="#CB15593">󳳩</g></form><cb:def><p xml:id="pC056p0821b1303" rend="margin-left:1em;inline">又作<g ref="#CB22449">󵞱</g>同子奚反醬属也醢醬所和
+<lb ed="C" n="0821b14"/>細切曰<g ref="#CB15593">󳳩</g>全物為葅今中國
+<lb ed="C" n="0821b15"/>皆言<g ref="#CB15593">󳳩</g>江南悉言葅。</p></cb:def></entry>
+<lb ed="C" n="0821b16"/><entry><form>脊檀</form><cb:def><p xml:id="pC056p0821b1603" rend="margin-left:1em;inline">相傳力甚反正言棟居屋中也亦言梁。</p></cb:def></entry>
+<lb ed="C" n="0821b17"/><entry><form>牚柱</form><cb:def><p xml:id="pC056p0821b1703" rend="margin-left:1em;inline"><g ref="#CB30072">𠡠</g>庚耻孟二反今謂邪柱為牚也經文作棖非體也。</p></cb:def></entry>
+<lb ed="C" n="0821b18"/><entry><form>任娠</form><cb:def><p xml:id="pC056p0821b1803" rend="margin-left:1em;inline">書隣反懷胎為娠漢書孟康曰娠音身
+<lb ed="C" n="0821b19"/>今多以娠作兩通也。</p></cb:def></entry>
+<lb ed="C" n="0821b20"/><entry><form>凍暍</form><cb:def><p xml:id="pC056p0821b2003" rend="margin-left:1em;inline">又作<g ref="#CB05705">𤸎</g><g ref="#CB16971">㷎</g>二形同於歇反謂傷熱煩悶欲死也。</p></cb:def></entry>
+<lb ed="C" n="0821b21"/><entry><form>石撩</form><cb:def><p xml:id="pC056p0821b2103" rend="margin-left:1em;inline">力彫反撩擲也說文作摷相擊也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0821b22"/><cb:div type="other"><cb:mulu type="其他" level="3">第七卷</cb:mulu><head>第七卷</head>
+<lb ed="C" n="0821b23"/><entry><form><g ref="#CB07773">𠜂</g>那</form><cb:def><p xml:id="pC056p0821b2303" rend="margin-left:1em;inline">所姧反龍王名也依字聲類<g ref="#CB07773">𠜂</g>定也。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0821c" n="0821c"/>
+<lb ed="C" n="0821c01"/><entry><form>庰中</form><cb:def><p xml:id="pC056p0821c0103" rend="margin-left:1em;inline">蒲定反廣雅圊圂庰廁也。</p></cb:def></entry>
+<lb ed="C" n="0821c02"/><entry><form>乳哺</form><cb:def><p xml:id="pC056p0821c0203" rend="margin-left:1em;inline">蒲路反字林哺咀食也謂口中嚼食也。</p></cb:def></entry>
+<lb ed="C" n="0821c03"/><entry><form>不憚</form><cb:def><p xml:id="pC056p0821c0303" rend="margin-left:1em;inline">徒且反詩云豈敢憚行注云憚難也亦畏也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0821c04"/><cb:div type="other"><cb:mulu type="其他" level="3">第八卷</cb:mulu><head>第八卷</head>
+<lb ed="C" n="0821c05"/><entry><form>人黶</form><cb:def><p xml:id="pC056p0821c0503" rend="margin-left:1em;inline">烏簟反黑子也說文中黑也。</p></cb:def></entry>
+<lb ed="C" n="0821c06"/><entry><form>翌<g ref="#CB22958">󵦮</g></form><cb:def><p xml:id="pC056p0821c0603" rend="margin-left:1em;inline">夷軄反下之忍反北方宿名也翌亦作翼。</p></cb:def></entry>
+<lb ed="C" n="0821c07"/><entry><form>些吉</form><cb:def><p xml:id="pC056p0821c0703" rend="margin-left:1em;inline">蘇計乘餓二反比火天也姓些吉利多耶尼。</p></cb:def></entry>
+<lb ed="C" n="0821c08"/><entry><form>拓地</form><cb:def><p xml:id="pC056p0821c0803" rend="margin-left:1em;inline">古文<g ref="#CB09260">󲐬</g>祏二形今作<g ref="#CB23074">󵨢</g>同他各反。</p></cb:def></entry>
+<lb ed="C" n="0821c09"/><entry><form><g ref="#CB12919">󳉷</g><g ref="#CB12202">󲾪</g></form><cb:def><p xml:id="pC056p0821c0903" rend="margin-left:1em;inline">魚既反說文<g ref="#CB12202">󲾪</g>有决也孔安國注尚書
+<lb ed="C" n="0821c10"/>云煞<g ref="#CB07532">󱵬</g>為果致果為<g ref="#CB12202">󲾪</g>。</p></cb:def></entry>
+<lb ed="C" n="0821c11"/><entry><form>親昵</form><cb:def><p xml:id="pC056p0821c1103" rend="margin-left:1em;inline">又作暱同女栗反尒雅昵親近也又云
+<lb ed="C" n="0821c12"/>昵亟也親昵亦數也。</p></cb:def></entry>
+<lb ed="C" n="0821c13"/><entry><form>炒粳</form><cb:def><p xml:id="pC056p0821c1303" rend="margin-left:1em;inline">古文鬻<g ref="#CB09755">󲘛</g>焣<g ref="#CB08894">𤌉</g>四形今作<g ref="#CB22443">󵞫</g>崔寔四
+<lb ed="C" n="0821c14"/>民月令作炒古文奇字作<g ref="#CB22554">󵠚</g>
+<lb ed="C" n="0821c15"/>同初狡反方言熬焣火乾也。</p></cb:def></entry>
+<lb ed="C" n="0821c16"/><entry><form>慎儆</form><cb:def><p xml:id="pC056p0821c1603" rend="margin-left:1em;inline">古文憼儆二形今作警同居影反警
+<lb ed="C" n="0821c17"/>戒慎也廣雅警不安也。</p></cb:def></entry>
+<lb ed="C" n="0821c18"/><entry><form>嘲戲</form><cb:def><p xml:id="pC056p0821c1803" rend="margin-left:1em;inline">又作啁同竹包反蒼頡篇云啁調也相調戲也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0821c19"/><cb:div type="other"><cb:mulu type="其他" level="3">第九卷</cb:mulu><head>第九卷</head>
+<lb ed="C" n="0821c20"/><entry><form><g ref="#CB08054">󱽶</g>飛</form><cb:def><p xml:id="pC056p0821c2003" rend="margin-left:1em;inline">於全反字林虫皃也動也或作<g ref="#CB12865">󳉁</g>呼全反飛<g ref="#CB15032">㒵</g>也。</p></cb:def></entry>
+<lb ed="C" n="0821c21"/><entry><form>桁械</form><cb:def><p xml:id="pC056p0821c2103" rend="margin-left:1em;inline">胡郎反下胡戒反通俗文云拘罪曰桁
+<lb ed="C" n="0821c22"/>械謂穿木加足曰械大械曰桁。</p></cb:def></entry>
+<lb ed="C" n="0821c23"/><entry><form>他恀</form><cb:def><p xml:id="pC056p0821c2303" rend="margin-left:1em;inline">音是又時移反依字尒雅恀怙恃也。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0822a" n="0822a"/>
+<lb ed="C" n="0822a01"/><entry><form><g ref="#CB01606">䯇</g><g ref="#CB01606">䯇</g></form><cb:def><p xml:id="pC056p0822a0103" rend="margin-left:1em;inline">苦骨反廣雅<g ref="#CB01606">䯇</g>勤也埤蒼力作也。</p></cb:def></entry>
+<lb ed="C" n="0822a02"/><entry><form>喫噉</form><cb:def><p xml:id="pC056p0822a0203" rend="margin-left:1em;inline">口迹反謂喫食也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0822a03"/><cb:div type="other"><cb:mulu type="其他" level="3">第十卷</cb:mulu><head>第十卷</head>
+<lb ed="C" n="0822a04"/><entry><form>燂身</form><cb:def><p xml:id="pC056p0822a0403" rend="margin-left:1em;inline">聲類作燂燖二形字詁古文<g ref="#CB23053">󵨍</g>鬻二
+<lb ed="C" n="0822a05"/>形今<g ref="#CB10758">󲨆</g>同詳廉反通俗文以湯去
+<lb ed="C" n="0822a06"/>毛曰<g ref="#CB10758">󲨆</g>經文作爓案說文等音皆余
+<lb ed="C" n="0822a07"/>贍反又羊占反火爓爓也爓非經義。</p></cb:def></entry>
+<lb ed="C" n="0822a08"/><entry><form>嗽於</form><cb:def><p xml:id="pC056p0822a0803" rend="margin-left:1em;inline">又作欶同山角反欶吮也經文從口作<g ref="#CB00944">𡂡</g>俗字也。</p></cb:def></entry>
+<lb ed="C" n="0822a09"/><entry><form>刀砧</form><cb:def><p xml:id="pC056p0822a0903" rend="margin-left:1em;inline">又作椹<g ref="#CB22421">󵞕</g>二形同猪金反鈇砧也。</p></cb:def></entry>
+<lb ed="C" n="0822a10"/><entry><form>烙口</form><cb:def><p xml:id="pC056p0822a1003" rend="margin-left:1em;inline">力各反謂燒物著人曰烙經文作爍式酌反。</p></cb:def></entry></cb:div></cb:div>
+<lb ed="C" n="0822a11"/><cb:div type="other"><cb:mulu type="其他" level="2">大集月藏分經</cb:mulu><head>大集月藏分經</head>
+<lb ed="C" n="0822a12"/><cb:div type="other"><cb:mulu type="其他" level="3">第一卷</cb:mulu><head>第一卷</head>
+<lb ed="C" n="0822a13"/><entry><form>囉<g ref="#CB00689">𠯋</g></form><cb:def><p xml:id="pC056p0822a1303" rend="margin-left:1em;inline">烏礼反字又作<g ref="#CB04112">䚷</g>依字義廣雅<g ref="#CB04112">䚷</g><g ref="#CB00629">󰉵</g>聲也。</p></cb:def></entry>
+<lb ed="C" n="0822a14"/><entry><form>振觸</form><cb:def><p xml:id="pC056p0822a1403" rend="margin-left:1em;inline">說文作樘柱也隱音紂庚反字統作棖文庚
+<lb ed="C" n="0822a15"/>反棖觸也嫽<g ref="#CB07934">㲂</g>觸亦作<g ref="#CB07934">㲂</g>音文<g ref="#CB10308">𢖍</g>反。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0822a16"/><cb:div type="other"><cb:mulu type="其他" level="3">第二卷</cb:mulu><head>第二卷</head>
+<lb ed="C" n="0822a17"/><entry><form>齊鼓</form><cb:def><p xml:id="pC056p0822a1703" rend="margin-left:1em;inline">今清樂中有此鼓鼓面安齊故云齊鼓也。</p></cb:def></entry>
+<lb ed="C" n="0822a18"/><entry><form><g ref="#CB13454">󳒎</g>鼓</form><cb:def><p xml:id="pC056p0822a1803" rend="margin-left:1em;inline">力占反謂以瓦為<unclear></unclear>革為兩靣用杖
+<lb ed="C" n="0822a19"/>擊之者也經文作<g ref="#CB22613">󵡕</g>。</p></cb:def></entry>
+<lb ed="C" n="0822a20"/><entry><form>矛<g ref="#CB00267">䂎</g></form><cb:def><p xml:id="pC056p0822a2003" rend="margin-left:1em;inline">又作<g ref="#CB00426">𨥨</g><g ref="#CB08782">𢦵</g>二形同莫侯反說文矛長二丈建
+<lb ed="C" n="0822a21"/>於兵車下千乱友廣雅<g ref="#CB00267">䂎</g>謂之鋋鋋
+<lb ed="C" n="0822a22"/>矛也今江湘<anchor xml:id="beg_6" type="cb-app"/>已<anchor xml:id="end_6"/>南傒人工用<g ref="#CB00267">䂎</g>鋋
+<lb ed="C" n="0822a23"/>音蟬傒音口奚反經文作<g ref="#CB23106">󵩂</g>非體也。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0822b" n="0822b"/>
+<lb ed="C" n="0822b01"/><entry><form><g ref="#CB02758">䏣</g>倿</form><cb:def><p xml:id="pC056p0822b0103" rend="margin-left:1em;inline">千餘反謂<g ref="#CB02758">䏣</g>妬下奴定反諂媚也字從
+<lb ed="C" n="0822b02"/>女從仁論語<g ref="#CB08891">𢙣</g>夫倿者此即從女之義
+<lb ed="C" n="0822b03"/>左傳云寡人不倿不能事父兄比即從
+<lb ed="C" n="0822b04"/>仁之義也。</p></cb:def></entry>
+<lb ed="C" n="0822b05"/><entry><form>登祚</form><cb:def><p xml:id="pC056p0822b0503" rend="margin-left:1em;inline">徂故反祚位也祿也亦福也祥也。</p></cb:def></entry>
+<lb ed="C" n="0822b06"/><entry><form>狡猾</form><cb:def><p xml:id="pC056p0822b0603" rend="margin-left:1em;inline">古夘反下胡刮反方言凡小兒多詐或
+<lb ed="C" n="0822b07"/>謂之狡猾亦乱也三蒼猾黠<g ref="#CB08891">𢙣</g>也。</p></cb:def></entry>
+<lb ed="C" n="0822b08"/><entry><form>佛仍</form><cb:def><p xml:id="pC056p0822b0803" rend="margin-left:1em;inline">又作<g ref="#CB08399">䚮</g><g ref="#CB08295">䄧</g>二形同而陵反廣疋
+<lb ed="C" n="0822b09"/>云仍重也尒疋仍因也乃也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0822b10"/><cb:div type="other"><cb:mulu type="其他" level="3">第三卷</cb:mulu><head>第三卷</head>
+<lb ed="C" n="0822b11"/><entry><form>塵曀</form><cb:def><p xml:id="pC056p0822b1103" rend="margin-left:1em;inline">古文<g ref="#CB08121">㙪</g>同於計反小尒疋云幽曀
+<lb ed="C" n="0822b12"/>闇昧<g ref="#CB07448">𡨋</g>也尒疋陰而風日曀<g ref="#CB18232">𥼶</g>名
+<lb ed="C" n="0822b13"/>云曀亦翳也使日不明淨也。</p></cb:def></entry>
+<lb ed="C" n="0822b14"/><entry><form>怨讎</form><cb:def><p xml:id="pC056p0822b1403" rend="margin-left:1em;inline">視周反三蒼怨偶日讎讎對也
+<lb ed="C" n="0822b15"/>尒疋讎疋也。</p></cb:def></entry>
+<lb ed="C" n="0822b16"/><entry><form>螽鼠</form><cb:def><p xml:id="pC056p0822b1603" rend="margin-left:1em;inline">冝作鼨籀文作<g ref="#CB22719">󵢿</g>同之弓反尒
+<lb ed="C" n="0822b17"/>疋鼨鼠說文即豹文鼠也經文作
+<lb ed="C" n="0822b18"/>螽音終虫名也。</p></cb:def></entry>
+<lb ed="C" n="0822b19"/><entry><form>訓狐</form><cb:def><p xml:id="pC056p0822b1903" rend="margin-left:1em;inline">關西呼訓侯山東謂之訓狐即
+<lb ed="C" n="0822b20"/>鳩<g ref="#CB07150">𩿍</g>也一名鵂鶹經文作勳胡非
+<lb ed="C" n="0822b21"/>體也。</p></cb:def></entry>
+<lb ed="C" n="0822b22"/><entry><form>土梟</form><cb:def><p xml:id="pC056p0822b2203" rend="margin-left:1em;inline">古彫反<g ref="#CB08891">𢙣</g>鳴鳥也說文不孝鳥
+<lb ed="C" n="0822b23"/>也經文作兔梟或作禿梟非也。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0822c" n="0822c"/>
+<lb ed="C" n="0822c01"/><entry><form>蔚茂</form><cb:def><p xml:id="pC056p0822c0103" rend="margin-left:1em;inline">於謂反蒼頡篇云草木盛<g ref="#CB15032">㒵</g>也
+<lb ed="C" n="0822c02"/>廣雅蔚亦茂也翳也。</p></cb:def></entry>
+<lb ed="C" n="0822c03"/><entry><form>期尅</form><cb:def><p xml:id="pC056p0822c0303" rend="margin-left:1em;inline">渠基反下又作勉同口勒反言
+<lb ed="C" n="0822c04"/>必當也經文作忌非也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0822c05"/><cb:div type="other"><cb:mulu type="其他" level="3">第四卷</cb:mulu><head>第四卷</head>
+<lb ed="C" n="0822c06"/><entry><form>蕃息</form><cb:def><p xml:id="pC056p0822c0603" rend="margin-left:1em;inline">父袁反蕃滋也謂滋多也<g ref="#CB18232">𥼶</g>名
+<lb ed="C" n="0822c07"/>息塞也言万物滋息塞滿也今
+<lb ed="C" n="0822c08"/>中國謂蕃息為嬔息音疋万反
+<lb ed="C" n="0822c09"/>同時一嬔亦作此字。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0822c10"/><cb:div type="other"><cb:mulu type="其他" level="3">第五卷</cb:mulu><head>第五卷</head>
+<lb ed="C" n="0822c11"/><entry><form>羅媲</form><cb:def><p xml:id="pC056p0822c1103" rend="margin-left:1em;inline"><note place="inline">普結反</note>。</p></cb:def></entry><entry cb:place="inline"><form>系捍</form><cb:def><p xml:id="pC056p0822c1108" rend="margin-left:1em;inline"><note place="inline">胡計反下公旦反</note>。</p></cb:def></entry>
+<lb ed="C" n="0822c12"/><entry><form>海島</form><cb:def><p xml:id="pC056p0822c1203" rend="margin-left:1em;inline">古文隝同都道都皎二反說文
+<lb ed="C" n="0822c13"/>海中有山可依止曰島<g ref="#CB18232">𥼶</g>名島
+<lb ed="C" n="0822c14"/>到也人所奔到也亦言鳥人物
+<lb ed="C" n="0822c15"/>所趣如鳥之下也。</p></cb:def></entry>
+<lb ed="C" n="0822c16"/><entry><form>迦利</form><cb:def><p xml:id="pC056p0822c1603" rend="margin-left:1em;inline">或名歌利王論中或作迦藍浮
+<lb ed="C" n="0822c17"/>王正言羯利王此云<g ref="#CB12620">𨶜</g>諍王也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0822c18"/><cb:div type="other"><cb:mulu type="其他" level="3">第六卷</cb:mulu><head>第六卷</head>
+<lb ed="C" n="0822c19"/><entry><form>佉伽婆沙</form><cb:def><p xml:id="pC056p0822c1905" rend="margin-left:1em;inline">又作渴伽皆訛也正言朅
+<lb ed="C" n="0822c20"/>伽此譯云犀牛毗沙拏此云角
+<lb ed="C" n="0822c21"/>朅音去謁反。</p></cb:def></entry>
+<lb ed="C" n="0822c22"/><entry><form><g ref="#CB02780">𦂅</g>呵</form><cb:def><p xml:id="pC056p0822c2203" rend="margin-left:1em;inline">又作枲同息里反天童女
+<lb ed="C" n="0822c23"/>名也
+<pb ed="C" xml:id="C056.1163.0823a" n="0823a"/>
+<lb ed="C" n="0823a01"/>依字又作枲籀文作<g ref="#CB22795">󵤋</g>謂牡麻有
+<lb ed="C" n="0823a02"/>子者也。</p></cb:def></entry>
+<lb ed="C" n="0823a03"/><entry><form>陂濼</form><cb:def><p xml:id="pC056p0823a0303" rend="margin-left:1em;inline">筆皮反下匹莫反大池也山東
+<lb ed="C" n="0823a04"/>名濼幽州名淀淀音殿今亦通名也
+<lb ed="C" n="0823a05"/>經文從水作泊借音非體也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0823a06"/><cb:div type="other"><cb:mulu type="其他" level="3">第七卷</cb:mulu><head>第七卷</head>
+<lb ed="C" n="0823a07"/><entry><form>純淨</form><cb:def><p xml:id="pC056p0823a0703" rend="margin-left:1em;inline">時均反謂專一不雜也方言純
+<lb ed="C" n="0823a08"/>好也大也經文作醇說文不澆酒
+<lb ed="C" n="0823a09"/>也又作淳濃之淳其義一也。</p></cb:def></entry>
+<lb ed="C" n="0823a10"/><entry><form>尸仛</form><cb:def><p xml:id="pC056p0823a1003" rend="margin-left:1em;inline">又作詫譇二形同<g ref="#CB30072">𠡠</g>嫁反<g ref="#CB00371">𠃵</g>闥
+<lb ed="C" n="0823a11"/>婆名也。</p></cb:def></entry><entry cb:place="inline"><form>黃鼬</form><cb:def><p xml:id="pC056p0823a1106" rend="margin-left:1em;inline">翼周翼赦二反此龍
+<lb ed="C" n="0823a12"/>名也。</p></cb:def></entry>
+<lb ed="C" n="0823a13"/><entry><form>朚瞿</form><cb:def><p xml:id="pC056p0823a1303" rend="margin-left:1em;inline"><note place="inline">莫光反</note>。</p></cb:def></entry><entry cb:place="inline"><form>儚伽</form><cb:def><p xml:id="pC056p0823a1308" rend="margin-left:1em;inline"><note place="inline">霍<g ref="#CB10485">󲣵</g>反</note>。</p></cb:def></entry><entry cb:place="inline"><form>黚婆利</form><cb:def><p xml:id="pC056p0823a1314" rend="margin-left:1em;inline"><note place="inline">九嚴反</note>。</p></cb:def></entry><entry cb:place="inline"><form>枲
+<lb ed="C" n="0823a14"/>阿</form><cb:def><p xml:id="pC056p0823a1402" rend="margin-left:1em;inline"><note place="inline">息里反</note>。</p></cb:def></entry><entry cb:place="inline"><form>黟乾</form><cb:def><p xml:id="pC056p0823a1407" rend="margin-left:1em;inline"><note place="inline">一号反</note>。</p></cb:def></entry>
+<lb ed="C" n="0823a15"/><entry><form>謫罰</form><cb:def><p xml:id="pC056p0823a1503" rend="margin-left:1em;inline">都<g ref="#CB22754">󵣢</g>反通俗文罰罪曰謫字林
+<lb ed="C" n="0823a16"/>謫罪過也責也說文罪之小者罰
+<lb ed="C" n="0823a17"/>討亦折伏也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0823a18"/><cb:div type="other"><cb:mulu type="其他" level="3">第八卷</cb:mulu><head>第八卷</head>
+<lb ed="C" n="0823a19"/><entry><form>婆涑</form><cb:def><p xml:id="pC056p0823a1903" rend="margin-left:1em;inline">乘侯乘榖二反依字濯生練曰
+<lb ed="C" n="0823a20"/>涑去舊垢曰浣一云以手曰涑以
+<lb ed="C" n="0823a21"/>足曰浣也。</p></cb:def></entry>
+<lb ed="C" n="0823a22"/><entry><form>雷皷</form><cb:def><p xml:id="pC056p0823a2203" rend="margin-left:1em;inline">力廻反周礼雷皷皷神礼鄭玄
+<lb ed="C" n="0823a23"/>曰雷皷八面者也。</p></cb:def></entry></cb:div>
+<pb ed="C" xml:id="C056.1163.0823b" n="0823b"/>
+<lb ed="C" n="0823b01"/><cb:div type="other"><cb:mulu type="其他" level="3">第九卷</cb:mulu><head>第九卷</head>
+<lb ed="C" n="0823b02"/><entry><form>讇鞞</form><cb:def><p xml:id="pC056p0823b0203" rend="margin-left:1em;inline">是<g ref="#CB26810">󶢺</g>反下蒲迷反國名也。</p></cb:def></entry>
+<lb ed="C" n="0823b03"/><entry><form>鄯善</form><cb:def><p xml:id="pC056p0823b0303" rend="margin-left:1em;inline">時戰反漢書本名樓蘭因傳永
+<lb ed="C" n="0823b04"/>子斬其王復更名鄯善在焉耆國
+<lb ed="C" n="0823b05"/>南胡國陽關外也。</p></cb:def></entry>
+<lb ed="C" n="0823b06"/><entry><form>黟羅</form><cb:def><p xml:id="pC056p0823b0603" rend="margin-left:1em;inline">烏奚反阿修羅王名也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0823b07"/><cb:div type="other"><cb:mulu type="其他" level="3">第十卷</cb:mulu><head>第十卷</head>
+<lb ed="C" n="0823b08"/><entry><form>遮噠那</form><cb:def><p xml:id="pC056p0823b0804" rend="margin-left:1em;inline"><g ref="#CB30072">𠡠</g>轄反國名也依字韻集云
+<lb ed="C" n="0823b09"/>咀噠語不正也。</p></cb:def></entry>
+<lb ed="C" n="0823b10"/><entry><form>曰虹</form><cb:def><p xml:id="pC056p0823b1003" rend="margin-left:1em;inline">胡公反江東俗音絳尒疋音義
+<lb ed="C" n="0823b11"/>云雙出鮮盛者為雄雄曰虹暗者
+<lb ed="C" n="0823b12"/>為雌雌曰蜺蜺或作霓霓音五奚反。</p></cb:def></entry>
+<lb ed="C" n="0823b13"/><entry><form><g ref="#CB22234">󵛚</g>坼</form><cb:def><p xml:id="pC056p0823b1303" rend="margin-left:1em;inline"><g ref="#CB10430">󲢾</g>美反下恥格反尒疋<g ref="#CB22234">󵛚</g>毀也
+<lb ed="C" n="0823b14"/>坼裂也尒疋<g ref="#CB22234">󵛚</g>覆也廣疋坼分也。</p></cb:def></entry></cb:div></cb:div>
+<lb ed="C" n="0823b15"/><cb:div type="other"><cb:mulu type="其他" level="2">大威德陁羅<g ref="#CB00112">𡰱</g>經</cb:mulu><head>大威德陁羅<g ref="#CB00112">𡰱</g>經</head>
+<lb ed="C" n="0823b16"/><cb:div type="other"><cb:mulu type="其他" level="3">第一卷</cb:mulu><head>第一卷</head>
+<lb ed="C" n="0823b17"/><entry><form><g ref="#CB04245">䁋</g>眼</form><cb:def><p xml:id="pC056p0823b1703" rend="margin-left:1em;inline">又作<g ref="#CB06751">𥍉</g>同大涉反通俗文一目
+<lb ed="C" n="0823b18"/>眨曰<g ref="#CB04245">䁋</g>謂眇目視白也眨音<g ref="#CB00982">㽵</g>狹反。</p></cb:def></entry>
+<lb ed="C" n="0823b19"/><entry><form><g ref="#CB02544">䁑</g>眼</form><cb:def><p xml:id="pC056p0823b1903" rend="margin-left:1em;inline">式亦反說文目疾視也。</p></cb:def></entry>
+<lb ed="C" n="0823b20"/><entry><form>眇眼</form><cb:def><p xml:id="pC056p0823b2003" rend="margin-left:1em;inline">亡紹反說文一目小也<g ref="#CB18232">𥼶</g>名云
+<lb ed="C" n="0823b21"/>目匡陷急曰眇眇小也。</p></cb:def></entry>
+<lb ed="C" n="0823b22"/><entry><form>矘眼</form><cb:def><p xml:id="pC056p0823b2203" rend="margin-left:1em;inline">他莾反字林目無精直視也亦
+<lb ed="C" n="0823b23"/>失志<g ref="#CB15032">㒵</g>也。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0823c" n="0823c"/>
+<lb ed="C" n="0823c01"/><entry><form><g ref="#CB04081">𥈾</g>眼</form><cb:def><p xml:id="pC056p0823c0103" rend="margin-left:1em;inline">一决反說文目深<g ref="#CB15032">㒵</g>也。</p></cb:def></entry>
+<lb ed="C" n="0823c02"/><entry><form>睽眼</form><cb:def><p xml:id="pC056p0823c0203" rend="margin-left:1em;inline">苦携反廣蒼目少精也說文目
+<lb ed="C" n="0823c03"/>不相聽也。</p></cb:def></entry>
+<lb ed="C" n="0823c04"/><entry><form>睒眼</form><cb:def><p xml:id="pC056p0823c0403" rend="margin-left:1em;inline">式舟戈舟二反說文蹔視也。</p></cb:def></entry>
+<lb ed="C" n="0823c05"/><entry><form>睉眼</form><cb:def><p xml:id="pC056p0823c0503" rend="margin-left:1em;inline">子戈似弋二反字林小目也。</p></cb:def></entry>
+<lb ed="C" n="0823c06"/><entry><form>睍睴</form><cb:def><p xml:id="pC056p0823c0603" rend="margin-left:1em;inline">下<g ref="#CB21867">󵕫</g>反下胡本公困二反說文
+<lb ed="C" n="0823c07"/>睍目出<g ref="#CB15032">㒵</g>也睴大出目也謂人目
+<lb ed="C" n="0823c08"/>大而突出曰腪。</p></cb:def></entry>
+<lb ed="C" n="0823c09"/><entry><form>眣眼</form><cb:def><p xml:id="pC056p0823c0903" rend="margin-left:1em;inline">徒結反字書目出也又作凸字
+<lb ed="C" n="0823c10"/>苑凸疑言經文作垤蟻堆也垤非
+<lb ed="C" n="0823c11"/>經義。</p></cb:def></entry>
+<lb ed="C" n="0823c12"/><entry><form>眅多</form><cb:def><p xml:id="pC056p0823c1203" rend="margin-left:1em;inline">匹姧匹諫普板三反說文眼多
+<lb ed="C" n="0823c13"/>白也春秋傳曰鄭游眅字子明是也。</p></cb:def></entry>
+<lb ed="C" n="0823c14"/><entry><form>繚戾</form><cb:def><p xml:id="pC056p0823c1403" rend="margin-left:1em;inline">力鳥反下力計反不正也謂相
+<lb ed="C" n="0823c15"/>糺繚也經文作膫力彫反脂膫也
+<lb ed="C" n="0823c16"/>膫非此義。</p></cb:def></entry>
+<lb ed="C" n="0823c17"/><entry><form>疑<g ref="#CB23237">󵫅</g></form><cb:def><p xml:id="pC056p0823c1703" rend="margin-left:1em;inline">且漬反方言凡草木<g ref="#CB02863">㓨</g>人關西
+<lb ed="C" n="0823c18"/>謂之<g ref="#CB23237">󵫅</g>燕朝鮮冽水之閒謂之<g ref="#CB16347">𦯕</g>。</p></cb:def></entry>
+<lb ed="C" n="0823c19"/><entry><form>懸臃</form><cb:def><p xml:id="pC056p0823c1903" rend="margin-left:1em;inline">又作<g ref="#CB08552">𦡚</g>同於<g ref="#CB04552">󱇈</g>反喉中<g ref="#CB22562">󵠢</g>也<g ref="#CB18232">𥼶</g>
+<lb ed="C" n="0823c20"/>名云<g ref="#CB08552">𦡚</g>擁也謂氣至擁塞也經文
+<lb ed="C" n="0823c21"/>作甕非也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0823c22"/><cb:div type="other"><cb:mulu type="其他" level="3">第二卷</cb:mulu><head>第二卷</head>
+<lb ed="C" n="0823c23"/><entry><form>羶臭</form><cb:def><p xml:id="pC056p0823c2303" rend="margin-left:1em;inline">說文羴或作羶同失然反羊臭也。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0824a" n="0824a"/>
+<lb ed="C" n="0824a01"/><entry><form>惇直</form><cb:def><p xml:id="pC056p0824a0103" rend="margin-left:1em;inline">蒼頡解詁云古文敦同都乇反
+<lb ed="C" n="0824a02"/>說文惇厚也方也惇信也謂誠<g ref="#CB15032">㒵</g>
+<lb ed="C" n="0824a03"/>也亦擈也大也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0824a04"/><cb:div type="other"><cb:mulu type="其他" level="3">第三卷</cb:mulu><head>第三卷</head>
+<lb ed="C" n="0824a05"/><entry><form>洲潬</form><cb:def><p xml:id="pC056p0824a0503" rend="margin-left:1em;inline">徒亶反尒疋潬沙出也謂水內
+<lb ed="C" n="0824a06"/>淨堆也經文作埏音延埏道也埏
+<lb ed="C" n="0824a07"/>非字體。</p></cb:def></entry>
+<lb ed="C" n="0824a08"/><entry><form>那唏</form><cb:def><p xml:id="pC056p0824a0803" rend="margin-left:1em;inline">呼几呼<g ref="#CB00042">󰀪</g>二反。</p></cb:def></entry>
+<lb ed="C" n="0824a09"/><entry><form>婆莆</form><cb:def><p xml:id="pC056p0824a0903" rend="margin-left:1em;inline"><note place="inline">方禹反</note>。</p></cb:def></entry><entry cb:place="inline"><form>訢婆</form><cb:def><p xml:id="pC056p0824a0908" rend="margin-left:1em;inline"><note place="inline">虛斤反</note>。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0824a10"/><cb:div type="other"><cb:mulu type="其他" level="3">第四卷</cb:mulu><head>第四卷</head>
+<lb ed="C" n="0824a11"/><entry><form>百<g ref="#CB00267">䂎</g></form><cb:def><p xml:id="pC056p0824a1103" rend="margin-left:1em;inline">倉乱<g ref="#CB04974">󱍮</g>鸞二反<g ref="#CB00267">䂎</g>擲也經文作
+<lb ed="C" n="0824a12"/>炊<g ref="#CB09694">󲗞</g>字非也。</p></cb:def></entry>
+<lb ed="C" n="0824a13"/><entry><form><g ref="#CB06960">𢙢</g>嚇</form><cb:def><p xml:id="pC056p0824a1303" rend="margin-left:1em;inline">呼嫁反詩云及子来嚇菚云距
+<lb ed="C" n="0824a14"/>人曰嚇亦言恐赫或言恐猲皆一義也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0824a15"/><cb:div type="other"><cb:mulu type="其他" level="3">第五卷</cb:mulu><head>第五卷</head>
+<lb ed="C" n="0824a16"/><entry><form>冊地</form><cb:def><p xml:id="pC056p0824a1603" rend="margin-left:1em;inline"><note place="inline">楚責反</note>。</p></cb:def></entry><entry cb:place="inline"><form>黟荼</form><cb:def><p xml:id="pC056p0824a1608" rend="margin-left:1em;inline"><note place="inline">一奚反</note>。</p></cb:def></entry>
+<lb ed="C" n="0824a17"/><entry><form>虱<g ref="#CB00604">䶩</g></form><cb:def><p xml:id="pC056p0824a1703" rend="margin-left:1em;inline">所乙反下竹皆反。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0824a18"/><cb:div type="other"><cb:mulu type="其他" level="3">第六卷</cb:mulu><head>第六卷</head>
+<lb ed="C" n="0824a19"/><entry><form>多霤</form><cb:def><p xml:id="pC056p0824a1903" rend="margin-left:1em;inline">車力救反星宿異名也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0824a20"/><cb:div type="other"><cb:mulu type="其他" level="3">第七卷</cb:mulu><head>第七卷</head>
+<lb ed="C" n="0824a21"/><entry><form>勃嘍</form><cb:def><p xml:id="pC056p0824a2103" rend="margin-left:1em;inline"><note place="inline">力口反</note>。</p></cb:def></entry>
+<lb ed="C" n="0824a22"/><entry><form>毱豆<g ref="#CB22627">㽞</g></form><cb:def><p xml:id="pC056p0824a2204" rend="margin-left:1em;inline">渠掬反經文作毬非體也。</p></cb:def></entry>
+<lb ed="C" n="0824a23"/><entry><form>嘔多</form><cb:def><p xml:id="pC056p0824a2303" rend="margin-left:1em;inline"><note place="inline">烏後反</note>。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0824b" n="0824b"/>
+<lb ed="C" n="0824b01"/><entry><form>阿履那</form><cb:def><p xml:id="pC056p0824b0104" rend="margin-left:1em;inline">此云山羊正言曷利拏捴言
+<lb ed="C" n="0824b02"/>麞鹿等名也。</p></cb:def></entry>
+<lb ed="C" n="0824b03"/><entry><form>麼迦吒</form><cb:def><p xml:id="pC056p0824b0304" rend="margin-left:1em;inline">莫可反此云<g ref="#CB23107">󵩃</g>猴。</p></cb:def></entry>
+<lb ed="C" n="0824b04"/><entry><form>跋詫</form><cb:def><p xml:id="pC056p0824b0403" rend="margin-left:1em;inline"><note place="inline"><g ref="#CB30072">𠡠</g>嫁反</note>。</p></cb:def></entry><entry cb:place="inline"><form>羅斃</form><cb:def><p xml:id="pC056p0824b0408" rend="margin-left:1em;inline"><note place="inline">蒲計反</note>。</p></cb:def></entry>
+<lb ed="C" n="0824b05"/><entry><form>利鈇</form><cb:def><p xml:id="pC056p0824b0503" rend="margin-left:1em;inline">方于反莝刃也亦云撗斧也蒼
+<lb ed="C" n="0824b06"/>頡篇鈇莝鈇也謂撗斧也莝刃也
+<lb ed="C" n="0824b07"/>說文鈇莝斫也謂莝刃也公羊傳
+<lb ed="C" n="0824b08"/>云不忍加之鈇質是也。</p></cb:def></entry>
+<lb ed="C" n="0824b09"/><entry><form>嚘嘍</form><cb:def><p xml:id="pC056p0824b0903" rend="margin-left:1em;inline"><note place="inline">於求反</note>。</p></cb:def></entry><entry cb:place="inline"><form>囉咤</form><cb:def><p xml:id="pC056p0824b0908" rend="margin-left:1em;inline"><note place="inline">竹嫁反</note>。</p></cb:def></entry><entry cb:place="inline"><form>娑俞</form><cb:def><p xml:id="pC056p0824b0913" rend="margin-left:1em;inline"><note place="inline">以朱反</note>。</p></cb:def></entry>
+<lb ed="C" n="0824b10"/><entry><form>上嘶</form><cb:def><p xml:id="pC056p0824b1003" rend="margin-left:1em;inline">卑以反下斯奚反。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0824b11"/><cb:div type="other"><cb:mulu type="其他" level="3">第八卷</cb:mulu><head>第八卷</head>
+<lb ed="C" n="0824b12"/><entry><form>指麾</form><cb:def><p xml:id="pC056p0824b1203" rend="margin-left:1em;inline">字詁今作撝同呼皮反手指曰
+<lb ed="C" n="0824b13"/>麾謂旌旗指麾眾也因以名焉因礼
+<lb ed="C" n="0824b14"/>逮大麾於田夏后氏所建。</p></cb:def></entry>
+<lb ed="C" n="0824b15"/><entry><form>黝羅</form><cb:def><p xml:id="pC056p0824b1503" rend="margin-left:1em;inline">於糺一予二反從頻婆羅至黝
+<lb ed="C" n="0824b16"/>羅破此數名也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0824b17"/><cb:div type="other"><cb:mulu type="其他" level="3">第十一卷</cb:mulu><head>第十一卷</head>
+<lb ed="C" n="0824b18"/><entry><form>狗齩</form><cb:def><p xml:id="pC056p0824b1803" rend="margin-left:1em;inline">又作<g ref="#CB00603">䶧</g>同五狡反中國音也又
+<lb ed="C" n="0824b19"/>下狡反江南音也說文齩齧也經
+<lb ed="C" n="0824b20"/>文作骹苦交反<g ref="#CB00170">䏶</g>膝骨也骹非此用。</p></cb:def></entry>
+<lb ed="C" n="0824b21"/><entry><form>毛<g ref="#CB04119">𣮧</g></form><cb:def><p xml:id="pC056p0824b2103" rend="margin-left:1em;inline">布莽反謂毛布也字林<g ref="#CB00868">𦋺</g>之方
+<lb ed="C" n="0824b22"/>文者曰<g ref="#CB04119">𣮧</g>通俗文織毛曰<g ref="#CB00868">𦋺</g>邪文
+<lb ed="C" n="0824b23"/>曰<g ref="#CB04119">𣮧</g>經文作<g ref="#CB01595">𣯟</g>非也。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0824c" n="0824c"/>
+<lb ed="C" n="0824c01"/><entry><form>那娜</form><cb:def><p xml:id="pC056p0824c0103" rend="margin-left:1em;inline"><note place="inline">刁可反</note>。</p></cb:def></entry><entry cb:place="inline"><form>歧蹬</form><cb:def><p xml:id="pC056p0824c0108" rend="margin-left:1em;inline"><note place="inline">音登</note>。</p></cb:def></entry><entry cb:place="inline"><form>娑喃</form><cb:def><p xml:id="pC056p0824c0112" rend="margin-left:1em;inline"><note place="inline">女咸反</note>。</p></cb:def></entry>
+<lb ed="C" n="0824c02"/><entry><form>蜱犁</form><cb:def><p xml:id="pC056p0824c0203" rend="margin-left:1em;inline"><note place="inline"><g ref="#CB10430">󲢾</g>梨反</note>。</p></cb:def></entry><entry cb:place="inline"><form>謩羅</form><cb:def><p xml:id="pC056p0824c0208" rend="margin-left:1em;inline"><note place="inline">莫孤反</note>。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0824c03"/><cb:div type="other"><cb:mulu type="其他" level="3">第十二卷</cb:mulu><head>第十二卷</head>
+<lb ed="C" n="0824c04"/><entry><form>閹人</form><cb:def><p xml:id="pC056p0824c0403" rend="margin-left:1em;inline">於儉反說文閹豎宮中閹昬閇
+<lb ed="C" n="0824c05"/>門者也周礼閹人鄭玄曰閹精氣
+<lb ed="C" n="0824c06"/>閇藏者今謂之宮人也主閇門戶
+<lb ed="C" n="0824c07"/>故曰閹。</p></cb:def></entry>
+<lb ed="C" n="0824c08"/><entry><form>覢電</form><cb:def><p xml:id="pC056p0824c0803" rend="margin-left:1em;inline">又作睒同式舟反說文蹔見也
+<lb ed="C" n="0824c09"/>亦不定也經文作閃窺頭也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0824c10"/><cb:div type="other"><cb:mulu type="其他" level="3">第十三卷</cb:mulu><head>第十三卷</head>
+<lb ed="C" n="0824c11"/><entry><form><g ref="#CB02758">䏣</g>戶</form><cb:def><p xml:id="pC056p0824c1103" rend="margin-left:1em;inline">且餘反通俗文肉中虫謂之<g ref="#CB02758">䏣</g>
+<lb ed="C" n="0824c12"/>經文作蛆非也疽二形並非體也。</p></cb:def></entry>
+<lb ed="C" n="0824c13"/><entry><form>羅毦</form><cb:def><p xml:id="pC056p0824c1303" rend="margin-left:1em;inline">人志反廣疋<g ref="#CB10806">㲥</g>毦<g ref="#CB00868">𦋺</g>也織毛曰
+<lb ed="C" n="0824c14"/><g ref="#CB00868">𦋺</g>也<g ref="#CB10806">㲥</g>音唐。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0824c15"/><cb:div type="other"><cb:mulu type="其他" level="3">第十四卷</cb:mulu><head>第十四卷</head>
+<lb ed="C" n="0824c16"/><entry><form>婆啉</form><cb:def><p xml:id="pC056p0824c1603" rend="margin-left:1em;inline">力南反依字啉聒也譙也。</p></cb:def></entry>
+<lb ed="C" n="0824c17"/><entry><form>呞食</form><cb:def><p xml:id="pC056p0824c1703" rend="margin-left:1em;inline">又作<g ref="#CB08020">𪗪</g>齝二形同<g ref="#CB30072">𠡠</g>之式之二
+<lb ed="C" n="0824c18"/>反尒疋牛曰<g ref="#CB08020">𪗪</g>謂食<anchor xml:id="beg_7" type="cb-app"/>已<anchor xml:id="end_7"/>復吐出也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0824c19"/><cb:div type="other"><cb:mulu type="其他" level="3">第十五卷</cb:mulu><head>第十五卷</head>
+<lb ed="C" n="0824c20"/><entry><form>趂逐</form><cb:def><p xml:id="pC056p0824c2003" rend="margin-left:1em;inline">丑刃反謂相追趂也關西以逐
+<lb ed="C" n="0824c21"/>物為趂也。</p></cb:def></entry>
+<lb ed="C" n="0824c22"/><entry><form>謇<g ref="#CB22729">󵣉</g></form><cb:def><p xml:id="pC056p0824c2203" rend="margin-left:1em;inline">居展反下又作<g ref="#CB06900">㰦</g>同居乞反通
+<lb ed="C" n="0824c23"/>俗文言不通利謂之謇吃易云謇
+<pb ed="C" xml:id="C056.1163.0825a" n="0825a"/>
+<lb ed="C" n="0825a01"/>難也聲類云吃重言也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0825a02"/><cb:div type="other"><cb:mulu type="其他" level="3">第十六卷</cb:mulu><head>第十六卷</head>
+<lb ed="C" n="0825a03"/><entry><form>評論</form><cb:def><p xml:id="pC056p0825a0303" rend="margin-left:1em;inline">皮抦反字書評訂也訂平議也
+<lb ed="C" n="0825a04"/>訂音唐頂反。</p></cb:def></entry>
+<lb ed="C" n="0825a05"/><entry><form><g ref="#CB05033">䥫</g><g ref="#CB01040">󰐐</g></form><cb:def><p xml:id="pC056p0825a0503" rend="margin-left:1em;inline">今作<g ref="#CB00063">𠲿</g>又作觜同子累反廣疋
+<lb ed="C" n="0825a06"/><g ref="#CB01040">󰐐</g>口也方言<g ref="#CB01040">󰐐</g>鳥喙也經文作<g ref="#CB00047">󰀯</g>
+<lb ed="C" n="0825a07"/>非也<g ref="#CB00047">󰀯</g>音似<g ref="#CB02547">䎡</g>反。</p></cb:def></entry>
+<lb ed="C" n="0825a08"/><entry><form>鵂侯</form><cb:def><p xml:id="pC056p0825a0803" rend="margin-left:1em;inline">許牛反鵂鶹也亦名訓侯一名
+<lb ed="C" n="0825a09"/>鉤鵅晝伏夜鳴者亦名恠鳥。</p></cb:def></entry>
+<lb ed="C" n="0825a10"/><entry><form>從<g ref="#CB00324">󰅄</g></form><cb:def><p xml:id="pC056p0825a1003" rend="margin-left:1em;inline">又作<g ref="#CB22214">󵛆</g>薖二形同苦和反廣疋
+<lb ed="C" n="0825a11"/>橧<g ref="#CB00324">󰅄</g>巢也小尒疋云雞雉所乳謂
+<lb ed="C" n="0825a12"/>之<g ref="#CB00324">󰅄</g>在樹曰巢在<g ref="#CB08762">󲈺</g>曰<g ref="#CB00324">󰅄</g>也橧音
+<lb ed="C" n="0825a13"/>則恒反。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0825a14"/><cb:div type="other"><cb:mulu type="其他" level="3">第十七卷</cb:mulu><head>第十七卷</head>
+<lb ed="C" n="0825a15"/><entry><form>為捍</form><cb:def><p xml:id="pC056p0825a1503" rend="margin-left:1em;inline">又作扞同胡旦反說文扞止也
+<lb ed="C" n="0825a16"/>亦蔽也衛也經文作翰高飛也長
+<lb ed="C" n="0825a17"/>也翰非此用。</p></cb:def></entry>
+<lb ed="C" n="0825a18"/><entry><form>垂胡</form><cb:def><p xml:id="pC056p0825a1803" rend="margin-left:1em;inline">又作<g ref="#CB00232">𩑶</g><g ref="#CB10438">𠴱</g>二形同戶孤反說文
+<lb ed="C" n="0825a19"/>牛頷垂下也<g ref="#CB18232">𥼶</g>名胡在咽下垂者
+<lb ed="C" n="0825a20"/>也經文作<g ref="#CB22510">󵟮</g>非體也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0825a21"/><cb:div type="other"><cb:mulu type="其他" level="3">第十九卷</cb:mulu><head>第十九卷</head>
+<lb ed="C" n="0825a22"/><entry><form>斤<g ref="#CB00550">𣃆</g></form><cb:def><p xml:id="pC056p0825a2203" rend="margin-left:1em;inline">居勤反說文斤斫也斤钁也下
+<lb ed="C" n="0825a23"/>古文<g ref="#CB11540">𣃂</g>同竹角反說文<g ref="#CB00550">𣃆</g>斫也經
+<pb ed="C" xml:id="C056.1163.0825b" n="0825b"/>
+<lb ed="C" n="0825b01"/>文作釿魚斤反釿<g ref="#CB10975">㓵</g>也釿非經義。</p></cb:def></entry>
+<lb ed="C" n="0825b02"/><entry><form><g ref="#CB22864">󵥐</g>囊</form><cb:def><p xml:id="pC056p0825b0203" rend="margin-left:1em;inline">埤蒼作<g ref="#CB22864">󵥐</g>東觀漢記作排王弼
+<lb ed="C" n="0825b03"/>注書作囊同皮拜反所以冶家用
+<lb ed="C" n="0825b04"/>炊火令熾者也。</p></cb:def></entry>
+<lb ed="C" n="0825b05"/><entry><form>而蹶</form><cb:def><p xml:id="pC056p0825b0503" rend="margin-left:1em;inline">巨月居月二反說文蹶僵也廣
+<lb ed="C" n="0825b06"/>疋僵仆也。</p></cb:def></entry></cb:div></cb:div>
+<lb ed="C" n="0825b07"/><cb:div type="other"><cb:mulu type="其他" level="2">法炬陁羅<g ref="#CB00112">𡰱</g>經</cb:mulu><head>法炬陁羅<g ref="#CB00112">𡰱</g>經</head>
+<lb ed="C" n="0825b08"/><cb:div type="other"><cb:mulu type="其他" level="3">第一卷</cb:mulu><head>第一卷</head>
+<lb ed="C" n="0825b09"/><entry><form>甝婆</form><cb:def><p xml:id="pC056p0825b0903" rend="margin-left:1em;inline"><note place="inline">乎甘反</note>。</p></cb:def></entry><entry cb:place="inline"><form>致<g ref="#CB13283">󳏣</g></form><cb:def><p xml:id="pC056p0825b0908" rend="margin-left:1em;inline"><note place="inline">奴解反</note>。</p></cb:def></entry>
+<lb ed="C" n="0825b10"/><entry><form>笳吹</form><cb:def><p xml:id="pC056p0825b1003" rend="margin-left:1em;inline">或作葭同古遐反今樂中有笳
+<lb ed="C" n="0825b11"/>卷葉吹之因以名也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0825b12"/><cb:div type="other"><cb:mulu type="其他" level="3">第二卷</cb:mulu><head>第二卷</head>
+<lb ed="C" n="0825b13"/><entry><form>阿蘭拏</form><cb:def><p xml:id="pC056p0825b1304" rend="margin-left:1em;inline">女加反或云阿蘭若或言阿
+<lb ed="C" n="0825b14"/>練若皆梵言輕重耳此云空寂亦
+<lb ed="C" n="0825b15"/>云閑寂閑亦無諍也蘭音借為力
+<lb ed="C" n="0825b16"/>姧反經中有從口作囒義非也。</p></cb:def></entry>
+<lb ed="C" n="0825b17"/><entry><form>善馭</form><cb:def><p xml:id="pC056p0825b1703" rend="margin-left:1em;inline">今作御同魚據反駕馭也謂指
+<lb ed="C" n="0825b18"/>麾使馬也凡言馭者所以驅之也
+<lb ed="C" n="0825b19"/>內之於善也。</p></cb:def></entry>
+<lb ed="C" n="0825b20"/><entry><form>鑪鍋</form><cb:def><p xml:id="pC056p0825b2003" rend="margin-left:1em;inline">字體作<g ref="#CB23188">󵪔</g>又作<g ref="#CB23232">󵫀</g>同古和反方
+<lb ed="C" n="0825b21"/>言秦地土釜也。</p></cb:def></entry>
+<lb ed="C" n="0825b22"/><entry><form>翱翔</form><cb:def><p xml:id="pC056p0825b2203" rend="margin-left:1em;inline">五高反迴飛也飛而不動曰翔
+<lb ed="C" n="0825b23"/><g ref="#CB18232">𥼶</g>名云翱敖也言敖遊也翔徉也
+<pb ed="C" xml:id="C056.1163.0825c" n="0825c"/>
+<lb ed="C" n="0825c01"/>言彷徉也。</p></cb:def></entry>
+<lb ed="C" n="0825c02"/><entry><form>埻的</form><cb:def><p xml:id="pC056p0825c0203" rend="margin-left:1em;inline">之允之閏二反通俗文射<g ref="#CB10452">𡊤</g>曰
+<lb ed="C" n="0825c03"/>埻埻中木曰的說文射臬也射侯
+<lb ed="C" n="0825c04"/>也以熊虎之皮飾其側方制之以
+<lb ed="C" n="0825c05"/>為埻臬音牛列反橜也。</p></cb:def></entry>
+<lb ed="C" n="0825c06"/><entry><form>無垜</form><cb:def><p xml:id="pC056p0825c0603" rend="margin-left:1em;inline">徒果反射<g ref="#CB10452">𡊤</g>也經文作埵丁果
+<lb ed="C" n="0825c07"/>反埵累也埵非此義<g ref="#CB10452">𡊤</g>音用。</p></cb:def></entry>
+<lb ed="C" n="0825c08"/><entry><form>僮隸</form><cb:def><p xml:id="pC056p0825c0803" rend="margin-left:1em;inline">力計反周礼男子入于罪隸鄭
+<lb ed="C" n="0825c09"/>眾曰<g ref="#CB03947">󰽫</g>奴也<g ref="#CB03947">󰽫</g>賤也伇也僕<g ref="#CB03947">󰽫</g>也
+<lb ed="C" n="0825c10"/>字從米<g ref="#CB10832">󲩐</g>聲<g ref="#CB10832">󲩐</g>字從又從崇<g ref="#CB10832">󲩐</g>音
+<lb ed="C" n="0825c11"/>之<g ref="#CB09125">󲎥</g>反。</p></cb:def></entry>
+<lb ed="C" n="0825c12"/><entry><form>挾持</form><cb:def><p xml:id="pC056p0825c1203" rend="margin-left:1em;inline">胡頰反尒疋挾藏也方言挾護也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0825c13"/><cb:div type="other"><cb:mulu type="其他" level="3">第三卷</cb:mulu><head>第三卷</head>
+<lb ed="C" n="0825c14"/><entry><form>寥廓</form><cb:def><p xml:id="pC056p0825c1403" rend="margin-left:1em;inline">或作寥同力彫反埤蒼寂寥無
+<lb ed="C" n="0825c15"/>人也廣疋寥深也經文作遼遠之
+<lb ed="C" n="0825c16"/>遼非體也。</p></cb:def></entry>
+<lb ed="C" n="0825c17"/><entry><form>停憩</form><cb:def><p xml:id="pC056p0825c1703" rend="margin-left:1em;inline">又作愒蒼頡篇作<g ref="#CB08141">𡳅</g>同墟例反
+<lb ed="C" n="0825c18"/>尒疋憩息也舍人曰憩臥之息也。</p></cb:def></entry>
+<lb ed="C" n="0825c19"/><entry><form>磧中</form><cb:def><p xml:id="pC056p0825c1903" rend="margin-left:1em;inline">且歷反廣疋磧瀬也水淺見石
+<lb ed="C" n="0825c20"/>者也說文水渚有石曰磧也。</p></cb:def></entry>
+<lb ed="C" n="0825c21"/><entry><form>暴曬</form><cb:def><p xml:id="pC056p0825c2103" rend="margin-left:1em;inline">蒲卜反下所懈反說文暴晞乾
+<lb ed="C" n="0825c22"/>也字從日從出從丱米字意也艸
+<lb ed="C" n="0825c23"/>又作拜同巨<g ref="#CB04552">󱇈</g>反兩手持也。</p></cb:def></entry>
+<pb ed="C" xml:id="C056.1163.0826a" n="0826a"/>
+<lb ed="C" n="0826a01"/><entry><form>趣足</form><cb:def><p xml:id="pC056p0826a0103" rend="margin-left:1em;inline">千屢反趣猶纔也說文趣疾也
+<lb ed="C" n="0826a02"/>經文作趍千<g ref="#CB04456">󱅨</g>反疾走也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0826a03"/><cb:div type="other"><cb:mulu type="其他" level="3">第四卷</cb:mulu><head>第四卷</head>
+<lb ed="C" n="0826a04"/><entry><form>羇縶</form><cb:def><p xml:id="pC056p0826a0403" rend="margin-left:1em;inline">又作馵同猪立反詩云縶之傳
+<lb ed="C" n="0826a05"/>曰縶絆也亦拘縶也。</p></cb:def></entry>
+<lb ed="C" n="0826a06"/><entry><form>坑穽</form><cb:def><p xml:id="pC056p0826a0603" rend="margin-left:1em;inline">古文阱汬二形同才性反說文
+<lb ed="C" n="0826a07"/>大<g ref="#CB15656">䧟</g>也蒼頡篇穽謂掘地為坑張
+<lb ed="C" n="0826a08"/>禽獸者也。</p></cb:def></entry>
+<lb ed="C" n="0826a09"/><entry><form>呵叱</form><cb:def><p xml:id="pC056p0826a0903" rend="margin-left:1em;inline"><g ref="#CB07140">󱯤</g>逸反叱亦呵也方言呵怒也
+<lb ed="C" n="0826a10"/>陳謂之呵亦叱咄也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0826a11"/><cb:div type="other"><cb:mulu type="其他" level="3">第五卷</cb:mulu><head>第五卷</head>
+<lb ed="C" n="0826a12"/><entry><form>阿梨耶</form><cb:def><p xml:id="pC056p0826a1204" rend="margin-left:1em;inline">此譯云出苦者亦言聖者。</p></cb:def></entry>
+<lb ed="C" n="0826a13"/><entry><form>舩擢</form><cb:def><p xml:id="pC056p0826a1303" rend="margin-left:1em;inline">又作掉同馳挍反<g ref="#CB18232">𥼶</g>名在旁撥
+<lb ed="C" n="0826a14"/>水曰擢方言搰或謂之擢所以擢
+<lb ed="C" n="0826a15"/>舩也。</p></cb:def></entry>
+<lb ed="C" n="0826a16"/><entry><form>帆挽</form><cb:def><p xml:id="pC056p0826a1603" rend="margin-left:1em;inline">又作颿<g ref="#CB10256">𩗋</g>二形同扶嚴扶泛二
+<lb ed="C" n="0826a17"/>反三蒼颿舩上張布<g ref="#CB05644">𢗌</g>也<g ref="#CB18232">𥼶</g>名云
+<lb ed="C" n="0826a18"/>舩隨風張幔曰帆謂施舩頭風吹
+<lb ed="C" n="0826a19"/>以進也帊音普嫁反。</p></cb:def></entry>
+<lb ed="C" n="0826a20"/><entry><form>餱糧</form><cb:def><p xml:id="pC056p0826a2003" rend="margin-left:1em;inline">胡鉤反說文餱乾食也詩云乾
+<lb ed="C" n="0826a21"/>餱以衍傳曰餱食也經文從米作糇
+<lb ed="C" n="0826a22"/>非也。</p></cb:def></entry>
+<lb ed="C" n="0826a23"/><entry><form>為棍</form><cb:def><p xml:id="pC056p0826a2303" rend="margin-left:1em;inline">古本反棍轉也謂箜篌上轉繩也。</p></cb:def></entry></cb:div>
+<pb ed="C" xml:id="C056.1163.0826b" n="0826b"/>
+<lb ed="C" n="0826b01"/><cb:div type="other"><cb:mulu type="其他" level="3">第六卷</cb:mulu><head>第六卷</head>
+<lb ed="C" n="0826b02"/><entry><form>蜱羅尸</form><cb:def><p xml:id="pC056p0826b0204" rend="margin-left:1em;inline"><g ref="#CB03038">㭪</g>迷反或作閇尸此譯云肉
+<lb ed="C" n="0826b03"/>團也。</p></cb:def></entry>
+<lb ed="C" n="0826b04"/><entry><form>猖狂</form><cb:def><p xml:id="pC056p0826b0403" rend="margin-left:1em;inline">齒楊反謂變易情性也亦狂騃
+<lb ed="C" n="0826b05"/>也<g ref="#CB00982">㽵</g>子猖狂妄行是也。</p></cb:def></entry>
+<lb ed="C" n="0826b06"/><entry><form><g ref="#CB14187">㤿</g>襲</form><cb:def><p xml:id="pC056p0826b0603" rend="margin-left:1em;inline">古文<g ref="#CB10840">㦻</g>褶二形同辝立反左傳
+<lb ed="C" n="0826b07"/>凡師輕曰襲注云掩其不俻也又
+<lb ed="C" n="0826b08"/>云夜戰曰襲。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0826b09"/><cb:div type="other"><cb:mulu type="其他" level="3">第九卷</cb:mulu><head>第九卷</head>
+<lb ed="C" n="0826b10"/><entry><form>舉措</form><cb:def><p xml:id="pC056p0826b1003" rend="margin-left:1em;inline">且故反蒼頡篇措置也又安也
+<lb ed="C" n="0826b11"/>亦施也。</p></cb:def></entry>
+<lb ed="C" n="0826b12"/><entry><form>嘶聲</form><cb:def><p xml:id="pC056p0826b1203" rend="margin-left:1em;inline">又作<g ref="#CB05226">𧬊</g><g ref="#CB03901">𤺊</g>二形同先奚反埤蒼
+<lb ed="C" n="0826b13"/>聲散也亦悲聲也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0826b14"/><cb:div type="other"><cb:mulu type="其他" level="3">第十卷</cb:mulu><head>第十卷</head>
+<lb ed="C" n="0826b15"/><entry><form>菅針</form><cb:def><p xml:id="pC056p0826b1503" rend="margin-left:1em;inline">賈顏反尒疋茅属也白華一名
+<lb ed="C" n="0826b16"/>野菅也。</p></cb:def></entry>
+<lb ed="C" n="0826b17"/><entry><form>貪惏</form><cb:def><p xml:id="pC056p0826b1703" rend="margin-left:1em;inline">字書或作啉今亦作婪同力南
+<lb ed="C" n="0826b18"/>反惏亦貪也楚辝眾皆競進而貪
+<lb ed="C" n="0826b19"/>惏王逸曰愛財曰貪愛食曰惏。</p></cb:def></entry>
+<lb ed="C" n="0826b20"/><entry><form>桎梏</form><cb:def><p xml:id="pC056p0826b2003" rend="margin-left:1em;inline">之逸反下古木反在手曰桎在
+<lb ed="C" n="0826b21"/>足曰梏蒼頡篇著曰桎<g ref="#CB07694">㕘</g>著曰梏。</p></cb:def></entry>
+<lb ed="C" n="0826b22"/><entry><form>苛暴</form><cb:def><p xml:id="pC056p0826b2203" rend="margin-left:1em;inline">賀多胡可二反說文苛尤劇也
+<lb ed="C" n="0826b23"/>亦煩擾也剋急也礼記苛政猛於
+<pb ed="C" xml:id="C056.1163.0826c" n="0826c"/>
+<lb ed="C" n="0826c01"/>虎是也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0826c02"/><cb:div type="other"><cb:mulu type="其他" level="3">第十四卷</cb:mulu><head>第十四卷</head>
+<lb ed="C" n="0826c03"/><entry><form>偉壯</form><cb:def><p xml:id="pC056p0826c0303" rend="margin-left:1em;inline">埤蒼作瑋同于鬼反說文偉奇也。</p></cb:def></entry>
+<lb ed="C" n="0826c04"/><entry><form><g ref="#CB00267">䂎</g>棓</form><cb:def><p xml:id="pC056p0826c0403" rend="margin-left:1em;inline">千乱反韻集<g ref="#CB00267">䂎</g>鋋也今江湘以
+<lb ed="C" n="0826c05"/>南傒人工用<g ref="#CB00267">䂎</g>鋋音蟬下又作捧
+<lb ed="C" n="0826c06"/>同蒲項反說文棓<g ref="#CB12561">󳄑</g>也謂大杖也
+<lb ed="C" n="0826c07"/><g ref="#CB12561">󳄑</g>音他活反。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0826c08"/><cb:div type="other"><cb:mulu type="其他" level="3">第十七卷</cb:mulu><head>第十七卷</head>
+<lb ed="C" n="0826c09"/><entry><form>儕類</form><cb:def><p xml:id="pC056p0826c0903" rend="margin-left:1em;inline">士皆反字林儕等也儕猶軰類
+<lb ed="C" n="0826c10"/>也左傳晉鄭同儕是也。</p></cb:def></entry>
+<lb ed="C" n="0826c11"/><entry><form>鵂鶹</form><cb:def><p xml:id="pC056p0826c1103" rend="margin-left:1em;inline">許牛反下力周反字書鵂鶹鉤
+<lb ed="C" n="0826c12"/>鵅也廣疋鵂鶹鳩鵄也亦恠鳥也
+<lb ed="C" n="0826c13"/>関西亦名訓侯山東亦名訓狐繤
+<lb ed="C" n="0826c14"/>文云夜則拾人<g ref="#CB11894">𤓰</g>也。</p></cb:def></entry>
+<lb ed="C" n="0826c15"/><entry><form>甫此</form><cb:def><p xml:id="pC056p0826c1503" rend="margin-left:1em;inline">方父反<g ref="#CB18232">𥼶</g>名云甫始也又甫者
+<lb ed="C" n="0826c16"/>男子美稱知子莫若於父父言子
+<lb ed="C" n="0826c17"/>有用即為美稱故字從父從用父
+<lb ed="C" n="0826c18"/>亦聲也。</p></cb:def></entry>
+<lb ed="C" n="0826c19"/><entry><form>田疇</form><cb:def><p xml:id="pC056p0826c1903" rend="margin-left:1em;inline">直流反國語田疇荒蕪賈逵曰
+<lb ed="C" n="0826c20"/>一井為疇九夫為一井也左傳取
+<lb ed="C" n="0826c21"/>我田疇注云並畔為疇蒼頡篇田
+<lb ed="C" n="0826c22"/>種禾稼也疇耕地也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0826c23"/><cb:div type="other"><cb:mulu type="其他" level="3">第十八卷</cb:mulu><head>第十八卷</head>
+<pb ed="C" xml:id="C056.1163.0827a" n="0827a"/>
+<lb ed="C" n="0827a01"/><entry><form>芟剉</form><cb:def><p xml:id="pC056p0827a0103" rend="margin-left:1em;inline">所巖反下千臥反芟<g ref="#CB05532">𠚫</g>草也芟
+<lb ed="C" n="0827a02"/>除除剉猶斫也。</p></cb:def></entry></cb:div>
+<lb ed="C" n="0827a03"/><cb:div type="other"><cb:mulu type="其他" level="3">第二十卷</cb:mulu><head>第二十卷</head>
+<lb ed="C" n="0827a04"/><entry><form>黿虬</form><cb:def><p xml:id="pC056p0827a0403" rend="margin-left:1em;inline">魚袁反下渠周反黿大龜也廣
+<lb ed="C" n="0827a05"/>疋有角曰虬龍熊氏瑞應圖曰虬
+<lb ed="C" n="0827a06"/>龍黑身無鱗甲淮南云女媧之時
+<lb ed="C" n="0827a07"/>服應龍驂青虬是也。</p></cb:def></entry>
+<lb ed="C" n="0827a08"/><entry><form>坘<g ref="#CB12752">󳇐</g></form><cb:def><p xml:id="pC056p0827a0803" rend="margin-left:1em;inline">三蒼音仾下諸律中皆作迷謂
+<lb ed="C" n="0827a09"/>大身魚也其類有四種此則第四
+<lb ed="C" n="0827a10"/>種<g ref="#CB08764">㝡</g>小者也<g ref="#CB09895">㸦</g>相吞食也。</p></cb:def></entry>
+<lb ed="C" n="0827a11"/><entry><form>祁寒</form><cb:def><p xml:id="pC056p0827a1103" rend="margin-left:1em;inline">渠夷市尸二反尚書冬祁寒小
+<lb ed="C" n="0827a12"/>民亦惟怨咨孔安國曰祁大也冬
+<lb ed="C" n="0827a13"/>大寒民猶怨也。</p></cb:def></entry>
+<lb ed="C" n="0827a14"/><entry><form>多嘔</form><cb:def><p xml:id="pC056p0827a1403" rend="margin-left:1em;inline">又作歐同於口反歐亦吐也<g ref="#CB18232">𥼶</g>
+<lb ed="C" n="0827a15"/>名云嘔傴也將有所吐脊典傴也。</p></cb:def></entry></cb:div></cb:div>
+<lb ed="C" n="0827a16"/>
+<lb ed="C" n="0827a17"/><cb:juan fun="close" n="1"><cb:jhead>一切經音義卷第一</cb:jhead></cb:juan>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_1" cb:to="#end_1"><corr>豐</corr><sic>豊</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2" cb:to="#end_2"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_3" cb:to="#end_3"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4" cb:to="#end_4"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5" cb:to="#end_5"><corr>陝</corr><sic>陜</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6" cb:to="#end_6"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7" cb:to="#end_7"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

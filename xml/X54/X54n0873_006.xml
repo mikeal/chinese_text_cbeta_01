@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X54n0873">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 873 肇論略註</title>
+			<author>明 德清述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.6 $<date>$Date: 2009/04/22 09:00:09 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		<respStmt xml:id="resp2"><resp>corrections</resp><name>Xuzangjing</name></respStmt>
+		<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA</name></respStmt>
+	</editionStmt>
+	<extent>6卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 09:00:09 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 54, No. 873 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB02494">
+	<charName>CBETA CHARACTER CB02494</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+(乏-之+友)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>跋</value>
+	</charProp>
+	<mapping type="unicode">U+47E6</mapping>
+	<mapping cb:dec="985534" type="PUA">U+F09BE</mapping>
+</char>
+<char xml:id="CB04432">
+	<charName>CBETA CHARACTER CB04432</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(歹*又)/食]</value>
+	</charProp>
+	<mapping type="unicode">U+4B38</mapping>
+	<mapping cb:dec="987472" type="PUA">U+F1150</mapping>
+</char>
+<char xml:id="CB15210">
+	<charName>CBETA CHARACTER CB15210</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[懨-猒+火]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>恢</value>
+	</charProp>
+	<mapping cb:dec="998250" type="PUA">U+F3B6A</mapping>
+</char>
+<char xml:id="CB16014">
+	<charName>CBETA CHARACTER CB16014</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[鞥-合+(白-日+田)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>鞞</value>
+	</charProp>
+	<mapping type="normal_unicode">U+979E</mapping>
+	<mapping cb:dec="999054" type="PUA">U+F3E8E</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2005-04-22T08:08:10">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">涅槃無名論第四</cb:mulu><cb:mulu type="其他" level="2">九折十演者</cb:mulu><cb:mulu type="其他" level="3">超境第五</cb:mulu><cb:div type="other"><cb:div type="other">
+<lb ed="X" n="0360c19"/><milestone unit="juan" n="6"/>
+<lb ed="X" n="0360c20"/><lb ed="R096" n="0638b01"/><cb:juan fun="open" n="6"><cb:mulu type="卷" n="6"></cb:mulu><cb:jhead>肇論略注卷六</cb:jhead></cb:juan>
+<lb ed="X" n="0360c21"/>
+<lb ed="X" n="0360c22"/><lb ed="R096" n="0638b02"/><byline cb:type="author">明匡山沙門憨山釋　德清　述</byline>
+<lb ed="X" n="0360c23"/><lb ed="R096" n="0638b03"/><cb:div type="other"><cb:mulu type="其他" level="3">搜玄第六</cb:mulu><cb:div type="orig"><p xml:id="pX54p0360c2301">搜玄第六</p></cb:div>
+<lb ed="X" n="0360c24"/><lb ed="R096" n="0638b04"/><cb:div type="commentary"><p xml:id="pX54p0360c2401" rend="margin-left:1em">此承無名言涅槃之道妙出有無。故名家搜之。搜。
+<pb ed="X" xml:id="X54.0873.0361a" n="0361a"/>
+<lb ed="X" n="0361a01"/><lb ed="R096" n="0638b05"/>尋求也。</p></cb:div>
+<lb ed="X" n="0361a02"/><lb ed="R096" n="0638b06"/><cb:div type="orig"><p xml:id="pX54p0361a0201">有名曰。論<anchor xml:id="nkr_note_orig_0361001" n="0361001"/>自云涅槃既不出有無。又不在有無。<note place="inline">引論意</note>
+<lb ed="X" n="0361a03"/><lb ed="R096" n="0638b07"/>不在有無。則不可於有<anchor xml:id="nkr_note_orig_0361002" n="0361002"/>無得之矣。不出有無。則不可
+<lb ed="X" n="0361a04"/><lb ed="R096" n="0638b08"/>離有無求之矣。求之無所。便應都無。</p></cb:div>
+<lb ed="X" n="0361a05"/><lb ed="R096" n="0638b09"/><cb:div type="commentary"><p xml:id="pX54p0361a0501" rend="margin-left:1em">此名家按蹟興疑也。上云良以有無之數等。是不
+<lb ed="X" n="0361a06"/><lb ed="R096" n="0638b10"/>出有無也。前云果出有無等。是不在有無也。以不
+<lb ed="X" n="0361a07"/><lb ed="R096" n="0638b11"/>在故。不可即而得之矣。不出。則不可離而求之矣。
+<lb ed="X" n="0361a08"/><lb ed="R096" n="0638b12"/>於即離之間求之。而所求不可得。便應都無。豈以
+<lb ed="X" n="0361a09"/><lb ed="R096" n="0638b13"/>斷滅為妙道乎。</p></cb:div>
+<lb ed="X" n="0361a10"/><lb ed="R096" n="0638b14"/><cb:div type="orig"><p xml:id="pX54p0361a1001">然復不無其道。其道不無。則幽途可尋。所以千聖同
+<lb ed="X" n="0361a11"/><lb ed="R096" n="0638b15"/>轍。未嘗虗返者也。其道既<anchor xml:id="nkr_note_orig_0361003" n="0361003"/>存。而曰不出不在。必有異
+<lb ed="X" n="0361a12"/><lb ed="R096" n="0638b16"/>旨。可得聞乎。</p></cb:div>
+<lb ed="X" n="0361a13"/><lb ed="R096" n="0638b17"/><cb:div type="commentary"><p xml:id="pX54p0361a1301" rend="margin-left:1em">既云不出不在。然又不無其道。是則妙道可尋。足
+<lb ed="X" n="0361a14"/><lb ed="R096" n="0638b18"/>知千聖一軌。同歸一極。未嘗虗返者也。然其道既
+<lb ed="X" n="0361a15"/><lb ed="R096" n="0639a01"/>存。則有所可指。而曰不出不在。使人趣向無所。必
+<lb ed="X" n="0361a16"/><lb ed="R096" n="0639a02"/>有異旨。可得聞乎。</p></cb:div></cb:div>
+<lb ed="X" n="0361a17"/><lb ed="R096" n="0639a03"/><cb:div type="other"><cb:mulu type="其他" level="3">妙存第七</cb:mulu><cb:div type="orig"><p xml:id="pX54p0361a1701">妙存第七</p></cb:div>
+<lb ed="X" n="0361a18"/><lb ed="R096" n="0639a04"/><cb:div type="commentary"><p xml:id="pX54p0361a1801" rend="margin-left:1em">不出不在曰妙。體非斷絕曰存。乃無住之深趣。存
+<lb ed="X" n="0361a19"/><lb ed="R096" n="0639a05"/>乎不即不離之間。故曰妙存。雖云妙存。正顯無住。</p></cb:div>
+<lb ed="X" n="0361a20"/><lb ed="R096" n="0639a06"/><cb:div type="orig"><p xml:id="pX54p0361a2001">無名曰。夫言由名起。名以相生。相因可相。無相無名。
+<lb ed="X" n="0361a21"/><lb ed="R096" n="0639a07"/>無名無說。無說無聞。</p></cb:div>
+<lb ed="X" n="0361a22"/><lb ed="R096" n="0639a08"/><cb:div type="commentary"><p xml:id="pX54p0361a2201" rend="margin-left:1em">此意責名家執名相以求無言之妙道。故就有無
+<lb ed="X" n="0361a23"/><lb ed="R096" n="0639a09"/>以求之。非得無言之旨也。謂凡言說從名相而起。
+<lb ed="X" n="0361a24"/><lb ed="R096" n="0639a10"/>名相從妄想而生。故曰相因可相。若名相兩忘。則
+<pb ed="X" xml:id="X54.0873.0361b" n="0361b"/>
+<lb ed="X" n="0361b01"/><lb ed="R096" n="0639a11"/>言說俱無。言說既無。則從何所聞。然此涅槃妙道。
+<lb ed="X" n="0361b02"/><lb ed="R096" n="0639a12"/>本無言說。子於何而得聞乎。</p></cb:div>
+<lb ed="X" n="0361b03"/><lb ed="R096" n="0639a13"/><cb:div type="orig"><p xml:id="pX54p0361b0301">經曰。涅槃非法。<note place="inline">故不在</note>非非法。<note place="inline">故不出</note>無聞無說。非心所
+<lb ed="X" n="0361b04"/><lb ed="R096" n="0639a14"/>知。吾何敢言之。而子欲聞之耶。</p></cb:div>
+<lb ed="X" n="0361b05"/><lb ed="R096" n="0639a15"/><cb:div type="commentary"><p xml:id="pX54p0361b0501" rend="margin-left:1em">此正申責意也。由名象家云。不出不在。必有異旨。
+<lb ed="X" n="0361b06"/><lb ed="R096" n="0639a16"/>可得聞乎。故此引經證涅槃本不可說。亦非可聞
+<lb ed="X" n="0361b07"/><lb ed="R096" n="0639a17"/>也。經即本經二十一略云。涅槃非相非不相。非物
+<lb ed="X" n="0361b08"/><lb ed="R096" n="0639a18"/>非不物等。亦淨名義。謂有無二者皆名為法。所云
+<lb ed="X" n="0361b09"/><lb ed="R096" n="0639b01"/>非法。則不在也。非非法。則不出也。不出不在。則無
+<lb ed="X" n="0361b10"/><lb ed="R096" n="0639b02"/>言說。離言之道。非心所知。吾何敢妄言。而子欲聞
+<lb ed="X" n="0361b11"/><lb ed="R096" n="0639b03"/>之耶。</p></cb:div>
+<lb ed="X" n="0361b12"/><lb ed="R096" n="0639b04"/><cb:div type="orig"><p xml:id="pX54p0361b1201">雖然。善吉有<anchor xml:id="nkr_note_orig_0361004" n="0361004"/>言。眾人若能以無心而受。無聽而聽者。
+<lb ed="X" n="0361b13"/><lb ed="R096" n="0639b05"/>吾當以無言言之。庶述其言。亦可以言。</p></cb:div>
+<lb ed="X" n="0361b14"/><lb ed="R096" n="0639b06"/><cb:div type="commentary"><p xml:id="pX54p0361b1401" rend="margin-left:1em">此陳道本無言。亦可以因言顯道也。善吉。須菩提
+<lb ed="X" n="0361b15"/><lb ed="R096" n="0639b07"/>之名也。義引般若須菩提云。我觀般若。本無言說。
+<lb ed="X" n="0361b16"/><lb ed="R096" n="0639b08"/>若眾人能以無心而受。無聽而聽者。我當述佛之
+<lb ed="X" n="0361b17"/><lb ed="R096" n="0639b09"/>言。亦可以言之。意欲通難解迷。不得不言之耳。</p></cb:div>
+<lb ed="X" n="0361b18"/><lb ed="R096" n="0639b10"/><cb:div type="orig"><p xml:id="pX54p0361b1801">淨名曰。不離煩惱而得涅槃。天女曰。不出魔界而入
+<lb ed="X" n="0361b19"/><lb ed="R096" n="0639b11"/>佛界。</p></cb:div>
+<lb ed="X" n="0361b20"/><lb ed="R096" n="0639b12"/><cb:div type="commentary"><p xml:id="pX54p0361b2001" rend="margin-left:1em">此引二經證不出不在義也。淨名。即弟子品文。天
+<lb ed="X" n="0361b21"/><lb ed="R096" n="0639b13"/>女。即寶女所問經。第四偈曰。如魔之境界。佛境界
+<lb ed="X" n="0361b22"/><lb ed="R096" n="0639b14"/>平等。相應為一類。以是印見印。據此經義。妙道本
+<lb ed="X" n="0361b23"/><lb ed="R096" n="0639b15"/>來不出不在。只在當人妙悟。豈可執言求實也。故
+<lb ed="X" n="0361b24"/><lb ed="R096" n="0639b16"/>下明妙悟。</p></cb:div>
+<pb ed="X" xml:id="X54.0873.0361c" n="0361c"/>
+<lb ed="X" n="0361c01"/><lb ed="R096" n="0639b17"/><cb:div type="orig"><p xml:id="pX54p0361c0101">然則玄道<anchor xml:id="nkr_note_orig_0361005" n="0361005"/>在於妙悟。妙悟<anchor xml:id="fxX54p0361c01"/>在於即真。即真即有無齊
+<lb ed="X" n="0361c02"/><lb ed="R096" n="0639b18"/>觀。齊觀即彼<anchor xml:id="beg_58" type="cb-app"/>己<anchor xml:id="end_58"/>莫二。所以天地與我同根。萬物與我
+<lb ed="X" n="0361c03"/><lb ed="R096" n="0640a01"/>一體。同我則非復有無。異我則乖於會通。所以不出
+<lb ed="X" n="0361c04"/><lb ed="R096" n="0640a02"/>不在。而道存乎其間矣。</p></cb:div>
+<lb ed="X" n="0361c05"/><lb ed="R096" n="0640a03"/><cb:div type="commentary"><p xml:id="pX54p0361c0501" rend="margin-left:1em">此言涅槃妙道。在乎妙悟等觀。非言說可到也。所
+<lb ed="X" n="0361c06"/><lb ed="R096" n="0640a04"/>言涅槃者。乃法身寂滅之稱也。大經云。法身徧在
+<lb ed="X" n="0361c07"/><lb ed="R096" n="0640a05"/>一切處。一切眾生及國土。三世悉在無有餘。亦無
+<lb ed="X" n="0361c08"/><lb ed="R096" n="0640a06"/>形相而可得。此非妙悟不足以了達。然妙悟要在
+<lb ed="X" n="0361c09"/><lb ed="R096" n="0640a07"/>即物以見真。即真要在有無齊觀。若能齊觀。則物
+<lb ed="X" n="0361c10"/><lb ed="R096" n="0640a08"/>我不二。如此。則天地與我同根。萬物與我一體。若
+<lb ed="X" n="0361c11"/><lb ed="R096" n="0640a09"/>物我等觀。則不落有無。若物與我異。心境角立。則
+<lb ed="X" n="0361c12"/><lb ed="R096" n="0640a10"/>不能會通。故所以言不出不在而妙存乎其間矣。
+<lb ed="X" n="0361c13"/><lb ed="R096" n="0640a11"/>若不如此。則取捨情生。是非繆亂。又何以見忘言
+<lb ed="X" n="0361c14"/><lb ed="R096" n="0640a12"/>之道乎。</p></cb:div>
+<lb ed="X" n="0361c15"/><lb ed="R096" n="0640a13"/><cb:div type="orig"><p xml:id="pX54p0361c1501">何則。<note place="inline">徵釋妙悟</note>夫至人虗心<anchor xml:id="nkr_note_orig_0361006" n="0361006"/>冥照。理無不統。懷六合於胸
+<lb ed="X" n="0361c16"/><lb ed="R096" n="0640a14"/>中。而靈鑒有餘。鏡萬有於方寸。而其神常虗。</p></cb:div>
+<lb ed="X" n="0361c17"/><lb ed="R096" n="0640a15"/><cb:div type="commentary"><p xml:id="pX54p0361c1701" rend="margin-left:1em">此言聖人照理達事。故即事而真也。由照真理極。
+<lb ed="X" n="0361c18"/><lb ed="R096" n="0640a16"/>故事無不攝。故懷六合而有餘。鏡萬有而常虗。此
+<lb ed="X" n="0361c19"/><lb ed="R096" n="0640a17"/>聖人之心也。</p></cb:div>
+<lb ed="X" n="0361c20"/><lb ed="R096" n="0640a18"/><cb:div type="orig"><p xml:id="pX54p0361c2001">至能拔<note place="inline">言證窮也</note>玄根<note place="inline">指涅槃實際也</note>於未始。<note place="inline">言無始。指未迷<anchor xml:id="beg_59" type="cb-app"/>已<anchor xml:id="end_59"/>前</note>即羣動
+<lb ed="X" n="0361c21"/><lb ed="R096" n="0640b01"/>以靜心。恬淡淵默。玅契自然。</p></cb:div>
+<lb ed="X" n="0361c22"/><lb ed="R096" n="0640b02"/><cb:div type="commentary"><p xml:id="pX54p0361c2201" rend="margin-left:1em">言由妙悟。故能真窮惑盡。破無始之迷。徹法界之
+<lb ed="X" n="0361c23"/><lb ed="R096" n="0640b03"/>理。故權應羣機。即動而常靜。無為湛寂。妙契自然。</p></cb:div>
+<lb ed="X" n="0361c24"/><lb ed="R096" n="0640b04"/><cb:div type="orig"><p xml:id="pX54p0361c2401">所以處有不有。居無不無。居無不無。故不無於無。處
+<pb ed="X" xml:id="X54.0873.0362a" n="0362a"/>
+<lb ed="X" n="0362a01"/><lb ed="R096" n="0640b05"/>有<anchor xml:id="nkr_note_orig_0362001" n="0362001"/>不有。故不有於有。故能不出有無。而不在有無者
+<lb ed="X" n="0362a02"/><lb ed="R096" n="0640b06"/>也。</p></cb:div>
+<lb ed="X" n="0362a03"/><lb ed="R096" n="0640b07"/><cb:div type="commentary"><p xml:id="pX54p0362a0301" rend="margin-left:1em">此言聖人理極情亡。故出在兩超。不墮有無之見
+<lb ed="X" n="0362a04"/><lb ed="R096" n="0640b08"/>也。由實智理窮。故處有不有。權應無方。故居無不
+<lb ed="X" n="0362a05"/><lb ed="R096" n="0640b09"/>無。以不無故不滯於無。不有故不著於有。如此。所
+<lb ed="X" n="0362a06"/><lb ed="R096" n="0640b10"/>以不出有無。而不在有無者也。豈可以一定於有
+<lb ed="X" n="0362a07"/><lb ed="R096" n="0640b11"/>無而求之哉。</p></cb:div>
+<lb ed="X" n="0362a08"/><lb ed="R096" n="0640b12"/><cb:div type="orig"><p xml:id="pX54p0362a0801">然則法無有無之相。<note place="inline">境空</note>聖無有無之知。<note place="inline">心空</note>聖無有無
+<lb ed="X" n="0362a09"/><lb ed="R096" n="0640b13"/>之<anchor xml:id="nkr_note_orig_0362002" n="0362002"/>知則無心於內。<note place="inline">亡知絕照</note>法無有無之相。則無數<note place="inline">名相也</note>
+<lb ed="X" n="0362a10"/><lb ed="R096" n="0640b14"/>於外。<note place="inline">離名絕相</note>於外無數。<note place="inline">則境絕</note>於內無心。<note place="inline">則智絕</note><anchor xml:id="nkr_note_orig_0362003A" n="0362003A"/><anchor xml:id="nkr_note_mod_0362003A" n="0362003A"/>彼<note place="inline">境也</note><anchor xml:id="nkr_note_orig_0362003B" n="0362003B"/><anchor xml:id="nkr_note_mod_0362003B" n="0362003B"/>此<note place="inline">心也</note>
+<lb ed="X" n="0362a11"/><lb ed="R096" n="0640b15"/>寂滅。<note place="inline">心境雙絕</note>物我冥一。<note place="inline">物我如如</note><anchor xml:id="fxX54p0362a01"/>怕爾無朕。乃曰涅槃。</p></cb:div>
+<lb ed="X" n="0362a12"/><lb ed="R096" n="0640b16"/><cb:div type="commentary"><p xml:id="pX54p0362a1201" rend="margin-left:1em">此歎聖人心境雙絕。物我如如。纖塵不立。乃曰涅
+<lb ed="X" n="0362a13"/><lb ed="R096" n="0640b17"/>槃。此為聖人之極證。究竟涅槃之果也。</p></cb:div>
+<lb ed="X" n="0362a14"/><lb ed="R096" n="0640b18"/><cb:div type="orig"><p xml:id="pX54p0362a1401">涅槃若此。圖度絕矣。豈容可責之於有無之內。又可
+<lb ed="X" n="0362a15"/><lb ed="R096" n="0641a01"/>徵<anchor xml:id="nkr_note_orig_0362004" n="0362004"/>之有無之外耶。</p></cb:div>
+<lb ed="X" n="0362a16"/><lb ed="R096" n="0641a02"/><cb:div type="commentary"><p xml:id="pX54p0362a1601" rend="margin-left:1em">此責迷也。謂涅槃如此。超出思議圖度之境。豈容
+<lb ed="X" n="0362a17"/><lb ed="R096" n="0641a03"/>可以有無內外而求之耶。</p></cb:div></cb:div>
+<lb ed="X" n="0362a18"/><lb ed="R096" n="0641a04"/><cb:div type="other"><cb:mulu type="其他" level="3">難差第八</cb:mulu><cb:div type="orig"><p xml:id="pX54p0362a1801">難差第八</p></cb:div>
+<lb ed="X" n="0362a19"/><lb ed="R096" n="0641a05"/><cb:div type="commentary"><p xml:id="pX54p0362a1901" rend="margin-left:1em">此承上言涅槃之道。心境不二。物我一如之妙。是
+<lb ed="X" n="0362a20"/><lb ed="R096" n="0641a06"/>為平等無二之理。如此。何以三乘修證有差。既曰
+<lb ed="X" n="0362a21"/><lb ed="R096" n="0641a07"/>冥一。則不應有三。</p></cb:div>
+<lb ed="X" n="0362a22"/><lb ed="R096" n="0641a08"/><cb:div type="orig"><p xml:id="pX54p0362a2201">有名曰。涅槃既絕圖度之域。則超六境之外。不出不
+<lb ed="X" n="0362a23"/><lb ed="R096" n="0641a09"/>在。而玄道獨存。斯則窮理盡性。究竟之道。妙一無差。
+<lb ed="X" n="0362a24"/><lb ed="R096" n="0641a10"/>理其然矣。</p></cb:div>
+<pb ed="X" xml:id="X54.0873.0362b" n="0362b"/>
+<lb ed="X" n="0362b01"/><lb ed="R096" n="0641a11"/><cb:div type="commentary"><p xml:id="pX54p0362b0101" rend="margin-left:1em">名家敘領涅槃超出有無之妙。為窮理盡性之談。
+<lb ed="X" n="0362b02"/><lb ed="R096" n="0641a12"/>理其然矣。但理既一。而三乘所證。何以不同。故此
+<lb ed="X" n="0362b03"/><lb ed="R096" n="0641a13"/>下立難。</p></cb:div>
+<lb ed="X" n="0362b04"/><lb ed="R096" n="0641a14"/><cb:div type="orig"><p xml:id="pX54p0362b0401">而放光云。三乘<anchor xml:id="nkr_note_orig_0362005" n="0362005"/>之道。皆因無為而有差別。佛言。我昔
+<lb ed="X" n="0362b05"/><lb ed="R096" n="0641a15"/>為菩薩時。名曰儒童。於然燈佛所。<anchor xml:id="beg_5a" type="cb-app"/>已<anchor xml:id="end_5a"/>入涅槃。儒童菩
+<lb ed="X" n="0362b06"/><lb ed="R096" n="0641a16"/>薩。時於七住初獲無生忍。進修三位。</p></cb:div>
+<lb ed="X" n="0362b07"/><lb ed="R096" n="0641a17"/><cb:div type="commentary"><p xml:id="pX54p0362b0701" rend="margin-left:1em">難意謂涅槃妙道既是一。則三乘所證不應有差。
+<lb ed="X" n="0362b08"/><lb ed="R096" n="0641a18"/>引放光義。金剛亦同。謂一切聖賢皆以無為法而
+<lb ed="X" n="0362b09"/><lb ed="R096" n="0641b01"/>有差別。所謂證異也。儒童於然燈佛所<anchor xml:id="beg_5b" type="cb-app"/>已<anchor xml:id="end_5b"/>入涅槃。
+<lb ed="X" n="0362b10"/><lb ed="R096" n="0641b02"/>而又云時於七住獲無生法忍。圓教七住。即權教
+<lb ed="X" n="0362b11"/><lb ed="R096" n="0641b03"/>七地。故言既入涅槃。則<anchor xml:id="beg_5c" type="cb-app"/>已<anchor xml:id="end_5c"/>證極果。如何後又進修
+<lb ed="X" n="0362b12"/><lb ed="R096" n="0641b04"/>三位耶。此疑涅槃未為極證也。此引證意。下正難。</p></cb:div>
+<lb ed="X" n="0362b13"/><lb ed="R096" n="0641b05"/><cb:div type="orig"><p xml:id="pX54p0362b1301">若涅槃一也。則不應有三。如其有三。則非究竟。究竟
+<lb ed="X" n="0362b14"/><lb ed="R096" n="0641b06"/>之道。<anchor xml:id="nkr_note_orig_0362006" n="0362006"/>而有<anchor xml:id="nkr_note_orig_0362007" n="0362007"/>升降之殊。眾經異說。何以取中耶。</p></cb:div>
+<lb ed="X" n="0362b15"/><lb ed="R096" n="0641b07"/><cb:div type="commentary"><p xml:id="pX54p0362b1501" rend="margin-left:1em">此正難差也。若一。則不應有三。有三。則非究竟矣。
+<lb ed="X" n="0362b16"/><lb ed="R096" n="0641b08"/>既曰究竟之道。而有升降之不同。教有明言。又何
+<lb ed="X" n="0362b17"/><lb ed="R096" n="0641b09"/>以折中耶。</p></cb:div></cb:div>
+<lb ed="X" n="0362b18"/><lb ed="R096" n="0641b10"/><cb:div type="other"><cb:mulu type="其他" level="3">辯差第九</cb:mulu><cb:div type="orig"><p xml:id="pX54p0362b1801">辯差第九</p>
+<lb ed="X" n="0362b19"/><lb ed="R096" n="0641b11"/><p xml:id="pX54p0362b1901">無名曰。然究竟之道。理無差也。法華經云。第一大道
+<lb ed="X" n="0362b20"/><lb ed="R096" n="0641b12"/>無有兩正。吾以方便為怠慢者。於一乘道分別說三。
+<lb ed="X" n="0362b21"/><lb ed="R096" n="0641b13"/>三車出火宅。即其事也。</p></cb:div>
+<lb ed="X" n="0362b22"/><lb ed="R096" n="0641b14"/><cb:div type="commentary"><p xml:id="pX54p0362b2201" rend="margin-left:1em">此領難意理本一也。然有三乘者。乃即一之三。權
+<lb ed="X" n="0362b23"/><lb ed="R096" n="0641b15"/>實之義耳。正法華云。是一乘道。寂然之地。無有二
+<lb ed="X" n="0362b24"/><lb ed="R096" n="0641b16"/>上。論正與經上。皆極果也。妙法華云。佛為求道者。
+<pb ed="X" xml:id="X54.0873.0362c" n="0362c"/>
+<lb ed="X" n="0362c01"/><lb ed="R096" n="0641b17"/>中路懈廢。為止息故。以方便力。於一乘道分別說
+<lb ed="X" n="0362c02"/><lb ed="R096" n="0641b18"/>三。火宅喻先許三車。及諸子出宅。皆等賜一大車。
+<lb ed="X" n="0362c03"/><lb ed="R096" n="0642a01"/>是則本無有三。三非實法也。</p></cb:div>
+<lb ed="X" n="0362c04"/><lb ed="R096" n="0642a02"/><cb:div type="orig"><p xml:id="pX54p0362c0401">以俱出生死。故同稱無為。所乘不一。故有三名。統其
+<lb ed="X" n="0362c05"/><lb ed="R096" n="0642a03"/>會歸。一而<anchor xml:id="beg_5d" type="cb-app"/>已<anchor xml:id="end_5d"/>矣。</p></cb:div>
+<lb ed="X" n="0362c06"/><lb ed="R096" n="0642a04"/><cb:div type="commentary"><p xml:id="pX54p0362c0601" rend="margin-left:1em">此言三乘會歸一極。以申答意也。</p></cb:div>
+<lb ed="X" n="0362c07"/><lb ed="R096" n="0642a05"/><cb:div type="orig"><p xml:id="pX54p0362c0701">而難云。三乘之道。皆因無為而有差別。此以人三。三
+<lb ed="X" n="0362c08"/><lb ed="R096" n="0642a06"/>於無為。非無為有三也。故放光云。涅槃有差別耶。答
+<lb ed="X" n="0362c09"/><lb ed="R096" n="0642a07"/>曰無差別。但如來結習都盡。聲聞結習不盡耳。</p></cb:div>
+<lb ed="X" n="0362c10"/><lb ed="R096" n="0642a08"/><cb:div type="commentary"><p xml:id="pX54p0362c1001" rend="margin-left:1em">此正答難意。但人有三。而涅槃之道本無三也。所
+<lb ed="X" n="0362c11"/><lb ed="R096" n="0642a09"/>以有差者。但如來煩惱無明結習<anchor xml:id="beg_5e" type="cb-app"/>已<anchor xml:id="end_5e"/>盡。三乘未盡
+<lb ed="X" n="0362c12"/><lb ed="R096" n="0642a10"/>故有差耳。以結習盡處。心契無為。名為涅槃。故下
+<lb ed="X" n="0362c13"/><lb ed="R096" n="0642a11"/>以喻明。</p></cb:div>
+<lb ed="X" n="0362c14"/><lb ed="R096" n="0642a12"/><cb:div type="orig"><p xml:id="pX54p0362c1401">請以近喻。以況遠旨。如人斬木。去尺無尺。去寸無寸。
+<lb ed="X" n="0362c15"/><lb ed="R096" n="0642a13"/>脩短在於尺寸。不在無也。</p></cb:div>
+<lb ed="X" n="0362c16"/><lb ed="R096" n="0642a14"/><cb:div type="commentary"><p xml:id="pX54p0362c1601" rend="margin-left:1em">此喻最顯。言無無長短。意旨更妙。此法本不異。</p></cb:div>
+<lb ed="X" n="0362c17"/><lb ed="R096" n="0642a15"/><cb:div type="orig"><p xml:id="pX54p0362c1701">夫以羣生萬端。識根不一。智鑒有淺深。德行有厚薄。
+<lb ed="X" n="0362c18"/><lb ed="R096" n="0642a16"/>所以俱之彼岸。而<anchor xml:id="fxX54p0362c02"/>升降不同。彼岸豈異。異自我耳。然
+<lb ed="X" n="0362c19"/><lb ed="R096" n="0642a17"/>則眾經殊辯。其致不乖。</p></cb:div>
+<lb ed="X" n="0362c20"/><lb ed="R096" n="0642a18"/><cb:div type="commentary"><p xml:id="pX54p0362c2001" rend="margin-left:1em">此明法本不異。異在於機。智有淺深。德有厚薄。正
+<lb ed="X" n="0362c21"/><lb ed="R096" n="0642b01"/>不一之所以也。彼岸豈異。正示法一。眾經隨機之
+<lb ed="X" n="0362c22"/><lb ed="R096" n="0642b02"/>說。故不乖耳。</p></cb:div></cb:div>
+<lb ed="X" n="0362c23"/><lb ed="R096" n="0642b03"/><cb:div type="other"><cb:mulu type="其他" level="3">責異第十</cb:mulu><cb:div type="orig"><p xml:id="pX54p0362c2301">責異第十</p></cb:div>
+<lb ed="X" n="0362c24"/><lb ed="R096" n="0642b04"/><cb:div type="commentary"><p xml:id="pX54p0362c2401" rend="margin-left:1em">謂無為之理既一。如何能證之人有三。蓋躡前致
+<pb ed="X" xml:id="X54.0873.0363a" n="0363a"/>
+<lb ed="X" n="0363a01"/><lb ed="R096" n="0642b05"/>難也。故云責異。</p></cb:div>
+<lb ed="X" n="0363a02"/><lb ed="R096" n="0642b06"/><cb:div type="orig"><p xml:id="pX54p0363a0201">有名曰。俱出火宅。則無患一也。同出生死。則無為一
+<lb ed="X" n="0363a03"/><lb ed="R096" n="0642b07"/>也。<note place="inline">此領旨也</note>而<anchor xml:id="nkr_note_orig_0363001" n="0363001"/>云彼岸無異。異自我耳。<note place="inline">此興疑也</note>彼岸。則無為
+<lb ed="X" n="0363a04"/><lb ed="R096" n="0642b08"/>岸也。我則體<note place="inline">證也</note>無為者也。<note place="inline">立難意。下申難</note>請問我與無為。為
+<lb ed="X" n="0363a05"/><lb ed="R096" n="0642b09"/>一為異。若我即無為。無為亦即我。不得言無為無異。
+<lb ed="X" n="0363a06"/><lb ed="R096" n="0642b10"/>異自我也。<note place="inline">言我與無為既一。則無彼此之分。故不可言異自於我</note>若我異無為。
+<lb ed="X" n="0363a07"/><lb ed="R096" n="0642b11"/>我則非無為。<note place="inline">我是眾生。自屬有為。故非無為</note>無為自無為。<note place="inline">自一向無為</note>我
+<lb ed="X" n="0363a08"/><lb ed="R096" n="0642b12"/>自常有為。<note place="inline">我在生死。則一向有為</note>冥會之致。又滯而不通。<note place="inline">無為有為
+<lb ed="X" n="0363a09"/><lb ed="R096" n="0642b13"/>條然各別。故難通會</note>然則我與無為。一亦無三。<note place="inline">若生死涅槃。本來平等一際。如
+<lb ed="X" n="0363a10"/><lb ed="R096" n="0642b14"/>此既一。則畢竟無三</note>異亦無三。<note place="inline">若生死與涅槃。本來不同。則生死自生死。涅槃自涅槃。何有三
+<lb ed="X" n="0363a11"/><lb ed="R096" n="0642b15"/>乘之設</note>三乘之名。何由而生也<note place="inline">進退推之。一亦無三。異亦無三。如此則三乘之
+<lb ed="X" n="0363a12"/><lb ed="R096" n="0642b16"/>名。何由而生耶</note>。</p></cb:div></cb:div>
+<lb ed="X" n="0363a13"/><lb ed="R096" n="0642b17"/><cb:div type="other"><cb:mulu type="其他" level="3">會異第十一</cb:mulu><cb:div type="orig"><p xml:id="pX54p0363a1301">會異第十一</p></cb:div>
+<lb ed="X" n="0363a14"/><lb ed="R096" n="0642b18"/><cb:div type="commentary"><p xml:id="pX54p0363a1401" rend="margin-left:1em">名家執異以難非一。故無名會通無二。</p></cb:div>
+<lb ed="X" n="0363a15"/><lb ed="R096" n="0643a01"/><cb:div type="orig"><p xml:id="pX54p0363a1501">無名曰。夫止此而此。<note place="inline">意謂迷時涅槃即生死</note>適彼而彼。<note place="inline">悟時生死即涅
+<lb ed="X" n="0363a16"/><lb ed="R096" n="0643a02"/>槃</note>所以同於得者得亦得之。<note place="inline">證則三乘同證</note>同於失者失亦
+<lb ed="X" n="0363a17"/><lb ed="R096" n="0643a03"/>失之。<note place="inline">迷則六道同迷</note>我適無為。我即無為。無為雖一。何乖不
+<lb ed="X" n="0363a18"/><lb ed="R096" n="0643a04"/>一耶。</p></cb:div>
+<lb ed="X" n="0363a19"/><lb ed="R096" n="0643a05"/><cb:div type="commentary"><p xml:id="pX54p0363a1901" rend="margin-left:1em">此言生死涅槃本無二致。迷悟同源。以人證法。法
+<lb ed="X" n="0363a20"/><lb ed="R096" n="0643a06"/>則在人。故曰我適無為。我即無為。人大則法亦隨
+<lb ed="X" n="0363a21"/><lb ed="R096" n="0643a07"/>大。機小則法亦隨小。是則無為雖一。何妨因人而
+<lb ed="X" n="0363a22"/><lb ed="R096" n="0643a08"/>有三耶。</p></cb:div>
+<lb ed="X" n="0363a23"/><lb ed="R096" n="0643a09"/><cb:div type="orig"><p xml:id="pX54p0363a2301">譬猶三鳥出網。同適無患之域。無患雖同。而鳥鳥各
+<lb ed="X" n="0363a24"/><lb ed="R096" n="0643a10"/>異。不可以鳥鳥各異。謂無患亦異。又不可以無患既
+<pb ed="X" xml:id="X54.0873.0363b" n="0363b"/>
+<lb ed="X" n="0363b01"/><lb ed="R096" n="0643a11"/>一。而一於眾鳥也。然則鳥即無患。無患即鳥。無患豈
+<lb ed="X" n="0363b02"/><lb ed="R096" n="0643a12"/>異。異自鳥耳。</p></cb:div>
+<lb ed="X" n="0363b03"/><lb ed="R096" n="0643a13"/><cb:div type="commentary"><p xml:id="pX54p0363b0301" rend="margin-left:1em">此喻顯法一而人異也。鳥喻眾生。網喻生死。無患
+<lb ed="X" n="0363b04"/><lb ed="R096" n="0643a14"/>喻涅槃。謂眾鳥出網。無患一而鳥鳥異。異謂飛有
+<lb ed="X" n="0363b05"/><lb ed="R096" n="0643a15"/>遠近也。此以無患喻涅槃最妙。</p></cb:div>
+<lb ed="X" n="0363b06"/><lb ed="R096" n="0643a16"/><cb:div type="orig"><p xml:id="pX54p0363b0601">如是三乘眾生。俱越妄想之樊。同適無為之境。無為
+<lb ed="X" n="0363b07"/><lb ed="R096" n="0643a17"/>雖同。而乘乘各異。不可以乘乘各異。謂無為亦異。又
+<lb ed="X" n="0363b08"/><lb ed="R096" n="0643a18"/>不可以無為既一。而一於三乘也。然則我即無為。無
+<lb ed="X" n="0363b09"/><lb ed="R096" n="0643b01"/>為即我。無為豈異。異自我耳。</p></cb:div>
+<lb ed="X" n="0363b10"/><lb ed="R096" n="0643b02"/><cb:div type="commentary"><p xml:id="pX54p0363b1001" rend="margin-left:1em">法合甚明。謂眾生同出生死。所證涅槃是一。但根
+<lb ed="X" n="0363b11"/><lb ed="R096" n="0643b03"/>有大小。智有淺深。故證有高下。此是異在人。不在
+<lb ed="X" n="0363b12"/><lb ed="R096" n="0643b04"/>法也。</p></cb:div>
+<lb ed="X" n="0363b13"/><lb ed="R096" n="0643b05"/><cb:div type="orig"><p xml:id="pX54p0363b1301">所以無患雖同。而<anchor xml:id="fxX54p0363b01"/>升虗有遠近。無為雖一。而幽鑒有
+<lb ed="X" n="0363b14"/><lb ed="R096" n="0643b06"/><anchor xml:id="nkr_note_orig_0363002" n="0363002"/>淺深。無為即乘也。乘即無為也。此非我異無為。以未
+<lb ed="X" n="0363b15"/><lb ed="R096" n="0643b07"/>盡無為。故有三耳。</p></cb:div>
+<lb ed="X" n="0363b16"/><lb ed="R096" n="0643b08"/><cb:div type="commentary"><p xml:id="pX54p0363b1601" rend="margin-left:1em">此喻法雙結生死涅槃本來不二。但出生死之人。
+<lb ed="X" n="0363b17"/><lb ed="R096" n="0643b09"/>未盡無為之理。故有三乘之分。非有三法以待人
+<lb ed="X" n="0363b18"/><lb ed="R096" n="0643b10"/>也。此論正義。特顯生死涅槃不二之旨。學人不可
+<lb ed="X" n="0363b19"/><lb ed="R096" n="0643b11"/>以迷悟三一求之。</p></cb:div></cb:div>
+<lb ed="X" n="0363b20"/><lb ed="R096" n="0643b12"/><cb:div type="other"><cb:mulu type="其他" level="3">詰漸第十二</cb:mulu><cb:div type="orig"><p xml:id="pX54p0363b2001">詰漸第十二</p></cb:div>
+<lb ed="X" n="0363b21"/><lb ed="R096" n="0643b13"/><cb:div type="commentary"><p xml:id="pX54p0363b2101" rend="margin-left:1em">詰。難也。由前云未盡有三。是為漸義。故此詰之。</p></cb:div>
+<lb ed="X" n="0363b22"/><lb ed="R096" n="0643b14"/><cb:div type="orig"><p xml:id="pX54p0363b2201">有名曰。萬累滋彰。本於妄想。妄想既祛。則萬累都息。
+<lb ed="X" n="0363b23"/><lb ed="R096" n="0643b15"/><note place="inline">此言三乘斷惑同</note>二乘得盡智。菩薩得無生智。<note place="inline">此言三乘智同</note>是時
+<lb ed="X" n="0363b24"/><lb ed="R096" n="0643b16"/>妄想都盡。結縛永除。結縛既除。則心無為。<note place="inline">此言三乘證理同</note>
+<pb ed="X" xml:id="X54.0873.0363c" n="0363c"/>
+<lb ed="X" n="0363c01"/><lb ed="R096" n="0643b17"/>心既無為。理無<anchor xml:id="nkr_note_orig_0363003" n="0363003"/>餘翳。</p></cb:div>
+<lb ed="X" n="0363c02"/><lb ed="R096" n="0643b18"/><cb:div type="commentary"><p xml:id="pX54p0363c0201" rend="margin-left:1em">此詰三乘斷惑證智證理皆同。同則不應取果有
+<lb ed="X" n="0363c03"/><lb ed="R096" n="0644a01"/>異也。萬累指枝末煩惱。妄想指根本煩惱。根本既
+<lb ed="X" n="0363c04"/><lb ed="R096" n="0644a02"/>斷。則枝末不生。故云都息。二乘盡智等。新疏引大
+<lb ed="X" n="0363c05"/><lb ed="R096" n="0644a03"/>品說三乘之人共十一智。第九名盡智。謂苦<anchor xml:id="beg_5f" type="cb-app"/>已<anchor xml:id="end_5f"/>盡
+<lb ed="X" n="0363c06"/><lb ed="R096" n="0644a04"/>見等。第十名無生智。謂苦<anchor xml:id="beg_60" type="cb-app"/>已<anchor xml:id="end_60"/>見而不更見等。則前
+<lb ed="X" n="0363c07"/><lb ed="R096" n="0644a05"/>之十智聲聞皆有。盡智在<anchor xml:id="beg_61" type="cb-app"/>已<anchor xml:id="end_61"/>辦地得之。今云菩薩
+<lb ed="X" n="0363c08"/><lb ed="R096" n="0644a06"/>得無生智者。二地<anchor xml:id="beg_62" type="cb-app"/>已<anchor xml:id="end_62"/>上。第九菩薩地。阿<g ref="#CB16014">󳺎</g><g ref="#CB02494">䟦</g>致。如
+<lb ed="X" n="0363c09"/><lb ed="R096" n="0644a07"/>實知諸法本自不生。今亦無滅。名無生智。不共二
+<lb ed="X" n="0363c10"/><lb ed="R096" n="0644a08"/>乘也。上引聲聞亦證無生。今言菩薩不共者。以二
+<lb ed="X" n="0363c11"/><lb ed="R096" n="0644a09"/>乘<anchor xml:id="beg_63" type="cb-app"/>但<anchor xml:id="end_63"/>盡生死名為無生。菩薩乃達諸法寂滅無生。
+<lb ed="X" n="0363c12"/><lb ed="R096" n="0644a10"/>故不共耳。通言三乘斷惑證理皆同。而取果不應
+<lb ed="X" n="0363c13"/><lb ed="R096" n="0644a11"/>有異。此乃名家約義以難。其實三乘斷惑不同。以
+<lb ed="X" n="0363c14"/><lb ed="R096" n="0644a12"/>二乘斷見思。菩薩斷塵沙。伏無明。霄壤有異。豈可
+<lb ed="X" n="0363c15"/><lb ed="R096" n="0644a13"/>同哉。學者不可不知也。</p></cb:div>
+<lb ed="X" n="0363c16"/><lb ed="R096" n="0644a14"/><cb:div type="orig"><p xml:id="pX54p0363c1601">經曰。是諸聖智不相違背。不出不在。<note place="inline">應作生字</note>其實俱空。
+<lb ed="X" n="0363c17"/><lb ed="R096" n="0644a15"/>又曰。無為大道。平等<anchor xml:id="nkr_note_orig_0363004" n="0363004"/>不二。</p></cb:div>
+<lb ed="X" n="0363c18"/><lb ed="R096" n="0644a16"/><cb:div type="commentary"><p xml:id="pX54p0363c1801" rend="margin-left:1em">此引證三乘證理不異也。疏引放光云。聲聞辟支
+<lb ed="X" n="0363c19"/><lb ed="R096" n="0644a17"/>佛。菩薩佛世尊。是諸聖智不相違背。乃至云不出
+<lb ed="X" n="0363c20"/><lb ed="R096" n="0644a18"/>不在其實空者。無有差殊。今在字宜是生字。智論
+<lb ed="X" n="0363c21"/><lb ed="R096" n="0644b01"/>解云。因邊不起。名為不出。緣邊不起。名為不生。又
+<lb ed="X" n="0363c22"/><lb ed="R096" n="0644b02"/>曰下。亦義引大品三慧品。須菩提白佛言。世尊。無
+<lb ed="X" n="0363c23"/><lb ed="R096" n="0644b03"/>為法中可得差別不。佛言不也。故義言大道平等
+<lb ed="X" n="0363c24"/><lb ed="R096" n="0644b04"/>無二。</p></cb:div>
+<pb ed="X" xml:id="X54.0873.0364a" n="0364a"/>
+<lb ed="X" n="0364a01"/><lb ed="R096" n="0644b05"/><cb:div type="orig"><p xml:id="pX54p0364a0101">既曰無二。則不容心異。不體<note place="inline">證也</note>則<anchor xml:id="beg_64" type="cb-app"/>已<anchor xml:id="end_64"/>。體應窮微。而曰
+<lb ed="X" n="0364a02"/><lb ed="R096" n="0644b06"/>體而<anchor xml:id="nkr_note_orig_0364001" n="0364001"/>未盡。是所未悟也。</p></cb:div>
+<lb ed="X" n="0364a03"/><lb ed="R096" n="0644b07"/><cb:div type="commentary"><p xml:id="pX54p0364a0301" rend="margin-left:1em">言既所證之理不二。則能證之心又何容異。以不
+<lb ed="X" n="0364a04"/><lb ed="R096" n="0644b08"/>異之心。證不二之理。不證則<anchor xml:id="beg_65" type="cb-app"/>已<anchor xml:id="end_65"/>。證則窮微徹底。而
+<lb ed="X" n="0364a05"/><lb ed="R096" n="0644b09"/>曰體而未盡。是所未悟也。</p></cb:div></cb:div>
+<lb ed="X" n="0364a06"/><lb ed="R096" n="0644b10"/><cb:div type="other"><cb:mulu type="其他" level="3">明漸第十三</cb:mulu><cb:div type="orig"><p xml:id="pX54p0364a0601">明漸第十三</p></cb:div>
+<lb ed="X" n="0364a07"/><lb ed="R096" n="0644b11"/><cb:div type="commentary"><p xml:id="pX54p0364a0701" rend="margin-left:1em">言結習不可頓盡。無為不可頓證。譬如磨鏡。垢盡
+<lb ed="X" n="0364a08"/><lb ed="R096" n="0644b12"/>明現。</p></cb:div>
+<lb ed="X" n="0364a09"/><lb ed="R096" n="0644b13"/><cb:div type="orig"><p xml:id="pX54p0364a0901">無名曰。無為無二。則<anchor xml:id="beg_66" type="cb-app"/>已<anchor xml:id="end_66"/>然矣。<note place="inline">領難理無差</note>結是重惑。可謂
+<lb ed="X" n="0364a10"/><lb ed="R096" n="0644b14"/>頓盡。亦所未喻。<note place="inline">經云。理須頓悟。乘悟併消。事因漸除。因次第盡</note>經曰。三箭中
+<lb ed="X" n="0364a11"/><lb ed="R096" n="0644b15"/>的。三獸渡河。中渡無異。而有淺深之殊者。為力不同
+<lb ed="X" n="0364a12"/><lb ed="R096" n="0644b16"/>故也。</p></cb:div>
+<lb ed="X" n="0364a13"/><lb ed="R096" n="0644b17"/><cb:div type="commentary"><p xml:id="pX54p0364a1301" rend="margin-left:1em">二喻疏引毗婆沙論之義。云猶如一的。若木若鐵。
+<lb ed="X" n="0364a14"/><lb ed="R096" n="0644b18"/>眾箭所中。一無為體。為三想所行。又云。於甚深十
+<lb ed="X" n="0364a15"/><lb ed="R096" n="0645a01"/>二因緣河。能盡其底。是名為佛。二乘不爾。如三獸
+<lb ed="X" n="0364a16"/><lb ed="R096" n="0645a02"/>渡河。謂象馬兔。兔則騰擲而渡。馬或盡底。或不盡
+<lb ed="X" n="0364a17"/><lb ed="R096" n="0645a03"/>底。香象於一切時。無不盡底。</p></cb:div>
+<lb ed="X" n="0364a18"/><lb ed="R096" n="0645a04"/><cb:div type="orig"><p xml:id="pX54p0364a1801">三乘眾生。俱濟緣起之津。同鑒四諦之的。絕偽即真。
+<lb ed="X" n="0364a19"/><lb ed="R096" n="0645a05"/>同<anchor xml:id="fxX54p0364a01"/>升無為。然<anchor xml:id="nkr_note_orig_0364002" n="0364002"/>則所乘不一者。亦以智力不同故也。</p></cb:div>
+<lb ed="X" n="0364a20"/><lb ed="R096" n="0645a06"/><cb:div type="commentary"><p xml:id="pX54p0364a2001" rend="margin-left:1em">此法合也。緣起十二因緣。乃廣四諦而說。故四諦
+<lb ed="X" n="0364a21"/><lb ed="R096" n="0645a07"/>有生滅。無生無作。無量。四種不同。故是三乘同觀。
+<lb ed="X" n="0364a22"/><lb ed="R096" n="0645a08"/>故云俱濟同鑒。</p><p xml:id="pX54p0364a2207" rend="margin-left:1em;inline">而斷惑證真。同升無為。亦各證自
+<lb ed="X" n="0364a23"/><lb ed="R096" n="0645a09"/>乘。故所乘不一。亦以智力不同故也○下舉例難
+<lb ed="X" n="0364a24"/><lb ed="R096" n="0645a10"/>盡。</p></cb:div>
+<pb ed="X" xml:id="X54.0873.0364b" n="0364b"/>
+<lb ed="X" n="0364b01"/><lb ed="R096" n="0645a11"/><cb:div type="orig"><p xml:id="pX54p0364b0101">夫羣有雖眾。然其量有涯。正使智猶身子。辯若滿願。
+<lb ed="X" n="0364b02"/><lb ed="R096" n="0645a12"/>窮才極慮。莫窺其畔。</p></cb:div>
+<lb ed="X" n="0364b03"/><lb ed="R096" n="0645a13"/><cb:div type="commentary"><p xml:id="pX54p0364b0301" rend="margin-left:1em">此舉有為之法難盡。以例無為不可頓窮也。言萬
+<lb ed="X" n="0364b04"/><lb ed="R096" n="0645a14"/>物難多。各有涯量。直使智慧如身子。辯才如滿慈。
+<lb ed="X" n="0364b05"/><lb ed="R096" n="0645a15"/>窮其才。極其慮。亦莫能窺其邊。有為如此。況無為
+<lb ed="X" n="0364b06"/><lb ed="R096" n="0645a16"/>乎。涅槃云。佛言。我與彌勒等共論世諦。舍利弗等
+<lb ed="X" n="0364b07"/><lb ed="R096" n="0645a17"/>都不識知。何況出世第一義諦。</p></cb:div>
+<lb ed="X" n="0364b08"/><lb ed="R096" n="0645a18"/><cb:div type="orig"><p xml:id="pX54p0364b0801">況乎虗無之數。<note place="inline">妙也</note>重玄之域。其道無涯。欲之頓盡耶。</p></cb:div>
+<lb ed="X" n="0364b09"/><lb ed="R096" n="0645b01"/><cb:div type="commentary"><p xml:id="pX54p0364b0901" rend="margin-left:1em">此法合也。虗無重玄。用老子文。玄之又玄。故曰重
+<lb ed="X" n="0364b10"/><lb ed="R096" n="0645b02"/>玄。皆況涅槃無為之義。言有為之數。二乘之智。尚
+<lb ed="X" n="0364b11"/><lb ed="R096" n="0645b03"/>不能窮。況涅槃無為之道乎。譬如大海無涯。而操
+<lb ed="X" n="0364b12"/><lb ed="R096" n="0645b04"/>舟有里數。太虗寥廓。而翔翮有遠近。三乘之人。於
+<lb ed="X" n="0364b13"/><lb ed="R096" n="0645b05"/>涅槃之道。亦猶是也。</p></cb:div>
+<lb ed="X" n="0364b14"/><lb ed="R096" n="0645b06"/><cb:div type="orig"><p xml:id="pX54p0364b1401">書不云乎。為學者日益。為道者日損。為道者為於無
+<lb ed="X" n="0364b15"/><lb ed="R096" n="0645b07"/>為者也。為於無為而曰日損。此豈頓得之謂。要損之
+<lb ed="X" n="0364b16"/><lb ed="R096" n="0645b08"/>又損之。以至於無損耳。經喻螢日。智用可知矣。</p></cb:div>
+<lb ed="X" n="0364b17"/><lb ed="R096" n="0645b09"/><cb:div type="commentary"><p xml:id="pX54p0364b1701" rend="margin-left:1em">引老子為學日益。為道日損。損之又損。至於無損
+<lb ed="X" n="0364b18"/><lb ed="R096" n="0645b10"/>以明漸斷漸證之義。至於無損者。至無可損為極
+<lb ed="X" n="0364b19"/><lb ed="R096" n="0645b11"/>證耳。螢日。放光義云。二乘之智如螢火虫。不敢作
+<lb ed="X" n="0364b20"/><lb ed="R096" n="0645b12"/>念徧照閻浮。菩薩之智譬如日出。徧照閻浮。生盲
+<lb ed="X" n="0364b21"/><lb ed="R096" n="0645b13"/>之人。皆得利益等。</p></cb:div></cb:div>
+<lb ed="X" n="0364b22"/><lb ed="R096" n="0645b14"/><cb:div type="other"><cb:mulu type="其他" level="3">譏動第十四</cb:mulu><cb:div type="orig"><p xml:id="pX54p0364b2201">譏動第十四</p></cb:div>
+<lb ed="X" n="0364b23"/><lb ed="R096" n="0645b15"/><cb:div type="commentary"><p xml:id="pX54p0364b2301" rend="margin-left:1em">如前所云。既以取捨為心。損益為行。是則尚求之
+<lb ed="X" n="0364b24"/><lb ed="R096" n="0645b16"/>心擾動未息。何以動擾之心。證不動無為之理乎。
+<pb ed="X" xml:id="X54.0873.0364c" n="0364c"/>
+<lb ed="X" n="0364c01"/><lb ed="R096" n="0645b17"/>故譏以詰之。</p></cb:div>
+<lb ed="X" n="0364c02"/><lb ed="R096" n="0645b18"/><cb:div type="orig"><p xml:id="pX54p0364c0201">有名曰。經稱法身<anchor xml:id="beg_67" type="cb-app"/>已<anchor xml:id="end_67"/>上。入無為境。心不可以智知。形
+<lb ed="X" n="0364c03"/><lb ed="R096" n="0646a01"/>不可以象測。體絕陰入。心智寂滅。<note place="inline">上明無為之理</note>而復云進
+<lb ed="X" n="0364c04"/><lb ed="R096" n="0646a02"/>修三位。積德彌廣。<note place="inline">此明好尚之心</note>夫進修本<note place="inline">因也</note>於好尚。積德
+<lb ed="X" n="0364c05"/><lb ed="R096" n="0646a03"/>生<note place="inline">起也</note>於涉求。好尚則取捨情現。涉求則損益交陳。既
+<lb ed="X" n="0364c06"/><lb ed="R096" n="0646a04"/>以取捨為心。損益為體。<note place="inline">言體究行也</note>而曰體絕陰入。心智
+<lb ed="X" n="0364c07"/><lb ed="R096" n="0646a05"/>寂滅。此文乖致殊。而會之一人。無異指南為北。以曉
+<lb ed="X" n="0364c08"/><lb ed="R096" n="0646a06"/>迷夫。</p></cb:div>
+<lb ed="X" n="0364c09"/><lb ed="R096" n="0646a07"/><cb:div type="commentary"><p xml:id="pX54p0364c0901" rend="margin-left:1em">此躡前進修損益以興難也。經稱法身<anchor xml:id="beg_68" type="cb-app"/>已<anchor xml:id="end_68"/>上。謂初
+<lb ed="X" n="0364c10"/><lb ed="R096" n="0646a08"/>登地。<anchor xml:id="beg_69" type="cb-app"/>已<anchor xml:id="end_69"/>契法身。證真如理。故云入無為境。以無分
+<lb ed="X" n="0364c11"/><lb ed="R096" n="0646a09"/>別智現身益物。故云心不可以智知。形不可以象
+<lb ed="X" n="0364c12"/><lb ed="R096" n="0646a10"/>測。至七地頓捨藏識。故云體絕陰入。證平等真如。
+<lb ed="X" n="0364c13"/><lb ed="R096" n="0646a11"/>故云心智寂滅。自此復進修三位。方成佛果。此引
+<lb ed="X" n="0364c14"/><lb ed="R096" n="0646a12"/>經按定。下申難意。謂進修積德。本於好尚涉求。凡
+<lb ed="X" n="0364c15"/><lb ed="R096" n="0646a13"/>好尚則取捨未忘。涉求則損益交陳。既有取捨損
+<lb ed="X" n="0364c16"/><lb ed="R096" n="0646a14"/>益之心。則動擾未息。而又曰體絕陰入。心智寂滅。
+<lb ed="X" n="0364c17"/><lb ed="R096" n="0646a15"/>此則文乖於理。如何會之一人。以動心而取靜理。
+<lb ed="X" n="0364c18"/><lb ed="R096" n="0646a16"/>無異指南為北也。</p></cb:div></cb:div>
+<lb ed="X" n="0364c19"/><lb ed="R096" n="0646a17"/><cb:div type="other"><cb:mulu type="其他" level="3">動寂第十五</cb:mulu><cb:div type="orig"><p xml:id="pX54p0364c1901">動寂第十五</p></cb:div>
+<lb ed="X" n="0364c20"/><lb ed="R096" n="0646a18"/><cb:div type="commentary"><p xml:id="pX54p0364c2001" rend="margin-left:1em">前名家譏動。今答以動寂。而不言寂動者。以問家
+<lb ed="X" n="0364c21"/><lb ed="R096" n="0646b01"/>但譏其動。謂動則違寂。不知動時全寂。故云動寂。</p></cb:div>
+<lb ed="X" n="0364c22"/><lb ed="R096" n="0646b02"/><cb:div type="orig"><p xml:id="pX54p0364c2201">無名曰。經稱聖人無為而無所不為。</p></cb:div>
+<lb ed="X" n="0364c23"/><lb ed="R096" n="0646b03"/><cb:div type="commentary"><p xml:id="pX54p0364c2301" rend="margin-left:1em">此引證聖人動靜一如。總答難意也。經即放光云。
+<lb ed="X" n="0364c24"/><lb ed="R096" n="0646b04"/>佛言。適無所為。故行般若波羅蜜。無所為。寂也。無
+<pb ed="X" xml:id="X54.0873.0365a" n="0365a"/>
+<lb ed="X" n="0365a01"/><lb ed="R096" n="0646b05"/>所不為。動也。即寂而動。故雖動而常寂。故下廣明
+<lb ed="X" n="0365a02"/><lb ed="R096" n="0646b06"/>進修無取捨。</p></cb:div>
+<lb ed="X" n="0365a03"/><lb ed="R096" n="0646b07"/><cb:div type="orig"><p xml:id="pX54p0365a0301">無為。故雖動而常寂。無所不為。故雖寂而常動。雖寂
+<lb ed="X" n="0365a04"/><lb ed="R096" n="0646b08"/>而常動。故物<note place="inline">心也</note>莫能一。<note place="inline">以體用雙彰。故莫能一</note>雖動而常寂。故
+<lb ed="X" n="0365a05"/><lb ed="R096" n="0646b09"/>物<note place="inline">境也</note>莫能二。<note place="inline">以心境一如。故莫能二</note>物<note place="inline">境也</note>莫能二。故逾動逾寂。
+<lb ed="X" n="0365a06"/><lb ed="R096" n="0646b10"/>物<note place="inline">心也</note>莫能一。故逾<anchor xml:id="nkr_note_orig_0365001A" n="0365001A"/><anchor xml:id="nkr_note_mod_0365001A" n="0365001A"/>寂逾<anchor xml:id="nkr_note_orig_0365001B" n="0365001B"/><anchor xml:id="nkr_note_mod_0365001B" n="0365001B"/>動。</p></cb:div>
+<lb ed="X" n="0365a07"/><lb ed="R096" n="0646b11"/><cb:div type="commentary"><p xml:id="pX54p0365a0701" rend="margin-left:1em">此言聖心寂照雙流。體用雙彰。故心境一如。動靜
+<lb ed="X" n="0365a08"/><lb ed="R096" n="0646b12"/>不二。豈可動靜而二其聖心哉。</p></cb:div>
+<lb ed="X" n="0365a09"/><lb ed="R096" n="0646b13"/><cb:div type="orig"><p xml:id="pX54p0365a0901">所以為即無為。無為即為。動寂雖殊。而莫之可異也。</p></cb:div>
+<lb ed="X" n="0365a10"/><lb ed="R096" n="0646b14"/><cb:div type="commentary"><p xml:id="pX54p0365a1001" rend="margin-left:1em">此證經義以明動靜不二之所以也○下明聖心
+<lb ed="X" n="0365a11"/><lb ed="R096" n="0646b15"/>絕待。答前積德。</p></cb:div>
+<lb ed="X" n="0365a12"/><lb ed="R096" n="0646b16"/><cb:div type="orig"><p xml:id="pX54p0365a1201">道行曰。心亦不有亦不無。</p></cb:div>
+<lb ed="X" n="0365a13"/><lb ed="R096" n="0646b17"/><cb:div type="commentary"><p xml:id="pX54p0365a1301" rend="margin-left:1em">此引經證聖心不涉有無。以明積德非有心也。雖
+<lb ed="X" n="0365a14"/><lb ed="R096" n="0646b18"/>好尚涉求。似分身心。而總攝於心。故言積德雖涉
+<lb ed="X" n="0365a15"/><lb ed="R096" n="0647a01"/>求。亦非有心。亦非無心。任運而<anchor xml:id="beg_6a" type="cb-app"/>已<anchor xml:id="end_6a"/>。</p></cb:div>
+<lb ed="X" n="0365a16"/><lb ed="R096" n="0647a02"/><cb:div type="orig"><p xml:id="pX54p0365a1601">不有者。不若有心之有。不無者。不若無心之無。</p></cb:div>
+<lb ed="X" n="0365a17"/><lb ed="R096" n="0647a03"/><cb:div type="commentary"><p xml:id="pX54p0365a1701" rend="margin-left:1em">此釋經義。揀非斷常也。言不有者。不是絕無。但不
+<lb ed="X" n="0365a18"/><lb ed="R096" n="0647a04"/>似眾生之有心耳。言不無者。不是實有。<anchor xml:id="beg_6b" type="cb-app"/>但<anchor xml:id="end_6b"/>不比無
+<lb ed="X" n="0365a19"/><lb ed="R096" n="0647a05"/>情之無耳。</p></cb:div>
+<lb ed="X" n="0365a20"/><lb ed="R096" n="0647a06"/><cb:div type="orig"><p xml:id="pX54p0365a2001">何者。有心則眾庶是也。無心則太虗是也。眾庶止於
+<lb ed="X" n="0365a21"/><lb ed="R096" n="0647a07"/>妄想。太虗絕於靈照。豈可止於妄想。絕於靈照。標其
+<lb ed="X" n="0365a22"/><lb ed="R096" n="0647a08"/>神道。<note place="inline">指涅槃</note>而語聖心者乎。</p></cb:div>
+<lb ed="X" n="0365a23"/><lb ed="R096" n="0647a09"/><cb:div type="commentary"><p xml:id="pX54p0365a2301" rend="margin-left:1em">此重明聖心不有不無之所以也。若有心則是凡
+<lb ed="X" n="0365a24"/><lb ed="R096" n="0647a10"/>夫。無心則是太虗。凡夫則所止於妄想。太虗則絕
+<pb ed="X" xml:id="X54.0873.0365b" n="0365b"/>
+<lb ed="X" n="0365b01"/><lb ed="R096" n="0647a11"/>然無知。豈可以妄想無知。以擬涅槃妙道。以語聖
+<lb ed="X" n="0365b02"/><lb ed="R096" n="0647a12"/>心為有無哉。</p></cb:div>
+<lb ed="X" n="0365b03"/><lb ed="R096" n="0647a13"/><cb:div type="orig"><p xml:id="pX54p0365b0301">是以聖心不有。不可謂之無。<note place="inline">絕無</note>聖心不無。不可謂之
+<lb ed="X" n="0365b04"/><lb ed="R096" n="0647a14"/>有。<note place="inline">實有</note>。</p></cb:div>
+<lb ed="X" n="0365b05"/><lb ed="R096" n="0647a15"/><cb:div type="commentary"><p xml:id="pX54p0365b0501" rend="margin-left:1em">此雙遮聖心不屬有無。以遣妄見。</p></cb:div>
+<lb ed="X" n="0365b06"/><lb ed="R096" n="0647a16"/><cb:div type="orig"><p xml:id="pX54p0365b0601">不有。故心想都滅。<note place="inline">不比凡夫</note>不無。故理無不契。<note place="inline">不比太虗</note>理無
+<lb ed="X" n="0365b07"/><lb ed="R096" n="0647a17"/>不契。故萬德斯弘。心想都滅。故功成非我。</p></cb:div>
+<lb ed="X" n="0365b08"/><lb ed="R096" n="0647a18"/><cb:div type="commentary"><p xml:id="pX54p0365b0801" rend="margin-left:1em">以明離過顯德。以彰聖心本無涉求也。以滅妄想。
+<lb ed="X" n="0365b09"/><lb ed="R096" n="0647b01"/>又非無知。乃離二邊之過。故能證一真之理。故云
+<lb ed="X" n="0365b10"/><lb ed="R096" n="0647b02"/>理無不契。以證一真法界。則恒沙性德。總在心源。
+<lb ed="X" n="0365b11"/><lb ed="R096" n="0647b03"/>故萬德斯弘。以妄想盡滅。則永絕貪求。故雖功成
+<lb ed="X" n="0365b12"/><lb ed="R096" n="0647b04"/>而非我證。如此。又何好尚涉求之有哉。</p></cb:div>
+<lb ed="X" n="0365b13"/><lb ed="R096" n="0647b05"/><cb:div type="orig"><p xml:id="pX54p0365b1301">所以應化無方。未嘗有為。寂然不動。未嘗不為。經曰。
+<lb ed="X" n="0365b14"/><lb ed="R096" n="0647b06"/>心無所行。無所不行。信矣。</p></cb:div>
+<lb ed="X" n="0365b15"/><lb ed="R096" n="0647b07"/><cb:div type="commentary"><p xml:id="pX54p0365b1501" rend="margin-left:1em">此總結答難意。謂聖心無為而為。寂然而應。如此。
+<lb ed="X" n="0365b16"/><lb ed="R096" n="0647b08"/>豈有為好尚涉求之心。而以動擾譏之哉。引經證
+<lb ed="X" n="0365b17"/><lb ed="R096" n="0647b09"/>一致可知。</p></cb:div>
+<lb ed="X" n="0365b18"/><lb ed="R096" n="0647b10"/><cb:div type="orig"><p xml:id="pX54p0365b1801">儒僮曰。昔我於無數劫。國財身命。施人無數。以妄想
+<lb ed="X" n="0365b19"/><lb ed="R096" n="0647b11"/>心施。非為施也。今以無生心。五華施佛。始名施耳。</p></cb:div>
+<lb ed="X" n="0365b20"/><lb ed="R096" n="0647b12"/><cb:div type="commentary"><p xml:id="pX54p0365b2001" rend="margin-left:1em">儒僮義引智論事。謂以身命等施。出妄想心。求五
+<lb ed="X" n="0365b21"/><lb ed="R096" n="0647b13"/>波羅蜜。未有所得。今見然燈。以五華供佛。布髮掩
+<lb ed="X" n="0365b22"/><lb ed="R096" n="0647b14"/>泥。即得無生法忍。滿足波羅蜜等。謂七地以前。有
+<lb ed="X" n="0365b23"/><lb ed="R096" n="0647b15"/>相觀多。未達三輪體空。名住相布施。非真施也。至
+<lb ed="X" n="0365b24"/><lb ed="R096" n="0647b16"/>第八無相地。證平等真如。三輪空寂。故即得受記。
+<pb ed="X" xml:id="X54.0873.0365c" n="0365c"/>
+<lb ed="X" n="0365c01"/><lb ed="R096" n="0647b17"/>故云始是施耳。意謂聖心果有好尚涉求。豈能證
+<lb ed="X" n="0365c02"/><lb ed="R096" n="0647b18"/>無為之理乎。</p></cb:div>
+<lb ed="X" n="0365c03"/><lb ed="R096" n="0648a01"/><cb:div type="orig"><p xml:id="pX54p0365c0301">又空行菩薩。入空解脫門。方言今是行時。非為證時。</p></cb:div>
+<lb ed="X" n="0365c04"/><lb ed="R096" n="0648a02"/><cb:div type="commentary"><p xml:id="pX54p0365c0401" rend="margin-left:1em">此引放光義。言菩薩<anchor xml:id="beg_6c" type="cb-app"/>已<anchor xml:id="end_6c"/>入空解脫門。方言乃是行
+<lb ed="X" n="0365c05"/><lb ed="R096" n="0648a03"/>時。非為證時。意謂單空尚不能證。況動心乎。顯寂
+<lb ed="X" n="0365c06"/><lb ed="R096" n="0648a04"/>用同時。為真行耳。</p></cb:div>
+<lb ed="X" n="0365c07"/><lb ed="R096" n="0648a05"/><cb:div type="orig"><p xml:id="pX54p0365c0701">然則心彌虗。行彌廣。終日行。不乖於無行者也。</p></cb:div>
+<lb ed="X" n="0365c08"/><lb ed="R096" n="0648a06"/><cb:div type="commentary"><p xml:id="pX54p0365c0801" rend="margin-left:1em">謂菩薩已入空解脫門。依空起行。則寂而常照。故
+<lb ed="X" n="0365c09"/><lb ed="R096" n="0648a07"/>心心寂滅。行行契真。所以動而常寂也。</p></cb:div>
+<lb ed="X" n="0365c10"/><lb ed="R096" n="0648a08"/><cb:div type="orig"><p xml:id="pX54p0365c1001">是以賢劫稱無捨之檀。成具美不為之為。禪典唱無
+<lb ed="X" n="0365c11"/><lb ed="R096" n="0648a09"/>緣之慈。思益演不知之知。聖旨虗玄。殊文同辯。</p></cb:div>
+<lb ed="X" n="0365c12"/><lb ed="R096" n="0648a10"/><cb:div type="commentary"><p xml:id="pX54p0365c1201" rend="margin-left:1em">連引四經以證不為而為之義。梵語檀那。此云布
+<lb ed="X" n="0365c13"/><lb ed="R096" n="0648a11"/>施。賢劫經說一切諸法無有與者。是名布施。成具
+<lb ed="X" n="0365c14"/><lb ed="R096" n="0648a12"/>云不為而過為。禪經說慈心三昧。有無緣之慈。思
+<lb ed="X" n="0365c15"/><lb ed="R096" n="0648a13"/>益云無取捨之知方為知。此上四義。皆言不為而
+<lb ed="X" n="0365c16"/><lb ed="R096" n="0648a14"/>為之旨。故云殊文同辯。</p></cb:div>
+<lb ed="X" n="0365c17"/><lb ed="R096" n="0648a15"/><cb:div type="orig"><p xml:id="pX54p0365c1701">豈可以有為便有為。無為便無為哉。菩薩住盡不盡
+<lb ed="X" n="0365c18"/><lb ed="R096" n="0648a16"/>平等法門。不盡有為。不住無為。即其事也。而以南北
+<lb ed="X" n="0365c19"/><lb ed="R096" n="0648a17"/>為喻。殊非領會之唱。</p></cb:div>
+<lb ed="X" n="0365c20"/><lb ed="R096" n="0648a18"/><cb:div type="commentary"><p xml:id="pX54p0365c2001" rend="margin-left:1em">此責其動靜異見。而引經證義也。菩薩下。即義引
+<lb ed="X" n="0365c21"/><lb ed="R096" n="0648b01"/>淨名經略云。上方香積世界菩薩。欲還本國。向佛
+<lb ed="X" n="0365c22"/><lb ed="R096" n="0648b02"/>求法。佛言。有盡無盡法門。汝等當學云云。如菩薩
+<lb ed="X" n="0365c23"/><lb ed="R096" n="0648b03"/>者。不盡有為。不住無為。彼疏云。有為雖偽。捨之而
+<lb ed="X" n="0365c24"/><lb ed="R096" n="0648b04"/>大業不成。無為雖實。住之而慧心不朗。即其事者。
+<pb ed="X" xml:id="X54.0873.0366a" n="0366a"/>
+<lb ed="X" n="0366a01"/><lb ed="R096" n="0648b05"/>正同前動寂無礙之旨也。若有無異見。動寂殊觀。
+<lb ed="X" n="0366a02"/><lb ed="R096" n="0648b06"/>而以南北為喻。豈能領會聖心哉。</p></cb:div></cb:div>
+<lb ed="X" n="0366a03"/><lb ed="R096" n="0648b07"/><cb:div type="other"><cb:mulu type="其他" level="3">窮源第十六</cb:mulu><cb:div type="orig"><p xml:id="pX54p0366a0301">窮源第十六</p></cb:div>
+<lb ed="X" n="0366a04"/><lb ed="R096" n="0648b08"/><cb:div type="commentary"><p xml:id="pX54p0366a0401" rend="margin-left:1em">窮謂窮討。源謂根源。由聞前說。<anchor xml:id="beg_6d" type="cb-app"/>已<anchor xml:id="end_6d"/>知動靜不二。今
+<lb ed="X" n="0366a05"/><lb ed="R096" n="0648b09"/>則行成必證。未審能證之人。與所證之法。誰先誰
+<lb ed="X" n="0366a06"/><lb ed="R096" n="0648b10"/>後。</p></cb:div>
+<lb ed="X" n="0366a07"/><lb ed="R096" n="0648b11"/><cb:div type="orig"><p xml:id="pX54p0366a0701">有名曰。非眾生無以御<note place="inline">控進也</note>三乘。非三乘無以成涅
+<lb ed="X" n="0366a08"/><lb ed="R096" n="0648b12"/>槃。然必先有眾生。後有涅槃。是則涅槃有始。有始必
+<lb ed="X" n="0366a09"/><lb ed="R096" n="0648b13"/>有終。<note place="inline">約人。則人先法後。約法。則法先人後</note>而經云。涅槃無始無終。湛若
+<lb ed="X" n="0366a10"/><lb ed="R096" n="0648b14"/>虗空。則涅槃先有。非復學而後成者也。</p></cb:div>
+<lb ed="X" n="0366a11"/><lb ed="R096" n="0648b15"/><cb:div type="commentary"><p xml:id="pX54p0366a1101" rend="margin-left:1em">此難涅槃與人兩異。設難若先有眾生。是眾生證
+<lb ed="X" n="0366a12"/><lb ed="R096" n="0648b16"/>得。則涅槃有始終。若先有涅槃。則不屬修得。何言
+<lb ed="X" n="0366a13"/><lb ed="R096" n="0648b17"/>眾生得涅槃耶。此難似不易通。下答以涅槃無始
+<lb ed="X" n="0366a14"/><lb ed="R096" n="0648b18"/>無終。無古無今。浩然大均。物我無二。唯會物為<anchor xml:id="beg_6e" type="cb-app"/>己<anchor xml:id="end_6e"/>。
+<lb ed="X" n="0366a15"/><lb ed="R096" n="0649a01"/>即是聖人。亦無始得。</p></cb:div></cb:div>
+<lb ed="X" n="0366a16"/><lb ed="R096" n="0649a02"/><cb:div type="other"><cb:mulu type="其他" level="3">通古第十七</cb:mulu><cb:div type="orig"><p xml:id="pX54p0366a1601">通古第十七</p></cb:div>
+<lb ed="X" n="0366a17"/><lb ed="R096" n="0649a03"/><cb:div type="commentary"><p xml:id="pX54p0366a1701" rend="margin-left:1em">意謂涅槃之體。性自常然。無古無今。何有始終。萬
+<lb ed="X" n="0366a18"/><lb ed="R096" n="0649a04"/>法本寂。當體涅槃。三乘悟此。即為證得。亦無先後。
+<lb ed="X" n="0366a19"/><lb ed="R096" n="0649a05"/><anchor xml:id="beg_6f" type="cb-app"/>但<anchor xml:id="end_6f"/>以智契理。理智冥一。唯心契會。故無始終。</p></cb:div>
+<lb ed="X" n="0366a20"/><lb ed="R096" n="0649a06"/><cb:div type="orig"><p xml:id="pX54p0366a2001">無名曰。夫至人空洞無象。而萬物無非我造。會萬物
+<lb ed="X" n="0366a21"/><lb ed="R096" n="0649a07"/>以成<anchor xml:id="beg_70" type="cb-app"/>己<anchor xml:id="end_70"/>者。其唯聖人乎。</p></cb:div>
+<lb ed="X" n="0366a22"/><lb ed="R096" n="0649a08"/><cb:div type="commentary"><p xml:id="pX54p0366a2201" rend="margin-left:1em">言聖人一心寂滅。空洞無象。以隨緣成事。故三界
+<lb ed="X" n="0366a23"/><lb ed="R096" n="0649a09"/>萬法唯心所現。故云無非我造。以諸法寂滅之體。
+<lb ed="X" n="0366a24"/><lb ed="R096" n="0649a10"/>即是涅槃。若能了達萬法唯心。法法皆歸自<anchor xml:id="beg_71" type="cb-app"/>己<anchor xml:id="end_71"/>。是
+<pb ed="X" xml:id="X54.0873.0366b" n="0366b"/>
+<lb ed="X" n="0366b01"/><lb ed="R096" n="0649a11"/>名聖人證得涅槃。但是以如如智。照如如理。理智
+<lb ed="X" n="0366b02"/><lb ed="R096" n="0649a12"/>冥一。是為涅槃。豈有先後始終於其間哉。即此一
+<lb ed="X" n="0366b03"/><lb ed="R096" n="0649a13"/>語。盡破其疑。</p></cb:div>
+<lb ed="X" n="0366b04"/><lb ed="R096" n="0649a14"/><cb:div type="orig"><p xml:id="pX54p0366b0401">何則。<note place="inline">徵釋理智一如</note>非理不聖。非聖不理。理而<anchor xml:id="nkr_note_orig_0366001" n="0366001"/>為聖者。聖不
+<lb ed="X" n="0366b05"/><lb ed="R096" n="0649a15"/>異理也。</p></cb:div>
+<lb ed="X" n="0366b06"/><lb ed="R096" n="0649a16"/><cb:div type="commentary"><p xml:id="pX54p0366b0601" rend="margin-left:1em">理即萬法一真之理。聖謂照理之智。謂非契理不
+<lb ed="X" n="0366b07"/><lb ed="R096" n="0649a17"/>足以彰聖智。故云非理不聖。非智不足以證理。故
+<lb ed="X" n="0366b08"/><lb ed="R096" n="0649a18"/>云非聖不理。以證理而為智。故智不異理。平等一
+<lb ed="X" n="0366b09"/><lb ed="R096" n="0649b01"/>心。是為證得涅槃。</p></cb:div>
+<lb ed="X" n="0366b10"/><lb ed="R096" n="0649b02"/><cb:div type="orig"><p xml:id="pX54p0366b1001">故天帝曰。般若當於何求。善吉曰。般若不可於色中
+<lb ed="X" n="0366b11"/><lb ed="R096" n="0649b03"/>求。亦不離色中求。又曰。見緣起為見法。見法為見佛。
+<lb ed="X" n="0366b12"/><lb ed="R096" n="0649b04"/>斯則物我不異之效也。</p></cb:div>
+<lb ed="X" n="0366b13"/><lb ed="R096" n="0649b05"/><cb:div type="commentary"><p xml:id="pX54p0366b1301" rend="margin-left:1em">由上云一心成萬法。照萬法唯一心。名為涅槃。萬
+<lb ed="X" n="0366b14"/><lb ed="R096" n="0649b06"/>法境寬。今就五蘊中舉一色法以明。則法法皆然。
+<lb ed="X" n="0366b15"/><lb ed="R096" n="0649b07"/>故引天帝之問。乃大品經散華品文。謂般若乃能
+<lb ed="X" n="0366b16"/><lb ed="R096" n="0649b08"/>照之智。萬法乃所照之境。今但舉色法以例餘。言
+<lb ed="X" n="0366b17"/><lb ed="R096" n="0649b09"/>心境非一。故不可於色中求。以心境非異。故不離
+<lb ed="X" n="0366b18"/><lb ed="R096" n="0649b10"/>色中求。以色即是空。空即如如。無如外智能證於
+<lb ed="X" n="0366b19"/><lb ed="R096" n="0649b11"/>如。故云不離不即。不即不離。是為一心中道。又曰
+<lb ed="X" n="0366b20"/><lb ed="R096" n="0649b12"/>下。義引涅槃經文。緣起十二因緣也。見緣起性空。
+<lb ed="X" n="0366b21"/><lb ed="R096" n="0649b13"/>是為見法。見法即見佛。斯則物我不異之效也。又
+<lb ed="X" n="0366b22"/><lb ed="R096" n="0649b14"/>何有先後始終哉。</p></cb:div>
+<lb ed="X" n="0366b23"/><lb ed="R096" n="0649b15"/><cb:div type="orig"><p xml:id="pX54p0366b2301">所以至人戢<note place="inline">止也</note>玄機<note place="inline">智也</note>於未兆。藏冥<note place="inline">寂也</note>運<note place="inline">動也</note>於即化。
+<lb ed="X" n="0366b24"/><lb ed="R096" n="0649b16"/>總六合以鏡心。一去來以成體。古今通始終同。窮本
+<pb ed="X" xml:id="X54.0873.0366c" n="0366c"/>
+<lb ed="X" n="0366c01"/><lb ed="R096" n="0649b17"/>極末。莫之與二。浩然大均。乃曰涅槃。</p></cb:div>
+<lb ed="X" n="0366c02"/><lb ed="R096" n="0649b18"/><cb:div type="commentary"><p xml:id="pX54p0366c0201" rend="margin-left:1em">此正出涅槃之體也。未兆。寂然不動之境也。謂聖
+<lb ed="X" n="0366c03"/><lb ed="R096" n="0650a01"/>人以真智照理。止於寂然不動之先。運即寂之動。
+<lb ed="X" n="0366c04"/><lb ed="R096" n="0650a02"/>潛於萬化之域。六合不離一心。故云總。古今不離
+<lb ed="X" n="0366c05"/><lb ed="R096" n="0650a03"/>一念。故云一去來。故十世古今。始終不離當處。故
+<lb ed="X" n="0366c06"/><lb ed="R096" n="0650a04"/>云通云同。窮本極末。究竟一際。浩然大均。乃曰涅
+<lb ed="X" n="0366c07"/><lb ed="R096" n="0650a05"/>槃。涅槃之道。如此廣大虗寂。豈可以先後始終而
+<lb ed="X" n="0366c08"/><lb ed="R096" n="0650a06"/>擬之哉。</p></cb:div>
+<lb ed="X" n="0366c09"/><lb ed="R096" n="0650a07"/><cb:div type="orig"><p xml:id="pX54p0366c0901">經曰。不離諸法而得涅槃。又曰。諸法無邊故。菩提無
+<lb ed="X" n="0366c10"/><lb ed="R096" n="0650a08"/>邊。</p></cb:div>
+<lb ed="X" n="0366c11"/><lb ed="R096" n="0650a09"/><cb:div type="commentary"><p xml:id="pX54p0366c1101" rend="margin-left:1em">此引證諸法即真。故心境不二也。放光云。諸法無
+<lb ed="X" n="0366c12"/><lb ed="R096" n="0650a10"/>邊際。故般若波羅蜜亦無際。此證理智皆依諸法。
+<lb ed="X" n="0366c13"/><lb ed="R096" n="0650a11"/>以顯心境不二也。</p></cb:div>
+<lb ed="X" n="0366c14"/><lb ed="R096" n="0650a12"/><cb:div type="orig"><p xml:id="pX54p0366c1401">以知涅槃之道。存<note place="inline">在也</note>乎妙契。妙契之致。本<note place="inline">因也</note>乎冥一。</p></cb:div>
+<lb ed="X" n="0366c15"/><lb ed="R096" n="0650a13"/><cb:div type="commentary"><p xml:id="pX54p0366c1501" rend="margin-left:1em">依聖言量。因知涅槃之道。單在妙合心境。心境如
+<lb ed="X" n="0366c16"/><lb ed="R096" n="0650a14"/>如。因乎理智冥一。此外無可證者。</p></cb:div>
+<lb ed="X" n="0366c17"/><lb ed="R096" n="0650a15"/><cb:div type="orig"><p xml:id="pX54p0366c1701">然則物<note place="inline">境也</note>不異我。<note place="inline">心也</note>我不異物。物我玄<note place="inline">冥也</note>會。歸乎無
+<lb ed="X" n="0366c18"/><lb ed="R096" n="0650a16"/>極。</p></cb:div>
+<lb ed="X" n="0366c19"/><lb ed="R096" n="0650a17"/><cb:div type="commentary"><p xml:id="pX54p0366c1901" rend="margin-left:1em">理智一如。物我無二。忘心絕照。冥會一心。故曰歸
+<lb ed="X" n="0366c20"/><lb ed="R096" n="0650a18"/>乎無極。蓋寄無極之言。以顯一心廣大寂滅之體
+<lb ed="X" n="0366c21"/><lb ed="R096" n="0650b01"/>耳。</p></cb:div>
+<lb ed="X" n="0366c22"/><lb ed="R096" n="0650b02"/><cb:div type="orig"><p xml:id="pX54p0366c2201">進之弗先。退之弗後。豈容終始於其間哉。</p></cb:div>
+<lb ed="X" n="0366c23"/><lb ed="R096" n="0650b03"/><cb:div type="commentary"><p xml:id="pX54p0366c2301" rend="margin-left:1em">謂三乘證之而弗先。六道迷之而非後。無古無今。
+<lb ed="X" n="0366c24"/><lb ed="R096" n="0650b04"/>前後際斷。豈容終始於其間哉。</p></cb:div>
+<pb ed="X" xml:id="X54.0873.0367a" n="0367a"/>
+<lb ed="X" n="0367a01"/><lb ed="R096" n="0650b05"/><cb:div type="orig"><p xml:id="pX54p0367a0101">天女曰。耆年解脫亦如何久。</p></cb:div>
+<lb ed="X" n="0367a02"/><lb ed="R096" n="0650b06"/><cb:div type="commentary"><p xml:id="pX54p0367a0201" rend="margin-left:1em">此引證久近也。淨名。身子問天女。止此室其<anchor xml:id="beg_72" type="cb-app"/>已<anchor xml:id="end_72"/>久
+<lb ed="X" n="0367a03"/><lb ed="R096" n="0650b07"/>如。曰如耆年解脫。身子曰止此久耶。天女云云。謂
+<lb ed="X" n="0367a04"/><lb ed="R096" n="0650b08"/>身子所得解脫。豈屬久近之時耶。</p></cb:div></cb:div>
+<lb ed="X" n="0367a05"/><lb ed="R096" n="0650b09"/><cb:div type="other"><cb:mulu type="其他" level="3">考得第十八</cb:mulu><cb:div type="orig"><p xml:id="pX54p0367a0501">考得第十八</p></cb:div>
+<lb ed="X" n="0367a06"/><lb ed="R096" n="0650b10"/><cb:div type="commentary"><p xml:id="pX54p0367a0601" rend="margin-left:1em">承上不離諸法而得涅槃。因之稽考盡陰存陰。違
+<lb ed="X" n="0367a07"/><lb ed="R096" n="0650b11"/>教違理。當何得乎。所以末後辯者。謂從前決擇修
+<lb ed="X" n="0367a08"/><lb ed="R096" n="0650b12"/>悟<anchor xml:id="beg_73" type="cb-app"/>已<anchor xml:id="end_73"/>周。意顯極證故也。</p></cb:div>
+<lb ed="X" n="0367a09"/><lb ed="R096" n="0650b13"/><cb:div type="orig"><p xml:id="pX54p0367a0901">有名曰。經云眾生之性。極於五陰之內。又云。得涅槃
+<lb ed="X" n="0367a10"/><lb ed="R096" n="0650b14"/>者五陰都盡。譬猶燈滅。<note place="inline">上引經定理。下申難</note>然則眾生之性。頓
+<lb ed="X" n="0367a11"/><lb ed="R096" n="0650b15"/>盡於五陰之內。涅槃之道。獨建於三有之外。貌然殊
+<lb ed="X" n="0367a12"/><lb ed="R096" n="0650b16"/>域。非復眾生得涅槃也。<note place="inline">陰盡無得違</note>果若有得。則眾生之
+<lb ed="X" n="0367a13"/><lb ed="R096" n="0650b17"/>性不止於五陰。<anchor xml:id="nkr_note_orig_0367001" n="0367001"/>必若止於五陰。則五陰不都盡。五陰
+<lb ed="X" n="0367a14"/><lb ed="R096" n="0650b18"/>若都盡。誰復得涅槃耶<note place="inline">存陰有得違</note>。</p></cb:div>
+<lb ed="X" n="0367a15"/><lb ed="R096" n="0651a01"/><cb:div type="commentary"><p xml:id="pX54p0367a1501" rend="margin-left:1em">難意謂眾生得涅槃。然眾生之性止於五陰之內。
+<lb ed="X" n="0367a16"/><lb ed="R096" n="0651a02"/>且涅槃獨建於三有之外。此則內外本自相懸。今
+<lb ed="X" n="0367a17"/><lb ed="R096" n="0651a03"/>云五陰都盡乃得涅槃。然五陰<anchor xml:id="beg_74" type="cb-app"/>已<anchor xml:id="end_74"/>盡於內。又誰得
+<lb ed="X" n="0367a18"/><lb ed="R096" n="0651a04"/>界外之涅槃耶。此則陰盡無能得者也。若眾生果
+<lb ed="X" n="0367a19"/><lb ed="R096" n="0651a05"/>得涅槃者。則性不止於五陰矣。若止於五陰。則五
+<lb ed="X" n="0367a20"/><lb ed="R096" n="0651a06"/>陰不盡。若五陰都盡。誰復得涅槃耶。此則陰存而
+<lb ed="X" n="0367a21"/><lb ed="R096" n="0651a07"/>無得者也。未達五陰空寂。即是涅槃故耳。</p></cb:div></cb:div>
+<lb ed="X" n="0367a22"/><lb ed="R096" n="0651a08"/><cb:div type="other"><cb:mulu type="其他" level="3">玄得第十九</cb:mulu><cb:div type="orig"><p xml:id="pX54p0367a2201">玄得第十九</p></cb:div>
+<lb ed="X" n="0367a23"/><lb ed="R096" n="0651a09"/><cb:div type="commentary"><p xml:id="pX54p0367a2301" rend="margin-left:1em">得無所得。無得而得。故云玄得。</p></cb:div>
+<lb ed="X" n="0367a24"/><lb ed="R096" n="0651a10"/><cb:div type="orig"><p xml:id="pX54p0367a2401">無名曰。夫真由離起。<note place="inline">顯也</note>偽因著生。著故有得。離故無
+<pb ed="X" xml:id="X54.0873.0367b" n="0367b"/>
+<lb ed="X" n="0367b01"/><lb ed="R096" n="0651a11"/>名。</p></cb:div>
+<lb ed="X" n="0367b02"/><lb ed="R096" n="0651a12"/><cb:div type="commentary"><p xml:id="pX54p0367b0201" rend="margin-left:1em">謂涅槃真理。由超情離見而顯。分別妄偽。由執著
+<lb ed="X" n="0367b03"/><lb ed="R096" n="0651a13"/>名相而生。故執名相者為有得。離情見者故無名。</p></cb:div>
+<lb ed="X" n="0367b04"/><lb ed="R096" n="0651a14"/><cb:div type="orig"><p xml:id="pX54p0367b0401">是以則<note place="inline">法也</note>真者同真。法偽者同偽。子以有得為得。故
+<lb ed="X" n="0367b05"/><lb ed="R096" n="0651a15"/>求於有得耳。吾以無得為得。故得在於無得也。</p></cb:div>
+<lb ed="X" n="0367b06"/><lb ed="R096" n="0651a16"/><cb:div type="commentary"><p xml:id="pX54p0367b0601" rend="margin-left:1em">言凡取法於真者則契真。執著於偽者則同偽。故
+<lb ed="X" n="0367b07"/><lb ed="R096" n="0651a17"/>不以有得為真。以無得為得耳。此正申玄得之旨
+<lb ed="X" n="0367b08"/><lb ed="R096" n="0651a18"/>也。</p></cb:div>
+<lb ed="X" n="0367b09"/><lb ed="R096" n="0651b01"/><cb:div type="orig"><p xml:id="pX54p0367b0901">且談論之作。必先定其本。既論涅槃。不可離涅槃而
+<lb ed="X" n="0367b10"/><lb ed="R096" n="0651b02"/>語涅槃也。若即涅槃以興言。誰獨非涅槃。而欲得之
+<lb ed="X" n="0367b11"/><lb ed="R096" n="0651b03"/>耶。</p></cb:div>
+<lb ed="X" n="0367b12"/><lb ed="R096" n="0651b04"/><cb:div type="commentary"><p xml:id="pX54p0367b1201" rend="margin-left:1em">若剋體而言涅槃。則一切眾生本來涅槃。故云誰
+<lb ed="X" n="0367b13"/><lb ed="R096" n="0651b05"/>獨非涅槃而欲得之耶。以一切法本來如故○此
+<lb ed="X" n="0367b14"/><lb ed="R096" n="0651b06"/>標宗。下辯義。</p></cb:div>
+<lb ed="X" n="0367b15"/><lb ed="R096" n="0651b07"/><cb:div type="orig"><p xml:id="pX54p0367b1501">何者。<note place="inline">徵釋正義</note>夫涅槃之道。妙盡常數。<note place="inline">泯絕諸相</note>融<note place="inline">和也</note>冶<note place="inline">銷也</note>二
+<lb ed="X" n="0367b16"/><lb ed="R096" n="0651b08"/>儀。蕩滌萬有。均天人。同一異。內視不<anchor xml:id="nkr_note_orig_0367002" n="0367002"/><anchor xml:id="nkr_note_mod_0367002" n="0367002"/><anchor xml:id="beg_75" type="cb-app"/>己<anchor xml:id="end_75"/>見。返聽不<anchor xml:id="nkr_note_orig_0367003" n="0367003"/>我
+<lb ed="X" n="0367b17"/><lb ed="R096" n="0651b09"/>聞。未嘗有得。未嘗無得。</p></cb:div>
+<lb ed="X" n="0367b18"/><lb ed="R096" n="0651b10"/><cb:div type="commentary"><p xml:id="pX54p0367b1801" rend="margin-left:1em">此辯涅槃妙體也。以涅槃妙體離一切相。故云妙
+<lb ed="X" n="0367b19"/><lb ed="R096" n="0651b11"/>盡常數。二儀。天地也。萬有。萬物也。經云。一人發真
+<lb ed="X" n="0367b20"/><lb ed="R096" n="0651b12"/>歸元。十方虗空悉皆銷殞。何況空中所有國土而
+<lb ed="X" n="0367b21"/><lb ed="R096" n="0651b13"/>不振裂。故云融冶二儀。蕩滌萬有。由此所以均天
+<lb ed="X" n="0367b22"/><lb ed="R096" n="0651b14"/>人。同一異也。以非色故內視不<anchor xml:id="beg_76" type="cb-app"/>己<anchor xml:id="end_76"/>見。以非聲故返
+<lb ed="X" n="0367b23"/><lb ed="R096" n="0651b15"/>聽不我聞。以寂漠沖虗故未嘗有得。以諸法寂滅
+<lb ed="X" n="0367b24"/><lb ed="R096" n="0651b16"/>平等無二故未嘗無得。</p></cb:div>
+<pb ed="X" xml:id="X54.0873.0367c" n="0367c"/>
+<lb ed="X" n="0367c01"/><lb ed="R096" n="0651b17"/><cb:div type="orig"><p xml:id="pX54p0367c0101">經曰。涅槃非眾生。亦不異眾生。維摩詰言。若彌勒得
+<lb ed="X" n="0367c02"/><lb ed="R096" n="0651b18"/>滅度者。一切眾生亦當滅度。所以者何。一切眾生。本
+<lb ed="X" n="0367c03"/><lb ed="R096" n="0652a01"/>性常滅。不復更滅。此<anchor xml:id="nkr_note_orig_0367004" n="0367004"/>名滅度。在於無滅者也。</p></cb:div>
+<lb ed="X" n="0367c04"/><lb ed="R096" n="0652a02"/><cb:div type="commentary"><p xml:id="pX54p0367c0401" rend="margin-left:1em">引涅槃經義。言涅槃之體。永離生滅。故非眾生。以
+<lb ed="X" n="0367c05"/><lb ed="R096" n="0652a03"/>眾生之性。本來寂滅。故不異涅槃。引淨名經義。彌
+<lb ed="X" n="0367c06"/><lb ed="R096" n="0652a04"/>勒若得滅度者。則一切眾生亦當滅度。以一切眾
+<lb ed="X" n="0367c07"/><lb ed="R096" n="0652a05"/>生本性畢竟寂滅。即涅槃相。不復更滅。此名滅度。
+<lb ed="X" n="0367c08"/><lb ed="R096" n="0652a06"/>在於無滅。豈有盡五陰而求涅槃。又豈可存五陰
+<lb ed="X" n="0367c09"/><lb ed="R096" n="0652a07"/>而別求得涅槃耶。</p></cb:div>
+<lb ed="X" n="0367c10"/><lb ed="R096" n="0652a08"/><cb:div type="orig"><p xml:id="pX54p0367c1001">然則眾生非眾生。<note place="inline">以性空故</note>誰為得之者。<note place="inline">無能得之人</note>涅槃非
+<lb ed="X" n="0367c11"/><lb ed="R096" n="0652a09"/>涅槃。<note place="inline">以離相故</note>誰為可得者。<note place="inline">無所得之法</note>放光云。菩提從有得
+<lb ed="X" n="0367c12"/><lb ed="R096" n="0652a10"/>耶。答曰不也。從無得耶。答曰不也。從有無得耶。答曰
+<lb ed="X" n="0367c13"/><lb ed="R096" n="0652a11"/>不也。離有無得耶。答曰不也。然則都無得耶。答曰不
+<lb ed="X" n="0367c14"/><lb ed="R096" n="0652a12"/>也。是義云何。答曰無所得故<anchor xml:id="nkr_note_orig_0367005" n="0367005"/>為得也。是故得無所得
+<lb ed="X" n="0367c15"/><lb ed="R096" n="0652a13"/>也。無所得謂之得者。誰獨不然<anchor xml:id="nkr_note_orig_0367006" n="0367006"/>耶。</p></cb:div>
+<lb ed="X" n="0367c16"/><lb ed="R096" n="0652a14"/><cb:div type="commentary"><p xml:id="pX54p0367c1601" rend="margin-left:1em">言得涅槃者。以眾生性空。故無能得之人。涅槃寂
+<lb ed="X" n="0367c17"/><lb ed="R096" n="0652a15"/>滅離相。故無可得之法。能所雙忘。故無所得為得。
+<lb ed="X" n="0367c18"/><lb ed="R096" n="0652a16"/>以無所得為得者。則一切諸法本來寂滅。不復更
+<lb ed="X" n="0367c19"/><lb ed="R096" n="0652a17"/>滅。斯則法法真常。生佛平等。且誰獨不然耶。</p></cb:div>
+<lb ed="X" n="0367c20"/><lb ed="R096" n="0652a18"/><cb:div type="orig"><p xml:id="pX54p0367c2001">然則玄道在<anchor xml:id="nkr_note_orig_0367007" n="0367007"/>於絕域。故不得以得之。妙智存乎物外。
+<lb ed="X" n="0367c21"/><lb ed="R096" n="0652b01"/>故不知以知之。大象隱於無形。故不見以見之。大音
+<lb ed="X" n="0367c22"/><lb ed="R096" n="0652b02"/>匿於希聲。故不聞以聞之。</p></cb:div>
+<lb ed="X" n="0367c23"/><lb ed="R096" n="0652b03"/><cb:div type="commentary"><p xml:id="pX54p0367c2301" rend="margin-left:1em">此言涅槃之體。超心境。絕見聞。結示玄得之方也。
+<lb ed="X" n="0367c24"/><lb ed="R096" n="0652b04"/>玄道。指涅槃實際。為所觀之境。以體絕諸相。故稱
+<pb ed="X" xml:id="X54.0873.0368a" n="0368a"/>
+<lb ed="X" n="0368a01"/><lb ed="R096" n="0652b05"/>絕域。以此非所得之境。故不得以得之。妙智。謂能
+<lb ed="X" n="0368a02"/><lb ed="R096" n="0652b06"/>證之智。實智照理。離諸對待。故云物外。以寂而照。
+<lb ed="X" n="0368a03"/><lb ed="R096" n="0652b07"/>故不知以知之。以一真法界。謂之大象。無狀無形。
+<lb ed="X" n="0368a04"/><lb ed="R096" n="0652b08"/>非可見之境。故不見以見之。寂滅圓音。謂之大音。
+<lb ed="X" n="0368a05"/><lb ed="R096" n="0652b09"/>羣動永息。非妄聞可及。故不聞以聞之。</p></cb:div>
+<lb ed="X" n="0368a06"/><lb ed="R096" n="0652b10"/><cb:div type="orig"><p xml:id="pX54p0368a0601"><anchor xml:id="nkr_note_orig_0368001" n="0368001"/>故能<anchor xml:id="nkr_note_orig_0368002" n="0368002"/>囊括終古。導達羣方。亭毒<note place="inline">養育也</note>蒼生。疎而不漏。
+<lb ed="X" n="0368a07"/><lb ed="R096" n="0652b11"/>汪哉洋哉。何莫由之哉。</p></cb:div>
+<lb ed="X" n="0368a08"/><lb ed="R096" n="0652b12"/><cb:div type="commentary"><p xml:id="pX54p0368a0801" rend="margin-left:1em">上示涅槃玄得之體。此顯無方大用也。故能爾者。
+<lb ed="X" n="0368a09"/><lb ed="R096" n="0652b13"/>由自體甚深。所以能德用廣大。囊括。義取易云括
+<lb ed="X" n="0368a10"/><lb ed="R096" n="0652b14"/>囊無咎。謂結其囊口。今取包括無遺之義。謂涅槃
+<lb ed="X" n="0368a11"/><lb ed="R096" n="0652b15"/>真常。不<anchor xml:id="beg_77" type="cb-app"/>但<anchor xml:id="end_77"/>無始。亦且無終。今古常然。故云囊括終
+<lb ed="X" n="0368a12"/><lb ed="R096" n="0652b16"/>古。導。開引也。達。示悟也。羣方。九界眾生也。由其用
+<lb ed="X" n="0368a13"/><lb ed="R096" n="0652b17"/>廣。故開悟九類。養育羣生。以眾生迷之而不返。似
+<lb ed="X" n="0368a14"/><lb ed="R096" n="0652b18"/>為疎遠。如不修則<anchor xml:id="beg_78" type="cb-app"/>已<anchor xml:id="end_78"/>。修而即得。故云不漏。汪洋無
+<lb ed="X" n="0368a15"/><lb ed="R096" n="0653a01"/>涯。故聖凡以之而出入。依正以之而建立。法界以
+<lb ed="X" n="0368a16"/><lb ed="R096" n="0653a02"/>之而<g ref="#CB15210">󳭪</g>張。因果以之而不昧。故曰何莫由之哉。</p></cb:div>
+<lb ed="X" n="0368a17"/><lb ed="R096" n="0653a03"/><cb:div type="orig"><p xml:id="pX54p0368a1701">故梵志曰。吾聞佛道。厥<note place="inline">其也</note>義弘<note place="inline">廣也</note>深。汪洋無涯。靡<note place="inline">無也</note>
+<lb ed="X" n="0368a18"/><lb ed="R096" n="0653a04"/>不成就。靡不度生。</p></cb:div>
+<lb ed="X" n="0368a19"/><lb ed="R096" n="0653a05"/><cb:div type="commentary"><p xml:id="pX54p0368a1901" rend="margin-left:1em">此引梵志歎佛之言。以證涅槃化生之用。</p></cb:div>
+<lb ed="X" n="0368a20"/><lb ed="R096" n="0653a06"/><cb:div type="orig"><p xml:id="pX54p0368a2001">然則三乘之路開。真偽之途辯。賢聖之道存。無名之
+<lb ed="X" n="0368a21"/><lb ed="R096" n="0653a07"/>致顯矣。</p></cb:div>
+<lb ed="X" n="0368a22"/><lb ed="R096" n="0653a08"/><cb:div type="commentary"><p xml:id="pX54p0368a2201" rend="margin-left:1em">此總結宗極也。一論所述。九折皆三乘權教之跡。
+<lb ed="X" n="0368a23"/><lb ed="R096" n="0653a09"/>十演乃一乘之實。今論開權顯實。故云三乘之路
+<lb ed="X" n="0368a24"/><lb ed="R096" n="0653a10"/>開。無名顯理為真。有名執跡為偽。如上所論真偽
+<pb ed="X" xml:id="X54.0873.0368b" n="0368b"/>
+<lb ed="X" n="0368b01"/><lb ed="R096" n="0653a11"/>自辯。以時宗廓無聖。秦主斥曰。若無聖人。知無者
+<lb ed="X" n="0368b02"/><lb ed="R096" n="0653a12"/>誰。故論主奉詔作論。以破無聖斷見之執。今言儒
+<lb ed="X" n="0368b03"/><lb ed="R096" n="0653a13"/>童進修空行。起行是有能修能證之人。故曰賢聖
+<lb ed="X" n="0368b04"/><lb ed="R096" n="0653a14"/>之道存。名家按名責實。今論主發揮無名之致。故
+<lb ed="X" n="0368b05"/><lb ed="R096" n="0653a15"/>云顯矣。</p></cb:div>
+<lb ed="X" n="0368b06"/><lb ed="R096" n="0653a16"/><cb:div type="orig"><p xml:id="pX54p0368b0601">涅槃無名論<note place="inline">終</note></p></cb:div></cb:div></cb:div></cb:div>
+<lb ed="X" n="0368b07"/><lb ed="R096" n="0653a17"/>
+<lb ed="X" n="0368b08"/><lb ed="R096" n="0653a18"/><cb:juan fun="close" n="6"><cb:jhead>肇論略注卷六<note place="inline">終</note></cb:jhead></cb:juan>
+<lb ed="X" n="0368b09"/>
+<lb ed="X" n="0368b10"/>
+<lb ed="X" n="0368b11"/>
+<lb ed="X" n="0368b12"/>
+<lb ed="X" n="0368b13"/><cb:div type="xu"><cb:mulu type="序" level="1">No. 873-B 肇論略注後跋</cb:mulu><head>No. 873-B
+<lb ed="X" n="0368b14"/><lb ed="R096" n="0653b01"/> 肇論略注後跋</head>
+<lb ed="X" n="0368b15"/>
+<lb ed="X" n="0368b16"/><lb ed="R096" n="0653b02"/><p xml:id="pX54p0368b1601">此論言未及二萬。題方稱五篇。義則席卷聲教。囊括
+<lb ed="X" n="0368b17"/><lb ed="R096" n="0653b03"/>眾經。而罄佛淵海者矣。論主因見教中。談真指不遷。
+<lb ed="X" n="0368b18"/><lb ed="R096" n="0653b04"/>導物開流動。恐未忘標指者。依文解二。而二其心。故
+<lb ed="X" n="0368b19"/><lb ed="R096" n="0653b05"/>且翻其辭。改其名。曰物不遷。曰不真空等。文似相角。
+<lb ed="X" n="0368b20"/><lb ed="R096" n="0653b06"/>而義實相符。所造未嘗異。而所見未嘗同也。然推論
+<lb ed="X" n="0368b21"/><lb ed="R096" n="0653b07"/>主心。蕩無纖異。實為暢我　　佛攝未歸本之懷。是
+<lb ed="X" n="0368b22"/><lb ed="R096" n="0653b08"/>以即物而論。虗玄標高。揭物我同根。此不異雜華云。
+<lb ed="X" n="0368b23"/><lb ed="R096" n="0653b09"/>法性本無生。示現而有生。是中無能現。亦無所現物。
+<lb ed="X" n="0368b24"/><lb ed="R096" n="0653b10"/>能現所現既即無。昔來今往又何朕。故曰。昔人非昔
+<pb ed="X" xml:id="X54.0873.0368c" n="0368c"/>
+<lb ed="X" n="0368c01"/><lb ed="R096" n="0653b11"/>人。野馬或不動。良有此深因。非驟而語不遷。後尚有
+<lb ed="X" n="0368c02"/><lb ed="R096" n="0653b12"/>約義而駁其文者。有臨文而駭其義者。然又有駁其
+<lb ed="X" n="0368c03"/><lb ed="R096" n="0653b13"/>駁者。迄我　　明憨山大師主盟此道。執牛耳於宗
+<lb ed="X" n="0368c04"/><lb ed="R096" n="0653b14"/>途。<anchor xml:id="beg_79" type="cb-app"/>已<anchor xml:id="end_79"/>探此論之奧。而識其微。因見言路縱橫。學人首
+<lb ed="X" n="0368c05"/><lb ed="R096" n="0653b15"/>鼠兩端。莫之趨向。即搦管作疏。弄丸其間。析諸家之
+<lb ed="X" n="0368c06"/><lb ed="R096" n="0653b16"/>難。而闡其幽旨。名曰略注。古今開闢。本末貫通。借曰
+<lb ed="X" n="0368c07"/><lb ed="R096" n="0653b17"/>千途異唱。會歸同致矣。愚意在昔毗耶大士。為世尊
+<lb ed="X" n="0368c08"/><lb ed="R096" n="0653b18"/>教海汪洋。代下一轉語。即令五百弟子飽<g ref="#CB04432">䬸</g>香積而
+<lb ed="X" n="0368c09"/><lb ed="R096" n="0654a01"/>消之。繼踵肇公論主復白一椎。至今憨山大師筆底。
+<lb ed="X" n="0368c10"/><lb ed="R096" n="0654a02"/>方能轉身吐氣。抑亦為論主作此一轉語耶。而始令
+<lb ed="X" n="0368c11"/><lb ed="R096" n="0654a03"/>人悟入宗本。開無知般若。鑒不真空。了物不遷。而無
+<lb ed="X" n="0368c12"/><lb ed="R096" n="0654a04"/>名涅槃即可證。此又一<g ref="#CB04432">䬸</g>香積矣。雖各相去千有餘
+<lb ed="X" n="0368c13"/><lb ed="R096" n="0654a05"/>年。要知般若光中。以燈續燈。若旦暮遇之也。注成。大
+<lb ed="X" n="0368c14"/><lb ed="R096" n="0654a06"/>師尚固扃鐍以藏之。恰有居士雲山合掌請曰。摩尼
+<lb ed="X" n="0368c15"/><lb ed="R096" n="0654a07"/>妙在普雨。而法寶幸流通。弟子雖處瓶之罄。因惜自
+<lb ed="X" n="0368c16"/><lb ed="R096" n="0654a08"/>他慧命如絲。願貸粟監河。但得金二十五。便可資棗
+<lb ed="X" n="0368c17"/><lb ed="R096" n="0654a09"/>黎氏流行。而皆沾其法味。幸何如哉。大師領而授之。
+<lb ed="X" n="0368c18"/><lb ed="R096" n="0654a10"/>來命跋於不肖。因贊之曰。向之於此論也。但登其枝
+<lb ed="X" n="0368c19"/><lb ed="R096" n="0654a11"/>而忘其本。咀其華而不食其實者眾矣。今得大師信
+<lb ed="X" n="0368c20"/><lb ed="R096" n="0654a12"/>筆注成。又爾居士信心刻之。今而後之於此論也。可
+<lb ed="X" n="0368c21"/><lb ed="R096" n="0654a13"/>括目矣。必能達其本根矣。此其論之中興也歟。</p>
+<lb ed="X" n="0368c22"/><lb ed="R096" n="0654a14"/><p xml:id="pX54p0368c2201">萬歷歲次丁巳孟秋　　華山法姪慧浸識</p></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_58" cb:to="#end_58"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_59" cb:to="#end_59"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5a" cb:to="#end_5a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5b" cb:to="#end_5b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5c" cb:to="#end_5c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5d" cb:to="#end_5d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5e" cb:to="#end_5e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5f" cb:to="#end_5f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_60" cb:to="#end_60"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_61" cb:to="#end_61"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_62" cb:to="#end_62"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_63" cb:to="#end_63"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_64" cb:to="#end_64"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_65" cb:to="#end_65"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_66" cb:to="#end_66"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_67" cb:to="#end_67"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_68" cb:to="#end_68"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_69" cb:to="#end_69"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6a" cb:to="#end_6a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6b" cb:to="#end_6b"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6c" cb:to="#end_6c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6d" cb:to="#end_6d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6e" cb:to="#end_6e"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6f" cb:to="#end_6f"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_70" cb:to="#end_70"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_71" cb:to="#end_71"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_72" cb:to="#end_72"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_73" cb:to="#end_73"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_74" cb:to="#end_74"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_75" cb:to="#end_75"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_76" cb:to="#end_76"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_77" cb:to="#end_77"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_78" cb:to="#end_78"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_79" cb:to="#end_79"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+<cb:div type="cbeta-notes">
+<head>CBETA 校勘記</head>
+<p>
+<note n="0362003A" resp="#resp3" type="mod" target="#nkr_note_mod_0362003A">彼一作此</note>
+<note n="0362003B" resp="#resp3" type="mod" target="#nkr_note_mod_0362003B">此一作彼</note>
+<note n="0365001A" resp="#resp3" type="mod" target="#nkr_note_mod_0365001A">寂一作動</note>
+<note n="0365001B" resp="#resp3" type="mod" target="#nkr_note_mod_0365001B">動一作寂</note>
+<note n="0367002" resp="#resp3" type="mod" target="#nkr_note_mod_0367002"><choice cb:resp="#resp1"><corr>己</corr><sic>巳</sic></choice>見一作見<choice cb:resp="#resp1"><corr>己</corr><sic>巳</sic></choice></note>
+</p>
+</cb:div>
+<cb:div type="xuzang-notes">
+<head>卍續藏 校勘記</head>
+<p>
+<note n="0361001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0361001">一無自字</note>
+<note n="0361002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0361002">無下一有而字</note>
+<note n="0361003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0361003">存一作有</note>
+<note n="0361004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0361004">言一作云</note>
+<note n="0361005" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0361005">在一作存下同</note>
+<note n="0361006" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0361006">冥一作默</note>
+<note n="0362001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0362001">不下一有同字</note>
+<note n="0362002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0362002">知下一有故字</note>
+<note n="0362003A" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0362003A">彼此一作此彼</note>
+<note n="0362003B" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0362003B">彼此一作此彼</note>
+<note n="0362004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0362004">之下一有於字</note>
+<note n="0362005" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0362005">之一作諸</note>
+<note n="0362006" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0362006">而一作何</note>
+<note n="0362007" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0362007">升作昇下同</note>
+<note n="0363001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0363001">一無云字</note>
+<note n="0363002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0363002">淺深一作深淺</note>
+<note n="0363003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0363003">餘一作障</note>
+<note n="0363004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0363004">不一作無</note>
+<note n="0364001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0364001">未一作不</note>
+<note n="0364002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0364002">則所一作其</note>
+<note n="0365001A" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0365001A">寂動一倒置</note>
+<note n="0365001B" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0365001B">寂動一倒置</note>
+<note n="0366001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0366001">為一作成</note>
+<note n="0367001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0367001">必若一作若必</note>
+<note n="0367002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0367002">巳見一作見巳</note>
+<note n="0367003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0367003">我聞作聞我</note>
+<note n="0367004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0367004">名一作明</note>
+<note n="0367005" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0367005">為一作名</note>
+<note n="0367006" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0367006">耶一作乎</note>
+<note n="0367007" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0367007">於一作乎</note>
+<note n="0368001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0368001">故一作至</note>
+<note n="0368002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0368002">囊括一倒置</note>
+</p>
+</cb:div>
+</back></text></TEI>

@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X87n1629">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1629 金剛般若經集驗記</title>
+			<author>唐 孟獻忠撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.12 $<date>$Date: 2010/10/25 08:50:23 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>Xuzangjing</name></respStmt>
+		<respStmt xml:id="resp2"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA</name></respStmt>
+	</editionStmt>
+	<extent>3卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/10/25 08:50:23 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 87, No. 1629 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, Text as provided by Electronic Buddhadharma Society (EBS)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，佛教電腦資訊庫功德會提供</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00403">
+	<charName>CBETA CHARACTER CB00403</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[泳-永+公]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>沿</value>
+	</charProp>
+	<mapping type="unicode">U+3CC2</mapping>
+	<mapping cb:dec="983443" type="PUA">U+F0193</mapping>
+</char>
+<char xml:id="CB00501">
+	<charName>CBETA CHARACTER CB00501</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[馬*犬]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>馱</value>
+	</charProp>
+	<mapping type="unicode">U+4B7E</mapping>
+	<mapping cb:dec="983541" type="PUA">U+F01F5</mapping>
+</char>
+<char xml:id="CB00589">
+	<charName>CBETA CHARACTER CB00589</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[澗-日+月]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>澗</value>
+	</charProp>
+	<mapping type="unicode">U+3D4E</mapping>
+	<mapping cb:dec="983629" type="PUA">U+F024D</mapping>
+</char>
+<char xml:id="CB01755">
+	<charName>CBETA CHARACTER CB01755</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[女*更]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>嫂</value>
+	</charProp>
+	<mapping type="unicode">U+36D0</mapping>
+	<mapping cb:dec="984795" type="PUA">U+F06DB</mapping>
+</char>
+<char xml:id="CB01926">
+	<charName>CBETA CHARACTER CB01926</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[厂@火]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>灰</value>
+	</charProp>
+	<mapping type="normal_unicode">U+7070</mapping>
+	<mapping cb:dec="984966" type="PUA">U+F0786</mapping>
+</char>
+<char xml:id="CB05033">
+	<charName>CBETA CHARACTER CB05033</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[金*截]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>鐵</value>
+	</charProp>
+	<mapping type="unicode">U+496B</mapping>
+	<mapping cb:dec="988073" type="PUA">U+F13A9</mapping>
+</char>
+<char xml:id="CB05418">
+	<charName>CBETA CHARACTER CB05418</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[虔-文+ㄆ]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>虔</value>
+	</charProp>
+	<mapping type="unicode">U+458D</mapping>
+	<mapping cb:dec="988458" type="PUA">U+F152A</mapping>
+</char>
+<char xml:id="CB08764">
+	<charName>CBETA CHARACTER CB08764</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宋-木+取]</value>
+	</charProp>
+	<mapping type="unicode">U+3761</mapping>
+	<mapping cb:dec="991804" type="PUA">U+F223C</mapping>
+</char>
+<char xml:id="CB15081">
+	<charName>CBETA CHARACTER CB15081</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[竺-二+束]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>策</value>
+	</charProp>
+	<mapping type="unicode">U+41FF</mapping>
+	<mapping cb:dec="998121" type="PUA">U+F3AE9</mapping>
+</char>
+<char xml:id="CB15090">
+	<charName>CBETA CHARACTER CB15090</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[焊-干+恭]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>爆</value>
+	</charProp>
+	<mapping cb:dec="998130" type="PUA">U+F3AF2</mapping>
+</char>
+<char xml:id="CB15131">
+	<charName>CBETA CHARACTER CB15131</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[邱-丘+(看-目)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>邦</value>
+	</charProp>
+	<mapping cb:dec="998171" type="PUA">U+F3B1B</mapping>
+</char>
+<char xml:id="CB18953">
+	<charName>CBETA CHARACTER CB18953</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[方*遂]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>旞</value>
+	</charProp>
+	<mapping type="normal_unicode">U+2311A</mapping>
+	<mapping cb:dec="1001993" type="PUA">U+F4A09</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2004-10-29T09:08:36">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" xml:id="X87.1629.0449a" n="0449a"/>
+<lb ed="X" n="0449a01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0449a02"/>
+<lb ed="X" n="0449a03"/>
+<lb ed="X" n="0449a04"/>
+<lb ed="X" n="0449a05"/><cb:docNumber>No. 1629</cb:docNumber>
+<lb ed="X" n="0449a06"/><lb ed="R149" n="0075a01"/><cb:juan fun="open" n="001"><cb:mulu type="卷" n="1"></cb:mulu><cb:jhead>金剛般若經集驗記卷上<note place="inline">并序</note></cb:jhead></cb:juan>
+<lb ed="X" n="0449a07"/>
+<lb ed="X" n="0449a08"/><lb ed="R149" n="0075a02"/><byline cb:type="author">梓州司馬　孟獻忠　撰</byline>
+<lb ed="X" n="0449a09"/><lb ed="R149" n="0075a03"/><cb:div type="xu"><cb:mulu type="序" level="1">序</cb:mulu><p xml:id="pX87p0449a0901">夫般若者。乃諸佛之<anchor xml:id="nkr_note_orig_0449001" n="0449001"/>智母。至道之精微。為法海之泉
+<lb ed="X" n="0449a10"/><lb ed="R149" n="0075a04"/>源。實如來之秘藏。言語道斷。心行處滅。超於名相<anchor xml:id="nkr_note_orig_0449002" n="0449002"/>而
+<lb ed="X" n="0449a11"/><lb ed="R149" n="0075a05"/>界入。稱謂稽而不逮。離於見聞覺知。智識詮而逾遠。
+<lb ed="X" n="0449a12"/><lb ed="R149" n="0075a06"/>無行無得。所以致其功。不住不染。所以成其慧。探其
+<lb ed="X" n="0449a13"/><lb ed="R149" n="0075a07"/>玅者。行皆道場。達其理者。動為佛事。至於一十二經。
+<lb ed="X" n="0449a14"/><lb ed="R149" n="0075a08"/>八萬四千之法。等三辰之競耀。<anchor xml:id="nkr_note_orig_0449003" n="0449003"/>仰慧景而同暉。類五
+<lb ed="X" n="0449a15"/><lb ed="R149" n="0075a09"/><anchor xml:id="nkr_note_orig_0449004" n="0449004"/>衢之爭馳。入真乘而共轍。惟寂惟寞。感而遂通。何慮
+<lb ed="X" n="0449a16"/><lb ed="R149" n="0075a10"/>何思。誠而必應。其有一念淨信。四偈受持。福無量而
+<lb ed="X" n="0449a17"/><lb ed="R149" n="0075a11"/>無邊。廣大侔於法界。果不生而不滅。究竟等於虗空。
+<lb ed="X" n="0449a18"/><lb ed="R149" n="0075a12"/>故能使脩羅之軍。尋聲而遠遁。波旬之騎。藉響而<anchor xml:id="nkr_note_orig_0449005" n="0449005"/>旋
+<lb ed="X" n="0449a19"/><lb ed="R149" n="0075a13"/>奔。鉤爪鋸牙。<anchor xml:id="nkr_note_orig_0449006" n="0449006"/>挫芒衂<note place="inline">如盡反</note>銳。洪濤<note place="inline">音桃</note>烈火。息浪韜炎。
+<lb ed="X" n="0449a20"/><lb ed="R149" n="0075a14"/>厲<note place="inline">音例</note>氣煙凝。毒不能害。交陳雲合。刃不能傷。含識必
+<lb ed="X" n="0449a21"/><lb ed="R149" n="0075a15"/>該觸類而長。亦猶洪鐘虗受。響無擊而不揚。明鏡高
+<lb ed="X" n="0449a22"/><lb ed="R149" n="0075a16"/>懸。物有來而斯見。則知幽顯叶贊。萬彚<note place="inline">音謂</note>所以<g ref="#CB05418">䖍</g>誠。
+<lb ed="X" n="0449a23"/><lb ed="R149" n="0075a17"/>釋梵護持。百神由其侍衛。今者取其靈驗。尤著異跡。
+<lb ed="X" n="0449a24"/><lb ed="R149" n="0075a18"/>尅彰經典之所傳。耳目之所接。集成三卷。分為六篇。
+<pb ed="X" xml:id="X87.1629.0449b" n="0449b"/>
+<lb ed="X" n="0449b01"/><lb ed="R149" n="0075b01"/>其有見賢而思齊。聞義而勇猛。如磨玉之子。守劒之
+<lb ed="X" n="0449b02"/><lb ed="R149" n="0075b02"/>賓。如周處之遇士衡。長清三橫。仲由之逢宣父。即列
+<lb ed="X" n="0449b03"/><lb ed="R149" n="0075b03"/>四科。仁遠乎哉。欲之而至。雖不足發揮聖教。光闡大
+<lb ed="X" n="0449b04"/><lb ed="R149" n="0075b04"/>乘。庶貽諸子孫。以勵同志。于時大唐開元六年。歲次
+<lb ed="X" n="0449b05"/><lb ed="R149" n="0075b05"/>戊午。奧四月乙丑。朔八日壬申撰畢。</p></cb:div>
+<lb ed="X" n="0449b06"/><lb ed="R149" n="0075b06"/><cb:div type="other"><cb:mulu type="其他" level="1">救護篇第一(并序十九章)　延壽篇第二(并序十二章)</cb:mulu><head>救護篇第一<note place="inline">并序十九章</note>　延壽篇第二<note place="inline">并序十二章</note></head>
+<lb ed="X" n="0449b07"/><lb ed="R149" n="0075b07"/><cb:div type="other"><cb:mulu type="其他" level="2">救護篇第一(并序十九章)</cb:mulu><head>救護篇第一<note place="inline">并序十九章</note></head>
+<lb ed="X" n="0449b08"/><lb ed="R149" n="0075b08"/><p xml:id="pX87p0449b0801">昔者魯連談笑而秦軍自却。干木偃息而魏主獲安。
+<lb ed="X" n="0449b09"/><lb ed="R149" n="0075b09"/>聞鄭玄之名。群兇不入。憚太公之化。神女銜悲。況乎
+<lb ed="X" n="0449b10"/><lb ed="R149" n="0075b10"/>象帝之先。法王之母。三明八正。待思而成。九惱六纏。
+<lb ed="X" n="0449b11"/><lb ed="R149" n="0075b11"/>因之而滅。無名無相。則萬德俱圓。無取無行。則眾功
+<lb ed="X" n="0449b12"/><lb ed="R149" n="0075b12"/>咸備。若持若誦。護國護身。投烈火而不然。溺層波而
+<lb ed="X" n="0449b13"/><lb ed="R149" n="0075b13"/>詎沒。般若之力。其大矣哉。故以救護之篇。冠於章首。
+<lb ed="X" n="0449b14"/><lb ed="R149" n="0075b14"/>蕭瑀<note place="inline">音雨</note>金剛般若經靈驗記曰。邢州治中柳儉。隋末
+<lb ed="X" n="0449b15"/><lb ed="R149" n="0075b15"/>任扶風岐陽官監。初為李密<anchor xml:id="nkr_note_orig_0449007" n="0449007"/>王事。橫被牽引。在大理
+<lb ed="X" n="0449b16"/><lb ed="R149" n="0075b16"/>禁。常誦金剛般若。猶有兩紙來未遍。忽然睡。夢見一
+<lb ed="X" n="0449b17"/><lb ed="R149" n="0075b17"/>婆羅門僧語儉云。檀越早誦經遍。即應得出。儉即驚
+<lb ed="X" n="0449b18"/><lb ed="R149" n="0075b18"/>覺。<note place="inline">音教</note>晝夜勤誦。不敢懈息。更經兩日。至日午時。忽然
+<lb ed="X" n="0449b19"/><lb ed="R149" n="0076a01"/>有勑放赦。追向朝堂。遂蒙釋放。儉後一時家中夜在
+<lb ed="X" n="0449b20"/><lb ed="R149" n="0076a02"/>房外誦般若經。三更忽聞奇異香氣。儉起尋香。周無
+<lb ed="X" n="0449b21"/><lb ed="R149" n="0076a03"/>燒處。以此證驗是誦般若功德之力也。爾來倍更恭
+<lb ed="X" n="0449b22"/><lb ed="R149" n="0076a04"/>敬。晝夜精勤。不敢懈怠。專心誦持。<anchor xml:id="beg_1" type="cb-app"/>已<anchor xml:id="end_1"/>得五千餘篇。至
+<lb ed="X" n="0449b23"/><lb ed="R149" n="0076a05"/>今不闕。</p>
+<lb ed="X" n="0449b24"/><lb ed="R149" n="0076a06"/><p xml:id="pX87p0449b2401"><anchor xml:id="nkr_note_orig_0449008A" n="0449008A"/><anchor xml:id="nkr_note_mod_0449008A" n="0449008A"/>郎餘令冥報拾遺曰。京兆杜之<anchor xml:id="nkr_note_orig_0449008B" n="0449008B"/><anchor xml:id="nkr_note_mod_0449008B" n="0449008B"/>亮。元明<anchor xml:id="nkr_note_orig_0449009" n="0449009"/>隨仁壽中為
+<pb ed="X" xml:id="X87.1629.0449c" n="0449c"/>
+<lb ed="X" n="0449c01"/><lb ed="R149" n="0076a07"/>漢王諒府參軍事。諒於并州舉兵反。諒敗之後。之<anchor xml:id="nkr_note_orig_0449008C" n="0449008C"/><anchor xml:id="nkr_note_mod_0449008C" n="0449008C"/>亮
+<lb ed="X" n="0449c02"/><lb ed="R149" n="0076a08"/>與僚屬等皆繫獄。惶懼母氏為憂。日夜悲泣。忽於夢
+<lb ed="X" n="0449c03"/><lb ed="R149" n="0076a09"/>中見一沙門。曰。但能誦金剛般若經。可度此厄。及曉
+<lb ed="X" n="0449c04"/><lb ed="R149" n="0076a10"/>便求此經誦之。寢食之餘。未曾蹔輟。無幾。主司引囚
+<lb ed="X" n="0449c05"/><lb ed="R149" n="0076a11"/>伏法。之<anchor xml:id="nkr_note_orig_0449008D" n="0449008D"/><anchor xml:id="nkr_note_mod_0449008D" n="0449008D"/>亮身預其中。唱名咸死。唱訖。之<anchor xml:id="nkr_note_orig_0449008E" n="0449008E"/><anchor xml:id="nkr_note_mod_0449008E" n="0449008E"/>亮輙漏無名。
+<lb ed="X" n="0449c06"/><lb ed="R149" n="0076a12"/>如此者三。主與屬皆被鞭撻。俄而會赦<note place="inline">音舍</note>免。明慶中
+<lb ed="X" n="0449c07"/><lb ed="R149" n="0076a13"/>卒於黃州<note place="inline">餘令與之亮鄉親。先<anchor xml:id="nkr_note_orig_0449010" n="0449010"/>〔所〕知委<anchor xml:id="nkr_note_orig_0449011" n="0449011"/>〔也〕</note>。</p>
+<lb ed="X" n="0449c08"/><lb ed="R149" n="0076a14"/><p xml:id="pX87p0449c0801">宗正卿竇<note place="inline">音豆</note>彈<note place="inline">正上也</note>德玄。麟<note place="inline">音隣</note>德元年中。被使揚州
+<lb ed="X" n="0449c09"/><lb ed="R149" n="0076a15"/><anchor xml:id="nkr_note_orig_0449012" n="0449012"/>按察。渡於淮水。船<anchor xml:id="beg_2" type="cb-app"/>已<anchor xml:id="end_2"/>去岸數十步。見岸上有一人。手
+<lb ed="X" n="0449c10"/><lb ed="R149" n="0076a16"/>賷小幞。形容慘悴。日復將暮。更無餘船。德玄慜之。令
+<lb ed="X" n="0449c11"/><lb ed="R149" n="0076a17"/>船却就岸。喚此人上船同渡。至中流。玄食次。並與之
+<lb ed="X" n="0449c12"/><lb ed="R149" n="0076a18"/>食。<anchor xml:id="nkr_note_orig_0449013" n="0449013"/>及至渡訖。其人不離馬後。行可數里。玄問云。汝是
+<lb ed="X" n="0449c13"/><lb ed="R149" n="0076b01"/>何人。答云。是鬼王。令於揚州追竇大使。玄云。竇大使
+<lb ed="X" n="0449c14"/><lb ed="R149" n="0076b02"/>名何。答云。名德玄。玄即求守鬼。作何方便得免。鬼<anchor xml:id="nkr_note_orig_0449014" n="0449014"/>去
+<lb ed="X" n="0449c15"/><lb ed="R149" n="0076b03"/><anchor xml:id="nkr_note_orig_0449015" n="0449015"/>甚。媿公賜食。為公先去。公但誦金剛般若經一千遍。
+<lb ed="X" n="0449c16"/><lb ed="R149" n="0076b04"/>即來相報。玄至揚州。經一月餘。日誦經數足。其鬼即
+<lb ed="X" n="0449c17"/><lb ed="R149" n="0076b05"/>來。云。公誦經數<anchor xml:id="beg_3" type="cb-app"/>已<anchor xml:id="end_3"/>足。大好。終須相隨見王。於是公却
+<lb ed="X" n="0449c18"/><lb ed="R149" n="0076b06"/>入房。因便悶絕。經一宿<anchor xml:id="nkr_note_orig_0449016" n="0449016"/>始覺。初與鬼相隨。至一所。高
+<pb ed="X" xml:id="X87.1629.0450a" n="0450a"/>
+<lb ed="X" n="0450a01"/><lb ed="R149" n="0076b07"/>門列戟。如大州門。鬼曰。請公且住此。某當先報王。鬼
+<lb ed="X" n="0450a02"/><lb ed="R149" n="0076b08"/>即先入。玄於屏障。遙聽聞王語鬼云。你為他作計。遂
+<lb ed="X" n="0450a03"/><lb ed="R149" n="0076b09"/>笞<note place="inline">音癡</note>鬼三十。鬼即出來。袒而示之云。為公喫杖。便引
+<lb ed="X" n="0450a04"/><lb ed="R149" n="0076b10"/>玄入。見一著紫人。下階相揖曰。公有大功德。尚未合
+<lb ed="X" n="0450a05"/><lb ed="R149" n="0076b11"/>來。請<anchor xml:id="nkr_note_orig_0450001" n="0450001"/>公即還。出門落坑。便覺其鬼復來。見玄索食及
+<lb ed="X" n="0450a06"/><lb ed="R149" n="0076b12"/>紙錢。玄即與食及紙錢。鬼云。公猶有傍厄。須遣道士
+<lb ed="X" n="0450a07"/><lb ed="R149" n="0076b13"/>上章。其正報誦經<anchor xml:id="beg_4" type="cb-app"/>已<anchor xml:id="end_4"/>銷訖。<anchor xml:id="nkr_note_orig_0450002" n="0450002"/>侍上章了。還來報公。玄即
+<lb ed="X" n="0450a08"/><lb ed="R149" n="0076b14"/>請道士上章。鬼即來云。上章不達。為有錯字。又更上
+<lb ed="X" n="0450a09"/><lb ed="R149" n="0076b15"/>章。鬼又云。還錯一字。玄即自勘之。果並錯字。即更令
+<lb ed="X" n="0450a10"/><lb ed="R149" n="0076b16"/>上章。鬼云。此迴達訖。更無厄難。德玄問鬼以官祿年
+<lb ed="X" n="0450a11"/><lb ed="R149" n="0076b17"/>命之事。鬼云。公從宗正卿。次任殿中監。次任大司憲。
+<lb ed="X" n="0450a12"/><lb ed="R149" n="0076b18"/>次任太子端尹。次任司元太常伯。次任左相。年六十
+<lb ed="X" n="0450a13"/><lb ed="R149" n="0077a01"/>四。鬼便不見。後所歷官。果如鬼言。當時道士集記此
+<lb ed="X" n="0450a14"/><lb ed="R149" n="0077a02"/>事。號為竇大使上章錄云。玄亦奏知。奉勑告群臣。各
+<lb ed="X" n="0450a15"/><lb ed="R149" n="0077a03"/>令誦金剛般若經<note place="inline">德玄曾孫提於梓州過。<anchor xml:id="nkr_note_orig_0450003" n="0450003"/>〔具說〕錄之</note>。</p>
+<lb ed="X" n="0450a16"/><lb ed="R149" n="0077a04"/><p xml:id="pX87p0450a1601">廣平<anchor xml:id="nkr_note_orig_0450004" n="0450004"/>游珣。貞既久視年中任桂府戶曹參軍事。有一
+<lb ed="X" n="0450a17"/><lb ed="R149" n="0077a05"/>女。患瘦病<anchor xml:id="beg_5" type="cb-app"/>已<anchor xml:id="end_5"/>經數年。珣考滿歸至洪州。女病漸困。珣
+<lb ed="X" n="0450a18"/><lb ed="R149" n="0077a06"/>與妻<anchor xml:id="nkr_note_orig_0450005" n="0450005"/>宋氏謀云。既是惡病。恐後相染。必若不救。弃之
+<lb ed="X" n="0450a19"/><lb ed="R149" n="0077a07"/>水中。俗云利後。遂即轝出<anchor xml:id="nkr_note_orig_0450006" n="0450006"/>此女。女云。某乙生年讀金
+<lb ed="X" n="0450a20"/><lb ed="R149" n="0077a08"/>剛般若經。請於主人佛堂。暫讀一遍。<anchor xml:id="nkr_note_orig_0450007" n="0450007"/>冥目無恨。珣夫
+<lb ed="X" n="0450a21"/><lb ed="R149" n="0077a09"/>妻既聞此言。一時流泣。即於佛堂中。撿得此經。女既
+<lb ed="X" n="0450a22"/><lb ed="R149" n="0077a10"/>漸困。自不能視。口不能言。珣夫妻及主人等。為讀數
+<lb ed="X" n="0450a23"/><lb ed="R149" n="0077a11"/>遍。俄頃之間。女遂能開目。以手指經。意<anchor xml:id="nkr_note_orig_0450008" n="0450008"/>似索讀。及至
+<lb ed="X" n="0450a24"/><lb ed="R149" n="0077a12"/>授經。竟不能語。以眼觀經。以心誦之。須臾佛堂中光
+<pb ed="X" xml:id="X87.1629.0450b" n="0450b"/>
+<lb ed="X" n="0450b01"/><lb ed="R149" n="0077a13"/>明照外。經函裡亦有光出。眾人咸驚異之。女忽然頭
+<lb ed="X" n="0450b02"/><lb ed="R149" n="0077a14"/>面流汗。須臾遍身汗定。便即得睡。經一宿。所苦並除。
+<lb ed="X" n="0450b03"/><lb ed="R149" n="0077a15"/>不逾旬日。痊復如故。自後合家之內。咸<anchor xml:id="nkr_note_orig_0450009" n="0450009"/>誦此經<note place="inline">前定州安
+<lb ed="X" n="0450b04"/><lb ed="R149" n="0077a16"/>嘉縣主簿長孫楷親知。具說之</note>。</p>
+<lb ed="X" n="0450b05"/><lb ed="R149" n="0077a17"/><p xml:id="pX87p0450b0501">前嘉州平羗<note place="inline">苦良反</note>縣令王崇一。常<anchor xml:id="nkr_note_orig_0450010" n="0450010"/>誦金剛般若經。以
+<lb ed="X" n="0450b06"/><lb ed="R149" n="0077a18"/>永昌年中。緣親累被入理寺。斷以極法。臨欲被刑。禁
+<lb ed="X" n="0450b07"/><lb ed="R149" n="0077b01"/>在京大理寺。崇一常誦經不輟。又被婢真如。重於都
+<lb ed="X" n="0450b08"/><lb ed="R149" n="0077b02"/>下告反。奉勑差御史鄭思齊往京取崇一。令固身送
+<lb ed="X" n="0450b09"/><lb ed="R149" n="0077b03"/>都勘。當行至<anchor xml:id="beg_6" type="cb-app"/>陝<anchor xml:id="end_6"/>州東十餘里。忽逢一僧。當道而立。語
+<lb ed="X" n="0450b10"/><lb ed="R149" n="0077b04"/>崇一云。請蹔下馬。禮拜四方。御史不許。僧口云。何惜
+<lb ed="X" n="0450b11"/><lb ed="R149" n="0077b05"/>縱其下馬。禮拜四方。御史即縱下馬。依禮四方訖。即
+<lb ed="X" n="0450b12"/><lb ed="R149" n="0077b06"/>不見此僧。御史懼然。怪其靈異。又行至洛州界。夜臥
+<lb ed="X" n="0450b13"/><lb ed="R149" n="0077b07"/>驛廳上。忽聞人語聲。報王崇一。真如所告。此是延命
+<lb ed="X" n="0450b14"/><lb ed="R149" n="0077b08"/>大吉。御史亦同聞之。其事御史將為妖恠。至洛州。具
+<lb ed="X" n="0450b15"/><lb ed="R149" n="0077b09"/>以此事奏聞。主上甚驚。即喚崇一親自勘問。卿在路。
+<lb ed="X" n="0450b16"/><lb ed="R149" n="0077b10"/>何因有此妖恠。崇一答云。臣實不知。遂却付法。令子
+<lb ed="X" n="0450b17"/><lb ed="R149" n="0077b11"/>細推勘。未逾旬日之間。遂逢大赦。免死。年八十七。終
+<lb ed="X" n="0450b18"/><lb ed="R149" n="0077b12"/>於平羗縣<anchor xml:id="nkr_note_orig_0450011" n="0450011"/>令<note place="inline">同前。定州安嘉縣主簿長孫楷所錄</note>。</p>
+<lb ed="X" n="0450b19"/><lb ed="R149" n="0077b13"/><p xml:id="pX87p0450b1901">前定州司戶任<anchor xml:id="nkr_note_orig_0450012" n="0450012"/>環。常誦金剛般若經。因使入洛。將一
+<lb ed="X" n="0450b20"/><lb ed="R149" n="0077b14"/>駄綾絹歸。在路夜行。忽逢群賊來劫。并殺一奴。仍持
+<lb ed="X" n="0450b21"/><lb ed="R149" n="0077b15"/>刀棒趂環。環既事急。即暎一樹而避。眾賊趂及亂斫
+<lb ed="X" n="0450b22"/><lb ed="R149" n="0077b16"/>任環。竟不著環。唯斫<anchor xml:id="nkr_note_orig_0450013" n="0450013"/>著樹。其賊曳將別處。怪而慍之。
+<lb ed="X" n="0450b23"/><lb ed="R149" n="0077b17"/>更斫數刀。棒<anchor xml:id="nkr_note_orig_0450014" n="0450014"/>打無數。一無傷損。遂即佯死。賊等將為
+<lb ed="X" n="0450b24"/><lb ed="R149" n="0077b18"/>實死。因即俱散。任環即起。徐行尋賊。其賊不越三四
+<pb ed="X" xml:id="X87.1629.0450c" n="0450c"/>
+<lb ed="X" n="0450c01"/><lb ed="R149" n="0078a01"/>里間。遂不得去。任環仍向草中潛隱。聞賊等相共語
+<lb ed="X" n="0450c02"/><lb ed="R149" n="0078a02"/>曰。此處由來無水。今忽四面水流。此乃天殃我輩。有
+<lb ed="X" n="0450c03"/><lb ed="R149" n="0078a03"/>一賊云。向者煞錢主時。空中聞人語聲。莫殺錢主。此
+<lb ed="X" n="0450c04"/><lb ed="R149" n="0078a04"/>人常誦金剛般若。大是善人。眾賊一時同驚。咸曰俱
+<lb ed="X" n="0450c05"/><lb ed="R149" n="0078a05"/>聞此語。並舉手彈指。嗟歎久之。須臾天即漸明。其賊
+<lb ed="X" n="0450c06"/><lb ed="R149" n="0078a06"/>並不得去。尋被州縣括撿擒捕。任環尋亦却得本物
+<lb ed="X" n="0450c07"/><lb ed="R149" n="0078a07"/><note place="inline">同前。<anchor xml:id="beg_7" type="cb-app"/>定<anchor xml:id="end_7"/>州安嘉縣主簿長孫楷所錄</note>。</p>
+<lb ed="X" n="0450c08"/><lb ed="R149" n="0078a08"/><p xml:id="pX87p0450c0801">王昌言者。京兆萬年縣人也。去久視元年。於表兄楊
+<lb ed="X" n="0450c09"/><lb ed="R149" n="0078a09"/>希言崇仁<anchor xml:id="nkr_note_orig_0450015" n="0450015"/>坊中撿校質庫。因遂患瘻。繞項欲帀。併至
+<lb ed="X" n="0450c10"/><lb ed="R149" n="0078a10"/>胸前。疼痛呻吟。不能撿校。遂即發心誦金剛般若。自
+<lb ed="X" n="0450c11"/><lb ed="R149" n="0078a11"/>誦之後。無時暫輟。其瘡苦痛不復可言。夜臥之間。忽
+<lb ed="X" n="0450c12"/><lb ed="R149" n="0078a12"/>見一僧。以錫杖為捺。口云。為汝持經之故。與汝療之。
+<lb ed="X" n="0450c13"/><lb ed="R149" n="0078a13"/>因而遂驚。不覺大<anchor xml:id="nkr_note_orig_0450016" n="0450016"/>叫。堂內人數箇。即起同看。所患之
+<lb ed="X" n="0450c14"/><lb ed="R149" n="0078a14"/>瘡。咸有<anchor xml:id="nkr_note_orig_0450017" n="0450017"/>汁出。如小豆汁一升<anchor xml:id="beg_8" type="cb-app"/>已<anchor xml:id="end_8"/>上。因茲一度。瘻<note place="inline">音漏</note>即
+<lb ed="X" n="0450c15"/><lb ed="R149" n="0078a15"/><anchor xml:id="nkr_note_orig_0450018" n="0450018"/>疼除。其後專心受持。常誦不絕。年六十九。長安元年
+<lb ed="X" n="0450c16"/><lb ed="R149" n="0078a16"/>壽終<note place="inline">表兄楊希言所說</note>。</p>
+<lb ed="X" n="0450c17"/><lb ed="R149" n="0078a17"/><p xml:id="pX87p0450c1701">亳<note place="inline">蒲愽反</note>州譙<note place="inline">音樵</note>縣令王令望。每自說八歲能誦金剛
+<lb ed="X" n="0450c18"/><lb ed="R149" n="0078a18"/>般若。常受持不闕。初。弱冠時。遊劒南邛<note place="inline">其恭反</note>州臨溪
+<lb ed="X" n="0450c19"/><lb ed="R149" n="0078b01"/><note place="inline">苦□反</note>縣。過山路峻嶮。忽遇猛獸。令望惶懼。計無所出。
+<lb ed="X" n="0450c20"/><lb ed="R149" n="0078b02"/>即誦般若經。虎遂不前。東西跳<note place="inline">廳了反</note>躑。誦至二三遍。
+<lb ed="X" n="0450c21"/><lb ed="R149" n="0078b03"/>遂曳尾而走。流涎數升。又任安州判佐。送租至楊子
+<lb ed="X" n="0450c22"/><lb ed="R149" n="0078b04"/>津。屬風浪暴起。時租船有五百餘艘。橫江沈浮。遲明
+<lb ed="X" n="0450c23"/><lb ed="R149" n="0078b05"/>諸船多皆被沒。唯令望誦金剛般若不輟。若有神助。
+<lb ed="X" n="0450c24"/><lb ed="R149" n="0078b06"/>賴此獨全<note place="inline">司勳郎中王潛所說</note>。</p>
+<pb ed="X" xml:id="X87.1629.0451a" n="0451a"/>
+<lb ed="X" n="0451a01"/><lb ed="R149" n="0078b07"/><p xml:id="pX87p0451a0101">芳州司馬崔文簡。常誦金剛般若經。屬吐蕃大下。被
+<lb ed="X" n="0451a02"/><lb ed="R149" n="0078b08"/>捉將去。吐蕃鎖著。防護極嚴。其人精心誦持金剛般
+<lb ed="X" n="0451a03"/><lb ed="R149" n="0078b09"/>若經。遂經三日。其鎖無故忽然自開。捺著還開。吐蕃
+<lb ed="X" n="0451a04"/><lb ed="R149" n="0078b10"/>將為私擅開鎖。欲笞撻之。其人答云。鎖實自開。非簡
+<lb ed="X" n="0451a05"/><lb ed="R149" n="0078b11"/>所掣。<note place="inline">齒曳反</note>賊云。汝何法術。得鎖自開。報云。為持金剛
+<lb ed="X" n="0451a06"/><lb ed="R149" n="0078b12"/>般若經。應緣此致。吐蕃云。我今却鎖著汝。若誦經鎖
+<lb ed="X" n="0451a07"/><lb ed="R149" n="0078b13"/>開。我即放汝還國。若誦經不開。我即殺汝。吐蕃於傍。
+<lb ed="X" n="0451a08"/><lb ed="R149" n="0078b14"/>咸共看誦。誦仍未徹。鎖劃<note place="inline">華穫反</note>然開。吐蕃異之。竟如
+<lb ed="X" n="0451a09"/><lb ed="R149" n="0078b15"/>前言而放<note place="inline">洛州司倉張<anchor xml:id="nkr_note_orig_0451001" n="0451001"/>〔璲〕所說</note>。</p>
+<lb ed="X" n="0451a10"/><lb ed="R149" n="0078b16"/><p xml:id="pX87p0451a1001">河東裴宣禮。時為地官侍郎負既。久視年之初。正多
+<lb ed="X" n="0451a11"/><lb ed="R149" n="0078b17"/>大獄。所有推勘。多在新開。虗吏<anchor xml:id="nkr_note_orig_0451002" n="0451002"/>束索之徒。用法深刻。
+<lb ed="X" n="0451a12"/><lb ed="R149" n="0078b18"/>一經追問。五毒參并。所有用徒。十不全一。宣禮深心
+<lb ed="X" n="0451a13"/><lb ed="R149" n="0079a01"/>正信。少小誦持金剛般若經。每至心誦念。枷鎖斷壞。
+<lb ed="X" n="0451a14"/><lb ed="R149" n="0079a02"/>當時主吏<anchor xml:id="nkr_note_orig_0451003" n="0451003"/>侯鞠。<note place="inline">音掬</note>逾嚴不信其言。以為擅脫枷鎖具。
+<lb ed="X" n="0451a15"/><lb ed="R149" n="0079a03"/>以此狀諮白判官。勵以威稜。對令其誦。誦至半卷。索
+<lb ed="X" n="0451a16"/><lb ed="R149" n="0079a04"/>然解散。因此神驗。遂得清雪<note place="inline">梓州<anchor xml:id="beg_9" type="cb-app"/>刺<anchor xml:id="end_9"/>史韋慎名所說</note>。</p>
+<lb ed="X" n="0451a17"/><lb ed="R149" n="0079a05"/><p xml:id="pX87p0451a1701">京兆<anchor xml:id="nkr_note_orig_0451004" n="0451004"/>韋利克勤。常念誦金剛般若經。因征遼東。遂沒
+<lb ed="X" n="0451a18"/><lb ed="R149" n="0079a06"/>高麗。數年之後。逢官軍度遼伐罪。乘夜欲投官軍。出
+<lb ed="X" n="0451a19"/><lb ed="R149" n="0079a07"/>城之外。並是高麗村落。正逢月暗。<anchor xml:id="nkr_note_orig_0451005" n="0451005"/>行之莫知所出。遂
+<lb ed="X" n="0451a20"/><lb ed="R149" n="0079a08"/>見一明如燈。引之而去。不逾少選。遂至官軍營幕。克
+<lb ed="X" n="0451a21"/><lb ed="R149" n="0079a09"/>勤仕<anchor xml:id="nkr_note_orig_0451006" n="0451006"/>至中郎。遍向親知說此徵驗。嗟歎般若之力不
+<lb ed="X" n="0451a22"/><lb ed="R149" n="0079a10"/>思議<note place="inline">梓州<anchor xml:id="beg_a" type="cb-app"/>刺<anchor xml:id="end_a"/>史韋慎名所說</note>。</p>
+<lb ed="X" n="0451a23"/><lb ed="R149" n="0079a11"/><p xml:id="pX87p0451a2301">梓州郪<note place="inline">音妻</note>縣人唐晏。受持金剛般若波羅蜜經。一從
+<lb ed="X" n="0451a24"/><lb ed="R149" n="0079a12"/>念誦<anchor xml:id="beg_b" type="cb-app"/>已<anchor xml:id="end_b"/>來。未曾空過。以長安元年。逃寄住<anchor xml:id="nkr_note_orig_0451007" n="0451007"/>普州安岳
+<pb ed="X" xml:id="X87.1629.0451b" n="0451b"/>
+<lb ed="X" n="0451b01"/><lb ed="R149" n="0079a13"/>縣。經十二年。與彼土豪人姚詮等數十家交好。至開
+<lb ed="X" n="0451b02"/><lb ed="R149" n="0079a14"/>元二年。逢前郪縣令竇界慎男湜<note place="inline">音寔</note>。緣祖懷貞之累。
+<lb ed="X" n="0451b03"/><lb ed="R149" n="0079a15"/>從閬州左降為普州員外參軍。與<anchor xml:id="beg_c" type="cb-app"/>刺<anchor xml:id="end_c"/>史崔從俗親。遂
+<lb ed="X" n="0451b04"/><lb ed="R149" n="0079a16"/>差湜攝安岳縣令。晏以湜昔日本部郎君參議之後。
+<lb ed="X" n="0451b05"/><lb ed="R149" n="0079a17"/>便<anchor xml:id="nkr_note_orig_0451008" n="0451008"/>同疇昔為湜設計。糺察豪人客戶。因此起恨。至開
+<lb ed="X" n="0451b06"/><lb ed="R149" n="0079a18"/>元<anchor xml:id="nkr_note_orig_0451009" n="0451009"/>三年。雅州<anchor xml:id="beg_d" type="cb-app"/>刺<anchor xml:id="end_d"/>史劉朏<note place="inline">普沒反</note>。左降為普州刺史。遂受
+<lb ed="X" n="0451b07"/><lb ed="R149" n="0079b01"/>豪人等言。以晏浮逃生文。陰擬躓<note place="inline">音致</note>頓。晏夜夜常夢
+<lb ed="X" n="0451b08"/><lb ed="R149" n="0079b02"/>見一道人。再三云。何不歸去。<anchor xml:id="nkr_note_orig_0451010" n="0451010"/>何不歸去。不知豪人潛
+<lb ed="X" n="0451b09"/><lb ed="R149" n="0079b03"/>欲致害。賴得縣錄事廳仁<anchor xml:id="nkr_note_orig_0451011" n="0451011"/>勗相報。晏遂走至遂州方
+<lb ed="X" n="0451b10"/><lb ed="R149" n="0079b04"/>義縣王孝古<anchor xml:id="nkr_note_orig_0451012A" n="0451012A"/><anchor xml:id="nkr_note_mod_0451012A" n="0451012A"/>庄。潛伏其<anchor xml:id="nkr_note_orig_0451012B" n="0451012B"/><anchor xml:id="nkr_note_mod_0451012B" n="0451012B"/>庄。去普州八十餘里。以十二
+<lb ed="X" n="0451b11"/><lb ed="R149" n="0079b05"/>月二十三日。劉<anchor xml:id="beg_e" type="cb-app"/>刺<anchor xml:id="end_e"/>史差司法王泯。領手力十人。來至
+<lb ed="X" n="0451b12"/><lb ed="R149" n="0079b06"/>孝古庄捉晏。其庄後唯有一大竹林。東西南北並是
+<lb ed="X" n="0451b13"/><lb ed="R149" n="0079b07"/>熟地。更無茅草。晏既惶急。走竄竹林。却倚一樹。唯念
+<lb ed="X" n="0451b14"/><lb ed="R149" n="0079b08"/>誦金剛般若經。聲聲不輟。其手力十人。交橫於竹林
+<lb ed="X" n="0451b15"/><lb ed="R149" n="0079b09"/>內。樹前樹後。來去覔晏。至竟不見。便即却迴。晏即走
+<lb ed="X" n="0451b16"/><lb ed="R149" n="0079b10"/>至遂州市內張希閏家停止。又以開元四年正月。劉
+<lb ed="X" n="0451b17"/><lb ed="R149" n="0079b11"/><anchor xml:id="beg_f" type="cb-app"/>刺<anchor xml:id="end_f"/>史又差普康縣錄事張<anchor xml:id="nkr_note_orig_0451013" n="0451013"/>瓘。將書屬長史<anchor xml:id="nkr_note_orig_0451014" n="0451014"/>韋伯良捉
+<lb ed="X" n="0451b18"/><lb ed="R149" n="0079b12"/>晏。又逢主人張希閏作佐史。歸報晏云。今日有普康
+<lb ed="X" n="0451b19"/><lb ed="R149" n="0079b13"/>縣錄事張瓘。把劉<anchor xml:id="beg_10" type="cb-app"/>刺<anchor xml:id="end_10"/>史書與長史。不知何事。晏聞此
+<lb ed="X" n="0451b20"/><lb ed="R149" n="0079b14"/>語。葢復驚惶。當夜夢見一大蟲。欲來食晏。忽驚起坐。
+<lb ed="X" n="0451b21"/><lb ed="R149" n="0079b15"/>見床頭壁角。有<anchor xml:id="nkr_note_orig_0451015" n="0451015"/>一神王立地。晏於床上再<anchor xml:id="nkr_note_orig_0451016" n="0451016"/>視。須臾散
+<lb ed="X" n="0451b22"/><lb ed="R149" n="0079b16"/>滅。其夜三更便走。正月七日至通泉縣。停止十日。果
+<lb ed="X" n="0451b23"/><lb ed="R149" n="0079b17"/>得主人張閏書報。昨七日平明。韋長史差不良人於
+<lb ed="X" n="0451b24"/><lb ed="R149" n="0079b18"/>閏家搜掩足下。幸知之也。千萬好去。遂到故里。得至
+<pb ed="X" xml:id="X87.1629.0451c" n="0451c"/>
+<lb ed="X" n="0451c01"/><lb ed="R149" n="0080a01"/>今日。皆是般若神力之所衛護。然晏有去處。前非便
+<lb ed="X" n="0451c02"/><lb ed="R149" n="0080a02"/>利。即見一蛇橫過。雖盛冬之月。亦屢<anchor xml:id="nkr_note_orig_0451017" n="0451017"/>是蛇。自誦經來。
+<lb ed="X" n="0451c03"/><lb ed="R149" n="0080a03"/>雖入疾病之家。不曾染病患<note place="inline">獻忠時任梓州司馬。親問其人</note>。</p>
+<lb ed="X" n="0451c04"/><lb ed="R149" n="0080a04"/><p xml:id="pX87p0451c0401">絳州正平縣人郭守瓊。時任鴻臚掌客。因歸貫去家
+<lb ed="X" n="0451c05"/><lb ed="R149" n="0080a05"/>數十里作客。日遂將衣。方始言歸。時屬天陰。兼以微
+<lb ed="X" n="0451c06"/><lb ed="R149" n="0080a06"/>雨。舊云此路左側。既多墳墓。乘前鬼火。迷惑行人。或
+<lb ed="X" n="0451c07"/><lb ed="R149" n="0080a07"/>於冢間。或墮坑壍。因遂亡失魂魄。時月而終。守瓊兢
+<lb ed="X" n="0451c08"/><lb ed="R149" n="0080a08"/>惶。計無所出。初見鬼火。數十里間。或十炬或二十炬。
+<lb ed="X" n="0451c09"/><lb ed="R149" n="0080a09"/>倐忽而至。唯騎一馬。更不將人。舊誦般若多心經。遂
+<lb ed="X" n="0451c10"/><lb ed="R149" n="0080a10"/>即抗聲而誦。其火迸散。極望眇然。既見火遙。遂少停
+<lb ed="X" n="0451c11"/><lb ed="R149" n="0080a11"/>誦。不逾少選。鬼火還集。依前更誦。火即漸遠。則知般
+<lb ed="X" n="0451c12"/><lb ed="R149" n="0080a12"/>若之力。通於幽明<note place="inline">郭瓊于時同作營田判官郭瓊自說</note>。</p>
+<lb ed="X" n="0451c13"/><lb ed="R149" n="0080a13"/><p xml:id="pX87p0451c1301">梓州玄武縣福會寺僧釋神晏。俗姓劉<note place="inline">音流</note>氏。去萬歲
+<lb ed="X" n="0451c14"/><lb ed="R149" n="0080a14"/>通天元年。被鄉人馮知悌橫告於房中停止劫賊盧
+<lb ed="X" n="0451c15"/><lb ed="R149" n="0080a15"/>金柱等。遂走於瀘州逃避。因<anchor xml:id="nkr_note_orig_0451018" n="0451018"/>逢資州大雲寺陳行貞。
+<lb ed="X" n="0451c16"/><lb ed="R149" n="0080a16"/>瀘州講說知光火賊。使此州司馬張涉牒資州追行
+<lb ed="X" n="0451c17"/><lb ed="R149" n="0080a17"/>貞。資州差首<anchor xml:id="nkr_note_orig_0451019" n="0451019"/>望張蘭往瀘州掩捉。便於瀘州縣禁。神
+<lb ed="X" n="0451c18"/><lb ed="R149" n="0080a18"/>晏舊誦得金剛般若經。晝夜勤誦。四十餘日。至五月
+<pb ed="X" xml:id="X87.1629.0452a" n="0452a"/>
+<lb ed="X" n="0452a01"/><lb ed="R149" n="0080b01"/>二十七日。獄中夜明。有同於晝。囚徒驚駭。將謂火來。
+<lb ed="X" n="0452a02"/><lb ed="R149" n="0080b02"/>其門著枷釘鍱<g ref="#CB15090">󳫲</g><note place="inline">補劾反</note>裂。如用斧鑿之。聲應時斷壞。
+<lb ed="X" n="0452a03"/><lb ed="R149" n="0080b03"/>其杻元無開處。自然脫落。其擊柱鎖。亦為數段<anchor xml:id="nkr_note_orig_0452001" n="0452001"/>段。瀘
+<lb ed="X" n="0452a04"/><lb ed="R149" n="0080b04"/>州縣丞車詢瞋。獄典□更喚<g ref="#CB05033">䥫</g>匠木匠。別作枷杻牢。
+<lb ed="X" n="0452a05"/><lb ed="R149" n="0080b05"/>而及至天明。遣典瀘望更主細奴藺<note place="inline">音恡</note>老等各打三
+<lb ed="X" n="0452a06"/><lb ed="R149" n="0080b06"/>十反。又窄<note place="inline">音責</note>釘鍱彌壯。神晏憂懼。至心誦經。未至亥
+<lb ed="X" n="0452a07"/><lb ed="R149" n="0080b07"/>時。依前斷壞。車詢迴心敬信。倍加頂禮。日<anchor xml:id="nkr_note_orig_0452002" n="0452002"/>餉送齊食。
+<lb ed="X" n="0452a08"/><lb ed="R149" n="0080b08"/>悔<anchor xml:id="nkr_note_orig_0452003" n="0452003"/>遇慇懃。合州共聞。競送飲食。及送還此。使司斷移
+<lb ed="X" n="0452a09"/><lb ed="R149" n="0080b09"/>卿勝州。仍被法服。配勝州寶幢寺。神晏喜此神驗。念
+<lb ed="X" n="0452a10"/><lb ed="R149" n="0080b10"/>誦不輟。逢神龍元年二月十五日。制放迴本州。至此
+<lb ed="X" n="0452a11"/><lb ed="R149" n="0080b11"/>還俗<note place="inline">獻忠親自追問。具說源流。神晏當時始年三十八也</note>。</p>
+<lb ed="X" n="0452a12"/><lb ed="R149" n="0080b12"/><p xml:id="pX87p0452a1201">博陵崔善沖者。先天初載時任梓州銅山縣丞。常受
+<lb ed="X" n="0452a13"/><lb ed="R149" n="0080b13"/>持金剛般若經。當時姚雋<note place="inline">音邃</note>州蠻部落有反叛者。監
+<lb ed="X" n="0452a14"/><lb ed="R149" n="0080b14"/>軍御史李知古以善沖為判官。既在軍營。住雋州界。
+<lb ed="X" n="0452a15"/><lb ed="R149" n="0080b15"/>知古志圖功効。遂招慰諸蠻首<anchor xml:id="beg_11" type="cb-app"/>領<anchor xml:id="end_11"/>。降而殺之。蠻落因
+<lb ed="X" n="0452a16"/><lb ed="R149" n="0080b16"/>茲遂皆反叛。報其讎<note place="inline">音酬</note>怨。共殺知古。善沖當即奔竄。
+<lb ed="X" n="0452a17"/><lb ed="R149" n="0080b17"/><note place="inline">麤亂反</note>罔知所之。與二十餘人結伴同走。奔馳迷之。<anchor xml:id="beg_12" type="cb-app"/>已<anchor xml:id="end_12"/>
+<lb ed="X" n="0452a18"/><lb ed="R149" n="0080b18"/>經日夜。不知途路。遙見一火。准度近遠可十里餘。將
+<lb ed="X" n="0452a19"/><lb ed="R149" n="0081a01"/>有人家。擬投作食。迄至于曉。猶趂不及。乃至昆明縣
+<lb ed="X" n="0452a20"/><lb ed="R149" n="0081a02"/>路投得縣城。盇是神力護持。潛加引導。濟以厄急。實
+<lb ed="X" n="0452a21"/><lb ed="R149" n="0081a03"/>冥助焉<note place="inline">獻忠任梓州司馬崔善沖親說</note>。</p>
+<lb ed="X" n="0452a22"/><lb ed="R149" n="0081a04"/><p xml:id="pX87p0452a2201">邛<note place="inline">局龍反</note>州安仁縣令尚行琮。常誦金剛般若。因事左
+<lb ed="X" n="0452a23"/><lb ed="R149" n="0081a05"/>授翼水縣丞<anchor xml:id="nkr_note_orig_0452004" n="0452004"/>赴任。至<anchor xml:id="nkr_note_orig_0452005" n="0452005"/>義州界。山路嶮峻。閣道<anchor xml:id="nkr_note_orig_0452006" n="0452006"/>危縣。乘
+<lb ed="X" n="0452a24"/><lb ed="R149" n="0081a06"/>夜而行。忽墜於閣。在半<anchor xml:id="nkr_note_orig_0452007" n="0452007"/>崕上<anchor xml:id="nkr_note_orig_0452008" n="0452008"/>乘落騎一樹枝。猶疑是
+<pb ed="X" xml:id="X87.1629.0452b" n="0452b"/>
+<lb ed="X" n="0452b01"/><lb ed="R149" n="0081a07"/>馬。遂不知覺。須臾之間。家人叫聲。方知墜閣。口誦金
+<lb ed="X" n="0452b02"/><lb ed="R149" n="0081a08"/>剛般若。尚不輟聲。覺後狀如在夢。一無所損<note place="inline">邛州司戶胡延
+<lb ed="X" n="0452b03"/><lb ed="R149" n="0081a09"/>祚所說也</note>。</p>
+<lb ed="X" n="0452b04"/><lb ed="R149" n="0081a10"/><p xml:id="pX87p0452b0401">前陵州仁壽縣尉陳惠妻王氏者。京兆人也。初王氏
+<lb ed="X" n="0452b05"/><lb ed="R149" n="0081a11"/>在家之時。為表兄褚敬。慇懃欲娶。其王氏父母不許
+<lb ed="X" n="0452b06"/><lb ed="R149" n="0081a12"/>共褚為婚。其褚敬每云。若不嫁與我為妻。作鬼終不
+<lb ed="X" n="0452b07"/><lb ed="R149" n="0081a13"/>相放。後嫁與陳惠。數載褚敬遂亡。其王氏隨夫在仁
+<lb ed="X" n="0452b08"/><lb ed="R149" n="0081a14"/>壽縣。每夜寐之後。夢敬即來相親。宛若平生。遂覺懷
+<lb ed="X" n="0452b09"/><lb ed="R149" n="0081a15"/>姙。經十七箇月。身漸重而不產。不知為計。將作鬼胎。
+<lb ed="X" n="0452b10"/><lb ed="R149" n="0081a16"/>遂入佛堂。取得金剛般若。至心啟請。轉讀此經。每轉
+<lb ed="X" n="0452b11"/><lb ed="R149" n="0081a17"/>經時。精意發願。若是懷孕。願早平安。若是鬼胎。<anchor xml:id="nkr_note_orig_0452009" n="0452009"/>必早
+<lb ed="X" n="0452b12"/><lb ed="R149" n="0081a18"/>銷化。因念誦之力。漸覺身輕。所懷鬼胎。即自散滅。從
+<lb ed="X" n="0452b13"/><lb ed="R149" n="0081b01"/>此之後。轉更精<anchor xml:id="nkr_note_orig_0452010" n="0452010"/>懃。遂常受持。至今不絕<note place="inline">崇福寺僧釋惠遠者。其兄
+<lb ed="X" n="0452b14"/><lb ed="R149" n="0081b02"/>于翽。（呼來反）時任梓州司戶。因來至此。親所知見。故具錄焉</note>。</p>
+<lb ed="X" n="0452b15"/><lb ed="R149" n="0081b03"/><p xml:id="pX87p0452b1501">虢<note place="inline">孤獲反</note>州朱陽縣尉<anchor xml:id="nkr_note_orig_0452011" n="0452011"/>向仁悊。河內人也。去龍朔年中。
+<lb ed="X" n="0452b16"/><lb ed="R149" n="0081b04"/>從雲玄運米向遼東。至海中。路遇惡風。<anchor xml:id="nkr_note_orig_0452012" n="0452012"/>般破氛氳。黑
+<lb ed="X" n="0452b17"/><lb ed="R149" n="0081b05"/>暗不知東西。仁悊先誦得金剛般若經。晝夜至心。口
+<lb ed="X" n="0452b18"/><lb ed="R149" n="0081b06"/>誦不輟。略記可得三百餘遍。忽然似睡。即有一僧云。
+<lb ed="X" n="0452b19"/><lb ed="R149" n="0081b07"/>緣汝誦經。明日使汝等著岸。須臾即明。日影出水之
+<lb ed="X" n="0452b20"/><lb ed="R149" n="0081b08"/>上。遙見一枝有似馬鞭。誦經轉急。遂即到岸。同船六
+<lb ed="X" n="0452b21"/><lb ed="R149" n="0081b09"/>十餘人。一人不損。諸船漂沒略盡。豈非般若力乎<note place="inline">邢州
+<lb ed="X" n="0452b22"/><lb ed="R149" n="0081b10"/><anchor xml:id="nkr_note_orig_0452013" n="0452013"/>〔指〕仁縣令隻思敬所說</note>。</p>
+<lb ed="X" n="0452b23"/><lb ed="R149" n="0081b11"/><p xml:id="pX87p0452b2301">懷州武德縣令何澋。常誦金剛般若經。天授二年。因
+<lb ed="X" n="0452b24"/><lb ed="R149" n="0081b12"/>假入洛。八月還縣。驢馬九箇。總有<anchor xml:id="nkr_note_orig_0452014" n="0452014"/>十人。行至河陽。正
+<pb ed="X" xml:id="X87.1629.0452c" n="0452c"/>
+<lb ed="X" n="0452c01"/><lb ed="R149" n="0081b13"/>逢水漲橋斷。行旅來往之人。咸以船渡。時有邢<note place="inline">音形</note>州
+<lb ed="X" n="0452c02"/><lb ed="R149" n="0081b14"/>平鄉縣尉陳乾福。亦至水次。<anchor xml:id="nkr_note_orig_0452015A" n="0452015A"/><anchor xml:id="nkr_note_mod_0452015A" n="0452015A"/>相屬仲秋月<anchor xml:id="nkr_note_orig_0452015B" n="0452015B"/><anchor xml:id="nkr_note_mod_0452015B" n="0452015B"/>晦暮。番滿
+<lb ed="X" n="0452c03"/><lb ed="R149" n="0081b15"/>兵迴。人有歸心。崩騰爭上。何陳二子並亦上船。陳君
+<lb ed="X" n="0452c04"/><lb ed="R149" n="0081b16"/>懼船將重。却下衣物。何公鞍<anchor xml:id="nkr_note_orig_0452016" n="0452016"/>乘既多。因而<anchor xml:id="nkr_note_orig_0452017" n="0452017"/>遂過。不逾
+<lb ed="X" n="0452c05"/><lb ed="R149" n="0081b17"/>一二十步。船即沉沒。澋私心念。生<anchor xml:id="nkr_note_orig_0452018" n="0452018"/>來受持金剛般若。
+<lb ed="X" n="0452c06"/><lb ed="R149" n="0081b18"/>今日豈無徵乎。澋初上船。恐船搖動。遂以手把角<g ref="#CB00501">䭾</g>
+<lb ed="X" n="0452c07"/><lb ed="R149" n="0082a01"/>索。<note place="inline">蘇洛反</note>一從水沒。直下數。<anchor xml:id="nkr_note_orig_0452019" n="0452019"/>又澋時有姪。亦先在船。船
+<lb ed="X" n="0452c08"/><lb ed="R149" n="0082a02"/>覆水中。其姪得上船底。湍流既疾崩岸。又高岸腹<anchor xml:id="nkr_note_orig_0452020" n="0452020"/>縣
+<lb ed="X" n="0452c09"/><lb ed="R149" n="0082a03"/>蘆延蔓<note place="inline">音萬</note>于水。澋隨浪轉。攀得蘆根。欲去復留。逐波
+<lb ed="X" n="0452c10"/><lb ed="R149" n="0082a04"/>搖蕩。覆船泛直趣澋邊。其姪攀援<anchor xml:id="nkr_note_orig_0452021" n="0452021"/>引澋而上。水浸繩
+<lb ed="X" n="0452c11"/><lb ed="R149" n="0082a05"/>急。手入繩間。拔手既難。<g ref="#CB00501">䭾</g>亦隨出。自餘人馬。任水<g ref="#CB00403">㳂</g>
+<lb ed="X" n="0452c12"/><lb ed="R149" n="0082a06"/><note place="inline">音緣</note>洄。或遇淺逢。查殆無死者。番兵向餘八十。生者唯
+<lb ed="X" n="0452c13"/><lb ed="R149" n="0082a07"/>有一人。斯則般若良因。潛加拯護者矣<note place="inline">邢州平鄉縣尉陳乾福所
+<lb ed="X" n="0452c14"/><lb ed="R149" n="0082a08"/>說</note>。</p>
+<lb ed="X" n="0452c15"/><lb ed="R149" n="0082a09"/><p xml:id="pX87p0452c1501">贊曰。禪慧之門。菩提之路。無行無得。唯救唯護。三界
+<lb ed="X" n="0452c16"/><lb ed="R149" n="0082a10"/>歸依。四生開悟。一切苦厄。乘茲永度。</p></cb:div>
+<lb ed="X" n="0452c17"/><lb ed="R149" n="0082a11"/><cb:div type="other"><cb:mulu type="其他" level="2">延壽篇第二(并序十二章)</cb:mulu><head>延壽篇第二<note place="inline">并序十二章</note></head>
+<lb ed="X" n="0452c18"/><lb ed="R149" n="0082a12"/><p xml:id="pX87p0452c1801">夫積善餘慶。積惡餘殃。李耳年為。入重玄之境。彭鏗
+<pb ed="X" xml:id="X87.1629.0453a" n="0453a"/>
+<lb ed="X" n="0453a01"/><lb ed="R149" n="0082a13"/><note place="inline">苦耕反</note>久壽。還遊眾妙之門。況乎不去不來。固超於三
+<lb ed="X" n="0453a02"/><lb ed="R149" n="0082a14"/>際。不生不滅。豈計於千齡。<note place="inline">音靈</note>如能四偈受持。一念清
+<lb ed="X" n="0453a03"/><lb ed="R149" n="0082a15"/>信。積塵積劫。喻壽量而非多。無數無邊。等虗空而共
+<lb ed="X" n="0453a04"/><lb ed="R149" n="0082a16"/>永。集其休徵可驗者。列為延壽之篇。</p>
+<lb ed="X" n="0453a05"/><lb ed="R149" n="0082a17"/><p xml:id="pX87p0453a0501"><anchor xml:id="nkr_note_orig_0453001" n="0453001"/>唐臨冥報記曰。陳公大夫人豆盧氏。芮公寬之姉也。
+<lb ed="X" n="0453a06"/><lb ed="R149" n="0082a18"/>夫人信福。誦金剛般若經。未盡於卷一紙。許久而不
+<lb ed="X" n="0453a07"/><lb ed="R149" n="0082b01"/>徹。後日黃昏時。忽然頭痛。四體不安。夜臥逾甚。夫人
+<lb ed="X" n="0453a08"/><lb ed="R149" n="0082b02"/>自念儻死。遂不得經竟。欲起誦之。而堂燭<anchor xml:id="beg_13" type="cb-app"/>已<anchor xml:id="end_13"/>滅。夫人
+<lb ed="X" n="0453a09"/><lb ed="R149" n="0082b03"/>因起。命婢燃燭。須臾婢還。厨中無火。夫人命開門。家
+<lb ed="X" n="0453a10"/><lb ed="R149" n="0082b04"/>人坊取之。又無其火。夫人深益嘆恨。忽庭中有自然
+<lb ed="X" n="0453a11"/><lb ed="R149" n="0082b05"/>火燭。上<anchor xml:id="nkr_note_orig_0453002" n="0453002"/>堦來入堂內。至于床前。去地三尺許。而無人
+<lb ed="X" n="0453a12"/><lb ed="R149" n="0082b06"/>執。光明若晝。夫人驚起。頭痛亦愈。即取經誦之。有頃
+<lb ed="X" n="0453a13"/><lb ed="R149" n="0082b07"/>家人。鑽燧得火。燃燭入堂中。其光即滅。便以此夜誦
+<lb ed="X" n="0453a14"/><lb ed="R149" n="0082b08"/>經竟之。自此日誦五遍。以為常度。<anchor xml:id="nkr_note_orig_0453003" n="0453003"/>後芮公將死。夫人
+<lb ed="X" n="0453a15"/><lb ed="R149" n="0082b09"/>往視。公謂夫人曰。<anchor xml:id="nkr_note_orig_0453004" n="0453004"/>吾姉誦經之福。<anchor xml:id="nkr_note_orig_0453005" n="0453005"/>壽當百歲。生好處
+<lb ed="X" n="0453a16"/><lb ed="R149" n="0082b10"/>也。夫人至今尚康。年八十矣<note place="inline">夫人自向唐臨<g ref="#CB01755">㛐</g>說</note>。</p>
+<lb ed="X" n="0453a17"/><lb ed="R149" n="0082b11"/><p xml:id="pX87p0453a1701"><anchor xml:id="nkr_note_orig_0453006" n="0453006"/>蕭瑀金剛般若經靈驗記曰。隋朝招提寺僧琰師。初
+<lb ed="X" n="0453a18"/><lb ed="R149" n="0082b12"/>作沙彌時。有相師語琰云。阿師子大<anchor xml:id="nkr_note_orig_0453007" n="0453007"/>聽明智慧。無那
+<lb ed="X" n="0453a19"/><lb ed="R149" n="0082b13"/>相命全短。琰聞此語。遂諮諸大德。脩何功德而得延
+<lb ed="X" n="0453a20"/><lb ed="R149" n="0082b14"/>壽。大德等共議。依如來教。受持金剛般若經。功德最
+<lb ed="X" n="0453a21"/><lb ed="R149" n="0082b15"/>大。若能依法受持。必得延壽。琰時奉命即入山。受持
+<lb ed="X" n="0453a22"/><lb ed="R149" n="0082b16"/>金剛般若經。五年出山。更見前所相者。云。法師比來
+<lb ed="X" n="0453a23"/><lb ed="R149" n="0082b17"/>脩何功德。得長壽殊相。頓能如此。琰說前者被相<anchor xml:id="nkr_note_orig_0453008" n="0453008"/>短
+<lb ed="X" n="0453a24"/><lb ed="R149" n="0082b18"/>壽。入山受持金剛般若。更無餘業。因茲功德。遂為大
+<pb ed="X" xml:id="X87.1629.0453b" n="0453b"/>
+<lb ed="X" n="0453b01"/><lb ed="R149" n="0083a01"/>德。法師年過九十。</p>
+<lb ed="X" n="0453b02"/><lb ed="R149" n="0083a02"/><p xml:id="pX87p0453b0201"><anchor xml:id="nkr_note_orig_0453009" n="0453009"/>又曰。隋朝開善寺尼藏師。少年講說。遠近知名。時有
+<lb ed="X" n="0453b03"/><lb ed="R149" n="0083a03"/>何胤之謂曰。雖作法師。全無年壽。藏聞惶懼。遂廢講
+<lb ed="X" n="0453b04"/><lb ed="R149" n="0083a04"/>說。精意發願。於經藏中信手探<note place="inline">音貪</note>取一卷。專欲受持。
+<lb ed="X" n="0453b05"/><lb ed="R149" n="0083a05"/>乃得金剛般若經。於是讀誦。在房三年不出。後故覓
+<lb ed="X" n="0453b06"/><lb ed="R149" n="0083a06"/>胤之。令更占之。曰。為弟子所相無驗。為師相改耶。藏
+<lb ed="X" n="0453b07"/><lb ed="R149" n="0083a07"/>云。所相大驗。佛法靈應。不可思議。具<anchor xml:id="nkr_note_orig_0453010" n="0453010"/>向說之。答曰。道
+<lb ed="X" n="0453b08"/><lb ed="R149" n="0083a08"/>人不可相也。師壽得九十餘。果如其語。</p>
+<lb ed="X" n="0453b09"/><lb ed="R149" n="0083a09"/><p xml:id="pX87p0453b0901">又曰。隋時秦州人王陀。身任鷹楊。在府領兵。因病解
+<lb ed="X" n="0453b10"/><lb ed="R149" n="0083a10"/>任。在家訪覓大乘金剛般若經。大業中。荒亂初定。尋
+<lb ed="X" n="0453b11"/><lb ed="R149" n="0083a11"/>訪不得。後有一僧。持此般若一卷。日讀五遍。向經三
+<lb ed="X" n="0453b12"/><lb ed="R149" n="0083a12"/>年。讀誦通利。陀於後身患。遙見二十二鬼。並來<anchor xml:id="nkr_note_orig_0453011" n="0453011"/>詣陀。
+<lb ed="X" n="0453b13"/><lb ed="R149" n="0083a13"/>陀即誦般若經。其鬼離陀一百餘步。不敢更前。<anchor xml:id="nkr_note_orig_0453012" n="0453012"/>鬼謂
+<lb ed="X" n="0453b14"/><lb ed="R149" n="0083a14"/>陀曰。君莫誦經。汝不可得脫。陀攝心不誦。鬼到陀邊。
+<lb ed="X" n="0453b15"/><lb ed="R149" n="0083a15"/>中有二鬼。顏容甚惡。告言。我是主帥。先差二鬼充一
+<lb ed="X" n="0453b16"/><lb ed="R149" n="0083a16"/>道。使餘者總為十道。使諸使少時之頃。各執縛人將
+<lb ed="X" n="0453b17"/><lb ed="R149" n="0083a17"/>來。陀即自思。我今還<anchor xml:id="nkr_note_orig_0453013" n="0453013"/>應如此。其鬼所將人來者約束。
+<lb ed="X" n="0453b18"/><lb ed="R149" n="0083a18"/>各自發引向於王所。<anchor xml:id="nkr_note_orig_0453014" n="0453014"/>後有一鬼走馬來告。向誦經人。
+<lb ed="X" n="0453b19"/><lb ed="R149" n="0083b01"/>王教<anchor xml:id="nkr_note_orig_0453015" n="0453015"/>令放六日。陀當時昏迷。氣將欲絕。聞鬼使約束
+<lb ed="X" n="0453b20"/><lb ed="R149" n="0083b02"/>道放。心遂醒悟。氣還如本。因此更加精誠。誦金剛般
+<lb ed="X" n="0453b21"/><lb ed="R149" n="0083b03"/>若晝夜不捨。六日<anchor xml:id="beg_14" type="cb-app"/>已<anchor xml:id="end_14"/>過。誦經之力。<anchor xml:id="nkr_note_orig_0453016" n="0453016"/>更不被追。夜中有
+<lb ed="X" n="0453b22"/><lb ed="R149" n="0083b04"/>一人。空中喚陀。陀即遙應。汝今讀誦金剛般若經。功
+<lb ed="X" n="0453b23"/><lb ed="R149" n="0083b05"/>德甚大。王今放汝。壽年九十。努力勤脩功德。讀誦此
+<lb ed="X" n="0453b24"/><lb ed="R149" n="0083b06"/>經。更加精進。不敢懈怠。於後陀兄身患。因遂命終。經
+<pb ed="X" xml:id="X87.1629.0453c" n="0453c"/>
+<lb ed="X" n="0453c01"/><lb ed="R149" n="0083b07"/>餘<anchor xml:id="nkr_note_orig_0453017" n="0453017"/>一日。見兄共語。語陀努力為我讀誦金剛般若經。
+<lb ed="X" n="0453c02"/><lb ed="R149" n="0083b08"/>救我地獄之苦。言語未訖。有一人推兄遂入地獄。陀
+<lb ed="X" n="0453c03"/><lb ed="R149" n="0083b09"/>怕怖走歸。有羊六口。遮陀行路。不聽陀過。陀即誦般
+<lb ed="X" n="0453c04"/><lb ed="R149" n="0083b10"/>若經向羊。其羊即漸微小。誦經亦訖。其羊並即入地。
+<lb ed="X" n="0453c05"/><lb ed="R149" n="0083b11"/><anchor xml:id="nkr_note_orig_0453018" n="0453018"/>遂使得過。即為兄誦般若經五千遍。救兄地獄之苦。
+<lb ed="X" n="0453c06"/><lb ed="R149" n="0083b12"/>陀晝夜誦持不廢。又勸化一切人。並讀誦般若經。陀
+<lb ed="X" n="0453c07"/><lb ed="R149" n="0083b13"/>為誦持。見得延壽。</p>
+<lb ed="X" n="0453c08"/><lb ed="R149" n="0083b14"/><p xml:id="pX87p0453c0801"><anchor xml:id="nkr_note_orig_0453019" n="0453019"/>又曰。遂州人魏旻。貞觀元年。死經三日。王前唱過。旻
+<lb ed="X" n="0453c09"/><lb ed="R149" n="0083b15"/>即分踈。未合身死。王索簿<note place="inline">音部</note>尋檢。果然非謬。王責取
+<lb ed="X" n="0453c10"/><lb ed="R149" n="0083b16"/>旻使者。何因錯追。笞杖五十。即放旻歸。遣人送出。示
+<lb ed="X" n="0453c11"/><lb ed="R149" n="0083b17"/>本來之路。至家遂活。父母親屬問云。死既三日。復見
+<lb ed="X" n="0453c12"/><lb ed="R149" n="0083b18"/>何事。旻具<anchor xml:id="nkr_note_orig_0453020" n="0453020"/>語列。當被追時。同伴一十餘人。其中有一
+<lb ed="X" n="0453c13"/><lb ed="R149" n="0084a01"/>大僧。一時將過。王見此僧。先喚。借問一時<anchor xml:id="beg_15" type="cb-app"/>已<anchor xml:id="end_15"/>來。脩何
+<lb ed="X" n="0453c14"/><lb ed="R149" n="0084a02"/>功德。僧白王<anchor xml:id="nkr_note_orig_0453021" n="0453021"/>言。平生唯誦持金剛般若經。王聞此言。
+<lb ed="X" n="0453c15"/><lb ed="R149" n="0084a03"/>恭敬合掌。讚云。善哉。善哉。法師受持讀誦金剛般若。
+<lb ed="X" n="0453c16"/><lb ed="R149" n="0084a04"/>當得生天。何因將師來此。王言未訖。諸天香華。迎師
+<lb ed="X" n="0453c17"/><lb ed="R149" n="0084a05"/>將去。王即問旻。一生<anchor xml:id="beg_16" type="cb-app"/>已<anchor xml:id="end_16"/>來脩何功德。旻啟王言。一生
+<lb ed="X" n="0453c18"/><lb ed="R149" n="0084a06"/><anchor xml:id="beg_17" type="cb-app"/>已<anchor xml:id="end_17"/>來。不讀誦經典。唯讀庾信文章集錄。王語旻曰。汝
+<pb ed="X" xml:id="X87.1629.0454a" n="0454a"/>
+<lb ed="X" n="0454a01"/><lb ed="R149" n="0084a07"/>識庾信否。是大罪人。又旻言。雖讀文章。不識庾信。王
+<lb ed="X" n="0454a02"/><lb ed="R149" n="0084a08"/>即遣人領向庾信之處。乃見一大龜。一身數頭。所引
+<lb ed="X" n="0454a03"/><lb ed="R149" n="0084a09"/>使人云。此是庾信。行迴十餘步。見一人來。我是庾信。
+<lb ed="X" n="0454a04"/><lb ed="R149" n="0084a10"/>為在生之時。好作文筆。或引經典。或生誹謗。以此之
+<lb ed="X" n="0454a05"/><lb ed="R149" n="0084a11"/>故今受大罪。向者見龜數頭者。是我身也。迴至王前。
+<lb ed="X" n="0454a06"/><lb ed="R149" n="0084a12"/>王語使者。將見庾信以否。白言。<anchor xml:id="beg_18" type="cb-app"/>已<anchor xml:id="end_18"/>見。今<anchor xml:id="nkr_note_orig_0454001" n="0454001"/>受龜身。受大
+<lb ed="X" n="0454a07"/><lb ed="R149" n="0084a13"/>苦惱。王言。放汝還家。莫生誹謗大乘經典。勤脩福業。
+<lb ed="X" n="0454a08"/><lb ed="R149" n="0084a14"/>遣人送出至家。便即醒悟。憶所屬之言。又見此僧讀
+<lb ed="X" n="0454a09"/><lb ed="R149" n="0084a15"/>誦金剛般若經。得生天上。即於諸寺處處求覓。乃見
+<lb ed="X" n="0454a10"/><lb ed="R149" n="0084a16"/>一僧云。我有此經。旻聞此<anchor xml:id="nkr_note_orig_0454002" n="0454002"/>語。禮拜求請。若得此經。不
+<lb ed="X" n="0454a11"/><lb ed="R149" n="0084a17"/>惜身命。其僧即付金剛般若經一卷。晝夜轉讀。即便
+<lb ed="X" n="0454a12"/><lb ed="R149" n="0084a18"/>誦得。晝夜精勤。誦持不廢。因即向遂州人等。說此因
+<lb ed="X" n="0454a13"/><lb ed="R149" n="0084b01"/>緣。又噵一僧共旻同死。引過見王。為誦大乘金剛般
+<lb ed="X" n="0454a14"/><lb ed="R149" n="0084b02"/>若經典。得生天上。又說庾信罪業受報。遂州之人多
+<lb ed="X" n="0454a15"/><lb ed="R149" n="0084b03"/>是夷獠。殺生捕獵。造罪者多。聞旻說此因緣。各各發
+<lb ed="X" n="0454a16"/><lb ed="R149" n="0084b04"/>菩提心。不敢殺生捕獵。並讀誦金剛般若。晝夜不捨。
+<lb ed="X" n="0454a17"/><lb ed="R149" n="0084b05"/>四月十五日。忽有一人<anchor xml:id="nkr_note_orig_0454003" n="0454003"/>乘白馬<anchor xml:id="nkr_note_orig_0454004" n="0454004"/>來至旻前。當取汝之
+<lb ed="X" n="0454a18"/><lb ed="R149" n="0084b06"/>日。勘簿為有二年。放汝還家。為汝受持金剛般若經
+<lb ed="X" n="0454a19"/><lb ed="R149" n="0084b07"/>一萬遍。又勸化一切具脩功德。讀誦般若不絕。以此
+<lb ed="X" n="0454a20"/><lb ed="R149" n="0084b08"/>善根。遂得延年。九十壽終。必生淨土。</p>
+<lb ed="X" n="0454a21"/><lb ed="R149" n="0084b09"/><p xml:id="pX87p0454a2101">又曰。滑州別駕睦彥通。一生<anchor xml:id="beg_19" type="cb-app"/>已<anchor xml:id="end_19"/>來。恒誦金剛般若。先
+<lb ed="X" n="0454a22"/><lb ed="R149" n="0084b10"/>於李密下所任武牢縣令。為賊翻城。欲殺縣令。通甚
+<lb ed="X" n="0454a23"/><lb ed="R149" n="0084b11"/>怕懼。踰城得出。向東步走。有一石<anchor xml:id="nkr_note_orig_0454005" n="0454005"/>崖。石<g ref="#CB00589">㵎</g>高峻。深百
+<lb ed="X" n="0454a24"/><lb ed="R149" n="0084b12"/>餘尺。被賊拔刀走趂。即投峻崖。欲自取死。至崖之半。
+<pb ed="X" xml:id="X87.1629.0454b" n="0454b"/>
+<lb ed="X" n="0454b01"/><lb ed="R149" n="0084b13"/>似有人接。通及至于底。乃在盤石上坐。得存性命。都
+<lb ed="X" n="0454b02"/><lb ed="R149" n="0084b14"/>無傷損。據此靈驗。並是般若之力。賊過之後。通至家
+<lb ed="X" n="0454b03"/><lb ed="R149" n="0084b15"/>中。精心誦持。不捨晝夜。又勸化一切讀誦此經。通得
+<lb ed="X" n="0454b04"/><lb ed="R149" n="0084b16"/>長年。又無疾患。常得清淨。堅心不怠。</p>
+<lb ed="X" n="0454b05"/><lb ed="R149" n="0084b17"/><p xml:id="pX87p0454b0501">又曰。大廟署丞李思一。貞觀二十年正月八日丑時。
+<lb ed="X" n="0454b06"/><lb ed="R149" n="0084b18"/>得病<anchor xml:id="beg_1a" type="cb-app"/>已<anchor xml:id="end_1a"/>。時失音。至十三日。黃昏身死。乃被冥官勘。言
+<lb ed="X" n="0454b07"/><lb ed="R149" n="0085a01"/>思一年十九時。屠宰猪羊之命。思一推忖。實不屠殺
+<lb ed="X" n="0454b08"/><lb ed="R149" n="0085a02"/>生命。冥官即追所殺猪羊。與思一勘對。至<anchor xml:id="beg_1b" type="cb-app"/>已<anchor xml:id="end_1b"/>對問。食
+<lb ed="X" n="0454b09"/><lb ed="R149" n="0085a03"/>肉支節時日。全不相關。又付主司子細撿覈勘。遂殺
+<lb ed="X" n="0454b10"/><lb ed="R149" n="0085a04"/>害之日。思一即在黃州慧珉法師下聽講涅槃經。然
+<lb ed="X" n="0454b11"/><lb ed="R149" n="0085a05"/>珉法師又以身死。生於金粟世界。既在三界之外。無
+<lb ed="X" n="0454b12"/><lb ed="R149" n="0085a06"/>可追證。放思一還於本土。至家未經時日。又被追喚。
+<lb ed="X" n="0454b13"/><lb ed="R149" n="0085a07"/>未去之際。於清淨寺玄通法師邊懺悔受戒。普勸朋
+<lb ed="X" n="0454b14"/><lb ed="R149" n="0085a08"/>友親戚。有生之類。但遭<anchor xml:id="nkr_note_orig_0454006" n="0454006"/>枉濫死者。及不得轉讀經者。
+<lb ed="X" n="0454b15"/><lb ed="R149" n="0085a09"/>並為轉讀金剛般若經五千遍。作是語<anchor xml:id="beg_1c" type="cb-app"/>已<anchor xml:id="end_1c"/>。遂即命終。
+<lb ed="X" n="0454b16"/><lb ed="R149" n="0085a10"/>使者將思一至冥官所。遂具實言。今發心受持般若
+<lb ed="X" n="0454b17"/><lb ed="R149" n="0085a11"/>經。冥官云。汝今發心極大深妙。不可思議。須臾之間。
+<lb ed="X" n="0454b18"/><lb ed="R149" n="0085a12"/>見一人手持經卷。語思一云。此是金剛般若。思一求
+<lb ed="X" n="0454b19"/><lb ed="R149" n="0085a13"/>請開其經卷。覧其題目。與今時般若無別。當即閉<note place="inline">音閇</note>。</p>
+<lb ed="X" n="0454b20"/><lb ed="R149" n="0085a14"/><p xml:id="pX87p0454b2001">目發心。望解般若經義。曉喻有知。忽聞有人云。君今
+<lb ed="X" n="0454b21"/><lb ed="R149" n="0085a15"/>發心。作是大願。今所注猪羊來對者。並云。我實自身
+<lb ed="X" n="0454b22"/><lb ed="R149" n="0085a16"/>命盡。惡道受生。實非思一屠害。為無功德。<anchor xml:id="nkr_note_orig_0454007" n="0454007"/>寶貨求典。
+<lb ed="X" n="0454b23"/><lb ed="R149" n="0085a17"/>妄引善人。冀延日月。實是枉牽。冥官得此<anchor xml:id="nkr_note_orig_0454008" n="0454008"/>欵<anchor xml:id="beg_1d" type="cb-app"/>已<anchor xml:id="end_1d"/>。又珉
+<lb ed="X" n="0454b24"/><lb ed="R149" n="0085a18"/>法師在金粟世界遣二僧。來至冥官前。得見二僧。驚
+<pb ed="X" xml:id="X87.1629.0454c" n="0454c"/>
+<lb ed="X" n="0454c01"/><lb ed="R149" n="0085b01"/>怖禮拜。僧語冥官。其思一誦持金剛般若經。一心不
+<lb ed="X" n="0454c02"/><lb ed="R149" n="0085b02"/>亂。又注屠殺生命。並云妄引。泯法師在金粟世界。故
+<lb ed="X" n="0454c03"/><lb ed="R149" n="0085b03"/>遣來救。冥官依命。即命思一還生。二僧<anchor xml:id="nkr_note_orig_0454009" n="0454009"/>乃送至家。即
+<lb ed="X" n="0454c04"/><lb ed="R149" n="0085b04"/>乘空<anchor xml:id="nkr_note_orig_0454010" n="0454010"/>而去。思一蘇訖。當即請諸寺大德。轉讀般若經
+<lb ed="X" n="0454c05"/><lb ed="R149" n="0085b05"/>五千遍。思一誦持般若。晝夜不廢。見得延年。</p>
+<lb ed="X" n="0454c06"/><lb ed="R149" n="0085b06"/><p xml:id="pX87p0454c0601">又曰。泰州上<anchor xml:id="nkr_note_orig_0454011" n="0454011"/><g ref="#CB15131">󳬛</g>縣人慕容文<g ref="#CB15081">䇿</g>。年十七。誦持金剛般
+<lb ed="X" n="0454c07"/><lb ed="R149" n="0085b07"/>若經。齊戒不闕。隋大業七年四月十五日夜。忽有兩
+<lb ed="X" n="0454c08"/><lb ed="R149" n="0085b08"/>鬼。來至床前。手持文牒。云。王今遣取公來。文<g ref="#CB15081">䇿</g>即甚
+<lb ed="X" n="0454c09"/><lb ed="R149" n="0085b09"/>忙怕。乃逐使者而去。將至一大城。樓櫓嚴峻。城墎六
+<lb ed="X" n="0454c10"/><lb ed="R149" n="0085b10"/>重。將入第一第二門。極大光明。至第三門。其門相去
+<lb ed="X" n="0454c11"/><lb ed="R149" n="0085b11"/>四里。<anchor xml:id="beg_1e" type="cb-app"/>已<anchor xml:id="end_1e"/>上並皆黑暗。都不見道。使者引之而過。至五
+<lb ed="X" n="0454c12"/><lb ed="R149" n="0085b12"/>六門內。復大光明。去門三里。即有宮室殿堂。四邊持
+<lb ed="X" n="0454c13"/><lb ed="R149" n="0085b13"/><anchor xml:id="nkr_note_orig_0454012" n="0454012"/>仗宿衛。還如見在宮闕無異。王當殿而坐。所將男夫
+<lb ed="X" n="0454c14"/><lb ed="R149" n="0085b14"/>婦女．僧尼道士。及女等外國六夷。不可稱數。<g ref="#CB15081">䇿</g>在後。
+<lb ed="X" n="0454c15"/><lb ed="R149" n="0085b15"/>行典唱名<anchor xml:id="nkr_note_orig_0454013" n="0454013"/>而過。王一一問其在生福業。有福効驗者。
+<lb ed="X" n="0454c16"/><lb ed="R149" n="0085b16"/>在西而立。無福驗者。在東而立。末後始唱<g ref="#CB15081">䇿</g>名。王問。
+<lb ed="X" n="0454c17"/><lb ed="R149" n="0085b17"/>一生作何福業。<g ref="#CB15081">䇿</g>即分踈。一生<anchor xml:id="beg_1f" type="cb-app"/>已<anchor xml:id="end_1f"/>來。唯誦持金剛般
+<lb ed="X" n="0454c18"/><lb ed="R149" n="0085b18"/>若。法華八部。般若晝夜轉讀。又持齊戒。一日不闕。王
+<lb ed="X" n="0454c19"/><lb ed="R149" n="0086a01"/>聞此言。合掌恭敬。歎言。功德甚深。付主司細檢文簿
+<lb ed="X" n="0454c20"/><lb ed="R149" n="0086a02"/>不錯。將來其典執案諮王。未合身死。王即放還。且遣
+<lb ed="X" n="0454c21"/><lb ed="R149" n="0086a03"/>西行而立。未去之間。有一沙彌。可年十五六。手執一
+<lb ed="X" n="0454c22"/><lb ed="R149" n="0086a04"/>明炬。於<g ref="#CB15081">䇿</g>前而過。續後又一沙彌。執明炬而過。<g ref="#CB15081">䇿</g>即
+<lb ed="X" n="0454c23"/><lb ed="R149" n="0086a05"/>捉袈裟挽住。願師救弟子。使者錯追將來。蒙王恩澤。
+<lb ed="X" n="0454c24"/><lb ed="R149" n="0086a06"/>檢文簿放還。不知去處。願師慈悲。救護弟子。示其來
+<pb ed="X" xml:id="X87.1629.0455a" n="0455a"/>
+<lb ed="X" n="0455a01"/><lb ed="R149" n="0086a07"/>路。二僧語<g ref="#CB15081">䇿</g>。檀越持般若經。轉讀大乘經典。好牢持
+<lb ed="X" n="0455a02"/><lb ed="R149" n="0086a08"/>齋戒。故來救之。師云。我執明炬在前。檀越但從我後。
+<lb ed="X" n="0455a03"/><lb ed="R149" n="0086a09"/>還於六重城門而出。還詣<anchor xml:id="nkr_note_orig_0455001" n="0455001"/>里暗二門。二僧手執明炬。
+<lb ed="X" n="0455a04"/><lb ed="R149" n="0086a10"/>喻如日出。光明皆現。出於六重門外。二僧即語<g ref="#CB15081">䇿</g>云。
+<lb ed="X" n="0455a05"/><lb ed="R149" n="0086a11"/>檀越知地獄<anchor xml:id="nkr_note_orig_0455002" n="0455002"/>所以否。報云。不知。二沙彌即舉手指城
+<lb ed="X" n="0455a06"/><lb ed="R149" n="0086a12"/>西北角。更有一大城。相去四里。此是地獄之城。二沙
+<lb ed="X" n="0455a07"/><lb ed="R149" n="0086a13"/>彌云。將檀越於此城觀看。從師至彼。其城高峻。有入
+<lb ed="X" n="0455a08"/><lb ed="R149" n="0086a14"/>城門。並鐵網垂下。有四羅剎。手執鐵叉。侍立左右。二
+<lb ed="X" n="0455a09"/><lb ed="R149" n="0086a15"/>僧云。是地獄之門。一切罪人配入。並從此門而過。即
+<lb ed="X" n="0455a10"/><lb ed="R149" n="0086a16"/>將<g ref="#CB15081">䇿</g>入門。可行二百步。見一<g ref="#CB01926">󰞆</g>河。其中一切受苦之
+<lb ed="X" n="0455a11"/><lb ed="R149" n="0086a17"/>人。身在河中。唯見其頭。百千萬億猛火熾然燒此罪
+<lb ed="X" n="0455a12"/><lb ed="R149" n="0086a18"/>人。苦痛號叫。不可具說。又四邊皆是鐵床劒樹。有四
+<lb ed="X" n="0455a13"/><lb ed="R149" n="0086b01"/>獄卒。手持鐵叉。畔上行走。叫喚之聲。甚可怖畏。二僧
+<lb ed="X" n="0455a14"/><lb ed="R149" n="0086b02"/>云。十八地獄。咸在此城。<g ref="#CB15081">䇿</g>見心中怕懼。唯知念佛。心
+<lb ed="X" n="0455a15"/><lb ed="R149" n="0086b03"/><anchor xml:id="nkr_note_orig_0455003" n="0455003"/>中恒誦般若不絕。二僧即將<g ref="#CB15081">䇿</g>出城門。至於本來之
+<lb ed="X" n="0455a16"/><lb ed="R149" n="0086b04"/>道。五箇道相近。意中荒迷。不知本從家之道。二僧即
+<lb ed="X" n="0455a17"/><lb ed="R149" n="0086b05"/>欲別<g ref="#CB15081">䇿</g>而去。禮拜求請。五道之中。不知弟子從何道
+<lb ed="X" n="0455a18"/><lb ed="R149" n="0086b06"/>去。願師慈悲。示其道處。二僧即於中道引<anchor xml:id="nkr_note_orig_0455004" n="0455004"/>前。可行十
+<lb ed="X" n="0455a19"/><lb ed="R149" n="0086b07"/>里許。有一大門。塞其道口。不得而過。二僧以錫杖開
+<lb ed="X" n="0455a20"/><lb ed="R149" n="0086b08"/>之。即語<g ref="#CB15081">䇿</g>云。努力勤修功德。誦般若經。莫生懈怠。必
+<lb ed="X" n="0455a21"/><lb ed="R149" n="0086b09"/>得長壽。<g ref="#CB15081">䇿</g>別師至家。體中醒悟。父母親知。並悉忙怕。
+<lb ed="X" n="0455a22"/><lb ed="R149" n="0086b10"/>以禮慰喻。說其因緣。蒙放還家。功德之力。聞者欣悅。
+<lb ed="X" n="0455a23"/><lb ed="R149" n="0086b11"/>心意泰然。以此誦經齊戒功德。勸化一切。各各發心。
+<lb ed="X" n="0455a24"/><lb ed="R149" n="0086b12"/>讀誦般若經。一日不闕。更加精進。又得長年。</p>
+<pb ed="X" xml:id="X87.1629.0455b" n="0455b"/>
+<lb ed="X" n="0455b01"/><lb ed="R149" n="0086b13"/><p xml:id="pX87p0455b0101">又曰。天水郡隴城縣袁志通。年未弱冠。<anchor xml:id="nkr_note_orig_0455005" n="0455005"/>住持齋戒。讀
+<lb ed="X" n="0455b02"/><lb ed="R149" n="0086b14"/>誦法華金剛般若等經。六時禮懺。不曾有闕。年二十。
+<lb ed="X" n="0455b03"/><lb ed="R149" n="0086b15"/>即點入清德府衛士。名<anchor xml:id="nkr_note_orig_0455006" n="0455006"/>掛軍團。奉勑差征白蠻。從家
+<lb ed="X" n="0455b04"/><lb ed="R149" n="0086b16"/>至彼一萬餘里。在路晝夜禮誦不闕。至南蠻之界。官
+<lb ed="X" n="0455b05"/><lb ed="R149" n="0086b17"/>軍戰敗。兵士散走。當時徒侶一百餘人。不知所投。多
+<lb ed="X" n="0455b06"/><lb ed="R149" n="0086b18"/>被傷殺。志通惶迫。奔走無路。忽有五人。並乘牝<note place="inline">頻殞反</note>。</p>
+<lb ed="X" n="0455b07"/><lb ed="R149" n="0087a01"/><p xml:id="pX87p0455b0701">馬。在通前後。有一人走馬告通曰。莫怕莫<anchor xml:id="nkr_note_orig_0455007" n="0455007"/>懼。汝具脩
+<lb ed="X" n="0455b08"/><lb ed="R149" n="0087a02"/>功德。前後圍繞。不能為害。行可七里有餘。至一塔廟。
+<lb ed="X" n="0455b09"/><lb ed="R149" n="0087a03"/>即入其中藏隱。蠻即還營。忽有二僧來通所。語通云。
+<lb ed="X" n="0455b10"/><lb ed="R149" n="0087a04"/>檀越誦金剛般若法華。禮念諸佛。不可思議。故遣救
+<lb ed="X" n="0455b11"/><lb ed="R149" n="0087a05"/>汝。向者五人。乘馬在汝前後者。並是法華般若之力。
+<lb ed="X" n="0455b12"/><lb ed="R149" n="0087a06"/>亦同救汝<anchor xml:id="nkr_note_orig_0455008" n="0455008"/>怨賊傷害汝身。好脩福業。誦持經典。莫生
+<lb ed="X" n="0455b13"/><lb ed="R149" n="0087a07"/>懈怠。一切諸善神王。恒相衛護。作是語訖。即乘空而
+<lb ed="X" n="0455b14"/><lb ed="R149" n="0087a08"/>去。通經日不得食。非常飢乏。須臾有二童子。將一鉢
+<lb ed="X" n="0455b15"/><lb ed="R149" n="0087a09"/>飯并醬菜及餅。與通而食。食訖又告通。勤脩功德。誦
+<lb ed="X" n="0455b16"/><lb ed="R149" n="0087a10"/>般若經。莫令廢闕。語訖主乘空而去。通涕淚悲泣。深
+<lb ed="X" n="0455b17"/><lb ed="R149" n="0087a11"/>心懺悔。即投大軍。頻經三陣。不被寸<g ref="#CB05033">䥫</g>所傷。據此因
+<lb ed="X" n="0455b18"/><lb ed="R149" n="0087a12"/>緣。並是法華般若之力。於後蠻破。官軍放還。專心誦
+<lb ed="X" n="0455b19"/><lb ed="R149" n="0087a13"/>持法華般若。不敢怠慢。</p>
+<lb ed="X" n="0455b20"/><lb ed="R149" n="0087a14"/><p xml:id="pX87p0455b2001">又曰。貞觀八年正月二十八日。身患。至二月八日夜。
+<lb ed="X" n="0455b21"/><lb ed="R149" n="0087a15"/>命終。遂被將向王前。<anchor xml:id="nkr_note_orig_0455009" n="0455009"/>閱過徒眾甚多。通在後而立。其
+<lb ed="X" n="0455b22"/><lb ed="R149" n="0087a16"/>典唱名。王即問其善惡之業。亦依次而配。末後始唱
+<lb ed="X" n="0455b23"/><lb ed="R149" n="0087a17"/>通<anchor xml:id="nkr_note_orig_0455010" n="0455010"/>過。具問生存作何福業。通即啟王言。一生<anchor xml:id="beg_20" type="cb-app"/>已<anchor xml:id="end_20"/>來誦
+<lb ed="X" n="0455b24"/><lb ed="R149" n="0087a18"/>持金剛般若法華經等。常持齊戒六時禮佛。王聞此
+<pb ed="X" xml:id="X87.1629.0455c" n="0455c"/>
+<lb ed="X" n="0455c01"/><lb ed="R149" n="0087b01"/>言。即合掌恭敬。歎言。善哉。善哉。此人功德不可思議。
+<lb ed="X" n="0455c02"/><lb ed="R149" n="0087b02"/>語使者當取之日。據何簿帳而追。付主司。細撿文籍。
+<lb ed="X" n="0455c03"/><lb ed="R149" n="0087b03"/>不枉將來。其主司開天曹檢報。此人更有六年壽命。
+<lb ed="X" n="0455c04"/><lb ed="R149" n="0087b04"/>未<anchor xml:id="nkr_note_orig_0455011" n="0455011"/>合即死。王乃索案自尋。果然非謬。語左右侍者。取
+<lb ed="X" n="0455c05"/><lb ed="R149" n="0087b05"/>床几將來。即於南廂持金床玉几。至王前。即遣殿上
+<lb ed="X" n="0455c06"/><lb ed="R149" n="0087b06"/>西邊安置。鋪種種氈褥。遣通上床誦經。便誦般若法
+<lb ed="X" n="0455c07"/><lb ed="R149" n="0087b07"/>華各一卷。並悉通利。又使典藏中取其人誦經及修
+<lb ed="X" n="0455c08"/><lb ed="R149" n="0087b08"/>功德文簿典與通。向西廂遂往取。可行二里。有大經
+<lb ed="X" n="0455c09"/><lb ed="R149" n="0087b09"/>藏。所有功德簿<anchor xml:id="beg_21" type="cb-app"/>帳<anchor xml:id="end_21"/>。咸在其中。並七寶嚴飾。使者於<g ref="#CB08764">㝡</g>
+<lb ed="X" n="0455c10"/><lb ed="R149" n="0087b10"/>下中取得一卷。可有十紙。題名。袁志通造功德簿。即
+<lb ed="X" n="0455c11"/><lb ed="R149" n="0087b11"/>持向王邊開檢。其中注通誦般若經一萬遍。禮佛齊
+<lb ed="X" n="0455c12"/><lb ed="R149" n="0087b12"/>戒功德。總在其中。王語使人。其通所造功德。甚深甚
+<lb ed="X" n="0455c13"/><lb ed="R149" n="0087b13"/>深。<anchor xml:id="nkr_note_orig_0455012" n="0455012"/>將地獄觀看。知其罪福。使者奉勑。引通出城。西北
+<lb ed="X" n="0455c14"/><lb ed="R149" n="0087b14"/>五里有餘。有一大城。樓櫓却敵。<g ref="#CB05033">䥫</g>網垂下。門中有四
+<lb ed="X" n="0455c15"/><lb ed="R149" n="0087b15"/>獄卒。頭如羅剎。身形長大。手持<g ref="#CB05033">䥫</g>叉。左右而立。有二
+<lb ed="X" n="0455c16"/><lb ed="R149" n="0087b16"/>銅狗。在門兩廂。口吐融銅。<anchor xml:id="nkr_note_orig_0455013" n="0455013"/>流灌獄所。注射罪人。一切
+<lb ed="X" n="0455c17"/><lb ed="R149" n="0087b17"/>受苦之人。並從此門而入。十八地獄。並在此城。通見
+<lb ed="X" n="0455c18"/><lb ed="R149" n="0087b18"/>如此。身心戰慄。無以自安。領將詣王。白言見地獄訖。
+<lb ed="X" n="0455c19"/><lb ed="R149" n="0088a01"/>王語通云。汝今具見受罪福業。好勤精進。讀誦莫廢。
+<lb ed="X" n="0455c20"/><lb ed="R149" n="0088a02"/>汝今有命六年在。放汝還家。莫生退心。落入惡道。無
+<lb ed="X" n="0455c21"/><lb ed="R149" n="0088a03"/>人救汝。必須讀誦不退菩提。放汝長年。至老命終。必
+<lb ed="X" n="0455c22"/><lb ed="R149" n="0088a04"/>生淨土。</p>
+<lb ed="X" n="0455c23"/><lb ed="R149" n="0088a05"/><p xml:id="pX87p0455c2301">朝請大夫行國子監大學愽士吳思玄。常誦金剛般
+<lb ed="X" n="0455c24"/><lb ed="R149" n="0088a06"/>若波羅蜜經。初日<anchor xml:id="nkr_note_orig_0455014A" n="0455014A"/><anchor xml:id="nkr_note_mod_0455014A" n="0455014A"/>別兩遍。五六年後。即日<anchor xml:id="nkr_note_orig_0455014B" n="0455014B"/><anchor xml:id="nkr_note_mod_0455014B" n="0455014B"/>別一遍。兄
+<pb ed="X" xml:id="X87.1629.0456a" n="0456a"/>
+<lb ed="X" n="0456a01"/><lb ed="R149" n="0088a07"/>思溫以長安元年任漢州<anchor xml:id="nkr_note_orig_0456001" n="0456001"/>縣竹縣令。染患入京醫療。
+<lb ed="X" n="0456a02"/><lb ed="R149" n="0088a08"/>寄在殿中省尚藥奉御張慶家針灸。忽然病發。非常
+<lb ed="X" n="0456a03"/><lb ed="R149" n="0088a09"/>困重。張慶綰攝諸巫術之士。時有務州褚細兒。亦甚
+<lb ed="X" n="0456a04"/><lb ed="R149" n="0088a10"/>見鬼。在慶中庭。為溫祈禱。其時著緋官數人。思玄在
+<lb ed="X" n="0456a05"/><lb ed="R149" n="0088a11"/>別處止宿。人報兄患發。奔走來看。先至慶中庭。亦同
+<lb ed="X" n="0456a06"/><lb ed="R149" n="0088a12"/>祈請。未曾與褚相識。褚遂云此官不知何人。諸鬼神
+<lb ed="X" n="0456a07"/><lb ed="R149" n="0088a13"/>見之皆悉散走。思玄聞此。倍加精勵念誦。一二日間。
+<lb ed="X" n="0456a08"/><lb ed="R149" n="0088a14"/>兄病遂差。初思玄去萬歲登封元年行至中渭橋。見
+<lb ed="X" n="0456a09"/><lb ed="R149" n="0088a15"/>一人甚老。著重縗<note place="inline">音催</note>服。恠而問之。老人云。某乙年八
+<lb ed="X" n="0456a10"/><lb ed="R149" n="0088a16"/>十二。為親生母著服。母年一百七歲。近日始亡。復問
+<lb ed="X" n="0456a11"/><lb ed="R149" n="0088a17"/><anchor xml:id="nkr_note_orig_0456002" n="0456002"/>作何將養。得此長壽。其人報云。孃年四十三時。有人
+<lb ed="X" n="0456a12"/><lb ed="R149" n="0088a18"/>教誦金剛般若波羅蜜經。每日兩遍。從少至老。未曾
+<lb ed="X" n="0456a13"/><lb ed="R149" n="0088b01"/>暫闕。更有阿姨并<anchor xml:id="nkr_note_orig_0456003" n="0456003"/>及隣母。總有四人。同業相共受持。
+<lb ed="X" n="0456a14"/><lb ed="R149" n="0088b02"/>姨亡<anchor xml:id="beg_22" type="cb-app"/>已<anchor xml:id="end_22"/>經一年。壽一百十四歲。自餘兩箇。今各年九
+<lb ed="X" n="0456a15"/><lb ed="R149" n="0088b03"/>十<anchor xml:id="beg_23" type="cb-app"/>已<anchor xml:id="end_23"/>上。至今竝在<note place="inline">吳思玄親自錄出</note>。</p>
+<lb ed="X" n="0456a16"/><lb ed="R149" n="0088b04"/><p xml:id="pX87p0456a1601">申州大雲寺僧釋德遵者。即義陽縣人也。時年五十
+<lb ed="X" n="0456a17"/><lb ed="R149" n="0088b05"/>一二。染疾彌留。氣力虗惙。時起彼有張照藏者。洞曉
+<lb ed="X" n="0456a18"/><lb ed="R149" n="0088b06"/>陰陽。有張則者。極明醫術。推步年命。以為厄運之期。
+<lb ed="X" n="0456a19"/><lb ed="R149" n="0088b07"/>診<note place="inline">音軫</note>候經脈。<note place="inline">音夌</note>治非針藥之救。遂啟請發願。誦金剛
+<lb ed="X" n="0456a20"/><lb ed="R149" n="0088b08"/>般若經。力疾扶羸。日數十遍。誠心懇至。感乎幽<anchor xml:id="nkr_note_orig_0456004" n="0456004"/>明。却
+<lb ed="X" n="0456a21"/><lb ed="R149" n="0088b09"/>倚蒲團。因而彌勵。不捨晝夜。誦持此經。未盈旬月。漸
+<lb ed="X" n="0456a22"/><lb ed="R149" n="0088b10"/>覺瘳<note place="inline">音柚</note>愈。將涉時序。了然痊復。長安三載。獻忠任申
+<lb ed="X" n="0456a23"/><lb ed="R149" n="0088b11"/>州司戶。其僧尚存。向逾七十。每見自說。嗟嘆者久之。
+<lb ed="X" n="0456a24"/><lb ed="R149" n="0088b12"/>德遵自此之後。常以般若為務。則知大乘之力。豈術
+<pb ed="X" xml:id="X87.1629.0456b" n="0456b"/>
+<lb ed="X" n="0456b01"/><lb ed="R149" n="0088b13"/>數能知。非夫淨信通神。達空體妙智。該上<anchor xml:id="nkr_note_orig_0456005" n="0456005"/>上者。焉肯
+<lb ed="X" n="0456b02"/><lb ed="R149" n="0088b14"/>勤而行之乎。</p>
+<lb ed="X" n="0456b03"/><lb ed="R149" n="0088b15"/><p xml:id="pX87p0456b0301">杜思訥者。京兆城南人也。任潞州銅<anchor xml:id="nkr_note_orig_0456006" n="0456006"/>鍉<note place="inline">音提</note>縣尉。考滿
+<lb ed="X" n="0456b04"/><lb ed="R149" n="0088b16"/>之後。年登七十。又染瘦病。日漸虗羸。當時名醫。咸謂
+<lb ed="X" n="0456b05"/><lb ed="R149" n="0088b17"/>難濟。雖加藥餌。<note place="inline">音二</note>診候未瘳。時權瓘<note place="inline">音貫</note>注得漢州司
+<lb ed="X" n="0456b06"/><lb ed="R149" n="0088b18"/>功之任。就別臨訣<note place="inline">音決</note>之際。詞氣悽<note place="inline">音妻</note>凉曰。<note place="inline">音越</note>雖是生
+<lb ed="X" n="0456b07"/><lb ed="R149" n="0089a01"/>離。即成死別。然宿心正信。發始深誠。遂謂瓘曰。唯發
+<lb ed="X" n="0456b08"/><lb ed="R149" n="0089a02"/>願誦般若經。將希生路。遂即發心誦金剛般若經。不
+<lb ed="X" n="0456b09"/><lb ed="R149" n="0089a03"/>逾時月。漸覺瘳<note place="inline">音抽</note>愈。懇誠彌勵。屢<note place="inline">力芋反</note>見光明。瓘後
+<lb ed="X" n="0456b10"/><lb ed="R149" n="0089a04"/>入京。訥<anchor xml:id="beg_24" type="cb-app"/>已<anchor xml:id="end_24"/>痊復。靜惟福力。不可思議<note place="inline">漢州司功權令瓘說</note>。</p>
+<lb ed="X" n="0456b11"/><lb ed="R149" n="0089a05"/><p xml:id="pX87p0456b1101">贊曰。恭惟眾聖。爰起三堅。一塵一劫。無量無邊。寧惟
+<lb ed="X" n="0456b12"/><lb ed="R149" n="0089a06"/>萬萬。何止千千。不生不滅。非代非年。</p></cb:div></cb:div>
+<lb ed="X" n="0456b13"/><lb ed="R149" n="0089a07"/>
+<lb ed="X" n="0456b14"/><lb ed="R149" n="0089a08"/><cb:juan fun="close" n="1"><cb:jhead>金剛般若經集驗記卷上</cb:jhead></cb:juan>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp2" cb:from="#beg_1" cb:to="#end_1"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_2" cb:to="#end_2"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_3" cb:to="#end_3"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_4" cb:to="#end_4"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_5" cb:to="#end_5"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_6" cb:to="#end_6"><corr>陝</corr><sic>陜</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_7" cb:to="#end_7"><corr>定</corr><sic>足</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_8" cb:to="#end_8"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_9" cb:to="#end_9"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_a" cb:to="#end_a"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_b" cb:to="#end_b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_c" cb:to="#end_c"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_d" cb:to="#end_d"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_e" cb:to="#end_e"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_f" cb:to="#end_f"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_10" cb:to="#end_10"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_11" cb:to="#end_11"><corr>領</corr><sic>頷</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_12" cb:to="#end_12"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_13" cb:to="#end_13"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_14" cb:to="#end_14"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_15" cb:to="#end_15"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_16" cb:to="#end_16"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_17" cb:to="#end_17"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_18" cb:to="#end_18"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_19" cb:to="#end_19"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_1a" cb:to="#end_1a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_1b" cb:to="#end_1b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_1c" cb:to="#end_1c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_1d" cb:to="#end_1d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_1e" cb:to="#end_1e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_1f" cb:to="#end_1f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_20" cb:to="#end_20"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_21" cb:to="#end_21"><corr>帳</corr><sic>悵</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_22" cb:to="#end_22"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_23" cb:to="#end_23"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp2" cb:from="#beg_24" cb:to="#end_24"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+<cb:div type="cbeta-notes">
+<head>CBETA 校勘記</head>
+<p>
+<note n="0449008A" resp="#resp3" type="mod" target="#nkr_note_mod_0449008A">亮一本昔作高明一本作助</note>
+<note n="0449008B" resp="#resp3" type="mod" target="#nkr_note_mod_0449008B">亮一本昔作高明一本作助</note>
+<note n="0449008C" resp="#resp3" type="mod" target="#nkr_note_mod_0449008C">亮一本昔作高明一本作助</note>
+<note n="0449008D" resp="#resp3" type="mod" target="#nkr_note_mod_0449008D">亮一本昔作高明一本作助</note>
+<note n="0449008E" resp="#resp3" type="mod" target="#nkr_note_mod_0449008E">亮一本昔作高明一本作助</note>
+<note n="0451012A" resp="#resp3" type="mod" target="#nkr_note_mod_0451012A">庄一作莊</note>
+<note n="0451012B" resp="#resp3" type="mod" target="#nkr_note_mod_0451012B">庄一作莊</note>
+<note n="0452015A" resp="#resp3" type="mod" target="#nkr_note_mod_0452015A">一無相字</note>
+<note n="0452015B" resp="#resp3" type="mod" target="#nkr_note_mod_0452015B">一無晦字</note>
+<note n="0455014A" resp="#resp3" type="mod" target="#nkr_note_mod_0455014A">別一作則</note>
+<note n="0455014B" resp="#resp3" type="mod" target="#nkr_note_mod_0455014B">別一作則</note>
+</p>
+</cb:div>
+<cb:div type="xuzang-notes">
+<head>卍續藏 校勘記</head>
+<p>
+<note n="0449001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449001">智一作父</note>
+<note n="0449002" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449002">而上下疑有脫字而字更勘</note>
+<note n="0449003" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449003">仰一作作</note>
+<note n="0449004" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449004">衢一作衍</note>
+<note n="0449005" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449005">旋一作從</note>
+<note n="0449006" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449006">挫芒一作摧釯</note>
+<note n="0449007" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449007">王一作來．蕭瑀著金剛般若經靈驗一十八條云云出于大平廣記一百二卷報應部．此一驗亦出法苑二十六卷．彼云出冥報記</note>
+<note n="0449008A" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449008A">法苑第一百十九卷曰冥報拾遺二卷右唐朝中山郎餘令字元休龍朔年中撲．四个亮一本昔作高明一本作助</note>
+<note n="0449008B" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449008B">法苑第一百十九卷曰冥報拾遺二卷右唐朝中山郎餘令字元休龍朔年中撲．四个亮一本昔作高明一本作助</note>
+<note n="0449009" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449009">隨古作隋</note>
+<note n="0449008C" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449008C">法苑第一百十九卷曰冥報拾遺二卷右唐朝中山郎餘令字元休龍朔年中撲．四个亮一本昔作高明一本作助</note>
+<note n="0449008D" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449008D">法苑第一百十九卷曰冥報拾遺二卷右唐朝中山郎餘令字元休龍朔年中撲．四个亮一本昔作高明一本作助</note>
+<note n="0449008E" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449008E">法苑第一百十九卷曰冥報拾遺二卷右唐朝中山郎餘令字元休龍朔年中撲．四个亮一本昔作高明一本作助</note>
+<note n="0449010" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449010">所一作可</note>
+<note n="0449011" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449011">也作之</note>
+<note n="0449012" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449012">按一作接</note>
+<note n="0449013" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449013">及一作乃</note>
+<note n="0449014" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449014">去疑云</note>
+<note n="0449015" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449015">甚一作某</note>
+<note n="0449016" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0449016">始覺一作乃蘇云</note>
+<note n="0450001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450001">公疑去</note>
+<note n="0450002" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450002">侍疑待</note>
+<note n="0450003" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450003">具說一作其記</note>
+<note n="0450004" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450004">游一作淤</note>
+<note n="0450005" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450005">宋一作宗</note>
+<note n="0450006" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450006">一無此字</note>
+<note n="0450007" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450007">冥一作瞑</note>
+<note n="0450008" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450008">似一作以</note>
+<note n="0450009" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450009">誦一作讀</note>
+<note n="0450010" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450010">誦一作讀</note>
+<note n="0450011" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450011">令下一有二遍誦三字</note>
+<note n="0450012" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450012">環一作瓌下皆做之</note>
+<note n="0450013" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450013">著樹一作樹著</note>
+<note n="0450014" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450014">打一作折</note>
+<note n="0450015" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450015">坊一作宅</note>
+<note n="0450016" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450016">叫一作奔</note>
+<note n="0450017" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450017">汁一作計</note>
+<note n="0450018" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0450018">疼一作痊</note>
+<note n="0451001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451001">璲一作<g ref="#CB18953">󴨉</g></note>
+<note n="0451002" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451002">束一作來</note>
+<note n="0451003" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451003">侯一作僭</note>
+<note n="0451004" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451004">韋利一作事</note>
+<note n="0451005" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451005">行等六字一作莫知所之</note>
+<note n="0451006" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451006">一無至字</note>
+<note n="0451007" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451007">普一作晉下同</note>
+<note n="0451008" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451008">同一作問</note>
+<note n="0451009" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451009">三一作二</note>
+<note n="0451010" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451010">一無何不歸去四字</note>
+<note n="0451011" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451011">勗一作晶</note>
+<note n="0451012A" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451012A">二个庄一作莊</note>
+<note n="0451012B" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451012B">二个庄一作莊</note>
+<note n="0451013" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451013">瓘一作獲次同</note>
+<note n="0451014" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451014">韋作婁次同</note>
+<note n="0451015" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451015">一無一字</note>
+<note n="0451016" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451016">視一作看</note>
+<note n="0451017" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451017">是疑見</note>
+<note n="0451018" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451018">逢一作遂</note>
+<note n="0451019" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0451019">望一作醫</note>
+<note n="0452001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452001">一無段字</note>
+<note n="0452002" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452002">餉一作飽</note>
+<note n="0452003" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452003">遇疑過</note>
+<note n="0452004" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452004">赴一作趣</note>
+<note n="0452005" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452005">義作茂</note>
+<note n="0452006" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452006">危作厄</note>
+<note n="0452007" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452007">崖一作崔</note>
+<note n="0452008" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452008">落作居又一本無乘落二字</note>
+<note n="0452009" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452009">必一作乞</note>
+<note n="0452010" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452010">懃一作勤</note>
+<note n="0452011" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452011">向一作白</note>
+<note n="0452012" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452012">般疑船</note>
+<note n="0452013" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452013">指一作栢</note>
+<note n="0452014" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452014">十一作千</note>
+<note n="0452015A" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452015A">一無相晦二字</note>
+<note n="0452015B" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452015B">一無相晦二字</note>
+<note n="0452016" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452016">乘一作垂</note>
+<note n="0452017" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452017">遂作送</note>
+<note n="0452018" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452018">來一作平</note>
+<note n="0452019" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452019">又字更勘</note>
+<note n="0452020" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452020">縣一作懸</note>
+<note n="0452021" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0452021">一無引澋二字</note>
+<note n="0453001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453001">法苑一百十九曰冥報記二卷右唐朝永徽年□內吏部尚書唐臨撰此一驗亦出法苑二十六卷</note>
+<note n="0453002" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453002">堦一作階</note>
+<note n="0453003" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453003">一無後字</note>
+<note n="0453004" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453004">吾一作五誤也</note>
+<note n="0453005" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453005">壽當一作當壽</note>
+<note n="0453006" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453006">此一驗亦出法苑七十八卷彼云出梁高僧傳</note>
+<note n="0453007" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453007">聽疑聰</note>
+<note n="0453008" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453008">短壽一作壽短</note>
+<note n="0453009" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453009">此一驗亦引法苑七十八卷彼云出梁高僧傳然今文與彼章全異</note>
+<note n="0453010" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453010">向說一作說胤</note>
+<note n="0453011" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453011">詣一作請一作謂</note>
+<note n="0453012" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453012">一無鬼字</note>
+<note n="0453013" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453013">應一作愍</note>
+<note n="0453014" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453014">後一作復</note>
+<note n="0453015" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453015">令一作命</note>
+<note n="0453016" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453016">更不被追一作更逃</note>
+<note n="0453017" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453017">一一作十</note>
+<note n="0453018" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453018">遂使一作逐便</note>
+<note n="0453019" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453019">此一驗亦出法苑二十六卷彼云出冥報記</note>
+<note n="0453020" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453020">語一作論</note>
+<note n="0453021" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0453021">一無言字</note>
+<note n="0454001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454001">一無受龜身三字</note>
+<note n="0454002" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454002">語一作言</note>
+<note n="0454003" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454003">一無乘字</note>
+<note n="0454004" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454004">來作乘</note>
+<note n="0454005" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454005">崖一作岸下同</note>
+<note n="0454006" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454006">一無枉字</note>
+<note n="0454007" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454007">寶一作實</note>
+<note n="0454008" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454008">欵一作勸</note>
+<note n="0454009" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454009">乃一作仍</note>
+<note n="0454010" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454010">而一作更一作示</note>
+<note n="0454011" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454011"><g ref="#CB15131">󳬛</g>一作邽</note>
+<note n="0454012" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454012">仗一作杖</note>
+<note n="0454013" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0454013">一無而字</note>
+<note n="0455001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455001">里疑黑</note>
+<note n="0455002" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455002">所一作處</note>
+<note n="0455003" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455003">一無中字</note>
+<note n="0455004" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455004">前可一作道</note>
+<note n="0455005" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455005">住疑受</note>
+<note n="0455006" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455006">掛一作排</note>
+<note n="0455007" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455007">懼一作怕</note>
+<note n="0455008" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455008">怨一作恐</note>
+<note n="0455009" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455009">閱一作問</note>
+<note n="0455010" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455010">一無過字</note>
+<note n="0455011" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455011">一無合字</note>
+<note n="0455012" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455012">將上一有領字</note>
+<note n="0455013" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455013">流一作依</note>
+<note n="0455014A" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455014A">二个別一作則</note>
+<note n="0455014B" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0455014B">二个別一作則</note>
+<note n="0456001" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0456001">一無縣字今謂縣疑緜</note>
+<note n="0456002" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0456002">作何一作何作</note>
+<note n="0456003" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0456003">一無及字</note>
+<note n="0456004" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0456004">明一作顯</note>
+<note n="0456005" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0456005">上一作士</note>
+<note n="0456006" resp="#resp1" place="foot text" type="orig" target="#nkr_note_orig_0456006">鍉一作鞮</note>
+</p>
+</cb:div>
+</back></text></TEI>

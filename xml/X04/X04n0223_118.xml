@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X04n0223">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 223 華嚴經合論</title>
+			<author>唐 李通玄造論　志寧釐經合論</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.20 $<date>$Date: 2013/01/30 08:42:05 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		<respStmt xml:id="resp2"><resp>corrections</resp><name>Xuzangjing</name></respStmt>
+		<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA</name></respStmt>
+	</editionStmt>
+	<extent>120卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2013/01/30 08:42:05 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 04, No. 223 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00592">
+	<charName>CBETA CHARACTER CB00592</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[穀-禾+卵]</value>
+	</charProp>
+	<mapping type="unicode">U+3C89</mapping>
+	<mapping cb:dec="983632" type="PUA">U+F0250</mapping>
+</char>
+<char xml:id="CB01475">
+	<charName>CBETA CHARACTER CB01475</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[石*慈]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>磁</value>
+	</charProp>
+	<mapping type="normal_unicode">U+7920</mapping>
+	<mapping cb:dec="984515" type="PUA">U+F05C3</mapping>
+</char>
+<char xml:id="CB08504">
+	<charName>CBETA CHARACTER CB08504</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[舀*炎]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>燄</value>
+	</charProp>
+	<mapping type="unicode">U+269A8</mapping>
+	<mapping cb:dec="991544" type="PUA">U+F2138</mapping>
+</char>
+<char xml:id="CB15691">
+	<charName>CBETA CHARACTER CB15691</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(廉-(前-刖))-〦+立]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>廉</value>
+	</charProp>
+	<mapping cb:dec="998731" type="PUA">U+F3D4B</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2005-11-03T14:49:27">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="品" level="1">入法界品第三十九</cb:mulu><cb:div type="pin">
+<lb ed="X" n="0772a15"/><milestone unit="juan" n="118"/>
+<lb ed="X" n="0772a16"/>
+<lb ed="X" n="0772a17"/>
+<lb ed="X" n="0772a18"/><lb ed="R007" n="0260b06"/><cb:juan fun="open" n="118"><cb:mulu type="卷" n="118"></cb:mulu><cb:jhead>大方廣佛新華嚴經合論卷第一百十八</cb:jhead></cb:juan>
+<lb ed="X" n="0772a19"/><lb ed="R007" n="0260b07"/><byline cb:type="other">唐于闐國三藏沙門實叉難陀譯經</byline>
+<lb ed="X" n="0772a20"/><lb ed="R007" n="0260b08"/><byline cb:type="author">唐太原方山長者李通玄造論</byline>
+<lb ed="X" n="0772a21"/><lb ed="R007" n="0260b09"/><byline cb:type="author">唐福州開元寺沙門志寧釐經合論</byline>
+<lb ed="X" n="0772a22"/><lb ed="R007" n="0260b10"/><cb:div type="pin"><head>入法界品第三十九之三十一</head>
+<lb ed="X" n="0772a23"/><lb ed="R007" n="0260b11"/><cb:div type="orig"><p xml:id="pX04p0772a2301">【經】善男子菩提心者成就如是無量功德舉要言之
+<lb ed="X" n="0772a24"/><lb ed="R007" n="0260b12"/>應知悉與一切佛法諸功德等何以故因菩提心出
+<pb ed="X" xml:id="X04.0223.0772b" n="0772b"/>
+<lb ed="X" n="0772b01"/><lb ed="R007" n="0260b13"/>生一切諸菩薩行三世如來從菩提心而出生故是
+<lb ed="X" n="0772b02"/><lb ed="R007" n="0260b14"/>故善男子若有發阿耨多羅三藐三菩提心者則<anchor xml:id="beg_eec" type="cb-app"/>已<anchor xml:id="end_eec"/>
+<lb ed="X" n="0772b03"/><lb ed="R007" n="0260b15"/>出生無量功德普能攝取一切智道善男子譬如有
+<lb ed="X" n="0772b04"/><lb ed="R007" n="0260b16"/>人得無畏藥離五恐怖何等為五所謂火不能燒毒
+<lb ed="X" n="0772b05"/><lb ed="R007" n="0260b17"/>不能中刀不能傷水不能漂煙不能燻菩薩摩訶薩
+<lb ed="X" n="0772b06"/><lb ed="R007" n="0260b18"/>亦復如是得一切智菩提心藥貪火不燒瞋毒不中
+<lb ed="X" n="0772b07"/><lb ed="R007" n="0261a01"/>惑刀不傷有流不漂諸覺觀煙不能燻害善男子譬
+<lb ed="X" n="0772b08"/><lb ed="R007" n="0261a02"/>如有人得解脫藥終無橫難菩薩摩訶薩亦復如是
+<lb ed="X" n="0772b09"/><lb ed="R007" n="0261a03"/>得菩提心解脫智藥永離一切生死橫難善男子譬
+<lb ed="X" n="0772b10"/><lb ed="R007" n="0261a04"/>如有人持摩訶應伽藥毒蛇聞氣即皆遠去菩薩摩
+<lb ed="X" n="0772b11"/><lb ed="R007" n="0261a05"/>訶薩亦復如是持菩提心大應伽藥一切煩惱諸惡
+<lb ed="X" n="0772b12"/><lb ed="R007" n="0261a06"/>毒蛇聞其氣者悉皆散滅善男子譬如有人持無勝
+<lb ed="X" n="0772b13"/><lb ed="R007" n="0261a07"/>藥一切怨敵無能勝者菩薩摩訶薩亦復如是持菩
+<lb ed="X" n="0772b14"/><lb ed="R007" n="0261a08"/>提心無能勝藥悉能降伏一切魔軍善男子譬如有
+<lb ed="X" n="0772b15"/><lb ed="R007" n="0261a09"/>人持毗笈摩藥能令毒箭自然墮落菩薩摩訶薩亦
+<lb ed="X" n="0772b16"/><lb ed="R007" n="0261a10"/>復如是持菩提心毗笈摩藥令貪恚癡諸邪見箭自
+<lb ed="X" n="0772b17"/><lb ed="R007" n="0261a11"/>然墮落善男子譬如有人持善見藥能除一切所有
+<lb ed="X" n="0772b18"/><lb ed="R007" n="0261a12"/>諸病菩薩摩訶薩亦復如是持菩提心善見藥王悉
+<lb ed="X" n="0772b19"/><lb ed="R007" n="0261a13"/>除一切諸煩惱病善男子如有藥樹名珊陀那有取
+<lb ed="X" n="0772b20"/><lb ed="R007" n="0261a14"/>其皮以塗瘡者瘡即除愈然其樹皮隨取隨生終不
+<lb ed="X" n="0772b21"/><lb ed="R007" n="0261a15"/>可盡菩薩摩訶薩從菩提心生一切智樹亦復如是
+<lb ed="X" n="0772b22"/><lb ed="R007" n="0261a16"/>若有得見而生信者煩惱業瘡悉得消滅一切智樹
+<lb ed="X" n="0772b23"/><lb ed="R007" n="0261a17"/>初無所損善男子如有藥樹名無生根以其力故增
+<lb ed="X" n="0772b24"/><lb ed="R007" n="0261a18"/>長一切閻浮提樹菩薩摩訶薩菩提心樹亦復如是
+<pb ed="X" xml:id="X04.0223.0772c" n="0772c"/>
+<lb ed="X" n="0772c01"/><lb ed="R007" n="0261b01"/>以其力故增長一切學與無學及諸菩薩所有善法
+<lb ed="X" n="0772c02"/><lb ed="R007" n="0261b02"/>善男子譬如有藥名阿藍婆若用塗身身之與心咸
+<lb ed="X" n="0772c03"/><lb ed="R007" n="0261b03"/>有堪能菩薩摩訶薩得菩提心阿藍婆藥亦復如是
+<lb ed="X" n="0772c04"/><lb ed="R007" n="0261b04"/>令其身心增長善法善男子譬如有人得念力藥凡
+<lb ed="X" n="0772c05"/><lb ed="R007" n="0261b05"/>所聞事憶持不忘菩薩摩訶薩得菩提心念力妙藥
+<lb ed="X" n="0772c06"/><lb ed="R007" n="0261b06"/>悉能聞持一切佛法皆無忘失善男子譬如有藥名
+<lb ed="X" n="0772c07"/><lb ed="R007" n="0261b07"/>大蓮華其有服者住壽一劫菩薩摩訶薩服菩提心
+<lb ed="X" n="0772c08"/><lb ed="R007" n="0261b08"/>大蓮華藥亦復如是於無數劫壽命自在善男子譬
+<lb ed="X" n="0772c09"/><lb ed="R007" n="0261b09"/>如有人執翳形藥人與非人悉不能見菩薩摩訶薩
+<lb ed="X" n="0772c10"/><lb ed="R007" n="0261b10"/>執菩提心翳形妙藥一切諸魔不能得見善男子如
+<lb ed="X" n="0772c11"/><lb ed="R007" n="0261b11"/>海有珠名普集眾寶此珠若在假使劫火焚燒世間
+<lb ed="X" n="0772c12"/><lb ed="R007" n="0261b12"/>能令此海減於一滴無有是處菩薩摩訶薩菩提心
+<lb ed="X" n="0772c13"/><lb ed="R007" n="0261b13"/>珠亦復如是住於菩薩大願海中若常憶持不令退
+<lb ed="X" n="0772c14"/><lb ed="R007" n="0261b14"/>失能壞菩薩一善根者終無是處若退其心一切善
+<lb ed="X" n="0772c15"/><lb ed="R007" n="0261b15"/>法即皆散滅善男子如有摩尼名大光明有以此珠
+<lb ed="X" n="0772c16"/><lb ed="R007" n="0261b16"/>纓絡身者暎蔽一切寶莊嚴具所有光明悉皆不現
+<lb ed="X" n="0772c17"/><lb ed="R007" n="0261b17"/>菩薩摩訶薩菩提心寶亦復如是纓絡其身暎蔽一
+<lb ed="X" n="0772c18"/><lb ed="R007" n="0261b18"/>切二乘心寶諸莊嚴具悉無光彩善男子如水清珠
+<lb ed="X" n="0772c19"/><lb ed="R007" n="0262a01"/>能清濁水菩薩摩訶薩菩提心珠亦復如是能清一
+<lb ed="X" n="0772c20"/><lb ed="R007" n="0262a02"/>切煩惱垢濁善男子譬如有人得住水寶繫其身上
+<lb ed="X" n="0772c21"/><lb ed="R007" n="0262a03"/>入大海中不為水害菩薩摩訶薩亦復如是得菩提
+<lb ed="X" n="0772c22"/><lb ed="R007" n="0262a04"/>心住水妙寶入於一切生死海中終不沈沒善男子
+<lb ed="X" n="0772c23"/><lb ed="R007" n="0262a05"/>譬如有人得龍寶珠持入龍宮一切龍蛇不能為害
+<lb ed="X" n="0772c24"/><lb ed="R007" n="0262a06"/>菩薩摩訶薩亦復如是得菩提心大龍寶珠入欲界
+<pb ed="X" xml:id="X04.0223.0773a" n="0773a"/>
+<lb ed="X" n="0773a01"/><lb ed="R007" n="0262a07"/>中煩惱龍蛇不能為害善男子譬如帝釋著摩尼冠
+<lb ed="X" n="0773a02"/><lb ed="R007" n="0262a08"/>暎蔽一切諸餘天眾菩薩摩訶薩亦復如是著菩提
+<lb ed="X" n="0773a03"/><lb ed="R007" n="0262a09"/>心大願寶冠超過一切三界眾生善男子譬如有人
+<lb ed="X" n="0773a04"/><lb ed="R007" n="0262a10"/>得如意珠除滅一切貧窮之苦菩薩摩訶薩亦復如
+<lb ed="X" n="0773a05"/><lb ed="R007" n="0262a11"/>是得菩提心如意寶珠遠離一切邪命怖畏善男子
+<lb ed="X" n="0773a06"/><lb ed="R007" n="0262a12"/>譬如有人得日精珠持向日光而生於火菩薩摩訶
+<lb ed="X" n="0773a07"/><lb ed="R007" n="0262a13"/>薩亦復如是得菩提心智日寶珠持向智光而生智
+<lb ed="X" n="0773a08"/><lb ed="R007" n="0262a14"/>火善男子譬如有人得月精珠持向月光而生於水
+<lb ed="X" n="0773a09"/><lb ed="R007" n="0262a15"/>菩薩摩訶薩亦復如是得菩提心月精寶珠持此心
+<lb ed="X" n="0773a10"/><lb ed="R007" n="0262a16"/>珠鑒迴向光而生一切善根願水善男子譬如龍王
+<lb ed="X" n="0773a11"/><lb ed="R007" n="0262a17"/>首戴如意摩尼寶冠遠離一切怨敵怖畏菩薩摩訶
+<lb ed="X" n="0773a12"/><lb ed="R007" n="0262a18"/>薩亦復如是著菩提心大悲寶冠遠離一切惡道諸
+<lb ed="X" n="0773a13"/><lb ed="R007" n="0262b01"/>難善男子如有寶珠名一切世間莊嚴藏若有得者
+<lb ed="X" n="0773a14"/><lb ed="R007" n="0262b02"/>令其所欲悉得充滿而此寶<anchor xml:id="nkr_note_orig_0773001" n="0773001"/>珠無所損減菩提心寶
+<lb ed="X" n="0773a15"/><lb ed="R007" n="0262b03"/>珠亦復如是若有得者令其所願悉得滿足而菩提
+<lb ed="X" n="0773a16"/><lb ed="R007" n="0262b04"/>心無有損減善男子如轉輪王有摩尼寶置於宮中
+<lb ed="X" n="0773a17"/><lb ed="R007" n="0262b05"/>放大光明破一切暗菩薩摩訶薩亦復如是以菩提
+<lb ed="X" n="0773a18"/><lb ed="R007" n="0262b06"/>心大摩尼寶住於欲界故大智光悉破諸趣無明黑
+<lb ed="X" n="0773a19"/><lb ed="R007" n="0262b07"/>闇善男子譬如帝青大摩尼寶若有為此光明所觸
+<lb ed="X" n="0773a20"/><lb ed="R007" n="0262b08"/>即同其色菩薩摩訶薩菩提心寶亦復如是觀察諸
+<lb ed="X" n="0773a21"/><lb ed="R007" n="0262b09"/>法迴向善根靡不即同菩提心色善男子如琉璃寶
+<lb ed="X" n="0773a22"/><lb ed="R007" n="0262b10"/>於百千歲處不淨中不為臭穢之所染著性本淨故
+<lb ed="X" n="0773a23"/><lb ed="R007" n="0262b11"/>菩薩摩訶薩菩提心寶亦復如是於百千劫住欲界
+<lb ed="X" n="0773a24"/><lb ed="R007" n="0262b12"/>中不為欲界過患所染猶如法界性清淨故善男子
+<pb ed="X" xml:id="X04.0223.0773b" n="0773b"/>
+<lb ed="X" n="0773b01"/><lb ed="R007" n="0262b13"/>譬如有寶名淨光明悉能暎蔽一切寶色菩薩摩訶
+<lb ed="X" n="0773b02"/><lb ed="R007" n="0262b14"/>薩菩提心寶亦復如是悉能暎蔽一切凡夫二乘功
+<lb ed="X" n="0773b03"/><lb ed="R007" n="0262b15"/>德善男子譬如有寶名為火<g ref="#CB08504">𦦨</g>悉能除滅一切暗冥
+<lb ed="X" n="0773b04"/><lb ed="R007" n="0262b16"/>菩薩摩訶薩菩提心寶亦復如是能滅一切無知暗
+<lb ed="X" n="0773b05"/><lb ed="R007" n="0262b17"/>冥善男子譬如海中有無價寶商人採得船載入城
+<lb ed="X" n="0773b06"/><lb ed="R007" n="0262b18"/>諸餘摩尼百千萬種光色價直無與等者菩提心寶
+<lb ed="X" n="0773b07"/><lb ed="R007" n="0263a01"/>亦復如是住於生死大海之中菩薩摩訶薩乘大願
+<lb ed="X" n="0773b08"/><lb ed="R007" n="0263a02"/>船深心相續載之來入解脫城中二乘功德無能及
+<lb ed="X" n="0773b09"/><lb ed="R007" n="0263a03"/>者善男子如有寶珠名自在王處閻浮洲去日月輪
+<lb ed="X" n="0773b10"/><lb ed="R007" n="0263a04"/>四萬由旬日月宮中所有莊嚴其珠影現悉皆具足
+<lb ed="X" n="0773b11"/><lb ed="R007" n="0263a05"/>菩薩摩訶薩發菩提心淨功德寶亦復如是住生死
+<lb ed="X" n="0773b12"/><lb ed="R007" n="0263a06"/>中照法界空佛智日月一切功德悉於中現善男子
+<lb ed="X" n="0773b13"/><lb ed="R007" n="0263a07"/>如有寶珠名自在王日月光明所照之處一切財寶
+<lb ed="X" n="0773b14"/><lb ed="R007" n="0263a08"/>衣服等物所有價直悉不能及菩薩摩訶薩發菩提
+<lb ed="X" n="0773b15"/><lb ed="R007" n="0263a09"/>心自在王寶亦復如是一切智光所照之處三世所
+<lb ed="X" n="0773b16"/><lb ed="R007" n="0263a10"/>有天人二乘漏無漏善一切功德皆不能及善男子
+<lb ed="X" n="0773b17"/><lb ed="R007" n="0263a11"/>海中有寶名曰<anchor xml:id="nkr_note_orig_0773002" n="0773002"/>海藏普現海中諸莊嚴事菩薩摩訶
+<lb ed="X" n="0773b18"/><lb ed="R007" n="0263a12"/>薩菩提心寶亦復如是普能顯現一切智海諸莊嚴
+<lb ed="X" n="0773b19"/><lb ed="R007" n="0263a13"/>事善男子譬如天上閻浮檀金唯除心王大摩尼寶
+<lb ed="X" n="0773b20"/><lb ed="R007" n="0263a14"/>餘無及者菩薩摩訶薩發菩提心閻浮檀金亦復如
+<lb ed="X" n="0773b21"/><lb ed="R007" n="0263a15"/>是除一切智心王大寶餘無及者善男子譬如有人
+<lb ed="X" n="0773b22"/><lb ed="R007" n="0263a16"/>善調龍法於諸龍中而得自在菩薩摩訶薩亦復如
+<lb ed="X" n="0773b23"/><lb ed="R007" n="0263a17"/>是得菩提心善調龍法於諸一切煩惱龍中而得自
+<lb ed="X" n="0773b24"/><lb ed="R007" n="0263a18"/>在善男子譬如勇士被執鎧仗一切怨敵無能降伏
+<pb ed="X" xml:id="X04.0223.0773c" n="0773c"/>
+<lb ed="X" n="0773c01"/><lb ed="R007" n="0263b01"/>菩薩摩訶薩亦復如是被執菩提大心鎧仗一切業
+<lb ed="X" n="0773c02"/><lb ed="R007" n="0263b02"/>惑諸惡怨敵無能屈伏善男子譬如天上黑旃檀香
+<lb ed="X" n="0773c03"/><lb ed="R007" n="0263b03"/>若燒一銖其香普熏小千世界三千世界滿中珍寶
+<lb ed="X" n="0773c04"/><lb ed="R007" n="0263b04"/>所有價直皆不能及菩薩摩訶薩菩提心香亦復如
+<lb ed="X" n="0773c05"/><lb ed="R007" n="0263b05"/>是一念功德普熏法界聲聞緣覺一切功德皆所不
+<lb ed="X" n="0773c06"/><lb ed="R007" n="0263b06"/>及善男子如白旃檀若以塗身悉能除滅一切熱惱
+<lb ed="X" n="0773c07"/><lb ed="R007" n="0263b07"/>令其身心普得清涼菩薩摩訶薩菩提心香亦復如
+<lb ed="X" n="0773c08"/><lb ed="R007" n="0263b08"/>是能除一切虗妄分別貪恚癡等諸惑熱惱令其具
+<lb ed="X" n="0773c09"/><lb ed="R007" n="0263b09"/>足智慧清涼善男子如須彌山若有近者即同其色
+<lb ed="X" n="0773c10"/><lb ed="R007" n="0263b10"/>菩薩摩訶薩菩提心山亦復如是若有近者悉得同
+<lb ed="X" n="0773c11"/><lb ed="R007" n="0263b11"/>其一切智色善男子譬如波利質多羅樹其皮香氣
+<lb ed="X" n="0773c12"/><lb ed="R007" n="0263b12"/>閻浮提中若婆師迦<anchor xml:id="nkr_note_orig_0773003" n="0773003"/>若<anchor xml:id="nkr_note_orig_0773004" n="0773004"/>薝蔔迦若蘇摩那如是等華
+<lb ed="X" n="0773c13"/><lb ed="R007" n="0263b13"/>所有香氣皆不能及菩薩摩訶薩菩提心樹亦復如
+<lb ed="X" n="0773c14"/><lb ed="R007" n="0263b14"/>是所發大願功德之香一切二乘無漏戒定智慧解
+<lb ed="X" n="0773c15"/><lb ed="R007" n="0263b15"/>脫解脫知見諸功德香悉不能及善男子譬如波利
+<lb ed="X" n="0773c16"/><lb ed="R007" n="0263b16"/>質多羅樹雖未開華應知即是無量諸華出生之處
+<lb ed="X" n="0773c17"/><lb ed="R007" n="0263b17"/>菩薩摩訶薩菩提心樹亦復如是雖未開發一切智
+<lb ed="X" n="0773c18"/><lb ed="R007" n="0263b18"/>華應知即是無數天人眾菩提華所生之處善男子
+<lb ed="X" n="0773c19"/><lb ed="R007" n="0264a01"/>譬如波利質多羅華一日熏衣薝蔔迦華婆利師華
+<lb ed="X" n="0773c20"/><lb ed="R007" n="0264a02"/>蘇摩那華雖千歲熏亦不能及菩薩摩訶薩菩提心
+<lb ed="X" n="0773c21"/><lb ed="R007" n="0264a03"/>華亦復如是一生所熏諸功德香普徹十方一切佛
+<lb ed="X" n="0773c22"/><lb ed="R007" n="0264a04"/>所一切二乘無漏功德百千劫熏所不能及善男子
+<lb ed="X" n="0773c23"/><lb ed="R007" n="0264a05"/>如海島中生椰子樹根莖枝葉及以華果一切眾生
+<lb ed="X" n="0773c24"/><lb ed="R007" n="0264a06"/>恒取受用無時暫歇菩薩摩訶薩菩提心樹亦復如
+<pb ed="X" xml:id="X04.0223.0774a" n="0774a"/>
+<lb ed="X" n="0774a01"/><lb ed="R007" n="0264a07"/>是始從發起悲願之心乃至成佛正法住世常時利
+<lb ed="X" n="0774a02"/><lb ed="R007" n="0264a08"/>益一切世間無有間歇善男子如有藥汁名訶宅迦
+<lb ed="X" n="0774a03"/><lb ed="R007" n="0264a09"/>人或得之以其一兩變千兩銅悉成真金非千兩銅
+<lb ed="X" n="0774a04"/><lb ed="R007" n="0264a10"/>能變此藥菩薩摩訶薩亦復如是以菩提心迴向智
+<lb ed="X" n="0774a05"/><lb ed="R007" n="0264a11"/>藥普變一切業惑等法悉使成於一切智相非業惑
+<lb ed="X" n="0774a06"/><lb ed="R007" n="0264a12"/>等能變其心善男子譬如小火隨所焚燒其<g ref="#CB08504">𦦨</g>轉熾
+<lb ed="X" n="0774a07"/><lb ed="R007" n="0264a13"/>菩薩摩訶薩菩提心火亦復如是隨所攀緣智<g ref="#CB08504">𦦨</g>增
+<lb ed="X" n="0774a08"/><lb ed="R007" n="0264a14"/>長善男子譬如一燈然百千燈其本一燈無減無盡
+<lb ed="X" n="0774a09"/><lb ed="R007" n="0264a15"/>菩薩摩訶薩菩提心燈亦復如是普然三世諸佛智
+<lb ed="X" n="0774a10"/><lb ed="R007" n="0264a16"/>燈而其心燈無減無盡善男子譬如一燈入於暗室
+<lb ed="X" n="0774a11"/><lb ed="R007" n="0264a17"/>百千年闇悉能破盡菩薩摩訶薩菩提心燈亦復如
+<lb ed="X" n="0774a12"/><lb ed="R007" n="0264a18"/>是入於眾生心室之內百千萬億不可說劫諸業煩
+<lb ed="X" n="0774a13"/><lb ed="R007" n="0264b01"/>惱種種暗障悉能除盡善男子譬如燈炷隨其大小
+<lb ed="X" n="0774a14"/><lb ed="R007" n="0264b02"/>而發光明若益膏油明終不絕菩薩摩訶薩菩提心
+<lb ed="X" n="0774a15"/><lb ed="R007" n="0264b03"/>燈亦復如是大願為炷光照法界益大悲油教化眾
+<lb ed="X" n="0774a16"/><lb ed="R007" n="0264b04"/>生莊嚴國土施作佛事無有休息善男子譬如他化
+<lb ed="X" n="0774a17"/><lb ed="R007" n="0264b05"/>自在天王冠閻浮檀真金天冠欲界天子諸莊嚴具
+<lb ed="X" n="0774a18"/><lb ed="R007" n="0264b06"/>皆不能及菩薩摩訶薩亦復如是冠菩提心大願天
+<lb ed="X" n="0774a19"/><lb ed="R007" n="0264b07"/>冠一切凡夫二乘功德皆不能及善男子如師子王
+<lb ed="X" n="0774a20"/><lb ed="R007" n="0264b08"/>哮吼之時師子兒聞皆增勇健餘獸聞之即皆竄伏
+<lb ed="X" n="0774a21"/><lb ed="R007" n="0264b09"/>佛師子王菩提心吼應知亦爾諸菩薩聞增長功德
+<lb ed="X" n="0774a22"/><lb ed="R007" n="0264b10"/>有所得者聞皆退散善男子譬如有人以師子荕而
+<lb ed="X" n="0774a23"/><lb ed="R007" n="0264b11"/>為樂絃其音既奏餘絃悉絕菩薩摩訶薩亦復如是
+<lb ed="X" n="0774a24"/><lb ed="R007" n="0264b12"/>以如來師子波羅蜜身菩提心荕為法樂絃其音既
+<pb ed="X" xml:id="X04.0223.0774b" n="0774b"/>
+<lb ed="X" n="0774b01"/><lb ed="R007" n="0264b13"/>奏一切五欲及以二乘諸功德絃悉皆斷滅善男子
+<lb ed="X" n="0774b02"/><lb ed="R007" n="0264b14"/>譬如有人以牛羊等種種諸乳假使積集盈於大海
+<lb ed="X" n="0774b03"/><lb ed="R007" n="0264b15"/>以師子乳一滴投中悉令變壞直過無礙菩薩摩訶
+<lb ed="X" n="0774b04"/><lb ed="R007" n="0264b16"/>薩亦復如是以如來師子菩提心乳著無量劫業煩
+<lb ed="X" n="0774b05"/><lb ed="R007" n="0264b17"/>惱乳大海之中悉令壞滅直過無礙終不住於二乘
+<lb ed="X" n="0774b06"/><lb ed="R007" n="0264b18"/>解脫善男子譬如迦陵頻伽鳥在卵<g ref="#CB00592">㲉</g>中有大勢力
+<lb ed="X" n="0774b07"/><lb ed="R007" n="0265a01"/>一切諸鳥所不能及菩薩摩訶薩亦復如是於生死
+<lb ed="X" n="0774b08"/><lb ed="R007" n="0265a02"/><g ref="#CB00592">㲉</g>發菩提心所有大悲功德勢力聲聞緣覺無能及
+<lb ed="X" n="0774b09"/><lb ed="R007" n="0265a03"/>者善男子如金翅鳥王子初始生時目則明利飛則
+<lb ed="X" n="0774b10"/><lb ed="R007" n="0265a04"/>勁捷一切諸鳥雖久成長無能及者菩薩摩訶薩亦
+<lb ed="X" n="0774b11"/><lb ed="R007" n="0265a05"/>復如是發菩提心為佛王子智慧清淨大悲勇猛一
+<lb ed="X" n="0774b12"/><lb ed="R007" n="0265a06"/>切二乘雖百千劫久修道行所不能及善男子如有
+<lb ed="X" n="0774b13"/><lb ed="R007" n="0265a07"/>壯夫手執利矛<anchor xml:id="beg_eed" type="cb-app"/>刺<anchor xml:id="end_eed"/>堅密甲直過無礙菩薩摩訶薩亦
+<lb ed="X" n="0774b14"/><lb ed="R007" n="0265a08"/>復如是執菩提心銛利快矛<anchor xml:id="beg_eee" type="cb-app"/>刺<anchor xml:id="end_eee"/>諸邪見隨眠密甲悉
+<lb ed="X" n="0774b15"/><lb ed="R007" n="0265a09"/>能穿徹無有障礙善男子譬如摩訶那伽大力勇士
+<lb ed="X" n="0774b16"/><lb ed="R007" n="0265a10"/>若奮威怒於其額上必生瘡疱瘡若未合閻浮提中
+<lb ed="X" n="0774b17"/><lb ed="R007" n="0265a11"/>一切人民無能制伏菩薩摩訶薩亦復如是若起大
+<lb ed="X" n="0774b18"/><lb ed="R007" n="0265a12"/>悲必定發於菩提之心心未捨來一切世間魔及魔
+<lb ed="X" n="0774b19"/><lb ed="R007" n="0265a13"/>民不能為害善男子譬如射師有諸弟子雖未慣習
+<lb ed="X" n="0774b20"/><lb ed="R007" n="0265a14"/>其師技藝然其智慧方便善巧餘一切人所不能及
+<lb ed="X" n="0774b21"/><lb ed="R007" n="0265a15"/>菩薩摩訶薩初始發心亦復如是雖未慣習一切智
+<lb ed="X" n="0774b22"/><lb ed="R007" n="0265a16"/>行然其所有願智解欲一切世間凡夫二乘悉不能
+<lb ed="X" n="0774b23"/><lb ed="R007" n="0265a17"/>及善男子如人學射先安其足後習其法菩薩摩訶
+<lb ed="X" n="0774b24"/><lb ed="R007" n="0265a18"/>薩亦復如是欲學如來一切智道先當安住菩提之
+<pb ed="X" xml:id="X04.0223.0774c" n="0774c"/>
+<lb ed="X" n="0774c01"/><lb ed="R007" n="0265b01"/>心然後修行一切佛法善男子譬如幻師將作幻事
+<lb ed="X" n="0774c02"/><lb ed="R007" n="0265b02"/>先當起意憶持幻法然後所作悉得成就菩薩摩訶
+<lb ed="X" n="0774c03"/><lb ed="R007" n="0265b03"/>薩亦復如是將起一切諸佛菩薩神通幻事先當起
+<lb ed="X" n="0774c04"/><lb ed="R007" n="0265b04"/>意發菩提心然後一切悉得成就善男子譬如幻術
+<lb ed="X" n="0774c05"/><lb ed="R007" n="0265b05"/>無色現色菩薩摩訶薩菩提心相亦復如是雖無有
+<lb ed="X" n="0774c06"/><lb ed="R007" n="0265b06"/>色不可覩見然能普於十方法界示現種種功德莊
+<lb ed="X" n="0774c07"/><lb ed="R007" n="0265b07"/>嚴善男子譬如猫狸纔見於鼠鼠即入穴不敢復出
+<lb ed="X" n="0774c08"/><lb ed="R007" n="0265b08"/>菩薩摩訶薩發菩提心亦復如是暫以慧眼觀諸惑
+<lb ed="X" n="0774c09"/><lb ed="R007" n="0265b09"/>業皆即竄匿不復出生善男子譬如有人著閻浮金
+<lb ed="X" n="0774c10"/><lb ed="R007" n="0265b10"/>莊嚴之具暎蔽一切皆如聚墨菩薩摩訶薩亦復如
+<lb ed="X" n="0774c11"/><lb ed="R007" n="0265b11"/>是著菩提心莊嚴之具暎蔽一切凡夫二乘功德莊
+<lb ed="X" n="0774c12"/><lb ed="R007" n="0265b12"/>嚴悉無光色善男子如好<g ref="#CB01475">󰗃</g>石少分之力即能吸壞
+<lb ed="X" n="0774c13"/><lb ed="R007" n="0265b13"/>諸鐵鉤鎻菩薩摩訶薩發菩提心亦復如是若起一
+<lb ed="X" n="0774c14"/><lb ed="R007" n="0265b14"/>念悉能壞滅一切見欲無明鉤鎻善男子如有<g ref="#CB01475">󰗃</g>石
+<lb ed="X" n="0774c15"/><lb ed="R007" n="0265b15"/>鐵若見之即皆散去無留住者菩薩摩訶薩發菩提
+<lb ed="X" n="0774c16"/><lb ed="R007" n="0265b16"/>心亦復如是諸業煩惱二乘解脫若暫見之即皆散
+<lb ed="X" n="0774c17"/><lb ed="R007" n="0265b17"/>滅亦無住者善男子譬如有人善入大海一切水族
+<lb ed="X" n="0774c18"/><lb ed="R007" n="0265b18"/>無能為害假使入於摩竭魚口亦不為彼之所吞噬
+<lb ed="X" n="0774c19"/><lb ed="R007" n="0266a01"/>菩薩摩訶薩亦復如是發菩提心入生死海諸業煩
+<lb ed="X" n="0774c20"/><lb ed="R007" n="0266a02"/>惱不能為害假使入於聲聞緣覺實際法中亦不為
+<lb ed="X" n="0774c21"/><lb ed="R007" n="0266a03"/>其之所留難善男子譬如有人飲甘露漿一切諸物
+<lb ed="X" n="0774c22"/><lb ed="R007" n="0266a04"/>不能為害菩薩摩訶薩亦復如是飲菩提心甘露法
+<lb ed="X" n="0774c23"/><lb ed="R007" n="0266a05"/>漿不墮聲聞辟支佛地以具廣大悲願力故善男子
+<lb ed="X" n="0774c24"/><lb ed="R007" n="0266a06"/>譬如有人得安繕那藥以塗其目雖行人間人所不
+<pb ed="X" xml:id="X04.0223.0775a" n="0775a"/>
+<lb ed="X" n="0775a01"/><lb ed="R007" n="0266a07"/>見菩薩摩訶薩亦復如是得菩提心安繕那藥能以
+<lb ed="X" n="0775a02"/><lb ed="R007" n="0266a08"/>方便入魔境界一切眾魔所不能見善男子譬如有
+<lb ed="X" n="0775a03"/><lb ed="R007" n="0266a09"/>人依附於王不畏餘人菩薩摩訶薩亦復如是依菩
+<lb ed="X" n="0775a04"/><lb ed="R007" n="0266a10"/>提心大勢力王不畏障蓋惡道之難善男子譬如有
+<lb ed="X" n="0775a05"/><lb ed="R007" n="0266a11"/>人住於水中不畏火焚菩薩摩訶薩亦復如是住菩
+<lb ed="X" n="0775a06"/><lb ed="R007" n="0266a12"/>提心善根水中不畏二乘解脫智火善男子譬如有
+<lb ed="X" n="0775a07"/><lb ed="R007" n="0266a13"/>人依倚猛將即不怖畏一切怨敵菩薩摩訶薩亦復
+<lb ed="X" n="0775a08"/><lb ed="R007" n="0266a14"/>如是依菩提心勇猛大將不畏一切惡行怨敵善男
+<lb ed="X" n="0775a09"/><lb ed="R007" n="0266a15"/>子如釋天王執金剛杵摧伏一切阿脩羅眾菩薩摩
+<lb ed="X" n="0775a10"/><lb ed="R007" n="0266a16"/>訶薩亦復如是持菩提心金剛之杵摧伏一切諸魔
+<lb ed="X" n="0775a11"/><lb ed="R007" n="0266a17"/>外道善男子譬如有人服延齡藥長得充健不老不
+<lb ed="X" n="0775a12"/><lb ed="R007" n="0266a18"/>瘦菩薩摩訶薩亦復如是服菩提心延齡之藥於無
+<lb ed="X" n="0775a13"/><lb ed="R007" n="0266b01"/>數劫修菩薩行心無疲厭亦無染著善男子譬如有
+<lb ed="X" n="0775a14"/><lb ed="R007" n="0266b02"/>人調和藥汁必當先取好清淨水菩薩摩訶薩亦復
+<lb ed="X" n="0775a15"/><lb ed="R007" n="0266b03"/>如是欲修菩薩一切行願先當發起菩提之心善男
+<lb ed="X" n="0775a16"/><lb ed="R007" n="0266b04"/>子如人護身先護命根菩薩摩訶薩亦復如是護持
+<lb ed="X" n="0775a17"/><lb ed="R007" n="0266b05"/>佛法亦當先護菩提之心善男子譬如有人命根若
+<lb ed="X" n="0775a18"/><lb ed="R007" n="0266b06"/>斷不能利益父母宗親菩薩摩訶薩亦復如是捨菩
+<lb ed="X" n="0775a19"/><lb ed="R007" n="0266b07"/>提心不能利益一切眾生不能成就諸佛功德善男
+<lb ed="X" n="0775a20"/><lb ed="R007" n="0266b08"/>子譬如大海無能壞者菩提心海亦復如是諸業煩
+<lb ed="X" n="0775a21"/><lb ed="R007" n="0266b09"/>惱二乘之心所不能壞善男子譬如日光星宿光明
+<lb ed="X" n="0775a22"/><lb ed="R007" n="0266b10"/>不能暎蔽菩提心日亦復如是一切二乘無漏智光
+<lb ed="X" n="0775a23"/><lb ed="R007" n="0266b11"/>所不能蔽善男子如王子初生即為大臣之所尊重
+<lb ed="X" n="0775a24"/><lb ed="R007" n="0266b12"/>以種性自在故菩薩摩訶薩亦復如是於佛法中發
+<pb ed="X" xml:id="X04.0223.0775b" n="0775b"/>
+<lb ed="X" n="0775b01"/><lb ed="R007" n="0266b13"/>菩提心即為耆宿久修梵行聲聞緣覺所共尊重以
+<lb ed="X" n="0775b02"/><lb ed="R007" n="0266b14"/>大悲自在故善男子譬如王子年雖幼稚一切大臣
+<lb ed="X" n="0775b03"/><lb ed="R007" n="0266b15"/>皆悉敬禮菩薩摩訶薩亦復如是雖初發心修菩薩
+<lb ed="X" n="0775b04"/><lb ed="R007" n="0266b16"/>行二乘耆舊皆應敬禮善男子譬如王子雖於一切
+<lb ed="X" n="0775b05"/><lb ed="R007" n="0266b17"/>臣佐之中未得自在<anchor xml:id="beg_eef" type="cb-app"/>已<anchor xml:id="end_eef"/>具<anchor xml:id="nkr_note_orig_0775001" n="0775001"/>王相不與一切諸臣佐等
+<lb ed="X" n="0775b06"/><lb ed="R007" n="0266b18"/>以生處尊勝故菩薩摩訶薩亦復如是雖於一切業
+<lb ed="X" n="0775b07"/><lb ed="R007" n="0267a01"/>煩惱中未得自在然<anchor xml:id="beg_ef0" type="cb-app"/>已<anchor xml:id="end_ef0"/>具足菩提之相不與一切二
+<lb ed="X" n="0775b08"/><lb ed="R007" n="0267a02"/>乘齊等以種性第一故善男子譬如清淨摩尼妙寶
+<lb ed="X" n="0775b09"/><lb ed="R007" n="0267a03"/>眼有翳故見為不淨菩薩摩訶薩菩提心寶亦復如
+<lb ed="X" n="0775b10"/><lb ed="R007" n="0267a04"/>是無智不信謂為不淨善男子譬如有藥為呪所持
+<lb ed="X" n="0775b11"/><lb ed="R007" n="0267a05"/>若有眾生見聞同住一切諸病皆得消滅菩薩摩訶
+<lb ed="X" n="0775b12"/><lb ed="R007" n="0267a06"/>薩菩提心藥亦復如是一切善根智慧方便菩薩願
+<lb ed="X" n="0775b13"/><lb ed="R007" n="0267a07"/>智共所攝持若有眾生見聞同住憶念之者諸煩惱
+<lb ed="X" n="0775b14"/><lb ed="R007" n="0267a08"/>疾悉得除滅善男子譬如有人常持甘露其身畢竟
+<lb ed="X" n="0775b15"/><lb ed="R007" n="0267a09"/>不變不壞菩薩摩訶薩亦復如是若常憶持菩提心
+<lb ed="X" n="0775b16"/><lb ed="R007" n="0267a10"/>甘露令願智身畢竟不壞善男子如機關木人若無
+<lb ed="X" n="0775b17"/><lb ed="R007" n="0267a11"/>有楔身即離散不能運動菩薩摩訶薩亦復如是無
+<lb ed="X" n="0775b18"/><lb ed="R007" n="0267a12"/>菩提心行即分散不能成就一切佛法善男子如轉
+<lb ed="X" n="0775b19"/><lb ed="R007" n="0267a13"/>輪王有沈香寶名曰象藏若燒此香王四種兵悉騰
+<lb ed="X" n="0775b20"/><lb ed="R007" n="0267a14"/>虗空菩薩摩訶薩菩提心香亦復如是若發此意即
+<lb ed="X" n="0775b21"/><lb ed="R007" n="0267a15"/>令菩薩一切善根永出三界行如來智無為空中善
+<lb ed="X" n="0775b22"/><lb ed="R007" n="0267a16"/>男子譬如金剛唯從金剛處及金處生非餘寶處生
+<lb ed="X" n="0775b23"/><lb ed="R007" n="0267a17"/>菩薩摩訶薩菩提心金剛亦復如是唯從大悲救護
+<lb ed="X" n="0775b24"/><lb ed="R007" n="0267a18"/>眾生金剛處一切智智殊勝境界金處而生非餘眾
+<pb ed="X" xml:id="X04.0223.0775c" n="0775c"/>
+<lb ed="X" n="0775c01"/><lb ed="R007" n="0267b01"/>生善根處生善男子譬如有樹名曰無根不從根生
+<lb ed="X" n="0775c02"/><lb ed="R007" n="0267b02"/>而枝葉華果悉皆繁茂菩薩摩訶薩菩提心樹亦復
+<lb ed="X" n="0775c03"/><lb ed="R007" n="0267b03"/>如是無根可得而能長養一切智智神通大願枝葉
+<lb ed="X" n="0775c04"/><lb ed="R007" n="0267b04"/>華果扶疎蔭暎普覆世間善男子譬如金剛非劣惡
+<lb ed="X" n="0775c05"/><lb ed="R007" n="0267b05"/>器及以破器所能容持唯除全具上妙之器菩提心
+<lb ed="X" n="0775c06"/><lb ed="R007" n="0267b06"/>金剛亦復如是非下劣眾生慳嫉破戒懈怠妄念無
+<lb ed="X" n="0775c07"/><lb ed="R007" n="0267b07"/>智器中所能容持亦非退失殊勝志願散亂惡覺眾
+<lb ed="X" n="0775c08"/><lb ed="R007" n="0267b08"/>生器中所能容持唯除菩薩深心寶器善男子譬如
+<lb ed="X" n="0775c09"/><lb ed="R007" n="0267b09"/>金剛能穿眾寶菩提心金剛亦復如是悉能穿徹一
+<lb ed="X" n="0775c10"/><lb ed="R007" n="0267b10"/>切法寶善男子譬如金剛能壞眾山菩提心金剛亦
+<lb ed="X" n="0775c11"/><lb ed="R007" n="0267b11"/>復如是悉能摧壞諸邪見山善男子譬如金剛雖破
+<lb ed="X" n="0775c12"/><lb ed="R007" n="0267b12"/>不全一切眾寶猶不能及菩提心金剛亦復如是雖
+<lb ed="X" n="0775c13"/><lb ed="R007" n="0267b13"/>復志劣少有虧損猶勝一切二乘功德善男子譬如
+<lb ed="X" n="0775c14"/><lb ed="R007" n="0267b14"/>金剛雖有損缺猶能除滅一切貧窮菩提心金剛亦
+<lb ed="X" n="0775c15"/><lb ed="R007" n="0267b15"/>復如是雖有損缺不進諸行猶能捨離一切生死善
+<lb ed="X" n="0775c16"/><lb ed="R007" n="0267b16"/>男子如小金剛悉能破壞一切諸物菩提心金剛亦
+<lb ed="X" n="0775c17"/><lb ed="R007" n="0267b17"/>復如是入少境界即破一切無知諸惑善男子譬如
+<lb ed="X" n="0775c18"/><lb ed="R007" n="0267b18"/>金剛非凡人所得菩提心金剛亦復如是非劣意眾
+<lb ed="X" n="0775c19"/><lb ed="R007" n="0268a01"/>生之所能得善男子譬如金剛不識寶人不知其能
+<lb ed="X" n="0775c20"/><lb ed="R007" n="0268a02"/>不得其用菩提心金剛亦復如是不知法人不了其
+<lb ed="X" n="0775c21"/><lb ed="R007" n="0268a03"/>能不得其用善男子譬如金剛無能消滅菩提心金
+<lb ed="X" n="0775c22"/><lb ed="R007" n="0268a04"/>剛亦復如是一切諸法無能消滅善男子如金剛杵
+<lb ed="X" n="0775c23"/><lb ed="R007" n="0268a05"/>諸大力士皆不能持唯除有大那羅延力菩提之心
+<lb ed="X" n="0775c24"/><lb ed="R007" n="0268a06"/>亦復如是一切二乘皆不能持唯除菩薩廣大因緣
+<pb ed="X" xml:id="X04.0223.0776a" n="0776a"/>
+<lb ed="X" n="0776a01"/><lb ed="R007" n="0268a07"/>堅固善力善男子譬如金剛一切諸物無能壞者而
+<lb ed="X" n="0776a02"/><lb ed="R007" n="0268a08"/>能普壞一切諸物然其體性無所損減菩提之心亦
+<lb ed="X" n="0776a03"/><lb ed="R007" n="0268a09"/>復如是普於三世無數劫中教化眾生修行苦行聲
+<lb ed="X" n="0776a04"/><lb ed="R007" n="0268a10"/>聞緣覺所不能者咸能作之然其畢竟無有疲厭亦
+<lb ed="X" n="0776a05"/><lb ed="R007" n="0268a11"/>無損壞善男子譬如金剛餘不能持唯金剛地之所
+<lb ed="X" n="0776a06"/><lb ed="R007" n="0268a12"/>能持菩提之心亦復如是聲聞緣覺皆不能持唯除
+<lb ed="X" n="0776a07"/><lb ed="R007" n="0268a13"/>趣向薩婆若者善男子如金剛器無有瑕缺用盛於
+<lb ed="X" n="0776a08"/><lb ed="R007" n="0268a14"/>水永不滲漏而入於地菩提心金剛器亦復如是盛
+<lb ed="X" n="0776a09"/><lb ed="R007" n="0268a15"/>善根水永不滲漏令入諸趣善男子如金剛際能持
+<lb ed="X" n="0776a10"/><lb ed="R007" n="0268a16"/>大地不令墜沒菩提之心亦復如是能持菩薩一切
+<lb ed="X" n="0776a11"/><lb ed="R007" n="0268a17"/>行願不令墜沒入於三界善男子譬如金剛久處水
+<lb ed="X" n="0776a12"/><lb ed="R007" n="0268a18"/>中不爛不濕菩提之心亦復如是於一切劫處在生
+<lb ed="X" n="0776a13"/><lb ed="R007" n="0268b01"/>死業惑水中無壞無變善男子譬如金剛一切諸火
+<lb ed="X" n="0776a14"/><lb ed="R007" n="0268b02"/>不能燒然不能令熱菩提之心亦復如是一切生死
+<lb ed="X" n="0776a15"/><lb ed="R007" n="0268b03"/>諸煩惱火不能燒然不能令熱善男子譬如三千世
+<lb ed="X" n="0776a16"/><lb ed="R007" n="0268b04"/>界之中金剛座上能持諸佛坐於道場降伏諸魔成
+<lb ed="X" n="0776a17"/><lb ed="R007" n="0268b05"/>等正覺非是餘座之所能持菩提心座亦復如是能
+<lb ed="X" n="0776a18"/><lb ed="R007" n="0268b06"/>持菩薩一切願行諸波羅蜜諸忍諸地迴向受記修
+<lb ed="X" n="0776a19"/><lb ed="R007" n="0268b07"/>習菩提助道之法供養諸佛聞法受行一切餘心所
+<lb ed="X" n="0776a20"/><lb ed="R007" n="0268b08"/>不能持善男子菩提心者成就如是無量無邊乃至
+<lb ed="X" n="0776a21"/><lb ed="R007" n="0268b09"/>不可說不可說殊勝功德若有眾生發阿耨多羅三
+<lb ed="X" n="0776a22"/><lb ed="R007" n="0268b10"/>藐三菩提心則獲如是勝功德法是故善男子汝獲
+<lb ed="X" n="0776a23"/><lb ed="R007" n="0268b11"/>善利汝發阿耨多羅三藐三菩提心求菩薩行<anchor xml:id="beg_ef1" type="cb-app"/>已<anchor xml:id="end_ef1"/>得
+<lb ed="X" n="0776a24"/><lb ed="R007" n="0268b12"/>如是大功德故善男子如汝所問菩薩云何學菩薩
+<pb ed="X" xml:id="X04.0223.0776b" n="0776b"/>
+<lb ed="X" n="0776b01"/><lb ed="R007" n="0268b13"/>行修菩薩道善男子汝可入此毗盧遮那莊嚴藏大
+<lb ed="X" n="0776b02"/><lb ed="R007" n="0268b14"/>樓閣中周徧觀察則能了知學菩薩行學<anchor xml:id="beg_ef2" type="cb-app"/>已<anchor xml:id="end_ef2"/>成就無
+<lb ed="X" n="0776b03"/><lb ed="R007" n="0268b15"/>量功德。</p></cb:div>
+<lb ed="X" n="0776b04"/><lb ed="R007" n="0268b16"/><cb:div type="commentary"><p xml:id="pX04p0776b0401" rend="margin-left:1em">【論】第六爾時善財童子合掌恭敬<anchor xml:id="beg_ef3" type="cb-app"/>已<anchor xml:id="end_ef3"/>下至此卷末
+<lb ed="X" n="0776b05"/><lb ed="R007" n="0268b17"/>明善財申<anchor xml:id="beg_ef4" type="cb-app"/>己已<anchor xml:id="end_ef4"/>發大菩提心慈氏為讚菩提心善
+<lb ed="X" n="0776b06"/><lb ed="R007" n="0268b18"/>根功力不思議分意明一切神通道力菩薩萬行
+<lb ed="X" n="0776b07"/><lb ed="R007" n="0269a01"/>皆以菩提心為根本滅生死截苦流淨八萬四千
+<lb ed="X" n="0776b08"/><lb ed="R007" n="0269a02"/>煩惱門顯成一切智海皆以菩提心為根本如文
+<lb ed="X" n="0776b09"/><lb ed="R007" n="0269a03"/>廣歎以菩提心無依無住無有體性生滅可得如
+<lb ed="X" n="0776b10"/><lb ed="R007" n="0269a04"/>是現前煩惱自淨智海便現由智現故種種方便
+<lb ed="X" n="0776b11"/><lb ed="R007" n="0269a05"/>神通萬行以智能成由菩提心無依故智亦無依
+<lb ed="X" n="0776b12"/><lb ed="R007" n="0269a06"/>以智無依故一切所作皆無作者依住可得以此
+<lb ed="X" n="0776b13"/><lb ed="R007" n="0269a07"/>生死業亡唯智自在大悲萬行從智而生智體無
+<lb ed="X" n="0776b14"/><lb ed="R007" n="0269a08"/>依萬行如化利生如幻神通道力如空中月普現
+<lb ed="X" n="0776b15"/><lb ed="R007" n="0269a09"/>眾水智體不去眾生心水不來隨自業淨與智同
+<lb ed="X" n="0776b16"/><lb ed="R007" n="0269a10"/>體隨淨淺深現智各異非此非彼若欲見十方諸
+<lb ed="X" n="0776b17"/><lb ed="R007" n="0269a11"/>佛如來智海但自淨十二有支業緣佛智現爾但
+<lb ed="X" n="0776b18"/><lb ed="R007" n="0269a12"/>求他勝境自法便隱不及知法一一自<anchor xml:id="beg_ef5" type="cb-app"/>己<anchor xml:id="end_ef5"/>功成不
+<lb ed="X" n="0776b19"/><lb ed="R007" n="0269a13"/>損功程不違聖旨如善財一一善友所具其五位
+<lb ed="X" n="0776b20"/><lb ed="R007" n="0269a14"/>方便加行菩薩之法不著他法不著自心無所依
+<lb ed="X" n="0776b21"/><lb ed="R007" n="0269a15"/>住但令其心廣大以方便三昧饒益廣多令一切
+<lb ed="X" n="0776b22"/><lb ed="R007" n="0269a16"/>眾生皆得離苦又令自心至究竟實法亦令眾生
+<lb ed="X" n="0776b23"/><lb ed="R007" n="0269a17"/>皆悉同得十方諸佛一切菩薩諸法利眾生諸行
+<lb ed="X" n="0776b24"/><lb ed="R007" n="0269a18"/>乃至一眾生法不知不了不名為智滿之佛不名
+<pb ed="X" xml:id="X04.0223.0776c" n="0776c"/>
+<lb ed="X" n="0776c01"/><lb ed="R007" n="0269b01"/>摩訶薩。</p></cb:div>
+<lb ed="X" n="0776c02"/><lb ed="R007" n="0269b02"/><cb:div type="orig"><p xml:id="pX04p0776c0201">【經】爾時善財童子恭敬右遶彌勒菩薩摩訶薩<anchor xml:id="beg_ef6" type="cb-app"/>已<anchor xml:id="end_ef6"/>而
+<lb ed="X" n="0776c03"/><lb ed="R007" n="0269b03"/>白之言唯願大聖開樓閣門令我得入時彌勒菩薩
+<lb ed="X" n="0776c04"/><lb ed="R007" n="0269b04"/>前詣樓閣彈指出聲其門即開命善財入善財心喜
+<lb ed="X" n="0776c05"/><lb ed="R007" n="0269b05"/>入<anchor xml:id="beg_ef7" type="cb-app"/>已<anchor xml:id="end_ef7"/>還閉見其樓閣廣博無量同於虗空阿僧祇寶
+<lb ed="X" n="0776c06"/><lb ed="R007" n="0269b06"/>以為其地阿僧祇宮殿阿僧祇門闥阿僧祇牕牖阿
+<lb ed="X" n="0776c07"/><lb ed="R007" n="0269b07"/>僧祇階陛阿僧祇欄楯阿僧祇道路皆七寶成阿僧
+<lb ed="X" n="0776c08"/><lb ed="R007" n="0269b08"/>祇幡阿僧祇幢阿僧祇蓋周迴間列阿僧祇眾寶纓
+<lb ed="X" n="0776c09"/><lb ed="R007" n="0269b09"/>絡阿僧祇真珠纓絡阿僧祇赤真珠纓絡阿僧祇師
+<lb ed="X" n="0776c10"/><lb ed="R007" n="0269b10"/>子珠纓絡處處垂下阿僧祇半月阿僧祇繒帶阿僧
+<lb ed="X" n="0776c11"/><lb ed="R007" n="0269b11"/>祇寶網以為嚴飾阿僧祇寶鐸風動成音散阿僧祇
+<lb ed="X" n="0776c12"/><lb ed="R007" n="0269b12"/>天諸雜華懸阿僧祇天寶鬘帶嚴阿僧祇眾寶香罏
+<lb ed="X" n="0776c13"/><lb ed="R007" n="0269b13"/>雨阿僧祇細末金屑懸阿僧祇寶鏡然阿僧祇寶燈
+<lb ed="X" n="0776c14"/><lb ed="R007" n="0269b14"/>布阿僧祇寶衣列阿僧祇寶帳設阿僧祇寶座阿僧
+<lb ed="X" n="0776c15"/><lb ed="R007" n="0269b15"/>祇寶繒以敷座上阿僧祇閻浮檀金童女像阿僧祇
+<lb ed="X" n="0776c16"/><lb ed="R007" n="0269b16"/>雜寶諸形像阿僧祇妙寶菩薩像處處充徧阿僧祇
+<lb ed="X" n="0776c17"/><lb ed="R007" n="0269b17"/>眾鳥出和雅音阿僧祇寶優鉢羅華阿僧祇寶波頭
+<lb ed="X" n="0776c18"/><lb ed="R007" n="0269b18"/>摩華阿僧祇寶拘物頭華阿僧祇寶芬陀利華以為
+<lb ed="X" n="0776c19"/><lb ed="R007" n="0270a01"/>莊嚴阿僧祇寶樹次第行列阿僧祇摩尼寶放大光
+<lb ed="X" n="0776c20"/><lb ed="R007" n="0270a02"/>明如是等無量阿僧祇諸莊嚴具以為莊嚴又見其
+<lb ed="X" n="0776c21"/><lb ed="R007" n="0270a03"/>中有無量百千諸妙樓閣一一嚴飾悉如上說廣博
+<lb ed="X" n="0776c22"/><lb ed="R007" n="0270a04"/>嚴麗皆同處空不相障礙亦無雜亂善財童子於一
+<lb ed="X" n="0776c23"/><lb ed="R007" n="0270a05"/>處中見一切處一切諸處悉如是見爾時善財童子
+<lb ed="X" n="0776c24"/><lb ed="R007" n="0270a06"/>見毗盧遮那莊嚴藏樓閣如是種種不可思議自在
+<pb ed="X" xml:id="X04.0223.0777a" n="0777a"/>
+<lb ed="X" n="0777a01"/><lb ed="R007" n="0270a07"/>境界生大歡喜踊躍無量身心柔輭離一切想除一
+<lb ed="X" n="0777a02"/><lb ed="R007" n="0270a08"/>切障滅一切惑所見不忘所聞能憶所思不亂入於
+<lb ed="X" n="0777a03"/><lb ed="R007" n="0270a09"/>無礙解脫之門普運其心普見一切普申敬禮纔始
+<lb ed="X" n="0777a04"/><lb ed="R007" n="0270a10"/>稽首以彌勒菩薩威神之力自見其身徧在一切諸
+<lb ed="X" n="0777a05"/><lb ed="R007" n="0270a11"/>樓閣中具見種種不可思議自在境界所謂或見彌
+<lb ed="X" n="0777a06"/><lb ed="R007" n="0270a12"/>勒菩薩初發無上菩提心時如是名字如是種族如
+<lb ed="X" n="0777a07"/><lb ed="R007" n="0270a13"/>是善友之所開悟令其種植如是善根住如是壽在
+<lb ed="X" n="0777a08"/><lb ed="R007" n="0270a14"/>如是劫值如是佛處於如是莊嚴剎土修如是行發
+<lb ed="X" n="0777a09"/><lb ed="R007" n="0270a15"/>如是願彼諸如來如是眾會如是壽命經爾許時親
+<lb ed="X" n="0777a10"/><lb ed="R007" n="0270a16"/>近供養悉皆明見或見彌勒最初證得慈心三昧從
+<lb ed="X" n="0777a11"/><lb ed="R007" n="0270a17"/>是<anchor xml:id="beg_ef8" type="cb-app"/>已<anchor xml:id="end_ef8"/>來號為慈氏或見彌勒修諸妙行成滿一切諸
+<lb ed="X" n="0777a12"/><lb ed="R007" n="0270a18"/>波羅蜜或見得忍或見住地或見成就清淨國土或
+<lb ed="X" n="0777a13"/><lb ed="R007" n="0270b01"/>見護持如來正教為大法師得無生忍某時某處某
+<lb ed="X" n="0777a14"/><lb ed="R007" n="0270b02"/>如來所受於無上菩提之記或見彌勒為轉輪王勸
+<lb ed="X" n="0777a15"/><lb ed="R007" n="0270b03"/>諸眾生住十善道或為護世饒益眾生或為釋天訶
+<lb ed="X" n="0777a16"/><lb ed="R007" n="0270b04"/>責五欲或為<g ref="#CB08504">𦦨</g>摩天王讚不放逸或為兜率天王稱
+<lb ed="X" n="0777a17"/><lb ed="R007" n="0270b05"/>歎一生菩薩功德或為化樂天王為諸天眾現諸菩
+<lb ed="X" n="0777a18"/><lb ed="R007" n="0270b06"/>薩變化莊嚴或為他化自在天王為諸天眾演說一
+<lb ed="X" n="0777a19"/><lb ed="R007" n="0270b07"/>切諸佛之法或作魔王說一切法皆悉無常或為梵
+<lb ed="X" n="0777a20"/><lb ed="R007" n="0270b08"/>王說諸禪定無量喜樂或為阿脩羅王入大智海了
+<lb ed="X" n="0777a21"/><lb ed="R007" n="0270b09"/>法如幻為其眾會常演說法斷除一切憍慢醉慠或
+<lb ed="X" n="0777a22"/><lb ed="R007" n="0270b10"/>復見其處閻羅界放大光明救地獄苦或見在於餓
+<lb ed="X" n="0777a23"/><lb ed="R007" n="0270b11"/>鬼之處施諸飲食濟彼飢渴或見在於畜生之道種
+<lb ed="X" n="0777a24"/><lb ed="R007" n="0270b12"/>種方便調伏眾生或復見為護世天王眾會說法或
+<pb ed="X" xml:id="X04.0223.0777b" n="0777b"/>
+<lb ed="X" n="0777b01"/><lb ed="R007" n="0270b13"/>復見為忉利天王眾會說法或復見為<g ref="#CB08504">𦦨</g>摩天王眾
+<lb ed="X" n="0777b02"/><lb ed="R007" n="0270b14"/>會說法或復見為兜率天王眾會說法或復見為化
+<lb ed="X" n="0777b03"/><lb ed="R007" n="0270b15"/>樂天王眾會說法或復見為他化自在天王眾會說
+<lb ed="X" n="0777b04"/><lb ed="R007" n="0270b16"/>法或復見為大梵王眾會說法或復見為龍王眾會
+<lb ed="X" n="0777b05"/><lb ed="R007" n="0270b17"/>說法或復見為夜叉羅剎王眾會說法或復見為乾
+<lb ed="X" n="0777b06"/><lb ed="R007" n="0270b18"/>闥婆緊那羅王眾會說法或復見為阿脩羅陀那婆
+<lb ed="X" n="0777b07"/><lb ed="R007" n="0271a01"/>王眾會說法或復見為迦樓羅摩睺羅伽王眾會說
+<lb ed="X" n="0777b08"/><lb ed="R007" n="0271a02"/>法或復見為其餘一切人非人等眾會說法或復見
+<lb ed="X" n="0777b09"/><lb ed="R007" n="0271a03"/>為聲聞眾會說法或復見為緣覺眾會說法或復見
+<lb ed="X" n="0777b10"/><lb ed="R007" n="0271a04"/>為初發心乃至一生所繫<anchor xml:id="beg_ef9" type="cb-app"/>已<anchor xml:id="end_ef9"/>灌頂者諸菩薩眾而演
+<lb ed="X" n="0777b11"/><lb ed="R007" n="0271a05"/>說法或見讚說初地乃至十地所有功德或見讚說
+<lb ed="X" n="0777b12"/><lb ed="R007" n="0271a06"/>滿足一切諸波羅蜜或見讚說入諸忍門或見讚說
+<lb ed="X" n="0777b13"/><lb ed="R007" n="0271a07"/>諸大三昧門或見讚說甚深解脫門或見讚說諸禪
+<lb ed="X" n="0777b14"/><lb ed="R007" n="0271a08"/>三昧神通境界或見讚說諸菩薩行或見讚說諸大
+<lb ed="X" n="0777b15"/><lb ed="R007" n="0271a09"/>誓願或見與諸同行菩薩讚說世間資生工巧種種
+<lb ed="X" n="0777b16"/><lb ed="R007" n="0271a10"/>方便利眾生事或見與諸一生菩薩讚說一切佛灌
+<lb ed="X" n="0777b17"/><lb ed="R007" n="0271a11"/>頂門或見彌勒於百千年經行讀誦書寫經卷勤求
+<lb ed="X" n="0777b18"/><lb ed="R007" n="0271a12"/>觀察為眾說法或入諸禪四無量心或入徧處及諸
+<lb ed="X" n="0777b19"/><lb ed="R007" n="0271a13"/>解脫或入三昧以方便力現諸神變或見諸菩薩入
+<lb ed="X" n="0777b20"/><lb ed="R007" n="0271a14"/>變化三昧各於其身一一毛孔出於一切變化身雲
+<lb ed="X" n="0777b21"/><lb ed="R007" n="0271a15"/>或見出天眾身雲或見出龍眾身雲或見出夜叉乾
+<lb ed="X" n="0777b22"/><lb ed="R007" n="0271a16"/>闥婆緊那羅阿脩羅迦樓羅摩睺羅伽釋梵護世轉
+<lb ed="X" n="0777b23"/><lb ed="R007" n="0271a17"/>輪聖王小王王子大臣官屬長者居士身雲或見出
+<lb ed="X" n="0777b24"/><lb ed="R007" n="0271a18"/>聲聞緣覺及諸菩薩如來身雲或見出一切眾生身
+<pb ed="X" xml:id="X04.0223.0777c" n="0777c"/>
+<lb ed="X" n="0777c01"/><lb ed="R007" n="0271b01"/>雲或見出妙音讚諸菩薩種種法門所謂讚說菩提
+<lb ed="X" n="0777c02"/><lb ed="R007" n="0271b02"/>心功德門讚說檀波羅蜜乃至智波羅蜜功德門讚
+<lb ed="X" n="0777c03"/><lb ed="R007" n="0271b03"/>說諸攝諸禪諸無量心及諸三昧三摩鉢底諸通諸
+<lb ed="X" n="0777c04"/><lb ed="R007" n="0271b04"/>明總持辯才諸諦諸智止觀解脫諸緣諸依諸說法
+<lb ed="X" n="0777c05"/><lb ed="R007" n="0271b05"/>門讚說念處正勤神足根力七菩提分八聖道分諸
+<lb ed="X" n="0777c06"/><lb ed="R007" n="0271b06"/>聲聞乘諸獨覺乘諸菩薩乘諸地諸忍諸行諸願如
+<lb ed="X" n="0777c07"/><lb ed="R007" n="0271b07"/>是等一切諸功德門或復於中見諸如來大眾圍遶
+<lb ed="X" n="0777c08"/><lb ed="R007" n="0271b08"/>亦見其佛生處種姓身形壽命剎劫名號說法利益
+<lb ed="X" n="0777c09"/><lb ed="R007" n="0271b09"/>教住久近乃至所有道場眾會種種不同悉皆明見
+<lb ed="X" n="0777c10"/><lb ed="R007" n="0271b10"/>又復於彼莊嚴藏內諸樓閣中見一樓閣高廣嚴飾
+<lb ed="X" n="0777c11"/><lb ed="R007" n="0271b11"/>最上無比於中悉見三千世界百億四天下百億兜
+<lb ed="X" n="0777c12"/><lb ed="R007" n="0271b12"/>率陀天一一皆有彌勒菩薩降神誕生釋梵天王捧
+<lb ed="X" n="0777c13"/><lb ed="R007" n="0271b13"/>持頂戴遊行七步觀察十方大師子吼現為童子居
+<lb ed="X" n="0777c14"/><lb ed="R007" n="0271b14"/>處宮殿遊戲園苑為一切智出家苦行示受乳糜往
+<lb ed="X" n="0777c15"/><lb ed="R007" n="0271b15"/>詣道場降伏諸魔成等正覺觀菩提樹梵王勸請轉
+<lb ed="X" n="0777c16"/><lb ed="R007" n="0271b16"/>正法輪昇天宮殿而演說法劫數壽量眾會莊嚴所
+<lb ed="X" n="0777c17"/><lb ed="R007" n="0271b17"/>淨國土所修行願教化成熟眾生方便分布舍利住
+<lb ed="X" n="0777c18"/><lb ed="R007" n="0271b18"/>持教法皆悉不同。</p></cb:div></cb:div>
+<lb ed="X" n="0777c19"/>
+<lb ed="X" n="0777c20"/><lb ed="R007" n="0272a01"/><cb:juan fun="close" n="118"><cb:jhead>大方廣佛新華嚴經合論卷第一百十八</cb:jhead></cb:juan>
+<lb ed="X" n="0777c21"/><lb ed="R007" n="0272a02"/>
+<lb ed="X" n="0777c22"/><lb ed="R007" n="0272a03"/><cb:div type="w"><head>音切</head>
+<lb ed="X" n="0777c23"/><lb ed="R007" n="0272a04"/><cb:div type="note"><entry rend="margin-left:1em"><form>竄</form><cb:def><p xml:id="pX04p0777c2302" rend="inline"><note place="inline">七亂切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>銛</form><cb:def><p xml:id="pX04p0777c2306" rend="inline"><note place="inline">息<g ref="#CB15691">󳵋</g>切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>鼠</form><cb:def><p xml:id="pX04p0777c2310" rend="inline"><note place="inline">暑音</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>猫</form><cb:def><p xml:id="pX04p0777c2313" rend="inline"><note place="inline">苗音</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>狸</form><cb:def><p xml:id="pX04p0777c2316" rend="inline"><note place="inline">力之切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>磁</form><cb:def><p xml:id="pX04p0777c2320" rend="inline"><note place="inline">慈音</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>吸</form><cb:def><p xml:id="pX04p0777c2323" rend="inline"><note place="inline">虗級切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>噬</form>
+<lb ed="X" n="0777c24"/><lb ed="R007" n="0272a05"/><cb:def><p xml:id="pX04p0777c2401"><note place="inline">時制切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>繕</form><cb:def><p xml:id="pX04p0777c2405" rend="inline"><note place="inline">時戰切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>附</form><cb:def><p xml:id="pX04p0777c2409" rend="inline"><note place="inline">父音</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>楔</form><cb:def><p xml:id="pX04p0777c2412" rend="inline"><note place="inline">先結切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>齡</form><cb:def><p xml:id="pX04p0777c2416" rend="inline"><note place="inline">方丁切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>汁</form><cb:def><p xml:id="pX04p0777c2420" rend="inline"><note place="inline">之入切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>滲</form><cb:def><p xml:id="pX04p0777c2424" rend="inline"><note place="inline">所禁切</note>。</p></cb:def></entry>
+<pb ed="X" xml:id="X04.0223.0778a" n="0778a"/>
+<lb ed="X" n="0778a01"/><lb ed="R007" n="0272a06"/><entry rend="margin-left:1em"><form>屑</form><cb:def><p xml:id="pX04p0778a0102" rend="inline"><note place="inline">先結切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>糜</form><cb:def><p xml:id="pX04p0778a0106" rend="inline"><note place="inline">美為切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>島</form><cb:def><p xml:id="pX04p0778a0110" rend="inline"><note place="inline">都好切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>疱</form><cb:def><p xml:id="pX04p0778a0114" rend="inline"><note place="inline">正皃切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>慠</form><cb:def><p xml:id="pX04p0778a0118" rend="inline"><note place="inline">五到切</note>。</p></cb:def></entry></cb:div></cb:div>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_eec" cb:to="#end_eec"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_eed" cb:to="#end_eed"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_eee" cb:to="#end_eee"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_eef" cb:to="#end_eef"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_ef0" cb:to="#end_ef0"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_ef1" cb:to="#end_ef1"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_ef2" cb:to="#end_ef2"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_ef3" cb:to="#end_ef3"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_ef4" cb:to="#end_ef4"><corr>己已</corr><sic>巳巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_ef5" cb:to="#end_ef5"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_ef6" cb:to="#end_ef6"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_ef7" cb:to="#end_ef7"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_ef8" cb:to="#end_ef8"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_ef9" cb:to="#end_ef9"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+<cb:div type="cbeta-notes">
+<head>CBETA 校勘記</head>
+<p>
+</p>
+</cb:div>
+<cb:div type="xuzang-notes">
+<head>卍續藏 校勘記</head>
+<p>
+<note n="0773001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0773001">宋南北藏無珠</note>
+<note n="0773002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0773002">海宋南藏作寶</note>
+<note n="0773003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0773003">迦下南北藏無若字</note>
+<note n="0773004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0773004">薝宋南北藏作瞻</note>
+<note n="0775001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0775001">王宋論作正</note>
+</p>
+</cb:div>
+</back></text></TEI>

@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X40n0720">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 720 毗尼關要</title>
+			<author>清 德基輯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.9 $<date>$Date: 2009/04/22 08:57:06 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		<respStmt xml:id="resp2"><resp>corrections</resp><name>Xuzangjing</name></respStmt>
+		<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA</name></respStmt>
+	</editionStmt>
+	<extent>16卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2009/04/22 08:57:06 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 40, No. 720 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB01306">
+	<charName>CBETA CHARACTER CB01306</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[羊*兒]</value>
+	</charProp>
+	<mapping type="unicode">U+4372</mapping>
+	<mapping cb:dec="984346" type="PUA">U+F051A</mapping>
+</char>
+<char xml:id="CB01776">
+	<charName>CBETA CHARACTER CB01776</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[糸*匱]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>繢</value>
+	</charProp>
+	<mapping type="unicode">U+261A0</mapping>
+	<mapping cb:dec="984816" type="PUA">U+F06F0</mapping>
+</char>
+<char xml:id="CB02494">
+	<charName>CBETA CHARACTER CB02494</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+(乏-之+友)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>跋</value>
+	</charProp>
+	<mapping type="unicode">U+47E6</mapping>
+	<mapping cb:dec="985534" type="PUA">U+F09BE</mapping>
+</char>
+<char xml:id="CB06398">
+	<charName>CBETA CHARACTER CB06398</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[葸-十+夕]</value>
+	</charProp>
+	<mapping cb:dec="989438" type="PUA">U+F18FE</mapping>
+</char>
+<char xml:id="CB15106">
+	<charName>CBETA CHARACTER CB15106</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[鬱-山+止]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>鬱</value>
+	</charProp>
+	<mapping type="normal_unicode">U+9B31</mapping>
+	<mapping cb:dec="998146" type="PUA">U+F3B02</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2006-10-30T08:21:06">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">釋三十尼薩耆波逸提法</cb:mulu><cb:div type="other">
+<lb ed="X" n="0537a20"/><milestone unit="juan" n="7"/>
+<lb ed="X" n="0537a21"/>
+<lb ed="X" n="0537a22"/><lb ed="R063" n="0719b08"/><cb:juan fun="open" n="7"><cb:mulu type="卷" n="7"></cb:mulu><cb:jhead>毗尼關要卷第七</cb:jhead></cb:juan>
+<lb ed="X" n="0537a23"/>
+<lb ed="X" n="0537a24"/><lb ed="R063" n="0719b09"/><byline cb:type="collector">清金陵寶華山律學沙門　德基　輯</byline>
+<pb ed="X" xml:id="X40.0720.0537b" n="0537b"/>
+<lb ed="X" n="0537b01"/><lb ed="R063" n="0719b10"/><cb:div type="commentary"><p xml:id="pX40p0537b0101" rend="margin-left:1em">○第七過受衣戒</p>
+<lb ed="X" n="0537b02"/><lb ed="R063" n="0719b11"/><p xml:id="pX40p0537b0201" rend="margin-left:2em">總釋。</p>
+<lb ed="X" n="0537b03"/><lb ed="R063" n="0719b12"/><p xml:id="pX40p0537b0301" rend="margin-left:1em">此是共戒。尼結亦同。大乘不同制。隨施應受。此是
+<lb ed="X" n="0537b04"/><lb ed="R063" n="0719b13"/>制罪。煩惱同前。制斯學處。</p>
+<lb ed="X" n="0537b05"/><lb ed="R063" n="0719b14"/><p xml:id="pX40p0537b0501" rend="margin-left:2em">緣起處。</p>
+<lb ed="X" n="0537b06"/><lb ed="R063" n="0719b15"/><p xml:id="pX40p0537b0601" rend="margin-left:1em">佛在舍衛國給孤獨園。</p>
+<lb ed="X" n="0537b07"/><lb ed="R063" n="0719b16"/><p xml:id="pX40p0537b0701" rend="margin-left:2em">起緣人。</p>
+<lb ed="X" n="0537b08"/><lb ed="R063" n="0719b17"/><p xml:id="pX40p0537b0801" rend="margin-left:1em">時有眾多比丘。遇賊失衣。來到祇桓精舍。時有優
+<lb ed="X" n="0537b09"/><lb ed="R063" n="0719b18"/>婆塞。聞諸比丘遇賊失衣。多持好衣來。隨諸比丘
+<lb ed="X" n="0537b10"/><lb ed="R063" n="0720a01"/>意取。諸比丘報言。止止。便為供養<anchor xml:id="beg_125" type="cb-app"/>已<anchor xml:id="end_125"/>。我等自有三
+<lb ed="X" n="0537b11"/><lb ed="R063" n="0720a02"/>衣。不須也。六羣比丘語言。何不取與我等。若與餘
+<lb ed="X" n="0537b12"/><lb ed="R063" n="0720a03"/>人耶。而諸比丘三衣具足。取居士衣。與六羣及與
+<lb ed="X" n="0537b13"/><lb ed="R063" n="0720a04"/>餘人。少欲比丘嫌責白佛。呵責<anchor xml:id="beg_126" type="cb-app"/>已<anchor xml:id="end_126"/>結戒。</p>
+<lb ed="X" n="0537b14"/><lb ed="R063" n="0720a05"/><p xml:id="pX40p0537b1401" rend="margin-left:2em">所立戒相。</p></cb:div>
+<lb ed="X" n="0537b15"/><lb ed="R063" n="0720a06"/><cb:div type="orig"><p xml:id="pX40p0537b1501">若比丘奪衣。失衣。燒衣。漂衣。若非親里居士居士婦
+<lb ed="X" n="0537b16"/><lb ed="R063" n="0720a07"/>自恣請。多與衣。是比丘當知足受衣。若過者。尼薩耆
+<lb ed="X" n="0537b17"/><lb ed="R063" n="0720a08"/>波逸提。</p></cb:div>
+<lb ed="X" n="0537b18"/><lb ed="R063" n="0720a09"/><cb:div type="commentary"><p xml:id="pX40p0537b1801" rend="margin-left:1em">釋義　若失一衣不應取。若失二衣。餘一衣若二
+<lb ed="X" n="0537b19"/><lb ed="R063" n="0720a10"/>重三重四重應擿作。若僧伽黎。若<g ref="#CB15106">󳬂</g>多羅僧。若安
+<lb ed="X" n="0537b20"/><lb ed="R063" n="0720a11"/>陀會。若三衣都失。彼比丘應知足受衣。知足有二
+<lb ed="X" n="0537b21"/><lb ed="R063" n="0720a12"/>種。在家人知足。出家人知足。在家人知足者。隨白
+<lb ed="X" n="0537b22"/><lb ed="R063" n="0720a13"/>衣所與衣受之<note place="inline">謂隨俗人所施衣應受。縱少不足。不應更從乞索也</note>。出家人
+<lb ed="X" n="0537b23"/><lb ed="R063" n="0720a14"/>知足者。三衣也<note place="inline">謂三衣既足。不應更受。故云出家人知足</note>。若居士自恣
+<lb ed="X" n="0537b24"/><lb ed="R063" n="0720a15"/>請多與比丘衣<note place="inline">自恣請者。善見律云。檀越語比丘言。若有所須隨意取。是名自恣請</note>。
+<pb ed="X" xml:id="X40.0720.0537c" n="0537c"/>
+<lb ed="X" n="0537c01"/><lb ed="R063" n="0720a16"/>若衣細。若衣薄。若不牢。應取作二重三重四重。當
+<lb ed="X" n="0537c02"/><lb ed="R063" n="0720a17"/>安緣。當肩上應貼障垢膩處<note place="inline">律攝云。若三衣肩上垢膩污者。於著肩處。
+<lb ed="X" n="0537c03"/><lb ed="R063" n="0720a18"/>應以物替。長一肘半。廣一張手。四邊縫著。污即拆洗也。（文）律制本貼在內。今人以障肩外。謂是須彌山。譌
+<lb ed="X" n="0537c04"/><lb ed="R063" n="0720b01"/>也</note>。應安鈎紐。若有餘殘。語居士言。此餘殘衣裁作
+<lb ed="X" n="0537c05"/><lb ed="R063" n="0720b02"/>何等。若檀越言。我不以失衣故與。我自欲與大德
+<lb ed="X" n="0537c06"/><lb ed="R063" n="0720b03"/>耳。彼若欲受者便受<note place="inline">作衣之餘。告主令知。即名知足受</note>。若過下<note place="inline">成犯</note>。</p>
+<lb ed="X" n="0537c07"/><lb ed="R063" n="0720b04"/><p xml:id="pX40p0537c0701" rend="margin-left:1em">犯緣　此戒具足三緣。方成本罪。一為失衣故施
+<lb ed="X" n="0537c08"/><lb ed="R063" n="0720b05"/>二貪心過受。三衣財入手。</p>
+<lb ed="X" n="0537c09"/><lb ed="R063" n="0720b06"/><p xml:id="pX40p0537c0901" rend="margin-left:1em">定罪　此中犯者。若比丘過知足受衣。捨墮。</p><p xml:id="pX40p0537c0917" rend="margin-left:1em;inline">捨
+<lb ed="X" n="0537c10"/><lb ed="R063" n="0720b07"/>懺不還等。得罪同前。</p><p xml:id="pX40p0537c1009" rend="margin-left:1em;inline">善見云。若比丘尼失五衣。
+<lb ed="X" n="0537c11"/><lb ed="R063" n="0720b08"/>得受二衣。若失四衣得受一衣。若失三衣不得受。
+<lb ed="X" n="0537c12"/><lb ed="R063" n="0720b09"/>若親友檀越自恣請。若自<anchor xml:id="beg_127" type="cb-app"/>己<anchor xml:id="end_127"/>物隨意受。</p><p xml:id="pX40p0537c1216" rend="margin-left:1em;inline">比丘尼
+<lb ed="X" n="0537c13"/><lb ed="R063" n="0720b10"/>捨墮。三小眾突吉羅。是謂為犯。</p>
+<lb ed="X" n="0537c14"/><lb ed="R063" n="0720b11"/><p xml:id="pX40p0537c1401" rend="margin-left:1em">開緣　不犯者。若知足取。若減知足取。若居士多
+<lb ed="X" n="0537c15"/><lb ed="R063" n="0720b12"/>與衣。若細薄不牢。若兩重三重四重作衣。安緣貼
+<lb ed="X" n="0537c16"/><lb ed="R063" n="0720b13"/>障垢膩處。安鈎紐。若有餘殘衣。語居士言。作何等。
+<lb ed="X" n="0537c17"/><lb ed="R063" n="0720b14"/>若居士言。我不以失衣故與。自欲與大德。若欲受
+<lb ed="X" n="0537c18"/><lb ed="R063" n="0720b15"/>便受。無犯。不犯者最初未制戒等。</p>
+<lb ed="X" n="0537c19"/><lb ed="R063" n="0720b16"/><p xml:id="pX40p0537c1901" rend="margin-left:1em">○第八求益衣價戒</p>
+<lb ed="X" n="0537c20"/><lb ed="R063" n="0720b17"/><p xml:id="pX40p0537c2001" rend="margin-left:2em">總釋。</p>
+<lb ed="X" n="0537c21"/><lb ed="R063" n="0720b18"/><p xml:id="pX40p0537c2101" rend="margin-left:1em">此是共戒。尼犯亦同。大乘同制。即是惡求多求。而
+<lb ed="X" n="0537c22"/><lb ed="R063" n="0721a01"/>不知足。此是制罪。</p><p xml:id="pX40p0537c2208" rend="margin-left:1em;inline">律攝云。因相觸惱。制斯學處。
+<lb ed="X" n="0537c23"/><lb ed="R063" n="0721a02"/>此戒二緣合結。</p>
+<lb ed="X" n="0537c24"/><lb ed="R063" n="0721a03"/><p xml:id="pX40p0537c2401" rend="margin-left:2em">緣起處。</p>
+<pb ed="X" xml:id="X40.0720.0538a" n="0538a"/>
+<lb ed="X" n="0538a01"/><lb ed="R063" n="0721a04"/><p xml:id="pX40p0538a0101" rend="margin-left:1em">佛在舍衛國。一乞食比丘入城乞食。聞居士夫婦
+<lb ed="X" n="0538a02"/><lb ed="R063" n="0721a05"/>共議。<g ref="#CB02494">䟦</g>難陀是我知舊。當持如是衣價。買如是衣
+<lb ed="X" n="0538a03"/><lb ed="R063" n="0721a06"/>與。彼乞食比丘。還見<g ref="#CB02494">䟦</g>難陀。即告上事。問知其家。</p>
+<lb ed="X" n="0538a04"/><lb ed="R063" n="0721a07"/><p xml:id="pX40p0538a0401" rend="margin-left:2em">起緣人。</p>
+<lb ed="X" n="0538a05"/><lb ed="R063" n="0721a08"/><p xml:id="pX40p0538a0501" rend="margin-left:1em"><g ref="#CB02494">䟦</g>難施明日往語言。若欲與我衣者。當如是廣大
+<lb ed="X" n="0538a06"/><lb ed="R063" n="0721a09"/>作。新好堅緻。中我受持。若不中我受持。何用是為。
+<lb ed="X" n="0538a07"/><lb ed="R063" n="0721a10"/>居士譏嫌。比丘白佛。訶責結戒。戒文如後。唯無先
+<lb ed="X" n="0538a08"/><lb ed="R063" n="0721a11"/>不受自恣請。後居士自恣請比丘言。大德。須何等
+<lb ed="X" n="0538a09"/><lb ed="R063" n="0721a12"/>衣。比丘意疑。不敢答。又有居士。欲作貴價衣。比丘
+<lb ed="X" n="0538a10"/><lb ed="R063" n="0721a13"/>知足。欲須不如者。亦意疑。不敢隨意索。佛言。受自
+<lb ed="X" n="0538a11"/><lb ed="R063" n="0721a14"/>恣請者不犯。當如是說戒。</p>
+<lb ed="X" n="0538a12"/><lb ed="R063" n="0721a15"/><p xml:id="pX40p0538a1201" rend="margin-left:2em">所立戒相。</p></cb:div>
+<lb ed="X" n="0538a13"/><lb ed="R063" n="0721a16"/><cb:div type="orig"><p xml:id="pX40p0538a1301">若比丘。居士居士婦為比丘辦衣價。買如是衣。與某
+<lb ed="X" n="0538a14"/><lb ed="R063" n="0721a17"/>甲比丘。是比丘先不受自恣請。到居士家。如是說。善
+<lb ed="X" n="0538a15"/><lb ed="R063" n="0721a18"/>哉居士。為我買如是如是衣。與我為好故。若得衣者。
+<lb ed="X" n="0538a16"/><lb ed="R063" n="0721b01"/>尼薩耆波逸提。</p></cb:div>
+<lb ed="X" n="0538a17"/><lb ed="R063" n="0721b02"/><cb:div type="commentary"><p xml:id="pX40p0538a1701" rend="margin-left:1em">釋義　辦如是衣價者。若金銀錢。真珠瑠璃。貝玉
+<lb ed="X" n="0538a18"/><lb ed="R063" n="0721b03"/>瓔珞。生像金。持如是衣價。買如是衣。與某甲比丘
+<lb ed="X" n="0538a19"/><lb ed="R063" n="0721b04"/><note place="inline">如是衣價者。一錢乃至百千錢。買如是衣者。色謂青黑等。量或五肘乃至十五肘。體乃粗細等</note>。是
+<lb ed="X" n="0538a20"/><lb ed="R063" n="0721b05"/>比丘先不受自恣請<note place="inline">未受居士恣意之請</note>。到居士家。如是說
+<lb ed="X" n="0538a21"/><lb ed="R063" n="0721b06"/>善哉居士<note place="inline">善哉居士者。善哉讚歎之詞。居士稱呼之語。欲令所施愈加妙好</note>。乃至
+<lb ed="X" n="0538a22"/><lb ed="R063" n="0721b07"/>為好故。求有二種。一者求價。二者求衣。求價者。檀
+<lb ed="X" n="0538a23"/><lb ed="R063" n="0721b08"/>越與作大價衣。求乃至增一錢十六分之一分<note place="inline">西國
+<lb ed="X" n="0538a24"/><lb ed="R063" n="0721b09"/>以十六升為斗。猶如此方以十六兩為觔</note>。求衣者。語居士言。作如是廣
+<pb ed="X" xml:id="X40.0720.0538b" n="0538b"/>
+<lb ed="X" n="0538b01"/><lb ed="R063" n="0721b10"/>長衣。乃至增一錢<note place="inline">如是如是衣為好故者。律攝云。更求新好堅緻。謂價色及量。悉
+<lb ed="X" n="0538b02"/><lb ed="R063" n="0721b11"/>皆精妙也</note>。若得衣者<note place="inline">謂要待衣入手成犯</note>。</p>
+<lb ed="X" n="0538b03"/><lb ed="R063" n="0721b12"/><p xml:id="pX40p0538b0301" rend="margin-left:1em">犯緣　此戒具足四緣。方成本罪。一有貪好心。二
+<lb ed="X" n="0538b04"/><lb ed="R063" n="0721b13"/>未受自恣請。三自為<anchor xml:id="beg_128" type="cb-app"/>己<anchor xml:id="end_128"/>索。四衣物入手。</p>
+<lb ed="X" n="0538b05"/><lb ed="R063" n="0721b14"/><p xml:id="pX40p0538b0501" rend="margin-left:1em">定罪　此中犯者。先不受自恣請。而往求貴價廣
+<lb ed="X" n="0538b06"/><lb ed="R063" n="0721b15"/>大衣。若得衣者。捨墮。</p><p xml:id="pX40p0538b0609" rend="margin-left:1em;inline">求而不得。突吉羅。</p><p xml:id="pX40p0538b0616" rend="margin-left:1em;inline">捨懺
+<lb ed="X" n="0538b07"/><lb ed="R063" n="0721b16"/>不還等。得罪同前。</p><p xml:id="pX40p0538b0708" rend="margin-left:1em;inline">五分云。從親里索好者。惡作
+<lb ed="X" n="0538b08"/><lb ed="R063" n="0721b17"/>罪。</p><p xml:id="pX40p0538b0802" rend="margin-left:1em;inline">薩婆多云。若親里豐財。多貨從索。無過。若貧
+<lb ed="X" n="0538b09"/><lb ed="R063" n="0721b18"/>者。突吉羅。</p><p xml:id="pX40p0538b0905" rend="margin-left:1em;inline">律攝云。若從天等乞。或乞縷<g ref="#CB01776">𦆠</g>。及小
+<lb ed="X" n="0538b10"/><lb ed="R063" n="0722a01"/>帛片等。無犯。</p><p xml:id="pX40p0538b1006" rend="margin-left:1em;inline">比丘尼捨墮。三小眾突吉羅。是謂
+<lb ed="X" n="0538b11"/><lb ed="R063" n="0722a02"/>為犯。</p>
+<lb ed="X" n="0538b12"/><lb ed="R063" n="0722a03"/><p xml:id="pX40p0538b1201" rend="margin-left:1em">開緣　不犯者。先受自恣請而往求索。知足減少
+<lb ed="X" n="0538b13"/><lb ed="R063" n="0722a04"/>求。從親里求。從出家人求。或為他求。他為<anchor xml:id="beg_129" type="cb-app"/>己<anchor xml:id="end_129"/>求。或
+<lb ed="X" n="0538b14"/><lb ed="R063" n="0722a05"/>不求自得。無罪。不犯者最初未制戒等。</p>
+<lb ed="X" n="0538b15"/><lb ed="R063" n="0722a06"/><p xml:id="pX40p0538b1501" rend="margin-left:1em">○第九求合作衣戒</p>
+<lb ed="X" n="0538b16"/><lb ed="R063" n="0722a07"/><p xml:id="pX40p0538b1601" rend="margin-left:1em">並如前緣。故不重出。合作為異。</p></cb:div>
+<lb ed="X" n="0538b17"/><lb ed="R063" n="0722a08"/><cb:div type="orig"><p xml:id="pX40p0538b1701">若比丘。二居士居士婦。與比丘辦衣價。持如是衣價。
+<lb ed="X" n="0538b18"/><lb ed="R063" n="0722a09"/>買如是衣。與某甲比丘。是比丘先不受居士自恣請。
+<lb ed="X" n="0538b19"/><lb ed="R063" n="0722a10"/>到二居士家。作如是言。善哉辦如是如是衣價。與我
+<lb ed="X" n="0538b20"/><lb ed="R063" n="0722a11"/>共作一衣。為好故。若得衣者。尼薩耆波逸提。</p></cb:div>
+<lb ed="X" n="0538b21"/><lb ed="R063" n="0722a12"/><cb:div type="commentary"><p xml:id="pX40p0538b2101" rend="margin-left:1em">○第十過六反索衣戒</p>
+<lb ed="X" n="0538b22"/><lb ed="R063" n="0722a13"/><p xml:id="pX40p0538b2201" rend="margin-left:2em">總釋。</p>
+<lb ed="X" n="0538b23"/><lb ed="R063" n="0722a14"/><p xml:id="pX40p0538b2301" rend="margin-left:1em">此是共戒。尼犯亦同。大乘同制。息世譏嫌。長他淨
+<lb ed="X" n="0538b24"/><lb ed="R063" n="0722a15"/>信。此是制罪。</p><p xml:id="pX40p0538b2406" rend="margin-left:1em;inline">律攝云。取不淨財。不護他意。致生
+<pb ed="X" xml:id="X40.0720.0538c" n="0538c"/>
+<lb ed="X" n="0538c01"/><lb ed="R063" n="0722a16"/>惱亂。制斯學處。</p>
+<lb ed="X" n="0538c02"/><lb ed="R063" n="0722a17"/><p xml:id="pX40p0538c0201" rend="margin-left:2em">緣起處。</p>
+<lb ed="X" n="0538c03"/><lb ed="R063" n="0722a18"/><p xml:id="pX40p0538c0301" rend="margin-left:1em">佛在給孤獨園。</p>
+<lb ed="X" n="0538c04"/><lb ed="R063" n="0722b01"/><p xml:id="pX40p0538c0401" rend="margin-left:2em">起緣人。</p>
+<lb ed="X" n="0538c05"/><lb ed="R063" n="0722b02"/><p xml:id="pX40p0538c0501" rend="margin-left:1em">羅閱城中有一大臣。與<g ref="#CB02494">䟦</g>難陀親友。遣使持衣價。
+<lb ed="X" n="0538c06"/><lb ed="R063" n="0722b03"/>與<g ref="#CB02494">䟦</g>難陀。<g ref="#CB02494">䟦</g>難陀將此使入城。持衣價與親舊長
+<lb ed="X" n="0538c07"/><lb ed="R063" n="0722b04"/>者掌之。異時大臣問使人言。<g ref="#CB02494">䟦</g>難陀著我衣不。報
+<lb ed="X" n="0538c08"/><lb ed="R063" n="0722b05"/>言不著。即遣使索還衣價。<g ref="#CB02494">䟦</g>難陀乃疾疾至長者
+<lb ed="X" n="0538c09"/><lb ed="R063" n="0722b06"/>家。語言。我今須衣。時城中諸長者集會。先有制。其
+<lb ed="X" n="0538c10"/><lb ed="R063" n="0722b07"/>有不至者。罰錢五百。長者報言。大德。小待我赴會
+<lb ed="X" n="0538c11"/><lb ed="R063" n="0722b08"/>還。<g ref="#CB02494">䟦</g>難陀不允。長者為作衣竟。會坐<anchor xml:id="beg_12a" type="cb-app"/>已<anchor xml:id="end_12a"/>罷。眾人以
+<lb ed="X" n="0538c12"/><lb ed="R063" n="0722b09"/>其不到。即輸錢五百。長者盡共譏嫌。比丘白佛。呵
+<lb ed="X" n="0538c13"/><lb ed="R063" n="0722b10"/>責結戒。</p>
+<lb ed="X" n="0538c14"/><lb ed="R063" n="0722b11"/><p xml:id="pX40p0538c1401" rend="margin-left:2em">所立戒相。</p></cb:div>
+<lb ed="X" n="0538c15"/><lb ed="R063" n="0722b12"/><cb:div type="orig"><p xml:id="pX40p0538c1501">若比丘。若王若大臣。若婆羅門。若居士居士婦。遣使
+<lb ed="X" n="0538c16"/><lb ed="R063" n="0722b13"/>為比丘送衣價。持如是衣價。與某甲比丘。彼使人至
+<lb ed="X" n="0538c17"/><lb ed="R063" n="0722b14"/>比丘所。語比丘言。大德。今為汝故送是衣價。受取。是
+<lb ed="X" n="0538c18"/><lb ed="R063" n="0722b15"/>比丘應語彼使如是言。我不應受此衣價。我若須衣
+<lb ed="X" n="0538c19"/><lb ed="R063" n="0722b16"/>合時。清淨當受。彼使語比丘言。大德。有執事人不。須
+<lb ed="X" n="0538c20"/><lb ed="R063" n="0722b17"/>衣比丘應語言有。若僧伽藍民。若優婆塞。此是比丘
+<lb ed="X" n="0538c21"/><lb ed="R063" n="0722b18"/>執事人。常為諸比丘執事。時彼使往至執事人所。與
+<lb ed="X" n="0538c22"/><lb ed="R063" n="0723a01"/>衣價<anchor xml:id="beg_12b" type="cb-app"/>已<anchor xml:id="end_12b"/>。還比丘所。如是言。大德。所示某甲執事人。我
+<lb ed="X" n="0538c23"/><lb ed="R063" n="0723a02"/><anchor xml:id="beg_12c" type="cb-app"/>已<anchor xml:id="end_12c"/>與衣價。大德。知時往彼當得衣。須衣比丘當往執
+<lb ed="X" n="0538c24"/><lb ed="R063" n="0723a03"/>事人所。若二反三反。為作憶念。應語言我須衣。若二
+<pb ed="X" xml:id="X40.0720.0539a" n="0539a"/>
+<lb ed="X" n="0539a01"/><lb ed="R063" n="0723a04"/>反三反為作憶念。若得衣者善。若不得衣。四反五反
+<lb ed="X" n="0539a02"/><lb ed="R063" n="0723a05"/>六反在前默然立。若四反五反六反。在前默然住。得
+<lb ed="X" n="0539a03"/><lb ed="R063" n="0723a06"/>衣者善。若不得衣。過是求得衣者。尼薩耆波逸提。若
+<lb ed="X" n="0539a04"/><lb ed="R063" n="0723a07"/>不得衣。從所得衣價處。若自往。若遣使往語言。汝先
+<lb ed="X" n="0539a05"/><lb ed="R063" n="0723a08"/>遣使持衣價。與某甲比丘。是比丘竟不得衣。汝還取。
+<lb ed="X" n="0539a06"/><lb ed="R063" n="0723a09"/>莫使失。此是時。</p></cb:div>
+<lb ed="X" n="0539a07"/><lb ed="R063" n="0723a10"/><cb:div type="commentary"><p xml:id="pX40p0539a0701" rend="margin-left:1em">釋義　若王。若大臣。乃至婆羅門。居士。居士婦<note place="inline">此明
+<lb ed="X" n="0539a08"/><lb ed="R063" n="0723a11"/>能施之主</note>。遣使為比丘送衣價<note place="inline">衣價者。即金銀錢寶。及生像金等</note>。持如
+<lb ed="X" n="0539a09"/><lb ed="R063" n="0723a12"/>是衣價。與某甲比丘<note place="inline">此明受施之人。如是衣價者。或百錢乃至千錢等</note>。</p>
+<lb ed="X" n="0539a10"/><lb ed="R063" n="0723a13"/><p xml:id="pX40p0539a1001" rend="margin-left:1em">彼使人至比丘所。乃至我不應受此衣價<note place="inline">謂比丘法不應
+<lb ed="X" n="0539a11"/><lb ed="R063" n="0723a14"/>自為受畜金銀七寶等。是不淨物。非比丘法。故不應受</note>。我若須衣合時。清淨
+<lb ed="X" n="0539a12"/><lb ed="R063" n="0723a15"/>當受<note place="inline">謂順比丘須用之時。或順比丘開畜之時。故曰合時。清淨者。謂駝毛緂等。由體不淨。不堪
+<lb ed="X" n="0539a13"/><lb ed="R063" n="0723a16"/>為衣。受持必須如法清淨也</note>。彼使語比丘言。大德有執事人不。
+<lb ed="X" n="0539a14"/><lb ed="R063" n="0723a17"/>乃至常為諸比丘執事<note place="inline">言僧伽藍民者。謂充僧給使也。此有二別。一曰淨人。
+<lb ed="X" n="0539a15"/><lb ed="R063" n="0723a18"/>二曰守園人。云何淨人。苾芻告淨人曰。清淨之業應可作之。不清淨事皆不應作。由作淨業。故曰淨人。若
+<lb ed="X" n="0539a16"/><lb ed="R063" n="0723b01"/>但防護住處。名守僧園人。緣從波斯匿王所施。為僧給使。常事比丘。言優婆塞者。義名信士男。亦云清淨
+<lb ed="X" n="0539a17"/><lb ed="R063" n="0723b02"/>士。正翻近事男。近事者。親近承事諸佛法故。又翻為近住。言受持戒行。堪近僧住。為比丘執作眾事。故云
+<lb ed="X" n="0539a18"/><lb ed="R063" n="0723b03"/>常為諸比丘執事也。此謂比丘指示執事人。處。謂在某城某邨某處名某甲。是我執事人</note>。時彼
+<lb ed="X" n="0539a19"/><lb ed="R063" n="0723b04"/>使往至執事人所與衣價<anchor xml:id="beg_12d" type="cb-app"/>已<anchor xml:id="end_12d"/>。乃至大德知時往彼
+<lb ed="X" n="0539a20"/><lb ed="R063" n="0723b05"/>當得衣<note place="inline">謂彼使人付衣價<anchor xml:id="beg_12e" type="cb-app"/>已<anchor xml:id="end_12e"/>。還報比丘。我<anchor xml:id="beg_12f" type="cb-app"/>已<anchor xml:id="end_12f"/>與衣價。大德。當自知時。或須用之時。或合畜之
+<lb ed="X" n="0539a21"/><lb ed="R063" n="0723b06"/>時。應往彼執事人所。當得如是清淨衣</note>。須衣比丘當往執事人所。若
+<lb ed="X" n="0539a22"/><lb ed="R063" n="0723b07"/>執事人。若在家。若在市。若在作處。二反三反語言。
+<lb ed="X" n="0539a23"/><lb ed="R063" n="0723b08"/>我今須衣與我作衣。為作憶念者是<note place="inline">謂告彼令知。憶念不忘。故
+<lb ed="X" n="0539a24"/><lb ed="R063" n="0723b09"/>云憶念也</note>。若二反三反為作憶念。得衣者善<note place="inline">謂隨求即獲。不假六
+<pb ed="X" xml:id="X40.0720.0539b" n="0539b"/>
+<lb ed="X" n="0539b01"/><lb ed="R063" n="0723b10"/>反默然而得。故云善也</note>。若不得衣。四反五反六反在前默然
+<lb ed="X" n="0539b02"/><lb ed="R063" n="0723b11"/>立<note place="inline">此戒體正在三反往索。六反默然住。得衣無過。過此則犯　僧祗云。三反往索。六反默然住時。
+<lb ed="X" n="0539b03"/><lb ed="R063" n="0723b12"/>或緩期。或急期。若比丘至檀越所索衣時。答言。尊者更一月來。比丘滿一月往索。若復言更一月來。比丘
+<lb ed="X" n="0539b04"/><lb ed="R063" n="0723b13"/>滿一月復往索。若復言更一月來。比丘又滿一月復往索過三月<anchor xml:id="beg_130" type="cb-app"/>已<anchor xml:id="end_130"/>。不得復索。若言半月來。過三半月不
+<lb ed="X" n="0539b05"/><lb ed="R063" n="0723b14"/>得復索。若言十日五日四日三日二日一日。乃至三須臾。過三須臾。不得復索。六反往默然住時。檀越言。
+<lb ed="X" n="0539b06"/><lb ed="R063" n="0723b15"/>我知尊者來意。更一月來。如是過六月。乃至六須臾。不得復往默然　善見云。云何默然。口不語。立不坐。
+<lb ed="X" n="0539b07"/><lb ed="R063" n="0723b16"/>檀越教坐。不得坐。若與飲食。不得受。若請說法呪願。悉不為說。若檀越問言。何因緣來至此。答居士自當
+<lb ed="X" n="0539b08"/><lb ed="R063" n="0723b17"/>知。是為默然　僧祗云。齊幾名默然住時。如人入庫取物。著店上頃。又如褁襆物頃即應去</note>。若
+<lb ed="X" n="0539b09"/><lb ed="R063" n="0723b18"/>比丘作一語破二反默然。作二語破四反默然。作
+<lb ed="X" n="0539b10"/><lb ed="R063" n="0724a01"/>三語破六反默然<note place="inline">善見云。若不口語索。得十二默然求。若一語索破二默然。乃至
+<lb ed="X" n="0539b11"/><lb ed="R063" n="0724a02"/>六語索破十二默然</note>。</p>
+<lb ed="X" n="0539b12"/><lb ed="R063" n="0724a03"/><p xml:id="pX40p0539b1201" rend="margin-left:1em">犯緣　此戒具足三緣。方成本罪。一貪心希取。二
+<lb ed="X" n="0539b13"/><lb ed="R063" n="0724a04"/>違制過索。三衣物入手。</p>
+<lb ed="X" n="0539b14"/><lb ed="R063" n="0724a05"/><p xml:id="pX40p0539b1401" rend="margin-left:1em">定罪　此中犯者。過三反語索。過六反默然住。若
+<lb ed="X" n="0539b15"/><lb ed="R063" n="0724a06"/>得衣者。捨墮。</p><p xml:id="pX40p0539b1506" rend="margin-left:1em;inline">不得。突吉羅。</p><p xml:id="pX40p0539b1511" rend="margin-left:1em;inline">捨懺不還等。得罪
+<lb ed="X" n="0539b16"/><lb ed="R063" n="0724a07"/>同前。</p><p xml:id="pX40p0539b1603" rend="margin-left:1em;inline">十誦云。是比丘語衣主<anchor xml:id="beg_131" type="cb-app"/>已<anchor xml:id="end_131"/>。有餘因緣。到執
+<lb ed="X" n="0539b17"/><lb ed="R063" n="0724a08"/>事處。若問何故來。答言。我有餘事故來。若言持衣
+<lb ed="X" n="0539b18"/><lb ed="R063" n="0724a09"/>去。答言。我<anchor xml:id="beg_132" type="cb-app"/>已<anchor xml:id="end_132"/>語衣主。汝可往自分了。若言但持去。
+<lb ed="X" n="0539b19"/><lb ed="R063" n="0724a10"/>我自解語。衣主爾時受衣持去。不犯。</p><p xml:id="pX40p0539b1915" rend="margin-left:1em;inline">根本云。若
+<lb ed="X" n="0539b20"/><lb ed="R063" n="0724a11"/>苾芻遣使報<anchor xml:id="beg_133" type="cb-app"/>已<anchor xml:id="end_133"/>。執事人來。作是語。聖者可受此衣。
+<lb ed="X" n="0539b21"/><lb ed="R063" n="0724a12"/>應報言。此衣我<anchor xml:id="beg_134" type="cb-app"/>已<anchor xml:id="end_134"/>捨訖。汝當還彼送衣來處。如是
+<lb ed="X" n="0539b22"/><lb ed="R063" n="0724a13"/>報者善。若受衣者。捨墮。若執事人言。聖者可受此
+<lb ed="X" n="0539b23"/><lb ed="R063" n="0724a14"/>衣。彼之施主我共平章。令其心喜。若如是者。取衣
+<lb ed="X" n="0539b24"/><lb ed="R063" n="0724a15"/>不犯。</p><p xml:id="pX40p0539b2403" rend="margin-left:1em;inline">比丘尼捨墮。三小眾突吉羅。是謂為犯。</p>
+<pb ed="X" xml:id="X40.0720.0539c" n="0539c"/>
+<lb ed="X" n="0539c01"/><lb ed="R063" n="0724a16"/><p xml:id="pX40p0539c0101" rend="margin-left:1em">開緣　不犯者。三反語索得衣。六反默然立得衣。
+<lb ed="X" n="0539c02"/><lb ed="R063" n="0724a17"/>若不得衣。從所得衣價處。若自往。若遣使往語言。
+<lb ed="X" n="0539c03"/><lb ed="R063" n="0724a18"/>汝先遣使。與某甲衣。是比丘竟不得衣。可還取。莫
+<lb ed="X" n="0539c04"/><lb ed="R063" n="0724b01"/>使失。若彼言。我不須即相布施。是比丘應以時輭
+<lb ed="X" n="0539c05"/><lb ed="R063" n="0724b02"/>語方便索衣<note place="inline">僧祗云。若語物主時。物主言。我先施比丘。隨方便更索。爾時得如前三反
+<lb ed="X" n="0539c06"/><lb ed="R063" n="0724b03"/>語索六反默然住</note>。若為作波利迦羅衣故與。以時索。輭語
+<lb ed="X" n="0539c07"/><lb ed="R063" n="0724b04"/>索。方便索得者。不犯。不犯者最初未制戒等。</p>
+<lb ed="X" n="0539c08"/><lb ed="R063" n="0724b05"/><p xml:id="pX40p0539c0801" rend="margin-left:1em">○第十一蠶綿作臥具戒</p>
+<lb ed="X" n="0539c09"/><lb ed="R063" n="0724b06"/><p xml:id="pX40p0539c0901" rend="margin-left:2em">總釋。</p>
+<lb ed="X" n="0539c10"/><lb ed="R063" n="0724b07"/><p xml:id="pX40p0539c1001" rend="margin-left:1em">此是不共戒。尼制不同。大乘為眾生故得受。但不
+<lb ed="X" n="0539c11"/><lb ed="R063" n="0724b08"/>得受用。以慈悲為體。</p><p xml:id="pX40p0539c1109" rend="margin-left:1em;inline">律攝云。殺諸生命。增長貪
+<lb ed="X" n="0539c12"/><lb ed="R063" n="0724b09"/>求。廢自善品。損他正信。制斯學處。</p>
+<lb ed="X" n="0539c13"/><lb ed="R063" n="0724b10"/><p xml:id="pX40p0539c1301" rend="margin-left:2em">緣起處。</p>
+<lb ed="X" n="0539c14"/><lb ed="R063" n="0724b11"/><p xml:id="pX40p0539c1401" rend="margin-left:1em">佛在曠野國界。</p>
+<lb ed="X" n="0539c15"/><lb ed="R063" n="0724b12"/><p xml:id="pX40p0539c1501" rend="margin-left:2em">起緣人。</p>
+<lb ed="X" n="0539c16"/><lb ed="R063" n="0724b13"/><p xml:id="pX40p0539c1601" rend="margin-left:1em">六羣作新雜野蠶綿臥具。至養蠶家語言。我等須
+<lb ed="X" n="0539c17"/><lb ed="R063" n="0724b14"/>綿。報言。小待。須蠶熟時來。六羣在邊住待。看彼曝
+<lb ed="X" n="0539c18"/><lb ed="R063" n="0724b15"/>繭時蠶蛹作聲<note place="inline">蛹者。蠶所化為蛹。蛹化為蛾也</note>。居士譏嫌。無有慚
+<lb ed="X" n="0539c19"/><lb ed="R063" n="0724b16"/>愧。害眾生命。諸比丘聞白佛。呵責結戒。</p>
+<lb ed="X" n="0539c20"/><lb ed="R063" n="0724b17"/><p xml:id="pX40p0539c2001" rend="margin-left:2em">所立戒相。</p></cb:div>
+<lb ed="X" n="0539c21"/><lb ed="R063" n="0724b18"/><cb:div type="orig"><p xml:id="pX40p0539c2101">若比丘雜野蠶綿作新臥具。尼薩耆波逸提。</p></cb:div>
+<lb ed="X" n="0539c22"/><lb ed="R063" n="0725a01"/><cb:div type="commentary"><p xml:id="pX40p0539c2201" rend="margin-left:1em">釋義　雜者。若毳。若劫貝拘遮羅乳葉草。若芻摩。
+<lb ed="X" n="0539c23"/><lb ed="R063" n="0725a02"/>若麻<note place="inline">毳者。乃獸毛細者是。拘遮羅乳葉草。未見翻譯也</note>。野蠶綿者<note place="inline">薩婆多云。此國
+<lb ed="X" n="0539c24"/><lb ed="R063" n="0725a03"/>養蠶如秦地人法。蠶熟得綿。名憍奢耶　僧祗云。憍奢耶有二種。一者生。二者作。生者細絲。作者紡絲
+<pb ed="X" xml:id="X40.0720.0540a" n="0540a"/>
+<lb ed="X" n="0540a01"/><lb ed="R063" n="0725a04"/>善見云。雜者乃至若經若緯。雜憍賒耶一毛。尼薩耆。憍賒耶一毛者。絲中微細者是也</note>。作新
+<lb ed="X" n="0540a02"/><lb ed="R063" n="0725a05"/>臥具<note place="inline">律攝云。新者有二種。一謂新造。二謂新得。此據新造　薩婆多論云。此國以綿作衣法有
+<lb ed="X" n="0540a03"/><lb ed="R063" n="0725a06"/>二種。一擘綿布貯。如作氈法。二以綿作縷織以成衣。此二衣名作敷具。敷具者。衣之都名也。作者。若自作。
+<lb ed="X" n="0540a04"/><lb ed="R063" n="0725a07"/>若使他作。故名作新臥具</note>。</p>
+<lb ed="X" n="0540a05"/><lb ed="R063" n="0725a08"/><p xml:id="pX40p0540a0501" rend="margin-left:1em">犯緣　此戒具足三緣。方成本罪。一貪慢心。二為
+<lb ed="X" n="0540a06"/><lb ed="R063" n="0725a09"/><anchor xml:id="beg_135" type="cb-app"/>己<anchor xml:id="end_135"/>求。三臥具<anchor xml:id="beg_136" type="cb-app"/>已<anchor xml:id="end_136"/>成。</p>
+<lb ed="X" n="0540a07"/><lb ed="R063" n="0725a10"/><p xml:id="pX40p0540a0701" rend="margin-left:1em">定罪　此中犯者。自用雜野蠶綿作臥具。成者。捨
+<lb ed="X" n="0540a08"/><lb ed="R063" n="0725a11"/>墮。</p><p xml:id="pX40p0540a0802" rend="margin-left:1em;inline">作而不成。突吉羅。</p><p xml:id="pX40p0540a0809" rend="margin-left:1em;inline">若語他人作成者。捨墮。</p>
+<lb ed="X" n="0540a09"/><lb ed="R063" n="0725a12"/><p xml:id="pX40p0540a0901" rend="margin-left:1em">作而不成。突吉羅。</p><p xml:id="pX40p0540a0908" rend="margin-left:1em;inline">為他作。成不成。突吉羅。</p>
+<lb ed="X" n="0540a10"/><lb ed="R063" n="0725a13"/><p xml:id="pX40p0540a1001" rend="margin-left:1em">此應捨。是中捨者。若以斤斧細剉斬和泥。若塗壁。
+<lb ed="X" n="0540a11"/><lb ed="R063" n="0725a14"/>若塗埵。</p><p xml:id="pX40p0540a1104" rend="margin-left:1em;inline">五分云。雖不自作。不使他作。他施而受。
+<lb ed="X" n="0540a12"/><lb ed="R063" n="0725a15"/>亦捨墮。</p><p xml:id="pX40p0540a1204" rend="margin-left:1em;inline">律攝云。或他告言。我為仁作高世耶衣。
+<lb ed="X" n="0540a13"/><lb ed="R063" n="0725a16"/>意欲得故而不止。遂貪心故。亦得本罪。</p><p xml:id="pX40p0540a1316" rend="margin-left:1em;inline">尼等四
+<lb ed="X" n="0540a14"/><lb ed="R063" n="0725a17"/>眾突吉羅。是謂為犯。</p>
+<lb ed="X" n="0540a15"/><lb ed="R063" n="0725a18"/><p xml:id="pX40p0540a1501" rend="margin-left:1em">開緣　不犯者。若得<anchor xml:id="beg_137" type="cb-app"/>已<anchor xml:id="end_137"/>成者。以斤斧剉斬和泥。塗
+<lb ed="X" n="0540a16"/><lb ed="R063" n="0725b01"/>壁塗埵。無犯。不犯者最初未制戒等。</p>
+<lb ed="X" n="0540a17"/><lb ed="R063" n="0725b02"/><p xml:id="pX40p0540a1701" rend="margin-left:1em">會詳　緇門警訓引央掘經云。繒綿皮物。若展轉
+<lb ed="X" n="0540a18"/><lb ed="R063" n="0725b03"/>來。離殺者手。施持戒人。不應受者。是比丘法。若受
+<lb ed="X" n="0540a19"/><lb ed="R063" n="0725b04"/>者非悲。不名破戒。</p><p xml:id="pX40p0540a1908" rend="margin-left:1em;inline">涅槃經云。皮革履屣。憍奢耶
+<lb ed="X" n="0540a20"/><lb ed="R063" n="0725b05"/>衣。如是衣服。悉皆不畜。是正經律。</p><p xml:id="pX40p0540a2014" rend="margin-left:1em;inline">楞嚴經云。若
+<lb ed="X" n="0540a21"/><lb ed="R063" n="0725b06"/>諸比丘。不服東方絲綿絹帛。及此土靴履裘毳。乳
+<lb ed="X" n="0540a22"/><lb ed="R063" n="0725b07"/>酪醍醐。如是比丘於世真脫。酬還宿債。不遊三界。
+<lb ed="X" n="0540a23"/><lb ed="R063" n="0725b08"/>何以故。服其身分。皆彼緣故<note place="inline">東方者。此東震旦國也。震旦。東方屬震。是
+<lb ed="X" n="0540a24"/><lb ed="R063" n="0725b09"/>日出之方。故云震旦。樓炭經云。<g ref="#CB06398">󱣾</g>河以東。名為震旦。以日初出。耀於東隅。故得名也。此土者。西竺五印土
+<pb ed="X" xml:id="X40.0720.0540b" n="0540b"/>
+<lb ed="X" n="0540b01"/><lb ed="R063" n="0725b10"/>也。印度梵語。唐言月。月有多名。斯其一稱。良以聖賢繼軌。導凡御物。如月照臨。由是義故。謂之印度。東方
+<lb ed="X" n="0540b02"/><lb ed="R063" n="0725b11"/>不無裘毳。西土不無絲綿。各以多分言之也。眾生身分。身既不服。真解脫者。酬還宿債。不遊三界。經語甚
+<lb ed="X" n="0540b03"/><lb ed="R063" n="0725b12"/>倒知之。服其身分。皆彼緣故。如人食其地中百穀。足不離地。眾生身分。況食況服。豈能出離三界乎</note>。</p>
+<lb ed="X" n="0540b04"/><lb ed="R063" n="0725b13"/><p xml:id="pX40p0540b0401" rend="margin-left:1em">高僧傳載南岳道休二師不衣綿。並服艾絮。故
+<lb ed="X" n="0540b05"/><lb ed="R063" n="0725b14"/>南山云。佛法東漸。幾六百載。惟斯衡岳慈行可歸
+<lb ed="X" n="0540b06"/><lb ed="R063" n="0725b15"/><note place="inline">南岳慧思禪師。少以慈恕。聞於閭里。常夢梵僧勸出俗。乃辭親入道。及稟具。常習坐禪。得宿命通。後悟法
+<lb ed="X" n="0540b07"/><lb ed="R063" n="0725b16"/>華三昧最上乘門。於陳光大六年。將四十僧。徑趣南岳。乃告曰吾寄此山。止期十載。心事遠遊。師習慈忍。
+<lb ed="X" n="0540b08"/><lb ed="R063" n="0725b17"/>奉菩薩三聚淨戒。衣服率布。寒加之以艾絮　道休禪師。恒以頭陀為業。住雍州新豐福祿寺南囇山幽
+<lb ed="X" n="0540b09"/><lb ed="R063" n="0725b18"/>谷。結草為庵。一坐七日。乃出之。出山乞食。施說禁戒。誨人慈善。如是積四十年。貞觀三年夏內。依期不出。
+<lb ed="X" n="0540b10"/><lb ed="R063" n="0726a01"/>端拱而卒。然休師出家以來。常但三衣。不服繒纊。以傷生也。所著布衣。積有年稔。塵朽零破。見者心寒。故
+<lb ed="X" n="0540b11"/><lb ed="R063" n="0726a02"/>知休之慈救。與衡岳同風</note>。</p><p xml:id="pX40p0540b1111" rend="margin-left:1em;inline">薩婆多云。為止誹謗故。長信敬故。
+<lb ed="X" n="0540b12"/><lb ed="R063" n="0726a03"/>行道安樂故。不害眾生故。而結此戒。</p>
+<lb ed="X" n="0540b13"/><lb ed="R063" n="0726a04"/><p xml:id="pX40p0540b1301" rend="margin-left:1em">○第十二黑羊毛作具戒</p>
+<lb ed="X" n="0540b14"/><lb ed="R063" n="0726a05"/><p xml:id="pX40p0540b1401" rend="margin-left:2em">總釋。</p>
+<lb ed="X" n="0540b15"/><lb ed="R063" n="0726a06"/><p xml:id="pX40p0540b1501" rend="margin-left:1em">此是不共戒。尼犯不同。大乘同制。</p><p xml:id="pX40p0540b1514" rend="margin-left:1em;inline">律攝云。由愛
+<lb ed="X" n="0540b16"/><lb ed="R063" n="0726a07"/>上色。復求細輭。廢業長貪。遮無益故。制斯學處。</p>
+<lb ed="X" n="0540b17"/><lb ed="R063" n="0726a08"/><p xml:id="pX40p0540b1701" rend="margin-left:2em">緣起處。</p>
+<lb ed="X" n="0540b18"/><lb ed="R063" n="0726a09"/><p xml:id="pX40p0540b1801" rend="margin-left:1em">佛在毗舍離獼猴江邊。住樓閣。諸梨車子多行邪
+<lb ed="X" n="0540b19"/><lb ed="R063" n="0726a10"/>婬。作純黑羺羊毛氈被體夜行。使人不見<note place="inline">言梨車子者。善
+<lb ed="X" n="0540b20"/><lb ed="R063" n="0726a11"/>見云。往昔波羅奈國王夫人。懷妊月滿。生一肉段。無有手足。恐王見必生惡賤。即取盛。則器中打金作薄。
+<lb ed="X" n="0540b21"/><lb ed="R063" n="0726a12"/>以朱砂書題云。是波羅奈國王夫人所生。葢覆器頂以王印印之。使人送放江中。諸鬼神營護。使無風浪
+<lb ed="X" n="0540b22"/><lb ed="R063" n="0726a13"/>驅沒。爾時有一道士。清朝往江邊澡面。遙見此器。近<anchor xml:id="beg_138" type="cb-app"/>已<anchor xml:id="end_138"/>而取。又見金薄朱字。復見王印印上。便開器看。唯
+<lb ed="X" n="0540b23"/><lb ed="R063" n="0726a14"/>見一肉段。而作是念。若是死肉。久應臭爛。必有異相。即取將去。安於好處。過半月<anchor xml:id="beg_139" type="cb-app"/>已<anchor xml:id="end_139"/>。而成両片。復經半月。
+<lb ed="X" n="0540b24"/><lb ed="R063" n="0726a15"/>二片各有五胞。又過半月。一片成男。一片成女。男作黃金色。女作白銀色。道士見<anchor xml:id="beg_13a" type="cb-app"/>已<anchor xml:id="end_13a"/>。心生愛重。如自生子。
+<pb ed="X" xml:id="X40.0720.0540c" n="0540c"/>
+<lb ed="X" n="0540c01"/><lb ed="R063" n="0726a16"/>以慈心力故。兩手拇指自然出乳。而養二子。乳入子腹。譬如清水入摩尼珠。內外明徹。道士號兒。名離車
+<lb ed="X" n="0540c02"/><lb ed="R063" n="0726a17"/>子。後牧牛人見道士養子疲勞。即從乞此二子供養。後此二子打牧牛人子。諸子告父母言。此無父母人
+<lb ed="X" n="0540c03"/><lb ed="R063" n="0726a18"/>打我。父母報言。他若打汝。即應避去。梵語離車。此云避去。亦翻薄皮。又翻同皮。後年十六歲。見地平博。縱
+<lb ed="X" n="0540c04"/><lb ed="R063" n="0726b01"/>廣一百由旬。起立舍宅。以男立為王。女為王夫人。後時王子漸多。各立舍宅。故號毗舍離城。離車子所居。
+<lb ed="X" n="0540c05"/><lb ed="R063" n="0726b02"/>離車是其種姓。正音云栗呫婆。此云仙施王種</note>。</p>
+<lb ed="X" n="0540c06"/><lb ed="R063" n="0726b03"/><p xml:id="pX40p0540c0601" rend="margin-left:2em">起緣人。</p>
+<lb ed="X" n="0540c07"/><lb ed="R063" n="0726b04"/><p xml:id="pX40p0540c0701" rend="margin-left:1em">六羣便效而作。梨車言。大德。我等在於愛欲。為婬
+<lb ed="X" n="0540c08"/><lb ed="R063" n="0726b05"/>欲故作。汝等作此。何所為耶。諸比丘聞白佛。訶責
+<lb ed="X" n="0540c09"/><lb ed="R063" n="0726b06"/>結戒。</p>
+<lb ed="X" n="0540c10"/><lb ed="R063" n="0726b07"/><p xml:id="pX40p0540c1001" rend="margin-left:2em">所立戒相。</p></cb:div>
+<lb ed="X" n="0540c11"/><lb ed="R063" n="0726b08"/><cb:div type="orig"><p xml:id="pX40p0540c1101">若比丘以新純黑羺羊毛。作新臥具者。尼薩耆波逸
+<lb ed="X" n="0540c12"/><lb ed="R063" n="0726b09"/>提。</p></cb:div>
+<lb ed="X" n="0540c13"/><lb ed="R063" n="0726b10"/><cb:div type="commentary"><p xml:id="pX40p0540c1301" rend="margin-left:1em">釋義　新者<note place="inline">薩婆多論云。言新者非故。若得朽壞黑羊毛作敷具。無犯　純黑毛者。或
+<lb ed="X" n="0540c14"/><lb ed="R063" n="0726b11"/>生黑。或染黑。純者不雜也</note>。羺羊毛<note place="inline">羺<g ref="#CB01306">䍲</g>乃胡羊之名。通俗文云。羊卷毛謂之羺<g ref="#CB01306">䍲</g>　僧祗云。
+<lb ed="X" n="0540c15"/><lb ed="R063" n="0726b12"/>此毛大貴。或一錢得一兩。乃至二三四金錢得一兩。然此毛極細輭。觸眼睛不淚出。甚為難得。故不聽純
+<lb ed="X" n="0540c16"/><lb ed="R063" n="0726b13"/>黑羊毛也</note>。作新臥具者<note place="inline">薩婆多云。黑羊毛作衣法。亦二種。一以黑毛擇治布。貯作細氈。
+<lb ed="X" n="0540c17"/><lb ed="R063" n="0726b14"/>二作縷織成衣。此二種衣盡名敷具。敷具衣之總名也。此毛作三衣。盡中受持</note>。</p>
+<lb ed="X" n="0540c18"/><lb ed="R063" n="0726b15"/><p xml:id="pX40p0540c1801" rend="margin-left:1em">犯緣　此戒具作三緣。方成本罪。一貪心自為。二
+<lb ed="X" n="0540c19"/><lb ed="R063" n="0726b16"/>純黑無雜。三作具<anchor xml:id="beg_13b" type="cb-app"/>已<anchor xml:id="end_13b"/>成。</p>
+<lb ed="X" n="0540c20"/><lb ed="R063" n="0726b17"/><p xml:id="pX40p0540c2001" rend="margin-left:1em">定罪　此中犯者。自以純黑羺羊毛。作新臥具。成
+<lb ed="X" n="0540c21"/><lb ed="R063" n="0726b18"/>者。捨墮。</p><p xml:id="pX40p0540c2104" rend="margin-left:1em;inline">作而不成。突吉羅。</p><p xml:id="pX40p0540c2111" rend="margin-left:1em;inline">教他作成。捨墮。</p>
+<lb ed="X" n="0540c22"/><lb ed="R063" n="0727a01"/><p xml:id="pX40p0540c2201" rend="margin-left:1em">不成。突吉羅。</p><p xml:id="pX40p0540c2206" rend="margin-left:1em;inline">為他作成不成。突吉羅。</p><p xml:id="pX40p0540c2215" rend="margin-left:1em;inline">捨懺不
+<lb ed="X" n="0540c23"/><lb ed="R063" n="0727a02"/>還等。得罪同前。</p><p xml:id="pX40p0540c2307" rend="margin-left:1em;inline">薩婆多云。若以駝毛羖羊毛牛
+<lb ed="X" n="0540c24"/><lb ed="R063" n="0727a03"/>毛。若芻麻劫貝褐衣欽婆羅合作者。皆突吉羅。</p>
+<pb ed="X" xml:id="X40.0720.0541a" n="0541a"/>
+<lb ed="X" n="0541a01"/><lb ed="R063" n="0727a04"/><p xml:id="pX40p0541a0101" rend="margin-left:1em">十誦云。不犯者。為塔為僧作。</p><p xml:id="pX40p0541a0112" rend="margin-left:1em;inline">尼等四眾突吉羅。
+<lb ed="X" n="0541a02"/><lb ed="R063" n="0727a05"/>是謂為犯。</p>
+<lb ed="X" n="0541a03"/><lb ed="R063" n="0727a06"/><p xml:id="pX40p0541a0301" rend="margin-left:1em">開緣　不犯者。若得<anchor xml:id="beg_13c" type="cb-app"/>已<anchor xml:id="end_13c"/>成者。若割截壞。若細薄揲
+<lb ed="X" n="0541a04"/><lb ed="R063" n="0727a07"/>作兩重<note place="inline">細薄摺作雙重。即是小坐具。故不犯</note>。若褥。若作枕。若作方小
+<lb ed="X" n="0541a05"/><lb ed="R063" n="0727a08"/>坐具。若作臥氈。或作襯鉢內氈。或剃刀囊。或作帽。
+<lb ed="X" n="0541a06"/><lb ed="R063" n="0727a09"/>或作襪。或作鑷熱巾。或作褁革屣巾。盡無犯。不犯
+<lb ed="X" n="0541a07"/><lb ed="R063" n="0727a10"/>者。最初未制戒等。</p>
+<lb ed="X" n="0541a08"/><lb ed="R063" n="0727a11"/><p xml:id="pX40p0541a0801" rend="margin-left:1em">○第十三不雜色作臥具戒</p>
+<lb ed="X" n="0541a09"/><lb ed="R063" n="0727a12"/><p xml:id="pX40p0541a0901" rend="margin-left:2em">總釋。</p>
+<lb ed="X" n="0541a10"/><lb ed="R063" n="0727a13"/><p xml:id="pX40p0541a1001" rend="margin-left:1em">此是不共戒。尼犯不同。大乘同制。內尊僧制。外護
+<lb ed="X" n="0541a11"/><lb ed="R063" n="0727a14"/>譏嫌。惱事同前。</p>
+<lb ed="X" n="0541a12"/><lb ed="R063" n="0727a15"/><p xml:id="pX40p0541a1201" rend="margin-left:2em">緣起處。</p>
+<lb ed="X" n="0541a13"/><lb ed="R063" n="0727a16"/><p xml:id="pX40p0541a1301" rend="margin-left:1em">佛在給孤獨園。</p>
+<lb ed="X" n="0541a14"/><lb ed="R063" n="0727a17"/><p xml:id="pX40p0541a1401" rend="margin-left:2em">起緣人。</p>
+<lb ed="X" n="0541a15"/><lb ed="R063" n="0727a18"/><p xml:id="pX40p0541a1501" rend="margin-left:1em">六羣以純白羊毛。作新臥具。諸居士譏嫌。似王大
+<lb ed="X" n="0541a16"/><lb ed="R063" n="0727b01"/>臣<note place="inline">西域以白為上色。王與大臣方著。故言似王大臣也</note>。諸比丘聞白佛。訶責
+<lb ed="X" n="0541a17"/><lb ed="R063" n="0727b02"/>結戒。</p>
+<lb ed="X" n="0541a18"/><lb ed="R063" n="0727b03"/><p xml:id="pX40p0541a1801" rend="margin-left:2em">所立戒相。</p></cb:div>
+<lb ed="X" n="0541a19"/><lb ed="R063" n="0727b04"/><cb:div type="orig"><p xml:id="pX40p0541a1901">若比丘作新臥具。應用二分純黑羊毛。三分白。四分
+<lb ed="X" n="0541a20"/><lb ed="R063" n="0727b05"/>牻。若比丘不用二分黑。三分白。四分牻。作新臥具者。
+<lb ed="X" n="0541a21"/><lb ed="R063" n="0727b06"/>尼薩耆波逸提。</p></cb:div>
+<lb ed="X" n="0541a22"/><lb ed="R063" n="0727b07"/><cb:div type="commentary"><p xml:id="pX40p0541a2201" rend="margin-left:1em">釋義　<note place="inline">黑義如上</note>白者。或生白。或染令白。牻者。頭上毛。
+<lb ed="X" n="0541a23"/><lb ed="R063" n="0727b08"/>耳毛。若脚毛。若餘牻色毛<note place="inline">牻者雜色毛也　律攝云。粗惡者。謂頭足腹毛。
+<lb ed="X" n="0541a24"/><lb ed="R063" n="0727b09"/>由頭足腹。是行動處。毛粗惡也</note>。若欲作四十鉢羅羊毛臥具者。二
+<pb ed="X" xml:id="X40.0720.0541b" n="0541b"/>
+<lb ed="X" n="0541b01"/><lb ed="R063" n="0727b10"/>十鉢羅純黑。十鉢羅白。十鉢羅牻。若欲作三十鉢
+<lb ed="X" n="0541b02"/><lb ed="R063" n="0727b11"/>羅臥具者。十五鉢羅黑。七鉢羅半白。七鉢羅半牻。
+<lb ed="X" n="0541b03"/><lb ed="R063" n="0727b12"/>若作二十鉢羅臥具者。十鉢羅純黑。五鉢羅白。五
+<lb ed="X" n="0541b04"/><lb ed="R063" n="0727b13"/>鉢羅牻<note place="inline">十誦云。一鉢羅。四兩　律攝云。若作十斤毛褥。五斤純黑二斤半白二斤半粗。若更
+<lb ed="X" n="0541b05"/><lb ed="R063" n="0727b14"/>增減。准此文。謂以十斤毛。分作四分。純黑者應用二分。故云二分黑。白者用一分。即四分中第三分。故曰
+<lb ed="X" n="0541b06"/><lb ed="R063" n="0727b15"/>三分白。牻者亦用一分。即第四分。故曰四分牻。依制而作</note>。若比丘不用下<note place="inline">違制成犯</note>。</p>
+<lb ed="X" n="0541b07"/><lb ed="R063" n="0727b16"/><p xml:id="pX40p0541b0701" rend="margin-left:1em">犯緣　此戒具足三緣。方成本罪。一貪心自為。二
+<lb ed="X" n="0541b08"/><lb ed="R063" n="0727b17"/>黑白過分。三作具<anchor xml:id="beg_13d" type="cb-app"/>已<anchor xml:id="end_13d"/>成。</p>
+<lb ed="X" n="0541b09"/><lb ed="R063" n="0727b18"/><p xml:id="pX40p0541b0901" rend="margin-left:1em">定罪　此中犯者。不以二分黑三分白四分牻。自
+<lb ed="X" n="0541b10"/><lb ed="R063" n="0728a01"/>作新臥具。成。捨墮。</p><p xml:id="pX40p0541b1008" rend="margin-left:1em;inline">不成。突吉羅。</p><p xml:id="pX40p0541b1013" rend="margin-left:1em;inline">若使他作成。
+<lb ed="X" n="0541b11"/><lb ed="R063" n="0728a02"/>捨墮。</p><p xml:id="pX40p0541b1103" rend="margin-left:1em;inline">不成。突吉羅。</p><p xml:id="pX40p0541b1108" rend="margin-left:1em;inline">若為他作。成不成。突吉羅。</p>
+<lb ed="X" n="0541b12"/><lb ed="R063" n="0728a03"/><p xml:id="pX40p0541b1201" rend="margin-left:1em">捨懺不還等。得罪同前。</p><p xml:id="pX40p0541b1210" rend="margin-left:1em;inline">十誦云。用黑乃至多
+<lb ed="X" n="0541b13"/><lb ed="R063" n="0728a04"/>一兩。捨墮。</p><p xml:id="pX40p0541b1305" rend="margin-left:1em;inline">用白乃至多一兩。突吉羅。</p><p xml:id="pX40p0541b1315" rend="margin-left:1em;inline">用牻乃
+<lb ed="X" n="0541b14"/><lb ed="R063" n="0728a05"/>至減一兩。捨墮。</p><p xml:id="pX40p0541b1407" rend="margin-left:1em;inline">僧祇云。二分者。多用黑毛。而作
+<lb ed="X" n="0541b15"/><lb ed="R063" n="0728a06"/>等想。等用作減想而更益。</p><p xml:id="pX40p0541b1511" rend="margin-left:1em;inline">第三分多用白毛。而
+<lb ed="X" n="0541b16"/><lb ed="R063" n="0728a07"/>作等想。等用作減想而更益。</p><p xml:id="pX40p0541b1612" rend="margin-left:1em;inline">四分者。少用下毛。
+<lb ed="X" n="0541b17"/><lb ed="R063" n="0728a08"/>而作等想。若自作教他作。成捨墮。受用越毗尼罪。</p>
+<lb ed="X" n="0541b18"/><lb ed="R063" n="0728a09"/><p xml:id="pX40p0541b1801" rend="margin-left:1em">律攝云。或黑者易得。餘色難求。斤數減增並成。
+<lb ed="X" n="0541b19"/><lb ed="R063" n="0728a10"/>無犯。</p><p xml:id="pX40p0541b1903" rend="margin-left:1em;inline">比丘尼及三小眾突吉羅。是謂為犯。</p>
+<lb ed="X" n="0541b20"/><lb ed="R063" n="0728a11"/><p xml:id="pX40p0541b2001" rend="margin-left:1em">開緣　不犯者。若二分黑三分白四分牻作。若白
+<lb ed="X" n="0541b21"/><lb ed="R063" n="0728a12"/>不足。以牻足之。若作純牻者。若得<anchor xml:id="beg_13e" type="cb-app"/>已<anchor xml:id="end_13e"/>成者。割截壞。
+<lb ed="X" n="0541b22"/><lb ed="R063" n="0728a13"/>若作壞色者。作枕。若作氈。若褥。若作臥氈。若作小
+<lb ed="X" n="0541b23"/><lb ed="R063" n="0728a14"/>方坐具。若作襯鉢氈。若作剃刀囊。若作襪。作鑷熱
+<lb ed="X" n="0541b24"/><lb ed="R063" n="0728a15"/>巾。作褁革屣巾。一切無犯。不犯者最初未制戒等。</p>
+<pb ed="X" xml:id="X40.0720.0541c" n="0541c"/>
+<lb ed="X" n="0541c01"/><lb ed="R063" n="0728a16"/><p xml:id="pX40p0541c0101" rend="margin-left:1em">○十四減六年臥具戒</p>
+<lb ed="X" n="0541c02"/><lb ed="R063" n="0728a17"/><p xml:id="pX40p0541c0201" rend="margin-left:2em">總釋。</p>
+<lb ed="X" n="0541c03"/><lb ed="R063" n="0728a18"/><p xml:id="pX40p0541c0301" rend="margin-left:1em">此是不共戒。尼犯不同。大乘同制。菩薩少欲知足
+<lb ed="X" n="0541c04"/><lb ed="R063" n="0728b01"/>心無多求。</p><p xml:id="pX40p0541c0405" rend="margin-left:1em;inline">律攝云。為遮不樂用故。受新好者。制
+<lb ed="X" n="0541c05"/><lb ed="R063" n="0728b02"/>斯學處。此戒二緣合結。</p>
+<lb ed="X" n="0541c06"/><lb ed="R063" n="0728b03"/><p xml:id="pX40p0541c0601" rend="margin-left:2em">緣起處。</p>
+<lb ed="X" n="0541c07"/><lb ed="R063" n="0728b04"/><p xml:id="pX40p0541c0701" rend="margin-left:1em">佛在給孤獨園。</p>
+<lb ed="X" n="0541c08"/><lb ed="R063" n="0728b05"/><p xml:id="pX40p0541c0801" rend="margin-left:2em">起緣人。</p>
+<lb ed="X" n="0541c09"/><lb ed="R063" n="0728b06"/><p xml:id="pX40p0541c0901" rend="margin-left:1em">六羣嫌臥具或重或輕。或薄或厚。不捨故臥具。更
+<lb ed="X" n="0541c10"/><lb ed="R063" n="0728b07"/>作新者。如是常營求臥具。藏積眾多。諸比丘聞白
+<lb ed="X" n="0541c11"/><lb ed="R063" n="0728b08"/>佛。呵責結戒。唯無除僧羯磨。有比丘得乾痟病。糞
+<lb ed="X" n="0541c12"/><lb ed="R063" n="0728b09"/>掃臥具極重。有小因緣。欲人間遊行。不堪持行。告
+<lb ed="X" n="0541c13"/><lb ed="R063" n="0728b10"/>同意比丘白佛。佛言。聽僧與彼作白二羯磨。自今
+<lb ed="X" n="0541c14"/><lb ed="R063" n="0728b11"/><anchor xml:id="beg_13f" type="cb-app"/>已<anchor xml:id="end_13f"/>去。當如是說戒。</p>
+<lb ed="X" n="0541c15"/><lb ed="R063" n="0728b12"/><p xml:id="pX40p0541c1501" rend="margin-left:2em">所立戒相。</p></cb:div>
+<lb ed="X" n="0541c16"/><lb ed="R063" n="0728b13"/><cb:div type="orig"><p xml:id="pX40p0541c1601">若比丘作新臥具。持至六年。若減六年。不捨故。更作
+<lb ed="X" n="0541c17"/><lb ed="R063" n="0728b14"/>新者。除僧羯磨。尼薩耆波逸提。</p></cb:div>
+<lb ed="X" n="0541c18"/><lb ed="R063" n="0728b15"/><cb:div type="commentary"><p xml:id="pX40p0541c1801" rend="margin-left:1em">釋義　作新臥具持至六年<note place="inline">僧祗云。作者。若自作。若使人作。新者。初成
+<lb ed="X" n="0541c19"/><lb ed="R063" n="0728b16"/>　律攝云。六年持者。縱不樂畜。亦須六年滿</note>。除僧羯磨<note place="inline">薩婆多云。僧羯磨<anchor xml:id="beg_140" type="cb-app"/>已<anchor xml:id="end_140"/>。得從檀越
+<lb ed="X" n="0541c20"/><lb ed="R063" n="0728b17"/>乞衣具作衣。此戒體。斷多貪多畜</note>。</p>
+<lb ed="X" n="0541c21"/><lb ed="R063" n="0728b18"/><p xml:id="pX40p0541c2101" rend="margin-left:1em">犯緣　此戒具足四緣。方成本罪。一貪心自為。二
+<lb ed="X" n="0541c22"/><lb ed="R063" n="0729a01"/>減六年。三不捨故作新。四作具<anchor xml:id="beg_141" type="cb-app"/>已<anchor xml:id="end_141"/>成。</p>
+<lb ed="X" n="0541c23"/><lb ed="R063" n="0729a02"/><p xml:id="pX40p0541c2301" rend="margin-left:1em">定罪　此中犯者。減六年不捨故。更作新臥具。成。
+<lb ed="X" n="0541c24"/><lb ed="R063" n="0729a03"/>捨墮。</p><p xml:id="pX40p0541c2403" rend="margin-left:1em;inline">作而不成。突吉羅。</p><p xml:id="pX40p0541c2410" rend="margin-left:1em;inline">若使他作成。捨墮。</p>
+<pb ed="X" xml:id="X40.0720.0542a" n="0542a"/>
+<lb ed="X" n="0542a01"/><lb ed="R063" n="0729a04"/><p xml:id="pX40p0542a0101" rend="margin-left:1em">不成。突吉羅。</p><p xml:id="pX40p0542a0106" rend="margin-left:1em;inline">若為他作。成不成。突吉羅。</p><p xml:id="pX40p0542a0116" rend="margin-left:1em;inline">捨懺
+<lb ed="X" n="0542a02"/><lb ed="R063" n="0729a05"/>不還等。得罪同前。</p><p xml:id="pX40p0542a0208" rend="margin-left:1em;inline">此戒體。若作衣<anchor xml:id="beg_142" type="cb-app"/>已<anchor xml:id="end_142"/>。六年內不
+<lb ed="X" n="0542a03"/><lb ed="R063" n="0729a06"/>得從檀越乞羊毛縷種種衣具。作應量衣。隨織成
+<lb ed="X" n="0542a04"/><lb ed="R063" n="0729a07"/><anchor xml:id="beg_143" type="cb-app"/>已<anchor xml:id="end_143"/>。捨墮。</p><p xml:id="pX40p0542a0404" rend="margin-left:1em;inline">薩婆多云。此戒體自有衣財作。若買得
+<lb ed="X" n="0542a05"/><lb ed="R063" n="0729a08"/>衣財作。皆不犯。</p><p xml:id="pX40p0542a0507" rend="margin-left:1em;inline">僧祇云。應當自疏記。失受持故。
+<lb ed="X" n="0542a06"/><lb ed="R063" n="0729a09"/>氈年月日數病差<anchor xml:id="beg_144" type="cb-app"/>已<anchor xml:id="end_144"/>。還受持此。故氈從前滿六年。
+<lb ed="X" n="0542a07"/><lb ed="R063" n="0729a10"/>若病差不還。補六年。捨墮。</p><p xml:id="pX40p0542a0711" rend="margin-left:1em;inline">比丘尼及三小眾突
+<lb ed="X" n="0542a08"/><lb ed="R063" n="0729a11"/>吉羅。是謂為犯。</p>
+<lb ed="X" n="0542a09"/><lb ed="R063" n="0729a12"/><p xml:id="pX40p0542a0901" rend="margin-left:1em">開緣　不犯者。僧聽及滿六年。減六年捨故。更作
+<lb ed="X" n="0542a10"/><lb ed="R063" n="0729a13"/>新者。若復無故者。自作。若他作與。若得<anchor xml:id="beg_145" type="cb-app"/>已<anchor xml:id="end_145"/>成者。無
+<lb ed="X" n="0542a11"/><lb ed="R063" n="0729a14"/>犯。不犯者最初未制戒等。</p>
+<lb ed="X" n="0542a12"/><lb ed="R063" n="0729a15"/><p xml:id="pX40p0542a1201" rend="margin-left:1em">○第十五坐具不貼故者戒</p>
+<lb ed="X" n="0542a13"/><lb ed="R063" n="0729a16"/><p xml:id="pX40p0542a1301" rend="margin-left:2em">總釋。</p>
+<lb ed="X" n="0542a14"/><lb ed="R063" n="0729a17"/><p xml:id="pX40p0542a1401" rend="margin-left:1em">此是不共戒。尼犯不同。大乘同學。</p><p xml:id="pX40p0542a1414" rend="margin-left:1em;inline">律攝云。為欲
+<lb ed="X" n="0542a15"/><lb ed="R063" n="0729a18"/>遮其輕賤心故。制斯學處。</p>
+<lb ed="X" n="0542a16"/><lb ed="R063" n="0729b01"/><p xml:id="pX40p0542a1601" rend="margin-left:2em">緣起處。</p>
+<lb ed="X" n="0542a17"/><lb ed="R063" n="0729b02"/><p xml:id="pX40p0542a1701" rend="margin-left:1em">佛在給孤獨園。遣人請食。諸佛常法。諸比丘受請
+<lb ed="X" n="0542a18"/><lb ed="R063" n="0729b03"/>後。徧行諸房<note place="inline">僧祗云。世尊以五事利益故。五日一按行僧房。一者聲聞弟子不著有為
+<lb ed="X" n="0542a19"/><lb ed="R063" n="0729b04"/>事不。二者不著世俗言論不。三者不著睡眠妨行道不。四者觀病比丘不。五者為年少新出家比丘。見如
+<lb ed="X" n="0542a20"/><lb ed="R063" n="0729b05"/>來威儀庠序。起歡喜心</note>。見故坐具處處狼藉。無人收攝。聽諸
+<lb ed="X" n="0542a21"/><lb ed="R063" n="0729b06"/>比丘作新坐具。取故者縱廣一磔手。貼著新者上。
+<lb ed="X" n="0542a22"/><lb ed="R063" n="0729b07"/>壞色故。</p>
+<lb ed="X" n="0542a23"/><lb ed="R063" n="0729b08"/><p xml:id="pX40p0542a2301" rend="margin-left:2em">起緣人。</p>
+<lb ed="X" n="0542a24"/><lb ed="R063" n="0729b09"/><p xml:id="pX40p0542a2401" rend="margin-left:1em">六羣不遵佛誨。諸比丘白佛。訶責結戒。</p>
+<pb ed="X" xml:id="X40.0720.0542b" n="0542b"/>
+<lb ed="X" n="0542b01"/><lb ed="R063" n="0729b10"/><p xml:id="pX40p0542b0101" rend="margin-left:2em">所立戒相。</p></cb:div>
+<lb ed="X" n="0542b02"/><lb ed="R063" n="0729b11"/><cb:div type="orig"><p xml:id="pX40p0542b0201">若比丘作新坐具。當取故者縱廣一磔手。貼著新者
+<lb ed="X" n="0542b03"/><lb ed="R063" n="0729b12"/>上。壞色故。若作新坐具。不取故者縱廣一磔手。貼著
+<lb ed="X" n="0542b04"/><lb ed="R063" n="0729b13"/>新者上。用壞色故。尼薩耆波逸提。</p></cb:div>
+<lb ed="X" n="0542b05"/><lb ed="R063" n="0729b14"/><cb:div type="commentary"><p xml:id="pX40p0542b0501" rend="margin-left:1em">釋義　作新坐具時。若故坐具未壞。未有穿孔。當
+<lb ed="X" n="0542b06"/><lb ed="R063" n="0729b15"/>取浣染治。牽挽令舒。裁割取縱廣一磔手。貼新者
+<lb ed="X" n="0542b07"/><lb ed="R063" n="0729b16"/>上。若貼邊。若中央壞色<note place="inline">縱者豎也。廣者橫也。謂橫豎一磔手　善見云。若不
+<lb ed="X" n="0542b08"/><lb ed="R063" n="0729b17"/>能貼細擗雜新者作亦得　五分云。佛一磔手方二尺。壞色者。隨意覆新者上。文言二尺者。即今時一尺
+<lb ed="X" n="0542b09"/><lb ed="R063" n="0729b18"/>六寸也</note>。若作新坐具。不取故者下<note place="inline">違制成犯</note>。</p>
+<lb ed="X" n="0542b10"/><lb ed="R063" n="0730a01"/><p xml:id="pX40p0542b1001" rend="margin-left:1em">犯緣　此戒具足三緣。方成本罪。一貪好自為。二
+<lb ed="X" n="0542b11"/><lb ed="R063" n="0730a02"/>有故不貼。三作新<anchor xml:id="beg_146" type="cb-app"/>已<anchor xml:id="end_146"/>成。</p>
+<lb ed="X" n="0542b12"/><lb ed="R063" n="0730a03"/><p xml:id="pX40p0542b1201" rend="margin-left:1em">定罪　此中犯者。不取故者。貼新者上。捨墮。</p><p xml:id="pX40p0542b1217" rend="margin-left:1em;inline">不
+<lb ed="X" n="0542b13"/><lb ed="R063" n="0730a04"/>成。突吉羅。</p><p xml:id="pX40p0542b1305" rend="margin-left:1em;inline">若令他作成。捨墮。</p><p xml:id="pX40p0542b1312" rend="margin-left:1em;inline">不成。突吉羅。</p>
+<lb ed="X" n="0542b14"/><lb ed="R063" n="0730a05"/><p xml:id="pX40p0542b1401" rend="margin-left:1em">若為他作。成與不成。突吉羅。</p><p xml:id="pX40p0542b1412" rend="margin-left:1em;inline">捨懺不還等。得罪
+<lb ed="X" n="0542b15"/><lb ed="R063" n="0730a06"/>如上。</p><p xml:id="pX40p0542b1503" rend="margin-left:1em;inline">十誦云。若減取作。乃至半寸。突吉羅。</p><p xml:id="pX40p0542b1517" rend="margin-left:1em;inline">摩
+<lb ed="X" n="0542b16"/><lb ed="R063" n="0730a07"/>得勒伽云。若離宿不須捨。<anchor xml:id="beg_147" type="cb-app"/>但<anchor xml:id="end_147"/>作突吉羅悔過。</p><p xml:id="pX40p0542b1618" rend="margin-left:1em;inline">比
+<lb ed="X" n="0542b17"/><lb ed="R063" n="0730a08"/>丘尼及三小眾突吉羅。是謂為犯。</p>
+<lb ed="X" n="0542b18"/><lb ed="R063" n="0730a09"/><p xml:id="pX40p0542b1801" rend="margin-left:1em">開緣　不犯者。截取故者。貼新者上。壞色故。彼自
+<lb ed="X" n="0542b19"/><lb ed="R063" n="0730a10"/>無得更作新者。若他為作。若得<anchor xml:id="beg_148" type="cb-app"/>已<anchor xml:id="end_148"/>成者。若純故者
+<lb ed="X" n="0542b20"/><lb ed="R063" n="0730a11"/>作。不犯。不犯者最初未制戒等。</p>
+<lb ed="X" n="0542b21"/><lb ed="R063" n="0730a12"/><p xml:id="pX40p0542b2101" rend="margin-left:1em">○第十六持羊毛過三由旬戒</p>
+<lb ed="X" n="0542b22"/><lb ed="R063" n="0730a13"/><p xml:id="pX40p0542b2201" rend="margin-left:2em">總釋。</p>
+<lb ed="X" n="0542b23"/><lb ed="R063" n="0730a14"/><p xml:id="pX40p0542b2301" rend="margin-left:1em">此是不共戒。尼犯不同。大乘同學。應息世譏嫌。長
+<lb ed="X" n="0542b24"/><lb ed="R063" n="0730a15"/>他淨信。</p><p xml:id="pX40p0542b2404" rend="margin-left:1em;inline">律攝云。因譏嫌故。制斯學處。</p>
+<pb ed="X" xml:id="X40.0720.0542c" n="0542c"/>
+<lb ed="X" n="0542c01"/><lb ed="R063" n="0730a16"/><p xml:id="pX40p0542c0101" rend="margin-left:2em">緣起處。</p>
+<lb ed="X" n="0542c02"/><lb ed="R063" n="0730a17"/><p xml:id="pX40p0542c0201" rend="margin-left:1em">佛在給孤獨園。</p>
+<lb ed="X" n="0542c03"/><lb ed="R063" n="0730a18"/><p xml:id="pX40p0542c0301" rend="margin-left:2em">起緣人。</p>
+<lb ed="X" n="0542c04"/><lb ed="R063" n="0730b01"/><p xml:id="pX40p0542c0401" rend="margin-left:1em"><g ref="#CB02494">䟦</g>難陀得羊毛。貫杖頭。擔在道行。居士譏嫌。沙門
+<lb ed="X" n="0542c05"/><lb ed="R063" n="0730b02"/>釋子云何販賣羊毛。諸比丘聞白佛。訶責結戒。</p>
+<lb ed="X" n="0542c06"/><lb ed="R063" n="0730b03"/><p xml:id="pX40p0542c0601" rend="margin-left:2em">所立戒相。</p></cb:div>
+<lb ed="X" n="0542c07"/><lb ed="R063" n="0730b04"/><cb:div type="orig"><p xml:id="pX40p0542c0701">若比丘道路行。得羊毛。若無人持。得自持乃至三由
+<lb ed="X" n="0542c08"/><lb ed="R063" n="0730b05"/>旬。若無人持。自持過三由旬。尼薩耆波逸提。</p></cb:div>
+<lb ed="X" n="0542c09"/><lb ed="R063" n="0730b06"/><cb:div type="commentary"><p xml:id="pX40p0542c0901" rend="margin-left:1em">釋義　若比丘在道行。若在住處得羊毛。須者應
+<lb ed="X" n="0542c10"/><lb ed="R063" n="0730b07"/>取。若無人持<note place="inline">謂無淨人及優婆塞等</note>。自持至三由旬<note place="inline">僧祗云。三由延
+<lb ed="X" n="0542c11"/><lb ed="R063" n="0730b08"/>者五肘弓。二千弓名一拘盧舍。四千弓半由延。八千弓一由延。十六千弓二由延。二十四千弓為三由延。
+<lb ed="X" n="0542c12"/><lb ed="R063" n="0730b09"/>自擔齊三由旬</note>。若有人持。應語彼人言。我今有此物。當助
+<lb ed="X" n="0542c13"/><lb ed="R063" n="0730b10"/>我持。乃至彼處。比丘於此中間。不得助持。</p><p xml:id="pX40p0542c1317" rend="margin-left:1em;inline">若無
+<lb ed="X" n="0542c14"/><lb ed="R063" n="0730b11"/>人持下<note place="inline">違制成犯</note>。</p>
+<lb ed="X" n="0542c15"/><lb ed="R063" n="0730b12"/><p xml:id="pX40p0542c1501" rend="margin-left:1em">犯緣　此戒具足三緣。方成本罪。一貪心多擔。二
+<lb ed="X" n="0542c16"/><lb ed="R063" n="0730b13"/>所擔羊毛。三持過限齊。</p>
+<lb ed="X" n="0542c17"/><lb ed="R063" n="0730b14"/><p xml:id="pX40p0542c1701" rend="margin-left:1em">定罪　此中犯者。持過三由旬。捨墮。</p><p xml:id="pX40p0542c1714" rend="margin-left:1em;inline">若有人持。
+<lb ed="X" n="0542c18"/><lb ed="R063" n="0730b15"/>助持過三由旬。突吉羅。</p><p xml:id="pX40p0542c1810" rend="margin-left:1em;inline">若令餘四眾持過三由
+<lb ed="X" n="0542c19"/><lb ed="R063" n="0730b16"/>旬。突吉羅。</p><p xml:id="pX40p0542c1905" rend="margin-left:1em;inline">除羊毛。若持餘拘遮羅。若乳葉草等。
+<lb ed="X" n="0542c20"/><lb ed="R063" n="0730b17"/>過三由旬。突吉羅。</p><p xml:id="pX40p0542c2008" rend="margin-left:1em;inline">若復擔餘物。著杖頭行者。亦
+<lb ed="X" n="0542c21"/><lb ed="R063" n="0730b18"/>突吉羅。</p><p xml:id="pX40p0542c2104" rend="margin-left:1em;inline">捨懺不還等。得罪同前。</p><p xml:id="pX40p0542c2113" rend="margin-left:1em;inline">善見云。至三
+<lb ed="X" n="0542c22"/><lb ed="R063" n="0731a01"/>由旬<anchor xml:id="beg_149" type="cb-app"/>已<anchor xml:id="end_149"/>放地。若以杖撥。或以脚轉。過三由旬。皆捨
+<lb ed="X" n="0542c23"/><lb ed="R063" n="0731a02"/>墮。</p><p xml:id="pX40p0542c2302" rend="margin-left:1em;inline">至二三由旬。若虎狼賊難。擔出三由旬。悉捨
+<lb ed="X" n="0542c24"/><lb ed="R063" n="0731a03"/>墮。</p><p xml:id="pX40p0542c2402" rend="margin-left:1em;inline">若三由旬內為賊劫奪。劫奪<anchor xml:id="beg_14a" type="cb-app"/>已<anchor xml:id="end_14a"/>。復還比丘。比
+<pb ed="X" xml:id="X40.0720.0543a" n="0543a"/>
+<lb ed="X" n="0543a01"/><lb ed="R063" n="0731a04"/>丘復得擔三由旬。不犯。</p><p xml:id="pX40p0543a0110" rend="margin-left:1em;inline">五分云。應使淨人擔。若
+<lb ed="X" n="0543a02"/><lb ed="R063" n="0731a05"/>無淨人。乃聽自持。不得擔擔頭戴背負。犯者突吉
+<lb ed="X" n="0543a03"/><lb ed="R063" n="0731a06"/>羅。</p><p xml:id="pX40p0543a0302" rend="margin-left:1em;inline">摩得勒伽云。比丘空中持羊毛去。與化人持
+<lb ed="X" n="0543a04"/><lb ed="R063" n="0731a07"/>去。皆突吉羅。</p><p xml:id="pX40p0543a0406" rend="margin-left:1em;inline">比丘尼及三小眾突吉羅。是謂為
+<lb ed="X" n="0543a05"/><lb ed="R063" n="0731a08"/>犯。</p>
+<lb ed="X" n="0543a06"/><lb ed="R063" n="0731a09"/><p xml:id="pX40p0543a0601" rend="margin-left:1em">開緣　不犯者。若持至三由旬。若減三由旬。若有
+<lb ed="X" n="0543a07"/><lb ed="R063" n="0731a10"/>人與持者。語使持。乃至某處。中間更不助擔。若使
+<lb ed="X" n="0543a08"/><lb ed="R063" n="0731a11"/>尼等四眾擔三由旬。若毳裝<note place="inline">獸毛褥也</note>毳繩。若擔頭毛
+<lb ed="X" n="0543a09"/><lb ed="R063" n="0731a12"/>項毛脚毛。若作帽。若作鑷熱巾。若褁革屣物。盡無
+<lb ed="X" n="0543a10"/><lb ed="R063" n="0731a13"/>犯。不犯者最初未制戒等。</p>
+<lb ed="X" n="0543a11"/><lb ed="R063" n="0731a14"/><p xml:id="pX40p0543a1101" rend="margin-left:1em">○第十七使尼染羊毛戒</p>
+<lb ed="X" n="0543a12"/><lb ed="R063" n="0731a15"/><p xml:id="pX40p0543a1201" rend="margin-left:2em">總釋。</p>
+<lb ed="X" n="0543a13"/><lb ed="R063" n="0731a16"/><p xml:id="pX40p0543a1301" rend="margin-left:1em">此是不共戒。尼制不同。大乘同學。法運像末。宜當
+<lb ed="X" n="0543a14"/><lb ed="R063" n="0731a17"/>護世譏嫌。迹絕尼寺之塵。</p><p xml:id="pX40p0543a1411" rend="margin-left:1em;inline">律攝云。因廢正修。制
+<lb ed="X" n="0543a15"/><lb ed="R063" n="0731a18"/>斯學處。此戒二緣合結。</p>
+<lb ed="X" n="0543a16"/><lb ed="R063" n="0731b01"/><p xml:id="pX40p0543a1601" rend="margin-left:2em">緣起處。</p>
+<lb ed="X" n="0543a17"/><lb ed="R063" n="0731b02"/><p xml:id="pX40p0543a1701" rend="margin-left:1em">佛在釋翅搜迦維羅衛尼拘律園<note place="inline">釋翅搜者釋種也。此云能仁住
+<lb ed="X" n="0543a18"/><lb ed="R063" n="0731b03"/>處。迦維羅衛譌也。應云迦毗羅皤窣都。迦毗羅此云黃色。皤窣都此云所依處。上古有仙。名曰黃頭。依此
+<lb ed="X" n="0543a19"/><lb ed="R063" n="0731b04"/>修道。西域記云。劫比羅伐窣堵。劫比羅亦仙人之名也。因劫比羅仙洒水為界。以立城。故曰劫比羅伐。伐
+<lb ed="X" n="0543a20"/><lb ed="R063" n="0731b05"/>者梵音。此云城也。或云迦毗羅衛。或名迦夷。此云赤澤。竺法蘭對漢明帝云。迦毗羅衛者。大千之中也。此
+<lb ed="X" n="0543a21"/><lb ed="R063" n="0731b06"/>土夏至之日。猶有餘陰。天竺則無。故云大千之中也。尼拘律。西域尼拘律陀樹。即東夏楊柳。名雖不同。樹
+<lb ed="X" n="0543a22"/><lb ed="R063" n="0731b07"/>體是一。西僧指楊柳。始體言意。其後東僧往彼。識尼拘律。是東夏之楊柳。兩土方言一時洞曉了焉。此園
+<lb ed="X" n="0543a23"/><lb ed="R063" n="0731b08"/>在赤澤城南三四里。如來成道還國。遣信語父王。如來不住王宮。即於此園造大精舍。一十六所。其諸小
+<lb ed="X" n="0543a24"/><lb ed="R063" n="0731b09"/>者。總六十四。諸院之中皆有重閣。如祗陀林。等無有異。佛於中住。度八王子及五百釋迦種。以樹彰名。故曰
+<pb ed="X" xml:id="X40.0720.0543b" n="0543b"/>
+<lb ed="X" n="0543b01"/><lb ed="R063" n="0731b10"/>尼拘律園</note>。</p>
+<lb ed="X" n="0543b02"/><lb ed="R063" n="0731b11"/><p xml:id="pX40p0543b0201" rend="margin-left:2em">起緣人。</p>
+<lb ed="X" n="0543b03"/><lb ed="R063" n="0731b12"/><p xml:id="pX40p0543b0301" rend="margin-left:1em">六群取羊毛。作新坐具。使摩訶波闍波提比丘尼
+<lb ed="X" n="0543b04"/><lb ed="R063" n="0731b13"/>染。染色污手<note place="inline">或云瞿曇彌。是姓也。或云憍曇彌。或云瞿夷。皆女聲呼也。若男聲呼。云瞿
+<lb ed="X" n="0543b05"/><lb ed="R063" n="0731b14"/>答摩。此云地最勝</note>。往禮世尊。佛問知其故。訶責六羣結戒。
+<lb ed="X" n="0543b06"/><lb ed="R063" n="0731b15"/>不得使比丘尼浣染擘羊毛。諸比丘疑不敢使親
+<lb ed="X" n="0543b07"/><lb ed="R063" n="0731b16"/>里尼浣染擘。佛言。聽親里者得浣染擘。當如是說
+<lb ed="X" n="0543b08"/><lb ed="R063" n="0731b17"/>戒。</p>
+<lb ed="X" n="0543b09"/><lb ed="R063" n="0731b18"/><p xml:id="pX40p0543b0901" rend="margin-left:2em">所立戒相。</p></cb:div>
+<lb ed="X" n="0543b10"/><lb ed="R063" n="0732a01"/><cb:div type="orig"><p xml:id="pX40p0543b1001">若比丘使非親里比丘尼浣染擘羊毛者。尼薩耆波
+<lb ed="X" n="0543b11"/><lb ed="R063" n="0732a02"/>逸提。</p></cb:div>
+<lb ed="X" n="0543b12"/><lb ed="R063" n="0732a03"/><cb:div type="commentary"><p xml:id="pX40p0543b1201" rend="margin-left:1em">釋義　浣染擘羊毛<note place="inline">浣者。下至以水一漬。染者。下至一人染汁。擘者。下至擘一
+<lb ed="X" n="0543b13"/><lb ed="R063" n="0732a04"/>片</note>。</p>
+<lb ed="X" n="0543b14"/><lb ed="R063" n="0732a05"/><p xml:id="pX40p0543b1401" rend="margin-left:1em">犯緣　此戒具足三緣。方成本罪。一貪心自為。二
+<lb ed="X" n="0543b15"/><lb ed="R063" n="0732a06"/>尼非親里。三如教而作。</p>
+<lb ed="X" n="0543b16"/><lb ed="R063" n="0732a07"/><p xml:id="pX40p0543b1601" rend="margin-left:1em">定罪　此中犯者。使非親里比丘尼浣染擘羊毛
+<lb ed="X" n="0543b17"/><lb ed="R063" n="0732a08"/>者。三捨墮。</p><p xml:id="pX40p0543b1705" rend="margin-left:1em;inline">若使浣染擘。彼浣染而不擘。或浣不
+<lb ed="X" n="0543b18"/><lb ed="R063" n="0732a09"/>染而擘。或不浣而染擘。皆二捨墮。一突吉羅。</p><p xml:id="pX40p0543b1818" rend="margin-left:1em;inline">使
+<lb ed="X" n="0543b19"/><lb ed="R063" n="0732a10"/>浣染擘。彼不浣染擘。三突吉羅。</p><p xml:id="pX40p0543b1913" rend="margin-left:1em;inline">使非親里式叉
+<lb ed="X" n="0543b20"/><lb ed="R063" n="0732a11"/>摩那沙彌尼浣染擘者。突吉羅。</p><p xml:id="pX40p0543b2013" rend="margin-left:1em;inline">捨懺不還等。得
+<lb ed="X" n="0543b21"/><lb ed="R063" n="0732a12"/>罪同前。</p><p xml:id="pX40p0543b2104" rend="margin-left:1em;inline">薩婆多云。使浣染僧物。突吉羅。</p><p xml:id="pX40p0543b2116" rend="margin-left:1em;inline">比丘
+<lb ed="X" n="0543b22"/><lb ed="R063" n="0732a13"/>尼及三小眾突吉羅。是謂為犯。</p>
+<lb ed="X" n="0543b23"/><lb ed="R063" n="0732a14"/><p xml:id="pX40p0543b2301" rend="margin-left:1em">開緣　不犯者。使親里尼浣染擘。若為病人浣染
+<lb ed="X" n="0543b24"/><lb ed="R063" n="0732a15"/>擘。若為眾僧為佛為塔浣染擘。無犯。不犯者最初
+<pb ed="X" xml:id="X40.0720.0543c" n="0543c"/>
+<lb ed="X" n="0543c01"/><lb ed="R063" n="0732a16"/>未制戒等<note place="inline">問使尼浣染僧物。論中結罪。四分無犯。二義何從。答若假托浣染僧物。往反當
+<lb ed="X" n="0543c02"/><lb ed="R063" n="0732a17"/>依論結罪。若心實為僧。應准四分開聽</note>。</p>
+<lb ed="X" n="0543c03"/><lb ed="R063" n="0732a18"/><p xml:id="pX40p0543c0301" rend="margin-left:1em">會詳　薩婆多云。結戒者為增上法故。若諸比丘
+<lb ed="X" n="0543c04"/><lb ed="R063" n="0732b01"/>尼眾執作浣染。廢息正業。則無威德。破增上法故。
+<lb ed="X" n="0543c05"/><lb ed="R063" n="0732b02"/>又為止惡法。次第因緣故。又為二部眾。各有清淨
+<lb ed="X" n="0543c06"/><lb ed="R063" n="0732b03"/>故。結此戒也。</p>
+<lb ed="X" n="0543c07"/><lb ed="R063" n="0732b04"/><p xml:id="pX40p0543c0701" rend="margin-left:1em">○第十八受金銀戒</p>
+<lb ed="X" n="0543c08"/><lb ed="R063" n="0732b05"/><p xml:id="pX40p0543c0801" rend="margin-left:2em">總釋。</p>
+<lb ed="X" n="0543c09"/><lb ed="R063" n="0732b06"/><p xml:id="pX40p0543c0901" rend="margin-left:1em">此是共戒。尼制亦同。大乘不同制。為眾生故聽受。
+<lb ed="X" n="0543c10"/><lb ed="R063" n="0732b07"/>然須淨人掌舉。設無淨人者。心不染著。亦得自捉。
+<lb ed="X" n="0543c11"/><lb ed="R063" n="0732b08"/>若貪心自畜。即是多欲。不知足。是名染污犯。此是
+<lb ed="X" n="0543c12"/><lb ed="R063" n="0732b09"/>制罪。</p><p xml:id="pX40p0543c1203" rend="margin-left:1em;inline">律攝云。因起譏嫌。制斯學處。</p>
+<lb ed="X" n="0543c13"/><lb ed="R063" n="0732b10"/><p xml:id="pX40p0543c1301" rend="margin-left:2em">緣起處。</p>
+<lb ed="X" n="0543c14"/><lb ed="R063" n="0732b11"/><p xml:id="pX40p0543c1401" rend="margin-left:1em">佛在耆闍崛山。城中有一大臣。與<g ref="#CB02494">䟦</g>難陀親舊知
+<lb ed="X" n="0543c15"/><lb ed="R063" n="0732b12"/>識。彼大得猪肉。即勅其婦。留分與之。時城中節會
+<lb ed="X" n="0543c16"/><lb ed="R063" n="0732b13"/>日。作眾伎樂。竟夜不眠。大臣兒亦在其中。竟夜不
+<lb ed="X" n="0543c17"/><lb ed="R063" n="0732b14"/>眠。譏乏。問母有殘肉不。母言。唯有<g ref="#CB02494">䟦</g>難陀分在。兒
+<lb ed="X" n="0543c18"/><lb ed="R063" n="0732b15"/>與母錢。持此錢更市肉。與<g ref="#CB02494">䟦</g>難陀。此肉與我。母即
+<lb ed="X" n="0543c19"/><lb ed="R063" n="0732b16"/>取錢與肉。</p>
+<lb ed="X" n="0543c20"/><lb ed="R063" n="0732b17"/><p xml:id="pX40p0543c2001" rend="margin-left:2em">起緣人。</p>
+<lb ed="X" n="0543c21"/><lb ed="R063" n="0732b18"/><p xml:id="pX40p0543c2101" rend="margin-left:1em"><g ref="#CB02494">䟦</g>難陀晨朝詣大臣家。大臣婦具告上事。<g ref="#CB02494">䟦</g>難陀
+<lb ed="X" n="0543c22"/><lb ed="R063" n="0733a01"/>言。若為我故與錢。我不須肉。即置地與。跋難陀得
+<lb ed="X" n="0543c23"/><lb ed="R063" n="0733a02"/>錢。持寄市去。諸居士譏嫌。時王及諸大臣集會。共
+<lb ed="X" n="0543c24"/><lb ed="R063" n="0733a03"/>作是言。沙門釋子得捉金銀錢。沙門釋子不捨金
+<pb ed="X" xml:id="X40.0720.0544a" n="0544a"/>
+<lb ed="X" n="0544a01"/><lb ed="R063" n="0733a04"/>銀錢珍寶珠瓔。有一大臣。名曰珠髻。即語諸大臣
+<lb ed="X" n="0544a02"/><lb ed="R063" n="0733a05"/>言。莫作是言。沙門釋子得捉金銀錢。不捨珍寶珠
+<lb ed="X" n="0544a03"/><lb ed="R063" n="0733a06"/>瓔。何以故。我自從如來聞。沙門釋子。不得捉金銀
+<lb ed="X" n="0544a04"/><lb ed="R063" n="0733a07"/>錢。捨離珍寶珠瓔。珠髻大臣有威勢。能善說。令諸
+<lb ed="X" n="0544a05"/><lb ed="R063" n="0733a08"/>大臣歡喜信解。往白世尊。世尊讚其所說。多有所
+<lb ed="X" n="0544a06"/><lb ed="R063" n="0733a09"/>益。大臣當知。日月有四患。不明。不淨。不能有所照。
+<lb ed="X" n="0544a07"/><lb ed="R063" n="0733a10"/>亦無威神。云何為四。阿修羅烟雲塵霧。是日月大
+<lb ed="X" n="0544a08"/><lb ed="R063" n="0733a11"/>患<note place="inline">阿修羅與天鬪時。天用日月。以為旗幟。由日月威。天常勝彼。阿修羅心常忿日月。欲摧滅之。由諸有
+<lb ed="X" n="0544a09"/><lb ed="R063" n="0733a12"/>情業增上力。盡其智術。不能摧壞。遂以手障。令暫隱沒</note>。沙門婆羅門亦有四
+<lb ed="X" n="0544a10"/><lb ed="R063" n="0733a13"/>患。不明。不淨。不能有所照。亦無威神。云何為四。不
+<lb ed="X" n="0544a11"/><lb ed="R063" n="0733a14"/>捨飲酒。不捨婬欲。不捨手持金銀。不捨邪命自活。
+<lb ed="X" n="0544a12"/><lb ed="R063" n="0733a15"/>是為四大患。少欲比丘白佛。呵責結戒。</p>
+<lb ed="X" n="0544a13"/><lb ed="R063" n="0733a16"/><p xml:id="pX40p0544a1301" rend="margin-left:2em">所立戒相。</p></cb:div>
+<lb ed="X" n="0544a14"/><lb ed="R063" n="0733a17"/><cb:div type="orig"><p xml:id="pX40p0544a1401">若比丘自手捉錢。若金銀。若教人捉。若置地受者。尼
+<lb ed="X" n="0544a15"/><lb ed="R063" n="0733a18"/>薩耆波逸提。</p></cb:div>
+<lb ed="X" n="0544a16"/><lb ed="R063" n="0733b01"/><cb:div type="commentary"><p xml:id="pX40p0544a1601" rend="margin-left:1em">釋義　自手捉錢<note place="inline">僧祇云。自手者。若身。若身分。若身相續。身者一切身。身分者。若
+<lb ed="X" n="0544a17"/><lb ed="R063" n="0733b02"/>手若脚若肘若膝。身相續者。若僧伽黎。<g ref="#CB15106">󳬂</g>多羅僧。安陀會。覆瘡衣。僧伽支。雨浴衣。若鉢下鉢鍵鎡中。此名
+<lb ed="X" n="0544a18"/><lb ed="R063" n="0733b03"/>身相續。咸名自手</note>。錢者。上有文像<note place="inline">外圓像天。內方像地。國號居中。以天地人三才。
+<lb ed="X" n="0544a19"/><lb ed="R063" n="0733b04"/>合為像。故云上有文像。隨國土所用者是</note>。若金銀<note place="inline">翻譯集云。梵語蘇伐羅。或云修跋拏。此云
+<lb ed="X" n="0544a20"/><lb ed="R063" n="0733b05"/>金。大論云。出山石沙赤銅中。許慎云。金有五色。黃金為長。久埋不變。百陶不輕。謂之曰金也。梵語阿路巴。
+<lb ed="X" n="0544a21"/><lb ed="R063" n="0733b06"/>或云惹多。此云銀。大論云。銀出燒石中。爾雅云。白金謂之銀。其美者謂之鐐</note>若教人捉。
+<lb ed="X" n="0544a22"/><lb ed="R063" n="0733b07"/>若置地受者<note place="inline">謂不從手受。如前因緣中以錢置地與也</note>。薩婆多云。此戒
+<lb ed="X" n="0544a23"/><lb ed="R063" n="0733b08"/>體。正以畜寶制戒。不為捉故。若捉他寶。若捉自說
+<lb ed="X" n="0544a24"/><lb ed="R063" n="0733b09"/>淨寶。但捉故得波逸提。非此戒體。是九十事捉寶
+<pb ed="X" xml:id="X40.0720.0544b" n="0544b"/>
+<lb ed="X" n="0544b01"/><lb ed="R063" n="0733b10"/>戒。非此戒攝也。</p>
+<lb ed="X" n="0544b02"/><lb ed="R063" n="0733b11"/><p xml:id="pX40p0544b0201" rend="margin-left:1em">犯緣　此戒具足三緣。方成本罪。一貪心自畜。二
+<lb ed="X" n="0544b03"/><lb ed="R063" n="0733b12"/>無難輒開。三捉國所用錢寶。</p>
+<lb ed="X" n="0544b04"/><lb ed="R063" n="0733b13"/><p xml:id="pX40p0544b0401" rend="margin-left:1em">定罪　此中犯者。自手捉金銀若錢。教人捉。若置
+<lb ed="X" n="0544b05"/><lb ed="R063" n="0733b14"/>地受。捨墮。</p><p xml:id="pX40p0544b0505" rend="margin-left:1em;inline">此應捨。是中捨者。若彼有信樂守園
+<lb ed="X" n="0544b06"/><lb ed="R063" n="0733b15"/>人。若優婆塞。當語言。此是我所不應。汝當知之<note place="inline">此是
+<lb ed="X" n="0544b07"/><lb ed="R063" n="0733b16"/>對俗捨寶法墮罪。向一清淨比丘悔</note>。若彼人取還與比丘者。比丘當
+<lb ed="X" n="0544b08"/><lb ed="R063" n="0733b17"/>為彼人物故受。勅淨人使掌之。若得淨衣鉢針筒
+<lb ed="X" n="0544b09"/><lb ed="R063" n="0733b18"/>尼師壇。應貿易受持之。</p><p xml:id="pX40p0544b0910" rend="margin-left:1em;inline">若彼優婆塞取<anchor xml:id="beg_14b" type="cb-app"/>已<anchor xml:id="end_14b"/>。與比
+<lb ed="X" n="0544b10"/><lb ed="R063" n="0734a01"/>丘淨衣鉢尼師壇若針筒。應取持之。</p><p xml:id="pX40p0544b1015" rend="margin-left:1em;inline">若彼取<anchor xml:id="beg_14c" type="cb-app"/>已<anchor xml:id="end_14c"/>
+<lb ed="X" n="0544b11"/><lb ed="R063" n="0734a02"/>不還者。令餘比丘語言。佛有教。為淨故與汝。應還
+<lb ed="X" n="0544b12"/><lb ed="R063" n="0734a03"/>彼比丘物。</p><p xml:id="pX40p0544b1205" rend="margin-left:1em;inline">若彼取<anchor xml:id="beg_14d" type="cb-app"/>已<anchor xml:id="end_14d"/>不還。餘比丘不語者。當自
+<lb ed="X" n="0544b13"/><lb ed="R063" n="0734a04"/>往語言。佛有教為淨故與汝。汝今可與僧與塔。與
+<lb ed="X" n="0544b14"/><lb ed="R063" n="0734a05"/>和尚同和尚。與阿闍黎同阿闍黎。與諸親舊知識。
+<lb ed="X" n="0544b15"/><lb ed="R063" n="0734a06"/>若還本主。何以故。不欲使失彼信施故。若不語彼
+<lb ed="X" n="0544b16"/><lb ed="R063" n="0734a07"/>人知是看是者。突吉羅<note place="inline">即是淨語</note>。</p><p xml:id="pX40p0544b1614" rend="margin-left:1em;inline">第三分云。有比丘
+<lb ed="X" n="0544b17"/><lb ed="R063" n="0734a08"/>在塚間得錢。自持來。佛言。不應取。彼比丘須銅。佛
+<lb ed="X" n="0544b18"/><lb ed="R063" n="0734a09"/>言。打破壞相。然後得自持去。</p><p xml:id="pX40p0544b1812" rend="margin-left:1em;inline">根本云。若為修營
+<lb ed="X" n="0544b19"/><lb ed="R063" n="0734a10"/>房舍等事。應求草木車乘人工。不應求金銀錢等。
+<lb ed="X" n="0544b20"/><lb ed="R063" n="0734a11"/>若捉方國共所用錢。犯捨墮。</p><p xml:id="pX40p0544b2012" rend="margin-left:1em;inline">若捉非方國所用
+<lb ed="X" n="0544b21"/><lb ed="R063" n="0734a12"/>錢。得惡作罪。</p><p xml:id="pX40p0544b2106" rend="margin-left:1em;inline">若捉赤銅鍮石銅鐵鉛錫者。不犯。</p>
+<lb ed="X" n="0544b22"/><lb ed="R063" n="0734a13"/><p xml:id="pX40p0544b2201" rend="margin-left:1em">律攝云。若安居時。施主持衣價。與苾芻眾。即作
+<lb ed="X" n="0544b23"/><lb ed="R063" n="0734a14"/>委寄此施主心。而受取之。應可信敬淨人居士。為
+<lb ed="X" n="0544b24"/><lb ed="R063" n="0734a15"/>淨施主。作施主物想。執捉無犯。若無施主可得。應
+<pb ed="X" xml:id="X40.0720.0544c" n="0544c"/>
+<lb ed="X" n="0544c01"/><lb ed="R063" n="0734a16"/>持金銀等物。對一苾芻說言。</p><p xml:id="pX40p0544c0112" rend="margin-left:1em;inline">具壽存念。我某甲
+<lb ed="X" n="0544c02"/><lb ed="R063" n="0734a17"/>得此不淨財。當持此不淨財。換取淨財。如是三說。
+<lb ed="X" n="0544c03"/><lb ed="R063" n="0734a18"/>應自持舉。或令餘人舉之<note place="inline">今時末運。此法易行。古今咸採取之。斷宜遵奉
+<lb ed="X" n="0544c04"/><lb ed="R063" n="0734b01"/>矣</note>。若苾芻於行路中得金銀等。為道糧故。應自持
+<lb ed="X" n="0544c05"/><lb ed="R063" n="0734b02"/>去。或令淨人及求寂持去。應知求寂於金銀等。但
+<lb ed="X" n="0544c06"/><lb ed="R063" n="0734b03"/>制自畜。不遮捉持。</p><p xml:id="pX40p0544c0608" rend="margin-left:1em;inline">比丘尼捨墮。三小眾突吉羅。
+<lb ed="X" n="0544c07"/><lb ed="R063" n="0734b04"/>是謂為犯。</p>
+<lb ed="X" n="0544c08"/><lb ed="R063" n="0734b05"/><p xml:id="pX40p0544c0801" rend="margin-left:1em">開緣　不犯者。若語言知是看是<note place="inline">即是淨語</note>。若彼有信
+<lb ed="X" n="0544c09"/><lb ed="R063" n="0734b06"/>樂優婆塞守園人。當語彼人言。此物我所不應。汝
+<lb ed="X" n="0544c10"/><lb ed="R063" n="0734b07"/>當知之。若彼人受<anchor xml:id="beg_14e" type="cb-app"/>已<anchor xml:id="end_14e"/>。還與比丘者。比丘當為彼人
+<lb ed="X" n="0544c11"/><lb ed="R063" n="0734b08"/>物故受。與淨人掌之。後若得淨衣鉢針筒尼師壇。
+<lb ed="X" n="0544c12"/><lb ed="R063" n="0734b09"/>得貿易持之。</p><p xml:id="pX40p0544c1206" rend="margin-left:1em;inline">若彼人取<anchor xml:id="beg_14f" type="cb-app"/>已<anchor xml:id="end_14f"/>。與淨衣鉢若坐具針
+<lb ed="X" n="0544c13"/><lb ed="R063" n="0734b10"/>筒尼師檀。應取持之。</p><p xml:id="pX40p0544c1309" rend="margin-left:1em;inline">若彼人不肯與者。餘比丘
+<lb ed="X" n="0544c14"/><lb ed="R063" n="0734b11"/>當語其人言。佛有教為淨故與汝。應還彼比丘物。
+<lb ed="X" n="0544c15"/><lb ed="R063" n="0734b12"/>若彼人不與。自往語言。佛教比丘。作淨故與汝。當
+<lb ed="X" n="0544c16"/><lb ed="R063" n="0734b13"/>與塔與僧。與和尚同和尚。與阿闍黎同阿闍黎。與
+<lb ed="X" n="0544c17"/><lb ed="R063" n="0734b14"/>諸親屬知識。若教使與本施主。不欲令失彼信施
+<lb ed="X" n="0544c18"/><lb ed="R063" n="0734b15"/>故。如是一切不犯。不犯者最初未制戒等。</p>
+<lb ed="X" n="0544c19"/><lb ed="R063" n="0734b16"/><p xml:id="pX40p0544c1901" rend="margin-left:1em">會詳　警訓引鈔云。一田宅園林。二種植生種。三
+<lb ed="X" n="0544c20"/><lb ed="R063" n="0734b17"/>貯積穀帛。四畜養人僕。五養繫禽獸。六錢寶貴物。
+<lb ed="X" n="0544c21"/><lb ed="R063" n="0734b18"/>七氈褥釜鑊。八象金餝床及諸重物。此之八名。經
+<lb ed="X" n="0544c22"/><lb ed="R063" n="0735a01"/>論及律。盛列通數。顯過不應。又律經言。若有畜者。
+<lb ed="X" n="0544c23"/><lb ed="R063" n="0735a02"/>非我弟子。五分亦云。必定不信我之法律。由此八
+<lb ed="X" n="0544c24"/><lb ed="R063" n="0735a03"/>種。皆長貪壞道。污染梵行。有得穢果。故名不淨也。
+<pb ed="X" xml:id="X40.0720.0545a" n="0545a"/>
+<lb ed="X" n="0545a01"/><lb ed="R063" n="0735a04"/>乃至云。律中在事。小機意狹。故多開畜。</p><p xml:id="pX40p0545a0116" rend="margin-left:1em;inline">涅槃經
+<lb ed="X" n="0545a02"/><lb ed="R063" n="0735a05"/>云。若諸弟子無人供須。時世饑饉。飲食難得。為欲
+<lb ed="X" n="0545a03"/><lb ed="R063" n="0735a06"/>護持建立正法。我聽弟子受畜金銀車乘田宅穀
+<lb ed="X" n="0545a04"/><lb ed="R063" n="0735a07"/>米。貿易所須。雖聽受畜如是等物。要須淨施篤信
+<lb ed="X" n="0545a05"/><lb ed="R063" n="0735a08"/>檀越。</p><p xml:id="pX40p0545a0503" rend="margin-left:1em;inline">會正記云。上明大乘機教俱急。下明小乘
+<lb ed="X" n="0545a06"/><lb ed="R063" n="0735a09"/>機教俱緩。律在事者違事故輕。則顯經宗於理違
+<lb ed="X" n="0545a07"/><lb ed="R063" n="0735a10"/>理故重。小機意狹。不堪故開。反上大乘堪任故重。
+<lb ed="X" n="0545a08"/><lb ed="R063" n="0735a11"/>世人反謂小乘須戒。大乘通方。幾許悞哉。</p>
+<lb ed="X" n="0545a09"/><lb ed="R063" n="0735a12"/><p xml:id="pX40p0545a0901" rend="margin-left:1em">○第十九貨寶戒</p>
+<lb ed="X" n="0545a10"/><lb ed="R063" n="0735a13"/><p xml:id="pX40p0545a1001" rend="margin-left:2em">總釋。</p>
+<lb ed="X" n="0545a11"/><lb ed="R063" n="0735a14"/><p xml:id="pX40p0545a1101" rend="margin-left:1em">此是共戒。尼犯亦同。大乘同制。菩薩應息世譏嫌。
+<lb ed="X" n="0545a12"/><lb ed="R063" n="0735a15"/>即是以利求利。多欲不知足。</p><p xml:id="pX40p0545a1212" rend="margin-left:1em;inline">律攝云。因非法貪。
+<lb ed="X" n="0545a13"/><lb ed="R063" n="0735a16"/>制斯學處。</p>
+<lb ed="X" n="0545a14"/><lb ed="R063" n="0735a17"/><p xml:id="pX40p0545a1401" rend="margin-left:2em">緣起處。</p>
+<lb ed="X" n="0545a15"/><lb ed="R063" n="0735a18"/><p xml:id="pX40p0545a1501" rend="margin-left:1em">佛在耆闍崛山。</p>
+<lb ed="X" n="0545a16"/><lb ed="R063" n="0735b01"/><p xml:id="pX40p0545a1601" rend="margin-left:2em">起緣人。</p>
+<lb ed="X" n="0545a17"/><lb ed="R063" n="0735b02"/><p xml:id="pX40p0545a1701" rend="margin-left:1em"><g ref="#CB02494">䟦</g>難陀往市肆上。以錢易錢持去。諸居士譏嫌。沙
+<lb ed="X" n="0545a18"/><lb ed="R063" n="0735b03"/>門釋子善能賣買。諸比丘聞白佛。呵責結戒。</p>
+<lb ed="X" n="0545a19"/><lb ed="R063" n="0735b04"/><p xml:id="pX40p0545a1901" rend="margin-left:2em">所立戒相。</p></cb:div>
+<lb ed="X" n="0545a20"/><lb ed="R063" n="0735b05"/><cb:div type="orig"><p xml:id="pX40p0545a2001">若比丘種種賣買寶物者。尼薩耆波逸提。</p></cb:div>
+<lb ed="X" n="0545a21"/><lb ed="R063" n="0735b06"/><cb:div type="commentary"><p xml:id="pX40p0545a2101" rend="margin-left:1em">釋義　種種賣買者。以成金。未成金。成未成金。成
+<lb ed="X" n="0545a22"/><lb ed="R063" n="0735b07"/>銀。未成銀。成未成銀。及錢互相貿易等<note place="inline"><anchor xml:id="beg_150" type="cb-app"/>已<anchor xml:id="end_150"/>成金者。謂<anchor xml:id="beg_151" type="cb-app"/>已<anchor xml:id="end_151"/>作成
+<lb ed="X" n="0545a23"/><lb ed="R063" n="0735b08"/>瓔珞具。一切器<anchor xml:id="beg_152" type="cb-app"/>皿<anchor xml:id="end_152"/></note>。錢有八種。金錢。銀錢。鐵錢。銅錢。白鑞錢。
+<lb ed="X" n="0545a24"/><lb ed="R063" n="0735b09"/>鉛錫錢。木錢。胡膠錢。</p>
+<pb ed="X" xml:id="X40.0720.0545b" n="0545b"/>
+<lb ed="X" n="0545b01"/><lb ed="R063" n="0735b10"/><p xml:id="pX40p0545b0101" rend="margin-left:1em">犯緣　此戒具足三緣。方成本罪。一自貪息利。二
+<lb ed="X" n="0545b02"/><lb ed="R063" n="0735b11"/>是重寶。三轉易<anchor xml:id="beg_153" type="cb-app"/>已<anchor xml:id="end_153"/>成。</p>
+<lb ed="X" n="0545b03"/><lb ed="R063" n="0735b12"/><p xml:id="pX40p0545b0301" rend="margin-left:1em">定罪　此中犯者。種種賣買寶物。以成金易成金。
+<lb ed="X" n="0545b04"/><lb ed="R063" n="0735b13"/>乃至易錢。捨墮。</p><p xml:id="pX40p0545b0407" rend="margin-left:1em;inline">捨法。同前不異。</p><p xml:id="pX40p0545b0413" rend="margin-left:1em;inline">薩婆多云。此
+<lb ed="X" n="0545b05"/><lb ed="R063" n="0735b14"/>戒體以重寶與人。求息利。當與時。捨墮。</p><p xml:id="pX40p0545b0516" rend="margin-left:1em;inline">此戒直
+<lb ed="X" n="0545b06"/><lb ed="R063" n="0735b15"/>一往成罪。不同販賣戒。販賣戒為利故買<anchor xml:id="beg_154" type="cb-app"/>已<anchor xml:id="end_154"/>還賣。
+<lb ed="X" n="0545b07"/><lb ed="R063" n="0735b16"/>成罪。</p><p xml:id="pX40p0545b0703" rend="margin-left:1em;inline">律攝云。若為三寶出納。或施主作無盡藏。
+<lb ed="X" n="0545b08"/><lb ed="R063" n="0735b17"/>設有馳求。並成非犯。然此等物出利之時。應一倍
+<lb ed="X" n="0545b09"/><lb ed="R063" n="0735b18"/>納質。求好保證。明作契書。年終之日。應告上座及
+<lb ed="X" n="0545b10"/><lb ed="R063" n="0736a01"/>授事人。皆使同知。或復告彼信心鄔波索迦。</p><p xml:id="pX40p0545b1018" rend="margin-left:1em;inline">比
+<lb ed="X" n="0545b11"/><lb ed="R063" n="0736a02"/>丘尼捨墮。三小眾突吉羅。是謂為犯。</p>
+<lb ed="X" n="0545b12"/><lb ed="R063" n="0736a03"/><p xml:id="pX40p0545b1201" rend="margin-left:1em">開緣　不犯者如前。若以錢貿瓔珞具。為佛法僧。
+<lb ed="X" n="0545b13"/><lb ed="R063" n="0736a04"/>若以瓔珞具易錢。為佛法僧。無犯。不犯者最初未
+<lb ed="X" n="0545b14"/><lb ed="R063" n="0736a05"/>制戒等。</p></cb:div>
+<lb ed="X" n="0545b15"/><lb ed="R063" n="0736a06"/>
+<lb ed="X" n="0545b16"/><lb ed="R063" n="0736a07"/><cb:juan fun="close" n="7"><cb:jhead>毗尼關要卷第七</cb:jhead></cb:juan>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_125" cb:to="#end_125"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_126" cb:to="#end_126"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_127" cb:to="#end_127"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_128" cb:to="#end_128"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_129" cb:to="#end_129"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_12a" cb:to="#end_12a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_12b" cb:to="#end_12b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_12c" cb:to="#end_12c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_12d" cb:to="#end_12d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_12e" cb:to="#end_12e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_12f" cb:to="#end_12f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_130" cb:to="#end_130"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_131" cb:to="#end_131"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_132" cb:to="#end_132"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_133" cb:to="#end_133"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_134" cb:to="#end_134"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_135" cb:to="#end_135"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_136" cb:to="#end_136"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_137" cb:to="#end_137"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_138" cb:to="#end_138"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_139" cb:to="#end_139"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13a" cb:to="#end_13a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13b" cb:to="#end_13b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13c" cb:to="#end_13c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13d" cb:to="#end_13d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13e" cb:to="#end_13e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13f" cb:to="#end_13f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_140" cb:to="#end_140"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_141" cb:to="#end_141"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_142" cb:to="#end_142"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_143" cb:to="#end_143"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_144" cb:to="#end_144"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_145" cb:to="#end_145"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_146" cb:to="#end_146"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_147" cb:to="#end_147"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_148" cb:to="#end_148"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_149" cb:to="#end_149"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14a" cb:to="#end_14a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14b" cb:to="#end_14b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14c" cb:to="#end_14c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14d" cb:to="#end_14d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14e" cb:to="#end_14e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14f" cb:to="#end_14f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_150" cb:to="#end_150"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_151" cb:to="#end_151"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_152" cb:to="#end_152"><corr>皿</corr><sic>血</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_153" cb:to="#end_153"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_154" cb:to="#end_154"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+<cb:div type="cbeta-notes">
+<head>CBETA 校勘記</head>
+<p>
+</p>
+</cb:div>
+<cb:div type="xuzang-notes">
+<head>卍續藏 校勘記</head>
+<p>
+</p>
+</cb:div>
+</back></text></TEI>

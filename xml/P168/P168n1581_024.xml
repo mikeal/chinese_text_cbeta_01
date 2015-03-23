@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="P168n1581">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Northern Yongle Edition of the Canon, Electronic version, No. 1581 首楞嚴經義海</title>
+			<author>唐 懷迪證釋　宋 咸輝排經入注</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $<date>$Date: 2012/02/22 03:37:05 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>30卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/02/22 03:37:05 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Northern Yongle Edition of the Canon Vol. 168, No. 1581 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00015">
+	<charName>CBETA CHARACTER CB00015</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(嫡-女)*鳥]</value>
+	</charProp>
+	<mapping type="unicode">U+2A131</mapping>
+	<mapping cb:dec="983055" type="PUA">U+F000F</mapping>
+</char>
+<char xml:id="CB00045">
+	<charName>CBETA CHARACTER CB00045</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*(一/巾)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>咂</value>
+	</charProp>
+	<mapping type="unicode">U+20BD7</mapping>
+	<mapping cb:dec="983085" type="PUA">U+F002D</mapping>
+</char>
+<char xml:id="CB00128">
+	<charName>CBETA CHARACTER CB00128</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[仁-二+戾]</value>
+	</charProp>
+	<mapping type="unicode">U+3466</mapping>
+	<mapping cb:dec="983168" type="PUA">U+F0080</mapping>
+</char>
+<char xml:id="CB00562">
+	<charName>CBETA CHARACTER CB00562</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+(梳-木)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>疏</value>
+	</charProp>
+	<mapping type="unicode">U+47FD</mapping>
+	<mapping cb:dec="983602" type="PUA">U+F0232</mapping>
+</char>
+<char xml:id="CB01008">
+	<charName>CBETA CHARACTER CB01008</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(暇-日)-(己-(乳-孚))+几]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>段</value>
+	</charProp>
+	<mapping cb:dec="984048" type="PUA">U+F03F0</mapping>
+</char>
+<char xml:id="CB01666">
+	<charName>CBETA CHARACTER CB01666</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[木*戈]</value>
+	</charProp>
+	<mapping type="unicode">U+233FE</mapping>
+	<mapping cb:dec="984706" type="PUA">U+F0682</mapping>
+</char>
+<char xml:id="CB01926">
+	<charName>CBETA CHARACTER CB01926</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[厂@火]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>灰</value>
+	</charProp>
+	<mapping type="normal_unicode">U+7070</mapping>
+	<mapping cb:dec="984966" type="PUA">U+F0786</mapping>
+</char>
+<char xml:id="CB02167">
+	<charName>CBETA CHARACTER CB02167</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[損-口+ㄙ]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>損</value>
+	</charProp>
+	<mapping cb:dec="985207" type="PUA">U+F0877</mapping>
+</char>
+<char xml:id="CB02598">
+	<charName>CBETA CHARACTER CB02598</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[夕/火]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>炙</value>
+	</charProp>
+	<mapping cb:dec="985638" type="PUA">U+F0A26</mapping>
+</char>
+<char xml:id="CB02863">
+	<charName>CBETA CHARACTER CB02863</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[利-禾+夾]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>刺</value>
+	</charProp>
+	<mapping type="unicode">U+34E8</mapping>
+	<mapping cb:dec="985903" type="PUA">U+F0B2F</mapping>
+</char>
+<char xml:id="CB06171">
+	<charName>CBETA CHARACTER CB06171</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[逅-口+巾]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>遞</value>
+	</charProp>
+	<mapping cb:dec="989211" type="PUA">U+F181B</mapping>
+</char>
+<char xml:id="CB07398">
+	<charName>CBETA CHARACTER CB07398</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[猒/土]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>壓</value>
+	</charProp>
+	<mapping type="unicode">U+21445</mapping>
+	<mapping cb:dec="990438" type="PUA">U+F1CE6</mapping>
+</char>
+<char xml:id="CB07536">
+	<charName>CBETA CHARACTER CB07536</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[銳-兄+允]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>銳</value>
+	</charProp>
+	<mapping type="unicode">U+289A3</mapping>
+	<mapping cb:dec="990576" type="PUA">U+F1D70</mapping>
+</char>
+<char xml:id="CB08285">
+	<charName>CBETA CHARACTER CB08285</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[石*靡]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>磨</value>
+	</charProp>
+	<mapping type="unicode">U+40FA</mapping>
+	<mapping cb:dec="991325" type="PUA">U+F205D</mapping>
+</char>
+<char xml:id="CB08429">
+	<charName>CBETA CHARACTER CB08429</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[來*毛]</value>
+	</charProp>
+	<mapping type="unicode">U+23B89</mapping>
+	<mapping cb:dec="991469" type="PUA">U+F20ED</mapping>
+</char>
+<char xml:id="CB09080">
+	<charName>CBETA CHARACTER CB09080</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[隸-木+上]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>隸</value>
+	</charProp>
+	<mapping type="unicode">U+28F7E</mapping>
+	<mapping cb:dec="992120" type="PUA">U+F2378</mapping>
+</char>
+<char xml:id="CB16487">
+	<charName>CBETA CHARACTER CB16487</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[書-曰+皿]</value>
+	</charProp>
+	<mapping type="unicode">U+2505E</mapping>
+	<mapping cb:dec="999527" type="PUA">U+F4067</mapping>
+</char>
+<char xml:id="CB21930">
+	<charName>CBETA CHARACTER CB21930</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(虺-兀+(田/儿))-虫+(乏-之+友)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>魃</value>
+	</charProp>
+	<mapping cb:dec="1004970" type="PUA">U+F55AA</mapping>
+</char>
+<char xml:id="CB21939">
+	<charName>CBETA CHARACTER CB21939</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[金*戊]</value>
+	</charProp>
+	<mapping cb:dec="1004979" type="PUA">U+F55B3</mapping>
+</char>
+<char xml:id="CB21940">
+	<charName>CBETA CHARACTER CB21940</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[讒-、]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>讒</value>
+	</charProp>
+	<mapping type="normal_unicode">U+8B92</mapping>
+	<mapping cb:dec="1004980" type="PUA">U+F55B4</mapping>
+</char>
+<char xml:id="CB21941">
+	<charName>CBETA CHARACTER CB21941</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[鬼-(白-日)+白]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>魄</value>
+	</charProp>
+	<mapping cb:dec="1004981" type="PUA">U+F55B5</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-09-09T17:05:48">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">本文</cb:mulu>
+<pb ed="P" xml:id="P168.1581.0757a" n="0757a"/>
+<lb ed="P" n="0757a01"/><milestone unit="juan" n="24"/><cb:mulu type="卷" n="24"></cb:mulu><cb:juan fun="open" n="24"><cb:jhead>首楞嚴經義海卷第二十四<note place="inline">經八之三</note></cb:jhead></cb:juan>
+<lb ed="P" n="0757a02"/><cb:div type="other"><p xml:id="pP168p0757a0201" rend="margin-left:2em"><note place="inline">凡遇圓相即是標辭與<g ref="#CB00562">䟽</g>同其上文</note>。</p>
+<lb ed="P" n="0757a03"/><cb:div type="orig"><p xml:id="pP168p0757a0301">阿難此等皆是彼諸眾生自業所
+<lb ed="P" n="0757a04"/>感造十習因受六交報。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0757a0410" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>由乎情想妄集諸
+<lb ed="P" n="0757a05"/>業隨業善惡或升或墜故云自業所感十習因者別指惡業即由十
+<lb ed="P" n="0757a06"/>使煩惱於六根門發識造業洎受其報從六根出報與業交故云交
+<lb ed="P" n="0757a07"/>報同受地獄即引業招六根別受即滿業致俱是眾生妄情習造耳</note>。</p></cb:div>
+<lb ed="P" n="0757a08"/><cb:div type="orig"><p xml:id="pP168p0757a0801">云何十因。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0757a0805" rend="inline"><note place="inline">緫徵也發業有二一正發即無明二助發即餘
+<lb ed="P" n="0757a09"/>惑俱分別也今此十因除淫習是所發之業餘九皆是能發之惑惑
+<lb ed="P" n="0757a10"/>有根隨下文自指此下十<g ref="#CB01008">󰏰</g>文皆有三</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0757a1016" rend="inline">阿難一者淫
+<pb ed="P" xml:id="P168.1581.0757b" n="0757b"/>
+<lb ed="P" n="0757b01"/>習交接發於相磨研磨不休如是
+<lb ed="P" n="0757b02"/>故有大猛火光於中發動如人以
+<lb ed="P" n="0757b03"/>手自相摩觸煖相現前。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0757b0310" rend="inline"><note place="inline">一由因致果此即是
+<lb ed="P" n="0757b04"/>所發業也具足貪癡生死輪回斯為其本內境外境互相偶合故云
+<lb ed="P" n="0757b05"/>交接內外相發遂成欲火喻顯可知</note>。</p></cb:div>
+<lb ed="P" n="0757b06"/><cb:div type="orig"><p xml:id="pP168p0757b0601">二習相然故有鐵牀銅柱諸事。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0757b0613" rend="inline"><note place="inline">二正
+<lb ed="P" n="0757b07"/>感果相根境兩具故云二習能觸所觸皆是我心互相熏習結成淫
+<lb ed="P" n="0757b08"/>業以於欲境起顛倒心生自他樂想因此業種後感其報從其能觸
+<lb ed="P" n="0757b09"/>現地獄身以其所觸現諸苦具皆是自業所熏分其二習自相刑害
+<lb ed="P" n="0757b10"/>耳他皆倣此</note>。</p></cb:div>
+<pb ed="P" xml:id="P168.1581.0758a" n="0758a"/>
+<lb ed="P" n="0758a01"/><cb:div type="orig"><p xml:id="pP168p0758a0101">是故十方一切如來色目行淫同
+<lb ed="P" n="0758a02"/>名欲火菩薩見欲如避火坑。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0758a0212" rend="inline"><note place="inline">三結示遇
+<lb ed="P" n="0758a03"/>名火能變壞一切世間欲能破滅出世善法是故行者應當遠離○
+<lb ed="P" n="0758a04"/>解一者下能習之因也如是下所習之報也如人下喻前二事二習
+<lb ed="P" n="0758a05"/>下明因受報是故下顯習過患他皆倣此</note>。</p></cb:div>
+<lb ed="P" n="0758a06"/><cb:div type="orig"><p xml:id="pP168p0758a0601">二者貪習交計發於相吸吸攬不
+<lb ed="P" n="0758a07"/>止如是故有積寒堅冰於中凍冽
+<lb ed="P" n="0758a08"/>如人以口吸縮風氣有冷觸生。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0758a0813" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>由
+<lb ed="P" n="0758a09"/>因致果也貪即是愛根本之數正能潤生於有有具染著為性由愛
+<lb ed="P" n="0758a10"/>著故種種計校求取前境故云交計相吸也貪取不止如水結冰堅
+<pb ed="P" xml:id="P168.1581.0758b" n="0758b"/>
+<lb ed="P" n="0758b01"/>住不散遂成凍冽此釋貪久成業○以致果也喻文可見</note>。</p></cb:div>
+<lb ed="P" n="0758b02"/><cb:div type="orig"><p xml:id="pP168p0758b0201">二習相陵故有吒吒波波羅羅青
+<lb ed="P" n="0758b03"/>赤白蓮寒冰等事。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0758b0308" rend="inline"><note place="inline">正顯果相也由因感果由內感
+<lb ed="P" n="0758b04"/>外吒波羅等忍寒聲也即八寒地獄俱舍云頞部陀者此云疱尼剌
+<lb ed="P" n="0758b05"/>部陀此云疱裂此二從相阿哳吒唬唬婆嚯嚯婆此二從聲鬱鉢羅
+<lb ed="P" n="0758b06"/>等三即青白紅蓮此三從色以寒之彌甚身色如之相陵侵陵也</note>。</p></cb:div>
+<lb ed="P" n="0758b07"/><cb:div type="orig"><p xml:id="pP168p0758b0701">是故十方一切如來色目多求同
+<lb ed="P" n="0758b08"/>名貪水菩薩見貪如避瘴海。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0758b0812" rend="inline"><note place="inline">結示過名
+<lb ed="P" n="0758b09"/>貪能滋潤滋長惡法如今之有泉飲之則貪也復能<g ref="#CB02167">󰡷</g>害法身慧命
+<lb ed="P" n="0758b10"/>如有瘴之海</note>。</p></cb:div>
+<pb ed="P" xml:id="P168.1581.0759a" n="0759a"/>
+<lb ed="P" n="0759a01"/><cb:div type="orig"><p xml:id="pP168p0759a0101">三者慢習交陵發於相恃馳流不
+<lb ed="P" n="0759a02"/>息如是故有騰逸奔波積波為水
+<lb ed="P" n="0759a03"/>如人口舌自相緜味因而水發。</p>
+<lb ed="P" n="0759a04"/><p xml:id="pP168p0759a0401">二習相鼓故有血河<g ref="#CB01926">󰞆</g>河熱沙毒
+<lb ed="P" n="0759a05"/>海融銅灌吞諸事
+<lb ed="P" n="0759a06"/>是故十方一切如來色目我慢名
+<lb ed="P" n="0759a07"/>飲癡水菩薩見慢如避巨溺。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0759a0712" rend="inline"><note place="inline">三<g ref="#CB01008">󰏰</g>如前
+<lb ed="P" n="0759a08"/>恃<anchor xml:id="beg_134" type="cb-app"/>己<anchor xml:id="end_134"/>陵他高舉為性故名為慢今云交陵相恃馳騁流逸慢之相也
+<lb ed="P" n="0759a09"/>血河等事皆所感報由內致外因果相稱耳餘之迷倒故名癡水西
+<lb ed="P" n="0759a10"/>園有之巨溺可知○解孤山曰或云西土有水飲之則癡如此方之
+<pb ed="P" xml:id="P168.1581.0759b" n="0759b"/>
+<lb ed="P" n="0759b01"/>貪泉也</note>。</p></cb:div>
+<lb ed="P" n="0759b02"/><cb:div type="orig"><p xml:id="pP168p0759b0201">四者瞋習交衝發於相忤忤結不
+<lb ed="P" n="0759b03"/>息心熱發火鑄氣為金如是故有
+<lb ed="P" n="0759b04"/>刀山鐵橛劒樹劒輪斧鉞鎗鋸如
+<lb ed="P" n="0759b05"/>人銜冤殺氣飛動。</p>
+<lb ed="P" n="0759b06"/><p xml:id="pP168p0759b0601">二習相擊故有宮割斬斫剉<anchor xml:id="beg_135" type="cb-app"/>刺<anchor xml:id="end_135"/>搥
+<lb ed="P" n="0759b07"/>擊諸事。</p>
+<lb ed="P" n="0759b08"/><p xml:id="pP168p0759b0801">是故十方一切如來色目瞋恚名
+<lb ed="P" n="0759b09"/>利刀劒菩薩見瞋如避誅戮。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0759b0912" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>於諸苦
+<lb ed="P" n="0759b10"/>具增恚身心熱惱居懷性不安隱<anchor xml:id="beg_136" type="cb-app"/>已<anchor xml:id="end_136"/>上皆根本惑攝互相衡忤結成
+<pb ed="P" xml:id="P168.1581.0760a" n="0760a"/>
+<lb ed="P" n="0760a01"/>熱惱熱惱不息氣忿成堅故感金石等事橛繫罪人<g ref="#CB01666">𣏾</g>也宮割秦之
+<lb ed="P" n="0760a02"/>五刑之二也斬斫判皆新之死刑刺即古刑之墨也今流罪有之搥
+<lb ed="P" n="0760a03"/>擊皆新刑之笞杖類也如劫未時人起猛利瞋心所執草木皆成刀
+<lb ed="P" n="0760a04"/>劒非內心之所感乎○解宮割五刑之一也鄭玄云官謂男子割去
+<lb ed="P" n="0760a05"/>其勢</note>。</p></cb:div>
+<lb ed="P" n="0760a06"/><cb:div type="orig"><p xml:id="pP168p0760a0601">五者詐習交誘發於相調引起不
+<lb ed="P" n="0760a07"/>住如是故有繩木絞校如水浸田
+<lb ed="P" n="0760a08"/>草木生長。</p>
+<lb ed="P" n="0760a09"/><p xml:id="pP168p0760a0901">二習相延故有杻械枷鎻鞭杖撾
+<lb ed="P" n="0760a10"/>棒諸事。</p>
+<pb ed="P" xml:id="P168.1581.0760b" n="0760b"/>
+<lb ed="P" n="0760b01"/><p xml:id="pP168p0760b0101">是故十方一切如來色目姦偽同
+<lb ed="P" n="0760b02"/>名讒賊菩薩見詐如畏犲狼。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0760b0212" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>詐謂謟
+<lb ed="P" n="0760b03"/>曲罔冒於他矯設異儀險曲為性或取他意或藏<anchor xml:id="beg_137" type="cb-app"/>己<anchor xml:id="end_137"/>失不任師友正
+<lb ed="P" n="0760b04"/>教誨故此隨數也今云發於相調引起不住正是此也姧詐多端惑
+<lb ed="P" n="0760b05"/>亂良善矯設方便<g ref="#CB06171">󱠛</g>相誘引故云交誘繩木絞校所感苦具也長惡
+<lb ed="P" n="0760b06"/>滋蔓如水浸田犲狗足羣行舌有逆刺狼<g ref="#CB07536">𨦣</g>首白頰大尾長胡似犬
+<lb ed="P" n="0760b07"/>也姧偽敗正猶如讒賊○解校枷也易云屨校滅趾荷校滅耳</note>。</p></cb:div>
+<lb ed="P" n="0760b08"/><cb:div type="orig"><p xml:id="pP168p0760b0801">六者誑習交欺發於相罔誣罔不
+<lb ed="P" n="0760b09"/>止飛心造姧如是故有塵土屎尿
+<lb ed="P" n="0760b10"/>穢汙不淨如塵隨風各無所見。</p>
+<pb ed="P" xml:id="P168.1581.0761a" n="0761a"/>
+<lb ed="P" n="0761a01"/><p xml:id="pP168p0761a0101">二習相加故有沒溺騰擲飛墜漂
+<lb ed="P" n="0761a02"/>淪諸事。</p>
+<lb ed="P" n="0761a03"/><p xml:id="pP168p0761a0301">是故十方一切如來色目欺誑同
+<lb ed="P" n="0761a04"/>名劫殺菩薩見誑如踐虵虺。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0761a0412" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>此亦隨
+<lb ed="P" n="0761a05"/>數誑謂矯誑心懷異謀多現不實矯現有德詭詐為性邪命為業今
+<lb ed="P" n="0761a06"/>云交欺欺即誑也誣罔即是現邪命事以誘利譽也塵土屎尿皆苦
+<lb ed="P" n="0761a07"/>具也刀兵劫時人互殺害故云劫殺虺蝮虺也博三寸首如擘○解
+<lb ed="P" n="0761a08"/>郭璞云有一種虵名為蝮虺</note>。</p></cb:div>
+<lb ed="P" n="0761a09"/><cb:div type="orig"><p xml:id="pP168p0761a0901">七者怨習交嫌發于銜恨如是故
+<lb ed="P" n="0761a10"/>有飛石投礰匣貯車檻甕盛囊幞
+<pb ed="P" xml:id="P168.1581.0761b" n="0761b"/>
+<lb ed="P" n="0761b01"/>如陰毒人懷抱畜惡。</p>
+<lb ed="P" n="0761b02"/><p xml:id="pP168p0761b0201">二習相吞故有投擲擒捉擊射挽
+<lb ed="P" n="0761b03"/>撮諸事。</p>
+<lb ed="P" n="0761b04"/><p xml:id="pP168p0761b0401">是故十方一切如來色目怨家名
+<lb ed="P" n="0761b05"/>違害鬼菩薩見怨如飲鴆酒。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0761b0512" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>怨即恨
+<lb ed="P" n="0761b06"/>也由忿為先懷惡不捨結怨為性不能舍忍常熱惱故囊幞等<anchor xml:id="beg_138" type="cb-app"/>已<anchor xml:id="end_138"/>上
+<lb ed="P" n="0761b07"/>皆拘繫罪人之具有作撲字之悞也挽撮皆牽繫罪人也有作拋亦
+<lb ed="P" n="0761b08"/>字之悞也如違害鬼常伺取人鴆酒鴆鳥名也翼毛劃酒酒能殺人
+<lb ed="P" n="0761b09"/>○解囊幞囊貯而幞殺之史記秦始皇囊幞兩弟酖酒杜預云酖鳥
+<lb ed="P" n="0761b10"/>名其羽有毒以<g ref="#CB16487">𥁞</g>酒飲之則死</note>。</p></cb:div>
+<pb ed="P" xml:id="P168.1581.0762a" n="0762a"/>
+<lb ed="P" n="0762a01"/><cb:div type="orig"><p xml:id="pP168p0762a0101">八者見習交明如薩迦耶見戒禁
+<lb ed="P" n="0762a02"/>取邪悟諸業發於違拒出生相返
+<lb ed="P" n="0762a03"/>如是故有王使主吏證執文籍如
+<lb ed="P" n="0762a04"/>行路人來徃相見。</p>
+<lb ed="P" n="0762a05"/><p xml:id="pP168p0762a0501">二習相交故有勘問權詐考訊推
+<lb ed="P" n="0762a06"/>鞫察訪披究照明善惡童子手執
+<lb ed="P" n="0762a07"/>文簿辭辯諸事。</p>
+<lb ed="P" n="0762a08"/><p xml:id="pP168p0762a0801">是故十方一切如來色目惡見同
+<lb ed="P" n="0762a09"/>名見坑菩薩見諸虛妄遍執如入
+<lb ed="P" n="0762a10"/>毒壑。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0762a1003" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>見謂惡見於諸諦理顛倒推度染慧為性能障善見招
+<pb ed="P" xml:id="P168.1581.0762b" n="0762b"/>
+<lb ed="P" n="0762b01"/>苦為業此見行相差別有五一身見執我我所二邊見執斷執常三
+<lb ed="P" n="0762b02"/>邪見謗無因果四見取謂於諸見及所依蘊執為最勝能得清淨一
+<lb ed="P" n="0762b03"/>切闘諍所依為業五戒禁取謂於隨順諸見戒禁及所依蘊執為最
+<lb ed="P" n="0762b04"/>勝能得清淨無利勤苦所依為業此之見習各執己解互相是非故
+<lb ed="P" n="0762b05"/>感王使主吏等事權詐者設方便以取情也照明引他事以照證也
+<lb ed="P" n="0762b06"/>○解薩迦耶即身見謂執身有我戒禁取謂非因計因如持牛狗等
+<lb ed="P" n="0762b07"/>戒為生天因此於五利使中略舉其二也邪悟諸業即緫收餘見</note>。</p></cb:div>
+<lb ed="P" n="0762b08"/><cb:div type="orig"><p xml:id="pP168p0762b0801">九者枉習交加發於誣謗如是故
+<lb ed="P" n="0762b09"/>有合山合石碾磑耕磨如讒賊人
+<lb ed="P" n="0762b10"/>逼枉良善。</p>
+<pb ed="P" xml:id="P168.1581.0763a" n="0763a"/>
+<lb ed="P" n="0763a01"/><p xml:id="pP168p0763a0101">二習相排故有<g ref="#CB07398">𡑅</g>捺搥按蹙漉衡
+<lb ed="P" n="0763a02"/>度諸事。</p>
+<lb ed="P" n="0763a03"/><p xml:id="pP168p0763a0301">是故十方一切如來色目怨謗同
+<lb ed="P" n="0763a04"/>名讒虎菩薩見枉如遭礔礰。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0763a0412" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>枉則逼
+<lb ed="P" n="0763a05"/><g ref="#CB07398">𡑅</g>良善<g ref="#CB02167">󰡷</g>惱於他心無悲愍害所攝也既以枉<g ref="#CB07398">𡑅</g>良善抑捺無辜令
+<lb ed="P" n="0763a06"/>稱有罪故感合山等事蹙謂逼迫漉謂振動衡權衡也度丈天也諱
+<lb ed="P" n="0763a07"/>能害善虎能食人○解權衡尺度以定輕重長短獄王前有之</note>。</p></cb:div>
+<lb ed="P" n="0763a08"/><cb:div type="orig"><p xml:id="pP168p0763a0801">十者訟習交諠發於藏覆如是故
+<lb ed="P" n="0763a09"/>有鑒見照燭如於日中不能藏影。</p>
+<lb ed="P" n="0763a10"/><p xml:id="pP168p0763a1001">故有惡友業鏡火珠披露宿業對
+<pb ed="P" xml:id="P168.1581.0763b" n="0763b"/>
+<lb ed="P" n="0763b01"/>驗諸事。</p>
+<lb ed="P" n="0763b02"/><p xml:id="pP168p0763b0201">是故十方一切如來色目覆藏同
+<lb ed="P" n="0763b03"/>名陰賊菩薩觀覆如戴高山履於
+<lb ed="P" n="0763b04"/>巨海。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0763b0403" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>此是覆習而言訟者由覆發訟故所言覆者於自作罪
+<lb ed="P" n="0763b05"/>恐失利譽隱藏為性悔惱為業謂覆罪者後必悔惱不安隱故<anchor xml:id="beg_139" type="cb-app"/>己<anchor xml:id="end_139"/>既
+<lb ed="P" n="0763b06"/>有罪不能自發遂招他訟此訟即是惱之一法忿恨為先追觸暴熱
+<lb ed="P" n="0763b07"/>佷戾為性蛆螫為業謂追徃惡觸現違緣心便佷戾多發嚚暴因鄙
+<lb ed="P" n="0763b08"/>麤言蛆螫他故乃名為訟此覆彼訟二習相發故感惡友業鏡等事
+<lb ed="P" n="0763b09"/>覆藏過惡自知而<anchor xml:id="beg_13a" type="cb-app"/>已<anchor xml:id="end_13a"/>如於陰賊不懼當苦必墮惡道如戴山履海也
+<lb ed="P" n="0763b10"/>○解影字下應云二習相爭或闕或略耳</note>。</p></cb:div>
+<pb ed="P" xml:id="P168.1581.0764a" n="0764a"/>
+<lb ed="P" n="0764a01"/><cb:div type="orig"><p xml:id="pP168p0764a0101">云何六報阿難一切眾生六識造
+<lb ed="P" n="0764a02"/>業所招惡報從六根出。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0764a0210" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>造業既從六根而
+<lb ed="P" n="0764a03"/>出受報還歸六根因與果交故云交報文下一根受報備歷六根根
+<lb ed="P" n="0764a04"/>根皆爾故云交報此云六識造業者且據緫相業者招感為義然通
+<lb ed="P" n="0764a05"/>緫別若能為引業善不善思招感當來第八無記果者即緫報業若
+<lb ed="P" n="0764a06"/>為滿業三性恩種招感當來苦樂等果者名別報業其第六識通造
+<lb ed="P" n="0764a07"/>緫別報業者前五識但為助發別報不能發緫以強盛隨轉差別故
+<lb ed="P" n="0764a08"/>從六根出者六根是彼造業具故造既從根受亦根受故從根出○
+<lb ed="P" n="0764a09"/>解私謂造業招報根識必俱今以識為業而報從根者蓋業並由心
+<lb ed="P" n="0764a10"/>報多約色故也所名六交報者璿師云因與果交今則不爾但是果
+<pb ed="P" xml:id="P168.1581.0764b" n="0764b"/>
+<lb ed="P" n="0764b01"/>時六根與惡報相涉也</note>。</p></cb:div>
+<lb ed="P" n="0764b02"/><cb:div type="orig"><p xml:id="pP168p0764b0201">云何惡報從六根出一者見報招
+<lb ed="P" n="0764b03"/>引惡果此見業交則臨終時先見
+<lb ed="P" n="0764b04"/>猛火滿十方界亡者神識飛墜乘
+<lb ed="P" n="0764b05"/>煙入無間獄發明二相。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0764b0510" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>眼根造罪是見業
+<lb ed="P" n="0764b06"/>臨終見境是報與業交以眼根取色色能後心造種種業○故見猛
+<lb ed="P" n="0764b07"/>火滿十方界神識隨火人獄受報</note>。</p></cb:div>
+<lb ed="P" n="0764b08"/><cb:div type="orig"><p xml:id="pP168p0764b0801">一者明見則能遍見種種惡物生
+<lb ed="P" n="0764b09"/>無量畏二者暗見寂然不見生無
+<lb ed="P" n="0764b10"/>量恐如是見火燒聽能為鑊湯洋
+<pb ed="P" xml:id="P168.1581.0765a" n="0765a"/>
+<lb ed="P" n="0765a01"/>銅燒息能為黑煙紫燄燒味能為
+<lb ed="P" n="0765a02"/>燋丸鐵糜燒觸能為熱<g ref="#CB01926">󰞆</g>鑪炭燒
+<lb ed="P" n="0765a03"/>心能生星火迸灑煽鼓空界。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0765a0312" rend="inline"><note place="inline">明暗二塵
+<lb ed="P" n="0765a04"/>是眼所取明可辨別故見惡相暗無分別但生恐懼如是下徧歷六
+<lb ed="P" n="0765a05"/>根然有旁正正由眼根發識造業故先歷眼今此不明文略故耳下
+<lb ed="P" n="0765a06"/>文即具此中以火為苦具主及歷餘根隨根轉變為不可意境也○
+<lb ed="P" n="0765a07"/>解一者下標示臨終下釋相先見猛火等即現報也亡者神識等即
+<lb ed="P" n="0765a08"/>生報也發明下就眼根明二相如是下對諸根明交報他皆倣此然
+<lb ed="P" n="0765a09"/>一根惡報而五根遍受者難可了知理而推之必由六識造業之時
+<lb ed="P" n="0765a10"/>性中相知用中相背從業招報法爾如斯以相知故六報互通以相
+<pb ed="P" xml:id="P168.1581.0765b" n="0765b"/>
+<lb ed="P" n="0765b01"/>背故諸相差別唯識發現信其不誣問下五報中悉有當根受報之
+<lb ed="P" n="0765b02"/>相今眼根見火後便云燒聽者何耶答以燒見易明故況下黑煙紫
+<lb ed="P" n="0765b03"/>燄星火迸灑等皆眼根所交之報故不別云</note>。</p></cb:div>
+<lb ed="P" n="0765b04"/><cb:div type="orig"><p xml:id="pP168p0765b0401">二者聞報招引惡果此聞業交則
+<lb ed="P" n="0765b05"/>臨終時先見波濤沒溺天地亡者
+<lb ed="P" n="0765b06"/>神識降注乘流入無間獄發明二
+<lb ed="P" n="0765b07"/>相。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0765b0702" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>聲能鼓動心海如波如濤取此造業故臨終時先見此也降
+<lb ed="P" n="0765b08"/>注下流也</note>。</p></cb:div>
+<lb ed="P" n="0765b09"/><cb:div type="orig"><p xml:id="pP168p0765b0901">一者開聽聽種種閙精神愗亂二
+<lb ed="P" n="0765b10"/>者閇聽寂無所聞幽魄沉沒如是
+<pb ed="P" xml:id="P168.1581.0766a" n="0766a"/>
+<lb ed="P" n="0766a01"/>聞波注聞則能為責為詰注見則
+<lb ed="P" n="0766a02"/>能為雷為吼為惡毒氣注息則能
+<lb ed="P" n="0766a03"/>為雨為霧灑諸毒蟲周滿身體注
+<lb ed="P" n="0766a04"/>味則能為膿為血種種雜穢注觸
+<lb ed="P" n="0766a05"/>則能為畜為鬼為糞為尿注意則
+<lb ed="P" n="0766a06"/>能為電為雹摧碎心魄。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0766a0610" rend="inline"><note place="inline">耳根所取動靜二境
+<lb ed="P" n="0766a07"/>造種種業今受其報亦緣此二開即動也閉即靜也如是下歷根別
+<lb ed="P" n="0766a08"/>受此文之中以根對境有所參差將恐梵文回互譯者隨而弗審如
+<lb ed="P" n="0766a09"/>雷吼毒氣非眼所取雨霧毒蟲非鼻家境餘文則順有智自詳○解
+<lb ed="P" n="0766a10"/>上云見火此云聞波諸說弗明今以近義詳之如易云离為目為火
+<pb ed="P" xml:id="P168.1581.0766b" n="0766b"/>
+<lb ed="P" n="0766b01"/>坎為耳為水正恐見聞本乎水火之性故發燒注之相也又其聞波
+<lb ed="P" n="0766b02"/>所注諸根循業各變難盡銷會如注見則能為雷為吼等似非眼根
+<lb ed="P" n="0766b03"/>所入之相乃至下文多此義例聖言叵測惟愽通君子昭示來者</note>。</p></cb:div>
+<lb ed="P" n="0766b04"/><cb:div type="orig"><p xml:id="pP168p0766b0401">三者齅報招引惡果此齅業交則
+<lb ed="P" n="0766b05"/>臨終時先見毒氣充塞遠近亡者
+<lb ed="P" n="0766b06"/>神識從地踊出入無間獄發明二
+<lb ed="P" n="0766b07"/>相。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0766b0702" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>鼻根造罪貪齅諸香眾生身分及男女等香作種種業故招
+<lb ed="P" n="0766b08"/>毒氣以受其報</note>。</p></cb:div>
+<lb ed="P" n="0766b09"/><cb:div type="orig"><p xml:id="pP168p0766b0901">一者通聞被諸惡氣熏極心擾二
+<lb ed="P" n="0766b10"/>者塞聞氣掩不通悶絕於地如是
+<pb ed="P" xml:id="P168.1581.0767a" n="0767a"/>
+<lb ed="P" n="0767a01"/>齅氣衝息則能為質為履衝見則
+<lb ed="P" n="0767a02"/>能為火為炬衝聽則能為沒為溺
+<lb ed="P" n="0767a03"/>為洋為沸衝味則能為餒為爽衝
+<lb ed="P" n="0767a04"/>觸則能為綻為爛為大肉山有百
+<lb ed="P" n="0767a05"/>千眼無量<g ref="#CB00045">𠯗</g>食衝思則能為<g ref="#CB01926">󰞆</g>為
+<lb ed="P" n="0767a06"/>瘴為飛砂礰擊碎身體。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0767a0610" rend="inline"><note place="inline">通塞是彼鼻所取境
+<lb ed="P" n="0767a07"/>依此造業依此受苦故有二相如是下歷根別受為質為履者質礙
+<lb ed="P" n="0767a08"/>也履猶通也為餒為爽者魚敗為餒爽乖差也餘文可知○解孤山
+<lb ed="P" n="0767a09"/>曰質應作躓廣雅云躓蹋也通俗文云事不利曰躓羹敗曰爽</note>。</p></cb:div>
+<lb ed="P" n="0767a10"/><cb:div type="orig"><p xml:id="pP168p0767a1001">四者味報招引惡果此味業交則
+<pb ed="P" xml:id="P168.1581.0767b" n="0767b"/>
+<lb ed="P" n="0767b01"/>臨終時先見鐵網猛燄熾烈周覆
+<lb ed="P" n="0767b02"/>世界亡者神識下透挂網倒懸其
+<lb ed="P" n="0767b03"/>頭入無間獄發明二相。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0767b0310" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>舌根作罪其罪最
+<lb ed="P" n="0767b04"/>廣一貪味為罪殺戮必多二發語造業其罪又廣以妄言綺語兩舌
+<lb ed="P" n="0767b05"/>惡口比於餘根此最廣博故感鐵網周覆世界也</note>。</p></cb:div>
+<lb ed="P" n="0767b06"/><cb:div type="orig"><p xml:id="pP168p0767b0601">一者吸氣結成寒冰凍裂身肉二
+<lb ed="P" n="0767b07"/>者吐氣飛為猛火燋爛骨髓如是
+<lb ed="P" n="0767b08"/>嘗味歷嘗則能為承為忍歷見則
+<lb ed="P" n="0767b09"/>能為然金石歷聽則能為利兵刃
+<lb ed="P" n="0767b10"/>歷息則能為大鐵籠彌覆國土歷
+<pb ed="P" xml:id="P168.1581.0768a" n="0768a"/>
+<lb ed="P" n="0768a01"/>觸則能為弓為箭為弩為射歷思
+<lb ed="P" n="0768a02"/>則能為飛熱鐵從空雨下。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0768a0211" rend="inline"><note place="inline">吸氣則取味所
+<lb ed="P" n="0768a03"/>招吐氣則發語所致如是下歷根別受為承為忍者承領忍受一切
+<lb ed="P" n="0768a04"/>惡味造業之時凡是舌根受食知味然後始益諸根大種舌不領味
+<lb ed="P" n="0768a05"/>諸根不益受報亦然○解凖眼耳鼻云見聞齅此應云嘗報言味報
+<lb ed="P" n="0768a06"/>者從所嘗為名也貪味則網捕燒野以取禽獸故見鐵網猛燄之相
+<lb ed="P" n="0768a07"/>為承為忍謂發言承領忍聲甘受也</note>。</p></cb:div>
+<lb ed="P" n="0768a08"/><cb:div type="orig"><p xml:id="pP168p0768a0801">五者觸報招引惡果此觸業交則
+<lb ed="P" n="0768a09"/>臨終時先見大山四面來合無復
+<lb ed="P" n="0768a10"/>出路亡者神識見大鐵城火虵火
+<pb ed="P" xml:id="P168.1581.0768b" n="0768b"/>
+<lb ed="P" n="0768b01"/>狗虎狼師子牛頭獄卒馬頭羅剎
+<lb ed="P" n="0768b02"/>手執鎗稍驅入城門向無間獄發
+<lb ed="P" n="0768b03"/>明二相。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0768b0304" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>身根為罪名因男女淫愛等觸貪著細滑隨時冷
+<lb ed="P" n="0768b04"/>熱故受合山等事</note>。</p></cb:div>
+<lb ed="P" n="0768b05"/><cb:div type="orig"><p xml:id="pP168p0768b0501">一者合觸合山逼體骨肉血潰二
+<lb ed="P" n="0768b06"/>者離觸刀劒觸身心肝屠裂如是
+<lb ed="P" n="0768b07"/>合觸歷觸則能為道為觀為廳為
+<lb ed="P" n="0768b08"/>案歷見則能為燒為爇歷聽則能
+<lb ed="P" n="0768b09"/>為撞為擊為剚為射歷息則能為
+<lb ed="P" n="0768b10"/>括為袋為考為縛歷嘗則能為耕
+<pb ed="P" xml:id="P168.1581.0769a" n="0769a"/>
+<lb ed="P" n="0769a01"/>為鉗為斬為截歷思則能為墜為
+<lb ed="P" n="0769a02"/>飛為煎為<g ref="#CB02598">󰨦</g>。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0769a0206" rend="inline"><note place="inline">身之所取唯合與離從之造罪感果亦爾
+<lb ed="P" n="0769a03"/>如是下歷根別受道觀廳案皆治罪處也餘文可解○解合山刀劒
+<lb ed="P" n="0769a04"/>並由貪著男女身分而感也道謂趣獄之路觀謂獄王之闕廳案皆
+<lb ed="P" n="0769a05"/>獄吏之所有也倳插刃也漢書作事李奇曰東方人以物臿地中為
+<lb ed="P" n="0769a06"/>事</note>。</p></cb:div>
+<lb ed="P" n="0769a07"/><cb:div type="orig"><p xml:id="pP168p0769a0701">六者思報招引惡果此思業交則
+<lb ed="P" n="0769a08"/>臨終時先見惡風吹壞國土亡者
+<lb ed="P" n="0769a09"/>神識被吹上空旋落乘風墮無間
+<lb ed="P" n="0769a10"/>獄發明二相。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0769a1006" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>思是意業無質迅疾猶如於風故招此
+<pb ed="P" xml:id="P168.1581.0769b" n="0769b"/>
+<lb ed="P" n="0769b01"/>報</note>。</p></cb:div>
+<lb ed="P" n="0769b02"/><cb:div type="orig"><p xml:id="pP168p0769b0201">一者不覺迷極則荒奔走不息二
+<lb ed="P" n="0769b03"/>者不迷覺知則苦無量煎燒痛深
+<lb ed="P" n="0769b04"/>難忍如是邪思結思則能為方為
+<lb ed="P" n="0769b05"/>所結見則能為鑒為證結聽則能
+<lb ed="P" n="0769b06"/>為大合石為冰為霜為土為霧結
+<lb ed="P" n="0769b07"/>息則能為大火車火船火檻結嘗
+<lb ed="P" n="0769b08"/>則能為大呌喚為悔為泣結觸則
+<lb ed="P" n="0769b09"/>能為大為小為一日中萬生萬死
+<lb ed="P" n="0769b10"/>為偃為仰。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0769b1005" rend="inline"><note place="inline">意之所緣生滅二塵復能隨五明了取境不覺
+<pb ed="P" xml:id="P168.1581.0770a" n="0770a"/>
+<lb ed="P" n="0770a01"/>則荒獨散所感不迷覺苦明了所致皆是邪思造業故爾如是下歷
+<lb ed="P" n="0770a02"/>根別受方所受苦處也鑒證證據先罪也此一根受報備歷餘張然
+<lb ed="P" n="0770a03"/>根對苦具有差有當不必一一根境相順學者隨文銷遣不可凝滯
+<lb ed="P" n="0770a04"/>○解真際曰意思生滅迅疾故先感業風也私謂智論明四大以具
+<lb ed="P" n="0770a05"/>微多者則劣具微少者則勝風無色香味三但有觸微故勝地水火
+<lb ed="P" n="0770a06"/>也心無四微其力又勝今見惡風吹壞國土豈非因最勝之業感最
+<lb ed="P" n="0770a07"/>勝之報乎若言意業無質如風風有觸微非無質也又若意思生滅
+<lb ed="P" n="0770a08"/>迅疾五識皆然今據力論似合經意</note>。</p></cb:div>
+<lb ed="P" n="0770a09"/><cb:div type="orig"><p xml:id="pP168p0770a0901">阿難是名地獄十因六果皆是眾
+<lb ed="P" n="0770a10"/>生迷妄所造。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0770a1006" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>虛妄造業虛妄受報皆如空華然於因
+<pb ed="P" xml:id="P168.1581.0770b" n="0770b"/>
+<lb ed="P" n="0770b01"/>果未嘗乖失</note>。</p></cb:div>
+<lb ed="P" n="0770b02"/><cb:div type="orig"><p xml:id="pP168p0770b0201">若諸眾生惡業同造入阿鼻獄受
+<lb ed="P" n="0770b03"/>無量苦經無量劫。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0770b0308" rend="inline"><note place="inline">六根十因具足同造諸業入阿
+<lb ed="P" n="0770b04"/>鼻獄即大無間具足五事也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0770b0412" rend="inline">六根各造及彼所
+<lb ed="P" n="0770b05"/>作兼境兼根是人則入八無間獄。</p></cb:div>
+<lb ed="P" n="0770b06"/><cb:div type="commentary"><p xml:id="pP168p0770b0601"><note place="inline">如第六識同彼眼識唯取自境兼根而作不涉餘根不具十因此則
+<lb ed="P" n="0770b07"/>六根具造唯造時不兼餘根入八熱獄次輕於前也○解私謂此亦
+<lb ed="P" n="0770b08"/>六根具造十因但前後異時故云各耳如一根對境必與意識同起
+<lb ed="P" n="0770b09"/>是名各造若加二三等則名兼境兼根也八無間獄者應同前獄既
+<lb ed="P" n="0770b10"/>非經無量劫故知此罪次重於前復恐通舉八獄以輕從重緫云無
+<pb ed="P" xml:id="P168.1581.0771a" n="0771a"/>
+<lb ed="P" n="0771a01"/>間是則十因或不具者當墮前七也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0771a0115" rend="inline">身口意三作殺
+<lb ed="P" n="0771a02"/>盜淫是人則入十八地獄。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0771a0211" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>身口意六根
+<lb ed="P" n="0771a03"/>之三也殺盜淫十因之三也如身具作殺等三罪口意不作又輕於
+<lb ed="P" n="0771a04"/>前入十八獄○解十惡業中唯犯殺盜淫罪雖云口意蓋助成身業
+<lb ed="P" n="0771a05"/>也十八泥犁經云火獄有八寒獄有十火在地下寒在天際</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0771a0524" rend="inline">三
+<lb ed="P" n="0771a06"/>業不兼中間或為一殺一盜是人
+<lb ed="P" n="0771a07"/>則入三十六地獄。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0771a0708" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>如身獨造殺等一業不兼餘
+<lb ed="P" n="0771a08"/>罪入三十六獄又輕於前○解上明具三必含複義今云不兼兼即
+<lb ed="P" n="0771a09"/>復也亦合云一淫但是文略耳三十六獄并下一百八獄未詳名數</note>。</p></cb:div>
+<lb ed="P" n="0771a10"/><cb:div type="orig"><p xml:id="pP168p0771a1001">見見一根單犯一業是人則入一
+<pb ed="P" xml:id="P168.1581.0771b" n="0771b"/>
+<lb ed="P" n="0771b01"/>百八地獄。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0771b0105" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>此獨一根只犯一殺又輕於前入一百八獄
+<lb ed="P" n="0771b02"/>如意中邪思或不正見未形身口或口處殺人身心無記此等並輕
+<lb ed="P" n="0771b03"/>言見見者見只見之一根不兼餘根故云見見○標上見作現呼○
+<lb ed="P" n="0771b04"/>解能見所見單境單根於殺盜淫單犯一業故罪從輕然經文甚略
+<lb ed="P" n="0771b05"/>罪相多品如身業三罪各有根本方便不同豈可一例判入地獄今
+<lb ed="P" n="0771b06"/>應且約根本示之其諸方便若同此獄必有劫數長短差別</note>。</p></cb:div>
+<lb ed="P" n="0771b07"/><cb:div type="orig"><p xml:id="pP168p0771b0701">由是眾生別作別造於世界中入
+<lb ed="P" n="0771b08"/>同分地妄想發生非本來有。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0771b0812" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>謂由不
+<lb ed="P" n="0771b09"/>斷三業各各有私故云別造因各各私眾私同分故云入同分地謂
+<lb ed="P" n="0771b10"/>同業共感無差別同分別業各感差別同分故前文云眾同分中兼
+<pb ed="P" xml:id="P168.1581.0772a" n="0772a"/>
+<lb ed="P" n="0772a01"/>有元地也皆由妄想發起故非本有○標此答前問此道為復本來
+<lb ed="P" n="0772a02"/>自有為是眾生妄習生起此妄也○解上文五節惡業不同即別作
+<lb ed="P" n="0772a03"/>造也所感獄報各從其類即入同分地也妄想發生等並詶阿難前
+<lb ed="P" n="0772a04"/>所疑問</note>。</p></cb:div>
+<lb ed="P" n="0772a05"/><cb:div type="orig"><p xml:id="pP168p0772a0501">復次阿難是諸眾生非破律儀犯
+<lb ed="P" n="0772a06"/>菩薩戒毀佛涅槃諸餘雜業歷劫
+<lb ed="P" n="0772a07"/>燒然後還罪畢受諸鬼形。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0772a0711" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>非破律儀者
+<lb ed="P" n="0772a08"/>謗無戒律也犯菩薩戒者輕重不禁也毀佛涅槃者不信因果此皆
+<lb ed="P" n="0772a09"/>斷善根也餘業可知地獄久治故云歷劫燒然更受餘類故入鬼趣
+<lb ed="P" n="0772a10"/>鬼趣十類由前十因十因正報<anchor xml:id="beg_13b" type="cb-app"/>已<anchor xml:id="end_13b"/>在前文極苦相對非是輕受故云
+<pb ed="P" xml:id="P168.1581.0772b" n="0772b"/>
+<lb ed="P" n="0772b01"/>後還罪畢受諸鬼形○解資中曰由前十因餘報不同故下鬼趣分
+<lb ed="P" n="0772b02"/>成十類貪物盜習貪色淫習貪惑詐習貪恨怨習貪憶瞋習貪慠慢
+<lb ed="P" n="0772b03"/>習貪罔誑習貪明見習貪成枉習貪黨訟習</note>。</p></cb:div>
+<lb ed="P" n="0772b04"/><cb:div type="orig"><p xml:id="pP168p0772b0401">若於本因貪物為罪是人罪畢遇
+<lb ed="P" n="0772b05"/>物成形名為怪鬼。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0772b0508" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>此即貪習為因也於物生貪
+<lb ed="P" n="0772b06"/>非理而取餘報在鬼還托於物即金銀草木精怪其類非一故名怪
+<lb ed="P" n="0772b07"/>鬼正受苦報在寒冰獄</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0772b0710" rend="inline">貪色為罪是人罪畢
+<lb ed="P" n="0772b08"/>遇風成形名為魃鬼。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0772b0809" rend="inline"><note place="inline">即前淫習為因也色能動
+<lb ed="P" n="0772b09"/>亂身心如風鼓物報招鬼質還復託風風質元虛因習所致因果相
+<lb ed="P" n="0772b10"/>對豈徒其然</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0772b1006" rend="inline">貪惑為罪是人罪畢遇畜
+<pb ed="P" xml:id="P168.1581.0773a" n="0773a"/>
+<lb ed="P" n="0773a01"/>成形名為魅鬼。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0773a0107" rend="inline"><note place="inline">即前詐習為因也因成詐偽惑正憑
+<lb ed="P" n="0773a02"/>虛託附畜生便成鬼質即狐狸猪犬有異靈者其類非一故云遇畜
+<lb ed="P" n="0773a03"/>成形魅即現美形以惑人也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0773a0312" rend="inline">貪恨為罪是人罪
+<lb ed="P" n="0773a04"/>畢遇蟲成形名蠱毒鬼。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0773a0410" rend="inline"><note place="inline">即前怨習為因也由
+<lb ed="P" n="0773a05"/>忿為先懷惡不捨結怨在意熱惱居懷受餘報時亦假毒類即虵虺
+<lb ed="P" n="0773a06"/>毒蟲有靈者成蠱毒鬼</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0773a0610" rend="inline">貪憶為罪是人罪畢
+<lb ed="P" n="0773a07"/>遇衰成形名為癘鬼。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0773a0709" rend="inline"><note place="inline">即前瞋習為因也於苦苦
+<lb ed="P" n="0773a08"/>具憎恚居懷或因妬忌生瞋瞋恚不捨名為貪憶洎受鬼報遇災衰
+<lb ed="P" n="0773a09"/>處便入其身名為癘鬼即毒癘傷寒傳屍骨蒸之類皆此鬼作也</note>。</p></cb:div>
+<lb ed="P" n="0773a10"/><cb:div type="orig"><p xml:id="pP168p0773a1001">貪慠為罪是人罪畢遇氣成形名
+<pb ed="P" xml:id="P168.1581.0773b" n="0773b"/>
+<lb ed="P" n="0773b01"/>為餓鬼。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0773b0104" rend="inline"><note place="inline">即前慢習為因也慢以凌人慠物高舉自強洎報鬼
+<lb ed="P" n="0773b02"/>倫遇氣為質內無實德空腹高心飢餓所困故名餓鬼</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0773b0222" rend="inline">貪罔
+<lb ed="P" n="0773b03"/>為罪是人罪畢遇幽為形名為魘
+<lb ed="P" n="0773b04"/>鬼。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0773b0402" rend="inline"><note place="inline">即前誑習為因也為獲利譽多懷異謀矯現有德罔冒於他令
+<lb ed="P" n="0773b05"/>他暗昧不曉己事洎受鬼形憑幽託暗魘惑寐者故名魘鬼</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0773b0524" rend="inline">貪
+<lb ed="P" n="0773b06"/>明為罪是人罪畢遇精為形名魍
+<lb ed="P" n="0773b07"/>魎鬼。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0773b0703" rend="inline"><note place="inline">即見習為因也執見異生各自明悟出生相返發於違拒
+<lb ed="P" n="0773b08"/>及招鬼道遇精明處以為其形即日月精<g ref="#CB21941">󵖵</g>山澤明靈有精耀者以
+<lb ed="P" n="0773b09"/>託其質言魍魎者木石變怪也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0773b0913" rend="inline">貪成為罪是人罪
+<lb ed="P" n="0773b10"/>畢遇明為形名伇使鬼。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0773b1010" rend="inline"><note place="inline">即前枉習為因也枉
+<pb ed="P" xml:id="P168.1581.0774a" n="0774a"/>
+<lb ed="P" n="0774a01"/>押成褫憑虛構架勞心伇思撓害無辜使成有罪遇明顯境託以成
+<lb ed="P" n="0774a02"/>形非幽暗類也走使戰陣擔沙負石之徒故云伇使</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0774a0221" rend="inline">貪黨為
+<lb ed="P" n="0774a03"/>罪是人罪畢遇人為形名傳送鬼。</p></cb:div>
+<lb ed="P" n="0774a04"/><cb:div type="commentary"><p xml:id="pP168p0774a0401"><note place="inline">即訟習為因也黨<anchor xml:id="beg_13c" type="cb-app"/>己<anchor xml:id="end_13c"/>覆罪為他所訟報在鬼類託質於人如世有童
+<lb ed="P" n="0774a05"/>子師及巫机之類皆名神道傳送凶吉禍福之言名傳送鬼此上鬼
+<lb ed="P" n="0774a06"/>類其數實繁考果徵因不過此十○解私謂魃鬼敏師改作袄斥魃
+<lb ed="P" n="0774a07"/>為非徧尋古本皆無袄字況想陰魔中亦云魃鬼何必改作蠱者左
+<lb ed="P" n="0774a08"/>傳云血蟲為蠱說文云腹中蟲也魍魎或作蝄蜽家語云木石之怪
+<lb ed="P" n="0774a09"/>曰夔魍魎資中具約十因對辨十類諸師所釋或異或同然鬼道難
+<lb ed="P" n="0774a10"/>明止可略知報相恐傷臆說此不備解</note>。</p></cb:div>
+<pb ed="P" xml:id="P168.1581.0774b" n="0774b"/>
+<lb ed="P" n="0774b01"/><cb:div type="orig"><p xml:id="pP168p0774b0101">阿難是人皆以純情墜落業火燒
+<lb ed="P" n="0774b02"/>乾上出為鬼此等皆是自妄想業
+<lb ed="P" n="0774b03"/>之所招引若悟菩提則妙圓明本
+<lb ed="P" n="0774b04"/>無所有。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0774b0404" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>十因六報皆是純情所為情既下沉故墜地獄地
+<lb ed="P" n="0774b05"/>獄治久情盡上升故曰業火燒乾上出為鬼鬼心輕懆業火所餘自
+<lb ed="P" n="0774b06"/>妄業招非他所得菩提心中皆如空華耳○標如來藏中本無所有</note>。</p></cb:div>
+<lb ed="P" n="0774b07"/><cb:div type="orig"><p xml:id="pP168p0774b0701">復次阿難鬼業既盡則情與想二
+<lb ed="P" n="0774b08"/>俱成空方於世間與元負人怨對
+<lb ed="P" n="0774b09"/>相值身為畜生酬其宿債。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0774b0911" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>地獄治情鬼
+<lb ed="P" n="0774b10"/>中治想情想既盡故云成空然所空者即依情想所發之業也二道
+<pb ed="P" xml:id="P168.1581.0775a" n="0775a"/>
+<lb ed="P" n="0775a01"/>之業既亡却為畜生酬其宿債駝驢牛馬身命償他若在餘類隨應
+<lb ed="P" n="0775a02"/>受對○解情即地獄之純情想即鬼趣之妄想此想亦情非前文外
+<lb ed="P" n="0775a03"/>分之想也</note>。</p></cb:div>
+<lb ed="P" n="0775a04"/><cb:div type="orig"><p xml:id="pP168p0775a0401">物怪之鬼物銷報盡生於世間多
+<lb ed="P" n="0775a05"/>為梟類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0775a0504" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>貪習為怪鬼報盡作梟倫梟土梟也附塊為兒貪
+<lb ed="P" n="0775a06"/>物所致一切怪異者皆此類攝</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0775a0613" rend="inline">風魃之鬼風銷報
+<lb ed="P" n="0775a07"/>盡生於世間多為咎徵一切異類。</p></cb:div>
+<lb ed="P" n="0775a08"/><cb:div type="commentary"><p xml:id="pP168p0775a0801"><note place="inline">淫習為因報招鬼魃旁為畜生受咎徵也咎過惡也徵應驗也惡行
+<lb ed="P" n="0775a09"/>所招將有災異先有此應如羣雀眾鼠荒儉之徵<g ref="#CB00015">𪄱</g>鴹水災鶴舞多
+<lb ed="P" n="0775a10"/>旱其類非一</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0775a1006" rend="inline">畜魅之鬼畜死報盡生於
+<pb ed="P" xml:id="P168.1581.0775b" n="0775b"/>
+<lb ed="P" n="0775b01"/>世間多為狐類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0775b0107" rend="inline"><note place="inline">詐因之報為鬼成魅所依既盡畜受
+<lb ed="P" n="0775b02"/>孤身</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0775b0203" rend="inline">蠱毒之鬼蠱滅報盡生於世間
+<lb ed="P" n="0775b03"/>多為毒類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0775b0305" rend="inline"><note place="inline">怨習之報鬼作蠱毒畜為毒類即蚖虵蝮蝎之
+<lb ed="P" n="0775b04"/>類</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0775b0402" rend="inline">衰癘之鬼衰窮報盡生於世間
+<lb ed="P" n="0775b05"/>多為蛔類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0775b0505" rend="inline"><note place="inline">瞋習之因鬼為衰癘託災附禍便入身中轉受
+<lb ed="P" n="0775b06"/>畜形還託身內為蛔蟯也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0775b0611" rend="inline">受氣之鬼氣銷報盡
+<lb ed="P" n="0775b07"/>生於世間多為食類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0775b0709" rend="inline"><note place="inline">餓鬼附氣慢習是因鬼受
+<lb ed="P" n="0775b08"/>飢虛畜充他飽故為食類即世間可食之畜也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0775b0819" rend="inline">綿幽之鬼
+<lb ed="P" n="0775b09"/>幽銷報盡生於世間多為服類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0775b0913" rend="inline"><note place="inline">宿因
+<lb ed="P" n="0775b10"/>誑習鬼為魘暗幽默既銷畜為服類即駝驢牛馬蚕蠒之類為人服
+<pb ed="P" xml:id="P168.1581.0776a" n="0776a"/>
+<lb ed="P" n="0776a01"/>用也緜即綿密不明露也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0776a0111" rend="inline">和精之鬼和銷報盡
+<lb ed="P" n="0776a02"/>生於世間多為應類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0776a0209" rend="inline"><note place="inline">因為見習鬼作魍魎精耀
+<lb ed="P" n="0776a03"/>之物既盡為畜便成應類即應四時節序來而復鳴者言和者雜也
+<lb ed="P" n="0776a04"/>雜精明處而成鬼也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0776a0409" rend="inline">明靈之鬼明滅報盡生
+<lb ed="P" n="0776a05"/>於世間多為休徵一切諸類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0776a0512" rend="inline"><note place="inline">即前枉習
+<lb ed="P" n="0776a06"/>鬼託明生為伇使類鬼道業盡畜報休徵休美也休祥將至預有此
+<lb ed="P" n="0776a07"/>徵由他美行之所招也即麟鳳之類也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0776a0716" rend="inline">依人之鬼人
+<lb ed="P" n="0776a08"/>亡報盡生於世間多為循類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0776a0812" rend="inline"><note place="inline">訟習之因
+<lb ed="P" n="0776a09"/>鬼招傳送人死為畜報在黠慧故云循類即人所畜養循順之類○
+<lb ed="P" n="0776a10"/>解孤山曰梟類昔為鬼則附物為質今為禽則附塊成形咎類如鵂
+<pb ed="P" xml:id="P168.1581.0776b" n="0776b"/>
+<lb ed="P" n="0776b01"/>鶹鵩鳥出表凶衰為其禍驗狐類附畜為魅死受狐身還遭鬼附毒
+<lb ed="P" n="0776b02"/>類即虵蝎之屬蛔類即身內蟯蛔食類謂猪羊等可充庖者服類謂
+<lb ed="P" n="0776b03"/>牛馬等易曰服牛乘馬負重致遠應類能應節候即社燕實鴻司晨
+<lb ed="P" n="0776b04"/>警露者也休類有道則現若麟鳳等循類從人養育如猫犬等十並
+<lb ed="P" n="0776b05"/>云多者取其業因相類多分為之未必皆爾</note>。</p></cb:div>
+<lb ed="P" n="0776b06"/><cb:div type="orig"><p xml:id="pP168p0776b0601">阿難是等皆以業火乾枯酬其宿
+<lb ed="P" n="0776b07"/>債傍為畜生此等亦皆自虛妄業
+<lb ed="P" n="0776b08"/>之所招引若悟菩提則此妄緣本
+<lb ed="P" n="0776b09"/>無所有。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0776b0904" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>獄鬼二趣業火燒畢情想乾枯今為畜生酬償餘
+<lb ed="P" n="0776b10"/>業故云旁為妄想故有覺性元無猶如圓影眚病故見</note>。</p></cb:div>
+<pb ed="P" xml:id="P168.1581.0777a" n="0777a"/>
+<lb ed="P" n="0777a01"/><cb:div type="orig"><p xml:id="pP168p0777a0101">如汝所言寶蓮香等及瑠璃王善
+<lb ed="P" n="0777a02"/>星比丘如是惡業本自發明非從
+<lb ed="P" n="0777a03"/>天降亦非地出亦非人與自妄所
+<lb ed="P" n="0777a04"/>招還自來受菩提心中皆為浮虛
+<lb ed="P" n="0777a05"/>妄想凝結。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0777a0505" rend="inline"><note place="inline">所問三緣是彼人等各自虛妄造業發生不由
+<lb ed="P" n="0777a06"/>他有故云本自非天降等妄造妄受覺性之中皆如空華</note>。</p></cb:div>
+<lb ed="P" n="0777a07"/><cb:div type="orig"><p xml:id="pP168p0777a0701">復次阿難從是畜生酬償先債若
+<lb ed="P" n="0777a08"/>彼酬者分越所酬此等眾生還復
+<lb ed="P" n="0777a09"/>為人返徵其剩。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0777a0907" rend="inline"><note place="inline">分越者過分也不依本分越過而行
+<lb ed="P" n="0777a10"/>謂非理苦伇不問輕重或晝夜不息食噉無度如是等類悉合返徵
+<pb ed="P" xml:id="P168.1581.0777b" n="0777b"/>
+<lb ed="P" n="0777b01"/>其剩今有恃尊貴以縱恣倚豪勢以奢侈貪其力而多伇取其味而
+<lb ed="P" n="0777b02"/>枉殺不捨晨暮罔測勞苦福盡徵剩其宜者哉○解分越所酬謂驅
+<lb ed="P" n="0777b03"/>伇則晝夜不息烹炮則殺害過分也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0777b0315" rend="inline">如彼有力兼有
+<lb ed="P" n="0777b04"/>福德則於人中不捨人身酬還彼
+<lb ed="P" n="0777b05"/>力若無福者還為畜生償彼餘直。</p></cb:div>
+<lb ed="P" n="0777b06"/><cb:div type="commentary"><p xml:id="pP168p0777b0601"><note place="inline"><g ref="#CB00562">䟽</g>其有修善而崇福者只於人身酬彼力矣今見積善之家財物多
+<lb ed="P" n="0777b07"/><g ref="#CB08429">𣮉</g>或被劫盜或被欠負或橫遭驅伇或枉受捶打斯皆先業合捨此
+<lb ed="P" n="0777b08"/>身為畜酬剩由樹福德人中略償若成畜者蓋無善矣○標分越者
+<lb ed="P" n="0777b09"/>謂非理苦伇水草飲食不時與之○解如彼有力謂有修定學慧之
+<lb ed="P" n="0777b10"/>力也不捨人身則為彼奴婢或遭其劫殺等</note>。</p></cb:div>
+<pb ed="P" xml:id="P168.1581.0778a" n="0778a"/>
+<lb ed="P" n="0778a01"/><cb:div type="orig"><p xml:id="pP168p0778a0101">阿難當知若用錢物或伇其力償
+<lb ed="P" n="0778a02"/>足自停如於中間殺彼身命或食
+<lb ed="P" n="0778a03"/>其肉如是乃至經微塵劫相食相
+<lb ed="P" n="0778a04"/>誅猶如轉輪互為高下無有休息
+<lb ed="P" n="0778a05"/>除奢摩他及佛出世不可停寢。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0778a0513" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>汝
+<lb ed="P" n="0778a06"/>負他財他欠汝力今既酬償償足自止世養牛馬是此類也如故殺
+<lb ed="P" n="0778a07"/>彼食其身肉斯則翻成殺業身身相取命命相酬以人食羊羊死為
+<lb ed="P" n="0778a08"/>人互來相責無有休止以諸業中殺命最重不值佛出修奢摩他必
+<lb ed="P" n="0778a09"/>不能息○標除修行止觀不可息也○解私謂奢摩他及佛出世此
+<lb ed="P" n="0778a10"/>約修定破惑見佛得道方免相害縱有宿業所作不亡至果償之若
+<pb ed="P" xml:id="P168.1581.0778b" n="0778b"/>
+<lb ed="P" n="0778b01"/>幻化之非實也</note>。</p></cb:div>
+<lb ed="P" n="0778b02"/><cb:div type="orig"><p xml:id="pP168p0778b0201">汝今應知彼梟倫者酬足復形生
+<lb ed="P" n="0778b03"/>人道中叅合頑類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0778b0308" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>因於貪物鬼託怪形畜在土
+<lb ed="P" n="0778b04"/>梟附塊而養今歸人趣其形類蒙雖在頑嚚心忘德義蓋因之故然
+<lb ed="P" n="0778b05"/>也而言叅合者夫人道受報善因所招緫報雖同滿業各異故分十
+<lb ed="P" n="0778b06"/>種今此從畜來者乃是餘業旁受非正善業所招然亦順後業感由
+<lb ed="P" n="0778b07"/>不正故故言叅合他皆倣此</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0778b0712" rend="inline">彼咎徵者酬足復
+<lb ed="P" n="0778b08"/>形生人道中叅合愚類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0778b0810" rend="inline"><note place="inline">始因貪欲鬼受魃形
+<lb ed="P" n="0778b09"/>上為畜生災咎之應業盡復本叅在愚類以欲多者不習別善但專
+<lb ed="P" n="0778b10"/>一境由不習善故招愚鈍頑愚別者頑謂知善不從同受教誨愚謂
+<pb ed="P" xml:id="P168.1581.0779a" n="0779a"/>
+<lb ed="P" n="0779a01"/>暝然昬暗識鈍難明有此異耳</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0779a0113" rend="inline">彼狐倫者酬足復
+<lb ed="P" n="0779a02"/>形生人道中叅於佷類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0779a0210" rend="inline"><note place="inline">因從詐習鬼為畜魅
+<lb ed="P" n="0779a03"/>類入旁生狐狸所攝今為人趣叅在佷戾自用之徒不受諫曉也</note>。</p></cb:div>
+<lb ed="P" n="0779a04"/><cb:div type="orig"><p xml:id="pP168p0779a0401">彼毒倫者酬足復形生人道中叅
+<lb ed="P" n="0779a05"/>合庸類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0779a0504" rend="inline"><note place="inline">怨習是因鬼為蠱毒旁受畜類虵蝎是形還生人道
+<lb ed="P" n="0779a06"/>雜乎庸類即庸鄙之流性麤率者</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0779a0614" rend="inline">彼蛔倫者酬足
+<lb ed="P" n="0779a07"/>復形生人道中叅合微類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0779a0711" rend="inline"><note place="inline">瞋習為因鬼居
+<lb ed="P" n="0779a08"/>衰癘蟯蛔受畜微末為人即不為人之所齒緣者也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0779a0821" rend="inline">彼食倫
+<lb ed="P" n="0779a09"/>者酬足復形生人道中叅合柔類。</p></cb:div>
+<lb ed="P" n="0779a10"/><cb:div type="commentary"><p xml:id="pP168p0779a1001"><note place="inline">慢習是因鬼招飢餓結氣而作無實體性畜受食類人為柔弱蓋因
+<pb ed="P" xml:id="P168.1581.0779b" n="0779b"/>
+<lb ed="P" n="0779b01"/>我慢貢高反招柔怯之報</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0779b0111" rend="inline">彼服倫者酬足復形
+<lb ed="P" n="0779b02"/>生人道中叅合勞類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0779b0209" rend="inline"><note place="inline">誑習為因鬼從幽魘畜為
+<lb ed="P" n="0779b03"/>服用人受劬勞伇力艱辛工巧之屬</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0779b0315" rend="inline">彼應倫者酬足
+<lb ed="P" n="0779b04"/>復形生人道中叅於文類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0779b0411" rend="inline"><note place="inline">因從見習鬼落
+<lb ed="P" n="0779b05"/>和精魍魎報終畜為時應叅於人道微有文章非正習因故云叅合</note>。</p></cb:div>
+<lb ed="P" n="0779b06"/><cb:div type="orig"><p xml:id="pP168p0779b0601">彼休徵者酬足復形生人道中叅
+<lb ed="P" n="0779b07"/>合明類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0779b0704" rend="inline"><note place="inline">枉習為業鬼受明靈驅伇疾馳無暫停止畜招休應
+<lb ed="P" n="0779b08"/>人雜聦明考果從因必無差忒</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0779b0813" rend="inline">彼諸循倫酬足復
+<lb ed="P" n="0779b09"/>形生人道中叅於達類。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0779b0910" rend="inline"><note place="inline">因由訟習鬼作依人
+<lb ed="P" n="0779b10"/>傳附神辭發顯禍福畜招馴黠人達窮通寵辱不驚安然自得故名
+<pb ed="P" xml:id="P168.1581.0780a" n="0780a"/>
+<lb ed="P" n="0780a01"/>達類○解頑如檮杌愚謂顓蒙佷即儱<g ref="#CB00128">㑦</g>不調庸乃鄙俗無識微同
+<lb ed="P" n="0780a02"/>皂<g ref="#CB09080">𨽾</g>柔若脂韋農工之民服其勞也藻翰之士主其文也明則於事
+<lb ed="P" n="0780a03"/>聦察達則與道窮通資中復以本習并鬼畜之倫解此十類事非顯
+<lb ed="P" n="0780a04"/>要故且置之</note>。</p></cb:div>
+<lb ed="P" n="0780a05"/><cb:div type="orig"><p xml:id="pP168p0780a0501">阿難是等皆以宿債酬畢復形人
+<lb ed="P" n="0780a06"/>道皆無始來業計顛倒相生相殺
+<lb ed="P" n="0780a07"/>不遇如來不聞正法於塵勞中法
+<lb ed="P" n="0780a08"/>爾輪轉此輩名為可憐愍者。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0780a0812" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>獄鬼畜
+<lb ed="P" n="0780a09"/>中酬償先業三塗報盡還復人身順後善業所招隨別復分十類如
+<lb ed="P" n="0780a10"/>是皆為顛倒輪轉欲息顛倒唯戒定慧無此三種不息輪回佛若不
+<pb ed="P" xml:id="P168.1581.0780b" n="0780b"/>
+<lb ed="P" n="0780b01"/>出誰說此法令其修學免輪回耶</note>。</p></cb:div>
+<lb ed="P" n="0780b02"/><cb:div type="orig"><p xml:id="pP168p0780b0201">阿難復有從人不依正覺修三摩
+<lb ed="P" n="0780b03"/>地別修妄念存想固形遊於山林
+<lb ed="P" n="0780b04"/>人不及處有十種仙。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0780b0409" rend="inline"><note place="inline">不依正覺者三乘行法皆
+<lb ed="P" n="0780b05"/>佛所教今經尚斥二乘云不識生死根本錯亂修習況修仙道耶存
+<lb ed="P" n="0780b06"/>想固形者存心在於長生不死俾此形骸堅固不壞也所修妄念即
+<lb ed="P" n="0780b07"/>下十種修鍊之法也此皆有漏進不如天退又勝人故居山林人不
+<lb ed="P" n="0780b08"/>及處名為仙趣然此一趣餘經不出以緫報同人故今經說者約所
+<lb ed="P" n="0780b09"/>修行別故人天二趣所不攝故此皆外道類收然亦禁防非佛正戒
+<lb ed="P" n="0780b10"/>但禁麤浮即戒禁取也○解孤山曰釋名云老而不死曰仙仙遷也
+<pb ed="P" xml:id="P168.1581.0781a" n="0781a"/>
+<lb ed="P" n="0781a01"/>遷入山也故制字人傍山也抱朴子云求仙者要當以忠孝和順仁
+<lb ed="P" n="0781a02"/>信為本若德不修而但務方術終不得長生也</note>。</p></cb:div>
+<lb ed="P" n="0781a03"/><cb:div type="orig"><p xml:id="pP168p0781a0301">阿難彼諸眾生堅固服餌而不休
+<lb ed="P" n="0781a04"/>息食道圓成名地行仙。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0781a0410" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>服餌者即食麻仁
+<lb ed="P" n="0781a05"/>草木之實存形長久一期壽永輕舉未能此道若成名地行仙也</note>。</p></cb:div>
+<lb ed="P" n="0781a06"/><cb:div type="orig"><p xml:id="pP168p0781a0601">堅固草木而不休息藥道圓成名
+<lb ed="P" n="0781a07"/>飛行仙。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0781a0704" rend="inline"><note place="inline">草木者即飡松敢栢之類草木輕故餌即體輕由是
+<lb ed="P" n="0781a08"/>飛行不墜於地</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0781a0807" rend="inline">堅固金石而不休息化道
+<lb ed="P" n="0781a09"/>圓成名游行仙。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0781a0907" rend="inline"><note place="inline">金石者服丹砂成九轉之類化有二
+<lb ed="P" n="0781a10"/>種一能化骨令壽永體堅二能化物俾賤作貴此道苟成遊戲人間
+<pb ed="P" xml:id="P168.1581.0781b" n="0781b"/>
+<lb ed="P" n="0781b01"/>濟貧恤苦得大自在也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0781b0110" rend="inline">堅固動止而不休息
+<lb ed="P" n="0781b02"/>氣精圓成名空行仙。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0781b0209" rend="inline"><note place="inline">消息養和運用榮衛神氣
+<lb ed="P" n="0781b03"/>久著能履虛空功用既成身堅壽永名空行仙</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0781b0319" rend="inline">堅固津液
+<lb ed="P" n="0781b04"/>而不休息潤德圓成名天行仙。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0781b0413" rend="inline"><note place="inline">鼓天
+<lb ed="P" n="0781b05"/>池燕津液固精華歲久功著遂成潤德言天行者此非六欲乃是世
+<lb ed="P" n="0781b06"/>人謂靈仙居處名之為天如張騫尋河源至崑崙見天宮之類或所
+<lb ed="P" n="0781b07"/>行不交欲境如天無異故云天行</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0781b0714" rend="inline">堅固精色而不
+<lb ed="P" n="0781b08"/>休息吸粹圓成名通行仙。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0781b0811" rend="inline"><note place="inline">吞飲日月精氣
+<lb ed="P" n="0781b09"/>作意存變以延身命由是功久遂有異見通以物精故云通行</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0781b0925" rend="inline">堅
+<lb ed="P" n="0781b10"/>固呪禁而不休息衍法圓成名道
+<pb ed="P" xml:id="P168.1581.0782a" n="0782a"/>
+<lb ed="P" n="0782a01"/>行仙。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0782a0103" rend="inline"><note place="inline">呪禁正是仙法道術以此持身延而且固術力成就名為
+<lb ed="P" n="0782a02"/>道行</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0782a0203" rend="inline">堅固思念而不休息思憶圓成
+<lb ed="P" n="0782a03"/>名照行仙。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0782a0305" rend="inline"><note place="inline">念緣前境繫心不忘專注弗移久而發用照明
+<lb ed="P" n="0782a04"/>境界咸悉化源如定發慧故名照行</note>。</p></cb:div><cb:div type="orig"><p xml:id="pP168p0782a0415" rend="inline">堅固交遘而不
+<lb ed="P" n="0782a05"/>休息感應圓成名精行仙。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0782a0511" rend="inline"><note place="inline">世有採陰陽之
+<lb ed="P" n="0782a06"/>術名為交遘久而功成此感彼應吸彼精氣以固我身故名精行</note>。</p></cb:div>
+<lb ed="P" n="0782a07"/><cb:div type="orig"><p xml:id="pP168p0782a0701">堅固變化而不休息覺悟圓成名
+<lb ed="P" n="0782a08"/>絕行仙。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0782a0804" rend="inline"><note place="inline">存想世間皆成變化境既變化心想亦亡猶如槁木
+<lb ed="P" n="0782a09"/>有為功用暫得如是故云絕行如上十類皆云行者曰久成功通流
+<lb ed="P" n="0782a10"/>故也○解真際曰地行者以服餌丹砂存形久固道雖成就身不能
+<pb ed="P" xml:id="P168.1581.0782b" n="0782b"/>
+<lb ed="P" n="0782b01"/>飛飛行者餐松噉栢閑澹沖和體既輕清故能飛舉遊行者精窮變
+<lb ed="P" n="0782b02"/>化察物性元點石為金恤貧哀苦遊於人世空行者運用神氣想化
+<lb ed="P" n="0782b03"/>為功其德圓成履空自在天行者燕津固質攝術持精欲境不交如
+<lb ed="P" n="0782b04"/>天無異通行者吸呼日氣潤益姿容吞彼霞光將延世表其道玄著
+<lb ed="P" n="0782b05"/>故曰通行道行者習諸呪術禁彼異緣術力既成流功益物照行者
+<lb ed="P" n="0782b06"/>用其思念審度境心憶想功成能知彼境即世間他心宿住通耳精
+<lb ed="P" n="0782b07"/>行者運心交互感赴無遺此念彼來彼念此至相應妙極故曰精行
+<lb ed="P" n="0782b08"/>絕行者物境之上洞了化源窮克性情覺悟無惑也孤山曰此十仙
+<lb ed="P" n="0782b09"/>義未能頓異且依古釋</note>。</p></cb:div>
+<lb ed="P" n="0782b10"/><cb:div type="orig"><p xml:id="pP168p0782b1001">阿難是等皆於人中鍊心不修正
+<pb ed="P" xml:id="P168.1581.0783a" n="0783a"/>
+<lb ed="P" n="0783a01"/>覺別得生理壽千萬歲休止深山
+<lb ed="P" n="0783a02"/>或大海島絕於人境斯亦輪回妄
+<lb ed="P" n="0783a03"/>想流轉不修三昧報盡還來散入
+<lb ed="P" n="0783a04"/>諸趣。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0783a0403" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>生理謂長生之理即上十種修鍊之法也言人中者以
+<lb ed="P" n="0783a05"/>仙趣無別緫報即於人身緫報果上加以前來十種修鍊轉成仙也
+<lb ed="P" n="0783a06"/>妄想不真終隨禁墜○標人間千萬歲未及四空天一晝夜先聖云
+<lb ed="P" n="0783a07"/>饒經八萬劫終是落空亡耳○解私謂前文情少想多輕舉飛遠即
+<lb ed="P" n="0783a08"/>為飛仙蓋約命終隨業受生而說下文云精研七趣皆是昏沉諸有
+<lb ed="P" n="0783a09"/>為相妄想受生妄想隨業而云仙趣無別緫報者此義不然況復今
+<lb ed="P" n="0783a10"/>云深山海島絕於人境豈非別乎應知人中鍊心者非止服餌養生
+<pb ed="P" xml:id="P168.1581.0783b" n="0783b"/>
+<lb ed="P" n="0783b01"/>而<anchor xml:id="beg_13d" type="cb-app"/>已<anchor xml:id="end_13d"/>必兼戒善方曰鍊心別得生理者正由人中之業別感仙趣之
+<lb ed="P" n="0783b02"/>報也以其業種之性經生不失故曰生理縱於人間現得長生久視
+<lb ed="P" n="0783b03"/>之理其數幾何若生仙趣則千萬歲信有之矣如山海經云崑崙之
+<lb ed="P" n="0783b04"/>山廣都之埜軒轅之丘不死之國氣不寒暑人皆數千歲此亦眾私
+<lb ed="P" n="0783b05"/>同分非無定處若但固形而不鍊心便希千歲是猶見夘而求時夜
+<lb ed="P" n="0783b06"/>太早計也故黃帝葬于嶠山老子瘞于槐里劉安伏鉞而死張陵遭
+<lb ed="P" n="0783b07"/>蟒而終世稱神仙者不亦惑乎</note>。</p></cb:div>
+<lb ed="P" n="0783b08"/><cb:div type="orig"><p xml:id="pP168p0783b0801">阿難諸世間人不求常住未能捨
+<lb ed="P" n="0783b09"/>諸妻妾恩愛於邪淫中心不流逸
+<lb ed="P" n="0783b10"/>澄鎣生明命終之後隣於日月如
+<pb ed="P" xml:id="P168.1581.0784a" n="0784a"/>
+<lb ed="P" n="0784a01"/>是一類名四天王天。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0784a0109" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>不求常住即不修正覺
+<lb ed="P" n="0784a02"/>也無定力故不能捨愛有善戒故心不流逸善根力故心澄身明此
+<lb ed="P" n="0784a03"/>則澄鎣欲心發生明性此人命終生須彌半隣日月宮所有天眾皆
+<lb ed="P" n="0784a04"/>此天管○標須彌山半腹出海四萬由旬日月從四天王宮旋遶照
+<lb ed="P" n="0784a05"/>四天下上有四萬由旬至忉利天○解孤山曰邪欲心息故澄鎣戒
+<lb ed="P" n="0784a06"/>支清淨故生明</note>。</p></cb:div>
+<lb ed="P" n="0784a07"/><cb:div type="orig"><p xml:id="pP168p0784a0701">於<anchor xml:id="beg_13e" type="cb-app"/>己<anchor xml:id="end_13e"/>妻房淫愛微薄於淨居時不
+<lb ed="P" n="0784a08"/>得全味命終之後超日月明居人
+<lb ed="P" n="0784a09"/>間頂如是一類名忉利天。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0784a0911" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>欲愛漸微於
+<lb ed="P" n="0784a10"/><anchor xml:id="beg_13f" type="cb-app"/>己<anchor xml:id="end_13f"/>室家亦減愛欲故無全味味著也言淨居者不由雜穢揀異行邪
+<pb ed="P" xml:id="P168.1581.0784b" n="0784b"/>
+<lb ed="P" n="0784b01"/>也超日月者以善增故愛心又減身則又昇故生忉利忉利此云三
+<lb ed="P" n="0784b02"/>十三帝釋居處也○標帝釋居處在須彌盧山頂四角都有三十二
+<lb ed="P" n="0784b03"/>天唯帝釋為主○解以上二天皆依須彌名地居天也</note>。</p></cb:div>
+<lb ed="P" n="0784b04"/><cb:div type="orig"><p xml:id="pP168p0784b0401">逢欲暫交去無思憶於人間事動
+<lb ed="P" n="0784b05"/>少靜多命終之後於虛空中朗然
+<lb ed="P" n="0784b06"/>安住日月光明上照不及是諸人
+<lb ed="P" n="0784b07"/>等自有光明如是一類名須燄摩
+<lb ed="P" n="0784b08"/>天。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0784b0802" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>未離欲心逢境暫遘漸薄於下故云去無思憶逢欲猶交故
+<lb ed="P" n="0784b09"/>云動少去無思憶故云靜多斯行又增身則又勝故生時分燄摩云
+<lb ed="P" n="0784b10"/>時分此是空居初天也○解時分天蓋時時唱快樂故</note>。</p></cb:div>
+<pb ed="P" xml:id="P168.1581.0785a" n="0785a"/>
+<lb ed="P" n="0785a01"/><cb:div type="orig"><p xml:id="pP168p0785a0101">一切時靜有應觸來未能違戾命
+<lb ed="P" n="0785a02"/>終之後上昇精微不接下界諸人
+<lb ed="P" n="0785a03"/>天境乃至劫壞三災不及如是一
+<lb ed="P" n="0785a04"/>類名兜率陀天。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0785a0407" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>行勝於前故云一切時靜應觸者
+<lb ed="P" n="0785a05"/>應謂相應觸即欲境尚猶順而從之故云未能違戾命終漸勝故生
+<lb ed="P" n="0785a06"/>此天上升精微等者即約一生福處菩薩所居器說以同名兜率故
+<lb ed="P" n="0785a07"/>此云知足○標此天三災不及若凡夫福感劫火能壞之也○解能
+<lb ed="P" n="0785a08"/>於五欲知止足故</note>。</p></cb:div>
+<lb ed="P" n="0785a09"/><cb:div type="orig"><p xml:id="pP168p0785a0901">我無欲心應汝行事於橫陳時味
+<lb ed="P" n="0785a10"/>如嚼蠟命終之後生越化地如是
+<pb ed="P" xml:id="P168.1581.0785b" n="0785b"/>
+<lb ed="P" n="0785b01"/>一類名樂變化天。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0785b0108" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>無心於境境自橫來境自有
+<lb ed="P" n="0785b02"/>心<anchor xml:id="beg_140" type="cb-app"/>已<anchor xml:id="end_140"/>何所未故云味如嚼蠟等以樂變化五欲之境而受用故○標
+<lb ed="P" n="0785b03"/>下之諸天衣食所須尚假自化此天所受用思念即生</note>。</p></cb:div>
+<lb ed="P" n="0785b04"/><cb:div type="orig"><p xml:id="pP168p0785b0401">無世間心同世行事於行事交了
+<lb ed="P" n="0785b05"/>然超越命終之後遍能出超化無
+<lb ed="P" n="0785b06"/>化境如是一類名他化自在天。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0785b0613" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>行
+<lb ed="P" n="0785b07"/>事交者此亦橫陳也前雖亡味會境猶起欲心此則無心故云了然
+<lb ed="P" n="0785b08"/>超越然今且約無麤相說豈亡微細愛欲以未離欲界故化無化者
+<lb ed="P" n="0785b09"/>化即第五天無化即下諸天俱舍云樂受用他所變化五欲境故以
+<lb ed="P" n="0785b10"/>有自在力遣他變化而受用之故云他化自在上之六天皆因欲心
+<pb ed="P" xml:id="P168.1581.0786a" n="0786a"/>
+<lb ed="P" n="0786a01"/>漸輕得報漸勝若情欲重者必不生天俱舍頌云六受欲交抱執手
+<lb ed="P" n="0786a02"/>笑視既亦明受欲輕相也○標此天所須受用不思而至○解化無
+<lb ed="P" n="0786a03"/>化境者第五天是化境下四天是無化境以上四天悉是空居私謂
+<lb ed="P" n="0786a04"/>凖天台說六欲天業皆以十善為本若兼護法心是四天王業若兼
+<lb ed="P" n="0786a05"/>慈化人是忉利天業若兼不惱眾生善巧純熟是燄摩天業若兼修
+<lb ed="P" n="0786a06"/>禪定麤住細住是兜率天業欲界定是變化天業未到定是他化天
+<lb ed="P" n="0786a07"/>業今經止約欲事輕重而分六天者應有二義一是阿難起教之緣
+<lb ed="P" n="0786a08"/>故二是欲界受生之本故意令持戒亦扶律之微旨也</note>。</p></cb:div>
+<lb ed="P" n="0786a09"/><cb:div type="orig"><p xml:id="pP168p0786a0901">阿難如是六天形雖出動心迹尚
+<lb ed="P" n="0786a10"/>交自此<anchor xml:id="beg_141" type="cb-app"/>已<anchor xml:id="end_141"/>還名為欲界。</p></cb:div><cb:div type="commentary"><p xml:id="pP168p0786a1010" rend="inline"><note place="inline"><g ref="#CB00562">䟽</g>此之六天身有光
+<pb ed="P" xml:id="P168.1581.0786b" n="0786b"/>
+<lb ed="P" n="0786b01"/>明飛行自在壽命長遠漸增漸勝不同下之人趣故云形雖出動又
+<lb ed="P" n="0786b02"/>人趣雜類壽命短促遷變不常天之福命卒難搖動故云出動尚有
+<lb ed="P" n="0786b03"/>欲境相違故云心迹尚交若至定地永無欲對矣○解形雖出動此
+<lb ed="P" n="0786b04"/>對人仙二趣得出動之名心迹尚交謂欲心事迹猶有交合之相故
+<lb ed="P" n="0786b05"/>俱舍頌曰六受欲交抱執手笑視淫此言地居雨天則形交燄摩則
+<lb ed="P" n="0786b06"/>勾抱兜率則執手變化則對笑他化則相視須知彼文各據六天受
+<lb ed="P" n="0786b07"/>欲而說今經秪就人中辨欲事輕重用顯六天感報不同以是應作
+<lb ed="P" n="0786b08"/>四句料揀一形交心不交即此經第六亦通第五也二心交形不交
+<lb ed="P" n="0786b09"/>即俱舍後二也三心形俱交即經與俱舍皆前四也曰心形俱不交
+<lb ed="P" n="0786b10"/>如初禪以上也</note>。</p></cb:div></cb:div>
+<pb ed="P" xml:id="P168.1581.0787a" n="0787a"/>
+<lb ed="P" n="0787a01"/><cb:juan fun="close" n="24"><cb:jhead>首楞嚴經義海卷第二十四　牧四</cb:jhead></cb:juan>
+<lb ed="P" n="0787a02"/>
+<lb ed="P" n="0787a03"/>
+<lb ed="P" n="0787a04"/><cb:div type="w"><head>音釋</head>
+<lb ed="P" n="0787a05"/><cb:div type="note"><entry><form>攬</form><cb:def><p xml:id="pP168p0787a0502" rend="margin-left:1em;inline"><note place="inline">盧敢切</note>。</p></cb:def></entry><entry cb:place="inline"><form>頞</form><cb:def><p xml:id="pP168p0787a0506" rend="margin-left:1em;inline"><note place="inline">阿葛切</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor">嚯</term></form><cb:def><p xml:id="pP168p0787a0510" rend="margin-left:1em;inline"><note place="inline">許略切</note>。</p></cb:def></entry><entry cb:place="inline"><form>忤</form><cb:def><p xml:id="pP168p0787a0514" rend="margin-left:1em;inline"><note place="inline">五故切逆也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor"><g ref="#CB21939">󵖳</g></term></form><cb:def><p xml:id="pP168p0787a0520" rend="margin-left:1em;inline"><note place="inline">王伐切大
+<lb ed="P" n="0787a06"/>斧也</note>。</p></cb:def></entry><entry cb:place="inline"><form>鎗</form><cb:def><p xml:id="pP168p0787a0604" rend="margin-left:1em;inline"><note place="inline">七羊切稍也</note>。</p></cb:def></entry><entry cb:place="inline"><form>鋸</form><cb:def><p xml:id="pP168p0787a0610" rend="margin-left:1em;inline"><note place="inline">居御切刀鋸也</note>。</p></cb:def></entry><entry cb:place="inline"><form>剉刺</form><cb:def><p xml:id="pP168p0787a0618" rend="margin-left:1em;inline"><note place="inline">剉初臥切剁斫也<term rend="no_nor"><g ref="#CB02863">㓨</g></term>七自
+<lb ed="P" n="0787a07"/>切直傷也</note>。</p></cb:def></entry><entry cb:place="inline"><form>槌</form><cb:def><p xml:id="pP168p0787a0706" rend="margin-left:1em;inline"><note place="inline">直追切擊也</note>。</p></cb:def></entry><entry cb:place="inline"><form>戮</form><cb:def><p xml:id="pP168p0787a0712" rend="margin-left:1em;inline"><note place="inline">音六殺也</note>。</p></cb:def></entry><entry cb:place="inline"><form>誘</form><cb:def><p xml:id="pP168p0787a0717" rend="margin-left:1em;inline"><note place="inline">以九切導也</note>。</p></cb:def></entry><entry cb:place="inline"><form>絞校</form><cb:def><p xml:id="pP168p0787a0724" rend="margin-left:1em;inline"><note place="inline">絞古
+<lb ed="P" n="0787a08"/>巧切縛也校居<term rend="no_nor">効</term>切木囚也</note>。</p></cb:def></entry><entry cb:place="inline"><form>撾棒</form><cb:def><p xml:id="pP168p0787a0814" rend="margin-left:1em;inline"><note place="inline">撾陟瓜切箠也棒蒲項切杖也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor"><g ref="#CB21940">󵖴</g></term></form><cb:def><p xml:id="pP168p0787a0827" rend="margin-left:1em;inline"><note place="inline">鋤咸
+<lb ed="P" n="0787a09"/>切譖毀也</note>。</p></cb:def></entry><entry cb:place="inline"><form>虺</form><cb:def><p xml:id="pP168p0787a0906" rend="margin-left:1em;inline"><note place="inline">許鬼切蝮蛇也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor">礰</term></form><cb:def><p xml:id="pP168p0787a0913" rend="margin-left:1em;inline"><note place="inline">正作礫狼秋切瓦礫也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor">幞</term></form><cb:def><p xml:id="pP168p0787a0923" rend="margin-left:1em;inline"><note place="inline">逢土切帕<unclear></unclear>也</note>。</p></cb:def></entry>
+<lb ed="P" n="0787a10"/><entry><form>擒</form><cb:def><p xml:id="pP168p0787a1002" rend="margin-left:1em;inline"><note place="inline">巨金切捉也</note>。</p></cb:def></entry><entry cb:place="inline"><form>挽撮</form><cb:def><p xml:id="pP168p0787a1009" rend="margin-left:1em;inline"><note place="inline">挽無綰切撮宗括切</note>。</p></cb:def></entry><entry cb:place="inline"><form>鴆</form><cb:def><p xml:id="pP168p0787a1018" rend="margin-left:1em;inline"><note place="inline">直禁切</note>。</p></cb:def></entry><entry cb:place="inline"><form>鞠</form><cb:def><p xml:id="pP168p0787a1022" rend="margin-left:1em;inline"><note place="inline">居六切推
+<pb ed="P" xml:id="P168.1581.0787b" n="0787b"/>
+<lb ed="P" n="0787b01"/>窮也</note>。</p></cb:def></entry><entry cb:place="inline"><form>碾磑</form><cb:def><p xml:id="pP168p0787b0105" rend="margin-left:1em;inline"><note place="inline">碾女箭切轢物<term rend="no_nor">噐</term>也磑五對切<term rend="no_nor"><g ref="#CB08285">䃺</g></term>也</note>。</p></cb:def></entry><entry cb:place="inline"><form>捺</form><cb:def><p xml:id="pP168p0787b0120" rend="margin-left:1em;inline"><note place="inline">乃曷切手按也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor">礔礰</term></form>
+<lb ed="P" n="0787b02"/><cb:def><p xml:id="pP168p0787b0201" rend="margin-left:1em"><note place="inline">礔匹歷切礰郎擊切<term rend="no_nor">礔礰</term>與霹靂同</note>。</p></cb:def></entry><entry cb:place="inline"><form>煽</form><cb:def><p xml:id="pP168p0787b0216" rend="margin-left:1em;inline"><note place="inline">式戰切烈熾相扇也</note>。</p></cb:def></entry><entry cb:place="inline"><form>愗</form><cb:def><p xml:id="pP168p0787b0225" rend="margin-left:1em;inline"><note place="inline">莫候切猶<term rend="no_nor">惽</term>也</note>。</p></cb:def></entry>
+<lb ed="P" n="0787b03"/><entry><form><term rend="no_nor">齅</term></form><cb:def><p xml:id="pP168p0787b0302" rend="margin-left:1em;inline"><note place="inline">許救切以鼻攬氣也</note>。</p></cb:def></entry><entry cb:place="inline"><form>餒</form><cb:def><p xml:id="pP168p0787b0311" rend="margin-left:1em;inline"><note place="inline">奴罪切飢也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor">矟</term></form><cb:def><p xml:id="pP168p0787b0317" rend="margin-left:1em;inline"><note place="inline">所角切矛屬</note>。</p></cb:def></entry><entry cb:place="inline"><form>剚</form><cb:def><p xml:id="pP168p0787b0323" rend="margin-left:1em;inline"><note place="inline">側義切插
+<lb ed="P" n="0787b04"/><term rend="no_nor">刅</term>也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor"><g ref="#CB21930">󵖪</g></term></form><cb:def><p xml:id="pP168p0787b0404" rend="margin-left:1em;inline"><note place="inline">蒲撥切旱鬼也</note>。</p></cb:def></entry><entry cb:place="inline"><form>剩</form><cb:def><p xml:id="pP168p0787b0411" rend="margin-left:1em;inline"><note place="inline">實證切餘也</note>。</p></cb:def></entry><entry cb:place="inline"><form>餌</form><cb:def><p xml:id="pP168p0787b0417" rend="margin-left:1em;inline"><note place="inline">而至切食也</note>。</p></cb:def></entry><entry cb:place="inline"><form>粹</form><cb:def><p xml:id="pP168p0787b0423" rend="margin-left:1em;inline"><note place="inline">雖遂切純
+<lb ed="P" n="0787b05"/>也</note>。</p></cb:def></entry><entry cb:place="inline"><form>兜率陀</form><cb:def><p xml:id="pP168p0787b0505" rend="margin-left:1em;inline"><note place="inline">梵語也此云妙足兜當候切</note>。</p></cb:def></entry><entry cb:place="inline"><form>嚼</form><cb:def><p xml:id="pP168p0787b0517" rend="margin-left:1em;inline"><note place="inline">疾雀切咀嚼也</note>。</p></cb:def></entry></cb:div></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_134" cb:to="#end_134"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_135" cb:to="#end_135"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_136" cb:to="#end_136"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_137" cb:to="#end_137"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_138" cb:to="#end_138"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_139" cb:to="#end_139"><corr>己</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13a" cb:to="#end_13a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13b" cb:to="#end_13b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13c" cb:to="#end_13c"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13d" cb:to="#end_13d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13e" cb:to="#end_13e"><corr>己</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13f" cb:to="#end_13f"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_140" cb:to="#end_140"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_141" cb:to="#end_141"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

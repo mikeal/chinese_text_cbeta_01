@@ -1,0 +1,950 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="K35n1259">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Tripitaka Koreana, Electronic version, No. 1259 御製秘藏詮</title>
+			<author>宋 太宗趙炅撰</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $<date>$Date: 2012/04/23 07:35:19 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>30卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/04/23 07:35:19 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Tripitaka Koreana Vol. 35, No. 1259 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Research Institute of Tripitaka Koreana(RITK), Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">高麗大藏經研究所提供，CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00112">
+	<charName>CBETA CHARACTER CB00112</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[尸@工]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>尼</value>
+	</charProp>
+	<mapping type="unicode">U+21C31</mapping>
+	<mapping cb:dec="983152" type="PUA">U+F0070</mapping>
+</char>
+<char xml:id="CB00562">
+	<charName>CBETA CHARACTER CB00562</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+(梳-木)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>疏</value>
+	</charProp>
+	<mapping type="unicode">U+47FD</mapping>
+	<mapping cb:dec="983602" type="PUA">U+F0232</mapping>
+</char>
+<char xml:id="CB00830">
+	<charName>CBETA CHARACTER CB00830</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[門@報]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>闕</value>
+	</charProp>
+	<mapping type="unicode">U+28DC2</mapping>
+	<mapping cb:dec="983870" type="PUA">U+F033E</mapping>
+</char>
+<char xml:id="CB01076">
+	<charName>CBETA CHARACTER CB01076</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[去*頁]</value>
+	</charProp>
+	<mapping type="unicode">U+4ABA</mapping>
+	<mapping cb:dec="984116" type="PUA">U+F0434</mapping>
+</char>
+<char xml:id="CB01513">
+	<charName>CBETA CHARACTER CB01513</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[土*(厂@干)]</value>
+	</charProp>
+	<mapping cb:dec="984553" type="PUA">U+F05E9</mapping>
+</char>
+<char xml:id="CB01926">
+	<charName>CBETA CHARACTER CB01926</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[厂@火]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>灰</value>
+	</charProp>
+	<mapping type="normal_unicode">U+7070</mapping>
+	<mapping cb:dec="984966" type="PUA">U+F0786</mapping>
+</char>
+<char xml:id="CB03703">
+	<charName>CBETA CHARACTER CB03703</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(石*戈)/口]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>啟</value>
+	</charProp>
+	<mapping type="unicode">U+20DE0</mapping>
+	<mapping cb:dec="986743" type="PUA">U+F0E77</mapping>
+</char>
+<char xml:id="CB04974">
+	<charName>CBETA CHARACTER CB04974</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[夕/鹿]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>麤</value>
+	</charProp>
+	<mapping cb:dec="988014" type="PUA">U+F136E</mapping>
+</char>
+<char xml:id="CB07560">
+	<charName>CBETA CHARACTER CB07560</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[絅-口+又]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>網</value>
+	</charProp>
+	<mapping cb:dec="990600" type="PUA">U+F1D88</mapping>
+</char>
+<char xml:id="CB07694">
+	<charName>CBETA CHARACTER CB07694</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[參-(彰-章)+小]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>參</value>
+	</charProp>
+	<mapping type="unicode">U+3558</mapping>
+	<mapping cb:dec="990734" type="PUA">U+F1E0E</mapping>
+</char>
+<char xml:id="CB07724">
+	<charName>CBETA CHARACTER CB07724</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(ㄇ@人)/圭]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>罣</value>
+	</charProp>
+	<mapping type="unicode">U+262B1</mapping>
+	<mapping cb:dec="990764" type="PUA">U+F1E2C</mapping>
+</char>
+<char xml:id="CB07773">
+	<charName>CBETA CHARACTER CB07773</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[刪-冊+(狦-(狂-王))]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>刪</value>
+	</charProp>
+	<mapping type="unicode">U+20702</mapping>
+	<mapping cb:dec="990813" type="PUA">U+F1E5D</mapping>
+</char>
+<char xml:id="CB08764">
+	<charName>CBETA CHARACTER CB08764</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宋-木+取]</value>
+	</charProp>
+	<mapping type="unicode">U+3761</mapping>
+	<mapping cb:dec="991804" type="PUA">U+F223C</mapping>
+</char>
+<char xml:id="CB08891">
+	<charName>CBETA CHARACTER CB08891</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[栗-木+心]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>惡</value>
+	</charProp>
+	<mapping type="unicode">U+22663</mapping>
+	<mapping cb:dec="991931" type="PUA">U+F22BB</mapping>
+</char>
+<char xml:id="CB08974">
+	<charName>CBETA CHARACTER CB08974</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[惱-囟+山]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>惱</value>
+	</charProp>
+	<mapping type="unicode">U+22649</mapping>
+	<mapping cb:dec="992014" type="PUA">U+F230E</mapping>
+</char>
+<char xml:id="CB09400">
+	<charName>CBETA CHARACTER CB09400</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[利-禾+(ㄆ/小)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>剎</value>
+	</charProp>
+	<mapping type="unicode">U+206F4</mapping>
+	<mapping cb:dec="992440" type="PUA">U+F24B8</mapping>
+</char>
+<char xml:id="CB09895">
+	<charName>CBETA CHARACTER CB09895</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[牙-(必-心)+?]</value>
+	</charProp>
+	<mapping type="unicode">U+3E26</mapping>
+	<mapping cb:dec="992935" type="PUA">U+F26A7</mapping>
+</char>
+<char xml:id="CB12017">
+	<charName>CBETA CHARACTER CB12017</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[車*几]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>軌</value>
+	</charProp>
+	<mapping type="unicode">U+4844</mapping>
+	<mapping cb:dec="995057" type="PUA">U+F2EF1</mapping>
+</char>
+<char xml:id="CB12752">
+	<charName>CBETA CHARACTER CB12752</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[弓*(乞-乙+小)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>彌</value>
+	</charProp>
+	<mapping type="normal_unicode">U+5F25</mapping>
+	<mapping cb:dec="995792" type="PUA">U+F31D0</mapping>
+</char>
+<char xml:id="CB13059">
+	<charName>CBETA CHARACTER CB13059</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[鬘-又+万]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>鬘</value>
+	</charProp>
+	<mapping cb:dec="996099" type="PUA">U+F3303</mapping>
+</char>
+<char xml:id="CB13593">
+	<charName>CBETA CHARACTER CB13593</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[怡-台+主]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>性</value>
+	</charProp>
+	<mapping cb:dec="996633" type="PUA">U+F3519</mapping>
+</char>
+<char xml:id="CB15032">
+	<charName>CBETA CHARACTER CB15032</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[白/八]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>貌</value>
+	</charProp>
+	<mapping type="unicode">U+34B5</mapping>
+	<mapping cb:dec="998072" type="PUA">U+F3AB8</mapping>
+</char>
+<char xml:id="CB15137">
+	<charName>CBETA CHARACTER CB15137</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[竟-立+(立*立)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>競</value>
+	</charProp>
+	<mapping type="unicode">U+25AB0</mapping>
+	<mapping cb:dec="998177" type="PUA">U+F3B21</mapping>
+</char>
+<char xml:id="CB15164">
+	<charName>CBETA CHARACTER CB15164</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(厂@((既-旡)-日+口))*頁]</value>
+	</charProp>
+	<mapping cb:dec="998204" type="PUA">U+F3B3C</mapping>
+</char>
+<char xml:id="CB15891">
+	<charName>CBETA CHARACTER CB15891</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[冗-几+具]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>冥</value>
+	</charProp>
+	<mapping cb:dec="998931" type="PUA">U+F3E13</mapping>
+</char>
+<char xml:id="CB21868">
+	<charName>CBETA CHARACTER CB21868</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[白-日+凡]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>凡</value>
+	</charProp>
+	<mapping cb:dec="1004908" type="PUA">U+F556C</mapping>
+</char>
+<char xml:id="CB27329">
+	<charName>CBETA CHARACTER CB27329</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[栽-木+(万-一)]</value>
+	</charProp>
+	<mapping cb:dec="1010369" type="PUA">U+F6AC1</mapping>
+</char>
+<char xml:id="CB30072">
+	<charName>CBETA CHARACTER CB30072</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(〦/米)*力]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>敕</value>
+	</charProp>
+	<mapping type="unicode">U+20860</mapping>
+	<mapping cb:dec="1013112" type="PUA">U+F7578</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2011-02-21T17:24:40">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="K" xml:id="K35.1259.0821a" n="0821a"/>
+<lb ed="K" n="0821a01"/><milestone unit="juan" n="1"/><cb:docNumber>K. no. 1259</cb:docNumber>
+<lb ed="K" n="0821a02"/><cb:div type="xu"><cb:mulu type="序" level="1">序</cb:mulu><head>御製秘藏詮序　車</head><p xml:id="pK35p0821a0208" rend="margin-left:1em;inline"><note place="inline">真元至理秘密幽微藉教闡宣以明極致秘者
+<lb ed="K" n="0821a03"/>秘密之義法華經云唯佛與佛乃能知之藏者藏攝真理海納百川之義如來秘法亦復
+<lb ed="K" n="0821a04"/>如然故般若經云一切眾生即如來藏體即一真本性迷即凡夫悟即聖人勝<g ref="#CB13059">󳌃</g>經云在
+<lb ed="K" n="0821a05"/>緾名如來藏出緾号大法身涅槃經云名秘密藏者安住於此能建大事神通作用故又
+<lb ed="K" n="0821a06"/>云我當令一切眾生及以我子四部之眾悉皆安住秘密藏中然此秘密法門通徧一切
+<lb ed="K" n="0821a07"/>大智度論云在有情中名為佛性在無情中名為法性是故十方諸佛包攝萬德妙證常
+<lb ed="K" n="0821a08"/>身六趣眾生迷背一真久淪苦海罔能了心即佛身將期離妄求真觸境不知故名秘藏
+<lb ed="K" n="0821a09"/>也詮者教也即文字般若用文字之教顯秘密之理因言解法得意忘言維摩經云言說
+<lb ed="K" n="0821a10"/>文字皆解脫相由是闡斯真極也大矣<g ref="#CB27329">󶫁</g>一真妙道萬法玄宗攝持而靡離纖塵包愽而
+<lb ed="K" n="0821a11"/>普周法界幽深叵測秘密難知諸佛得之以化淨方皇王得之以臨寶位演其至道託以
+<lb ed="K" n="0821a12"/>言詮序者敘神道之設教垂嘉言而孔彰申義明玄入不思議之妙境也</note>。</p>
+<lb ed="K" n="0821a13"/><cb:div type="orig"><p xml:id="pK35p0821a1301">粵聞詮源秘旨。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0821a1307" rend="margin-left:1em;inline"><note place="inline">宣明真理化導含靈為發語之嘉猷乃入文之妙勢
+<lb ed="K" n="0821a14"/>也詮者能詮之教謂半滿妙典權實真乘咸藉玄言以詮其要以至真無說絕思議故法
+<lb ed="K" n="0821a15"/>華經云非口所宣非心所測智度論云心行處滅言語道斷大般若經云諸法寂滅相不
+<lb ed="K" n="0821a16"/>可以言宣此蓋諸佛所證甚深妙法第一義空至極之道也我佛乃假言以顯實唘教以
+<lb ed="K" n="0821a17"/>調生遂立十二分教名為詮也佛地論云以聲名句文四法為體維摩經云如來一音演
+<lb ed="K" n="0821a18"/>說法眾生隨類各得解言源者本源即無上正真之處楞嚴經云根塵同源縛脫無二華
+<lb ed="K" n="0821a19"/>嚴經云到一切佛法海實相源底言秘者秘密旨為旨趣即一真法界也攝論云無不從
+<lb ed="K" n="0821a20"/>此法界流無不還歸此法界詮斯秘旨是曰為源</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0821a2020" rend="inline">隨機立教以興
+<lb ed="K" n="0821a21"/>言。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0821a2102" rend="margin-left:1em;inline"><note place="inline">隨者隨順機者機冝我佛唯以一大事因緣故出現於世本立誓願要他同<anchor xml:id="beg_1" type="cb-app"/>己<anchor xml:id="end_1"/>皆成
+<lb ed="K" n="0821a22"/>佛道但機緣有差隨冝立教攝論云上乘下乘人法異故乃立二種一有種性二無種性
+<pb ed="K" xml:id="K35.1259.0821b" n="0821b"/>
+<lb ed="K" n="0821b01"/>又善戒經云立三乘性解深密經云一聲聞種性二緣覺種性三如來種性法華經云為
+<lb ed="K" n="0821b02"/>求聲聞者說應四諦法為求辟支佛者說應十二因緣法為求菩薩者說應六波羅蜜法
+<lb ed="K" n="0821b03"/>又說三車三草有差別故大般若經云於三乘忙決定者聞此法<anchor xml:id="beg_2" type="cb-app"/>已<anchor xml:id="end_2"/>速於自乘自無漏地
+<lb ed="K" n="0821b04"/>而得解脫勝<g ref="#CB13059">󳌃</g>經云無聞非法眾生以人天善根而成熟之又云有五種性一聲聞性二
+<lb ed="K" n="0821b05"/>緣覺性三如來性四人天性五不定性瑜伽論中亦同此說故云隨機也言立教者法華
+<lb ed="K" n="0821b06"/>經云佛從緣起是故說一乘大悲芬陁利經云未種涅槃因者令種涅槃因又涅槃經云
+<lb ed="K" n="0821b07"/>法聲光明從毛孔入眾生雖無菩提之因而為作菩提因緣此蓋普化五種性咸歸一佛
+<lb ed="K" n="0821b08"/>乘實謂發揮聖道隨頓漸之機<g ref="#CB03703">𠷠</g>迪真宗立半滿之教將顯無說所以興言</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0821b0830" rend="inline">法海
+<lb ed="K" n="0821b09"/>淵深。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0821b0903" rend="margin-left:1em;inline"><note place="inline">佛法廣大喻之如海淺智難知所謂淵深四海經云佛法喻如大海深廣無有
+<lb ed="K" n="0821b10"/>涯際無有盈滿又海雲比丘告善財童子言入一切法海能以智慧咸入悟故又云思惟
+<lb ed="K" n="0821b11"/>大海甚深難測思惟大海漸次深廣即淵深也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0821b1119" rend="inline">性相歸空而是說。</p></cb:div>
+<lb ed="K" n="0821b12"/><cb:div type="commentary"><p xml:id="pK35p0821b1201" rend="margin-left:1em"><note place="inline">性相之道本唯一真融會歸空聖所興說法華經云如是相如是性又云離相滅相究極
+<lb ed="K" n="0821b13"/>涅槃常寂滅相終歸於空又性者真性相者法相若執心未悟則二義差別若了法非真
+<lb ed="K" n="0821b14"/>則一理混融是名性相歸空也大中論云若諸法不空即無道無果可證大品般若經云
+<lb ed="K" n="0821b15"/>以有空義故一切法得成此言空者非謂斷空即第一義真空也楞嚴經云性覺真空性
+<lb ed="K" n="0821b16"/>空真覺清淨本然周徧法界言是說者十住論云說者開示解釋義性相殊途同歸一理
+<lb ed="K" n="0821b17"/>令諸學者無所執滯故有歸空之說為方便之門也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0821b1721" rend="inline">如來妙覺視現
+<lb ed="K" n="0821b18"/>慈悲。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0821b1803" rend="margin-left:1em;inline"><note place="inline">如來者謂倣同先迹號轉法輪經云第一義諦名如正覺名來謂正覺第
+<lb ed="K" n="0821b19"/>一義諦故名如來瑜伽論云乘如實道來成正覺故名如來又云言無虛<anchor xml:id="beg_3" type="cb-app"/>妄<anchor xml:id="end_3"/>故名如來言
+<lb ed="K" n="0821b20"/>妙覺者妙謂微妙覺謂真覺仁王經云滿足無漏界常淨解脫身寂滅不思議名為一切
+<lb ed="K" n="0821b21"/>智即妙覺位也言視者顯視現者出現華嚴經云如來非以一緣非以一事而得出現又
+<lb ed="K" n="0821b22"/>云以本大願力示現自在法言慈悲者顯揚論云慈以無嗔為性悲以不害為性謂我佛
+<pb ed="K" xml:id="K35.1259.0821c" n="0821c"/>
+<lb ed="K" n="0821c01"/>如來三祇行滿妙覺真源視現慈悲垂化一切即四大願心<anchor xml:id="beg_4" type="cb-app"/>已<anchor xml:id="end_4"/>滿矣</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0821c0127" rend="inline">傳祖印
+<lb ed="K" n="0821c02"/>於人間。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0821c0204" rend="margin-left:1em;inline"><note place="inline">傳謂傳授梵網經云千佛授手祖謂祖師即文殊師利菩薩為七佛祖師
+<lb ed="K" n="0821c03"/>也佛名經云一切諸佛皆因文殊而發心故印者法印印可諸法相承傳授法華經云諸
+<lb ed="K" n="0821c04"/>法實相印巳為汝等說言人間者謂佛上辭兜率下降人間本有經云多息義故名人即
+<lb ed="K" n="0821c05"/>有情世間乃名人間又大乘方便經云菩薩如其本願處兜率天宮能得菩提轉於法輪
+<lb ed="K" n="0821c06"/>非謂不能菩薩思惟閻浮提人不能至此兜率大聽受法教兜率天人能下閻浮是故下
+<lb ed="K" n="0821c07"/>生人間也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0821c0705" rend="inline">觀清淨於天界。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0821c0711" rend="margin-left:1em;inline"><note place="inline">觀者觀察華嚴經云有妙淨土出過三界
+<lb ed="K" n="0821c08"/>十地菩薩當生其中佛地論云唯以清淨法界而為其體亦以法性而為其土又瑜伽論
+<lb ed="K" n="0821c09"/>解深密經對法論皆云超色究極天有妙淨土十地菩薩當生其中有十相現大寶華王
+<lb ed="K" n="0821c10"/>座上菩薩坐中而成正覺又云其座量等十阿僧祇三千大千世界十地菩薩坐中大小
+<lb ed="K" n="0821c11"/>相稱即自受用報身佛也若示生兜率為護明菩薩下生成佛者即化身佛也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0821c1131" rend="inline">開諸
+<lb ed="K" n="0821c12"/>妄想。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0821c1203" rend="margin-left:1em;inline"><note place="inline">開者顯示義諸者眾多義妄謂虛妄非真實也想謂亂想不審諦也楞嚴經云
+<lb ed="K" n="0821c13"/>此是前塵虛妄想相惑汝真性故如來開示令其知覺也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0821c1323" rend="inline">破執迷途。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0821c1327" rend="margin-left:1em;inline"><note place="inline">法華
+<lb ed="K" n="0821c14"/>經云破有法王出現於世隨眾生欲種種說法大法鼓經云為破世間我說於無我言迷
+<lb ed="K" n="0821c15"/>途者於正真之道生迷倒故楞嚴經云佛告富樓那譬如迷人於一聚落惑南為北此迷
+<lb ed="K" n="0821c16"/>為復因迷而有因悟所出富樓那言如是迷人亦不因迷又不因悟何以故迷本無根云
+<lb ed="K" n="0821c17"/>何因迷悟非生迷云何因悟佛言彼之迷人在迷時倐有悟人指示令悟富樓那於意云
+<lb ed="K" n="0821c18"/>何此人縱迷於此聚落更生迷不不也世尊富樓那十方如來亦復如是此迷無本性畢
+<lb ed="K" n="0821c19"/>極空昔本無迷似有迷覺覺迷迷滅覺不生迷斯乃破執迷途顯於正道聖人出興于世
+<lb ed="K" n="0821c20"/>妙在茲乎</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0821c2005" rend="inline">智易三乘。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0821c2009" rend="margin-left:1em;inline"><note place="inline">智者佛真智也法華經云諸佛智慧甚深無量其智慧
+<lb ed="K" n="0821c21"/>門難解難入易者改易謂初以小乘化導群品後說大乘令歸一實法華經說初以羊車
+<lb ed="K" n="0821c22"/>化求聲聞乘者次以鹿車化求緣覺乘者後以牛車化求大乘者乃云如波長者初以三
+<pb ed="K" xml:id="K35.1259.0822a" n="0822a"/>
+<lb ed="K" n="0822a01"/>車誘引諸子然後但與大車寶物莊嚴安隱第一又云如來有無量智慧力無所畏諸法
+<lb ed="K" n="0822a02"/>之藏能與一切眾生大乘之法隨其機感應以妙智漸令乘此寶乘直至道塲也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822a0232" rend="inline">門
+<lb ed="K" n="0822a03"/>通一揆。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822a0304" rend="margin-left:1em;inline"><note place="inline">門者大乘門也謂大乘之門唯通一道發大心者方能出故法華經云唯
+<lb ed="K" n="0822a04"/>有一門而復狹小婆藪盤豆菩薩論解云唯有一門即佛大乘門也而復狹小者唯菩薩
+<lb ed="K" n="0822a05"/>能行不容二乘故謂佛出世但教化菩薩使三乘性者咸歸一乘也又云十方佛土中唯
+<lb ed="K" n="0822a06"/>有一乘法無二亦無三是謂門通一揆也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822a0617" rend="inline">悟法必茲於頓漸。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822a0624" rend="margin-left:1em;inline"><note place="inline">法華
+<lb ed="K" n="0822a07"/>論云悟者不知義謂令不知者生悟解故言頓漸者法華論云一者頓悟謂初從凡夫直
+<lb ed="K" n="0822a08"/>發大心求成佛道楞嚴經云不歷僧祇獲法身又云彈指超無學二者漸悟謂若從凡夫
+<lb ed="K" n="0822a09"/>得二乘果漸次發心向大乘故法華經云漸漸積功德具足大悲心皆<anchor xml:id="beg_5" type="cb-app"/>已<anchor xml:id="end_5"/>成佛道然頓漸
+<lb ed="K" n="0822a10"/>之義諸教具明佛一法中本無二相龍女頓成即漸中之頓也善財漸證即頓中之漸也
+<lb ed="K" n="0822a11"/>通達此無二者其唯大智者焉</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822a1113" rend="inline">起信莫先於意遣。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822a1120" rend="margin-left:1em;inline"><note place="inline">發起大信
+<lb ed="K" n="0822a12"/>歸向真宗一念之中以意消遣華嚴經云信為道元功德母長養一切諸善法又云信為
+<lb ed="K" n="0822a13"/>水清珠能清於濁水瑜伽論說五根之中信為生長故五力之中信為難屈伏故言意遣
+<lb ed="K" n="0822a14"/>者羅什法師云惟志言者可以道合虛懷者可以理通<g ref="#CB15891">󳸓</g>心者可與真一遺智者可與聖
+<lb ed="K" n="0822a15"/>同是知由信為初克臻佛境也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822a1513" rend="inline">玄機默授化導無知之俗。</p></cb:div>
+<lb ed="K" n="0822a16"/><cb:div type="commentary"><p xml:id="pK35p0822a1601" rend="margin-left:1em"><note place="inline">佛之玄機默而授與法華經云久默斯要不務速說又云大通智勝佛默然許之故云默
+<lb ed="K" n="0822a17"/>授也化者示化導謂別導言無知者謂不覺知也背真名俗故佛以玄微機要默授化導
+<lb ed="K" n="0822a18"/>令知真性趣向大乘</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822a1809" rend="inline">體用垂方安隱昬衢之<g ref="#CB13593">󳔙</g>。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822a1819" rend="margin-left:1em;inline"><note place="inline">體者
+<lb ed="K" n="0822a19"/>法身本無出沒用者報化二身示現受生佛地論云佛有二身一者實身二者生身法華
+<lb ed="K" n="0822a20"/>經云我於餘國更有異名即隨其方所應機示化華嚴經云如來神通力法界悉周徧一
+<lb ed="K" n="0822a21"/>切眾生前示現無盡身言安樂者即利他行也法華經云如來于時觀是眾生諸根利鈍
+<lb ed="K" n="0822a22"/>精進懈怠隨其所堪而為說法種種無量皆令歡喜快得善利是諸眾生問是法<anchor xml:id="beg_6" type="cb-app"/>已<anchor xml:id="end_6"/>現世
+<pb ed="K" xml:id="K35.1259.0822b" n="0822b"/>
+<lb ed="K" n="0822b01"/>安隱後生善處言昬衢者瑜伽論云體即煩惱所知二障迷覆眾生之<g ref="#CB13593">󳔙</g>汨沒四生譬如
+<lb ed="K" n="0822b02"/>長夜迷於衢路唯識論云未得真覺常處夢中故佛說為生死長夜即顯無明之性今令
+<lb ed="K" n="0822b03"/>安隱開明覺性俾趣佛道故云安隱昬衢之<g ref="#CB13593">󳔙</g></note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822b0319" rend="inline">況乎威靈控御。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822b0325" rend="margin-left:1em;inline"><note place="inline">威者
+<lb ed="K" n="0822b04"/>威德靈者靈感控謂引控御謂調御佛以威德之妙道控引群品咸證佛身調御三界皆
+<lb ed="K" n="0822b05"/>成淨土法華經云威神之力巍巍如是維摩經云以若干種法制御其心乃可調伏即顯
+<lb ed="K" n="0822b06"/>佛調御丈夫之德</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822b0608" rend="inline">像教崇虛。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822b0612" rend="margin-left:1em;inline"><note place="inline">智度論說一者正教二者像教三者末法
+<lb ed="K" n="0822b07"/>崇者高大之<g ref="#CB15032">㒵</g>虛者中寂之稱謂佛像教流通萬代崇高虛寂普化有緣也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822b0730" rend="inline">湛然
+<lb ed="K" n="0822b08"/>典憲於十方。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822b0806" rend="margin-left:1em;inline"><note place="inline">湛謂澄湛喻教海湛然流出諸教典謂典則憲謂憲章謂如來
+<lb ed="K" n="0822b09"/>聖教典則萬物憲章群機聲振十方永為法寶也華嚴經云如來說法音十方莫不聞隨
+<lb ed="K" n="0822b10"/>諸眾生類悉令心滿足此即佛之聖化甚廣大也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822b1020" rend="inline">賢愚俱臻於萬
+<lb ed="K" n="0822b11"/>彚。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822b1102" rend="margin-left:1em;inline"><note place="inline">賢者愚者同有真<g ref="#CB13593">󳔙</g>臻者至也彙者類也謂無情有情同一法中雖根分利鈍而佛
+<lb ed="K" n="0822b12"/><g ref="#CB13593">󳔙</g>平等至于萬類無不皆真楞嚴經云一切世間諸所有物皆即菩提妙明元心又云咸
+<lb ed="K" n="0822b13"/>是妙明真心中物顯甚真法普周法界也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822b1317" rend="inline">微言廣被。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822b1321" rend="margin-left:1em;inline"><note place="inline">聖智所演皆曰微言流化
+<lb ed="K" n="0822b14"/>十方故云廣被華嚴經云如來一妙音周聞十方國一切眾生聞其聲不可得此即從聞
+<lb ed="K" n="0822b15"/>思修入三摩地實由微言廣被之力也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822b1516" rend="inline">救濁世於三千。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822b1522" rend="margin-left:1em;inline"><note place="inline">正覺大慈普救
+<lb ed="K" n="0822b16"/>一切法華經云諸佛救世者言濁世者即五濁<g ref="#CB08891">𢙣</g>世法華經云諸佛出於五濁<g ref="#CB08891">𢙣</g>世所謂
+<lb ed="K" n="0822b17"/>劫濁煩惱濁眾生濁見濁命濁楞嚴經云譬如清水清潔本然彼塵土沙<g ref="#CB01926">󰞆</g>之倫本質留
+<lb ed="K" n="0822b18"/>礙二體法尓<g ref="#CB13593">󳔙</g>不相循有世間人取彼土塵投於清水土失留礙水亡清潔容<g ref="#CB15032">㒵</g>汨然名
+<lb ed="K" n="0822b19"/>之為濁無量壽經云彼諸佛等亦稱說我不可思議功德而作是言釋迦牟尼佛能為甚
+<lb ed="K" n="0822b20"/>難希有之事能於娑婆國土五濁<g ref="#CB08891">𢙣</g>世得阿耨多羅三藐三菩提又十地論云有無明雜
+<lb ed="K" n="0822b21"/>智名為濁世言三千者即三千大千世界釋迦世尊所化娑婆之境也言三千者即小千
+<lb ed="K" n="0822b22"/>中千大千也天親菩薩頌云蘇<g ref="#CB12752">󳇐</g>盧日月梵世各一千名一小千界此小千千倍名一中千
+<pb ed="K" xml:id="K35.1259.0822c" n="0822c"/>
+<lb ed="K" n="0822c01"/>界中千倍大千俱同一成壞故云三千也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822c0117" rend="inline">遺教自然。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822c0121" rend="margin-left:1em;inline"><note place="inline">世尊妙法流益將來故名
+<lb ed="K" n="0822c02"/>遺教傳通永劫普作善利故名自然遺教經云其未度者亦皆<anchor xml:id="beg_7" type="cb-app"/>已<anchor xml:id="end_7"/>作得度因緣法華經云
+<lb ed="K" n="0822c03"/>我於無量百千萬億阿僧祇劫修習是難得阿耨多羅三藐三菩提法今以付汝等當受
+<lb ed="K" n="0822c04"/>持讀誦廣宣此法令一切眾生普得聞知又云能與眾生佛之智慧如來智慧自然智慧</note>。</p></cb:div>
+<lb ed="K" n="0822c05"/><cb:div type="orig"><p xml:id="pK35p0822c0501">想端嚴於四八。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822c0507" rend="margin-left:1em;inline"><note place="inline">想者專注在心佛地經云四八端嚴殊勝相企耶三大劫
+<lb ed="K" n="0822c06"/>修來面如滿月目如蓮天上人間咸恭信即歎佛勝德也大般若經說佛有三十二相一
+<lb ed="K" n="0822c07"/>者足下平滿相二者千輻輪相三者十指纖長相四者足跟滿好相乃至三十二頂有內
+<lb ed="K" n="0822c08"/>髻相六莊嚴論亦同此說觀佛一勝經云佛腋下相中懸生五珠如摩尼珠上柱佛腋又
+<lb ed="K" n="0822c09"/>云佛咽喉如琉璃筒十住論云佛臂過膝如金開敷又云佛髮色如曇蜂中有德字安字
+<lb ed="K" n="0822c10"/>喜字僧伽羅剎經云如來齒上有千輪相中阿含經云佛身七處平滿謂兩手兩肩兩足
+<lb ed="K" n="0822c11"/>及頸也地持經云佛表裏八處平滿大集經云佛不以<g ref="#CB08891">𢙣</g>事加眾生故感髮色金精相智
+<lb ed="K" n="0822c12"/>度論云佛之舌相色如珊瑚又相好經云盡人中福不及一天乃至云盡世間福不及如
+<lb ed="K" n="0822c13"/>來一相是知聖人福德嚴備為天人師至極至尊想讚不及也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822c1325" rend="inline">敷揚正法
+<lb ed="K" n="0822c14"/>宗闡甚深。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822c1405" rend="margin-left:1em;inline"><note place="inline">敷者開敷聖旨揚者奉揚真教正法者即佛所說無上正真之
+<lb ed="K" n="0822c15"/>法也華嚴經云若見於正當願眾生得為法王恒轉正法言宗者宗要闡者闡宣甚深者
+<lb ed="K" n="0822c16"/>即佛之妙法甚深廣大也法華經云佛所得法甚深難解所有言說意趣難知今以敷揚
+<lb ed="K" n="0822c17"/>正法簡邪智所解也宗闡甚深簡淺智所知也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822c1719" rend="inline">非大智者無以窮其
+<lb ed="K" n="0822c18"/>源。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822c1802" rend="margin-left:1em;inline"><note place="inline"><anchor xml:id="beg_8" type="cb-app"/>其<anchor xml:id="end_8"/>源妙理至極幽深非大智之人無以窮甚源也智度論云佛法大海信為能入百
+<lb ed="K" n="0822c19"/>緣經云三界擾擾四生昬昬識心達本源故号為沙門又法華經云無漏不思議甚深微
+<lb ed="K" n="0822c20"/>妙法我今<anchor xml:id="beg_9" type="cb-app"/>已<anchor xml:id="end_9"/>具得唯我知是相十方佛亦然即大智者方知也華嚴經說此經唯付有大
+<lb ed="K" n="0822c21"/>心者不入一切餘眾生手故非小智者之所窮也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0822c2120" rend="inline">非達識者莫能知
+<lb ed="K" n="0822c22"/>其要。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0822c2203" rend="margin-left:1em;inline"><note place="inline">達謂通達識謂博識即通達真理博識妙義知其綱要可以荷檐任持也法華
+<pb ed="K" xml:id="K35.1259.0823a" n="0823a"/>
+<lb ed="K" n="0823a01"/>經云諸佛坐道塲所得秘要法能持是經者不久亦當得以諸大菩薩達佛深旨明悟要
+<lb ed="K" n="0823a02"/>道若非斯人莫能知也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823a0210" rend="inline">包括殊異。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823a0214" rend="margin-left:1em;inline"><note place="inline">包者包含普攝一切括者括掠緫持
+<lb ed="K" n="0823a03"/>諸法殊異者殊勝靈異金剛經云一切諸佛及諸佛阿耨多羅三藐三菩提法皆從此經
+<lb ed="K" n="0823a04"/>出故曰包括殊異也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823a0409" rend="inline">奧義遐宣。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823a0413" rend="margin-left:1em;inline"><note place="inline">奧者深奧非測量故義謂妙義唯佛所證
+<lb ed="K" n="0823a05"/>言遐宣者則遠布世間廣行利樂華嚴經云假使有人以大海量墨湏<g ref="#CB12752">󳇐</g>聚筆書寫此普
+<lb ed="K" n="0823a06"/>眼法門一品中一門一門中一法一法中一義一義中一句不得少分何況能盡是奧義
+<lb ed="K" n="0823a07"/>也法華經云我滅度後後五百嵗中廣宣流布於閻浮提內無令斷絕故云遐宣也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823a0733" rend="inline">有
+<lb ed="K" n="0823a08"/>相之情皆空。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823a0806" rend="margin-left:1em;inline"><note place="inline">有情執相難證空法若能了相即皆空故金剛經云若見
+<lb ed="K" n="0823a09"/>諸相非相即見如來起信論云諸佛如來離於見相無所不見心真實故智度論云小乘
+<lb ed="K" n="0823a10"/>四諦中苦集滅道三諦是有相滅諦是無相大乘中四諦皆是無相大中論云虛誑妄取
+<lb ed="K" n="0823a11"/>者是中何所有佛說如是法欲以示空義大般若經云諸法皆同一相所謂無相失如是
+<lb ed="K" n="0823a12"/>則滯相之情亦真空矣</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823a1210" rend="inline">無生之滅皆寂。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823a1216" rend="margin-left:1em;inline"><note place="inline">無量義經云常說諸法不生不
+<lb ed="K" n="0823a13"/>滅無彼無此一相無相謂若有無生即有無滅既生滅尚在未為究極今無生無滅即是
+<lb ed="K" n="0823a14"/>真寂楞嚴經云生滅既滅寂滅現前故云皆寂也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823a1420" rend="inline">幽深道遠求之
+<lb ed="K" n="0823a15"/>者不可得其中。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823a1507" rend="margin-left:1em;inline"><note place="inline">非三乘所測夕幽深唯三刧能至名道遠法華經云
+<lb ed="K" n="0823a16"/>佛道懸曠經無量刧勤苦積行具修諸度然後乃成言求之者謂求佛道者以有心求即
+<lb ed="K" n="0823a17"/>佛非有也以無心求即佛非無也故不得其中維摩經云夫求法者不著佛求不著法求
+<lb ed="K" n="0823a18"/>不著眾求又楞嚴經云如人以表表為中時東看即西南觀成北表體既混心應雜亂是
+<lb ed="K" n="0823a19"/>一得其中也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823a1906" rend="inline">報應必通究之者弗可曉其理。</p></cb:div>
+<lb ed="K" n="0823a20"/><cb:div type="commentary"><p xml:id="pK35p0823a2001" rend="margin-left:1em"><note place="inline">報即報身應即應身二佛雖殊而體無異金剛論云應化非真佛亦非說法者推功歸本
+<lb ed="K" n="0823a21"/>唯一法身乃名通也究者窮究謂報應之道不可明達其理以佛真身同太虛空非由心
+<lb ed="K" n="0823a22"/>慮而能察量金光明經云佛真法身猶如虛空法華經云唯佛與佛乃能究盡諸法實相
+<pb ed="K" xml:id="K35.1259.0823b" n="0823b"/>
+<lb ed="K" n="0823b01"/>則餘莫能知也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823b0107" rend="inline">貫穿德義。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823b0111" rend="margin-left:1em;inline"><note place="inline">貫穿者攝持義德義者妙法之稱也攝論云彼
+<lb ed="K" n="0823b02"/>三及二云何名藏荅云由攝故謂攝一切所應知義如線貫花如經持緯佛地論云能貫
+<lb ed="K" n="0823b03"/>能攝故名為經詮其德義垂範將來</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823b0315" rend="inline">法相<g ref="#CB09895">㸦</g>陳。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823b0319" rend="margin-left:1em;inline"><note place="inline">法者法<g ref="#CB13593">󳔙</g>相者事相以執
+<lb ed="K" n="0823b04"/>相者謂<g ref="#CB13593">󳔙</g>有名種滯<g ref="#CB13593">󳔙</g>者謂相有殊途今此<g ref="#CB09895">㸦</g>陳即一真矣澄觀法師云一心法界含真
+<lb ed="K" n="0823b05"/>如生滅二門<g ref="#CB09895">㸦</g>相交徹不壞<g ref="#CB13593">󳔙</g>相故云法相<g ref="#CB09895">㸦</g>陳也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823b0521" rend="inline">窺解脫於毫釐。</p></cb:div>
+<lb ed="K" n="0823b06"/><cb:div type="commentary"><p xml:id="pK35p0823b0601" rend="margin-left:1em"><note place="inline">窺者觀也言解脫者即涅槃經所明三德謂摩訶般若解脫法身唯識論云安樂解脫身
+<lb ed="K" n="0823b07"/>大牟<g ref="#CB00112">𡰱</g>名法又涅槃經云貪嗔癡心永斷滅故名心善解脫知一切法無障礙故名慧善
+<lb ed="K" n="0823b08"/>解脫言毫釐者中觀論云世間之實際即是涅槃際無毫釐差故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823b0826" rend="inline">較優劣
+<lb ed="K" n="0823b09"/>於性識。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823b0904" rend="margin-left:1em;inline"><note place="inline">較者商較也一法平等無有優劣由其識性證有淺深楞嚴經云於時如
+<lb ed="K" n="0823b10"/>來告文殊師利法一子言汝今觀此二十五無學諸太菩薩及阿羅漢各說最初成道方
+<lb ed="K" n="0823b11"/>便皆言修習真實圓通彼等修行實無優劣前後差別言<g ref="#CB13593">󳔙</g>識者<g ref="#CB13593">󳔙</g>謂五<g ref="#CB13593">󳔙</g>識謂八識隨
+<lb ed="K" n="0823b12"/>其利鈍樂其權實故於一法而不同途金剛經云一切聖賢皆以無為法而有差別</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823b1233" rend="inline">蓋
+<lb ed="K" n="0823b13"/>為<g ref="#CB07694">㕘</g>演經論設彼紀綱。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823b1310" rend="margin-left:1em;inline"><note place="inline"><g ref="#CB07694">㕘</g>演者究暢之義佛地論說佛所說
+<lb ed="K" n="0823b14"/>名經菩薩所造名論也言設彼紀綱者設化有情以法為綱紀調伏大眾以人為綱紀楞
+<lb ed="K" n="0823b15"/>嚴經云我是如來眾中綱紀</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823b1512" rend="inline">形言於竹帛之閒。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823b1519" rend="margin-left:1em;inline"><note place="inline">此方以竹帛書
+<lb ed="K" n="0823b16"/>功西土以貝葉傳教形顯其言以為典也灌頂經云能信是經受持讀誦書著竹帛又楞
+<lb ed="K" n="0823b17"/>嚴經云若諸世界隨所國土所有眾生隨國所生樺皮貝葉紙素白疊傳彼微言以為教
+<lb ed="K" n="0823b18"/>體也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823b1803" rend="inline">致理於凡聖之內。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823b1810" rend="margin-left:1em;inline"><note place="inline">致由至也理則真理背覺合塵曰凡大般若經
+<lb ed="K" n="0823b19"/>名士夫瑜伽論釋云能作一切士夫用故即俗恒真曰聖攝論云一切聖人以此為因即
+<lb ed="K" n="0823b20"/>真理平等凡聖同源也華嚴經出現品云如來成正覺時普見一切眾生成正覺乃至普
+<lb ed="K" n="0823b21"/>見一切眾生入涅槃皆同一<g ref="#CB13593">󳔙</g>以了眾生皆無<g ref="#CB13593">󳔙</g>故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823b2121" rend="inline">慧日照臨於碧
+<lb ed="K" n="0823b22"/>落。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823b2202" rend="margin-left:1em;inline"><note place="inline">大慧如日普照法天世界朗然咸悟真性法華經云慧日大聖尊又云慧日破諸闇
+<pb ed="K" xml:id="K35.1259.0823c" n="0823c"/>
+<lb ed="K" n="0823c01"/>能伏災風火華嚴經云眾罪如霜露慧日能消除又云如來現在世處處悉周徧如日出
+<lb ed="K" n="0823c02"/>世閒為我說其道是知皎日昇天萬物皆現慧日麗漠一<g ref="#CB13593">󳔙</g>必明者也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823c0228" rend="inline">柰苑
+<lb ed="K" n="0823c03"/>騰芳於善根。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823c0306" rend="margin-left:1em;inline"><note place="inline">柰苑者即波羅柰國中苑也法華經云昔於波羅柰
+<lb ed="K" n="0823c04"/>轉四諦法輪又祇域經云王園有柰樹甘而且美形狀殊異唯王園有餘處無之王因與
+<lb ed="K" n="0823c05"/>梵志食被竊其子種之以乳溉灌後生大樹樹生一女端正異常時諸國王<g ref="#CB15137">𥪰</g>欲娶之唯
+<lb ed="K" n="0823c06"/>萍沙王得之乃生祇域佛曾於彼說法故名柰苑言騰芳者榮盛之<g ref="#CB15032">㒵</g>言善根者謂修種
+<lb ed="K" n="0823c07"/>善法有資茂故瑜伽論云五根者謂信進念定慧由斯五法滋榮生長妙花成無漏果淨
+<lb ed="K" n="0823c08"/>名經云緫持之園苑無漏法林樹覺意淨妙花解脫智慧果又華嚴經云住佛正見地長
+<lb ed="K" n="0823c09"/>佛功德樹雨佛妙法花示我菩提道即善根騰芳永光法苑</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823c0924" rend="inline">列智炬之光。</p></cb:div>
+<lb ed="K" n="0823c10"/><cb:div type="commentary"><p xml:id="pK35p0823c1001" rend="margin-left:1em"><note place="inline">法華經云如闇得炬又云如夜闇中然大火炬喻佛智垂照如炬發光破其無明令行正
+<lb ed="K" n="0823c11"/>道</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823c1102" rend="inline">願發有情之相。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823c1108" rend="margin-left:1em;inline"><note place="inline">願者大願發謂開發言有情之相者謂一切有
+<lb ed="K" n="0823c12"/>情皆具實相由無明之所蔽放智光而顯發故實相般若經云一切有情皆有佛<g ref="#CB13593">󳔙</g>普賢
+<lb ed="K" n="0823c13"/>菩薩自體徧故令悟其真相必成佛也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823c1316" rend="inline">破重昬之境。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823c1321" rend="margin-left:1em;inline"><note place="inline">眾生迷倒從<g ref="#CB15891">󳸓</g>
+<lb ed="K" n="0823c14"/>入<g ref="#CB15891">󳸓</g>譬若重昬了無明覺佛光垂照昬境洞然法華經云佛告諸比丘大智勝佛得阿耨
+<lb ed="K" n="0823c15"/>多羅三藐三菩提時十方各五百萬億佛世界六種震動其國中間幽暝之處日月威光
+<lb ed="K" n="0823c16"/>所不能照而皆大明其中眾生各得相見是故破重昬之境也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823c1625" rend="inline"><g ref="#CB12752">󳇐</g>慶無礙
+<lb ed="K" n="0823c17"/>之因。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823c1703" rend="margin-left:1em;inline"><note place="inline">由佛智光滅諸闇相<g ref="#CB12752">󳇐</g>彰諸法自在無礙是則諸佛證無礙之果令眾生修無
+<lb ed="K" n="0823c18"/>礙之因華嚴經云神足無礙由如佛天眼無礙最清淨耳根無礙善聽法此無礙者所行
+<lb ed="K" n="0823c19"/>道道者因義謂行此因故得佛果也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0823c1915" rend="inline">覺熖之燈長眀。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0823c1921" rend="margin-left:1em;inline"><note place="inline">法燈之上發覺
+<lb ed="K" n="0823c20"/>焰光爛然長明永照於世智度論云然燈佛者謂此佛從初現生乃至成佛舉身常光明
+<lb ed="K" n="0823c21"/>如然燈故身智光普周稱大又然燈功德經云然燈供養能滅罪生福令發願言當以大
+<lb ed="K" n="0823c22"/>海為油湏<g ref="#CB12752">󳇐</g>為炷然大明憕徧佛剎海供養無休華嚴經云又放光明名養燈此光能覺
+<pb ed="K" xml:id="K35.1259.0824a" n="0824a"/>
+<lb ed="K" n="0824a01"/>一切眾令知眾生<g ref="#CB13593">󳔙</g>寂然一切諸法無所有是知世燈破闇佛燈導迷照耀昬衢明終不
+<lb ed="K" n="0824a02"/>盡也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0824a0203" rend="inline">幽闇之室恒顯。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0824a0209" rend="margin-left:1em;inline"><note place="inline">無眀三界喻如闇室覺燈普照所以光顯楞嚴
+<lb ed="K" n="0824a03"/>經云意如幽室見謂昏明也言恒顯者心開意解證法光眀金剛經云如人入闇則無所
+<lb ed="K" n="0824a04"/>見又云如人有目日光明照見種種色即常顯也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0824a0420" rend="inline">閶闔銀<g ref="#CB00830">𨷂</g>教諭
+<lb ed="K" n="0824a05"/>金文。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0824a0503" rend="margin-left:1em;inline"><note place="inline">閶闔天門也銀<g ref="#CB00830">𨷂</g>則銀輪王所居之宮室也法炬經云輪王寶殿千梁萬拱眾
+<lb ed="K" n="0824a06"/>寶所成嚴麗可觀世所希有由福所感也感通傳云文殊師利菩薩居黃金世界普賢菩
+<lb ed="K" n="0824a07"/>薩居白銀世界言教諭金文者教即三乘十二分教也諭者示諭顯佛金口所宣之文名
+<lb ed="K" n="0824a08"/>為金文也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0824a0805" rend="inline">棲息煙蘿深巖秘密。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0824a0813" rend="margin-left:1em;inline"><note place="inline">證法自在所以棲息樂其
+<lb ed="K" n="0824a09"/>寂靜乃處煙蘿法華經云入於深山思惟佛道又見離欲樂處空閑斯則華野任緣並為
+<lb ed="K" n="0824a10"/>妙境也言深巖秘密者楞嚴經云如今世聞曠野深山聖道塲地皆阿羅漢所住持故世
+<lb ed="K" n="0824a11"/>間<g ref="#CB04974">󱍮</g>人所不能見故名秘密也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0824a1113" rend="inline">扶持依仗於佛慧。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0824a1120" rend="margin-left:1em;inline"><note place="inline">夫佛佛授手聖
+<lb ed="K" n="0824a12"/>聖傳心十方如來<g ref="#CB09895">㸦</g>相讚美一切菩薩各起釣崇法華經云得佛無上慧乃感聖君而為
+<lb ed="K" n="0824a13"/>外護大集經云國王護佛法增長三種精氣一者地精氣謂五穀豐熟二者眾生精氣謂
+<lb ed="K" n="0824a14"/>形<g ref="#CB15032">㒵</g>端正無諸疾疫三者善法精氣謂施戒信等常興隆故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0824a1424" rend="inline">塵劫永曜
+<lb ed="K" n="0824a15"/>於蓮宮。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0824a1504" rend="margin-left:1em;inline"><note place="inline">聖人之作如日之眀雖塵刼之為多鎮蓮宮而斯久法華經云如人
+<lb ed="K" n="0824a16"/>以力磨三千大千土盡此諸地種皆悉以為墨過於千國土乃下一塵點如是展轉點盡
+<lb ed="K" n="0824a17"/>此諸塵墨如是諸國土點與不點等復盡枺為塵一塵為一刧是名塵刼也言蓮宮者華
+<lb ed="K" n="0824a18"/>嚴經說蓮華藏世界毗盧遮那佛出現其中名蓮宮也此乃如來真教耀於蓮宮永於塵
+<lb ed="K" n="0824a19"/>刼也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pK35p0824a1903" rend="inline">歷世常鑒於高眀。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0824a1910" rend="margin-left:1em;inline"><note place="inline">歷代寶之常為鑒照法華經云世世不絕
+<lb ed="K" n="0824a20"/>言高明者天之象也摩訶衍經云戒如真實鑒能照盡無遣斯則言佛教高顯明大也</note>。</p></cb:div>
+<lb ed="K" n="0824a21"/><cb:div type="orig"><p xml:id="pK35p0824a2101">攸久混同於天地。</p></cb:div><cb:div type="commentary"><p xml:id="pK35p0824a2108" rend="margin-left:1em;inline"><note place="inline">夫至聖之道其化大焉無上之詮其文廣矣恭
+<lb ed="K" n="0824a22"/>惟我佛之教共玄風而永久等天地而常在混虛空而寂然蕩蕩巍巍無得而名者也普
+<pb ed="K" xml:id="K35.1259.0824b" n="0824b"/>
+<lb ed="K" n="0824b01"/>賢行願經云虛空界盡我願乃盡以虛空無盡故我願亦無盡也</note>。</p></cb:div></cb:div>
+<lb ed="K" n="0824b02"/><cb:mulu type="卷" n="1"></cb:mulu><cb:juan fun="open" n="1"><cb:jhead>御製秘藏詮卷第一<note place="inline">総一千首共二十卷并註</note></cb:jhead></cb:juan>
+<lb ed="K" n="0824b03"/><cb:div type="other"><cb:mulu type="其他" level="1">偈頌一</cb:mulu><list><item xml:id="itemK35p0824b0301">佛賦二首附</item>
+<lb ed="K" n="0824b04"/><item xml:id="itemK35p0824b0401">謌行一首附</item></list>
+<lb ed="K" n="0824b05"/><cb:div type="orig"><lg xml:id="lgK35p0824b0501" type="abnormal"><l rend="text-indent:0em">性法光常照</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824b0506" rend="margin-left:1em;inline"><note place="inline">光含法界性徧大千剎剎塵塵纖毫盡照根根境境動念
+<lb ed="K" n="0824b06"/>全真瑜伽論云智光身光如次常照</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824b0615" type="abnormal"><l rend="text-indent:0em">如來大戒儀</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824b0620" rend="margin-left:1em;inline"><note place="inline">如來即十号中倣同
+<lb ed="K" n="0824b07"/>先跡号智度論云乘如實道來成正覺因中持三聚淨戒果位具圓萬德莊嚴其身</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824b0733" type="abnormal"><l rend="text-indent:0em">修
+<lb ed="K" n="0824b08"/>行功德業</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824b0805" rend="margin-left:1em;inline"><note place="inline">華嚴經云佛於僧祇刧中歷修萬行果中獲一百四十種不共
+<lb ed="K" n="0824b09"/>功德無漏淨業受用無窮</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824b0911" type="abnormal"><l rend="text-indent:0em">攝受智心持</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824b0916" rend="margin-left:1em;inline"><note place="inline">華嚴論云佛理廣大攝益多方
+<lb ed="K" n="0824b10"/>受之心地法門持之智印三昧窮真盡妄何法不該者矣</note>。</p></cb:div>
+<lb ed="K" n="0824b11"/><cb:div type="orig"><lg xml:id="lgK35p0824b1101" type="abnormal"><l rend="text-indent:0em">相滅空千刧</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824b1106" rend="margin-left:1em;inline"><note place="inline">相即有為法滅者無為理悟之則剎郍昧之則千刧法華
+<lb ed="K" n="0824b12"/>經云一百八十劫空過無有佛</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824b1213" type="abnormal"><l rend="text-indent:0em">真純絕是非</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824b1218" rend="margin-left:1em;inline"><note place="inline">仁王經云真實理中無世
+<lb ed="K" n="0824b13"/>俗諦圓成體上有勝義諦矧離四句而絕百非越三端而過七辯</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824b1326" type="abnormal"><l rend="text-indent:0em">善心興一
+<lb ed="K" n="0824b14"/>念</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824b1402" rend="margin-left:1em;inline"><note place="inline">楞嚴經云我非<g ref="#CB30072">𠡠</g>汝執為非心但汝於心微細揣摩若離前塵有分別性即真汝心
+<lb ed="K" n="0824b15"/>故一念心不可生滅</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824b1509" type="abnormal"><l rend="text-indent:0em">性靜法王機</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824b1514" rend="margin-left:1em;inline"><note place="inline"><g ref="#CB15891">󳸓</g>心息慮法本不生匿跡韜聲法亦
+<lb ed="K" n="0824b16"/>不滅入如來之真性控無上之機權淨名經云非凢夫行是菩薩行</note>。</p></cb:div>
+<lb ed="K" n="0824b17"/><cb:div type="orig"><lg xml:id="lgK35p0824b1701" type="abnormal"><l rend="text-indent:0em">心達無邊境</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824b1706" rend="margin-left:1em;inline"><note place="inline">心若明了萬法不生周徧大千廓然無聖了無邊境窮刧
+<lb ed="K" n="0824b18"/>難名唯佛真心湛然常寂華嚴論云無邊剎境自他不隔於毫端</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824b1826" type="abnormal"><l rend="text-indent:0em">虛空入
+<lb ed="K" n="0824b19"/>有微</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824b1903" rend="margin-left:1em;inline"><note place="inline">寥廓之內不礙心緣况逈略影中可以從微入有百法論云所謂法處所攝色
+<lb ed="K" n="0824b20"/>也</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824b2002" type="abnormal"><l rend="text-indent:0em">見今過去佛</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824b2007" rend="margin-left:1em;inline"><note place="inline">三世不空諸佛常住強名過見巧立去來法華經云
+<lb ed="K" n="0824b21"/>常在靈鷲山及餘諸住處</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824b2111" type="abnormal"><l rend="text-indent:0em">性相寂空歸</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824b2116" rend="margin-left:1em;inline"><note place="inline">圓成實理性相混融湛寂凝然
+<lb ed="K" n="0824b22"/>一道清淨明王經云遠離眾苦歸圓寂</note>。</p></cb:div>
+<pb ed="K" xml:id="K35.1259.0824c" n="0824c"/>
+<lb ed="K" n="0824c01"/><cb:div type="orig"><lg xml:id="lgK35p0824c0101" type="abnormal"><l rend="text-indent:0em">譬喻法如常</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c0106" rend="margin-left:1em;inline"><note place="inline">疑帶於懷封執於理喻之以法始顯真如法華經云諸有
+<lb ed="K" n="0824c02"/>智者以譬喻得解</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824c0208" type="abnormal"><l rend="text-indent:0em">求多心自了</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c0213" rend="margin-left:1em;inline"><note place="inline">悉達多太子為求半偈以捨全身歷
+<lb ed="K" n="0824c03"/>事諸佛方圓大果法華經云了達諸義趣又能善說法</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824c0322" type="abnormal"><l rend="text-indent:0em">世尊演上乘</l></lg></cb:div>
+<lb ed="K" n="0824c04"/><cb:div type="commentary"><p xml:id="pK35p0824c0401" rend="margin-left:1em"><note place="inline">六通圓滿謂之世尊世出世間咸尊重故淨名經云為菩薩說六波羅蜜以應其根矣</note>。</p></cb:div>
+<lb ed="K" n="0824c05"/><cb:div type="orig"><lg xml:id="lgK35p0824c0501" type="abnormal"><l rend="text-indent:0em">四眾瞻圍繞</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c0506" rend="margin-left:1em;inline"><note place="inline">比丘比丘尼優婆塞優婆夷謂之四眾淨名經云瞻仰尊
+<lb ed="K" n="0824c06"/>顏目不暫捨繞佛三帀却住一面</note>。</p></cb:div>
+<lb ed="K" n="0824c07"/><cb:div type="orig"><lg xml:id="lgK35p0824c0701" type="abnormal"><l rend="text-indent:0em">識用攀諸聖</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c0706" rend="margin-left:1em;inline"><note place="inline">上乘妙理無以攀躋<g ref="#CB01076">䪺</g>悟涅槃自超淨域聖聖継跡
+<lb ed="K" n="0824c08"/>法法傳燈入劫泛流豈能識用登地之聖<g ref="#CB09895">㸦</g>陟階梯法華經云親近智者一心除亂</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824c0833" type="abnormal"><l rend="text-indent:0em">經
+<lb ed="K" n="0824c09"/>緣道本基</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c0905" rend="margin-left:1em;inline"><note place="inline">經即大乘至教緣為詮表因緣彰入道之初基顯證聖之由漸
+<lb ed="K" n="0824c10"/>淨名經云從無住本立一切法</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824c1013" type="abnormal"><l rend="text-indent:0em">愚癡貪自縛</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c1018" rend="margin-left:1em;inline"><note place="inline">慧心明朗則羇絆無
+<lb ed="K" n="0824c11"/>因固執難迴稽留自滯法華經云我令脫苦縛</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824c1119" type="abnormal"><l rend="text-indent:0em">福業各相隨</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c1124" rend="margin-left:1em;inline"><note place="inline">福即感於
+<lb ed="K" n="0824c12"/>人天業即通其善<g ref="#CB08891">𢙣</g>似風逐響如影隨形古徃今來造因受果</note>。</p></cb:div>
+<lb ed="K" n="0824c13"/><cb:div type="orig"><lg xml:id="lgK35p0824c1301" type="abnormal"><l rend="text-indent:0em">情狀如萌發</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c1306" rend="margin-left:1em;inline"><note place="inline">外發三業內運片心若萌芽出於地中如根蔕固於枝葉
+<lb ed="K" n="0824c14"/>瑜伽論云外發身語業表內心所思譬如潛泉魚皷波而自表</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824c1425" type="abnormal"><l rend="text-indent:0em">精嚴好仰
+<lb ed="K" n="0824c15"/>依</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c1502" rend="margin-left:1em;inline"><note place="inline">精謂精純嚴謂嚴淨況佛諸根相好一一無邊無限善根所因生故可以為群生依
+<lb ed="K" n="0824c16"/>仰</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824c1602" type="abnormal"><l rend="text-indent:0em">因緣菩薩種</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c1607" rend="margin-left:1em;inline"><note place="inline">菩薩謂大心眾生以悲智為因權巧為緣有異色心
+<lb ed="K" n="0824c17"/>二法所藉不同法華經云宿植德本</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824c1715" type="abnormal"><l rend="text-indent:0em">順悟逆相違</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c1720" rend="margin-left:1em;inline"><note place="inline">賢者招下士之所嗤
+<lb ed="K" n="0824c18"/>智者掇愚人之所嫉盖曲直無以相入玉石不可俱焚維摩經云順是菩提</note>。</p></cb:div>
+<lb ed="K" n="0824c19"/><cb:div type="orig"><lg xml:id="lgK35p0824c1901" type="abnormal"><l rend="text-indent:0em">欲量無邊劫</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c1906" rend="margin-left:1em;inline"><note place="inline">日月歲數謂之時成住瓌空謂之刧非眀智以莫量匪慧心
+<lb ed="K" n="0824c20"/>而安測法華經云我念過去世無量無邊刧</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0824c2018" type="abnormal"><l rend="text-indent:0em">其如業力癡</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c2023" rend="margin-left:1em;inline"><note place="inline">業即思之
+<lb ed="K" n="0824c21"/>別号癡則煩惱異呼縱之則背覺合塵馭之則超凢入聖淨名經云善<g ref="#CB08891">𢙣</g>之業亦不壞</note>。</p></cb:div>
+<lb ed="K" n="0824c22"/><cb:div type="orig"><lg xml:id="lgK35p0824c2201" type="abnormal"><l rend="text-indent:0em">信中能妙解</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0824c2206" rend="margin-left:1em;inline"><note place="inline">信即五根之一法解即心所之別名妙乃細入於無中能
+<pb ed="K" xml:id="K35.1259.0825a" n="0825a"/>
+<lb ed="K" n="0825a01"/>即高出於品彙</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825a0107" type="abnormal"><l rend="text-indent:0em">赫日爍冰池</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a0112" rend="margin-left:1em;inline"><note place="inline">遲日纔昇迨冰斯泮仰啔蟄之大用彰震
+<lb ed="K" n="0825a02"/>滯之全功亦猶智類踆烏愚同澌沼慧光纔出幽執自明</note>。</p></cb:div>
+<lb ed="K" n="0825a03"/><cb:div type="orig"><lg xml:id="lgK35p0825a0301" type="abnormal"><l rend="text-indent:0em">喻性本來眀</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a0306" rend="margin-left:1em;inline"><note place="inline">其性本明仍湏取喻恐心未悟更假言詮則事無不彰理
+<lb ed="K" n="0825a04"/>無不曉圓覺經云雲駛月運舟行岸移</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825a0416" type="abnormal"><l rend="text-indent:0em">法天心是道</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a0421" rend="margin-left:1em;inline"><note place="inline">上聖宗空法空
+<lb ed="K" n="0825a05"/>證聖唯心悟道道悟非心維摩經云天人得道此為證</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825a0522" type="abnormal"><l rend="text-indent:0em">達時悟有緣</l></lg></cb:div>
+<lb ed="K" n="0825a06"/><cb:div type="commentary"><p xml:id="pK35p0825a0601" rend="margin-left:1em"><note place="inline">四智菩提二空真理達之者無限悟之者有緣淨名經云達諸法相無<g ref="#CB07724">𦊱</g>礙</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825a0630" type="abnormal"><l rend="text-indent:0em">諸聖
+<lb ed="K" n="0825a07"/>開懷抱</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a0704" rend="margin-left:1em;inline"><note place="inline">諸大聖人虛懷接物功無不利法無不周庶使含生咸登覺道法華
+<lb ed="K" n="0825a08"/>經云開方便門示真實相</note>。</p></cb:div>
+<lb ed="K" n="0825a09"/><cb:div type="orig"><lg xml:id="lgK35p0825a0901" type="abnormal"><l rend="text-indent:0em">求福還如夢</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a0906" rend="margin-left:1em;inline"><note place="inline">達道之人豈求世福如夢如幻非有非空如箭射空勢盡
+<lb ed="K" n="0825a10"/>還墮金剛經云一切有為法如夢幻泡影</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825a1017" type="abnormal"><l rend="text-indent:0em">性通慧不知</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a1022" rend="margin-left:1em;inline"><note place="inline">性含妙有染習
+<lb ed="K" n="0825a11"/>皆忘般若無知無所不知真俗諦上了義無差仁王經云慧善解脫</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825a1127" type="abnormal"><l rend="text-indent:0em">是非身
+<lb ed="K" n="0825a12"/>法相</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a1203" rend="margin-left:1em;inline"><note place="inline">蘊處日身<g ref="#CB12017">䡄</g>持名法出纏為是在染成非瑜伽論云在纏名如來藏出纏号大
+<lb ed="K" n="0825a13"/>法身</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825a1303" type="abnormal"><l rend="text-indent:0em">殊勝若何為</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a1308" rend="margin-left:1em;inline"><note place="inline">清淨之因本自殊勝覽之無際應用多方法華
+<lb ed="K" n="0825a14"/>經云殊特妙好如天樹王</note>。</p></cb:div>
+<lb ed="K" n="0825a15"/><cb:div type="orig"><lg xml:id="lgK35p0825a1501" type="abnormal"><l rend="text-indent:0em">願樂與精進</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a1506" rend="margin-left:1em;inline"><note place="inline">願樂欲聞如來正法不怠精進俾豋菩提法華經云又見
+<lb ed="K" n="0825a16"/>菩薩勇猛精進</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825a1607" type="abnormal"><l rend="text-indent:0em">二途俱妄為</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a1612" rend="margin-left:1em;inline"><note place="inline">真假二途非虛與妄攝歸一性廓徹真空
+<lb ed="K" n="0825a17"/>金剛頌云二邊純莫立中道不湏安</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825a1715" type="abnormal"><l rend="text-indent:0em">無機誰辯別</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a1720" rend="margin-left:1em;inline"><note place="inline">得道無機見諦
+<lb ed="K" n="0825a18"/>息慮辯之者少別之者誰法華經云如我所說法唯汝能證知</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825a1825" type="abnormal"><l rend="text-indent:0em">撈月海中
+<lb ed="K" n="0825a19"/>迷</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a1902" rend="margin-left:1em;inline"><note place="inline">情迷妄執眼病虛觀圓成實處以明真徧計無中而說有金剛頌云猿猴探水月莨
+<lb ed="K" n="0825a20"/>菪拾苞針</note>。</p></cb:div>
+<lb ed="K" n="0825a21"/><cb:div type="orig"><lg xml:id="lgK35p0825a2101" type="abnormal"><l rend="text-indent:0em">安心袪妄想</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a2106" rend="margin-left:1em;inline"><note place="inline">喧嚻塵境寂默悲聲妄想潛袪真心自隱法華經云其心
+<lb ed="K" n="0825a22"/>安如海</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825a2204" type="abnormal"><l rend="text-indent:0em">烏兔豈能隨</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825a2209" rend="margin-left:1em;inline"><note place="inline">隙影難流浮生自逸無情追逐宴坐忘機五欲
+<pb ed="K" xml:id="K35.1259.0825b" n="0825b"/>
+<lb ed="K" n="0825b01"/>不生四時寧變放光般若經云法無動轉無去來故</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825b0121" type="abnormal"><l rend="text-indent:0em">一善性中得</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b0126" rend="margin-left:1em;inline"><note place="inline">沉一
+<lb ed="K" n="0825b02"/>念心通三種性隱於毫木善乃得中是成佛之因為利生之要普門品云心念不空過</note>。</p></cb:div>
+<lb ed="K" n="0825b03"/><cb:div type="orig"><lg xml:id="lgK35p0825b0301" type="abnormal"><l rend="text-indent:0em">貪緣去莫疑</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b0306" rend="margin-left:1em;inline"><note place="inline">貪隱愛源緣為因本捨之不礙去之何疑維摩經云貪著
+<lb ed="K" n="0825b04"/>禪味是菩薩縛</note>。</p></cb:div>
+<lb ed="K" n="0825b05"/><cb:div type="orig"><lg xml:id="lgK35p0825b0501" type="abnormal"><l rend="text-indent:0em">圓果利皆通</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b0506" rend="margin-left:1em;inline"><note place="inline">障盡習除表佛身之清淨因圓果滿彰聖德之周隆皆覩
+<lb ed="K" n="0825b06"/>神通咸蒙利益法華經云若讀誦通利</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825b0616" type="abnormal"><l rend="text-indent:0em">心關方寸了</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b0621" rend="margin-left:1em;inline"><note place="inline">其有內心或關
+<lb ed="K" n="0825b07"/>外景全憑方亍了達是非華嚴經云若人欲了知三世一切佛應觀法界性一切由心造</note>。</p></cb:div>
+<lb ed="K" n="0825b08"/><cb:div type="orig"><lg xml:id="lgK35p0825b0801" type="abnormal"><l rend="text-indent:0em">清涼逢世住</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b0806" rend="margin-left:1em;inline"><note place="inline">一真不昧三界清涼為世眾生去諸執惱獲大利益永滌
+<lb ed="K" n="0825b09"/>塵勞法華經云我此土安隱天人常充滿</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825b0917" type="abnormal"><l rend="text-indent:0em">甚處有煩惱</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b0922" rend="margin-left:1em;inline"><note place="inline">妄緣纔息煩<g ref="#CB08974">𢙉</g>
+<lb ed="K" n="0825b10"/>自祛貞性顯然身器清淨楞伽經云煩惱<anchor xml:id="beg_a" type="cb-app"/>已<anchor xml:id="end_a"/>盡習亦除</note>。</p></cb:div>
+<lb ed="K" n="0825b11"/><cb:div type="orig"><lg xml:id="lgK35p0825b1101" type="abnormal"><l rend="text-indent:0em">樂善證菩提</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b1106" rend="margin-left:1em;inline"><note place="inline">鄙棄塵緣趣求善法積功累德鍊行修心遂證菩提
+<lb ed="K" n="0825b12"/>乃成道果表佛纖瑕必去片善無遺法華經云志意和雅能至菩提</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825b1227" type="abnormal"><l rend="text-indent:0em">真空瞥
+<lb ed="K" n="0825b13"/>見時</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b1303" rend="margin-left:1em;inline"><note place="inline">利根菩薩見諦理於片時直往聖人悟真空於一念不勞經劫何在長年法華
+<lb ed="K" n="0825b14"/>經云於<g ref="#CB09400">𠛴</g>郍頃發菩提心</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825b1411" type="abnormal"><l rend="text-indent:0em">不為眼所著</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b1416" rend="margin-left:1em;inline"><note place="inline">心若不寧貪著外境情無所繫
+<lb ed="K" n="0825b15"/>一向內緣青黃靡窺長短奚<g ref="#CB15164">󳬼</g>圓覺經云譬如病目見空中花</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825b1525" type="abnormal"><l rend="text-indent:0em">誰肯逐狂
+<lb ed="K" n="0825b16"/>迷</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b1602" rend="margin-left:1em;inline"><note place="inline">自諳正道誰肯逐迷不假指南幸可守轍百法<g ref="#CB00562">䟽</g>云不迷心王不迷心所</note>。</p></cb:div>
+<lb ed="K" n="0825b17"/><cb:div type="orig"><lg xml:id="lgK35p0825b1701" type="abnormal"><l rend="text-indent:0em">戒律自持秉</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b1706" rend="margin-left:1em;inline"><note place="inline">万法之門非戒與律凢聖之路唯悟與迷還用秉持以成
+<lb ed="K" n="0825b18"/>妙道法華經云又見佛子持戒清潔如淨明珠</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825b1819" type="abnormal"><l rend="text-indent:0em">人心無了期</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b1824" rend="margin-left:1em;inline"><note place="inline">未歷真途
+<lb ed="K" n="0825b19"/>色塵浩浩能窺覺海欲浪沉沉法華經云求名利無猒</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825b1922" type="abnormal"><l rend="text-indent:0em">莫將因果比</l></lg></cb:div>
+<lb ed="K" n="0825b20"/><cb:div type="commentary"><p xml:id="pK35p0825b2001" rend="margin-left:1em"><note place="inline">真性凝然至理湛寂豈同因果隨運遷流金剛頌云果因知是幻逍遙自在人</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825b2031" type="abnormal"><l rend="text-indent:0em">清
+<lb ed="K" n="0825b21"/>淨不思議</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825b2105" rend="margin-left:1em;inline"><note place="inline">清淨之理妙法顯然不可思議難以測度金剛經云果報亦不
+<lb ed="K" n="0825b22"/>可思議</note>。</p></cb:div>
+<pb ed="K" xml:id="K35.1259.0825c" n="0825c"/>
+<lb ed="K" n="0825c01"/><cb:div type="orig"><lg xml:id="lgK35p0825c0101" type="abnormal"><l rend="text-indent:0em">定性歸何趣</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c0106" rend="margin-left:1em;inline"><note place="inline">性雖未定法且隨緣真性既前妄緣俱泯金剛經云我皆
+<lb ed="K" n="0825c02"/>令入無餘涅槃</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825c0207" type="abnormal"><l rend="text-indent:0em">真宗事不迷</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c0212" rend="margin-left:1em;inline"><note place="inline">四智菩提得名般若二無上果故曰真宗
+<lb ed="K" n="0825c03"/>事理不迷旨喻深當法華經云諸法從本來常自寂滅相</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825c0323" type="abnormal"><l rend="text-indent:0em">法身無所得</l></lg></cb:div>
+<lb ed="K" n="0825c04"/><cb:div type="commentary"><p xml:id="pK35p0825c0401" rend="margin-left:1em"><note place="inline">異於報化稱曰法身智證理時都無所得唯識論云若時於所緣智都無所得</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825c0431" type="abnormal"><l rend="text-indent:0em">愚
+<lb ed="K" n="0825c05"/>智有高低</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c0505" rend="margin-left:1em;inline"><note place="inline">瞢於善<g ref="#CB08891">𢙣</g>故曰愚人曉彼果因目之智者根有利鈍見有高低
+<lb ed="K" n="0825c06"/>法華經云大根大莖小枝小葉</note>。</p></cb:div>
+<lb ed="K" n="0825c07"/><cb:div type="orig"><lg xml:id="lgK35p0825c0701" type="abnormal"><l rend="text-indent:0em">滿月似金容</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c0706" rend="margin-left:1em;inline"><note place="inline">佛靣圓明一如滿月佛身堅固頗類黃金相好威光容儀
+<lb ed="K" n="0825c08"/>炟赫華嚴經云面如滿月目如蓮</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825c0814" type="abnormal"><l rend="text-indent:0em">因緣隨相好</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c0819" rend="margin-left:1em;inline"><note place="inline">世尊於三祇劫內持
+<lb ed="K" n="0825c09"/>無瞋行果中感三十二相八十種好莊嚴其身智度論云自在熾盛與端嚴</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825c0930" type="abnormal"><l rend="text-indent:0em">但無
+<lb ed="K" n="0825c10"/>人我心</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c1004" rend="margin-left:1em;inline"><note place="inline">未斷貪瞋難除人我若無妄執便證圓成淨名經云我尚不可得非我何
+<lb ed="K" n="0825c11"/>可得</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825c1103" type="abnormal"><l rend="text-indent:0em">觀見真如道</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c1108" rend="margin-left:1em;inline"><note place="inline">相唯眼見理亦智觀矧真如無形實際非體唯識論
+<lb ed="K" n="0825c12"/>云唯諸聖者自內所證</note>。</p></cb:div>
+<lb ed="K" n="0825c13"/><cb:div type="orig"><lg xml:id="lgK35p0825c1301" type="abnormal"><l rend="text-indent:0em">釋了還依舊</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c1306" rend="margin-left:1em;inline"><note place="inline">旨妙言玄湏憑解釋文雄義博難可了知<g ref="#CB07773">𠜂</g>補時新
+<lb ed="K" n="0825c14"/>至理依舊淨名經云無雜文字說解脫乎</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825c1417" type="abnormal"><l rend="text-indent:0em">經言理不虧</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c1422" rend="margin-left:1em;inline"><note place="inline">能詮之文曰經
+<lb ed="K" n="0825c15"/>所詮之義曰理二邊不著一性自彰維摩經云依了義經不依不了義經</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825c1529" type="abnormal"><l rend="text-indent:0em">千穿與
+<lb ed="K" n="0825c16"/>萬鑿</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c1603" rend="margin-left:1em;inline"><note place="inline">造論解經製<g ref="#CB00562">䟽</g>釋義同成正理共讚微言雖形穿鑿之功不變凝然之性</note>。</p></cb:div>
+<lb ed="K" n="0825c17"/><cb:div type="orig"><lg xml:id="lgK35p0825c1701" type="abnormal"><l rend="text-indent:0em">求取果圓時</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c1706" rend="margin-left:1em;inline"><note place="inline">資粮加行功業將圓無間金剛種習方盡既除取相又破
+<lb ed="K" n="0825c18"/>求名唯識論云離二取相故尒時住唯識</note>。</p></cb:div>
+<lb ed="K" n="0825c19"/><cb:div type="orig"><lg xml:id="lgK35p0825c1901" type="abnormal"><l rend="text-indent:0em">意欲求諸法</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c1906" rend="margin-left:1em;inline"><note place="inline">雖仰三身不求諸法真心頓悟妙法圓通法華經云若人
+<lb ed="K" n="0825c20"/>有福曾供養佛志求勝法</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825c2011" type="abnormal"><l rend="text-indent:0em">真心不阻違</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c2016" rend="margin-left:1em;inline"><note place="inline">佛<g ref="#CB13593">󳔙</g>眾生本無真偽道風不礙
+<lb ed="K" n="0825c21"/>塵境多迷大般若經云理事無礙也</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825c2115" type="abnormal"><l rend="text-indent:0em">到頭湏是實</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c2120" rend="margin-left:1em;inline"><note place="inline">攸久驗真到頭歸實
+<lb ed="K" n="0825c22"/>至人無偽大士本淳金剛經云是真語者實語者</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0825c2220" type="abnormal"><l rend="text-indent:0em">色相自生疑</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0825c2225" rend="margin-left:1em;inline"><note place="inline">覩相
+<pb ed="K" xml:id="K35.1259.0826a" n="0826a"/>
+<lb ed="K" n="0826a01"/>生善視色興疑幻化不真虛妄分別金剛經云若以色見我以音聲求我是人行邪道不
+<lb ed="K" n="0826a02"/>能見如來</note>。</p></cb:div>
+<lb ed="K" n="0826a03"/><cb:div type="orig"><lg xml:id="lgK35p0826a0301" type="abnormal"><l rend="text-indent:0em">經教不通理</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a0306" rend="margin-left:1em;inline"><note place="inline">經乃佛語教謂法宗若不開悟真心曷以通達妙理法華經云
+<lb ed="K" n="0826a04"/>不得諸法不知不見</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826a0409" type="abnormal"><l rend="text-indent:0em">疑緣獨是非</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a0414" rend="margin-left:1em;inline"><note place="inline">疑通分別真見即除緣謂因緣和合
+<lb ed="K" n="0826a05"/>方泯智度論云捨無常色獲得常色</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826a0515" type="abnormal"><l rend="text-indent:0em">大巧與大辯</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a0520" rend="margin-left:1em;inline"><note place="inline">智文機妙巧拙全真
+<lb ed="K" n="0826a06"/>不露鋒鋩自透法界淨名經云辯才無滯</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826a0617" type="abnormal"><l rend="text-indent:0em">終不妄施為</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a0622" rend="margin-left:1em;inline"><note place="inline">佛開方便濟物
+<lb ed="K" n="0826a07"/>度生巳滌妄緣必躋真覺法華經云如來種種說法皆為一佛乘故</note>。</p></cb:div>
+<lb ed="K" n="0826a08"/><cb:div type="orig"><lg xml:id="lgK35p0826a0801" type="abnormal"><l rend="text-indent:0em">功行四周天</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a0806" rend="margin-left:1em;inline"><note place="inline">佛之功行歷天不周雖法有去來而真相常住淨名經云或作
+<lb ed="K" n="0826a09"/>日月天梵王世界主</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826a0909" type="abnormal"><l rend="text-indent:0em">威光無不到</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a0914" rend="margin-left:1em;inline"><note place="inline">功圓法界福利群生有礙皆通無幽
+<lb ed="K" n="0826a10"/>不燭法華經云深達罪福相徧照於十方</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826a1017" type="abnormal"><l rend="text-indent:0em">寂心本是空</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a1022" rend="margin-left:1em;inline"><note place="inline">凝神息慮始彰
+<lb ed="K" n="0826a11"/>寂靜之心猒苦斷集密叶真空之性淨名經云寂滅是菩提滅諸相故</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826a1128" type="abnormal"><l rend="text-indent:0em">真正降
+<lb ed="K" n="0826a12"/>邪道</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a1203" rend="margin-left:1em;inline"><note place="inline">背偽曰真捨邪稱正自合中道不滯二邊法華經云拔祁說涅槃</note>。</p></cb:div>
+<lb ed="K" n="0826a13"/><cb:div type="orig"><lg xml:id="lgK35p0826a1301" type="abnormal"><l rend="text-indent:0em">論法尋常是</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a1306" rend="margin-left:1em;inline"><note place="inline">仁王經云菩薩摩訶薩論法住無分別無彼此相無自他
+<lb ed="K" n="0826a14"/>相常行化利無化利相</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826a1410" type="abnormal"><l rend="text-indent:0em">真空好仗依</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a1415" rend="margin-left:1em;inline"><note place="inline">真空即法身與一切法為依楞
+<lb ed="K" n="0826a15"/>嚴經云本如來藏妙真如性非於根出不於空生彼非因緣非自然性</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826a1528" type="abnormal"><l rend="text-indent:0em">如來因
+<lb ed="K" n="0826a16"/>地厚</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a1603" rend="margin-left:1em;inline"><note place="inline">仁王經云從初習忍至金剛定十三觀門修行智慧深厚皆為法師依持建立</note>。</p></cb:div>
+<lb ed="K" n="0826a17"/><cb:div type="orig"><lg xml:id="lgK35p0826a1701" type="abnormal"><l rend="text-indent:0em">清淨本無機</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a1706" rend="margin-left:1em;inline"><note place="inline">勝<g ref="#CB13059">󳌃</g>經云出纏号大法身以顯法身離諸障染是名清淨
+<lb ed="K" n="0826a18"/>又云無言無說無本無機俱為寂滅矣</note>。</p></cb:div>
+<lb ed="K" n="0826a19"/><cb:div type="orig"><lg xml:id="lgK35p0826a1901" type="abnormal"><l rend="text-indent:0em">去來何所得</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a1906" rend="margin-left:1em;inline"><note place="inline">真諦論云無相之真妙絕常境聽者無以容其聽智者無
+<lb ed="K" n="0826a20"/>以運其智即無去來無所得矣</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826a2013" type="abnormal"><l rend="text-indent:0em">果證不參差</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a2018" rend="margin-left:1em;inline"><note place="inline">修十善果報定感鐵輪王
+<lb ed="K" n="0826a21"/>位不參差矣仁王經云上品十善鐵輪王</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826a2117" type="abnormal"><l rend="text-indent:0em">大樹深根蔕</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826a2122" rend="margin-left:1em;inline"><note place="inline">初地<anchor xml:id="beg_b" type="cb-app"/>已<anchor xml:id="end_b"/>上菩薩
+<lb ed="K" n="0826a22"/>總喻大樹證不退故名深根蔕法華經云安住神通轉不退輪度諸眾生是名大樹</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826a2233" type="abnormal"><l rend="text-indent:0em">非
+<pb ed="K" xml:id="K35.1259.0826b" n="0826b"/>
+<lb ed="K" n="0826b01"/>緣豈可知</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b0105" rend="margin-left:1em;inline"><note place="inline">妙性圓明離諸名相既非幻識所緣豈以妄智能知維摩經云
+<lb ed="K" n="0826b02"/>不可以智知不可以識識</note>。</p></cb:div>
+<lb ed="K" n="0826b03"/><cb:div type="orig"><lg xml:id="lgK35p0826b0301" type="abnormal"><l rend="text-indent:0em">住見輪廻定</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b0306" rend="margin-left:1em;inline"><note place="inline">住者依止見謂諸見法華經云入邪見稠林依此諸見具
+<lb ed="K" n="0826b04"/>六十二為因定受輪廻苦果</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826b0412" type="abnormal"><l rend="text-indent:0em">桑田變海涯</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b0417" rend="margin-left:1em;inline"><note place="inline">諸有情類輪廻出沒不悟
+<lb ed="K" n="0826b05"/>真覺了無達期海變桑田靈源不竭瑜伽論云悟則一剎郍不悟恒沙劫</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826b0529" type="abnormal"><l rend="text-indent:0em">年從
+<lb ed="K" n="0826b06"/>經劫減</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b0604" rend="margin-left:1em;inline"><note place="inline">瑜伽論云劫初人壽八万四千歲從百年減一年減至人壽十歲從
+<lb ed="K" n="0826b07"/>百年增一年復至八万四千歲一減一增為一中刧矣</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826b0722" type="abnormal"><l rend="text-indent:0em">果報盡相隨</l></lg></cb:div>
+<lb ed="K" n="0826b08"/><cb:div type="commentary"><p xml:id="pK35p0826b0801" rend="margin-left:1em"><note place="inline">作善善報作惡惡報攀因逐果了無盡期諸經云勝因生善道惡業墮泥犁</note>。</p></cb:div>
+<lb ed="K" n="0826b09"/><cb:div type="orig"><lg xml:id="lgK35p0826b0901" type="abnormal"><l rend="text-indent:0em">德廣徧羣生</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b0906" rend="margin-left:1em;inline"><note place="inline">佛具萬德悉被羣生四願深廣為三乘人應機說法
+<lb ed="K" n="0826b10"/>各得解悟仁王經云於億恒土化羣生</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826b1016" type="abnormal"><l rend="text-indent:0em">慈悲懷節操</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b1021" rend="margin-left:1em;inline"><note place="inline">興慈運悲救生
+<lb ed="K" n="0826b11"/>拔苦持清淨節操開忍辱道塲法華經云常柔和能忍慈悲於一切不生懈怠心</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826b1132" type="abnormal"><l rend="text-indent:0em">不
+<lb ed="K" n="0826b12"/>拘前後際</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b1205" rend="margin-left:1em;inline"><note place="inline">唯佛真心混融法界三際徵求了無所得無相無為疑然虛寂
+<lb ed="K" n="0826b13"/>真諦論云真體常存非聖所造</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826b1313" type="abnormal"><l rend="text-indent:0em">無著亦難討</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b1318" rend="margin-left:1em;inline"><note place="inline">真諦論云言雖通理
+<lb ed="K" n="0826b14"/>理本無著理與言絕亦不能討矣</note>。</p></cb:div>
+<lb ed="K" n="0826b15"/><cb:div type="orig"><lg xml:id="lgK35p0826b1501" type="abnormal"><l rend="text-indent:0em">慈心如不動</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b1506" rend="margin-left:1em;inline"><note place="inline">慈悲喜捨普施含生說法利人心能廣大仁王經云於第
+<lb ed="K" n="0826b16"/>一義常不動</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826b1606" type="abnormal"><l rend="text-indent:0em">方寸自東西</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b1611" rend="margin-left:1em;inline"><note place="inline">妄心不定必有差殊若真法一如万緣都
+<lb ed="K" n="0826b17"/>泯楞嚴經云覺知分別心性空無在者</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826b1716" type="abnormal"><l rend="text-indent:0em">性種常清淨</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b1721" rend="margin-left:1em;inline"><note place="inline">法界清淨性種
+<lb ed="K" n="0826b18"/>凝然一體無差三天示現仁王經云習種銅輪一天下銀輪三天性種性</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826b1829" type="abnormal"><l rend="text-indent:0em">無令意
+<lb ed="K" n="0826b19"/>馬嘶</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b1903" rend="margin-left:1em;inline"><note place="inline">瑜伽論云意馬是八識中第六有漏意識一念之頃無不徧處從歡喜地<anchor xml:id="beg_c" type="cb-app"/>已<anchor xml:id="end_c"/>去
+<lb ed="K" n="0826b20"/>轉成無漏妙觀察智意馬忘嘶</note>。</p></cb:div>
+<lb ed="K" n="0826b21"/><cb:div type="orig"><lg xml:id="lgK35p0826b2101" type="abnormal"><l rend="text-indent:0em">悲智羣生類</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b2106" rend="margin-left:1em;inline"><note place="inline">唯識論云悲謂有情起悲智謂後得起智由是悲故
+<lb ed="K" n="0826b22"/>拔羣生類出離諸苦由是智故接羣生類證涅槃樂</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826b2221" type="abnormal"><l rend="text-indent:0em">終無識法為</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826b2226" rend="margin-left:1em;inline"><note place="inline">性非
+<pb ed="K" xml:id="K35.1259.0826c" n="0826c"/>
+<lb ed="K" n="0826c01"/>質礙與道無為識識轉差法法自會法華經云我等今者不復自隨心行憍慢瞋恚諸惡
+<lb ed="K" n="0826c02"/>之心等</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826c0204" type="abnormal"><l rend="text-indent:0em">業輪常自轉</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c0209" rend="margin-left:1em;inline"><note place="inline">瑜伽論云業為因輪是果循環諸有往復
+<lb ed="K" n="0826c03"/>如輪業招報定名常自轉</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826c0311" type="abnormal"><l rend="text-indent:0em">六道甚棲遟</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c0316" rend="margin-left:1em;inline"><note place="inline">玄贊云六趣往來遊履名
+<lb ed="K" n="0826c04"/>道不遇諸佛不聞正法為生死所因寔甚棲遟矣</note>。</p></cb:div>
+<lb ed="K" n="0826c05"/><cb:div type="orig"><lg xml:id="lgK35p0826c0501" type="abnormal"><l rend="text-indent:0em">性海理無邊</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c0506" rend="margin-left:1em;inline"><note place="inline">文殊發願經云清淨諸性海嚴持佛剎海度脫眾生海窮
+<lb ed="K" n="0826c06"/>盡無邊理智海經宣眾海剎廣無邊</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826c0615" type="abnormal"><l rend="text-indent:0em">堪傷像法遷</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c0620" rend="margin-left:1em;inline"><note place="inline">法住經云正法
+<lb ed="K" n="0826c07"/>五百年像法一千年末法一万年俗諦有遷即堪傷也</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826c0722" type="abnormal"><l rend="text-indent:0em">如來慈忍力</l></lg></cb:div>
+<lb ed="K" n="0826c08"/><cb:div type="commentary"><p xml:id="pK35p0826c0801" rend="margin-left:1em"><note place="inline">報恩經云調達以五百醉象令突世尊佛以五指化五百師子伏其醉象調達泣禮如來
+<lb ed="K" n="0826c09"/>佛為說法是佛之慈忍力也</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826c0912" type="abnormal"><l rend="text-indent:0em">舉手向青天</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c0917" rend="margin-left:1em;inline"><note place="inline">本行經云佛示化生四方
+<lb ed="K" n="0826c10"/>各行七步表離四相一手指地表救三塗一手指天表出過三界利樂人天</note>。</p></cb:div>
+<lb ed="K" n="0826c11"/><cb:div type="orig"><lg xml:id="lgK35p0826c1101" type="abnormal"><l rend="text-indent:0em">利益及三界</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c1106" rend="margin-left:1em;inline"><note place="inline">利益群生包含法界不求不證定出輪廻法華經云今此
+<lb ed="K" n="0826c12"/>三界皆是我有其中眾生悉是吾子</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826c1215" type="abnormal"><l rend="text-indent:0em">日光明佛道</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c1220" rend="margin-left:1em;inline"><note place="inline">法日麗天永祛昏闇
+<lb ed="K" n="0826c13"/>智光照物癡垢自除佛道玄微凡愚莫測法華經云智慧光明如日之照</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826c1329" type="abnormal"><l rend="text-indent:0em">普照無
+<lb ed="K" n="0826c14"/>邊方</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c1403" rend="margin-left:1em;inline"><note place="inline">慧炬舒輝法光普照利樂悲苦徧極無邊法華經云光明照十方名為無
+<lb ed="K" n="0826c15"/>邊方</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826c1503" type="abnormal"><l rend="text-indent:0em">能破諸煩惱</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c1508" rend="margin-left:1em;inline"><note place="inline">諸煩惱障四智能斷習氣自絕退達法性唯識
+<lb ed="K" n="0826c16"/>論云由斷續生煩惱證真解脫</note>。</p></cb:div>
+<lb ed="K" n="0826c17"/><cb:div type="orig"><lg xml:id="lgK35p0826c1701" type="abnormal"><l rend="text-indent:0em">相引無邊義</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c1706" rend="margin-left:1em;inline"><note place="inline">如來現相指引迷情法華經云引導眾生智究窮源
+<lb ed="K" n="0826c18"/>通達無量無邊之義</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826c1809" type="abnormal"><l rend="text-indent:0em">還迷不省緣</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c1814" rend="margin-left:1em;inline"><note place="inline">還遷六趣沉溺四生不省善惡兩途
+<lb ed="K" n="0826c19"/>逐境攀緣顛倒法華經云迷惑不受教</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826c1916" type="abnormal"><l rend="text-indent:0em">悟來隨旨受</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c1921" rend="margin-left:1em;inline"><note place="inline">悟則剎郍迷則
+<lb ed="K" n="0826c20"/>經刧若能觀察了證本源廓然無礙起信論云如人覺了<g ref="#CB01076">䪺</g>悟東西心實不動即入法門
+<lb ed="K" n="0826c21"/>矣</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0826c2102" type="abnormal"><l rend="text-indent:0em">真實本如然</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0826c2107" rend="margin-left:1em;inline"><note place="inline">真如實際本無染淨因緣至理絕言顯是疑然法性
+<lb ed="K" n="0826c22"/>法華經云諸法從本來常自寂滅相</note>。</p></cb:div>
+<pb ed="K" xml:id="K35.1259.0827a" n="0827a"/>
+<lb ed="K" n="0827a01"/><cb:div type="orig"><lg xml:id="lgK35p0827a0101" type="abnormal"><l rend="text-indent:0em">心境求緣識</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a0106" rend="margin-left:1em;inline"><note place="inline">起信論云三界虛偽唯心所造若離心故無六塵境一切
+<lb ed="K" n="0827a02"/>諸有遇緣即生皆以意求俱從識起矣</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827a0216" type="abnormal"><l rend="text-indent:0em">推之遠更遷</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a0221" rend="margin-left:1em;inline"><note place="inline">仁王經<g ref="#CB00562">䟽</g>序云
+<lb ed="K" n="0827a03"/>推之於無境智都寂遷之於有異念更增棄妄歸真共臻實理</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827a0325" type="abnormal"><l rend="text-indent:0em">非論修與
+<lb ed="K" n="0827a04"/>證</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a0402" rend="margin-left:1em;inline"><note place="inline">仁王經云若菩薩不著文字不離文字能如是修不見修相是名為修又云菩提之
+<lb ed="K" n="0827a05"/>法非修非證</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827a0506" type="abnormal"><l rend="text-indent:0em">達性自周圓</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a0511" rend="margin-left:1em;inline"><note place="inline">達性曉了法也起信論云是心本來自性
+<lb ed="K" n="0827a06"/>清淨達悟一法悉乃周圓</note>。</p></cb:div>
+<lb ed="K" n="0827a07"/><cb:div type="orig"><lg xml:id="lgK35p0827a0701" type="abnormal"><l rend="text-indent:0em">識細恒沙界</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a0706" rend="margin-left:1em;inline"><note place="inline">起信論云識有<g ref="#CB04974">󱍮</g>細凡夫識<g ref="#CB04974">󱍮</g>中<g ref="#CB04974">󱍮</g>菩薩<g ref="#CB04974">󱍮</g>中細若細中
+<lb ed="K" n="0827a08"/>細諸佛境界真性智性徧滿恒沙</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827a0814" type="abnormal"><l rend="text-indent:0em">經雄滿大千</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a0819" rend="margin-left:1em;inline"><note place="inline">華嚴經云有經一卷
+<lb ed="K" n="0827a09"/>量滿大千世界在一微塵內有智慧人能破此微塵取經利益一切眾生</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827a0929" type="abnormal"><l rend="text-indent:0em">光明臨
+<lb ed="K" n="0827a10"/>世俗</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a1003" rend="margin-left:1em;inline"><note place="inline">瑜伽論云大圓鑑智朗曜群迷世俗冥瞢悉令開悟又法華經云光明照世間
+<lb ed="K" n="0827a11"/>能滅眾生闇</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827a1106" type="abnormal"><l rend="text-indent:0em">譬喻說無邊</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a1111" rend="margin-left:1em;inline"><note place="inline">涅槃經云如來說諸譬喻為執邊故教令
+<lb ed="K" n="0827a12"/>有情識其無邊十二時中親常樂果矣</note>。</p></cb:div>
+<lb ed="K" n="0827a13"/><cb:div type="orig"><lg xml:id="lgK35p0827a1301" type="abnormal"><l rend="text-indent:0em">益彼惠生民</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a1306" rend="margin-left:1em;inline"><note place="inline">佛之恩德利諸眾生常運慈悲令知妙善維摩經云菩薩
+<lb ed="K" n="0827a14"/>利他不求自利</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827a1407" type="abnormal"><l rend="text-indent:0em">勿憂登聖道</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a1412" rend="margin-left:1em;inline"><note place="inline">瓔珞經云徃昔諸佛依四十二位賢聖階
+<lb ed="K" n="0827a15"/>降所謂十住十行十廻向十地等妙二位依此修行勿憂不登聖道矣</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827a1528" type="abnormal"><l rend="text-indent:0em">一麻兼
+<lb ed="K" n="0827a16"/>一麦</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a1603" rend="margin-left:1em;inline"><note place="inline">本行經說佛因地六年苦行日食一麻一麦又梵<g ref="#CB07560">󱶈</g>經云有求食者取<anchor xml:id="beg_d" type="cb-app"/>一<anchor xml:id="end_d"/>麻麦
+<lb ed="K" n="0827a17"/>濟之真為惠施</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827a1707" type="abnormal"><l rend="text-indent:0em">慈惠恩施好</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a1712" rend="margin-left:1em;inline"><note place="inline">興慈施惠為三善根起信論云有求財者
+<lb ed="K" n="0827a18"/>隨力施與見危逼者方便救護有求法者隨其所解而為講法</note>。</p></cb:div>
+<lb ed="K" n="0827a19"/><cb:div type="orig"><lg xml:id="lgK35p0827a1901" type="abnormal"><l rend="text-indent:0em">情妄皆非正</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a1906" rend="margin-left:1em;inline"><note place="inline">起信論云以有妄心即熏習無明不了真如法故不覺念
+<lb ed="K" n="0827a20"/>起現妄境界熏習妄故造種種業受一切若名為非正</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827a2022" type="abnormal"><l rend="text-indent:0em">紅蓮淤水鮮</l></lg></cb:div>
+<lb ed="K" n="0827a21"/><cb:div type="commentary"><p xml:id="pK35p0827a2101" rend="margin-left:1em"><note place="inline">淨名經云譬如高原陸地不生蓮華畀濕淤泥能生華故蓮開淤水染汙本無華<g ref="#CB01513">󰗩</g>鮮妍
+<lb ed="K" n="0827a22"/>馨香自有</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827a2205" type="abnormal"><l rend="text-indent:0em">有情俱是相</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827a2210" rend="margin-left:1em;inline"><note place="inline">有情動用俱是相心若得相除<g ref="#CB01076">䪺</g>顯實相相而
+<pb ed="K" xml:id="K35.1259.0827b" n="0827b"/>
+<lb ed="K" n="0827b01"/>非相是顯真空無量義經云非相不相皆名實相</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827b0120" type="abnormal"><l rend="text-indent:0em">威力等無邊</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b0125" rend="margin-left:1em;inline"><note place="inline">佛具
+<lb ed="K" n="0827b02"/>十力瑜伽論云菩薩修行有五種性能生勢力承慈化利威等無邊</note>。</p></cb:div>
+<lb ed="K" n="0827b03"/><cb:div type="orig"><lg xml:id="lgK35p0827b0301" type="abnormal"><l rend="text-indent:0em">欲逼諸煩惱</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b0306" rend="margin-left:1em;inline"><note place="inline">瑜伽論云現在有無量諸欲惱逼迫未來眾苦亦然三界
+<lb ed="K" n="0827b04"/>共說此一百二十八煩惱長時隨逐難捨離故</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827b0419" type="abnormal"><l rend="text-indent:0em">非因信所牽</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b0424" rend="margin-left:1em;inline"><note place="inline">起信論云
+<lb ed="K" n="0827b05"/>信成就發心者信業果報能起十善猒生死苦欲求無上菩提信心成就乃至入正定不
+<lb ed="K" n="0827b06"/>為邪所牽引</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827b0606" type="abnormal"><l rend="text-indent:0em">未通一法理</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b0611" rend="margin-left:1em;inline"><note place="inline">一法理者即是真如瑜伽論云不達一法
+<lb ed="K" n="0827b07"/>界即未離生滅心若離生滅心則通諸法界</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827b0718" type="abnormal"><l rend="text-indent:0em">甚處得周旋</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b0723" rend="margin-left:1em;inline"><note place="inline">攝論云凡
+<lb ed="K" n="0827b08"/>夫二乘不能知法理菩薩分得法理唯佛與佛法法平等理理周旋矣</note>。</p></cb:div>
+<lb ed="K" n="0827b09"/><cb:div type="orig"><lg xml:id="lgK35p0827b0901" type="abnormal"><l rend="text-indent:0em">求即剎郍得</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b0906" rend="margin-left:1em;inline"><note place="inline">一念淨心諸緣<g ref="#CB01076">䪺</g>息剎郍得法無所依求維摩經云
+<lb ed="K" n="0827b10"/>不著佛求不著法求攝論亦云剎郍成正覺</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827b1018" type="abnormal"><l rend="text-indent:0em">聦眀智自然</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b1023" rend="margin-left:1em;inline"><note place="inline">智炬明然
+<lb ed="K" n="0827b11"/>色空自顯心境洞會覺寂通明妙用應時聦達無礙法華經云聦慧明達成就自然智</note>。</p></cb:div>
+<lb ed="K" n="0827b12"/><cb:div type="orig"><lg xml:id="lgK35p0827b1201" type="abnormal"><l rend="text-indent:0em">微中玄妙聖</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b1206" rend="margin-left:1em;inline"><note place="inline">教法玄微至聖宣說隨機化物妙覺慈悲法華經云聖主
+<lb ed="K" n="0827b13"/>法之王深遠甚微妙</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827b1309" type="abnormal"><l rend="text-indent:0em">性海量無邊</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b1314" rend="margin-left:1em;inline"><note place="inline">法性之體如海湛然浩浩混融中含
+<lb ed="K" n="0827b14"/>慧本凝虛至極即達無邊佛地經云無量識相盡無邊際</note>。</p></cb:div>
+<lb ed="K" n="0827b15"/><cb:div type="orig"><lg xml:id="lgK35p0827b1501" type="abnormal"><l rend="text-indent:0em">故知不可說</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b1506" rend="margin-left:1em;inline"><note place="inline">仁王經云若菩薩住不可說佛剎說不可說法門得理盡
+<lb ed="K" n="0827b16"/>三昧同佛行處知三界原</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827b1611" type="abnormal"><l rend="text-indent:0em">悲願貪生老</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b1616" rend="margin-left:1em;inline"><note place="inline">起信論云菩薩有三種悲願一
+<lb ed="K" n="0827b17"/>直心二深心三大悲心見諸有情貪受生老遂發大願普垂救拔</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827b1726" type="abnormal"><l rend="text-indent:0em">從此四門
+<lb ed="K" n="0827b18"/>開</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b1802" rend="margin-left:1em;inline"><note place="inline">本行經云佛昔王宮為太子潛興利濟遂開四門次第遊觀見老病死及沙門相倍
+<lb ed="K" n="0827b19"/>懷忻猒從此踰城棲止雪山節修諸行</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827b1916" type="abnormal"><l rend="text-indent:0em">菩提成大道</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b1921" rend="margin-left:1em;inline"><note place="inline">本行經云佛於
+<lb ed="K" n="0827b20"/>菩提樹下現登正覺大道圓成四十五年隨根演法若天若人皆獲妙樂</note>。</p></cb:div>
+<lb ed="K" n="0827b21"/><cb:div type="orig"><lg xml:id="lgK35p0827b2101" type="abnormal"><l rend="text-indent:0em">願我無為法</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b2106" rend="margin-left:1em;inline"><note place="inline">百法論云無為法有六種一虛空無為等是願齊志義我
+<lb ed="K" n="0827b22"/>自在名金剛經頌云齊名八自在獨我<g ref="#CB08764">㝡</g>靈長</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827b2219" type="abnormal"><l rend="text-indent:0em">縱橫徧大千</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827b2224" rend="margin-left:1em;inline"><note place="inline">縱橫者通
+<pb ed="K" xml:id="K35.1259.0827c" n="0827c"/>
+<lb ed="K" n="0827c01"/>達稱一音演法普徧大千法華經云徧覆三千大千世界</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827c0123" type="abnormal"><l rend="text-indent:0em">光眀如皎日</l></lg></cb:div>
+<lb ed="K" n="0827c02"/><cb:div type="commentary"><p xml:id="pK35p0827c0201" rend="margin-left:1em"><note place="inline">四智光明廓清沙界昏昧障闇皎日能除藥師經云安住十方如日照世</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827c0229" type="abnormal"><l rend="text-indent:0em">慧眼照
+<lb ed="K" n="0827c03"/>人天</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827c0303" rend="margin-left:1em;inline"><note place="inline">慧光初發朗耀虛空照極昬衢廓然靈境金剛經頌云慧眼直緣空又華嚴經
+<lb ed="K" n="0827c04"/>云悉得見人天通達無障礙</note>。</p></cb:div>
+<lb ed="K" n="0827c05"/><cb:div type="orig"><lg xml:id="lgK35p0827c0501" type="abnormal"><l rend="text-indent:0em">安樂功殊勝</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827c0506" rend="margin-left:1em;inline"><note place="inline">功滿僧祇法殊果報成等正覺無為無漏善常解脫澄淨
+<lb ed="K" n="0827c06"/>晏然唯識頌云此即無漏界不思議善常安樂解脫身大牟尼名法</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827c0627" type="abnormal"><l rend="text-indent:0em">谷聲聽
+<lb ed="K" n="0827c07"/>郍邊</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827c0703" rend="margin-left:1em;inline"><note place="inline">妙法流布如谷荅響窮佛真智似眼聞聲淨名經云所聞聲與響等</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827c0729" type="abnormal"><l rend="text-indent:0em">不
+<lb ed="K" n="0827c08"/>求還自見</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827c0805" rend="margin-left:1em;inline"><note place="inline">不求真見誰了無生若達本原<g ref="#CB01076">䪺</g>明實際法華經云唯獨自眀
+<lb ed="K" n="0827c09"/>了餘人所不見</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827c0907" type="abnormal"><l rend="text-indent:0em">似對法王前</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827c0912" rend="margin-left:1em;inline"><note place="inline">我佛興世名振十方唯法現前諸佛印可
+<lb ed="K" n="0827c10"/>法華經云破有法王出現世間</note>。</p></cb:div>
+<lb ed="K" n="0827c11"/><cb:div type="orig"><lg xml:id="lgK35p0827c1101" type="abnormal"><l rend="text-indent:0em">樂道心安泰</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827c1106" rend="margin-left:1em;inline"><note place="inline">坥然樂道動息恒安瞑心瞑目勤修正行法華經云安隱
+<lb ed="K" n="0827c12"/>快樂其心泰然</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827c1207" type="abnormal"><l rend="text-indent:0em">如山擁在前</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827c1212" rend="margin-left:1em;inline"><note place="inline">山喻我慢擁障前境有智慧人去我慢山
+<lb ed="K" n="0827c13"/>通達聖道華嚴經云摧重障山見佛無礙</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827c1317" type="abnormal"><l rend="text-indent:0em">法雲常寂意</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827c1322" rend="margin-left:1em;inline"><note place="inline">性喻慈雲慧同
+<lb ed="K" n="0827c14"/>法雨寂靜湛絕普利含生法華經云慈意妙大雲澍甘露法雨</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827c1425" type="abnormal"><l rend="text-indent:0em">日月自恒圓</l></lg></cb:div>
+<lb ed="K" n="0827c15"/><cb:div type="commentary"><p xml:id="pK35p0827c1501" rend="margin-left:1em"><note place="inline">佛日融融幽明普照性月皎白虧盈自如法華經<g ref="#CB00562">䟽</g>云譬如日出先照高原又瑜伽論云
+<lb ed="K" n="0827c16"/>菩薩慈悲作日月</note>。</p></cb:div>
+<lb ed="K" n="0827c17"/><cb:div type="orig"><lg xml:id="lgK35p0827c1701" type="abnormal"><l rend="text-indent:0em">顯教極閻浮</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827c1706" rend="margin-left:1em;inline"><note place="inline">法行印土教演閻浮諭諸有情各獲利樂事該眾典指顯
+<lb ed="K" n="0827c18"/>何極法華經云此經閻浮提人病之良藥</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827c1817" type="abnormal"><l rend="text-indent:0em">昬衢多不了</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827c1822" rend="margin-left:1em;inline"><note place="inline">眾生闇昧不達
+<lb ed="K" n="0827c19"/>真途能證涅槃無過了義瑜伽論云迷覆其心曾無惺覺</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0827c1923" type="abnormal"><l rend="text-indent:0em">幽眀難測量</l></lg></cb:div>
+<lb ed="K" n="0827c20"/><cb:div type="commentary"><p xml:id="pK35p0827c2001" rend="margin-left:1em"><note place="inline">佛智通明幽深莫測上聖自能眀了二乘絕思難量法華經云盡思共度量不能測佛智</note>。</p></cb:div>
+<lb ed="K" n="0827c21"/><cb:div type="orig"><lg xml:id="lgK35p0827c2101" type="abnormal"><l rend="text-indent:0em">眾生自懊惱</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0827c2106" rend="margin-left:1em;inline"><note place="inline">虛妄攀緣眾生境界不曉煩惱難了真空法華經云眾生
+<lb ed="K" n="0827c22"/>常苦<g ref="#CB08974">𢙉</g>盲暝無導師不識苦盡道不知求解脫</note>。</p></cb:div>
+<pb ed="K" xml:id="K35.1259.0828a" n="0828a"/>
+<lb ed="K" n="0828a01"/><cb:div type="orig"><lg xml:id="lgK35p0828a0101" type="abnormal"><l rend="text-indent:0em">戒說僧尼律</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a0106" rend="margin-left:1em;inline"><note place="inline">演教利生各隨機益僧尼奉法戒律是興依之而行趣期
+<lb ed="K" n="0828a02"/>證達梵網經云依大乘戒修證菩提</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828a0215" type="abnormal"><l rend="text-indent:0em">捨身離俗緣</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a0220" rend="margin-left:1em;inline"><note place="inline">捨身投佛永離俗緣
+<lb ed="K" n="0828a03"/>發無上心永佛真境瑜伽論云捨身向佛得離俗緣</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828a0321" type="abnormal"><l rend="text-indent:0em">非求真境界</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a0326" rend="margin-left:1em;inline"><note place="inline">非求
+<lb ed="K" n="0828a04"/>妙理莫見本源起大覺心證真空境寶積經云不求佛理何見一如</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828a0427" type="abnormal"><l rend="text-indent:0em">一法二空
+<lb ed="K" n="0828a05"/>前</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a0502" rend="margin-left:1em;inline"><note place="inline">一真法理本自湛然二空現前惑障本寂百法<g ref="#CB00562">䟽</g>云<g ref="#CB01076">䪺</g>斷二障染法<g ref="#CB01076">䪺</g>證一真之理</note>。</p></cb:div>
+<lb ed="K" n="0828a06"/><cb:div type="orig"><lg xml:id="lgK35p0828a0601" type="abnormal"><l rend="text-indent:0em">定觀為何事</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a0606" rend="margin-left:1em;inline"><note place="inline">定者禪定求證涅槃觀者觀察以明佛事慧能揀擇
+<lb ed="K" n="0828a07"/>斷惡修善諸妄既盡超證菩提法華經云定慧力莊嚴</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828a0722" type="abnormal"><l rend="text-indent:0em">未曾道理偏</l></lg></cb:div>
+<lb ed="K" n="0828a08"/><cb:div type="commentary"><p xml:id="pK35p0828a0801" rend="margin-left:1em"><note place="inline">依定起慧道理何偏執正執邪妄心所著證真道理自見分明般若經云定慧同觀實無
+<lb ed="K" n="0828a09"/>偏處</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828a0903" type="abnormal"><l rend="text-indent:0em">靈山知有佛</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a0908" rend="margin-left:1em;inline"><note place="inline">靈鷲山中真說法所佛具大智證諸實際會三歸一
+<lb ed="K" n="0828a10"/>了悟真源法華經云常在靈鷲山及餘諸住處</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828a1019" type="abnormal"><l rend="text-indent:0em">性識本如然</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a1024" rend="margin-left:1em;inline"><note place="inline">清淨智性
+<lb ed="K" n="0828a11"/>本絕纖塵盖妄想之纏迷了真空而出離百法論云有真性者定得成佛</note>。</p></cb:div>
+<lb ed="K" n="0828a12"/><cb:div type="orig"><lg xml:id="lgK35p0828a1201" type="abnormal"><l rend="text-indent:0em">釋教無虛妄</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a1206" rend="margin-left:1em;inline"><note place="inline">佛流真教廣利人天法演大乘令達妙道邪妄心息
+<lb ed="K" n="0828a13"/>法證無生金剛經云如來是真語者實語者</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828a1318" type="abnormal"><l rend="text-indent:0em">高明大法天</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a1323" rend="margin-left:1em;inline"><note place="inline">法天高覆
+<lb ed="K" n="0828a14"/>慧日流光菩提則開發善芽眾生乃常蒙利樂法華經云演大法義</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828a1427" type="abnormal"><l rend="text-indent:0em">眾生能
+<lb ed="K" n="0828a15"/>見性</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a1503" rend="margin-left:1em;inline"><note place="inline">一切眾生皆有佛慧能見自性洞達真源利益自他盡未來際華嚴經云眾生
+<lb ed="K" n="0828a16"/>見者煩惱滅</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828a1606" type="abnormal"><l rend="text-indent:0em">我亦不能宣</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a1611" rend="margin-left:1em;inline"><note place="inline">智證真性理絕言宣眾生悟心實無可度
+<lb ed="K" n="0828a17"/>無名論云四辯不能譚其體</note>。</p></cb:div>
+<lb ed="K" n="0828a18"/><cb:div type="orig"><lg xml:id="lgK35p0828a1801" type="abnormal"><l rend="text-indent:0em">攝認及諸邪</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a1806" rend="margin-left:1em;inline"><note place="inline">攝心向善邪妄不生迷昧真源煩惱交<g ref="#CB09895">㸦</g>證二空觀發悟
+<lb ed="K" n="0828a19"/>解心大般若經云諸邪煩惱不覺自生</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828a1916" type="abnormal"><l rend="text-indent:0em">如來方宴坐</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a1921" rend="margin-left:1em;inline"><note place="inline">諸佛定觀邪妄
+<lb ed="K" n="0828a20"/>心寂真源默悟宴坐凝然維摩經云不於三界現身意是為宴坐</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828a2026" type="abnormal"><l rend="text-indent:0em">真心大道
+<lb ed="K" n="0828a21"/>空</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a2102" rend="margin-left:1em;inline"><note place="inline">真智若了萬法皆空達理甚深見本源性攝歸大道物我全真肈論云雖今現有而
+<lb ed="K" n="0828a22"/>性常自空</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828a2205" type="abnormal"><l rend="text-indent:0em">誡忌於人我</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828a2210" rend="margin-left:1em;inline"><note place="inline">諸佛設教誡誘群迷令悟我人當體不實二空
+<pb ed="K" xml:id="K35.1259.0828b" n="0828b"/>
+<lb ed="K" n="0828b01"/>既證一真斯明唯識論云我法本空實無自體</note>。</p></cb:div>
+<lb ed="K" n="0828b02"/><cb:div type="orig"><lg xml:id="lgK35p0828b0201" type="abnormal"><l rend="text-indent:0em">意求佛與法</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b0206" rend="margin-left:1em;inline"><note place="inline">佛法深妙不必意求若悟真源自然超證徒尋妙理深入
+<lb ed="K" n="0828b03"/>法門法華經云誰人為我說大乘法</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828b0315" type="abnormal"><l rend="text-indent:0em">五蘊理空玄</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b0320" rend="margin-left:1em;inline"><note place="inline">五蘊幻化佛說是空
+<lb ed="K" n="0828b04"/>從因緣生無真實義般若經云時照見五蘊皆空</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828b0420" type="abnormal"><l rend="text-indent:0em">萬法皆歸一</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b0425" rend="margin-left:1em;inline"><note place="inline">萬法
+<lb ed="K" n="0828b05"/>無邊理本皆歸一寂四儀利物教道施設千差百法論云無量法者從一法生其一法者
+<lb ed="K" n="0828b06"/>所為真如</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828b0605" type="abnormal"><l rend="text-indent:0em">慧解障心圓</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b0610" rend="margin-left:1em;inline"><note place="inline">有漏慧解障礙菩提無漏之心斷惑入證瑜伽
+<lb ed="K" n="0828b07"/>論云迷妄之見恒礙心圓</note>。</p></cb:div>
+<lb ed="K" n="0828b08"/><cb:div type="orig"><lg xml:id="lgK35p0828b0801" type="abnormal"><l rend="text-indent:0em">經演法王前</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b0806" rend="margin-left:1em;inline"><note place="inline">經者三乘聖人修行徑路是大法王演化之教令彼眾生
+<lb ed="K" n="0828b09"/>達涅槃所寶積經云法王演化四類眾生</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828b0917" type="abnormal"><l rend="text-indent:0em">分明句偈傳</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b0922" rend="margin-left:1em;inline"><note place="inline">至道無言假詮
+<lb ed="K" n="0828b10"/>悟旨分明句偈傳演敷揚普益有情令生信受金剛經云四句偈等為人演說</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828b1031" type="abnormal"><l rend="text-indent:0em">當時
+<lb ed="K" n="0828b11"/>曾了達</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b1104" rend="margin-left:1em;inline"><note place="inline">釋迦因地邂逅然燈得授記言分明了達金剛經云汝於來世當得
+<lb ed="K" n="0828b12"/>作佛</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828b1203" type="abnormal"><l rend="text-indent:0em">信受度金僊</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b1208" rend="margin-left:1em;inline"><note place="inline">蒙佛授記信受不虛果决之言今乃成就大般若經
+<lb ed="K" n="0828b13"/>云過去刧中曾得授記</note>。</p></cb:div>
+<lb ed="K" n="0828b14"/><cb:div type="orig"><lg xml:id="lgK35p0828b1401" type="abnormal"><l rend="text-indent:0em">論證無生理</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b1406" rend="margin-left:1em;inline"><note place="inline">十地菩薩地地門中各證一分無生之理佛位圓滿證得
+<lb ed="K" n="0828b15"/>現前唯識論云滿分清淨者滿證指佛分證指菩薩</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828b1521" type="abnormal"><l rend="text-indent:0em">修持想郍邊</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b1526" rend="margin-left:1em;inline"><note place="inline">修持
+<lb ed="K" n="0828b16"/>淨行想心緣而不見真空大智證時不是郍邊之境親緣親證理智冥通唯識論云親所
+<lb ed="K" n="0828b17"/>緣緣理智俱實</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828b1707" type="abnormal"><l rend="text-indent:0em">不如休去住</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b1712" rend="margin-left:1em;inline"><note place="inline">執相修真徒施功行忘言悟旨脩然住真
+<lb ed="K" n="0828b18"/>金剛經云無所從來亦無所去</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828b1813" type="abnormal"><l rend="text-indent:0em">靜坐化人天</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b1818" rend="margin-left:1em;inline"><note place="inline">默然靜坐似佛安禪法界
+<lb ed="K" n="0828b19"/>真如便是樂果涅槃經云寂然靜坐化眾生心</note>。</p></cb:div>
+<lb ed="K" n="0828b20"/><cb:div type="orig"><lg xml:id="lgK35p0828b2001" type="abnormal"><l rend="text-indent:0em">受報諸因緣</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b2006" rend="margin-left:1em;inline"><note place="inline">人天果異善惡不同各逐因緣隨心受報若乃心境兩寂
+<lb ed="K" n="0828b21"/>妙法常如寶積經云受報因緣唯心所造</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828b2117" type="abnormal"><l rend="text-indent:0em">聖言不可捨</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828b2122" rend="margin-left:1em;inline"><note place="inline">聖人至言不可
+<lb ed="K" n="0828b22"/>妄捨依詮悟旨妙用忻然唯識論云聖言為定不可改移</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828b2223" type="abnormal"><l rend="text-indent:0em">我心常湛然</l></lg></cb:div>
+<pb ed="K" xml:id="K35.1259.0828c" n="0828c"/>
+<lb ed="K" n="0828c01"/><cb:div type="commentary"><p xml:id="pK35p0828c0101" rend="margin-left:1em"><note place="inline">聖心清淨湛若虛空知佛理之甚深居塵境而不動楞嚴經云淨心澄湛無所動搖</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828c0133" type="abnormal"><l rend="text-indent:0em">誰
+<lb ed="K" n="0828c02"/>當真般若</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828c0205" rend="margin-left:1em;inline"><note place="inline">有真智性達理甚深悟解真常趣求佛果瑜伽論云起般若智
+<lb ed="K" n="0828c03"/>趣真實門</note>。</p></cb:div>
+<lb ed="K" n="0828c04"/><cb:div type="orig"><lg xml:id="lgK35p0828c0401" type="abnormal"><l rend="text-indent:0em">去妄極無邊</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828c0406" rend="margin-left:1em;inline"><note place="inline">眾生煩惱廣極無邊其或大智發生虛妄何有百法論云
+<lb ed="K" n="0828c05"/>永盡纏縛故</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828c0506" type="abnormal"><l rend="text-indent:0em">如其業力牽</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828c0511" rend="margin-left:1em;inline"><note place="inline">業力增上牽不自由種習所薰寧知修善
+<lb ed="K" n="0828c06"/>忙忙三界伇伇四生法華經云三界無安由如火宅</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828c0621" type="abnormal"><l rend="text-indent:0em">眾生能得性</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828c0626" rend="margin-left:1em;inline"><note place="inline">佛有
+<lb ed="K" n="0828c07"/>度生之願專求見性之人了悟真常唯心境現唯識論云具此性者是<g ref="#CB08764">㝡</g>上乘</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828c0731" type="abnormal"><l rend="text-indent:0em"><g ref="#CB01076">䪺</g>減
+<lb ed="K" n="0828c08"/>苦纏綿</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828c0804" rend="margin-left:1em;inline"><note place="inline">一切眾生第八識中有此大乘菩提種性纏綿煩惱漸漸輕微不覺
+<lb ed="K" n="0828c09"/>超<g ref="#CB21868">󵕬</g>自然入聖對法論云有大乘性盡得成佛</note>。</p></cb:div>
+<lb ed="K" n="0828c10"/><cb:div type="orig"><lg xml:id="lgK35p0828c1001" type="abnormal"><l rend="text-indent:0em">住果隨人願</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828c1006" rend="margin-left:1em;inline"><note place="inline">諸佛居果位隨眾生心應現身形方便引接隨機利物說
+<lb ed="K" n="0828c11"/>法令修大般若經云我住於果隨眾生心現身說法</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828c1121" type="abnormal"><l rend="text-indent:0em">還如植福田</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828c1126" rend="margin-left:1em;inline"><note place="inline">要受
+<lb ed="K" n="0828c12"/>人天之果湏行六度之因願行齊修大果必證金剛經云七寶持用布施</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828c1229" type="abnormal"><l rend="text-indent:0em">善根頻
+<lb ed="K" n="0828c13"/>灌溉</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828c1303" rend="margin-left:1em;inline"><note place="inline">雖有菩提種子湏假灌溉方生聞法薰修道芽增長唯識論云頻頻灌溉
+<lb ed="K" n="0828c14"/>方生有芽</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgK35p0828c1405" type="abnormal"><l rend="text-indent:0em">滋潤積周圓</l></lg></cb:div><cb:div type="commentary"><p xml:id="pK35p0828c1410" rend="margin-left:1em;inline"><note place="inline">聞法滋潤<g ref="#CB12752">󳇐</g>益勝心四智周圓三祇果立大般
+<lb ed="K" n="0828c15"/>若經云修廣大心得佛圓滿</note>。</p></cb:div></cb:div>
+<lb ed="K" n="0828c16"/><cb:juan fun="close" n="1"><cb:jhead>御製秘藏詮卷第一</cb:jhead></cb:juan>
+<lb ed="K" n="0828c17"/><cb:div type="w"><p xml:id="pK35p0828c1701" rend="margin-left:1em">丁未歲高麗國大藏都監奉
+<lb ed="K" n="0828c18" type="honorific"/><g ref="#CB30072">𠡠</g>彫造</p></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_1" cb:to="#end_1"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2" cb:to="#end_2"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_3" cb:to="#end_3"><corr>妄</corr><sic>妾</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4" cb:to="#end_4"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5" cb:to="#end_5"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6" cb:to="#end_6"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7" cb:to="#end_7"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8" cb:to="#end_8"><corr>其</corr><sic><unclear></unclear></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_9" cb:to="#end_9"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_a" cb:to="#end_a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_b" cb:to="#end_b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c" cb:to="#end_c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_d" cb:to="#end_d"><corr>一</corr><sic><unclear></unclear></sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

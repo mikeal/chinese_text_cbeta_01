@@ -1,0 +1,984 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="L133n1557">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Qianlong Edition of the Canon, Electronic version, No. 1557 大方廣佛華嚴經疏鈔會本(第51卷-第80卷)</title>
+			<author>唐 實叉難陀譯　唐 澄觀述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.10 $<date>$Date: 2012/06/27 08:39:00 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>30卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/06/27 08:39:00 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Qianlong Edition of the Canon Vol. 133, No. 1557 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00562">
+	<charName>CBETA CHARACTER CB00562</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+(梳-木)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>疏</value>
+	</charProp>
+	<mapping type="unicode">U+47FD</mapping>
+	<mapping cb:dec="983602" type="PUA">U+F0232</mapping>
+</char>
+<char xml:id="CB00667">
+	<charName>CBETA CHARACTER CB00667</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[罥-口+ㄙ]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>罥</value>
+	</charProp>
+	<mapping type="normal_unicode">U+7F65</mapping>
+	<mapping cb:dec="983707" type="PUA">U+F029B</mapping>
+</char>
+<char xml:id="CB02853">
+	<charName>CBETA CHARACTER CB02853</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[打-丁+監]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>檻</value>
+	</charProp>
+	<mapping type="unicode">U+3A5C</mapping>
+	<mapping cb:dec="985893" type="PUA">U+F0B25</mapping>
+</char>
+<char xml:id="CB04622">
+	<charName>CBETA CHARACTER CB04622</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[邱-丘+(厂@墨)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>廛</value>
+	</charProp>
+	<mapping cb:dec="987662" type="PUA">U+F120E</mapping>
+</char>
+<char xml:id="CB07514">
+	<charName>CBETA CHARACTER CB07514</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[發-殳+矢]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>發</value>
+	</charProp>
+	<mapping type="unicode">U+24F35</mapping>
+	<mapping cb:dec="990554" type="PUA">U+F1D5A</mapping>
+</char>
+<char xml:id="CB07778">
+	<charName>CBETA CHARACTER CB07778</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[晉-(ㄙ*ㄙ)+(口*口)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>晉</value>
+	</charProp>
+	<mapping type="unicode">U+23206</mapping>
+	<mapping cb:dec="990818" type="PUA">U+F1E62</mapping>
+</char>
+<char xml:id="CB15092">
+	<charName>CBETA CHARACTER CB15092</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[晷-人+卜]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>晷</value>
+	</charProp>
+	<mapping type="normal_unicode">U+6677</mapping>
+	<mapping cb:dec="998132" type="PUA">U+F3AF4</mapping>
+</char>
+<char xml:id="CB15162">
+	<charName>CBETA CHARACTER CB15162</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[拈-口+(足-口+(雪-雨))]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>捷</value>
+	</charProp>
+	<mapping type="unicode">U+3A17</mapping>
+	<mapping cb:dec="998202" type="PUA">U+F3B3A</mapping>
+</char>
+<char xml:id="CB17361">
+	<charName>CBETA CHARACTER CB17361</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(鼻-丌+廾)*臭]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>嗅</value>
+	</charProp>
+	<mapping cb:dec="1000401" type="PUA">U+F43D1</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-09-29T10:41:29">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">入法界品第三十九</cb:mulu><cb:div type="other">
+<pb ed="L" xml:id="L133.1557.0536a" n="0536a"/>
+<lb ed="L" n="0536a01"/><milestone unit="juan" n="67"/><cb:mulu type="卷" n="67"></cb:mulu><cb:juan fun="open" n="67"><cb:jhead>大方廣佛華嚴經<g ref="#CB00562">䟽</g>鈔會本第六十七　翦十</cb:jhead></cb:juan>
+<lb ed="L" n="0536a02"/><byline cb:type="translator">唐于闐國三藏沙門實叉難陀　譯</byline>
+<lb ed="L" n="0536a03"/><byline cb:type="author">唐清涼山大華嚴寺沙門澄觀撰述</byline>
+<lb ed="L" n="0536a04"/><cb:div type="orig"><p xml:id="pL133p0536a0401">爾時善財童子於不動優婆夷所得聞法已
+<lb ed="L" n="0536a05"/>專心憶念所有教誨皆悉信受思惟觀察漸
+<lb ed="L" n="0536a06"/>漸遊行經歷國邑至都薩羅城於日沒時入
+<lb ed="L" n="0536a07"/>彼城中廛店隣里四衢道側處處尋覓徧行
+<lb ed="L" n="0536a08"/>外道。</p></cb:div>
+<lb ed="L" n="0536a09"/><cb:div type="commentary"><p xml:id="pL133p0536a0901" rend="margin-left:1em">第十徧行外道寄真實行第一依教趣求
+<lb ed="L" n="0536a10"/><note place="inline">十遍行外道寄真實行智度已圓稱於二諦言行不虛故名真實</note>。</p></cb:div>
+<lb ed="L" n="0536a11"/><cb:div type="orig"><p xml:id="pL133p0536a1101">城東有山名曰善德善財童子於中夜時見
+<lb ed="L" n="0536a12"/>此山頂草樹巖巘光明照耀如日初出見此
+<lb ed="L" n="0536a13"/>事已生大歡喜作是念言我必於此見善知
+<lb ed="L" n="0536a14"/>識便從城出而登彼山見此外道於其山上
+<lb ed="L" n="0536a15"/>平坦之處徐步經行色相圓滿威光照耀大
+<pb ed="L" xml:id="L133.1557.0536b" n="0536b"/>
+<lb ed="L" n="0536b01"/>梵天王所不能及十千梵眾之所圍繞徃詣
+<lb ed="L" n="0536b02"/>其所頭頂禮足繞無量帀於前合掌而作是
+<lb ed="L" n="0536b03"/>言聖者我<anchor xml:id="beg_174" type="cb-app"/>已<anchor xml:id="end_174"/>先發阿耨多羅三藐三菩提心
+<lb ed="L" n="0536b04"/>而我未知菩薩云何學菩薩行云何修菩薩
+<lb ed="L" n="0536b05"/>道我聞聖者善能教誨願為我說。</p></cb:div>
+<lb ed="L" n="0536b06"/><cb:div type="commentary"><p xml:id="pL133p0536b0601" rend="margin-left:1em">第二城東有山下見敬諮問見中中夜見
+<lb ed="L" n="0536b07"/>者智入生死故善財將入此位故上云日
+<lb ed="L" n="0536b08"/>沒入城於山頂者表位極故光明照者以
+<lb ed="L" n="0536b09"/>智慧光破於生死及二邊闇故。</p></cb:div>
+<lb ed="L" n="0536b10"/><cb:div type="orig"><p xml:id="pL133p0536b1001">徧行答言善哉善哉善男子我已安住至一
+<lb ed="L" n="0536b11"/>切處菩薩行已成就普觀世間三昧門已成
+<lb ed="L" n="0536b12"/>就無依無作神通力<anchor xml:id="beg_175" type="cb-app"/>已<anchor xml:id="end_175"/>成就普門般若波羅
+<lb ed="L" n="0536b13"/>蜜。</p></cb:div>
+<lb ed="L" n="0536b14"/><cb:div type="commentary"><p xml:id="pL133p0536b1401" rend="margin-left:1em">第三徧行答言下稱讚授法先讚發心後
+<lb ed="L" n="0536b15"/>善男子下正授法界於中二先彰名體有
+<pb ed="L" xml:id="L133.1557.0537a" n="0537a"/>
+<lb ed="L" n="0537a01"/>四者智徧知故四義雖別而得相成一化
+<lb ed="L" n="0537a02"/>境普周徧行之名亦從此立二入定觀機
+<lb ed="L" n="0537a03"/>三由無作神通故能徧至前處四由普門
+<lb ed="L" n="0537a04"/>般若故能在定普觀若約別者無作無依
+<lb ed="L" n="0537a05"/>用而無住普門般若無法不窮。</p></cb:div>
+<lb ed="L" n="0537a06"/><cb:div type="orig"><p xml:id="pL133p0537a0601">善男子我普於世間種種方所種種形貌種
+<lb ed="L" n="0537a07"/>種行解種種歿生一切諸趣所謂天趣龍趣
+<lb ed="L" n="0537a08"/>夜叉趣乾闥婆阿修羅迦樓羅緊那羅摩睺
+<lb ed="L" n="0537a09"/>羅伽地獄畜生閻羅王界人非人等一切諸
+<lb ed="L" n="0537a10"/>趣或住諸見或信二乘或復信樂大乘之道
+<lb ed="L" n="0537a11"/>如是一切諸眾生中我以種種方便種種智
+<lb ed="L" n="0537a12"/>門而為利益所謂或為演說一切世間種種
+<lb ed="L" n="0537a13"/>技藝令得具足一切巧術陀羅尼智或為演
+<lb ed="L" n="0537a14"/>說四攝方便令得具足一切智道或為演說
+<lb ed="L" n="0537a15"/>諸波羅蜜令其廻向一切智位或為稱讚大
+<pb ed="L" xml:id="L133.1557.0537b" n="0537b"/>
+<lb ed="L" n="0537b01"/>菩提心令其不失無上道意或為稱讚諸菩
+<lb ed="L" n="0537b02"/>薩行令其滿足淨佛國土度眾生願或為演
+<lb ed="L" n="0537b03"/>說造諸惡行受地獄等種種苦報令於惡業
+<lb ed="L" n="0537b04"/>深生厭離或為演說供養諸佛種諸善根決
+<lb ed="L" n="0537b05"/>定獲得一切智果令其發起歡喜之心或為
+<lb ed="L" n="0537b06"/>讚說一切如來應正等覺所有功德令樂佛
+<lb ed="L" n="0537b07"/>身求一切智或為讚說諸佛威德令其願樂
+<lb ed="L" n="0537b08"/>佛不壞身或為讚說佛自在身令求如來無
+<lb ed="L" n="0537b09"/>能暎蔽大威德體又善男子此都薩羅城中
+<lb ed="L" n="0537b10"/>一切方所一切族類若男若女諸人眾中我
+<lb ed="L" n="0537b11"/>皆以方便示同其形隨其所應而為說法諸
+<lb ed="L" n="0537b12"/>眾生等悉不能知我是何人從何而至唯令
+<lb ed="L" n="0537b13"/>聞者如實修行善男子如於此城利益眾生
+<lb ed="L" n="0537b14"/>於閻浮提城邑聚落所有人眾住止之處悉
+<lb ed="L" n="0537b15"/>亦如是而為利益善男子閻浮提內九十六
+<pb ed="L" xml:id="L133.1557.0538a" n="0538a"/>
+<lb ed="L" n="0538a01"/>種各起異見而生執著我悉於中方便調伏
+<lb ed="L" n="0538a02"/>令其捨離所有諸見如閻浮提餘四天下亦
+<lb ed="L" n="0538a03"/>復如是如四天下三千大千世界亦復如是
+<lb ed="L" n="0538a04"/>如三千大千世界如是十方無量世界諸眾
+<lb ed="L" n="0538a05"/>生海我悉於中隨諸眾生心之所樂以種種
+<lb ed="L" n="0538a06"/>方便種種法門現種種色身以種種言音而
+<lb ed="L" n="0538a07"/>為說法令得利益。</p></cb:div>
+<lb ed="L" n="0538a08"/><cb:div type="commentary"><p xml:id="pL133p0538a0801" rend="margin-left:1em">二善男子我普於下顯四業用即分為四
+<lb ed="L" n="0538a09"/>一明至一切處用二或住諸見下普觀世
+<lb ed="L" n="0538a10"/>間用觀其所宜隨宜說故三又善男子此
+<lb ed="L" n="0538a11"/>都薩羅下明無作無依用故云不知從何
+<lb ed="L" n="0538a12"/>而至四善男子閻浮提內下普門般若用
+<lb ed="L" n="0538a13"/>九十六種皆能窮故上來隨勝別配實則
+<lb ed="L" n="0538a14"/>義通。</p></cb:div>
+<lb ed="L" n="0538a15"/><cb:div type="orig"><p xml:id="pL133p0538a1501">善男子我唯知此至一切處菩薩行如諸菩
+<pb ed="L" xml:id="L133.1557.0538b" n="0538b"/>
+<lb ed="L" n="0538b01"/>薩摩訶薩身與一切眾生數等得與眾生無
+<lb ed="L" n="0538b02"/>差別身以變化身普入諸趣於一切處皆現
+<lb ed="L" n="0538b03"/>受生普現一切眾生之前清淨光明徧照世
+<lb ed="L" n="0538b04"/>間以無礙願住一切劫得如帝網諸無等行
+<lb ed="L" n="0538b05"/>常勤利益一切眾生恒與共居而無所著普
+<lb ed="L" n="0538b06"/>於三世悉皆平等以無我智周徧照耀以大
+<lb ed="L" n="0538b07"/>悲藏一切觀察而我云何能知能說彼功德
+<lb ed="L" n="0538b08"/>行。</p></cb:div>
+<lb ed="L" n="0538b09"/><cb:div type="commentary"><p xml:id="pL133p0538b0901" rend="margin-left:1em">四謙<anchor xml:id="beg_176" type="cb-app"/>己<anchor xml:id="end_176"/>推勝。</p></cb:div>
+<lb ed="L" n="0538b10"/><cb:div type="orig"><p xml:id="pL133p0538b1001">善男子於此南方有一國土名為廣大有鬻
+<lb ed="L" n="0538b11"/>香長者名優鉢羅華汝詣彼問菩薩云何學
+<lb ed="L" n="0538b12"/>菩薩行修菩薩道。</p>
+<lb ed="L" n="0538b13"/><p xml:id="pL133p0538b1301">時善財童子頂禮其足繞無量帀慇懃瞻仰
+<lb ed="L" n="0538b14"/>辭退而去。</p>
+<lb ed="L" n="0538b15"/><p xml:id="pL133p0538b1501">爾時善財童子因善知識教不顧身命不著
+<pb ed="L" xml:id="L133.1557.0539a" n="0539a"/>
+<lb ed="L" n="0539a01"/>財寶不樂人眾不耽五欲不戀眷屬不重王
+<lb ed="L" n="0539a02"/>位唯願化度一切眾生唯願嚴淨諸佛國土
+<lb ed="L" n="0539a03"/>唯願供養一切諸佛唯願證知諸法實性唯
+<lb ed="L" n="0539a04"/>願修集一切菩薩大功德海唯願修行一切
+<lb ed="L" n="0539a05"/>功德終無退轉唯願恒於一切劫中以大願
+<lb ed="L" n="0539a06"/>力修菩薩行唯願普入一切諸佛眾會道場
+<lb ed="L" n="0539a07"/>唯願入一三昧門普現一切三昧門自在神
+<lb ed="L" n="0539a08"/>力唯願於佛一毛孔中見一切佛心無厭足
+<lb ed="L" n="0539a09"/>唯願得一切法智慧光明能持一切諸佛法
+<lb ed="L" n="0539a10"/>藏專求此等一切諸佛菩薩功德漸次遊行
+<lb ed="L" n="0539a11"/>至廣大國。</p></cb:div>
+<lb ed="L" n="0539a12"/><cb:div type="commentary"><p xml:id="pL133p0539a1201" rend="margin-left:1em">大文第四有十善友寄十廻向今初青蓮
+<lb ed="L" n="0539a13"/>華長者寄救護眾生離眾生相廻向在廣
+<lb ed="L" n="0539a14"/>大國者創入廻向故廻向眾生故廣廻向
+<lb ed="L" n="0539a15"/>菩提故大廻向實際義通廣大言鬻香者
+<pb ed="L" xml:id="L133.1557.0539b" n="0539b"/>
+<lb ed="L" n="0539b01"/>鬻者賣也香質雖小發氣彌布善根雖微
+<lb ed="L" n="0539b02"/>廻向普周又若賣若買二俱得香自他善
+<lb ed="L" n="0539b03"/>根俱可廻向青蓮華者蓮華處淤泥而不
+<lb ed="L" n="0539b04"/>染猶護眾生而離相青蓮華為水中之最
+<lb ed="L" n="0539b05"/>救護為入生死之尊文亦分六第一依教
+<lb ed="L" n="0539b06"/>趣求中先依教興願以是廻向大願之首
+<lb ed="L" n="0539b07"/>故後漸次下趣求後位<note place="inline">初青蓮華長者寄救護等者大悲增
+<lb ed="L" n="0539b08"/>上救護眾生大智無著離眾生相悲智無住以立此名廻向實際義通廣大者佛境
+<lb ed="L" n="0539b09"/>方窮橫周法界眾生界故</note>。</p></cb:div>
+<lb ed="L" n="0539b10"/><cb:div type="orig"><p xml:id="pL133p0539b1001">詣長者所頂禮其足繞無量帀合掌而立白
+<lb ed="L" n="0539b11"/>言聖者我已先發阿耨多羅三藐三菩提心
+<lb ed="L" n="0539b12"/>欲求一切佛平等智慧欲滿一切佛無量大
+<lb ed="L" n="0539b13"/>願欲淨一切佛最上色身欲見一切佛清淨
+<lb ed="L" n="0539b14"/>法身欲知一切佛廣大智身欲淨治一切菩
+<lb ed="L" n="0539b15"/>薩諸行欲照明一切菩薩三昧欲安住一切
+<pb ed="L" xml:id="L133.1557.0540a" n="0540a"/>
+<lb ed="L" n="0540a01"/>菩薩總持欲除滅一切所有障礙欲遊行一
+<lb ed="L" n="0540a02"/>切十方世界而未知菩薩云何學菩薩行云
+<lb ed="L" n="0540a03"/>何修菩薩道而能出生一切智智。</p></cb:div>
+<lb ed="L" n="0540a04"/><cb:div type="commentary"><p xml:id="pL133p0540a0401" rend="margin-left:1em">第二詣長者下見敬諮問。</p></cb:div>
+<lb ed="L" n="0540a05"/><cb:div type="orig"><p xml:id="pL133p0540a0501">長者告言善哉善哉善男子汝乃能發阿耨
+<lb ed="L" n="0540a06"/>多羅三藐三菩提心善男子我善別知一切
+<lb ed="L" n="0540a07"/>諸香亦知調合一切香法。</p></cb:div>
+<lb ed="L" n="0540a08"/><cb:div type="commentary"><p xml:id="pL133p0540a0801" rend="margin-left:1em">第三長者告言下稱讚授法先讚後授授
+<lb ed="L" n="0540a09"/>中二先總標所得後所謂下別顯業用今
+<lb ed="L" n="0540a10"/>初知世諸香以表法香謂以戒定慧慈悲
+<lb ed="L" n="0540a11"/>等香熏修生善滅惡習氣故善知一切香
+<lb ed="L" n="0540a12"/>者差別行也亦知調合者融通行也以金
+<lb ed="L" n="0540a13"/>剛杵碎之實相般若波羅蜜調和令純雜
+<lb ed="L" n="0540a14"/>無礙悲智圓融成廻向故。</p></cb:div>
+<lb ed="L" n="0540a15"/><cb:div type="orig"><p xml:id="pL133p0540a1501">所謂一切香一切燒香一切塗香一切末香
+<pb ed="L" xml:id="L133.1557.0540b" n="0540b"/>
+<lb ed="L" n="0540b01"/>亦知如是一切香王所出之處又善了知天
+<lb ed="L" n="0540b02"/>香龍香夜叉香乾闥婆阿修羅迦樓羅緊那
+<lb ed="L" n="0540b03"/>羅摩睺羅伽人非人等所有諸香又善別知
+<lb ed="L" n="0540b04"/>治諸病香斷諸惡香生歡喜香增煩惱香滅
+<lb ed="L" n="0540b05"/>煩惱香令於有為生樂著香令於有為生厭
+<lb ed="L" n="0540b06"/>離香捨諸憍逸香發心念佛香證解法門香
+<lb ed="L" n="0540b07"/>聖所受用香一切菩薩差別香一切菩薩地
+<lb ed="L" n="0540b08"/>位香如是等香形相生起出現成就清淨安
+<lb ed="L" n="0540b09"/>隱方便境界威德業用及以根本如是一切
+<lb ed="L" n="0540b10"/>我皆了達。</p></cb:div>
+<lb ed="L" n="0540b11"/><cb:div type="commentary"><p xml:id="pL133p0540b1101" rend="margin-left:1em">二別顯業用中二先總相顯知後指事別
+<lb ed="L" n="0540b12"/>顯前中四一知香體異二又善了下約類
+<lb ed="L" n="0540b13"/>辨異三又善別下知力用異前二約世此
+<lb ed="L" n="0540b14"/>兼出世四如是等下明委窮本末上四各
+<lb ed="L" n="0540b15"/>有事理思之<note place="inline">上四各有事理者如一知香體異約事可知約理者如燒
+<pb ed="L" xml:id="L133.1557.0541a" n="0541a"/>
+<lb ed="L" n="0541a01"/>香謂以智火<g ref="#CB07514">𤼵</g>揮萬行普周遍故塗香者以性淨水和之飾法身故末香者以金剛
+<lb ed="L" n="0541a02"/>智碎令無實故即以智及性淨等為生處也二約類辯異言約理者香即習氣行天
+<lb ed="L" n="0541a03"/>之因是天習氣熏灼成果故亦是道習從天而來好光淨等三知力用者上二約文
+<lb ed="L" n="0541a04"/>理但約世香而含約理此則文自具二如猒有為等約事治諸病香白檀治熱熏陸
+<lb ed="L" n="0541a05"/>治冷約理即對治行所謂慈悲不淨觀等斷諸惡香如安息香能辟惡邪正見智慧
+<lb ed="L" n="0541a06"/>無惡不斷又十善行等生歡喜香如沉檀等即稱根噐行施恱自他等增煩惱香如
+<lb ed="L" n="0541a07"/>蘭麝等謂愛染行如有漏定增愛味等滅煩惱香如牛頭旃檀先陀婆等即諸智忍
+<lb ed="L" n="0541a08"/>等令於有為生愛著等唯約理說此即人天勝因猒離有為即無常等捨憍逸香無
+<lb ed="L" n="0541a09"/>我忍辱不放逸等<g ref="#CB07514">𤼵</g>心念佛香讚佛功德說淨土行等證解法門深觀行等聖所受
+<lb ed="L" n="0541a10"/>用即觀真如無分別一切菩薩差別香三賢十地所修勝劣等一切菩薩地位香者
+<lb ed="L" n="0541a11"/>所證如智有淺深故</note>。</p></cb:div>
+<lb ed="L" n="0541a12"/><cb:div type="orig"><p xml:id="pL133p0541a1201">善男子人問有香名曰象藏因龍鬬生若燒
+<lb ed="L" n="0541a13"/>一丸即起大香雲彌覆王都於七日中雨細
+<lb ed="L" n="0541a14"/>香雨若著身者身則金色若著衣服宮殿樓
+<lb ed="L" n="0541a15"/>閣亦皆金色若因風吹入宮殿中眾生齅者
+<pb ed="L" xml:id="L133.1557.0541b" n="0541b"/>
+<lb ed="L" n="0541b01"/>七日七夜歡喜充滿身心快樂無有諸病不
+<lb ed="L" n="0541b02"/>相侵害離諸憂苦不驚不怖不亂不恚慈心
+<lb ed="L" n="0541b03"/>相向志意清淨我知是<anchor xml:id="beg_177" type="cb-app"/>已<anchor xml:id="end_177"/>而為說法令其決
+<lb ed="L" n="0541b04"/>定發阿耨多羅三藐三菩提心善男子摩羅
+<lb ed="L" n="0541b05"/>耶山出栴檀香名曰牛頭若以塗身設入火
+<lb ed="L" n="0541b06"/>坑火不能燒善男子海中有香名無能勝若
+<lb ed="L" n="0541b07"/>以塗鼓及諸螺貝其聲發時一切敵軍皆自
+<lb ed="L" n="0541b08"/>退散善男子阿那婆達多池邊出沈水香名
+<lb ed="L" n="0541b09"/>蓮華藏其香一丸如麻子大若以燒之香氣
+<lb ed="L" n="0541b10"/>普熏閻浮提界眾生聞者離一切罪戒品清
+<lb ed="L" n="0541b11"/>淨善男子雪山有香名阿盧那若有眾生齅
+<lb ed="L" n="0541b12"/>此香者其心決定離諸染著我為說法莫不
+<lb ed="L" n="0541b13"/>皆得離垢三昧善男子羅剎界中有香名海
+<lb ed="L" n="0541b14"/>藏其香但為轉輪王用若燒一丸而以熏之
+<lb ed="L" n="0541b15"/>王及四軍皆騰虛空善男子善法天中有香
+<pb ed="L" xml:id="L133.1557.0542a" n="0542a"/>
+<lb ed="L" n="0542a01"/>名淨莊嚴若燒一丸而以熏之普使諸天心
+<lb ed="L" n="0542a02"/>念於佛善男子須夜摩天有香名淨藏若燒
+<lb ed="L" n="0542a03"/>一丸而以熏之夜摩天眾莫不雲集彼天王
+<lb ed="L" n="0542a04"/>所而共聽法善男子兜率天中有香名先陀
+<lb ed="L" n="0542a05"/>婆於一生所繫菩薩座前燒其一丸興大香
+<lb ed="L" n="0542a06"/>雲徧覆法界普雨一切諸供養具供養一切
+<lb ed="L" n="0542a07"/>諸佛菩薩善男子善變化天有香名曰奪意
+<lb ed="L" n="0542a08"/>若燒一丸於七日中普雨一切諸莊嚴具。</p></cb:div>
+<lb ed="L" n="0542a09"/><cb:div type="commentary"><p xml:id="pL133p0542a0901" rend="margin-left:1em">二人間有下指事別顯中有十種香初象
+<lb ed="L" n="0542a10"/>藏香具前本末十事一但語香名必有形
+<lb ed="L" n="0542a11"/>相二龍鬬為生起三興雲為出現四雨雨
+<lb ed="L" n="0542a12"/>為成就五金色為清淨六喜樂為安隱七
+<lb ed="L" n="0542a13"/>無病等為方便八慈心等為境界九意淨
+<lb ed="L" n="0542a14"/>為威德其業用一種義通前七十我知下
+<lb ed="L" n="0542a15"/>是根本本為菩提心故若就菩提心顯十
+<pb ed="L" xml:id="L133.1557.0542b" n="0542b"/>
+<lb ed="L" n="0542b01"/>義者以菩提心香似如來藏因善惡相攻
+<lb ed="L" n="0542b02"/>而生若一發心興慈雲注法雨心所及者
+<lb ed="L" n="0542b03"/>令歸真淨得法喜樂離惑業苦展轉興慈
+<lb ed="L" n="0542b04"/>志願純淨餘之九香皆應具法喻之十畧
+<lb ed="L" n="0542b05"/>故或二或三摩羅耶者國名國多此香故
+<lb ed="L" n="0542b06"/>此即忍香瞋火不燒三即進香魔軍退散
+<lb ed="L" n="0542b07"/>次五如次是五分法身香九即稱法界香
+<lb ed="L" n="0542b08"/>先陀婆一名四實此宜用鹽香似此故十
+<lb ed="L" n="0542b09"/>忘能所香故名奪意餘三可知<note place="inline">若就菩提心下二約
+<lb ed="L" n="0542b10"/>法似如來藏本覺真心性德圓備稱理<g ref="#CB07514">𤼵</g>心故似藏也二因善惡相攻而生即同因
+<lb ed="L" n="0542b11"/>龍闘生故六波羅蜜經云善惡互相熏猶如二象闘弱者去無迴妄盡無來去起信
+<lb ed="L" n="0542b12"/>云真如熏無明故能<g ref="#CB07514">𤼵</g>心猒求三若一<g ref="#CB07514">𤼵</g>心下出現四霔法雨是成就五心所及下
+<lb ed="L" n="0542b13"/>清淨六得法喜樂即安隱七離惑業苦即方便八展轉興慈即境界九志願純淨即
+<lb ed="L" n="0542b14"/>威德亦業用義通前七次五如次五分法身者戒定可知三王及四兵皆騰空者慧
+<lb ed="L" n="0542b15"/>證空故四心念於佛脫五欲故五集聽法是知見故</note>。</p></cb:div>
+<pb ed="L" xml:id="L133.1557.0543a" n="0543a"/>
+<lb ed="L" n="0543a01"/><cb:div type="orig"><p xml:id="pL133p0543a0101">善男子我唯知此調和香法如諸菩薩摩訶
+<lb ed="L" n="0543a02"/>薩遠離一切諸惡習氣不染世欲永斷煩惱
+<lb ed="L" n="0543a03"/>眾魔<g ref="#CB00667">󰊛</g>索超諸有趣以智慧香而自莊嚴於
+<lb ed="L" n="0543a04"/>諸世間皆無染著具足成就無所著戒淨無
+<lb ed="L" n="0543a05"/>著智行無著境於一切處悉無有著其心平
+<lb ed="L" n="0543a06"/>等無著無依而我何能知其妙行說其功德
+<lb ed="L" n="0543a07"/>顯其所有清淨戒門示其所作無過失業辯
+<lb ed="L" n="0543a08"/>其離染身語意行。</p>
+<lb ed="L" n="0543a09"/><p xml:id="pL133p0543a0901">善男子於此南方有一大城名曰樓閣中有
+<lb ed="L" n="0543a10"/>船師名婆施羅汝詣彼問菩薩云何學菩薩
+<lb ed="L" n="0543a11"/>行修菩薩道。</p>
+<lb ed="L" n="0543a12"/><p xml:id="pL133p0543a1201">時善財童子頂禮其足繞無量帀慇懃瞻仰
+<lb ed="L" n="0543a13"/>辭退而去。</p>
+<lb ed="L" n="0543a14"/><p xml:id="pL133p0543a1401">爾時善財童子向樓閣城觀察道路所謂觀
+<lb ed="L" n="0543a15"/>道高卑觀道夷險觀道淨穢觀道曲直。</p></cb:div>
+<pb ed="L" xml:id="L133.1557.0543b" n="0543b"/>
+<lb ed="L" n="0543b01"/><cb:div type="commentary"><p xml:id="pL133p0543b0101" rend="margin-left:1em">第二船師婆施羅寄不壞廻向<note place="inline">寄不壞廻向者得不
+<lb ed="L" n="0543b02"/>壞信于種善根而廻向故名為不壞</note>婆施羅者此云自在謂
+<lb ed="L" n="0543b03"/>於佛法海<anchor xml:id="beg_178" type="cb-app"/>已<anchor xml:id="end_178"/>善通達於生死海能善運度
+<lb ed="L" n="0543b04"/>於一切法深信不壞故名自在在樓閣城
+<lb ed="L" n="0543b05"/>者由此廻向令菩提心轉更增長悲智相
+<lb ed="L" n="0543b06"/>依而勝出故文中第一依教趣求先依教
+<lb ed="L" n="0543b07"/>觀道於廻向道初得不壞故佛道為高餘
+<lb ed="L" n="0543b08"/>皆是卑生死涅槃為夷險障無障為淨穢
+<lb ed="L" n="0543b09"/>二乘為曲菩薩為直等<note place="inline">佛道為高下此有十事五對<g ref="#CB00562">䟽</g>但畧
+<lb ed="L" n="0543b10"/>示其相而未言等者等於餘義具說觀相乃有多意一不壞相則五是可依五不可
+<lb ed="L" n="0543b11"/>依二不壞性則不見高卑無夷險等是故經云不見一法是佛法者不見一法非佛
+<lb ed="L" n="0543b12"/>法者故金剛云是法平等無有高下住正道者則不分別是邪是正三不見業惑以
+<lb ed="L" n="0543b13"/>為所斷不見智慧以為能斷非有煩惱非離煩惱四不見生死為雜亂不見涅槃為
+<lb ed="L" n="0543b14"/>寂靜生死涅槃二際無差五無大小三乘及一乘非我我所故三性之及相雙俱不
+<lb ed="L" n="0543b15"/>壞則雖無高下不壞高卑無高卑為真高等一一契中上三即三觀意四以無所得
+<pb ed="L" xml:id="L133.1557.0544a" n="0544a"/>
+<lb ed="L" n="0544a01"/>而為方便一時具觀一具一切方真觀矣</note>。</p></cb:div>
+<lb ed="L" n="0544a02"/><cb:div type="orig"><p xml:id="pL133p0544a0201">漸次遊行作是思惟我當親近彼善知識善
+<lb ed="L" n="0544a03"/>知識者是成就修行諸菩薩道因是成就修
+<lb ed="L" n="0544a04"/>行波羅蜜道因是成就修行攝眾生道因是
+<lb ed="L" n="0544a05"/>成就修行普入法界無障礙道因是成就修
+<lb ed="L" n="0544a06"/>行令一切眾生除惡慧道因是成就修行令
+<lb ed="L" n="0544a07"/>一切眾生離憍慢道因是成就修行令一切
+<lb ed="L" n="0544a08"/>眾生滅煩惱道因是成就修行令一切眾生
+<lb ed="L" n="0544a09"/>捨諸見道因是成就修行令一切眾生拔一
+<lb ed="L" n="0544a10"/>切惡<anchor xml:id="beg_179" type="cb-app"/>刺<anchor xml:id="end_179"/>道因是成就修行令一切眾生至一
+<lb ed="L" n="0544a11"/>切智城道因何以故於善知識處得一切善
+<lb ed="L" n="0544a12"/>法故依善知識力得一切智道故善知識者
+<lb ed="L" n="0544a13"/>難見難遇如是思惟漸次遊行。</p></cb:div>
+<lb ed="L" n="0544a14"/><cb:div type="commentary"><p xml:id="pL133p0544a1401" rend="margin-left:1em">後漸次下趣求後位而興勝念謂菩薩道
+<lb ed="L" n="0544a15"/>因人得故即於菩薩法師得不壞信於中
+<pb ed="L" xml:id="L133.1557.0544b" n="0544b"/>
+<lb ed="L" n="0544b01"/>先正明後徵釋可知。</p></cb:div>
+<lb ed="L" n="0544b02"/><cb:div type="orig"><p xml:id="pL133p0544b0201">既至彼城見其船師在城門外海岸上住百
+<lb ed="L" n="0544b03"/>千商人及餘無量大眾圍繞說大海法方便
+<lb ed="L" n="0544b04"/>開示佛功德海善財見已徃詣其所頂禮其
+<lb ed="L" n="0544b05"/>足繞無量帀於前合掌而作是言聖者我已
+<lb ed="L" n="0544b06"/>先發阿耨多羅三藐三菩提心而未知菩薩
+<lb ed="L" n="0544b07"/>云何學菩薩行云何修菩薩道我聞聖者善
+<lb ed="L" n="0544b08"/>能教誨願為我說。</p></cb:div>
+<lb ed="L" n="0544b09"/><cb:div type="commentary"><p xml:id="pL133p0544b0901" rend="margin-left:1em">第二既至彼下見敬諮問見在海岸者若
+<lb ed="L" n="0544b10"/>佛法海以生死為此岸不捨生死故若生
+<lb ed="L" n="0544b11"/>死海以大悲修因而為此岸住大慈悲令
+<lb ed="L" n="0544b12"/>離因故<note place="inline">若佛法海者準下推勝乃有多海畧舉其二餘例可知</note>。</p></cb:div>
+<lb ed="L" n="0544b13"/><cb:div type="orig"><p xml:id="pL133p0544b1301">船師告言善哉善哉善男子汝已能發阿耨
+<lb ed="L" n="0544b14"/>多羅三藐三菩提心今復能問生大智因斷
+<lb ed="L" n="0544b15"/>除一切生死苦因徃一切智大寶洲因成就
+<pb ed="L" xml:id="L133.1557.0545a" n="0545a"/>
+<lb ed="L" n="0545a01"/>不壞摩訶衍因遠離二乘怖畏生死住諸寂
+<lb ed="L" n="0545a02"/>靜三昧旋因乘大願車徧一切處行菩薩行
+<lb ed="L" n="0545a03"/>無有障礙清淨道因以菩薩行莊嚴一切無
+<lb ed="L" n="0545a04"/>能壞智清淨道因普觀一切十方諸法皆無
+<lb ed="L" n="0545a05"/>障礙清淨道因速能趣入一切智海清淨道
+<lb ed="L" n="0545a06"/>因。</p></cb:div>
+<lb ed="L" n="0545a07"/><cb:div type="commentary"><p xml:id="pL133p0545a0701" rend="margin-left:1em">第三船師告言下稱讚授法分二先讚問
+<lb ed="L" n="0545a08"/>讚其發心後能問法文有九句前五能問
+<lb ed="L" n="0545a09"/>果因後四能問因因故云道因三昧旋者
+<lb ed="L" n="0545a10"/>旋謂深澓沉而不流二乘沉寂動八萬劫
+<lb ed="L" n="0545a11"/>故能遠離是菩薩道。</p></cb:div>
+<lb ed="L" n="0545a12"/><cb:div type="orig"><p xml:id="pL133p0545a1201">善男子我在此城海岸路中淨修菩薩大悲
+<lb ed="L" n="0545a13"/>幢行。</p></cb:div>
+<lb ed="L" n="0545a14"/><cb:div type="commentary"><p xml:id="pL133p0545a1401" rend="margin-left:1em">二善男子我在此下授已法界中二先標
+<lb ed="L" n="0545a15"/>名體謂大悲超出為物所歸故。</p></cb:div>
+<pb ed="L" xml:id="L133.1557.0545b" n="0545b"/>
+<lb ed="L" n="0545b01"/><cb:div type="orig"><p xml:id="pL133p0545b0101">善男子我觀閻浮提內貧窮眾生為饒益故
+<lb ed="L" n="0545b02"/>修諸苦行隨其所願悉令滿足先以世物充
+<lb ed="L" n="0545b03"/>滿其意復施法財令其歡喜令修福行令生
+<lb ed="L" n="0545b04"/>智道令增善根力令起菩提心令淨菩提願
+<lb ed="L" n="0545b05"/>令堅大悲力令修能滅生死道令生不厭生
+<lb ed="L" n="0545b06"/>死行令攝一切眾生海令修一切功德海令
+<lb ed="L" n="0545b07"/>照一切諸法海令見一切諸佛海令入一切
+<lb ed="L" n="0545b08"/>智智海善男子我住於此如是思惟如是作
+<lb ed="L" n="0545b09"/>意如是利益一切眾生。</p></cb:div>
+<lb ed="L" n="0545b10"/><cb:div type="commentary"><p xml:id="pL133p0545b1001" rend="margin-left:1em">後善男子我觀閻浮下辨其業用中二先
+<lb ed="L" n="0545b11"/>明於陸化生令知有海。</p></cb:div>
+<lb ed="L" n="0545b12"/><cb:div type="orig"><p xml:id="pL133p0545b1201">善男子我知海中一切寶洲一切寶處一切
+<lb ed="L" n="0545b13"/>寶類一切寶種我知淨一切寶鑽一切寶出
+<lb ed="L" n="0545b14"/>一切寶作一切寶我知一切寶器一切寶用
+<lb ed="L" n="0545b15"/>一切寶境界一切寶光明。</p></cb:div>
+<pb ed="L" xml:id="L133.1557.0546a" n="0546a"/>
+<lb ed="L" n="0546a01"/><cb:div type="commentary"><p xml:id="pL133p0546a0101" rend="margin-left:1em">後善男子我知海中下善知海相於海化
+<lb ed="L" n="0546a02"/>生於中二初明善知後彰化成益今初此
+<lb ed="L" n="0546a03"/>寶洲等生死法海義皆有之且約生死海
+<lb ed="L" n="0546a04"/>釋文中略舉知五種事一知寶寶即是智
+<lb ed="L" n="0546a05"/>故不入生死大海則不能生一切智寶於
+<lb ed="L" n="0546a06"/>中有十二句一生死海中湛寂不動謂之
+<lb ed="L" n="0546a07"/>寶洲二空不空如來藏為寶處三恒沙功
+<lb ed="L" n="0546a08"/>德皆寶類四佛性為寶種此上皆約本有
+<lb ed="L" n="0546a09"/>次四約修成以淨戒頭陀等為能淨以緣
+<lb ed="L" n="0546a10"/>起智為能鑽以發一切智心為出因聽聞
+<lb ed="L" n="0546a11"/>為能作後四為寶用謂三乘等器智慧有
+<lb ed="L" n="0546a12"/>殊照理斷惑所用各別所緣境界萬品階
+<lb ed="L" n="0546a13"/>差破愚顯明各各不等。</p></cb:div>
+<lb ed="L" n="0546a14"/><cb:div type="orig"><p xml:id="pL133p0546a1401">我知一切龍宮處一切夜叉宮處一切部多
+<lb ed="L" n="0546a15"/>宮處皆善廻避免其諸難。</p></cb:div>
+<pb ed="L" xml:id="L133.1557.0546b" n="0546b"/>
+<lb ed="L" n="0546b01"/><cb:div type="commentary"><p xml:id="pL133p0546b0101" rend="margin-left:1em">二我知一切龍下即生死中瞋貪癡之三
+<lb ed="L" n="0546b02"/>毒部多此云自生亦如夜叉但不從父母
+<lb ed="L" n="0546b03"/>生故喻多癡。</p></cb:div>
+<lb ed="L" n="0546b04"/><cb:div type="orig"><p xml:id="pL133p0546b0401">亦善別知漩澓淺深波濤遠近水色好惡種
+<lb ed="L" n="0546b05"/>種不同。</p></cb:div>
+<lb ed="L" n="0546b06"/><cb:div type="commentary"><p xml:id="pL133p0546b0601" rend="margin-left:1em">三亦善別知漩澓不即知心識相色無色
+<lb ed="L" n="0546b07"/>等依識心定劫數淺深七識波浪染習遠
+<lb ed="L" n="0546b08"/>近隨善惡緣心水色異<note place="inline">色無色等者沈空滯寂即漩澓義無
+<lb ed="L" n="0546b09"/>色初二萬後後二二增非想八萬劫為深二萬即為淺色無晝夜殊劫數等身量則
+<lb ed="L" n="0546b10"/>初最淺上上漸深未有無相皆識心定故為心識相也</note>。</p></cb:div>
+<lb ed="L" n="0546b11"/><cb:div type="orig"><p xml:id="pL133p0546b1101">亦善別知日月星宿運行度數晝夜晨晡晷
+<lb ed="L" n="0546b12"/>漏延促。</p></cb:div>
+<lb ed="L" n="0546b13"/><cb:div type="commentary"><p xml:id="pL133p0546b1301" rend="margin-left:1em">四亦善別知日月等者即能知時謂機之
+<lb ed="L" n="0546b14"/>生熟如是時中宜修定慧等。</p></cb:div>
+<lb ed="L" n="0546b15"/><cb:div type="orig"><p xml:id="pL133p0546b1501">亦知其船鐵木堅脆機關澁滑水之大小風
+<pb ed="L" xml:id="L133.1557.0547a" n="0547a"/>
+<lb ed="L" n="0547a01"/>之逆順如是一切安危之相無不明了可行
+<lb ed="L" n="0547a02"/>則行可止則止。</p></cb:div>
+<lb ed="L" n="0547a03"/><cb:div type="commentary"><p xml:id="pL133p0547a0301" rend="margin-left:1em">五亦知其船即知萬行不同有方便為堅
+<lb ed="L" n="0547a04"/>無方便為脆曾修為滑不曾則澀水之大
+<lb ed="L" n="0547a05"/>小者謂生死有邊與無邊風之逆順者八
+<lb ed="L" n="0547a06"/>風四順四逆又謂修行有住與無住故若
+<lb ed="L" n="0547a07"/>開第三第五各有三事則并總具十<note place="inline">有方便為
+<lb ed="L" n="0547a08"/>堅等七地已說又謂修行有住無住者上約外境世之八風此約正修無住為順出
+<lb ed="L" n="0547a09"/>離有住為逆又有住則順生死無住反此若開第三第五各三者三中三者一漩澓
+<lb ed="L" n="0547a10"/>淺深二波濤遠近三水色好惡五中三者一知其船鐵木堅脆機關澁滑二水之大
+<lb ed="L" n="0547a11"/>小三風之逆順此二各三為六并其餘三為九如是<anchor xml:id="beg_17a" type="cb-app"/>已<anchor xml:id="end_17a"/>下總結為十可行則行可止
+<lb ed="L" n="0547a12"/>則止雖是總結義當一故</note>。</p></cb:div>
+<lb ed="L" n="0547a13"/><cb:div type="orig"><p xml:id="pL133p0547a1301">善男子我以成就如是智慧常能利益一切
+<lb ed="L" n="0547a14"/>眾生善男子我以好船運諸商眾行安隱道
+<lb ed="L" n="0547a15"/>復為說法令其歡喜引至寶洲與諸珍寶咸
+<pb ed="L" xml:id="L133.1557.0547b" n="0547b"/>
+<lb ed="L" n="0547b01"/>使充足然後將領還閻浮提善男子我將大
+<lb ed="L" n="0547b02"/>船如是徃來未始令其一有損壞若有眾生
+<lb ed="L" n="0547b03"/>得見我身聞我法者令其永不怖生死海必
+<lb ed="L" n="0547b04"/>得入於一切智海必能消竭諸愛欲海能以
+<lb ed="L" n="0547b05"/>智光照三世海能盡一切眾生苦海能淨一
+<lb ed="L" n="0547b06"/>切眾生心海速能嚴淨一切剎海普能徃詣
+<lb ed="L" n="0547b07"/>十方大海普知一切眾生根海普了一切眾
+<lb ed="L" n="0547b08"/>生行海普順一切眾生心海。</p></cb:div>
+<lb ed="L" n="0547b09"/><cb:div type="commentary"><p xml:id="pL133p0547b0901" rend="margin-left:1em">二善男子我以成就下彰化成益既列十
+<lb ed="L" n="0547b10"/>海則知前海準此應思前四自利後六利
+<lb ed="L" n="0547b11"/>他後三文顯。</p></cb:div>
+<lb ed="L" n="0547b12"/><cb:div type="orig"><p xml:id="pL133p0547b1201">善男子我唯得此大悲幢行若有見我及以
+<lb ed="L" n="0547b13"/>聞我與我同住憶念我者皆悉不空如諸菩
+<lb ed="L" n="0547b14"/>薩摩訶薩善能遊涉生死大海不染一切諸
+<lb ed="L" n="0547b15"/>煩惱海能捨一切諸妄見海能觀一切諸法
+<pb ed="L" xml:id="L133.1557.0548a" n="0548a"/>
+<lb ed="L" n="0548a01"/>性海能以四攝攝眾生海<anchor xml:id="beg_17b" type="cb-app"/>已<anchor xml:id="end_17b"/>善安住一切智
+<lb ed="L" n="0548a02"/>海能滅一切眾生著海能平等住一切時海
+<lb ed="L" n="0548a03"/>能以神通度眾生海能以其時調眾生海而
+<lb ed="L" n="0548a04"/>我云何能知能說彼功德行。</p>
+<lb ed="L" n="0548a05"/><p xml:id="pL133p0548a0501">善男子於此南方有城名可樂中有長者名
+<lb ed="L" n="0548a06"/>無上勝汝詣彼問菩薩云何學菩薩行修菩
+<lb ed="L" n="0548a07"/>薩道時善財童子頂禮其足繞無量帀慇懃
+<lb ed="L" n="0548a08"/>瞻仰悲泣流淚求善知識心無厭足辭退而
+<lb ed="L" n="0548a09"/>去。</p>
+<lb ed="L" n="0548a10"/><p xml:id="pL133p0548a1001">爾時善財童子起大慈周徧心大悲潤澤心
+<lb ed="L" n="0548a11"/>相續不斷福德智慧二種莊嚴捨離一切煩
+<lb ed="L" n="0548a12"/>惱塵垢證法平等心無高下拔不善<anchor xml:id="beg_17c" type="cb-app"/>刺<anchor xml:id="end_17c"/>滅一
+<lb ed="L" n="0548a13"/>切障堅固精進以為牆壍甚深三昧而作園
+<lb ed="L" n="0548a14"/>苑以慧日光破無明闇以方便風開智慧華
+<lb ed="L" n="0548a15"/>以無礙願充滿法界心常現入一切智城如
+<pb ed="L" xml:id="L133.1557.0548b" n="0548b"/>
+<lb ed="L" n="0548b01"/>是而求菩薩之道漸次經歷到彼城內。</p></cb:div>
+<lb ed="L" n="0548b02"/><cb:div type="commentary"><p xml:id="pL133p0548b0201" rend="margin-left:1em">第三無上勝長者寄等一切佛廻向以得
+<lb ed="L" n="0548b03"/>勝通無過上故等於諸佛更無勝故在可
+<lb ed="L" n="0548b04"/>樂國者由等佛廻向不見美惡皆得清淨
+<lb ed="L" n="0548b05"/>歡喜恱樂故文中第一可知<note place="inline">寄等一切佛廻向者謂等
+<lb ed="L" n="0548b06"/>同三世一切如來能廻向道所廻向善故以得勝通下釋名此約得法釋等於下約
+<lb ed="L" n="0548b07"/>寄位釋由等諸佛不見美惡者經云如是修學廻向道時見一切色乃至觸法若美
+<lb ed="L" n="0548b08"/>若惡不生愛憎心得自在無諸過失廣大清淨歡喜恱樂離諸憂惱身心柔輭諸根
+<lb ed="L" n="0548b09"/>清淨是也</note>。</p></cb:div>
+<lb ed="L" n="0548b10"/><cb:div type="orig"><p xml:id="pL133p0548b1001">見無上勝在其城東大莊嚴幢無憂林中無
+<lb ed="L" n="0548b11"/>量商人百千居士之所圍繞理斷人間種種
+<lb ed="L" n="0548b12"/>事務因為說法令其永拔一切我慢離我我
+<lb ed="L" n="0548b13"/>所捨所積聚滅慳嫉妒心得清淨無諸穢濁
+<lb ed="L" n="0548b14"/>獲淨信力常樂見佛受持佛法生菩薩力起
+<lb ed="L" n="0548b15"/>菩薩行入菩薩三昧得菩薩智慧住菩薩正
+<pb ed="L" xml:id="L133.1557.0549a" n="0549a"/>
+<lb ed="L" n="0549a01"/>念增菩薩樂欲爾時善財童子觀彼長者為
+<lb ed="L" n="0549a02"/>眾說法<anchor xml:id="beg_17d" type="cb-app"/>已<anchor xml:id="end_17d"/>以身投地頂禮其足良久乃起白
+<lb ed="L" n="0549a03"/>言聖者我是善財我是善財我專尋求菩薩
+<lb ed="L" n="0549a04"/>之行菩薩云何學菩薩行菩薩云何修菩薩
+<lb ed="L" n="0549a05"/>道隨修學時常能化度一切眾生常能現見
+<lb ed="L" n="0549a06"/>一切諸佛常得聽聞一切佛法常能住持一
+<lb ed="L" n="0549a07"/>切佛法常能趣入一切法門入一切剎學菩
+<lb ed="L" n="0549a08"/>薩行住一切劫修菩薩道能知一切如來神
+<lb ed="L" n="0549a09"/>力能受一切如來護念能得一切如來智慧。</p></cb:div>
+<lb ed="L" n="0549a10"/><cb:div type="commentary"><p xml:id="pL133p0549a1001" rend="margin-left:1em">第二見無上勝下見敬諮問初見在城東
+<lb ed="L" n="0549a11"/>者啟明佛日故處無憂林者同佛廻向無
+<lb ed="L" n="0549a12"/>愛憎故商人等圍繞者佛為商主菩薩為
+<lb ed="L" n="0549a13"/>商人法財外益功歸<anchor xml:id="beg_17e" type="cb-app"/>己<anchor xml:id="end_17e"/>故次爾時善財下
+<lb ed="L" n="0549a14"/>設敬後白言下諮問稱名者聲名久聞表
+<lb ed="L" n="0549a15"/>重法之噐冀有聞故。</p></cb:div>
+<pb ed="L" xml:id="L133.1557.0549b" n="0549b"/>
+<lb ed="L" n="0549b01"/><cb:div type="orig"><p xml:id="pL133p0549b0101">時彼長者告善財言善哉善哉善男子汝已
+<lb ed="L" n="0549b02"/>能發阿耨多羅三藐三菩提心善男子我成
+<lb ed="L" n="0549b03"/>就至一切處菩薩行門無依無作神通之力。</p></cb:div>
+<lb ed="L" n="0549b04"/><cb:div type="commentary"><p xml:id="pL133p0549b0401" rend="margin-left:1em">第三時彼長者下稱讚授法授法中先標
+<lb ed="L" n="0549b05"/>名體由無作無依故能徧至徧至是用廣
+<lb ed="L" n="0549b06"/>無依是體勝無依者不依他故無作者離
+<lb ed="L" n="0549b07"/>加行故。</p></cb:div>
+<lb ed="L" n="0549b08"/><cb:div type="orig"><p xml:id="pL133p0549b0801">善男子云何為至一切處菩薩行門善男子
+<lb ed="L" n="0549b09"/>我於此三千大千世界欲界一切諸眾生中
+<lb ed="L" n="0549b10"/>所謂一切三十三天一切須夜摩天一切兜
+<lb ed="L" n="0549b11"/>率陀天一切善變化天一切他化自在天一
+<lb ed="L" n="0549b12"/>切摩天及餘一切天龍夜叉羅剎娑鳩槃茶
+<lb ed="L" n="0549b13"/>乾闥婆阿修羅迦樓羅緊那羅摩睺羅伽人
+<lb ed="L" n="0549b14"/>與非人村營城邑一切住處諸眾生中而為
+<lb ed="L" n="0549b15"/>說法令捨非法令息諍論令除鬬戰令止忿
+<pb ed="L" xml:id="L133.1557.0550a" n="0550a"/>
+<lb ed="L" n="0550a01"/>競令破冤結令解繫縛令出牢獄令免怖畏
+<lb ed="L" n="0550a02"/>令斷殺生乃至邪見一切惡業不可作事皆
+<lb ed="L" n="0550a03"/>令禁止令其順行一切善法令其修學一切
+<lb ed="L" n="0550a04"/>技藝於諸世間而作利益為其分別種種諸
+<lb ed="L" n="0550a05"/>論令生歡喜令漸成熟隨順外道為說勝智
+<lb ed="L" n="0550a06"/>令斷諸見令入佛法乃至色界一切梵天我
+<lb ed="L" n="0550a07"/>亦為其說超勝法如於此三千大千世界乃
+<lb ed="L" n="0550a08"/>至十方十不可說百千億那由他佛剎微塵
+<lb ed="L" n="0550a09"/>數世界中我皆為說佛法菩薩法聲聞法獨
+<lb ed="L" n="0550a10"/>覺法說地獄說地獄眾生說向地獄道說畜
+<lb ed="L" n="0550a11"/>生說畜生差別說畜生受苦說向畜生道說
+<lb ed="L" n="0550a12"/>閻羅王世間說閻羅王世間苦說向閻羅王
+<lb ed="L" n="0550a13"/>世間道說天世間說天世間樂說向天世間
+<lb ed="L" n="0550a14"/>道說人世間說人世間苦樂說向人世間道
+<lb ed="L" n="0550a15"/>為欲開顯菩薩功德為今捨離生死過患為
+<pb ed="L" xml:id="L133.1557.0550b" n="0550b"/>
+<lb ed="L" n="0550b01"/>令知見一切智人諸妙功德為欲令知諸有
+<lb ed="L" n="0550b02"/>趣中迷惑受苦為令知見無障礙法為欲顯
+<lb ed="L" n="0550b03"/>示一切世間生起所因為欲顯示一切世間
+<lb ed="L" n="0550b04"/>寂滅為樂為令眾生捨諸想著為令證得佛
+<lb ed="L" n="0550b05"/>無依法為令永滅諸煩惱輪為令能轉如來
+<lb ed="L" n="0550b06"/>法輪我為眾生說如是法。</p></cb:div>
+<lb ed="L" n="0550b07"/><cb:div type="commentary"><p xml:id="pL133p0550b0701" rend="margin-left:1em">二善男子云何下徵釋業用釋中明至一
+<lb ed="L" n="0550b08"/>切處廣說法故文中先舉三千後如於此
+<lb ed="L" n="0550b09"/>三千下類顯十方。</p></cb:div>
+<lb ed="L" n="0550b10"/><cb:div type="orig"><p xml:id="pL133p0550b1001">善男子我唯知此至一切處修菩薩行清淨
+<lb ed="L" n="0550b11"/>法門無依無作神通之力如諸菩薩摩訶薩
+<lb ed="L" n="0550b12"/>具足一切自在神通悉能徧徃一切佛剎得
+<lb ed="L" n="0550b13"/>普眼地悉聞一切音聲言說普入諸法智慧
+<lb ed="L" n="0550b14"/>自在無有乖諍勇健無比以廣長舌出平等
+<lb ed="L" n="0550b15"/>音其身妙好同諸菩薩與諸如來究竟無二
+<pb ed="L" xml:id="L133.1557.0551a" n="0551a"/>
+<lb ed="L" n="0551a01"/>無有差別智身廣大普入三世境界無際同
+<lb ed="L" n="0551a02"/>於虛空而我云何能知能說彼功德行。</p></cb:div>
+<lb ed="L" n="0551a03"/><cb:div type="commentary"><p xml:id="pL133p0551a0301" rend="margin-left:1em">第四謙<anchor xml:id="beg_17f" type="cb-app"/>己<anchor xml:id="end_17f"/>推勝中加清淨法門者徧至本
+<lb ed="L" n="0551a04"/>為說法故即前所說後二可知。</p></cb:div>
+<lb ed="L" n="0551a05"/><cb:div type="orig"><p xml:id="pL133p0551a0501">善男子於此南方有一國土名曰輸那其國
+<lb ed="L" n="0551a06"/>有城名迦陵迦林有比丘尼名師子嚬申汝
+<lb ed="L" n="0551a07"/>詣彼問菩薩云何學菩薩行修菩薩道。</p>
+<lb ed="L" n="0551a08"/><p xml:id="pL133p0551a0801">時善財童子頂禮其足繞無量帀慇懃瞻仰
+<lb ed="L" n="0551a09"/>辭退而去。</p>
+<lb ed="L" n="0551a10"/><p xml:id="pL133p0551a1001">爾時善財童子漸次遊行至彼國城周徧推
+<lb ed="L" n="0551a11"/>求此比丘尼有無量人咸告之言善男子此
+<lb ed="L" n="0551a12"/>比丘尼在勝光王之所捨施日光園中說法
+<lb ed="L" n="0551a13"/>利益無量眾生。</p></cb:div>
+<lb ed="L" n="0551a14"/><cb:div type="commentary"><p xml:id="pL133p0551a1401" rend="margin-left:1em">第四至一切處廻向善友名師子嚬申者
+<lb ed="L" n="0551a15"/>舒展自在無不至故比丘尼者純淨之慈
+<pb ed="L" xml:id="L133.1557.0551b" n="0551b"/>
+<lb ed="L" n="0551b01"/>合善徧故國名輸那者此云勇猛勇猛之
+<lb ed="L" n="0551b02"/>力能使善根無不至故又以十度明義義
+<lb ed="L" n="0551b03"/>當進故城名迦陵迦林者以義翻為相鬬
+<lb ed="L" n="0551b04"/>戰時謂因鬬勝而立城故表此廻向願以
+<lb ed="L" n="0551b05"/>信解大威力故廣大智慧無障礙故令修
+<lb ed="L" n="0551b06"/>善根無所不至義同戰時<note place="inline">第四至一切處善友者謂以大
+<lb ed="L" n="0551b07"/>願力令其善根所成供等遍一切故</note>文中第一依教趣求言
+<lb ed="L" n="0551b08"/>勝光王捨施日光園者準律尼之頭陀多
+<lb ed="L" n="0551b09"/>在王國藉外護故表因實際勝光令其善
+<lb ed="L" n="0551b10"/>根徧法界之園菀故並皆即智故有光名。</p></cb:div>
+<lb ed="L" n="0551b11"/><cb:div type="orig"><p xml:id="pL133p0551b1101">時善財童子即詣彼園周徧觀察見其園中
+<lb ed="L" n="0551b12"/>有一大樹名為滿月形如樓閣放大光明照
+<lb ed="L" n="0551b13"/>一由旬見一葉樹名為普覆其形如蓋放毘
+<lb ed="L" n="0551b14"/>瑠璃紺青光明見一華樹名曰華藏其形高
+<lb ed="L" n="0551b15"/>大如雪山王雨眾妙華無有窮盡如忉利天
+<pb ed="L" xml:id="L133.1557.0552a" n="0552a"/>
+<lb ed="L" n="0552a01"/>中波利質多羅樹復見有一甘露果樹形如
+<lb ed="L" n="0552a02"/>金山常放光明種種眾果悉皆具足復見有
+<lb ed="L" n="0552a03"/>一摩尼寶樹名毘盧遮那藏其形無比心王
+<lb ed="L" n="0552a04"/>摩尼寶最在其上阿僧祇色相摩尼寶周徧
+<lb ed="L" n="0552a05"/>莊嚴復有衣樹名為清淨種種色衣垂布嚴
+<lb ed="L" n="0552a06"/>飾復有音樂樹名為歡喜其音美妙過諸天
+<lb ed="L" n="0552a07"/>樂復有香樹名普莊嚴恒出妙香普熏十方
+<lb ed="L" n="0552a08"/>無所障礙。</p></cb:div>
+<lb ed="L" n="0552a09"/><cb:div type="commentary"><p xml:id="pL133p0552a0901" rend="margin-left:1em">第二時善財童子即詣下見敬諮問中三
+<lb ed="L" n="0552a10"/>先見次敬後問前中二初見依後見正今
+<lb ed="L" n="0552a11"/>初有六一無漏林樹無漏法行而建立故
+<lb ed="L" n="0552a12"/>文中有八各有所表思之<note place="inline">無漏林樹等者多是淨名佛道
+<lb ed="L" n="0552a13"/>園苑無漏法林品偈云總持之樹覺意淨妙華解脫智慧果</note>。</p></cb:div>
+<lb ed="L" n="0552a14"/><cb:div type="orig"><p xml:id="pL133p0552a1401">園中復有泉流陂池一切皆以七寶莊嚴黑
+<lb ed="L" n="0552a15"/>栴檀泥凝積其中上妙金沙彌布其底八功
+<pb ed="L" xml:id="L133.1557.0552b" n="0552b"/>
+<lb ed="L" n="0552b01"/>德水具足盈滿優鉢羅華波頭摩華拘物頭
+<lb ed="L" n="0552b02"/>華芬陀利華徧覆其上。</p></cb:div>
+<lb ed="L" n="0552b03"/><cb:div type="commentary"><p xml:id="pL133p0552b0301" rend="margin-left:1em">二園中復有下明八解泉流八功德者謂
+<lb ed="L" n="0552b04"/>輕冷濡美淨而不臭調適無患<note place="inline">八解之浴池定水湛
+<lb ed="L" n="0552b05"/>然滿布以七淨華浴此無垢人等</note>。</p></cb:div>
+<lb ed="L" n="0552b06"/><cb:div type="orig"><p xml:id="pL133p0552b0601">無量寶樹周徧行列諸寶樹下敷師子座種
+<lb ed="L" n="0552b07"/>種妙寶以為莊嚴布以天衣熏諸妙香垂諸
+<lb ed="L" n="0552b08"/>寶繒施諸寶帳閻浮金網彌覆其上寶鐸徐
+<lb ed="L" n="0552b09"/>搖出妙音聲或有樹下敷蓮華藏師子之座
+<lb ed="L" n="0552b10"/>或有樹下敷香王摩尼藏師子之座或有樹
+<lb ed="L" n="0552b11"/>下敷龍莊嚴摩尼王藏師子之座或有樹下
+<lb ed="L" n="0552b12"/>敷寶師子聚摩尼王藏師子之座或有樹下
+<lb ed="L" n="0552b13"/>敷毘盧遮那摩尼王藏師子之座或有樹下
+<lb ed="L" n="0552b14"/>敷十方毘盧遮那摩尼王藏師子之座其一
+<lb ed="L" n="0552b15"/>一座各有十萬寶師子座周帀圍繞一一皆
+<pb ed="L" xml:id="L133.1557.0553a" n="0553a"/>
+<lb ed="L" n="0553a01"/>具無量莊嚴。</p></cb:div>
+<lb ed="L" n="0553a02"/><cb:div type="commentary"><p xml:id="pL133p0553a0201" rend="margin-left:1em">三無量寶樹下敷法空座而隨法嚴異於
+<lb ed="L" n="0553a03"/>中有標列及結可知。</p></cb:div>
+<lb ed="L" n="0553a04"/><cb:div type="orig"><p xml:id="pL133p0553a0401">此大園中眾寶徧滿猶如大海寶洲之上迦
+<lb ed="L" n="0553a05"/>隣陀衣以布其地柔輭妙好能生樂觸蹈則
+<lb ed="L" n="0553a06"/>沒足舉則還復無量諸鳥出和雅音寶栴檀
+<lb ed="L" n="0553a07"/>林上妙莊嚴種種妙華常雨無盡猶如帝釋
+<lb ed="L" n="0553a08"/>雜華之園無比香王普熏一切猶如帝釋善
+<lb ed="L" n="0553a09"/>法之堂諸音樂樹寶多羅樹眾寶鈴網出妙
+<lb ed="L" n="0553a10"/>音聲如自在天善口天女所出歌音諸如意
+<lb ed="L" n="0553a11"/>樹種種妙衣垂布莊嚴猶如大海有無量色
+<lb ed="L" n="0553a12"/>百千樓閣眾寶莊嚴如忉利天宮善見大城
+<lb ed="L" n="0553a13"/>寶蓋遐張如須彌峯光明普照如梵王宮。</p></cb:div>
+<lb ed="L" n="0553a14"/><cb:div type="commentary"><p xml:id="pL133p0553a1401" rend="margin-left:1em">四此大園下雜明諸嚴萬行非一故。</p></cb:div>
+<lb ed="L" n="0553a15"/><cb:div type="orig"><p xml:id="pL133p0553a1501">爾時善財童子見此大園無量功德種種莊
+<pb ed="L" xml:id="L133.1557.0553b" n="0553b"/>
+<lb ed="L" n="0553b01"/>嚴皆是菩薩業報成就出世善根之所生起
+<lb ed="L" n="0553b02"/>供養諸佛功德所流一切世間無與等者如
+<lb ed="L" n="0553b03"/>是皆從師子嚬申比丘尼了法如幻集廣大
+<lb ed="L" n="0553b04"/>清淨福德善業之所成就。</p></cb:div>
+<lb ed="L" n="0553b05"/><cb:div type="commentary"><p xml:id="pL133p0553b0501" rend="margin-left:1em">五爾時善財下出其所因。</p></cb:div>
+<lb ed="L" n="0553b06"/><cb:div type="orig"><p xml:id="pL133p0553b0601">三千大千世界天龍八部無量眾生皆入此
+<lb ed="L" n="0553b07"/>園而不迫窄何以故此比丘尼不可思議威
+<lb ed="L" n="0553b08"/>神力故。</p></cb:div>
+<lb ed="L" n="0553b09"/><cb:div type="commentary"><p xml:id="pL133p0553b0901" rend="margin-left:1em">六三千下明果用自在。</p></cb:div>
+<lb ed="L" n="0553b10"/><cb:div type="orig"><p xml:id="pL133p0553b1001">爾時善財見師子嚬申比丘尼徧座一切諸
+<lb ed="L" n="0553b11"/>寶樹下大師子座身相端嚴威儀寂靜諸根
+<lb ed="L" n="0553b12"/>調順如大象王心無垢濁如清淨池普濟所
+<lb ed="L" n="0553b13"/>求如如意寶不染世法猶如蓮華心無所畏
+<lb ed="L" n="0553b14"/>如師子王護持淨戒不可傾動如須彌山能
+<lb ed="L" n="0553b15"/>令見者心得清涼如妙香王能除眾生諸煩
+<pb ed="L" xml:id="L133.1557.0554a" n="0554a"/>
+<lb ed="L" n="0554a01"/>惱熱如雪山中妙栴檀香眾生見者諸苦消
+<lb ed="L" n="0554a02"/>滅如善見藥王見者不空如婆樓那天能長
+<lb ed="L" n="0554a03"/>一切眾善根芽如良沃田在一一座眾會不
+<lb ed="L" n="0554a04"/>同所說法門亦各差別。</p></cb:div>
+<lb ed="L" n="0554a05"/><cb:div type="commentary"><p xml:id="pL133p0554a0501" rend="margin-left:1em">二爾時善財見師子下明見正報中四初
+<lb ed="L" n="0554a06"/>總明徧坐勝德顯彰二別明所徧演法各
+<lb ed="L" n="0554a07"/>異三總結多類聞法發心四通顯所因釋
+<lb ed="L" n="0554a08"/>成自在今初婆樓那者此云水也此天能
+<lb ed="L" n="0554a09"/>滿人願故<note place="inline">普云水天者總持教中有此天也</note>。</p></cb:div>
+<lb ed="L" n="0554a10"/><cb:div type="orig"><p xml:id="pL133p0554a1001">或見處座淨居天眾所共圍繞大自在天子
+<lb ed="L" n="0554a11"/>而為上首此比丘尼為說法門名無盡解脫
+<lb ed="L" n="0554a12"/>或見處座諸梵天眾所共圍繞愛樂梵王而
+<lb ed="L" n="0554a13"/>為上首此比丘尼為說法門名普門差別清
+<lb ed="L" n="0554a14"/>淨言音輪或見處座他化自在天天子天女
+<lb ed="L" n="0554a15"/>所共圍繞自在天王而為上首此比丘尼為
+<pb ed="L" xml:id="L133.1557.0554b" n="0554b"/>
+<lb ed="L" n="0554b01"/>說法門名菩薩清淨心或見處座善變化天
+<lb ed="L" n="0554b02"/>天子天女所共圍繞善化天王而為上首此
+<lb ed="L" n="0554b03"/>比丘尼為說法門名一切法善莊嚴或見處
+<lb ed="L" n="0554b04"/>座兜率陀天天子天女所共圍繞兜率天王
+<lb ed="L" n="0554b05"/>而為上首此比丘尼為說法門名心藏旋或
+<lb ed="L" n="0554b06"/>見處座須夜摩天天子天女所共圍繞夜摩
+<lb ed="L" n="0554b07"/>天王而為上首此比丘尼為說法門名無邊
+<lb ed="L" n="0554b08"/>莊嚴或見處座三十三天天子天女所共圍
+<lb ed="L" n="0554b09"/>繞釋提桓因而為上首此比丘尼為說法門
+<lb ed="L" n="0554b10"/>名厭離門或見處座百光明龍王難陀龍王
+<lb ed="L" n="0554b11"/>優波難陀龍王摩那斯龍王伊羅跋難陀龍
+<lb ed="L" n="0554b12"/>王阿那婆達多龍王等龍子龍女所共圍繞
+<lb ed="L" n="0554b13"/>娑伽羅龍王而為上首此比丘尼為說法門
+<lb ed="L" n="0554b14"/>名佛神通境界光明莊嚴或見處座諸夜叉
+<lb ed="L" n="0554b15"/>眾所共圍繞毘沙門天王而為上首此比丘
+<pb ed="L" xml:id="L133.1557.0555a" n="0555a"/>
+<lb ed="L" n="0555a01"/>尼為說法門名救護眾生藏或見處座乾闥
+<lb ed="L" n="0555a02"/>婆眾所共圍繞持國乾闥婆王而為上首此
+<lb ed="L" n="0555a03"/>比丘尼為說法門名無盡喜或見處座阿修
+<lb ed="L" n="0555a04"/>羅眾所共圍繞羅睺阿修羅王而為上首此
+<lb ed="L" n="0555a05"/>比丘尼為說法門名速疾莊嚴法界智門或
+<lb ed="L" n="0555a06"/>見處座迦樓羅眾所共圍繞<g ref="#CB15162">㨗</g>持迦樓羅王
+<lb ed="L" n="0555a07"/>而為上首此比丘尼為說法門名怖動諸有
+<lb ed="L" n="0555a08"/>海或見處座緊那羅眾所共圍繞大樹緊那
+<lb ed="L" n="0555a09"/>羅王而為上首此比丘尼為說法門名佛行
+<lb ed="L" n="0555a10"/>光明或見處座摩睺羅伽眾所共圍繞菴羅
+<lb ed="L" n="0555a11"/>林摩睺羅伽王而為上首此比丘尼為說法
+<lb ed="L" n="0555a12"/>門名生佛歡喜心或見處座無量百千男子
+<lb ed="L" n="0555a13"/>女人所共圍繞此比丘尼為說法門名殊勝
+<lb ed="L" n="0555a14"/>行或見處座諸羅剎眾所共圍繞常奪精氣
+<lb ed="L" n="0555a15"/>大樹羅剎王而為上首此比丘尼為說法門
+<pb ed="L" xml:id="L133.1557.0555b" n="0555b"/>
+<lb ed="L" n="0555b01"/>名發生悲愍心。</p></cb:div>
+<lb ed="L" n="0555b02"/><cb:div type="commentary"><p xml:id="pL133p0555b0201" rend="margin-left:1em">二或見處座下別明所徧中有三十處分
+<lb ed="L" n="0555b03"/>三初十六為八部人非人等次二為二乘
+<lb ed="L" n="0555b04"/>後十二為菩薩今初中先有七處為天一
+<lb ed="L" n="0555b05"/>為淨居天說無盡者治彼那含求盡身智
+<lb ed="L" n="0555b06"/>故二梵王普應但於<anchor xml:id="beg_180" type="cb-app"/>己<anchor xml:id="end_180"/>眾廣及二千為說
+<lb ed="L" n="0555b07"/>普門則無不應梵音清妙但是世間為說
+<lb ed="L" n="0555b08"/>法界勝流方為淨妙三他化天令得出世
+<lb ed="L" n="0555b09"/>淨心超世自在故四化樂樂具莊嚴不及
+<lb ed="L" n="0555b10"/>善故五旋歸如來藏心則真喜足故六徧
+<lb ed="L" n="0555b11"/>嚴法界方盡時分之樂七釋天耽欲甚故
+<lb ed="L" n="0555b12"/>次八為龍龍能通變耀電降莊嚴故九夜
+<lb ed="L" n="0555b13"/>叉性好飛空害物故十乾闥婆眾能奏樂
+<lb ed="L" n="0555b14"/>喜樂故上三亦四王眾意存八部故闕南
+<lb ed="L" n="0555b15"/>西十一修羅善幻為莊嚴故十二迦樓羅
+<pb ed="L" xml:id="L133.1557.0556a" n="0556a"/>
+<lb ed="L" n="0556a01"/>動海怖龍故十三緊那羅是歌神以佛行
+<lb ed="L" n="0556a02"/>光明破其著故又頭有一角亦云疑神令
+<lb ed="L" n="0556a03"/>同佛覺離疑光明故十四摩睺羅伽多瞋
+<lb ed="L" n="0556a04"/>毒故上來八部除第一第七及夜叉眾摩
+<lb ed="L" n="0556a05"/>睺羅伽約對治說餘皆約隨便宜隨其世
+<lb ed="L" n="0556a06"/>能轉入出世故緊那羅眾通其二義第十
+<lb ed="L" n="0556a07"/>五一座為人人多行不善行設行仁義亦
+<lb ed="L" n="0556a08"/>非勝故故令起出世勝行十六一座為羅
+<lb ed="L" n="0556a09"/>剎則是非人亦治多殘害故。</p></cb:div>
+<lb ed="L" n="0556a10"/><cb:div type="orig"><p xml:id="pL133p0556a1001">或見處座信樂聲聞乘眾生所共圍繞此比
+<lb ed="L" n="0556a11"/>丘尼為說法門名勝智光明或見處座信樂
+<lb ed="L" n="0556a12"/>緣覺乘眾生所共圍繞此比丘尼為說法門
+<lb ed="L" n="0556a13"/>名佛功德廣大光明。</p></cb:div>
+<lb ed="L" n="0556a14"/><cb:div type="commentary"><p xml:id="pL133p0556a1401" rend="margin-left:1em">次二為二乘者聲聞智劣故緣覺修福止
+<lb ed="L" n="0556a15"/>百劫故緣起智光未能亡緣故。</p></cb:div>
+<pb ed="L" xml:id="L133.1557.0556b" n="0556b"/>
+<lb ed="L" n="0556b01"/><cb:div type="orig"><p xml:id="pL133p0556b0101">或見處座信樂大乘眾生所共圍繞此比丘
+<lb ed="L" n="0556b02"/>尼為說法門名普門三昧智光明門或見處
+<lb ed="L" n="0556b03"/>座初發心諸菩薩所共圍繞此比丘尼為說
+<lb ed="L" n="0556b04"/>法門名一切佛願聚或見處座第二地諸菩
+<lb ed="L" n="0556b05"/>薩所共圍繞此比丘尼為說法門名離垢輪
+<lb ed="L" n="0556b06"/>或見處座第三地諸菩薩所共圍繞此比丘
+<lb ed="L" n="0556b07"/>尼為說法門名寂靜莊嚴或見處座第四地
+<lb ed="L" n="0556b08"/>諸菩薩所共圍繞此比丘尼為說法門名生
+<lb ed="L" n="0556b09"/>一切智境界或見處座第五地諸菩薩所共
+<lb ed="L" n="0556b10"/>圍繞此比丘尼為說法門名妙華藏或見處
+<lb ed="L" n="0556b11"/>座第六地諸菩薩所共圍繞此比丘尼為說
+<lb ed="L" n="0556b12"/>法門名毘盧遮那藏或見處座第七地諸菩
+<lb ed="L" n="0556b13"/>薩所共圍繞此比丘尼為說法門名普莊嚴
+<lb ed="L" n="0556b14"/>地或見處座第八地諸菩薩所共圍繞此比
+<lb ed="L" n="0556b15"/>丘尼為說法門名徧法界境界身或見處座
+<pb ed="L" xml:id="L133.1557.0557a" n="0557a"/>
+<lb ed="L" n="0557a01"/>第九地諸菩薩所共圍繞此比丘尼為說法
+<lb ed="L" n="0557a02"/>門名無所得力莊嚴或見處座第十地諸菩
+<lb ed="L" n="0557a03"/>薩所共圍繞此比丘尼為說法門名無礙輪
+<lb ed="L" n="0557a04"/>或見處座執金剛神所共圍繞此比丘尼為
+<lb ed="L" n="0557a05"/>說法門名金剛智那羅延莊嚴。</p></cb:div>
+<lb ed="L" n="0557a06"/><cb:div type="commentary"><p xml:id="pL133p0557a0601" rend="margin-left:1em">後十二為菩薩分三初一為地前說定慧
+<lb ed="L" n="0557a07"/>之光次十為地上初發心者證發心也發
+<lb ed="L" n="0557a08"/>十大願故五地妙華藏者華謂十種平等
+<lb ed="L" n="0557a09"/>淨心故<g ref="#CB07778">𣈆</g>經云淨心華藏華藏者以真俗
+<lb ed="L" n="0557a10"/>雙修於難得勝為因含藏故餘八可知後
+<lb ed="L" n="0557a11"/>一義當等覺說金剛喻定壞散塵習故既
+<lb ed="L" n="0557a12"/>為等覺而說明此位非小言廻向者約寄
+<lb ed="L" n="0557a13"/>位耳他皆倣此<note place="inline">證<g ref="#CB07514">𤼵</g>心者<g ref="#CB00562">䟽</g>中隨難但釋二句今當畧釋二地三聚
+<lb ed="L" n="0557a14"/>圓滿故三地修八禪故四地得無行無生行慧光故五地如<g ref="#CB00562">䟽</g>六地般若現前遍照
+<lb ed="L" n="0557a15"/>普得故七地有中殊勝行修習一切菩提分故名普莊嚴八地得無生忍於三世間
+<pb ed="L" xml:id="L133.1557.0557b" n="0557b"/>
+<lb ed="L" n="0557b01"/>皆悉自在得忍如空念念入法流故九地以無所得而為方便力度偏增具足辯才
+<lb ed="L" n="0557b02"/>演一切法為莊嚴故十地諸障已摧十慶已滿三祗已圓故</note>。</p></cb:div>
+<lb ed="L" n="0557b03"/><cb:div type="orig"><p xml:id="pL133p0557b0301">善財童子見如是等一切諸趣所有眾生已
+<lb ed="L" n="0557b04"/>成熟者已調伏者堪為法器皆入此園各於
+<lb ed="L" n="0557b05"/>座下圍繞而坐師子嚬申比丘尼隨其欲解
+<lb ed="L" n="0557b06"/>勝劣差別而為說法令於阿耨多羅三藐三
+<lb ed="L" n="0557b07"/>菩提得不退轉。</p></cb:div>
+<lb ed="L" n="0557b08"/><cb:div type="commentary"><p xml:id="pL133p0557b0801" rend="margin-left:1em">第三善財童子見如是下總結多類聞法
+<lb ed="L" n="0557b09"/>發心可知。</p></cb:div>
+<lb ed="L" n="0557b10"/><cb:div type="orig"><p xml:id="pL133p0557b1001">何以故此比丘尼入普眼捨得般若波羅蜜
+<lb ed="L" n="0557b11"/>門說一切佛法般若波羅蜜門法界差別般
+<lb ed="L" n="0557b12"/>若波羅蜜門散壞一切障礙輪般若波羅蜜
+<lb ed="L" n="0557b13"/>門生一切眾生善心般若波羅蜜門殊勝莊
+<lb ed="L" n="0557b14"/>嚴般若波羅蜜門無礙真實藏般若波羅蜜
+<lb ed="L" n="0557b15"/>門法界圓滿般若波羅蜜門心藏般若波羅
+<pb ed="L" xml:id="L133.1557.0558a" n="0558a"/>
+<lb ed="L" n="0558a01"/>蜜門普出生藏般若波羅蜜門此十般若波
+<lb ed="L" n="0558a02"/>羅蜜門為首入如是等無數百萬般若波羅
+<lb ed="L" n="0558a03"/>蜜門此日光園中所有菩薩及諸眾生皆是
+<lb ed="L" n="0558a04"/>師子嚬申比丘尼初勸發心受持正法思惟
+<lb ed="L" n="0558a05"/>修習於阿耨多羅三藐三菩提得不退轉。</p></cb:div>
+<lb ed="L" n="0558a06"/><cb:div type="commentary"><p xml:id="pL133p0558a0601" rend="margin-left:1em">第四何以故下總顯所因釋成自在有二
+<lb ed="L" n="0558a07"/>一由能化具般若故二此日光下由彼所
+<lb ed="L" n="0558a08"/>化根已熟故。</p></cb:div>
+<lb ed="L" n="0558a09"/><cb:div type="orig"><p xml:id="pL133p0558a0901">時善財童子見師子嚬申比丘尼如是園林
+<lb ed="L" n="0558a10"/>如是牀座如是經行如是眾會如是神力如
+<lb ed="L" n="0558a11"/>是辯才復聞不可思議法門廣大法雲潤澤
+<lb ed="L" n="0558a12"/>其心便生是念我當右繞無量百千帀時比
+<lb ed="L" n="0558a13"/>丘尼放大光明普照其園眾會莊嚴善財童
+<lb ed="L" n="0558a14"/>子即自見身及園林中所有眾樹皆悉右繞
+<lb ed="L" n="0558a15"/>此比丘尼經於無量百千萬帀圍繞畢<anchor xml:id="beg_181" type="cb-app"/>已<anchor xml:id="end_181"/>善
+<pb ed="L" xml:id="L133.1557.0558b" n="0558b"/>
+<lb ed="L" n="0558b01"/>財童子合掌而住。</p></cb:div>
+<lb ed="L" n="0558b02"/><cb:div type="commentary"><p xml:id="pL133p0558b0201" rend="margin-left:1em">二時善財童子下設敬於中三初覩勝發
+<lb ed="L" n="0558b03"/>心次放光攝受後正申敬儀。</p></cb:div>
+<lb ed="L" n="0558b04"/><cb:div type="orig"><p xml:id="pL133p0558b0401">白言聖者我已先發阿耨多羅三藐三菩提
+<lb ed="L" n="0558b05"/>心而未知菩薩云何學菩薩行云何修菩薩
+<lb ed="L" n="0558b06"/>道我聞聖者善能誘誨願為我說。</p></cb:div>
+<lb ed="L" n="0558b07"/><cb:div type="commentary"><p xml:id="pL133p0558b0701" rend="margin-left:1em">三白言下問法。</p></cb:div>
+<lb ed="L" n="0558b08"/><cb:div type="orig"><p xml:id="pL133p0558b0801">比丘尼言善男子我得解脫名成就一切智
+<lb ed="L" n="0558b09"/>善財言聖者何故名為成就一切智比丘尼
+<lb ed="L" n="0558b10"/>言善男子此智光明於一念中普照三世一
+<lb ed="L" n="0558b11"/>切諸法善財白言聖者此智光明境界云何。</p></cb:div>
+<lb ed="L" n="0558b12"/><cb:div type="commentary"><p xml:id="pL133p0558b1201" rend="margin-left:1em">第三比丘尼言下授已法界中三初標名
+<lb ed="L" n="0558b13"/>一切智者同佛智故二善財言下徵釋其
+<lb ed="L" n="0558b14"/>體一念普照故三善財白言下辨其業用
+<lb ed="L" n="0558b15"/>先問後答。</p></cb:div>
+<pb ed="L" xml:id="L133.1557.0559a" n="0559a"/>
+<lb ed="L" n="0559a01"/><cb:div type="orig"><p xml:id="pL133p0559a0101">比丘尼言善男子我入此智光明門得出生
+<lb ed="L" n="0559a02"/>一切法三昧王以此三昧故得意生身徃十
+<lb ed="L" n="0559a03"/>方一切世界兜率天宮一生所繫菩薩所一
+<lb ed="L" n="0559a04"/>一菩薩前現不可說佛剎微塵數身一一身
+<lb ed="L" n="0559a05"/>作不可說佛剎微塵數供養所謂現天王身
+<lb ed="L" n="0559a06"/>乃至人王身執持華雲執持鬘雲燒香塗香
+<lb ed="L" n="0559a07"/>及以末香衣服瓔珞幢旛繒蓋寶網寶帳寶
+<lb ed="L" n="0559a08"/>藏寶燈如是一切諸莊嚴具我皆執持而以
+<lb ed="L" n="0559a09"/>供養如於住兜率宮菩薩所如是於住胎出
+<lb ed="L" n="0559a10"/>胎在家出家徃詣道場成等正覺轉正法輪
+<lb ed="L" n="0559a11"/>人於涅槃如是中間或住天宮或住龍宮乃
+<lb ed="L" n="0559a12"/>至或復住於人宮於彼一一諸如來所我皆
+<lb ed="L" n="0559a13"/>如是而為供養若有眾生知我如是供養佛
+<lb ed="L" n="0559a14"/>者皆於阿耨多羅三藐三菩提得不退轉若
+<lb ed="L" n="0559a15"/>有眾生來至我所我即為說般若波羅蜜善
+<pb ed="L" xml:id="L133.1557.0559b" n="0559b"/>
+<lb ed="L" n="0559b01"/>男子我見一切眾生不分別眾生相智眼明
+<lb ed="L" n="0559b02"/>見故聽一切語言不分別語言相心無所著
+<lb ed="L" n="0559b03"/>故見一切如來不分別如來相了達法身故
+<lb ed="L" n="0559b04"/>住持一切法輪不分別法輪相悟法自性故
+<lb ed="L" n="0559b05"/>一念徧知一切法不分別諸法相知法如幻
+<lb ed="L" n="0559b06"/>故。</p></cb:div>
+<lb ed="L" n="0559b07"/><cb:div type="commentary"><p xml:id="pL133p0559b0701" rend="margin-left:1em">答中二先明通用後明智用前中亦二先
+<lb ed="L" n="0559b08"/>辨用所依謂由一切智能入王三昧故王
+<lb ed="L" n="0559b09"/>三昧者智論第七云一切三昧皆入中故
+<lb ed="L" n="0559b10"/>體即如如如體本寂真智契此故名三昧
+<lb ed="L" n="0559b11"/>以一切智言有其二義一徧知三世一切
+<lb ed="L" n="0559b12"/>事故二對於種智名根本智知一切事皆
+<lb ed="L" n="0559b13"/>一實故以即權之實智契即事之實理故
+<lb ed="L" n="0559b14"/>一切三昧皆入其中又由王三昧體無不
+<lb ed="L" n="0559b15"/>徧故意生身隨類能成二徃十方下辨能
+<pb ed="L" xml:id="L133.1557.0560a" n="0560a"/>
+<lb ed="L" n="0560a01"/>依業用可知二善男子我見下明其智用
+<lb ed="L" n="0560a02"/>又前即差別智用今即無分別智用故觸
+<lb ed="L" n="0560a03"/>境無取<note place="inline">智論第七一切三昧皆入中者論有喻云譬如大海謂若百川歸大
+<lb ed="L" n="0560a04"/>海故又有人言王三昧者在第四禪故有人云佛三昧誰能知相一切佛法一相無
+<lb ed="L" n="0560a05"/>相無量無數不可知唯佛能知佛神足持戒尚不了知况復一切三昧釋曰此但次
+<lb ed="L" n="0560a06"/>勝耳</note>。</p></cb:div>
+<lb ed="L" n="0560a07"/><cb:div type="orig"><p xml:id="pL133p0560a0701">善男子我唯知此成就一切智解脫如諸菩
+<lb ed="L" n="0560a08"/>薩摩訶薩心無分別普知諸法一身端坐充
+<lb ed="L" n="0560a09"/>滿法界於自身中現一切剎一念悉詣一切
+<lb ed="L" n="0560a10"/>佛所於自身內普現一切諸佛神力一毛徧
+<lb ed="L" n="0560a11"/>舉不可言說諸佛世界於其自身一毛孔中
+<lb ed="L" n="0560a12"/>現不可說世界成壞於一念中與不可說不
+<lb ed="L" n="0560a13"/>可說眾生同住於一念中入不可說不可說
+<lb ed="L" n="0560a14"/>一切諸劫而我云何能知能說彼功德行。</p>
+<lb ed="L" n="0560a15"/><p xml:id="pL133p0560a1501">善男子於此南方有一國土名曰險難此國
+<pb ed="L" xml:id="L133.1557.0560b" n="0560b"/>
+<lb ed="L" n="0560b01"/>有城名寶莊嚴中有女人名婆須蜜多汝詣
+<lb ed="L" n="0560b02"/>彼問菩薩云何學菩薩行修菩薩道。</p>
+<lb ed="L" n="0560b03"/><p xml:id="pL133p0560b0301">時善財童子頂禮其足繞無數帀慇懃瞻仰
+<lb ed="L" n="0560b04"/>辭退而去。</p></cb:div>
+<lb ed="L" n="0560b05"/><cb:juan fun="close" n="67"><cb:jhead>大方廣佛華嚴經<g ref="#CB00562">䟽</g>鈔會本第六十七</cb:jhead></cb:juan>
+<lb ed="L" n="0560b06"/><cb:div type="w"><head>音釋</head>
+<lb ed="L" n="0560b07"/><cb:div type="note"><entry><form>廛</form><cb:def><p xml:id="pL133p0560b0702" rend="margin-left:1em;inline"><note place="inline">直連切市居也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor">巚</term></form><cb:def><p xml:id="pL133p0560b0709" rend="margin-left:1em;inline"><note place="inline">魚蹇切山<term rend="no_nor">峯</term>也</note>。</p></cb:def></entry><entry cb:place="inline"><form>鬻</form><cb:def><p xml:id="pL133p0560b0716" rend="margin-left:1em;inline"><note place="inline">余六切賣也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor"><g ref="#CB17361">󴏑</g></term></form><cb:def><p xml:id="pL133p0560b0722" rend="margin-left:1em;inline"><note place="inline">許救切以鼻<term rend="no_nor"><g ref="#CB02853">㩜</g></term>
+<lb ed="L" n="0560b08"/>氣也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor"><g ref="#CB00667">󰊛</g></term>索</form><cb:def><p xml:id="pL133p0560b0805" rend="margin-left:1em;inline"><note place="inline"><term rend="no_nor"><g ref="#CB00667">󰊛</g></term>古泫切網也</note>。</p></cb:def></entry><entry cb:place="inline"><form>鑽</form><cb:def><p xml:id="pL133p0560b0812" rend="margin-left:1em;inline"><note place="inline">作官切穿也</note>。</p></cb:def></entry><entry cb:place="inline"><form>晡</form><cb:def><p xml:id="pL133p0560b0818" rend="margin-left:1em;inline"><note place="inline">博孤切申時也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor"><g ref="#CB15092">󳫴</g></term></form><cb:def><p xml:id="pL133p0560b0825" rend="margin-left:1em;inline"><note place="inline">居洧
+<lb ed="L" n="0560b09"/>切日影也</note>。</p></cb:def></entry><entry cb:place="inline"><form>脆</form><cb:def><p xml:id="pL133p0560b0906" rend="margin-left:1em;inline"><note place="inline">此芮切物易斷也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor">澁</term></form><cb:def><p xml:id="pL133p0560b0914" rend="margin-left:1em;inline"><note place="inline">所立切不滑也</note>。</p></cb:def></entry><entry cb:place="inline"><form>蹈</form><cb:def><p xml:id="pL133p0560b0921" rend="margin-left:1em;inline"><note place="inline">徒到切踐也</note>。</p></cb:def></entry><entry cb:place="inline"><form>淤</form>
+<lb ed="L" n="0560b10"/><cb:def><p xml:id="pL133p0560b1001" rend="margin-left:1em"><note place="inline">依據切澱滓也</note>。</p></cb:def></entry><entry cb:place="inline"><form>澓</form><cb:def><p xml:id="pL133p0560b1008" rend="margin-left:1em;inline"><note place="inline">房六切漩澓也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor"><g ref="#CB04622">󱈎</g></term></form><cb:def><p xml:id="pL133p0560b1015" rend="margin-left:1em;inline"><note place="inline">呈延切市物邸舍也</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor">鞸</term></form><cb:def><p xml:id="pL133p0560b1024" rend="margin-left:1em;inline"><note place="inline">駢迷切</note>。</p></cb:def></entry><entry cb:place="inline"><form>溼</form>
+<lb ed="L" n="0560b11"/><cb:def><p xml:id="pL133p0560b1101" rend="margin-left:1em"><note place="inline">失入切與濕同</note>。</p></cb:def></entry><entry cb:place="inline"><form>麝</form><cb:def><p xml:id="pL133p0560b1108" rend="margin-left:1em;inline"><note place="inline">神夜切獸名</note>。</p></cb:def></entry><entry cb:place="inline"><form><term rend="no_nor">輭</term></form><cb:def><p xml:id="pL133p0560b1114" rend="margin-left:1em;inline"><note place="inline">乳<term rend="no_nor">兖</term>切柔也</note>。</p></cb:def></entry></cb:div></cb:div>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_174" cb:to="#end_174"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_175" cb:to="#end_175"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_176" cb:to="#end_176"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_177" cb:to="#end_177"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_178" cb:to="#end_178"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_179" cb:to="#end_179"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_17a" cb:to="#end_17a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_17b" cb:to="#end_17b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_17c" cb:to="#end_17c"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_17d" cb:to="#end_17d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_17e" cb:to="#end_17e"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_17f" cb:to="#end_17f"><corr>己</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_180" cb:to="#end_180"><corr>己</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_181" cb:to="#end_181"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

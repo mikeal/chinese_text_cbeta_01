@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X86n1601">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 1601 禪燈世譜</title>
+			<author>明 道忞編修　吳侗集</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.24 $<date>$Date: 2010/09/27 03:41:43 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		<respStmt xml:id="resp2"><resp>corrections</resp><name>Xuzangjing</name></respStmt>
+		<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA.march</name></respStmt>
+	</editionStmt>
+	<extent>9卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/09/27 03:41:43 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 86, No. 1601 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB04636">
+	<charName>CBETA CHARACTER CB04636</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[王*(虍-七+(一/八/八/目))]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>璿</value>
+	</charProp>
+	<mapping cb:dec="987676" type="PUA">U+F121C</mapping>
+</char>
+<char xml:id="CB04676">
+	<charName>CBETA CHARACTER CB04676</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[ㄠ-ㄙ+?]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>允</value>
+	</charProp>
+	<mapping type="unicode">U+200D4</mapping>
+	<mapping cb:dec="987716" type="PUA">U+F1244</mapping>
+</char>
+<char xml:id="CB05883">
+	<charName>CBETA CHARACTER CB05883</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(工*几)/言]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>辯</value>
+	</charProp>
+	<mapping type="unicode">U+279AC</mapping>
+	<mapping cb:dec="988923" type="PUA">U+F16FB</mapping>
+</char>
+<char xml:id="CB05886">
+	<charName>CBETA CHARACTER CB05886</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[卄/(〡*臣)]</value>
+	</charProp>
+	<mapping cb:dec="988926" type="PUA">U+F16FE</mapping>
+</char>
+<char xml:id="CB06435">
+	<charName>CBETA CHARACTER CB06435</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[嵕-凶+(鬯-匕)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>嵕</value>
+	</charProp>
+	<mapping type="unicode">U+21F40</mapping>
+	<mapping cb:dec="989475" type="PUA">U+F1923</mapping>
+</char>
+<char xml:id="CB15162">
+	<charName>CBETA CHARACTER CB15162</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[拈-口+(足-口+(雪-雨))]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>捷</value>
+	</charProp>
+	<mapping type="unicode">U+3A17</mapping>
+	<mapping cb:dec="998202" type="PUA">U+F3B3A</mapping>
+</char>
+<char xml:id="CB15166">
+	<charName>CBETA CHARACTER CB15166</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[蒙-卄+((並-(前-刖))-一)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>蒙</value>
+	</charProp>
+	<mapping cb:dec="998206" type="PUA">U+F3B3E</mapping>
+</char>
+<char xml:id="CB15691">
+	<charName>CBETA CHARACTER CB15691</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(廉-(前-刖))-〦+立]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>廉</value>
+	</charProp>
+	<mapping cb:dec="998731" type="PUA">U+F3D4B</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2003-11-05T18:02:03">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT (2003-08-11)</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">南嶽下臨濟宗虎丘法派世系圖</cb:mulu>
+<lb ed="X" n="0416a16"/><lb ed="R147" n="0610a06"/><milestone unit="juan" n="7"/><cb:juan fun="open" n="007"><cb:mulu type="卷" n="7"></cb:mulu><cb:jhead>禪燈世譜卷第七</cb:jhead></cb:juan>
+<lb ed="X" n="0416a17"/>
+<lb ed="X" n="0416a18"/><lb ed="R147" n="0610a08"/><cb:div type="other"><cb:mulu type="其他" level="1">南嶽第七世雲門宗法派世系圖</cb:mulu><head>南嶽第七世雲門宗法派世系圖</head>
+<lb ed="X" n="0416a19"/>
+<lb ed="X" n="0416a20"/><lb ed="R147" n="0610a09"/><list><item xml:id="itemX86p0416a2001"><note place="inline">七世</note>雲門文偃<note place="inline">卍進本七世為一世。<anchor xml:id="beg_47" type="cb-app"/>已<anchor xml:id="end_47"/>下遞次準之</note>
+<lb ed="X" n="0416a21"/><lb ed="R147" n="0610a09"/><p xml:id="pX86p0416a2101">嘉興張氏子。嗣雪峯
+<lb ed="X" n="0416a22"/><lb ed="R147" n="0610a09"/>存。五代漢隱帝元年
+<lb ed="X" n="0416a23"/><lb ed="R147" n="0610a09"/>四月十日順寂。<anchor xml:id="beg_48" type="cb-app"/>諡<anchor xml:id="end_48"/>大
+<lb ed="X" n="0416a24"/><lb ed="R147" n="0610a09"/>慈雲匡真弘明禪師。</p>
+<lb ed="X" n="0416a25"/><lb ed="R147" n="0610a09"/><list><item xml:id="itemX86p0416a2501"><note place="inline">八世</note>香林澄遠
+<lb ed="X" n="0416a26"/><lb ed="R147" n="0610a09"/><p xml:id="pX86p0416a2601">漢州綿竹人。姓上官。
+<lb ed="X" n="0416a27"/><lb ed="R147" n="0610a09"/>宋太宗雍熙三年丁
+<lb ed="X" n="0416a28"/><lb ed="R147" n="0610a09"/>亥示寂。</p>
+<lb ed="X" n="0416a29"/><lb ed="R147" n="0610a09"/><list><item xml:id="itemX86p0416a2901"><note place="inline">九世</note>智門光祚
+<lb ed="X" n="0416a30"/><lb ed="R147" n="0610a09"/><list><item xml:id="itemX86p0416a3001"><note place="inline">十世</note>雪竇重顯<note place="inline">法裔別見</note>
+<lb ed="X" n="0416a31"/><lb ed="R147" n="0610a09"/><p xml:id="pX86p0416a3101">遂州李氏子。字隱之。
+<lb ed="X" n="0416a32"/><lb ed="R147" n="0610a09"/>宋仁宗皇佑四年壬
+<lb ed="X" n="0416a33"/><lb ed="R147" n="0610a09"/>寅六月十日示寂。<anchor xml:id="beg_49" type="cb-app"/>諡<anchor xml:id="end_49"/>
+<lb ed="X" n="0416a34"/><lb ed="R147" n="0610a09"/>明覺。</p></item>
+<lb ed="X" n="0416a35"/><lb ed="R147" n="0610a09"/><item xml:id="itemX86p0416a3501">延慶子榮
+<lb ed="X" n="0416a36"/><lb ed="R147" n="0610a09"/><list><item xml:id="itemX86p0416a3601">延慶法珠</item>
+<lb ed="X" n="0416a37"/><lb ed="R147" n="0610a09"/><item xml:id="itemX86p0416a3701">圓通居訥
+<lb ed="X" n="0416a38"/><lb ed="R147" n="0610a09"/><list><item xml:id="itemX86p0416a3801">興國智昱</item>
+<lb ed="X" n="0416a39"/><lb ed="R147" n="0610a09"/><item xml:id="itemX86p0416a3901">四祖逸</item>
+<lb ed="X" n="0416a40"/><lb ed="R147" n="0610a09"/><item xml:id="itemX86p0416a4001">三祖文銑</item></list></item></list></item>
+<lb ed="X" n="0416a41"/><lb ed="R147" n="0610a09"/><item xml:id="itemX86p0416a4101">九峯勤<note place="inline">瑞州</note></item>
+<lb ed="X" n="0416a42"/><lb ed="R147" n="0610a09"/><item xml:id="itemX86p0416a4201">護國壽</item>
+<lb ed="X" n="0416a43"/><lb ed="R147" n="0610a09"/><item xml:id="itemX86p0416a4301">彰法澄泗</item>
+<lb ed="X" n="0416a44"/><lb ed="R147" n="0610a09"/><item xml:id="itemX86p0416a4401">雲臺省因</item>
+<lb ed="X" n="0416a45"/><lb ed="R147" n="0610a09"/><item xml:id="itemX86p0416a4501">百丈智映
+<lb ed="X" n="0416a46"/><lb ed="R147" n="0610a09"/><list><item xml:id="itemX86p0416a4601">慧因懷祥</item>
+<pb ed="X" xml:id="X86.1601.0417a" n="0417a"/>
+<lb ed="X" n="0417a01"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a0101">慧因義寧</item></list></item>
+<lb ed="X" n="0417a02"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a0201">黃龍海</item>
+<lb ed="X" n="0417a03"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a0301">南華寶緣
+<lb ed="X" n="0417a04"/><lb ed="R147" n="0611a01"/><list><item xml:id="itemX86p0417a0401">興化廷慶</item>
+<lb ed="X" n="0417a05"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a0501">寶壽行德</item>
+<lb ed="X" n="0417a06"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a0601">白虎守昇</item>
+<lb ed="X" n="0417a07"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a0701">佛陀崇欽</item>
+<lb ed="X" n="0417a08"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a0801">延祥法迎</item>
+<lb ed="X" n="0417a09"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a0901">舜峯惠寶</item>
+<lb ed="X" n="0417a10"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a1001">甘露自緣</item>
+<lb ed="X" n="0417a11"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a1101">永泰宗寶</item>
+<lb ed="X" n="0417a12"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a1201">雙峯法崇</item>
+<lb ed="X" n="0417a13"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a1301">寶林海月</item>
+<lb ed="X" n="0417a14"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a1401">羅漢清顯</item>
+<lb ed="X" n="0417a15"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a1501">清銼智靜</item>
+<lb ed="X" n="0417a16"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a1601">翁山文白</item>
+<lb ed="X" n="0417a17"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a1701">延壽法年</item></list></item>
+<lb ed="X" n="0417a18"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a1801">青山好</item>
+<lb ed="X" n="0417a19"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a1901">慈雲紹銑</item>
+<lb ed="X" n="0417a20"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a2001">芙蓉文喜</item>
+<lb ed="X" n="0417a21"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a2101">清溪省肇</item>
+<lb ed="X" n="0417a22"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a2201">德山僧可</item>
+<lb ed="X" n="0417a23"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a2301">翠峯覺顯</item>
+<lb ed="X" n="0417a24"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a2401">百丈月</item>
+<lb ed="X" n="0417a25"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a2501">翠巖奉鸞</item>
+<lb ed="X" n="0417a26"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a2601">歸宗省一</item>
+<lb ed="X" n="0417a27"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a2701">廣慧清順</item>
+<lb ed="X" n="0417a28"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a2801">天童寶堅</item>
+<lb ed="X" n="0417a29"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a2901">百丈智贇</item>
+<lb ed="X" n="0417a30"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a3001">廣教義嵩</item>
+<lb ed="X" n="0417a31"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a3101">蘄陽口詮</item>
+<lb ed="X" n="0417a32"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a3201">靈泉曉</item>
+<lb ed="X" n="0417a33"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a3301">雲葢繼鵬
+<lb ed="X" n="0417a34"/><lb ed="R147" n="0611a01"/><list><item xml:id="itemX86p0417a3401">報恩譚</item>
+<lb ed="X" n="0417a35"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a3501">法輪真</item>
+<lb ed="X" n="0417a36"/><lb ed="R147" n="0611a01"/><item xml:id="itemX86p0417a3601">臨<anchor xml:id="beg_4a" type="cb-app"/>邛<anchor xml:id="end_4a"/>復首座</item>
+<pb ed="X" xml:id="X86.1601.0418a" n="0418a"/>
+<lb ed="X" n="0418a01"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a0101">白霞安</item></list></item>
+<lb ed="X" n="0418a02"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a0201">長松襲</item>
+<lb ed="X" n="0418a03"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a0301">廣福<g ref="#CB04676">𠃔</g>恭</item>
+<lb ed="X" n="0418a04"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a0401">藥山宣</item>
+<lb ed="X" n="0418a05"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a0501">太平清</item>
+<lb ed="X" n="0418a06"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a0601">大龍德宣</item></list></item>
+<lb ed="X" n="0418a07"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a0701">羅漢和尚</item>
+<lb ed="X" n="0418a08"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a0801">香林信</item></list></item>
+<lb ed="X" n="0418a09"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a0901">南臺道遵</item>
+<lb ed="X" n="0418a10"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a1001">雙峯竟欽</item>
+<lb ed="X" n="0418a11"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a1101">白雲子祥
+<lb ed="X" n="0418a12"/><lb ed="R147" n="0612a01"/><list><item xml:id="itemX86p0418a1201">後白雲福和尚</item>
+<lb ed="X" n="0418a13"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a1301">樂淨含匡</item>
+<lb ed="X" n="0418a14"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a1401">月華月</item>
+<lb ed="X" n="0418a15"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a1501">大歷和尚</item>
+<lb ed="X" n="0418a16"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a1601">寶華和尚</item>
+<lb ed="X" n="0418a17"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a1701">地藏和尚</item></list></item>
+<lb ed="X" n="0418a18"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a1801">資福詮</item>
+<lb ed="X" n="0418a19"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a1901">黃雲元</item>
+<lb ed="X" n="0418a20"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a2001">龍境倫</item>
+<lb ed="X" n="0418a21"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a2101">雲門爽</item>
+<lb ed="X" n="0418a22"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a2201">白雲聞<note place="inline">韶州</note></item>
+<lb ed="X" n="0418a23"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a2301">浮法章</item>
+<lb ed="X" n="0418a24"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a2401">溫門滿</item>
+<lb ed="X" n="0418a25"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a2501">地藏慈<note place="inline">連州</note></item>
+<lb ed="X" n="0418a26"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a2601">奉先深
+<lb ed="X" n="0418a27"/><lb ed="R147" n="0612a01"/><list><item xml:id="itemX86p0418a2701">廬山祥庵主</item></list></item>
+<lb ed="X" n="0418a28"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a2801">大容諲</item>
+<lb ed="X" n="0418a29"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a2901">羅山崇<note place="inline">廣州</note></item>
+<lb ed="X" n="0418a30"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a3001">雲門常寶</item>
+<lb ed="X" n="0418a31"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a3101">德山緣密
+<lb ed="X" n="0418a32"/><lb ed="R147" n="0612a01"/><list><item xml:id="itemX86p0418a3201">文殊應真
+<lb ed="X" n="0418a33"/><lb ed="R147" n="0612a01"/><list><item xml:id="itemX86p0418a3301">洞山曉聰<note place="inline">法裔別見</note></item></list></item>
+<lb ed="X" n="0418a34"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a3401">鹿苑文襲</item>
+<lb ed="X" n="0418a35"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a3501">東禪秀</item>
+<lb ed="X" n="0418a36"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a3601">中梁山崇</item>
+<lb ed="X" n="0418a37"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a3701">南臺勤
+<lb ed="X" n="0418a38"/><lb ed="R147" n="0612a01"/><list><item xml:id="itemX86p0418a3801">石霜節誠
+<lb ed="X" n="0418a39"/><lb ed="R147" n="0612a01"/><list><item xml:id="itemX86p0418a3901">岳麓珪</item></list></item>
+<lb ed="X" n="0418a40"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a4001">高陽法廣</item></list></item>
+<lb ed="X" n="0418a41"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a4101">藥山可瓊</item>
+<lb ed="X" n="0418a42"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a4201">乾明普</item>
+<lb ed="X" n="0418a43"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a4301">德山柔</item>
+<lb ed="X" n="0418a44"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a4401">進雲禪師</item>
+<lb ed="X" n="0418a45"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a4501">德山紹晏
+<lb ed="X" n="0418a46"/><lb ed="R147" n="0612a01"/><list><item xml:id="itemX86p0418a4601">德山志先</item></list></item>
+<lb ed="X" n="0418a47"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a4701">黑水承璟
+<lb ed="X" n="0418a48"/><lb ed="R147" n="0612a01"/><list><item xml:id="itemX86p0418a4801">黑水義欽</item></list></item>
+<lb ed="X" n="0418a49"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a4901">黃龍志願</item>
+<lb ed="X" n="0418a50"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a5001">乾明自興</item>
+<lb ed="X" n="0418a51"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a5101">普安道</item>
+<lb ed="X" n="0418a52"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a5201">鼎州寬</item>
+<lb ed="X" n="0418a53"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a5301">岳州乾普</item></list></item>
+<lb ed="X" n="0418a54"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a5401">臨溪竟脫</item>
+<lb ed="X" n="0418a55"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a5501">華巖慧</item>
+<lb ed="X" n="0418a56"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a5601">英州觀音和尚</item>
+<lb ed="X" n="0418a57"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a5701">林泉和尚</item>
+<lb ed="X" n="0418a58"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a5801">雲門煦</item>
+<lb ed="X" n="0418a59"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a5901">黃檗法濟</item>
+<lb ed="X" n="0418a60"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a6001">康國耀</item>
+<lb ed="X" n="0418a61"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a6101">谷山豐</item>
+<lb ed="X" n="0418a62"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a6201">羅漢匡果</item>
+<lb ed="X" n="0418a63"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a6301">滄溪璘</item>
+<lb ed="X" n="0418a64"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a6401">洞山清稟</item>
+<lb ed="X" n="0418a65"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a6501">北禪寂</item>
+<lb ed="X" n="0418a66"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a6601">南天王永平</item>
+<lb ed="X" n="0418a67"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a6701">永安朗</item>
+<lb ed="X" n="0418a68"/><lb ed="R147" n="0612a01"/><item xml:id="itemX86p0418a6801">雙泉師寬
+<lb ed="X" n="0418a69"/><lb ed="R147" n="0612a01"/><list><item xml:id="itemX86p0418a6901">五祖師戒
+<lb ed="X" n="0418a70"/><lb ed="R147" n="0612a01"/><list><item xml:id="itemX86p0418a7001">泐潭懷澄<note place="inline">法裔別見</note></item>
+<pb ed="X" xml:id="X86.1601.0419a" n="0419a"/>
+<lb ed="X" n="0419a01"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a0101">洞山自寶
+<lb ed="X" n="0419a02"/><lb ed="R147" n="0613a01"/><list><item xml:id="itemX86p0419a0201">洞山清辨</item>
+<lb ed="X" n="0419a03"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a0301">洞山鑒遷</item>
+<lb ed="X" n="0419a04"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a0401">月華海林</item>
+<lb ed="X" n="0419a05"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a0501">月華慶雍</item>
+<lb ed="X" n="0419a06"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a0601">南臺文</item>
+<lb ed="X" n="0419a07"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a0701">華光誨</item>
+<lb ed="X" n="0419a08"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a0801">長慶慧恩</item></list></item>
+<lb ed="X" n="0419a09"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a0901">洞山妙圓</item>
+<lb ed="X" n="0419a10"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a1001">義臺子祥</item>
+<lb ed="X" n="0419a11"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a1101">天童懷清</item>
+<lb ed="X" n="0419a12"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a1201">寶嚴叔芝</item>
+<lb ed="X" n="0419a13"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a1301">五祖秀</item>
+<lb ed="X" n="0419a14"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a1401">白馬辨</item>
+<lb ed="X" n="0419a15"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a1501">北塔思廣
+<lb ed="X" n="0419a16"/><lb ed="R147" n="0613a01"/><list><item xml:id="itemX86p0419a1601">玉泉承皓
+<lb ed="X" n="0419a17"/><lb ed="R147" n="0613a01"/><list><item xml:id="itemX86p0419a1701">興教文慶</item>
+<lb ed="X" n="0419a18"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a1801">北禪希肇</item></list></item>
+<lb ed="X" n="0419a19"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a1901">永樂德忠</item>
+<lb ed="X" n="0419a20"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a2001">北塔從穩</item></list></item>
+<lb ed="X" n="0419a21"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a2101">水南智昱</item>
+<lb ed="X" n="0419a22"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a2201">十王懷楚</item>
+<lb ed="X" n="0419a23"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a2301">定慧道海</item>
+<lb ed="X" n="0419a24"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a2401">西禪文岫</item>
+<lb ed="X" n="0419a25"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a2501">雲葢智顒
+<lb ed="X" n="0419a26"/><lb ed="R147" n="0613a01"/><list><item xml:id="itemX86p0419a2601">雲居文慶</item>
+<lb ed="X" n="0419a27"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a2701">棲賢堅</item></list></item>
+<lb ed="X" n="0419a28"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a2801">舜峯蒙正</item>
+<lb ed="X" n="0419a29"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a2901">海會顯同</item>
+<lb ed="X" n="0419a30"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a3001">功臣慈應圓</item>
+<lb ed="X" n="0419a31"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a3101">瑞巖珪</item>
+<lb ed="X" n="0419a32"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a3201">海會通
+<lb ed="X" n="0419a33"/><lb ed="R147" n="0613a01"/><list><item xml:id="itemX86p0419a3301">水南文秀</item>
+<lb ed="X" n="0419a34"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a3401">承天和</item></list></item>
+<lb ed="X" n="0419a35"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a3501">三角幽</item>
+<lb ed="X" n="0419a36"/><lb ed="R147" n="0613a01"/><item xml:id="itemX86p0419a3601">大明明</item>
+<pb ed="X" xml:id="X86.1601.0420a" n="0420a"/>
+<lb ed="X" n="0420a01"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a0101">五祖昉</item>
+<lb ed="X" n="0420a02"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a0201">大愚達</item>
+<lb ed="X" n="0420a03"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a0301">中宮登</item>
+<lb ed="X" n="0420a04"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a0401">翠峯慧顒
+<lb ed="X" n="0420a05"/><lb ed="R147" n="0614a01"/><list><item xml:id="itemX86p0420a0501">廣果擇能</item>
+<lb ed="X" n="0420a06"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a0601">德山讓</item></list></item>
+<lb ed="X" n="0420a07"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a0701">景德簡</item>
+<lb ed="X" n="0420a08"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a0801">舍利該</item>
+<lb ed="X" n="0420a09"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a0901">雲居慶</item>
+<lb ed="X" n="0420a10"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a1001">永安圓</item>
+<lb ed="X" n="0420a11"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a1101">十王清</item>
+<lb ed="X" n="0420a12"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a1201">四祖端
+<lb ed="X" n="0420a13"/><lb ed="R147" n="0614a01"/><list><item xml:id="itemX86p0420a1301">廣明常委</item></list></item>
+<lb ed="X" n="0420a14"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a1401">雍熙德興</item>
+<lb ed="X" n="0420a15"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a1501">六合修<anchor xml:id="beg_4b" type="cb-app"/>己<anchor xml:id="end_4b"/></item>
+<lb ed="X" n="0420a16"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a1601">德山文燦</item>
+<lb ed="X" n="0420a17"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a1701">龍牙遷</item>
+<lb ed="X" n="0420a18"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a1801">鴈蕩文吉
+<lb ed="X" n="0420a19"/><lb ed="R147" n="0614a01"/><list><item xml:id="itemX86p0420a1901">淨光為覺</item></list></item>
+<lb ed="X" n="0420a20"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a2001">梁山了奇</item>
+<lb ed="X" n="0420a21"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a2101">報恩和尚</item>
+<lb ed="X" n="0420a22"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a2201">龍門和尚</item>
+<lb ed="X" n="0420a23"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a2301">瑞巖圓</item></list></item>
+<lb ed="X" n="0420a24"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a2401">四祖志諲</item>
+<lb ed="X" n="0420a25"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a2501">興化奉能</item>
+<lb ed="X" n="0420a26"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a2601">天睦慧滿</item>
+<lb ed="X" n="0420a27"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a2701">建福智同</item>
+<lb ed="X" n="0420a28"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a2801">龍門仁永</item>
+<lb ed="X" n="0420a29"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a2901">延慶宗本</item>
+<lb ed="X" n="0420a30"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a3001">福安慧珣</item>
+<lb ed="X" n="0420a31"/><lb ed="R147" n="0614a01"/><item xml:id="itemX86p0420a3101">乾明居信
+<lb ed="X" n="0420a32"/><lb ed="R147" n="0614a01"/><list><item xml:id="itemX86p0420a3201">藥山彝肅</item>
+<pb ed="X" xml:id="X86.1601.0421a" n="0421a"/>
+<lb ed="X" n="0421a01"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a0101">西禪垂白</item>
+<lb ed="X" n="0421a02"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a0201">保唐無約</item></list></item>
+<lb ed="X" n="0421a03"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a0301">福昌重善
+<lb ed="X" n="0421a04"/><lb ed="R147" n="0615a01"/><list><item xml:id="itemX86p0421a0401">金山瑞新
+<lb ed="X" n="0421a05"/><lb ed="R147" n="0615a01"/><list><item xml:id="itemX86p0421a0501">天聖守道</item>
+<lb ed="X" n="0421a06"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a0601">天聖楚祥</item>
+<lb ed="X" n="0421a07"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a0701">極樂用基</item>
+<lb ed="X" n="0421a08"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a0801">上方守能</item></list></item>
+<lb ed="X" n="0421a09"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a0901">德山文<g ref="#CB15162">㨗</g></item>
+<lb ed="X" n="0421a10"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a1001">福昌詢</item>
+<lb ed="X" n="0421a11"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a1101">夾山惟俊<note place="inline">卍夾山等進本為元封育王開聖上方四明夾山靈峯公安之列次</note>
+<lb ed="X" n="0421a12"/><lb ed="R147" n="0615a01"/><list><item xml:id="itemX86p0421a1201">夾山遵
+<lb ed="X" n="0421a13"/><lb ed="R147" n="0615a01"/><list><item xml:id="itemX86p0421a1301">福昌知信
+<lb ed="X" n="0421a14"/><lb ed="R147" n="0615a01"/><list><item xml:id="itemX86p0421a1401">法興期</item>
+<lb ed="X" n="0421a15"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a1501">善慶楚昇</item>
+<lb ed="X" n="0421a16"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a1601">均慶清皡</item></list></item></list></item></list></item>
+<lb ed="X" n="0421a17"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a1701">靈峯顯英</item>
+<lb ed="X" n="0421a18"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a1801">公安智珠</item>
+<lb ed="X" n="0421a19"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a1901">四明贇</item>
+<lb ed="X" n="0421a20"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a2001">元封政</item>
+<lb ed="X" n="0421a21"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a2101">育王常坦
+<lb ed="X" n="0421a22"/><lb ed="R147" n="0615a01"/><list><item xml:id="itemX86p0421a2201">育王澄逸</item>
+<lb ed="X" n="0421a23"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a2301">湖山擇賢</item></list></item>
+<lb ed="X" n="0421a24"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a2401">開聖道如</item>
+<lb ed="X" n="0421a25"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a2501">上方齊岳
+<lb ed="X" n="0421a26"/><lb ed="R147" n="0615a01"/><list><item xml:id="itemX86p0421a2601">東山順宗
+<lb ed="X" n="0421a27"/><lb ed="R147" n="0615a01"/><list><item xml:id="itemX86p0421a2701">定峯曉宣</item></list></item></list></item></list></item>
+<lb ed="X" n="0421a28"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a2801">大龍炳賢</item>
+<lb ed="X" n="0421a29"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a2901">雙泉瓊</item>
+<lb ed="X" n="0421a30"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a3001">自嚴上座</item>
+<lb ed="X" n="0421a31"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a3101">廣教懷志
+<lb ed="X" n="0421a32"/><lb ed="R147" n="0615a01"/><list><item xml:id="itemX86p0421a3201">四面懷清</item>
+<lb ed="X" n="0421a33"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a3301">興化友清</item></list></item></list></item>
+<lb ed="X" n="0421a34"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a3401">湘潭明照</item>
+<lb ed="X" n="0421a35"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a3501">青城乘</item>
+<lb ed="X" n="0421a36"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a3601">普通封</item>
+<lb ed="X" n="0421a37"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a3701">燈峯淨源</item>
+<lb ed="X" n="0421a38"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a3801">大梵圓</item>
+<lb ed="X" n="0421a39"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a3901">藥山圓光</item>
+<lb ed="X" n="0421a40"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a4001">鵞湖雲震</item>
+<lb ed="X" n="0421a41"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a4101">開先清耀</item>
+<lb ed="X" n="0421a42"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a4201">奉國清海</item>
+<lb ed="X" n="0421a43"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a4301">韶州慈光</item>
+<lb ed="X" n="0421a44"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a4401">保安師密</item>
+<lb ed="X" n="0421a45"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a4501">雲居融</item>
+<lb ed="X" n="0421a46"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a4601">大聖守賢</item>
+<lb ed="X" n="0421a47"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a4701">北天王徽</item>
+<lb ed="X" n="0421a48"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a4801">芭蕉弘義</item>
+<lb ed="X" n="0421a49"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a4901">福化充</item>
+<lb ed="X" n="0421a50"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a5001">東天王廣慈</item>
+<lb ed="X" n="0421a51"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a5101">西禪欽</item>
+<lb ed="X" n="0421a52"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a5201">慶雲真<note place="inline">廬山</note></item>
+<lb ed="X" n="0421a53"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a5301">雙峯慧真</item>
+<lb ed="X" n="0421a54"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a5401">韶州廣悟</item>
+<lb ed="X" n="0421a55"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a5501">韶州長樂政</item>
+<lb ed="X" n="0421a56"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a5601">雲門法球</item>
+<lb ed="X" n="0421a57"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a5701">韶州佛陀遠</item>
+<lb ed="X" n="0421a58"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a5801">連州慈雲深</item>
+<lb ed="X" n="0421a59"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a5901">化城鑑</item>
+<lb ed="X" n="0421a60"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a6001">廬山護國</item>
+<lb ed="X" n="0421a61"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a6101">永福朗</item>
+<lb ed="X" n="0421a62"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a6201">趙橫山和尚</item>
+<lb ed="X" n="0421a63"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a6301">南天王海</item>
+<lb ed="X" n="0421a64"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a6401">覺華普照</item>
+<lb ed="X" n="0421a65"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a6501">銕幢覺</item>
+<lb ed="X" n="0421a66"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a6601">延長山和尚</item>
+<lb ed="X" n="0421a67"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a6701">西禪光</item>
+<lb ed="X" n="0421a68"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a6801">黃龍贊<note place="inline">眉州</note></item>
+<lb ed="X" n="0421a69"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a6901">天柱和尚</item>
+<lb ed="X" n="0421a70"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a7001">朗上座</item>
+<lb ed="X" n="0421a71"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a7101">鷲峯韶</item>
+<lb ed="X" n="0421a72"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a7201">洞山守初
+<lb ed="X" n="0421a73"/><lb ed="R147" n="0615a01"/><list><item xml:id="itemX86p0421a7301">福嚴良雅
+<lb ed="X" n="0421a74"/><lb ed="R147" n="0615a01"/><list><item xml:id="itemX86p0421a7401">北禪智賢<note place="inline">法裔別見</note></item>
+<lb ed="X" n="0421a75"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a7501">衡岳振</item>
+<lb ed="X" n="0421a76"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a7601">衡山了實</item>
+<lb ed="X" n="0421a77"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a7701">殿撰李珍</item></list></item>
+<lb ed="X" n="0421a78"/><lb ed="R147" n="0615a01"/><item xml:id="itemX86p0421a7801">潞州寶周</item>
+<pb ed="X" xml:id="X86.1601.0422a" n="0422a"/>
+<lb ed="X" n="0422a01"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a0101">開福德賢
+<lb ed="X" n="0422a02"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a0201">上座日芳</item>
+<lb ed="X" n="0422a03"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a0301">大陽文昱</item>
+<lb ed="X" n="0422a04"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a0401">雙溪生</item></list></item>
+<lb ed="X" n="0422a05"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a0501">東平洪教</item>
+<lb ed="X" n="0422a06"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a0601">廣濟同
+<lb ed="X" n="0422a07"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a0701">南華智度</item>
+<lb ed="X" n="0422a08"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a0801">九華勤</item></list></item>
+<lb ed="X" n="0422a09"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a0901">安州處瓊</item>
+<lb ed="X" n="0422a10"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a1001">乾明睦
+<lb ed="X" n="0422a11"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a1101">因勝燈</item></list></item>
+<lb ed="X" n="0422a12"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a1201">報慈道嵩
+<lb ed="X" n="0422a13"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a1301">興陽遜</item></list></item></list></item>
+<lb ed="X" n="0422a14"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a1401">水精院禪師</item>
+<lb ed="X" n="0422a15"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a1501">纂子庵主</item>
+<lb ed="X" n="0422a16"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a1601">智門法覲</item>
+<lb ed="X" n="0422a17"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a1701">韶州淨源真</item>
+<lb ed="X" n="0422a18"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a1801">雙泉郁
+<lb ed="X" n="0422a19"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a1901">德山慧遠
+<lb ed="X" n="0422a20"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a2001">開先善暹<note place="inline">法裔別見</note></item>
+<lb ed="X" n="0422a21"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a2101">禾山楚材
+<lb ed="X" n="0422a22"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a2201">曹山雄</item>
+<lb ed="X" n="0422a23"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a2301">北禪昇</item>
+<lb ed="X" n="0422a24"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a2401">報恩紹端</item>
+<lb ed="X" n="0422a25"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a2501">薦福守機</item>
+<lb ed="X" n="0422a26"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a2601">新豐全湛</item></list></item>
+<lb ed="X" n="0422a27"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a2701">鹿苑珪</item>
+<lb ed="X" n="0422a28"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a2801">大中仁辨</item>
+<lb ed="X" n="0422a29"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a2901">菩提桂芳</item>
+<lb ed="X" n="0422a30"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a3001">王氏山普</item>
+<lb ed="X" n="0422a31"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a3101">資聖感勤
+<lb ed="X" n="0422a32"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a3201">本覺省文</item>
+<lb ed="X" n="0422a33"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a3301">資聖子璋</item></list></item>
+<lb ed="X" n="0422a34"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a3401">欽山悟勤
+<lb ed="X" n="0422a35"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a3501">梁山應圓</item></list></item></list></item>
+<lb ed="X" n="0422a36"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a3601">含珠山彬</item></list></item>
+<lb ed="X" n="0422a37"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a3701">韶州月華</item>
+<lb ed="X" n="0422a38"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a3801">舜峯義韶
+<lb ed="X" n="0422a39"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a3901">桃園曦朗</item>
+<lb ed="X" n="0422a40"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a4001">法陽智善</item>
+<lb ed="X" n="0422a41"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a4101">鄧林善志</item>
+<lb ed="X" n="0422a42"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a4201">大歷志聰</item></list></item>
+<lb ed="X" n="0422a43"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a4301">北禪悟同</item>
+<lb ed="X" n="0422a44"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a4401">韶州龍光</item>
+<lb ed="X" n="0422a45"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a4501">巴陵灝鑒
+<lb ed="X" n="0422a46"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a4601">靈澄散聖
+<lb ed="X" n="0422a47"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a4701">夾山真首座</item></list></item>
+<lb ed="X" n="0422a48"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a4801">興化興順</item></list></item>
+<lb ed="X" n="0422a49"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a4901">清涼智明
+<lb ed="X" n="0422a50"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a5001">西峯雲豁
+<lb ed="X" n="0422a51"/><lb ed="R147" n="0616a01"/><list><item xml:id="itemX86p0422a5101">南安自嚴</item></list></item>
+<lb ed="X" n="0422a52"/><lb ed="R147" n="0616a01"/><item xml:id="itemX86p0422a5201">廬山崇勝御</item></list></item>
+<pb ed="X" xml:id="X86.1601.0423a" n="0423a"/>
+<lb ed="X" n="0423a01"/><lb ed="R147" n="0617a01"/><item xml:id="itemX86p0423a0101">披雲智寂
+<lb ed="X" n="0423a02"/><lb ed="R147" n="0617a01"/><list><item xml:id="itemX86p0423a0201">開先照</item>
+<lb ed="X" n="0423a03"/><lb ed="R147" n="0617a01"/><item xml:id="itemX86p0423a0301">天寶和尚</item></list></item>
+<lb ed="X" n="0423a04"/><lb ed="R147" n="0617a01"/><item xml:id="itemX86p0423a0401">泐潭道謙
+<lb ed="X" n="0423a05"/><lb ed="R147" n="0617a01"/><list><item xml:id="itemX86p0423a0501">了山宗盛</item></list></item>
+<lb ed="X" n="0423a06"/><lb ed="R147" n="0617a01"/><item xml:id="itemX86p0423a0601">般若啟柔
+<lb ed="X" n="0423a07"/><lb ed="R147" n="0617a01"/><list><item xml:id="itemX86p0423a0701">藍田真</item></list></item>
+<lb ed="X" n="0423a08"/><lb ed="R147" n="0617a01"/><item xml:id="itemX86p0423a0801">妙勝臻
+<lb ed="X" n="0423a09"/><lb ed="R147" n="0617a01"/><list><item xml:id="itemX86p0423a0901">雪峯欽<note place="inline">西川</note></item></list></item>
+<lb ed="X" n="0423a10"/><lb ed="R147" n="0617a01"/><item xml:id="itemX86p0423a1001">薦福承古
+<lb ed="X" n="0423a11"/><lb ed="R147" n="0617a01"/><list><item xml:id="itemX86p0423a1101">淨戒守密</item></list></item></list></item></list>
+<lb ed="X" n="0423a12"/>
+<lb ed="X" n="0423a13"/><lb ed="R147" n="0617a07"/><list><item xml:id="itemX86p0423a1301"><note place="inline">十世</note>洞山曉聰<note place="inline">卍進本十世為四世<anchor xml:id="beg_4c" type="cb-app"/>已<anchor xml:id="end_4c"/>下遞次準之</note>
+<lb ed="X" n="0423a14"/><lb ed="R147" n="0617a07"/><p xml:id="pX86p0423a1401">嗣文殊應真。</p>
+<lb ed="X" n="0423a15"/><lb ed="R147" n="0617a07"/><list><item xml:id="itemX86p0423a1501"><note place="inline">十一世</note>雲居曉舜
+<lb ed="X" n="0423a16"/><lb ed="R147" n="0617a07"/><list><item xml:id="itemX86p0423a1601"><note place="inline">十二世</note>蔣山法泉
+<lb ed="X" n="0423a17"/><lb ed="R147" n="0617a07"/><list><item xml:id="itemX86p0423a1701"><note place="inline">十三世</note>幽谷祐</item>
+<lb ed="X" n="0423a18"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a1801">興國法雲</item>
+<lb ed="X" n="0423a19"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a1901">薦福忠實</item>
+<lb ed="X" n="0423a20"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a2001">九峯殊甫</item>
+<lb ed="X" n="0423a21"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a2101">參政趙抃</item></list></item>
+<lb ed="X" n="0423a22"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a2201">天童澹交</item>
+<lb ed="X" n="0423a23"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a2301">崇梵餘</item>
+<lb ed="X" n="0423a24"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a2401">慈雲修慧</item>
+<lb ed="X" n="0423a25"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a2501">長耳子良</item>
+<lb ed="X" n="0423a26"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a2601">開元瑩</item>
+<lb ed="X" n="0423a27"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a2701">衡山澄信</item>
+<lb ed="X" n="0423a28"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a2801">祥符曉儒</item>
+<lb ed="X" n="0423a29"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a2901">褒親暕</item>
+<lb ed="X" n="0423a30"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a3001">觀音元隱</item>
+<lb ed="X" n="0423a31"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a3101">祥符法周</item>
+<lb ed="X" n="0423a32"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a3201">善果懷演
+<lb ed="X" n="0423a33"/><lb ed="R147" n="0617a07"/><list><item xml:id="itemX86p0423a3301">玉池仲儼</item></list></item>
+<lb ed="X" n="0423a34"/><lb ed="R147" n="0617a07"/><item xml:id="itemX86p0423a3401">開平處良</item>
+<pb ed="X" xml:id="X86.1601.0424a" n="0424a"/>
+<lb ed="X" n="0424a01"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a0101">慈雲居慧</item>
+<lb ed="X" n="0424a02"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a0201">西禪懷義</item></list></item>
+<lb ed="X" n="0424a03"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a0301">百丈暹</item>
+<lb ed="X" n="0424a04"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a0401">建山堅</item>
+<lb ed="X" n="0424a05"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a0501">佛日契嵩
+<lb ed="X" n="0424a06"/><lb ed="R147" n="0618a01"/><p xml:id="pX86p0424a0601">藤州鐔津李氏子。著
+<lb ed="X" n="0424a07"/><lb ed="R147" n="0618a01"/>傳法正宗記．定祖圖
+<lb ed="X" n="0424a08"/><lb ed="R147" n="0618a01"/>輔教編。上呈賜明教
+<lb ed="X" n="0424a09"/><lb ed="R147" n="0618a01"/>號。宋仁宗熙寧四年
+<lb ed="X" n="0424a10"/><lb ed="R147" n="0618a01"/>六月四日中夜示寂。</p></item>
+<lb ed="X" n="0424a11"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a1101">大溈懷宥
+<lb ed="X" n="0424a12"/><lb ed="R147" n="0618a01"/><list><item xml:id="itemX86p0424a1201">歸宗慧通
+<lb ed="X" n="0424a13"/><lb ed="R147" n="0618a01"/><list><item xml:id="itemX86p0424a1301">資福素月</item>
+<lb ed="X" n="0424a14"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a1401">同安慶同</item>
+<lb ed="X" n="0424a15"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a1501">子陵辨</item>
+<lb ed="X" n="0424a16"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a1601">羅漢法醫</item>
+<lb ed="X" n="0424a17"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a1701">開聖道彰和尚</item></list></item>
+<lb ed="X" n="0424a18"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a1801">興教慧憲</item>
+<lb ed="X" n="0424a19"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a1901">崇福清雅</item>
+<lb ed="X" n="0424a20"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a2001">崇福貴安</item>
+<lb ed="X" n="0424a21"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a2101">大溈和尚</item></list></item>
+<lb ed="X" n="0424a22"/><lb ed="R147" n="0618a01"/><item xml:id="itemX86p0424a2201">太守許式</item></list></item></list>
+<lb ed="X" n="0424a23"/>
+<lb ed="X" n="0424a24"/><lb ed="R147" n="0618a07"/><list><item xml:id="itemX86p0424a2401">泐潭懷澄
+<lb ed="X" n="0424a25"/><lb ed="R147" n="0618a07"/><p xml:id="pX86p0424a2501">嗣五祖師戒。</p>
+<lb ed="X" n="0424a26"/><lb ed="R147" n="0618a07"/><list><item xml:id="itemX86p0424a2601">育王懷璉
+<lb ed="X" n="0424a27"/><lb ed="R147" n="0618a07"/><list><item xml:id="itemX86p0424a2701">徑山維琳
+<lb ed="X" n="0424a28"/><lb ed="R147" n="0618a07"/><list><item xml:id="itemX86p0424a2801">兜率擇梧</item></list></item>
+<lb ed="X" n="0424a29"/><lb ed="R147" n="0618a07"/><item xml:id="itemX86p0424a2901">佛日戒弼</item>
+<lb ed="X" n="0424a30"/><lb ed="R147" n="0618a07"/><item xml:id="itemX86p0424a3001">天宮慎徽</item>
+<lb ed="X" n="0424a31"/><lb ed="R147" n="0618a07"/><item xml:id="itemX86p0424a3101">金山寶覺</item>
+<lb ed="X" n="0424a32"/><lb ed="R147" n="0618a07"/><item xml:id="itemX86p0424a3201">安嚴崇海</item>
+<lb ed="X" n="0424a33"/><lb ed="R147" n="0618a07"/><item xml:id="itemX86p0424a3301">廣慧利和</item>
+<lb ed="X" n="0424a34"/><lb ed="R147" n="0618a07"/><item xml:id="itemX86p0424a3401">明仙道信</item>
+<lb ed="X" n="0424a35"/><lb ed="R147" n="0618a07"/><item xml:id="itemX86p0424a3501">鳳凰文喜</item>
+<lb ed="X" n="0424a36"/><lb ed="R147" n="0618a07"/><item xml:id="itemX86p0424a3601">佛日道榮</item>
+<lb ed="X" n="0424a37"/><lb ed="R147" n="0618a07"/><item xml:id="itemX86p0424a3701">萬壽洪德</item>
+<lb ed="X" n="0424a38"/><lb ed="R147" n="0618a07"/><item xml:id="itemX86p0424a3801">精嚴同定</item>
+<lb ed="X" n="0424a39"/><lb ed="R147" n="0618a07"/><item xml:id="itemX86p0424a3901">寶雲有馨</item>
+<lb ed="X" n="0424a40"/><lb ed="R147" n="0618a07"/><item xml:id="itemX86p0424a4001">東禪智華</item>
+<pb ed="X" xml:id="X86.1601.0425a" n="0425a"/>
+<lb ed="X" n="0425a01"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a0101">東禪智賢</item>
+<lb ed="X" n="0425a02"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a0201">極樂興嗣</item>
+<lb ed="X" n="0425a03"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a0301">普先處忠</item>
+<lb ed="X" n="0425a04"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a0401">石門希仲</item>
+<lb ed="X" n="0425a05"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a0501">解空清瑞</item>
+<lb ed="X" n="0425a06"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a0601">五磊智環</item>
+<lb ed="X" n="0425a07"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a0701">勝因資</item>
+<lb ed="X" n="0425a08"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a0801">彌陀正彥庵主</item>
+<lb ed="X" n="0425a09"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a0901">顯聖宗利</item>
+<lb ed="X" n="0425a10"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a1001">孫覺莘老居士</item></list></item>
+<lb ed="X" n="0425a11"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a1101">崇善用良</item>
+<lb ed="X" n="0425a12"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a1201">慧力有文</item>
+<lb ed="X" n="0425a13"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a1301">雲居守億</item>
+<lb ed="X" n="0425a14"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a1401">洞山永孚</item>
+<lb ed="X" n="0425a15"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a1501">首座令瑫</item>
+<lb ed="X" n="0425a16"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a1601">壽聖普誗</item>
+<lb ed="X" n="0425a17"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a1701">金鵞靜旻</item>
+<lb ed="X" n="0425a18"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a1801">廣慧遇新</item>
+<lb ed="X" n="0425a19"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a1901">會初慶誠</item>
+<lb ed="X" n="0425a20"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a2001">清陽忠</item>
+<lb ed="X" n="0425a21"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a2101">南泉靖</item>
+<lb ed="X" n="0425a22"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a2201">智者岳</item>
+<lb ed="X" n="0425a23"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a2301">靈泉子象</item>
+<lb ed="X" n="0425a24"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a2401">壽聖志明</item>
+<lb ed="X" n="0425a25"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a2501">永安智</item>
+<lb ed="X" n="0425a26"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a2601">南蕩利勤</item>
+<lb ed="X" n="0425a27"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a2701">衡嶽永恩</item>
+<lb ed="X" n="0425a28"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a2801">蘇州洪澤</item>
+<lb ed="X" n="0425a29"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a2901">洪州元亨</item>
+<lb ed="X" n="0425a30"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a3001">明州啟霞</item>
+<lb ed="X" n="0425a31"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a3101">天聖道</item>
+<lb ed="X" n="0425a32"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a3201">大溈智明</item>
+<lb ed="X" n="0425a33"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a3301">靈隱雲智
+<lb ed="X" n="0425a34"/><lb ed="R147" n="0619a01"/><list><item xml:id="itemX86p0425a3401">靈隱正童</item>
+<lb ed="X" n="0425a35"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a3501">雪峯守超</item></list></item>
+<lb ed="X" n="0425a36"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a3601">臨安慧和</item>
+<lb ed="X" n="0425a37"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a3701">承天惟簡
+<lb ed="X" n="0425a38"/><lb ed="R147" n="0619a01"/><list><item xml:id="itemX86p0425a3801">智者利元</item>
+<lb ed="X" n="0425a39"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a3901">瑞安僧印</item></list></item>
+<lb ed="X" n="0425a40"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a4001">永安道昇</item>
+<lb ed="X" n="0425a41"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a4101">九峯鑒韶
+<lb ed="X" n="0425a42"/><lb ed="R147" n="0619a01"/><list><item xml:id="itemX86p0425a4201">大梅法英</item></list></item>
+<lb ed="X" n="0425a43"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a4301">藥山紹新</item>
+<lb ed="X" n="0425a44"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a4401">雪峯象敦
+<lb ed="X" n="0425a45"/><lb ed="R147" n="0619a01"/><list><item xml:id="itemX86p0425a4501">雪峯善譽
+<lb ed="X" n="0425a46"/><lb ed="R147" n="0619a01"/><list><item xml:id="itemX86p0425a4601">鷲峯重道</item>
+<lb ed="X" n="0425a47"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a4701">圓明重彥</item>
+<lb ed="X" n="0425a48"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a4801">寶林奉琛</item></list></item></list></item>
+<lb ed="X" n="0425a49"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a4901">雙嶺處賢</item>
+<lb ed="X" n="0425a50"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a5001">西塔顯殊
+<lb ed="X" n="0425a51"/><lb ed="R147" n="0619a01"/><list><item xml:id="itemX86p0425a5101">寶林用明</item></list></item>
+<lb ed="X" n="0425a52"/><lb ed="R147" n="0619a01"/><item xml:id="itemX86p0425a5201">歸宗守輪</item></list></item></list>
+<lb ed="X" n="0425a53"/>
+<pb ed="X" xml:id="X86.1601.0426a" n="0426a"/>
+<lb ed="X" n="0426a01"/><lb ed="R147" n="0620a01"/><list><item xml:id="itemX86p0426a0101">北禪智賢
+<lb ed="X" n="0426a02"/><lb ed="R147" n="0620a01"/><p xml:id="pX86p0426a0201">嗣福嚴良雅。</p>
+<lb ed="X" n="0426a03"/><lb ed="R147" n="0620a01"/><list><item xml:id="itemX86p0426a0301">法昌倚遇
+<lb ed="X" n="0426a04"/><lb ed="R147" n="0620a01"/><list><item xml:id="itemX86p0426a0401">太和珍庵主</item>
+<lb ed="X" n="0426a05"/><lb ed="R147" n="0620a01"/><item xml:id="itemX86p0426a0501">五峯密</item>
+<lb ed="X" n="0426a06"/><lb ed="R147" n="0620a01"/><item xml:id="itemX86p0426a0601">慧日和尚</item></list></item>
+<lb ed="X" n="0426a07"/><lb ed="R147" n="0620a01"/><item xml:id="itemX86p0426a0701">興化暉</item>
+<lb ed="X" n="0426a08"/><lb ed="R147" n="0620a01"/><item xml:id="itemX86p0426a0801">興化紹銑
+<lb ed="X" n="0426a09"/><lb ed="R147" n="0620a01"/><list><item xml:id="itemX86p0426a0901">南臺以謂</item>
+<lb ed="X" n="0426a10"/><lb ed="R147" n="0620a01"/><item xml:id="itemX86p0426a1001">花藥常選</item>
+<lb ed="X" n="0426a11"/><lb ed="R147" n="0620a01"/><item xml:id="itemX86p0426a1101">崇壽玢</item></list></item>
+<lb ed="X" n="0426a12"/><lb ed="R147" n="0620a01"/><item xml:id="itemX86p0426a1201">北禪順</item>
+<lb ed="X" n="0426a13"/><lb ed="R147" n="0620a01"/><item xml:id="itemX86p0426a1301">白兆垂素</item>
+<lb ed="X" n="0426a14"/><lb ed="R147" n="0620a01"/><item xml:id="itemX86p0426a1401">廣因擇要
+<lb ed="X" n="0426a15"/><lb ed="R147" n="0620a01"/><list><item xml:id="itemX86p0426a1501">妙峯如燦</item>
+<lb ed="X" n="0426a16"/><lb ed="R147" n="0620a01"/><item xml:id="itemX86p0426a1601">鹽山合知</item></list></item>
+<lb ed="X" n="0426a17"/><lb ed="R147" n="0620a01"/><item xml:id="itemX86p0426a1701">南嶽子祥</item></list></item></list>
+<lb ed="X" n="0426a18"/>
+<lb ed="X" n="0426a19"/><lb ed="R147" n="0620a08"/><list><item xml:id="itemX86p0426a1901">開先善暹
+<lb ed="X" n="0426a20"/><lb ed="R147" n="0620a08"/><p xml:id="pX86p0426a2001">嗣德山慧遠。</p>
+<lb ed="X" n="0426a21"/><lb ed="R147" n="0620a08"/><list><item xml:id="itemX86p0426a2101">雲居了元
+<lb ed="X" n="0426a22"/><lb ed="R147" n="0620a08"/><list><item xml:id="itemX86p0426a2201">百丈淨悟</item>
+<lb ed="X" n="0426a23"/><lb ed="R147" n="0620a08"/><item xml:id="itemX86p0426a2301">善權慧泰</item>
+<lb ed="X" n="0426a24"/><lb ed="R147" n="0620a08"/><item xml:id="itemX86p0426a2401">崇福德基</item>
+<lb ed="X" n="0426a25"/><lb ed="R147" n="0620a08"/><item xml:id="itemX86p0426a2501">資福宗誘</item>
+<lb ed="X" n="0426a26"/><lb ed="R147" n="0620a08"/><item xml:id="itemX86p0426a2601">寶林懷吉</item>
+<lb ed="X" n="0426a27"/><lb ed="R147" n="0620a08"/><item xml:id="itemX86p0426a2701">翠巖惠空</item>
+<lb ed="X" n="0426a28"/><lb ed="R147" n="0620a08"/><item xml:id="itemX86p0426a2801">密巖德溥</item>
+<lb ed="X" n="0426a29"/><lb ed="R147" n="0620a08"/><item xml:id="itemX86p0426a2901">雲居仲和</item>
+<lb ed="X" n="0426a30"/><lb ed="R147" n="0620a08"/><item xml:id="itemX86p0426a3001">同安幼宗</item>
+<lb ed="X" n="0426a31"/><lb ed="R147" n="0620a08"/><item xml:id="itemX86p0426a3101">龍興居嶽</item>
+<lb ed="X" n="0426a32"/><lb ed="R147" n="0620a08"/><item xml:id="itemX86p0426a3201">萬杉子章</item>
+<lb ed="X" n="0426a33"/><lb ed="R147" n="0620a08"/><item xml:id="itemX86p0426a3301">鵞湖德廷</item>
+<pb ed="X" xml:id="X86.1601.0427a" n="0427a"/>
+<lb ed="X" n="0427a01"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a0101">文殊道用</item>
+<lb ed="X" n="0427a02"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a0201">龜峯祖<g ref="#CB15691">󳵋</g></item>
+<lb ed="X" n="0427a03"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a0301">安國以愉</item>
+<lb ed="X" n="0427a04"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a0401">東禪圓同</item>
+<lb ed="X" n="0427a05"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a0501">北塔惠珂</item>
+<lb ed="X" n="0427a06"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a0601">香嚴開</item>
+<lb ed="X" n="0427a07"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a0701">大別宗</item>
+<lb ed="X" n="0427a08"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a0801">雲居思文</item></list></item>
+<lb ed="X" n="0427a09"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a0901">上方善全</item>
+<lb ed="X" n="0427a10"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a1001">鵞湖恭</item>
+<lb ed="X" n="0427a11"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a1101">九仙元舜</item>
+<lb ed="X" n="0427a12"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a1201">廣慧文深</item>
+<lb ed="X" n="0427a13"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a1301">開先海淵</item>
+<lb ed="X" n="0427a14"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a1401">安國思皎</item>
+<lb ed="X" n="0427a15"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a1501">智海本逸
+<lb ed="X" n="0427a16"/><lb ed="R147" n="0621a01"/><list><item xml:id="itemX86p0427a1601">大中德隆</item>
+<lb ed="X" n="0427a17"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a1701">黃檗志因</item>
+<lb ed="X" n="0427a18"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a1801">白鹿仲豫</item>
+<lb ed="X" n="0427a19"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a1901">薦福重言</item>
+<lb ed="X" n="0427a20"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a2001">白雲放</item>
+<lb ed="X" n="0427a21"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a2101">興福智正</item>
+<lb ed="X" n="0427a22"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a2201">薦福嚴</item>
+<lb ed="X" n="0427a23"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a2301">鳳山世如</item>
+<lb ed="X" n="0427a24"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a2401">雙峯弼</item>
+<lb ed="X" n="0427a25"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a2501">幽巖覺</item>
+<lb ed="X" n="0427a26"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a2601">簽判劉經臣</item></list></item>
+<lb ed="X" n="0427a27"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a2701">法濟善</item>
+<lb ed="X" n="0427a28"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a2801">長慶紹新</item>
+<lb ed="X" n="0427a29"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a2901">洞山慧圓</item>
+<lb ed="X" n="0427a30"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a3001">天章元楚</item>
+<lb ed="X" n="0427a31"/><lb ed="R147" n="0621a01"/><item xml:id="itemX86p0427a3101">萬杉善爽
+<lb ed="X" n="0427a32"/><lb ed="R147" n="0621a01"/><list><item xml:id="itemX86p0427a3201">法華德嵩</item></list></item></list></item></list></cb:div>
+<lb ed="X" n="0427a33"/>
+<pb ed="X" xml:id="X86.1601.0428a" n="0428a"/>
+<lb ed="X" n="0428a01"/><lb ed="R147" n="0622a01"/><cb:div type="other"><cb:mulu type="其他" level="1">雪竇顯法派世系圖上</cb:mulu><head>雪竇顯法派世系圖上</head>
+<lb ed="X" n="0428a02"/>
+<lb ed="X" n="0428a03"/><lb ed="R147" n="0622a02"/><list><item xml:id="itemX86p0428a0301">雪竇重顯<note place="inline">卍進本雪竇為四世。<anchor xml:id="beg_4d" type="cb-app"/>已<anchor xml:id="end_4d"/>下遞次準之</note>
+<lb ed="X" n="0428a04"/><lb ed="R147" n="0622a02"/><p xml:id="pX86p0428a0401">嗣智門光祚。</p>
+<lb ed="X" n="0428a05"/><lb ed="R147" n="0622a02"/><list><item xml:id="itemX86p0428a0501">天衣義懷
+<lb ed="X" n="0428a06"/><lb ed="R147" n="0622a02"/><p xml:id="pX86p0428a0601">溫州樂清陳氏子。宋
+<lb ed="X" n="0428a07"/><lb ed="R147" n="0622a02"/>仁宗嘉祐五年庚子
+<lb ed="X" n="0428a08"/><lb ed="R147" n="0622a02"/>示寂。</p>
+<lb ed="X" n="0428a09"/><lb ed="R147" n="0622a02"/><list><item xml:id="itemX86p0428a0901">慧林宗本
+<lb ed="X" n="0428a10"/><lb ed="R147" n="0622a02"/><p xml:id="pX86p0428a1001">常州無錫管氏子。宋
+<lb ed="X" n="0428a11"/><lb ed="R147" n="0622a02"/>哲元符元年戊寅示
+<lb ed="X" n="0428a12"/><lb ed="R147" n="0622a02"/>寂。號圓照。</p>
+<lb ed="X" n="0428a13"/><lb ed="R147" n="0622a02"/><list><item xml:id="itemX86p0428a1301">法雲善本
+<lb ed="X" n="0428a14"/><lb ed="R147" n="0622a02"/><p xml:id="pX86p0428a1401">頴州人。姓董氏。宋大
+<lb ed="X" n="0428a15"/><lb ed="R147" n="0622a02"/>觀三年十二月丙寅
+<lb ed="X" n="0428a16"/><lb ed="R147" n="0622a02"/>示寂。賜號大通。</p>
+<lb ed="X" n="0428a17"/><lb ed="R147" n="0622a02"/><list><item xml:id="itemX86p0428a1701">長蘆道和</item>
+<lb ed="X" n="0428a18"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a1801">雪峯思慧</item>
+<lb ed="X" n="0428a19"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a1901">淨慈楚明</item>
+<lb ed="X" n="0428a20"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a2001">寶林果昌</item>
+<lb ed="X" n="0428a21"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a2101">資福法明</item>
+<lb ed="X" n="0428a22"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a2201">雲峯志<g ref="#CB04636">󱈜</g></item>
+<lb ed="X" n="0428a23"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a2301">慧林常悟</item>
+<lb ed="X" n="0428a24"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a2401">道塲有規</item>
+<lb ed="X" n="0428a25"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a2501">延慶可復</item>
+<lb ed="X" n="0428a26"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a2601">道場慧顏</item>
+<lb ed="X" n="0428a27"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a2701">雙峯宗達</item>
+<lb ed="X" n="0428a28"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a2801">五峯子琪</item>
+<lb ed="X" n="0428a29"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a2901">雲門道信</item>
+<lb ed="X" n="0428a30"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a3001">天竺從諫</item>
+<lb ed="X" n="0428a31"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a3101">承天滋須</item>
+<lb ed="X" n="0428a32"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a3201">吳江法晏</item>
+<lb ed="X" n="0428a33"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a3301">天衣慧通</item>
+<lb ed="X" n="0428a34"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a3401">天聖齊月</item>
+<lb ed="X" n="0428a35"/><lb ed="R147" n="0622a02"/><item xml:id="itemX86p0428a3501">圓明希古</item>
+<pb ed="X" xml:id="X86.1601.0429a" n="0429a"/>
+<lb ed="X" n="0429a01"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a0101">狼山文慧</item>
+<lb ed="X" n="0429a02"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a0201">智海和</item>
+<lb ed="X" n="0429a03"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a0301">水西達</item>
+<lb ed="X" n="0429a04"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a0401">南陵有朋</item>
+<lb ed="X" n="0429a05"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a0501">天章澄濟</item>
+<lb ed="X" n="0429a06"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a0601">龜洋法海</item>
+<lb ed="X" n="0429a07"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a0701">報慈有聰</item>
+<lb ed="X" n="0429a08"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a0801">瑞峯慧清</item>
+<lb ed="X" n="0429a09"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a0901">靈巖智常</item>
+<lb ed="X" n="0429a10"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a1001">華藏利聰</item>
+<lb ed="X" n="0429a11"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a1101">廣靈德衍</item>
+<lb ed="X" n="0429a12"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a1201">天衣弁</item>
+<lb ed="X" n="0429a13"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a1301">大別寶相</item>
+<lb ed="X" n="0429a14"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a1401">感慈廣悟</item>
+<lb ed="X" n="0429a15"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a1501">涵碧道安</item>
+<lb ed="X" n="0429a16"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a1601">雲門用昇</item>
+<lb ed="X" n="0429a17"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a1701">明招子卿</item>
+<lb ed="X" n="0429a18"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a1801">資慶印</item>
+<lb ed="X" n="0429a19"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a1901">寶嚴子鑑</item>
+<lb ed="X" n="0429a20"/><lb ed="R147" n="0623a01"/><item xml:id="itemX86p0429a2001">大梅智華</item>
+<pb ed="X" xml:id="X86.1601.0430a" n="0430a"/>
+<lb ed="X" n="0430a01"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a0101">崇勝希肇</item>
+<lb ed="X" n="0430a02"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a0201">淨慈瑞</item>
+<lb ed="X" n="0430a03"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a0301">淨慧擇隣</item>
+<lb ed="X" n="0430a04"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a0401">超化靈曉</item>
+<lb ed="X" n="0430a05"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a0501">壽寧戒通</item>
+<lb ed="X" n="0430a06"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a0601">西方可宏</item>
+<lb ed="X" n="0430a07"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a0701">壽聖曉初</item>
+<lb ed="X" n="0430a08"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a0801">佛智慧通</item>
+<lb ed="X" n="0430a09"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a0901">天寧用忠</item>
+<lb ed="X" n="0430a10"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a1001">烏龍守節</item>
+<lb ed="X" n="0430a11"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a1101">報恩懷正</item>
+<lb ed="X" n="0430a12"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a1201">承天普安</item>
+<lb ed="X" n="0430a13"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a1301">治平子微</item>
+<lb ed="X" n="0430a14"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a1401">資聖杲宣</item>
+<lb ed="X" n="0430a15"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a1501">南山文則</item>
+<lb ed="X" n="0430a16"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a1601">長慶思政</item>
+<lb ed="X" n="0430a17"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a1701">萬壽海仙</item>
+<lb ed="X" n="0430a18"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a1801">西院用隣</item>
+<lb ed="X" n="0430a19"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a1901">明覺慧泉</item>
+<lb ed="X" n="0430a20"/><lb ed="R147" n="0624a01"/><item xml:id="itemX86p0430a2001">澧泉慧初</item>
+<pb ed="X" xml:id="X86.1601.0431a" n="0431a"/>
+<lb ed="X" n="0431a01"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a0101">太平普志</item>
+<lb ed="X" n="0431a02"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a0201">黃山悟先</item>
+<lb ed="X" n="0431a03"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a0301">香山淨淵</item>
+<lb ed="X" n="0431a04"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a0401">蘊機和尚</item>
+<lb ed="X" n="0431a05"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a0501">曇慧和尚</item>
+<lb ed="X" n="0431a06"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a0601">鹽官謙</item>
+<lb ed="X" n="0431a07"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a0701">壽聖鑑</item>
+<lb ed="X" n="0431a08"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a0801">焦山崇</item>
+<lb ed="X" n="0431a09"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a0901">崇德淳</item>
+<lb ed="X" n="0431a10"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a1001">羅漢交</item></list></item>
+<lb ed="X" n="0431a11"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a1101">地藏守恩</item>
+<lb ed="X" n="0431a12"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a1201">靈曜<g ref="#CB05883">𧦬</g>良</item>
+<lb ed="X" n="0431a13"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a1301">香山延泳</item>
+<lb ed="X" n="0431a14"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a1401">道場慧印</item>
+<lb ed="X" n="0431a15"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a1501">妙慧文義</item>
+<lb ed="X" n="0431a16"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a1601">靈泉宗</item>
+<lb ed="X" n="0431a17"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a1701">普照處輝</item>
+<lb ed="X" n="0431a18"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a1801">南禪寧</item>
+<lb ed="X" n="0431a19"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a1901">石佛曉通</item>
+<lb ed="X" n="0431a20"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a2001">瑞光守琮</item>
+<lb ed="X" n="0431a21"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a2101">水西山軻</item>
+<lb ed="X" n="0431a22"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a2201">啟霞慧章</item>
+<lb ed="X" n="0431a23"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a2301">南冥善通</item>
+<lb ed="X" n="0431a24"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a2401">韶山杲</item>
+<lb ed="X" n="0431a25"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a2501">天童可齊</item>
+<lb ed="X" n="0431a26"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a2601">萬壽普懃</item>
+<lb ed="X" n="0431a27"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a2701">雪竇守卓</item>
+<lb ed="X" n="0431a28"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a2801">報本常利</item>
+<lb ed="X" n="0431a29"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a2901">資福道芳</item>
+<lb ed="X" n="0431a30"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a3001">九<g ref="#CB06435">𡽀</g>著</item>
+<lb ed="X" n="0431a31"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a3101">香山法晝</item>
+<lb ed="X" n="0431a32"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a3201">琅山載儀</item>
+<lb ed="X" n="0431a33"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a3301">定慧遵式</item>
+<lb ed="X" n="0431a34"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a3401">廣法法光</item>
+<lb ed="X" n="0431a35"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a3501">瑞巖永覺</item>
+<lb ed="X" n="0431a36"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a3601">法海世長</item>
+<lb ed="X" n="0431a37"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a3701">太平慧燈</item>
+<lb ed="X" n="0431a38"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a3801">米山崇仙</item>
+<lb ed="X" n="0431a39"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a3901">寶花願</item>
+<lb ed="X" n="0431a40"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a4001">嶽林元亨</item>
+<lb ed="X" n="0431a41"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a4101">澄慧善珂</item>
+<lb ed="X" n="0431a42"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a4201">寶華悟本</item>
+<lb ed="X" n="0431a43"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a4301">淨土慧旻</item>
+<lb ed="X" n="0431a44"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a4401">澄慧師冕</item>
+<lb ed="X" n="0431a45"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a4501">石霜能</item>
+<lb ed="X" n="0431a46"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a4601">逍遙聰</item>
+<lb ed="X" n="0431a47"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a4701">投子普聰</item>
+<lb ed="X" n="0431a48"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a4801">褒親祥</item>
+<lb ed="X" n="0431a49"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a4901">馬祖崇新庵主</item>
+<lb ed="X" n="0431a50"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a5001">靈應本嵩</item>
+<lb ed="X" n="0431a51"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a5101">壽寧梵仁</item>
+<lb ed="X" n="0431a52"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a5201">福嚴仲孚</item>
+<lb ed="X" n="0431a53"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a5301">保聖永良</item>
+<lb ed="X" n="0431a54"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a5401">石塔慧</item>
+<lb ed="X" n="0431a55"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a5501">萬壽有琛</item>
+<lb ed="X" n="0431a56"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a5601">光化楚萇</item>
+<lb ed="X" n="0431a57"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a5701">同慶自鑑</item>
+<lb ed="X" n="0431a58"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a5801">靈巖慈雲</item>
+<lb ed="X" n="0431a59"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a5901">普照真寂</item>
+<lb ed="X" n="0431a60"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a6001">功臣宗齡</item>
+<lb ed="X" n="0431a61"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a6101">道場良演</item>
+<lb ed="X" n="0431a62"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a6201">無錫法平</item>
+<lb ed="X" n="0431a63"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a6301">壽寧成務</item>
+<lb ed="X" n="0431a64"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a6401">因勝法海</item>
+<lb ed="X" n="0431a65"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a6501">蠡口法榮</item>
+<lb ed="X" n="0431a66"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a6601">羅漢用誠</item>
+<lb ed="X" n="0431a67"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a6701">廣慧道亨</item>
+<lb ed="X" n="0431a68"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a6801">宜興顯常</item>
+<lb ed="X" n="0431a69"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a6901">資福機清</item>
+<lb ed="X" n="0431a70"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a7001">廣教了證</item>
+<lb ed="X" n="0431a71"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a7101">仁王安德</item>
+<lb ed="X" n="0431a72"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a7201">寶林義蒙</item>
+<lb ed="X" n="0431a73"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a7301">象山靈曠</item>
+<lb ed="X" n="0431a74"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a7401">福嚴智悅</item>
+<lb ed="X" n="0431a75"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a7501">大中子榮</item>
+<lb ed="X" n="0431a76"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a7601">感慈慧端</item>
+<lb ed="X" n="0431a77"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a7701">長蘆崇信
+<lb ed="X" n="0431a78"/><lb ed="R147" n="0625a01"/><list><item xml:id="itemX86p0431a7801">慧林懷深</item>
+<lb ed="X" n="0431a79"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a7901">萬壽如璝</item>
+<lb ed="X" n="0431a80"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a8001">天衣如哲</item>
+<lb ed="X" n="0431a81"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a8101">智者法詮</item>
+<lb ed="X" n="0431a82"/><lb ed="R147" n="0625a01"/><item xml:id="itemX86p0431a8201">徑山智訥</item>
+<pb ed="X" xml:id="X86.1601.0432a" n="0432a"/>
+<lb ed="X" n="0432a01"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a0101">石塔銓</item>
+<lb ed="X" n="0432a02"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a0201">萬壽明</item>
+<lb ed="X" n="0432a03"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a0301">資聖懷悟</item>
+<lb ed="X" n="0432a04"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a0401">天衣智暹</item>
+<lb ed="X" n="0432a05"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a0501">資福梵欽</item>
+<lb ed="X" n="0432a06"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a0601">光孝淨真</item>
+<lb ed="X" n="0432a07"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a0701">靈巖顯顒</item>
+<lb ed="X" n="0432a08"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a0801">慶喜智照</item>
+<lb ed="X" n="0432a09"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a0901">西禪道暹</item>
+<lb ed="X" n="0432a10"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a1001">龍門法秀庵主</item></list></item>
+<lb ed="X" n="0432a11"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a1101">華藏希聲</item>
+<lb ed="X" n="0432a12"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a1201">乾明可久</item>
+<lb ed="X" n="0432a13"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a1301">香城言惠</item>
+<lb ed="X" n="0432a14"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a1401">光化仁遜</item>
+<lb ed="X" n="0432a15"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a1501">白龍希祖</item>
+<lb ed="X" n="0432a16"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a1601">崇壽智海</item>
+<lb ed="X" n="0432a17"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a1701">五峯祖印</item>
+<lb ed="X" n="0432a18"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a1801">上方可聳</item>
+<lb ed="X" n="0432a19"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a1901">雲巖道聲</item>
+<lb ed="X" n="0432a20"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a2001">昭慶守嚴</item>
+<lb ed="X" n="0432a21"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a2101">四面惟羲</item>
+<lb ed="X" n="0432a22"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a2201">華嚴惟素</item>
+<lb ed="X" n="0432a23"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a2301">法王法海</item>
+<lb ed="X" n="0432a24"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a2401">萬壽義誥</item>
+<lb ed="X" n="0432a25"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a2501">秀峯真懿</item>
+<lb ed="X" n="0432a26"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a2601">白泉智通</item>
+<lb ed="X" n="0432a27"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a2701">報恩重真</item>
+<lb ed="X" n="0432a28"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a2801">昭慶宗滿</item>
+<lb ed="X" n="0432a29"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a2901">普淨法英</item>
+<lb ed="X" n="0432a30"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a3001">焦山義深</item>
+<lb ed="X" n="0432a31"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a3101">支提洪占</item>
+<lb ed="X" n="0432a32"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a3201">護國祖印</item>
+<lb ed="X" n="0432a33"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a3301">靈峯永松</item>
+<lb ed="X" n="0432a34"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a3401">南磵智淨</item>
+<lb ed="X" n="0432a35"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a3501">湖心義臯</item>
+<lb ed="X" n="0432a36"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a3601">澄照守仁</item>
+<lb ed="X" n="0432a37"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a3701">無錫智圓</item>
+<lb ed="X" n="0432a38"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a3801">練塘清悟</item>
+<lb ed="X" n="0432a39"/><lb ed="R147" n="0626a01"/><item xml:id="itemX86p0432a3901">延慶德清</item>
+<pb ed="X" xml:id="X86.1601.0433a" n="0433a"/>
+<lb ed="X" n="0433a01"/><lb ed="R147" n="0627a01"/><item xml:id="itemX86p0433a0101">金山善寧
+<lb ed="X" n="0433a02"/><lb ed="R147" n="0627a01"/><list><item xml:id="itemX86p0433a0201">普濟子淳</item>
+<lb ed="X" n="0433a03"/><lb ed="R147" n="0627a01"/><item xml:id="itemX86p0433a0301">禾山用安</item>
+<lb ed="X" n="0433a04"/><lb ed="R147" n="0627a01"/><item xml:id="itemX86p0433a0401">禪悅知相</item>
+<lb ed="X" n="0433a05"/><lb ed="R147" n="0627a01"/><item xml:id="itemX86p0433a0501">鹿苑道齊</item>
+<lb ed="X" n="0433a06"/><lb ed="R147" n="0627a01"/><item xml:id="itemX86p0433a0601">仙居有隣</item>
+<lb ed="X" n="0433a07"/><lb ed="R147" n="0627a01"/><item xml:id="itemX86p0433a0701">超化守曇</item>
+<lb ed="X" n="0433a08"/><lb ed="R147" n="0627a01"/><item xml:id="itemX86p0433a0801">金山佛日</item>
+<lb ed="X" n="0433a09"/><lb ed="R147" n="0627a01"/><item xml:id="itemX86p0433a0901">仙巖慧初</item>
+<lb ed="X" n="0433a10"/><lb ed="R147" n="0627a01"/><item xml:id="itemX86p0433a1001">西余道孜</item>
+<lb ed="X" n="0433a11"/><lb ed="R147" n="0627a01"/><item xml:id="itemX86p0433a1101">廣教道本</item>
+<pb ed="X" xml:id="X86.1601.0434a" n="0434a"/>
+<lb ed="X" n="0434a01"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a0101">太平簡才</item>
+<lb ed="X" n="0434a02"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a0201">勝法道綱</item>
+<lb ed="X" n="0434a03"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a0301">洪福道才</item></list></item>
+<lb ed="X" n="0434a04"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a0401">永明道囦</item>
+<lb ed="X" n="0434a05"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a0501">廣教法海</item>
+<lb ed="X" n="0434a06"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a0601">崇福惟賢</item>
+<lb ed="X" n="0434a07"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a0701">寶華寶月</item>
+<lb ed="X" n="0434a08"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a0801">地藏清德</item>
+<lb ed="X" n="0434a09"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a0901">省余首座</item>
+<lb ed="X" n="0434a10"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a1001">大別法滿</item>
+<lb ed="X" n="0434a11"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a1101">淨慈崇善</item>
+<lb ed="X" n="0434a12"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a1201">聖壽省聰</item>
+<lb ed="X" n="0434a13"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a1301">鷲峯曇清</item>
+<lb ed="X" n="0434a14"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a1401">梵天彥奇</item>
+<lb ed="X" n="0434a15"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a1501">六安文湛</item>
+<lb ed="X" n="0434a16"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a1601">薦福熙</item>
+<lb ed="X" n="0434a17"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a1701">廣覺法忠</item>
+<lb ed="X" n="0434a18"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a1801">法海明</item>
+<lb ed="X" n="0434a19"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a1901">因勝觀</item>
+<lb ed="X" n="0434a20"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a2001">龍興如應</item>
+<lb ed="X" n="0434a21"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a2101">廣際深</item>
+<lb ed="X" n="0434a22"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a2201">文殊芳</item>
+<lb ed="X" n="0434a23"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a2301">安樂道思</item>
+<lb ed="X" n="0434a24"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a2401">光化真覺</item>
+<lb ed="X" n="0434a25"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a2501">施水守淳</item>
+<lb ed="X" n="0434a26"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a2601">西院宗戒</item>
+<lb ed="X" n="0434a27"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a2701">南祥忠簡</item>
+<lb ed="X" n="0434a28"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a2801">神江則軻</item>
+<lb ed="X" n="0434a29"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a2901">本覺守一
+<lb ed="X" n="0434a30"/><lb ed="R147" n="0628a01"/><list><item xml:id="itemX86p0434a3001">越峯粹珪</item>
+<lb ed="X" n="0434a31"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a3101">天台如庵主</item>
+<lb ed="X" n="0434a32"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a3201">壽山本明</item>
+<lb ed="X" n="0434a33"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a3301">福果奉華</item>
+<lb ed="X" n="0434a34"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a3401">西峯惟辨</item>
+<lb ed="X" n="0434a35"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a3501">法濟元軾</item>
+<lb ed="X" n="0434a36"/><lb ed="R147" n="0628a01"/><item xml:id="itemX86p0434a3601">牛頭昱先</item>
+<pb ed="X" xml:id="X86.1601.0435a" n="0435a"/>
+<lb ed="X" n="0435a01"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a0101">玄沙智章</item>
+<lb ed="X" n="0435a02"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a0201">本覺欽</item>
+<lb ed="X" n="0435a03"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a0301">西竺尼海</item></list></item>
+<lb ed="X" n="0435a04"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a0401">崑山希祖</item>
+<lb ed="X" n="0435a05"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a0501">南華德明</item>
+<lb ed="X" n="0435a06"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a0601">壽寧普規</item>
+<lb ed="X" n="0435a07"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a0701">陳園浩沾</item>
+<lb ed="X" n="0435a08"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a0801">壽寧慧真</item>
+<lb ed="X" n="0435a09"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a0901">因勝圓明</item>
+<lb ed="X" n="0435a10"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a1001">保福慧<g ref="#CB05886">󱛾</g></item>
+<lb ed="X" n="0435a11"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a1101">瑞巖永利</item>
+<lb ed="X" n="0435a12"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a1201">崇福惟善</item>
+<lb ed="X" n="0435a13"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a1301">龍溪圓照</item>
+<lb ed="X" n="0435a14"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a1401">壽聖自英</item>
+<lb ed="X" n="0435a15"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a1501">壽寧宗一</item>
+<lb ed="X" n="0435a16"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a1601">天王道肱</item>
+<lb ed="X" n="0435a17"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a1701">資福瑞珍</item>
+<lb ed="X" n="0435a18"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a1801">靈泉景仁</item>
+<lb ed="X" n="0435a19"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a1901">神光合韶</item>
+<lb ed="X" n="0435a20"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a2001">靈泉智深</item>
+<lb ed="X" n="0435a21"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a2101">上方法廣</item>
+<lb ed="X" n="0435a22"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a2201">文殊尚月</item>
+<lb ed="X" n="0435a23"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a2301">投子修顒
+<lb ed="X" n="0435a24"/><lb ed="R147" n="0629a01"/><list><item xml:id="itemX86p0435a2401">文殊法聰</item>
+<lb ed="X" n="0435a25"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a2501">資壽灌</item>
+<lb ed="X" n="0435a26"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a2601">崇壽江</item>
+<lb ed="X" n="0435a27"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a2701">資壽明潭</item>
+<lb ed="X" n="0435a28"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a2801">丞相富弼</item>
+<lb ed="X" n="0435a29"/><lb ed="R147" n="0629a01"/><item xml:id="itemX86p0435a2901">香嚴智月
+<lb ed="X" n="0435a30"/><lb ed="R147" n="0629a01"/><list><item xml:id="itemX86p0435a3001">香嚴如璧</item>
+<pb ed="X" xml:id="X86.1601.0436a" n="0436a"/>
+<lb ed="X" n="0436a01"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a0101">香嚴如琳</item></list></item></list></item>
+<lb ed="X" n="0436a02"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a0201">資勝以遜</item>
+<lb ed="X" n="0436a03"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a0301">白蓮愈<g ref="#CB15691">󳵋</g></item>
+<lb ed="X" n="0436a04"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a0401">法相用先</item>
+<lb ed="X" n="0436a05"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a0501">太平慧真</item>
+<lb ed="X" n="0436a06"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a0601">西余安德</item>
+<lb ed="X" n="0436a07"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a0701">寶嚴西杲</item>
+<lb ed="X" n="0436a08"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a0801">法會子升</item>
+<lb ed="X" n="0436a09"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a0901">龍華行慶</item>
+<lb ed="X" n="0436a10"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a1001">壽寧可機</item>
+<lb ed="X" n="0436a11"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a1101">禪悅慧日</item>
+<lb ed="X" n="0436a12"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a1201">安國子志</item>
+<lb ed="X" n="0436a13"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a1301">安樂有<g ref="#CB15162">㨗</g></item>
+<lb ed="X" n="0436a14"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a1401">練塘惠滿</item>
+<lb ed="X" n="0436a15"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a1501">仰天契達</item>
+<lb ed="X" n="0436a16"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a1601">真隱純潔</item>
+<lb ed="X" n="0436a17"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a1701">瑞巖有居
+<lb ed="X" n="0436a18"/><lb ed="R147" n="0630a01"/><list><item xml:id="itemX86p0436a1801">萬年處幽</item>
+<lb ed="X" n="0436a19"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a1901">護國元瑞</item></list></item>
+<lb ed="X" n="0436a20"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a2001">慧日徹慧</item>
+<lb ed="X" n="0436a21"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a2101">淨光法空</item>
+<lb ed="X" n="0436a22"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a2201">龍興自端</item>
+<lb ed="X" n="0436a23"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a2301">廣靈希祖
+<lb ed="X" n="0436a24"/><lb ed="R147" n="0630a01"/><list><item xml:id="itemX86p0436a2401">僊巖懷義</item>
+<lb ed="X" n="0436a25"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a2501">烏龍廣堅</item>
+<lb ed="X" n="0436a26"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a2601">清溪智誠</item></list></item>
+<lb ed="X" n="0436a27"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a2701">慧日道祥</item>
+<lb ed="X" n="0436a28"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a2801">淨土法慧</item>
+<lb ed="X" n="0436a29"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a2901">興國重寧</item>
+<lb ed="X" n="0436a30"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a3001">安國子詠</item>
+<lb ed="X" n="0436a31"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a3101">永安簡玉</item>
+<lb ed="X" n="0436a32"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a3201">甘露仲宣
+<lb ed="X" n="0436a33"/><lb ed="R147" n="0630a01"/><list><item xml:id="itemX86p0436a3301">妙湛尼文照</item></list></item>
+<lb ed="X" n="0436a34"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a3401">承天了宗</item>
+<lb ed="X" n="0436a35"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a3501">淨因惟岳
+<lb ed="X" n="0436a36"/><lb ed="R147" n="0630a01"/><list><item xml:id="itemX86p0436a3601">皷山體淳</item></list></item>
+<lb ed="X" n="0436a37"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a3701">甘泉立生</item>
+<lb ed="X" n="0436a38"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a3801">乾明慧覺
+<lb ed="X" n="0436a39"/><lb ed="R147" n="0630a01"/><list><item xml:id="itemX86p0436a3901">長慶應圓</item>
+<lb ed="X" n="0436a40"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a4001">寶積清及</item></list></item>
+<lb ed="X" n="0436a41"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a4101">清修省方</item>
+<lb ed="X" n="0436a42"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a4201">靈巖用芳</item>
+<lb ed="X" n="0436a43"/><lb ed="R147" n="0630a01"/><item xml:id="itemX86p0436a4301">遍福心印</item>
+<pb ed="X" xml:id="X86.1601.0437a" n="0437a"/>
+<lb ed="X" n="0437a01"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a0101">金山法慧
+<lb ed="X" n="0437a02"/><lb ed="R147" n="0631a01"/><list><item xml:id="itemX86p0437a0201">報恩覺然
+<lb ed="X" n="0437a03"/><lb ed="R147" n="0631a01"/><list><item xml:id="itemX86p0437a0301">資聖元祖</item></list></item></list></item>
+<lb ed="X" n="0437a04"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a0401">龍門普順</item>
+<lb ed="X" n="0437a05"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a0501">千頃宗印</item>
+<lb ed="X" n="0437a06"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a0601">永泰有澄</item>
+<lb ed="X" n="0437a07"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a0701">護國靈祐
+<lb ed="X" n="0437a08"/><lb ed="R147" n="0631a01"/><list><item xml:id="itemX86p0437a0801">資聖則圓</item></list></item>
+<lb ed="X" n="0437a09"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a0901">道齊和尚</item>
+<lb ed="X" n="0437a10"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a1001">萬壽圓
+<lb ed="X" n="0437a11"/><lb ed="R147" n="0631a01"/><list><item xml:id="itemX86p0437a1101">國清照</item>
+<lb ed="X" n="0437a12"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a1201">慧嚴覺</item>
+<lb ed="X" n="0437a13"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a1301">永懷榮</item></list></item>
+<lb ed="X" n="0437a14"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a1401">圓明和尚</item>
+<lb ed="X" n="0437a15"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a1501">善德和尚</item>
+<lb ed="X" n="0437a16"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a1601">法海和尚</item>
+<lb ed="X" n="0437a17"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a1701">報恩志明</item>
+<lb ed="X" n="0437a18"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a1801">大寧永賢</item>
+<lb ed="X" n="0437a19"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a1901">南禪慧
+<lb ed="X" n="0437a20"/><lb ed="R147" n="0631a01"/><list><item xml:id="itemX86p0437a2001">蕭山法詮</item>
+<lb ed="X" n="0437a21"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a2101">寶林道芳</item></list></item>
+<lb ed="X" n="0437a22"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a2201">功臣慧周</item>
+<lb ed="X" n="0437a23"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a2301">大盧奉堅</item>
+<lb ed="X" n="0437a24"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a2401">靈峯自和</item>
+<lb ed="X" n="0437a25"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a2501">資壽除巖
+<lb ed="X" n="0437a26"/><lb ed="R147" n="0631a01"/><list><item xml:id="itemX86p0437a2601">彰法嵩</item>
+<lb ed="X" n="0437a27"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a2701">寶山公遠</item></list></item>
+<lb ed="X" n="0437a28"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a2801">多福太素</item>
+<lb ed="X" n="0437a29"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a2901">寶琛和尚</item>
+<lb ed="X" n="0437a30"/><lb ed="R147" n="0631a01"/><item xml:id="itemX86p0437a3001">廣際用乾</item>
+<pb ed="X" xml:id="X86.1601.0438a" n="0438a"/>
+<lb ed="X" n="0438a01"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a0101">隱靜守儼
+<lb ed="X" n="0438a02"/><lb ed="R147" n="0632a01"/><list><item xml:id="itemX86p0438a0201">廣慧宗賢</item>
+<lb ed="X" n="0438a03"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a0301">吉祥法順</item></list></item>
+<lb ed="X" n="0438a04"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a0401">鷄峯止首座</item>
+<lb ed="X" n="0438a05"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a0501">楊直講居士</item></list></item>
+<lb ed="X" n="0438a06"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a0601">天章元善</item>
+<lb ed="X" n="0438a07"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a0701">長蘆體明</item>
+<lb ed="X" n="0438a08"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a0801">觀音啟</item>
+<lb ed="X" n="0438a09"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a0901">開元智孜</item>
+<lb ed="X" n="0438a10"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a1001">澄照慧慈</item>
+<lb ed="X" n="0438a11"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a1101">法雨慧源</item>
+<lb ed="X" n="0438a12"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a1201">崇德智澄</item>
+<lb ed="X" n="0438a13"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a1301">棲隱有評</item>
+<lb ed="X" n="0438a14"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a1401">定慧雲</item>
+<lb ed="X" n="0438a15"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a1501">大同旺</item>
+<lb ed="X" n="0438a16"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a1601">鐵佛因</item>
+<lb ed="X" n="0438a17"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a1701">報本法存</item>
+<lb ed="X" n="0438a18"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a1801">開聖棲</item>
+<lb ed="X" n="0438a19"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a1901">衡山惟禮</item>
+<lb ed="X" n="0438a20"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a2001">顯明善孜</item>
+<lb ed="X" n="0438a21"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a2101">啟霞慧安</item>
+<lb ed="X" n="0438a22"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a2201">雲門靈侃</item>
+<lb ed="X" n="0438a23"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a2301">太平元坦</item>
+<lb ed="X" n="0438a24"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a2401">佛日文祖</item>
+<lb ed="X" n="0438a25"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a2501">望僊宗</item>
+<lb ed="X" n="0438a26"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a2601">佛足處祥</item>
+<lb ed="X" n="0438a27"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a2701">五峯用機</item>
+<lb ed="X" n="0438a28"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a2801">明因慧贇</item>
+<lb ed="X" n="0438a29"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a2901">西臺其辨</item>
+<lb ed="X" n="0438a30"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a3001">永泰智覺</item>
+<lb ed="X" n="0438a31"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a3101">龍華文喜</item>
+<lb ed="X" n="0438a32"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a3201">永泰自仁</item>
+<lb ed="X" n="0438a33"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a3301">延恩法安</item>
+<lb ed="X" n="0438a34"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a3401">靈巖洞偕</item>
+<lb ed="X" n="0438a35"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a3501">桐城詮</item>
+<lb ed="X" n="0438a36"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a3601">淨慧可證</item>
+<lb ed="X" n="0438a37"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a3701">寶林光寂</item>
+<lb ed="X" n="0438a38"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a3801">感慈道賓</item>
+<lb ed="X" n="0438a39"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a3901">泗洲宗尚</item>
+<lb ed="X" n="0438a40"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a4001">白塔晦</item>
+<lb ed="X" n="0438a41"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a4101">報恩和</item>
+<lb ed="X" n="0438a42"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a4201">偃峯簡諸</item>
+<lb ed="X" n="0438a43"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a4301">道吾元泰</item>
+<lb ed="X" n="0438a44"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a4401">無為楚仙</item>
+<lb ed="X" n="0438a45"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a4501">報恩應譚</item>
+<lb ed="X" n="0438a46"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a4601">龍門宗賁</item>
+<lb ed="X" n="0438a47"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a4701">顯親順忠</item>
+<lb ed="X" n="0438a48"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a4801">長耳相</item>
+<lb ed="X" n="0438a49"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a4901">薦福惠洪</item>
+<lb ed="X" n="0438a50"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a5001">延福恩</item>
+<lb ed="X" n="0438a51"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a5101">景德普俊</item>
+<lb ed="X" n="0438a52"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a5201">薦福明因</item>
+<lb ed="X" n="0438a53"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a5301">開化惠圓</item>
+<lb ed="X" n="0438a54"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a5401">萬壽和</item></list></item>
+<lb ed="X" n="0438a55"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a5501">南明日慎</item>
+<lb ed="X" n="0438a56"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a5601">投子法宗</item>
+<lb ed="X" n="0438a57"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a5701">寶相蘊觀</item>
+<lb ed="X" n="0438a58"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a5801">君山顯昇</item>
+<lb ed="X" n="0438a59"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a5901">洞庭惠金</item>
+<lb ed="X" n="0438a60"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a6001">洞山慧圓</item>
+<lb ed="X" n="0438a61"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a6101">香積孜</item>
+<lb ed="X" n="0438a62"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a6201">寶慶子環</item>
+<lb ed="X" n="0438a63"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a6301">靈巖德初</item>
+<lb ed="X" n="0438a64"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a6401">龍興智傳</item>
+<lb ed="X" n="0438a65"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a6501">乾明則</item>
+<lb ed="X" n="0438a66"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a6601">乾明知應</item>
+<lb ed="X" n="0438a67"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a6701">安國琮</item>
+<lb ed="X" n="0438a68"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a6801">稱心清演</item>
+<lb ed="X" n="0438a69"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a6901">證聖守環</item>
+<lb ed="X" n="0438a70"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a7001">湯院守恩</item>
+<lb ed="X" n="0438a71"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a7101">廣教景先</item>
+<lb ed="X" n="0438a72"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a7201">東禪賢</item>
+<lb ed="X" n="0438a73"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a7301">上山德隆</item>
+<lb ed="X" n="0438a74"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a7401">化城德遷</item>
+<lb ed="X" n="0438a75"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a7501">廣慧用舒</item>
+<lb ed="X" n="0438a76"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a7601">因勝惟政</item>
+<lb ed="X" n="0438a77"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a7701">資福肇</item>
+<lb ed="X" n="0438a78"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a7801">白雲德宣</item>
+<lb ed="X" n="0438a79"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a7901">興元道滿</item>
+<lb ed="X" n="0438a80"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a8001">承天洞源</item>
+<lb ed="X" n="0438a81"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a8101">鹿苑顯沖</item>
+<lb ed="X" n="0438a82"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a8201">薦福知一</item>
+<lb ed="X" n="0438a83"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a8301">嶽林宗善</item>
+<lb ed="X" n="0438a84"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a8401">萬壽慧照</item>
+<lb ed="X" n="0438a85"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a8501">海會擇芝</item>
+<lb ed="X" n="0438a86"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a8601">妙果自政</item>
+<lb ed="X" n="0438a87"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a8701">疎山淳</item>
+<lb ed="X" n="0438a88"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a8801">德山應</item>
+<lb ed="X" n="0438a89"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a8901">君山筠</item>
+<lb ed="X" n="0438a90"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a9001">南嶽文政</item>
+<lb ed="X" n="0438a91"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a9101">啟霞志宣</item>
+<lb ed="X" n="0438a92"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a9201">羅山<g ref="#CB15166">󳬾</g></item>
+<lb ed="X" n="0438a93"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a9301">地藏賞</item>
+<lb ed="X" n="0438a94"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a9401">真如雅</item>
+<lb ed="X" n="0438a95"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a9501">鳳臺崇</item>
+<lb ed="X" n="0438a96"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a9601">藥山恭</item>
+<lb ed="X" n="0438a97"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a9701">西禪罕</item>
+<lb ed="X" n="0438a98"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a9801">報恩政</item>
+<lb ed="X" n="0438a99"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438a9901">玉池希白</item>
+<pb ed="X" xml:id="X86.1601.0438b" n="0438b"/>
+<lb ed="X" n="0438b01"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438b0101">寶相歡</item>
+<lb ed="X" n="0438b02"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438b0201">雲門毅</item>
+<lb ed="X" n="0438b03"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438b0301">橫金顯</item>
+<lb ed="X" n="0438b04"/><lb ed="R147" n="0632a01"/><item xml:id="itemX86p0438b0401">雲巖元度</item></list></item></list></cb:div>
+<lb ed="X" n="0438b05"/>
+<lb ed="X" n="0438b06"/><lb ed="R147" n="0632a05"/><cb:juan fun="close" n="007"><cb:jhead>禪燈世譜卷第七</cb:jhead></cb:juan>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_47" cb:to="#end_47"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_48" cb:to="#end_48"><corr>諡</corr><sic>謚</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_49" cb:to="#end_49"><corr>諡</corr><sic>謚</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4a" cb:to="#end_4a"><corr>邛<note type="cf1">X08n0236_p0344c15</note><note type="cf2">X08n0236_p0345c21</note></corr><sic>卬</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4b" cb:to="#end_4b"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4c" cb:to="#end_4c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4d" cb:to="#end_4d"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+<cb:div type="xuzang-notes">
+<head>卍續藏 校勘記</head>
+<p>
+</p>
+</cb:div>
+</back></text></TEI>

@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="J26nB177">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Jiaxing Canon, Electronic version, No. B177 破山禪師語錄</title>
+			<author>清 海明說　印正等編　附年譜　印巒等輯　印綬等編　原書缺依駒本印</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.12 $<date>$Date: 2012/06/27 08:13:32 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>20卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/06/27 08:13:32 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Jiaxing Canon Vol. 26, No. B177 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version), Part of text as provided by LINDEN</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二），LINDEN 大德提供之部份經文</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB01223">
+	<charName>CBETA CHARACTER CB01223</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[口*耶]</value>
+	</charProp>
+	<mapping type="unicode">U+35BF</mapping>
+	<mapping cb:dec="984263" type="PUA">U+F04C7</mapping>
+</char>
+<char xml:id="CB01323">
+	<charName>CBETA CHARACTER CB01323</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[車*度]</value>
+	</charProp>
+	<mapping type="unicode">U+2834F</mapping>
+	<mapping cb:dec="984363" type="PUA">U+F052B</mapping>
+</char>
+<char xml:id="CB01387">
+	<charName>CBETA CHARACTER CB01387</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+孛]</value>
+	</charProp>
+	<mapping type="unicode">U+2805D</mapping>
+	<mapping cb:dec="984427" type="PUA">U+F056B</mapping>
+</char>
+<char xml:id="CB01403">
+	<charName>CBETA CHARACTER CB01403</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[囗@力]</value>
+	</charProp>
+	<mapping type="unicode">U+361E</mapping>
+	<mapping cb:dec="984443" type="PUA">U+F057B</mapping>
+</char>
+<char xml:id="CB15469">
+	<charName>CBETA CHARACTER CB15469</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[○@(、/(、*、))]</value>
+	</charProp>
+	<mapping cb:dec="998509" type="PUA">U+F3C6D</mapping>
+</char>
+<char xml:id="CB21166">
+	<charName>CBETA CHARACTER CB21166</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[禾/亍]</value>
+	</charProp>
+	<mapping cb:dec="1004206" type="PUA">U+F52AE</mapping>
+</char>
+<char xml:id="CB21202">
+	<charName>CBETA CHARACTER CB21202</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[仁-二+(夭/韭)]</value>
+	</charProp>
+	<mapping type="unicode">U+203B7</mapping>
+	<mapping cb:dec="1004242" type="PUA">U+F52D2</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2008-09-18T16:13:25">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="J" xml:id="J26.B177.0001a" n="0001a"/>
+<lb ed="J" n="0001a01"/><milestone unit="juan" n="1"/><cb:div type="xu"><cb:mulu type="序" level="1">序</cb:mulu><head>序</head>
+<lb ed="J" n="0001a02"/><p xml:id="pJ26p0001a0201">嘗聞古人有言。馬大師位下出八十四員善知識。真
+<lb ed="J" n="0001a03"/>得法髓者不過數人。其餘盡是唱導之師。余頗疑之。
+<lb ed="J" n="0001a04"/>以為馬祖弟子皆大冶精金。安有彼此。況擔荷大法
+<lb ed="J" n="0001a05"/>豈是易事。能以所得唱導後學。則佛祖慧命可續。更
+<lb ed="J" n="0001a06"/>何他求。既乃始省黃梅五祖已有北宗一支。雖毫釐
+<lb ed="J" n="0001a07"/>之差且至千里。故曰智過於師方堪傳授。印空印水
+<lb ed="J" n="0001a08"/>印泥則不同矣。所以天童中興臨濟。惟雙桂破山和
+<lb ed="J" n="0001a09"/>尚洵今日之百丈歸宗也。其入處斬絕不涉廉纖。又
+<lb ed="J" n="0001a10"/>得密老人與之扣擊。似黃檗之於滹沱全提正令。不
+<lb ed="J" n="0001a11"/>放一鍼出路。宜其開法嘉興東塔。後旋返蜀鄉。坐道
+<lb ed="J" n="0001a12"/>場一十有四。凡三十七<anchor xml:id="beg_1" type="cb-app"/>年<anchor xml:id="end_1"/>中秉吹毛慧劍。倒用橫拈
+<lb ed="J" n="0001a13"/>咳唾掉臂。無非向上提持。如塗毒鼓。聞者沾其氣息。
+<lb ed="J" n="0001a14"/>無不喪身失命。即王公勢要。亦皆頫首屈服。化導所
+<lb ed="J" n="0001a15"/>至。寧復知解。所能測識哉。今語錄具在。將使天下後
+<lb ed="J" n="0001a16"/>世觸著磕著。悉與斷卻命根。豈止一時。昔歲丁酉昭
+<lb ed="J" n="0001a17"/>覺醉師至禾。曾刻本師語錄十二卷行世。時和尚固
+<lb ed="J" n="0001a18"/>無恙也。又十載而圓寂。則初刻為未全。茲玉泉正師
+<lb ed="J" n="0001a19"/>裒集全稿。付梓入藏。問敘於博思和尚。昔<anchor xml:id="beg_2" type="cb-app"/>年<anchor xml:id="end_2"/>住福城
+<lb ed="J" n="0001a20"/>時余年。猶少聞衲子群言。和尚說法迥出尋常。而余
+<lb ed="J" n="0001a21"/>竟以塵緣所繫不及一領法誨。以至老而無聞。寧堪
+<lb ed="J" n="0001a22"/>作弁首之序。但吾里東塔為和尚開法第一道場。古
+<lb ed="J" n="0001a23"/>新清白師當日親炙左右。每向余稱述一言半句。不
+<lb ed="J" n="0001a24"/>覺想梅生液。余雖愚鈍。實深信之。兩師不遠數千里。
+<lb ed="J" n="0001a25"/>與古新協力了本師公案。區區縱不能道其萬一。烏
+<lb ed="J" n="0001a26"/>可以不言。正如掉棒打月。何所不可。</p>
+<lb ed="J" n="0001a27"/><p xml:id="pJ26p0001a2701">康熙庚申佛生日檇李約庵道人施博拜撰</p></cb:div>
+<lb ed="J" n="0001a28"/>
+<lb ed="J" n="0001a29"/>
+<lb ed="J" n="0001a30"/>
+<pb ed="J" xml:id="J26.B177.0001b" n="0001b"/>
+<lb ed="J" n="0001b01"/><cb:div type="xu"><cb:mulu type="序" level="1">敘</cb:mulu><head>敘</head>
+<lb ed="J" n="0001b02"/><p xml:id="pJ26p0001b0201">破山大師道化之盛。平生所開法會凡十有四處。其
+<lb ed="J" n="0001b03"/>最先在吾禾之福城。於時師年甫三十。方得法於金
+<lb ed="J" n="0001b04"/>粟。即受斯請。予嘗同友人周子貞可數往參謁。媿初
+<lb ed="J" n="0001b05"/>學無所契。但見有知解之宗徒。心性之禪說。竊疑其
+<lb ed="J" n="0001b06"/>非以落艸之談相質。師每笑而然之。此事迄今遠矣。
+<lb ed="J" n="0001b07"/>尚能記憶之也。自師之入蜀。隨阻寇亂。彼此不相聞
+<lb ed="J" n="0001b08"/>久。及乎陽平通道門人丈雪攜師語錄來禾中授梓。
+<lb ed="J" n="0001b09"/>予當分守川北。丈雪以所刻成書付其徒竹石偕予
+<lb ed="J" n="0001b10"/>行。予抵川。而師在金城仍見阻。懷三十餘<anchor xml:id="beg_3" type="cb-app"/>年<anchor xml:id="end_3"/>之別有
+<lb ed="J" n="0001b11"/>重歎焉。予嘗聞蜀人言。師折伏呂督。師大器不啻宋
+<lb ed="J" n="0001b12"/>悅公之於無盡。十三家之賊殺師不得反信奉。師為
+<lb ed="J" n="0001b13"/>之止殺。將頭臨刃。七難不渝。有古德之風。而兇威自
+<lb ed="J" n="0001b14"/>戢。其道力似尤過之也。師念不忘吾禾。常有東行之
+<lb ed="J" n="0001b15"/>約。因三峽未開。望夔州而返。以後譚姚二家俱效順。
+<lb ed="J" n="0001b16"/>吾友沈子子相令新寧。適鄰其地。得數禮覲師。師語
+<lb ed="J" n="0001b17"/>及禾中道侶。每為惓惓。不數<anchor xml:id="beg_4" type="cb-app"/>年<anchor xml:id="end_4"/>而師竟示寂去。由是
+<lb ed="J" n="0001b18"/>予繼見之望絕矣。予前在保寧。屢晤其門人離指云
+<lb ed="J" n="0001b19"/>丈雪刻行之書芟逸頗多。師意猶見少。今師歿十餘
+<lb ed="J" n="0001b20"/>載。門人蓮月從荊門來禾。復彙刻全錄共二十卷。實
+<lb ed="J" n="0001b21"/>承師之志。蓮月請予言為弁。予與師多舊緣。不敢辭。
+<lb ed="J" n="0001b22"/>且今宗門敝壞。聰明者濫于文詞。樸實者流于義學。
+<lb ed="J" n="0001b23"/>竊謂非師之大用大機不足以振起。二十卷之刻良
+<lb ed="J" n="0001b24"/>不厭多。不然則諸方之著述已日夥矣。此又何求益
+<lb ed="J" n="0001b25"/>也。</p>
+<lb ed="J" n="0001b26"/><p xml:id="pJ26p0001b2601">康熙十九<anchor xml:id="beg_5" type="cb-app"/>年<anchor xml:id="end_5"/>四月望後五日檇李王庭拜題</p></cb:div>
+<lb ed="J" n="0001b27"/>
+<lb ed="J" n="0001b28"/>
+<lb ed="J" n="0001b29"/>
+<lb ed="J" n="0001b30"/>
+<pb ed="J" xml:id="J26.B177.0001c" n="0001c"/>
+<lb ed="J" n="0001c01"/><cb:div type="other"><cb:mulu type="其他" level="1">目錄</cb:mulu><head>破山禪師語錄目錄</head>
+<lb ed="J" n="0001c02"/><list><item xml:id="itemJ26p0001c0201">序文二</item>
+<lb ed="J" n="0001c03"/><item xml:id="itemJ26p0001c0301">第一卷
+<lb ed="J" n="0001c04"/><list><item xml:id="itemJ26p0001c0401">上堂一</item></list></item>
+<lb ed="J" n="0001c05"/><item xml:id="itemJ26p0001c0501">第二卷
+<lb ed="J" n="0001c06"/><list><item xml:id="itemJ26p0001c0601">上堂二</item></list></item>
+<lb ed="J" n="0001c07"/><item xml:id="itemJ26p0001c0701">第三卷
+<lb ed="J" n="0001c08"/><list><item xml:id="itemJ26p0001c0801">上堂三</item></list></item>
+<lb ed="J" n="0001c09"/><item xml:id="itemJ26p0001c0901">第四卷
+<lb ed="J" n="0001c10"/><list><item xml:id="itemJ26p0001c1001">上堂四</item></list></item>
+<lb ed="J" n="0001c11"/><item xml:id="itemJ26p0001c1101">第五卷
+<lb ed="J" n="0001c12"/><list><item xml:id="itemJ26p0001c1201">上堂五</item>
+<lb ed="J" n="0001c13"/><item xml:id="itemJ26p0001c1301">小參一</item></list></item>
+<lb ed="J" n="0001c14"/><item xml:id="itemJ26p0001c1401">第六卷
+<lb ed="J" n="0001c15"/><list><item xml:id="itemJ26p0001c1501">小參二</item></list></item>
+<lb ed="J" n="0001c16"/><item xml:id="itemJ26p0001c1601">第七卷
+<lb ed="J" n="0001c17"/><list><item xml:id="itemJ26p0001c1701">機緣</item></list></item>
+<lb ed="J" n="0001c18"/><item xml:id="itemJ26p0001c1801">第八卷
+<lb ed="J" n="0001c19"/><list><item xml:id="itemJ26p0001c1901">法語一</item></list></item>
+<lb ed="J" n="0001c20"/><item xml:id="itemJ26p0001c2001">第九卷
+<lb ed="J" n="0001c21"/><list><item xml:id="itemJ26p0001c2101">法語二</item></list></item>
+<lb ed="J" n="0001c22"/><item xml:id="itemJ26p0001c2201">第十卷
+<lb ed="J" n="0001c23"/><list><item xml:id="itemJ26p0001c2301">法語三</item></list></item>
+<lb ed="J" n="0001c24"/><item xml:id="itemJ26p0001c2401">第十一卷
+<lb ed="J" n="0001c25"/><list><item xml:id="itemJ26p0001c2501">法語四</item></list></item>
+<lb ed="J" n="0001c26"/><item xml:id="itemJ26p0001c2601">第十二卷
+<lb ed="J" n="0001c27"/><list><item xml:id="itemJ26p0001c2701">書問</item></list></item>
+<lb ed="J" n="0001c28"/><item xml:id="itemJ26p0001c2801">第十三卷
+<lb ed="J" n="0001c29"/><list><item xml:id="itemJ26p0001c2901">拈古</item>
+<lb ed="J" n="0001c30"/><item xml:id="itemJ26p0001c3001">頌古</item>
+<pb ed="J" xml:id="J26.B177.0002a" n="0002a"/>
+<lb ed="J" n="0002a01"/><item xml:id="itemJ26p0002a0101">聯芳偈</item></list></item>
+<lb ed="J" n="0002a02"/><item xml:id="itemJ26p0002a0201">第十四卷
+<lb ed="J" n="0002a03"/><list><item xml:id="itemJ26p0002a0301">示偈<note place="inline">七言四句</note></item></list></item>
+<lb ed="J" n="0002a04"/><item xml:id="itemJ26p0002a0401">第十五卷
+<lb ed="J" n="0002a05"/><list><item xml:id="itemJ26p0002a0501">示偈二<note place="inline">七言四句</note></item></list></item>
+<lb ed="J" n="0002a06"/><item xml:id="itemJ26p0002a0601">第十六卷
+<lb ed="J" n="0002a07"/><list><item xml:id="itemJ26p0002a0701">示偈三<note place="inline">七言四句　五言四句</note></item></list></item>
+<lb ed="J" n="0002a08"/><item xml:id="itemJ26p0002a0801">第十七卷
+<lb ed="J" n="0002a09"/><list><item xml:id="itemJ26p0002a0901">佛祖讚</item>
+<lb ed="J" n="0002a10"/><item xml:id="itemJ26p0002a1001">自讚</item></list></item>
+<lb ed="J" n="0002a11"/><item xml:id="itemJ26p0002a1101">第十八卷
+<lb ed="J" n="0002a12"/><list><item xml:id="itemJ26p0002a1201">雜偈<note place="inline">七言八句　五言八句</note></item></list></item>
+<lb ed="J" n="0002a13"/><item xml:id="itemJ26p0002a1301">第十九卷
+<lb ed="J" n="0002a14"/><list><item xml:id="itemJ26p0002a1401">雜偈</item>
+<lb ed="J" n="0002a15"/><item xml:id="itemJ26p0002a1501">坐禪箴</item>
+<lb ed="J" n="0002a16"/><item xml:id="itemJ26p0002a1601">十二時歌</item>
+<lb ed="J" n="0002a17"/><item xml:id="itemJ26p0002a1701">牧牛圖頌</item>
+<lb ed="J" n="0002a18"/><item xml:id="itemJ26p0002a1801">題小像</item>
+<lb ed="J" n="0002a19"/><item xml:id="itemJ26p0002a1901">題行樂圖</item>
+<lb ed="J" n="0002a20"/><item xml:id="itemJ26p0002a2001">萬峰景</item></list></item>
+<lb ed="J" n="0002a21"/><item xml:id="itemJ26p0002a2101">第二十卷
+<lb ed="J" n="0002a22"/><list><item xml:id="itemJ26p0002a2201">序</item>
+<lb ed="J" n="0002a23"/><item xml:id="itemJ26p0002a2301">疏</item>
+<lb ed="J" n="0002a24"/><item xml:id="itemJ26p0002a2401">銘</item>
+<lb ed="J" n="0002a25"/><item xml:id="itemJ26p0002a2501">偶言</item>
+<lb ed="J" n="0002a26"/><item xml:id="itemJ26p0002a2601">佛事</item>
+<lb ed="J" n="0002a27"/><item xml:id="itemJ26p0002a2701">行狀</item>
+<lb ed="J" n="0002a28"/><item xml:id="itemJ26p0002a2801">年譜<note place="inline">附</note></item>
+<lb ed="J" n="0002a29"/><item xml:id="itemJ26p0002a2901">塔銘<note place="inline">附</note></item></list></item></list></cb:div>
+<lb ed="J" n="0002a30"/><cb:div><p xml:id="pJ26p0002a3001">破山禪師語錄目錄<note place="inline">終</note></p>
+<pb ed="J" xml:id="J26.B177.0002b" n="0002b"/>
+<lb ed="J" n="0002b01"/><cb:juan fun="open" n="1"><cb:mulu type="卷" n="1"></cb:mulu><cb:jhead>破山禪師語錄卷第一</cb:jhead></cb:juan>
+<lb ed="J" n="0002b02"/><byline cb:type="editor">當陽玉泉嗣法門人印正等編</byline></cb:div>
+<lb ed="J" n="0002b03"/><cb:div type="other"><cb:mulu type="其他" level="1">上堂一</cb:mulu><head>上堂一</head>
+<lb ed="J" n="0002b04"/><p xml:id="pJ26p0002b0401">住嘉興府東塔廣福禪寺。師在苕谿福山受請。崇禎
+<lb ed="J" n="0002b05"/>二<anchor xml:id="beg_6" type="cb-app"/>年<anchor xml:id="end_6"/>八月一日入院。至佛殿。以坐具拂一拂。云。八字
+<lb ed="J" n="0002b06"/>打開。當陽拋出。坐斷報化佛頭底人。正好不向佛求。
+<lb ed="J" n="0002b07"/>不向法求。不向僧求。常禮如是。便拜。</p>
+<lb ed="J" n="0002b08"/><p xml:id="pJ26p0002b0801">伽藍堂云。前三三。後三三。俱在者裏。弘護今日被山
+<lb ed="J" n="0002b09"/>僧一瓣香觸碎鼻孔。莫怪山僧粗糙。</p>
+<lb ed="J" n="0002b10"/><p xml:id="pJ26p0002b1001">祖堂云。一華開五葉。至今狼籍不少。更要起模做樣
+<lb ed="J" n="0002b11"/>作麼。咄。</p>
+<lb ed="J" n="0002b12"/><p xml:id="pJ26p0002b1201">眾請陞座。拈香云。此瓣香喫盡國王水土。養成一肚
+<lb ed="J" n="0002b13"/>豪氣。放之則彌六合。卷之退藏於密。爇向爐中。恭為
+<lb ed="J" n="0002b14" type="honorific"/>今上皇帝祝嚴聖壽萬歲萬歲萬萬歲。次拈香云。此
+<lb ed="J" n="0002b15"/>瓣香奉為闔朝文武。天下官僚。本山請主護法居士。
+<lb ed="J" n="0002b16"/>惟冀同明般若。共證菩提。又拈香云。此瓣香斧斫不
+<lb ed="J" n="0002b17"/>開。刀劈不破。雨灑風吹遂成乾屎橛。此是第一回拈
+<lb ed="J" n="0002b18"/>出供養。見住金粟山廣慧禪寺。傳曹谿正脈。第三十
+<lb ed="J" n="0002b19"/>四世密雲和尚用酬法乳之恩。就座維那白槌云。法
+<lb ed="J" n="0002b20"/>筵龍象。眾當觀第一義。師云。香已拈了。更要山僧說
+<lb ed="J" n="0002b21"/>箇什麼。時和石孫居士稽首。請垂語。師云。山僧素志
+<lb ed="J" n="0002b22"/>本欲深棲巖竇。隱遯過時。不意撞夥鐵面皮居士。善
+<lb ed="J" n="0002b23"/>具辣手。慣會拏雲。將山僧拽入者保社。開張臭口。說
+<lb ed="J" n="0002b24"/>幾句燥脾胃話。以光法門。山僧自揣愚劣。不會打葛
+<lb ed="J" n="0002b25"/>藤。只好舉則古人住院因緣。以塞來命。昔日圓通禪
+<lb ed="J" n="0002b26"/>師入院。云。圓通不開生藥舖。單單只賣死貓頭。不知
+<lb ed="J" n="0002b27"/>那箇無思算。喫著通身冷汗流。者老漢住院還有箇
+<lb ed="J" n="0002b28"/>死貓頭賣弄腥羶遂引蒼蠅成群作隊。山僧今日到
+<lb ed="J" n="0002b29"/>院。也無死貓頭賣。亦無生藥鋪開。以兩手作擎瓶勢。
+<lb ed="J" n="0002b30"/>云。單單只有者箇。大眾且道。者箇是什麼。眾無對。師
+<pb ed="J" xml:id="J26.B177.0002c" n="0002c"/>
+<lb ed="J" n="0002c01"/>高聲云。曹山好顛酒。復云。破山喫著曹山酒。醉得通
+<lb ed="J" n="0002c02"/>身俱是口。瞎禿光兒罵上天。又來拈棒打顛狗。山僧
+<lb ed="J" n="0002c03"/>恁麼告報。非是壓良為賤。抑且法爾如然。未審眾中
+<lb ed="J" n="0002c04"/>還有傍不甘底衲僧麼。出來相見。如無。更與諸人重
+<lb ed="J" n="0002c05"/>下註腳去也。驀拈拄杖卓一卓。云。還知麼。知則途中
+<lb ed="J" n="0002c06"/>受用。不知則世諦流布。喝一喝。復白槌云。諦觀法王
+<lb ed="J" n="0002c07"/>法。法王法如是。下座。</p>
+<lb ed="J" n="0002c08"/><p xml:id="pJ26p0002c0801">開爐。上堂。<g ref="#CB01323">𨍏</g>轢嚴居士問。大悲千隻手。那隻是正手。
+<lb ed="J" n="0002c09"/>師云。四稜著地。進云。大悲千隻眼。那隻是正眼。師云。
+<lb ed="J" n="0002c10"/>八面玲瓏。進云。手眼不勞重舉似。單傳意旨是如何。
+<lb ed="J" n="0002c11"/>師震威喝一喝。進云。雙手劈開生死路。一眼覷破是
+<lb ed="J" n="0002c12"/>非關。師便打。進云。瞎。師云。瞎瞎。士禮拜。師乃云。新開
+<lb ed="J" n="0002c13"/>爐韝辣鉗錘。正打傍敲下下隨。本是幾團零落鐵。一
+<lb ed="J" n="0002c14"/>回入火一回奇。大眾還有一回奇底也未。一僧出眾。
+<lb ed="J" n="0002c15"/>喝一喝。師云。好喝。僧無語。師云。此奇未足盡善。看木
+<lb ed="J" n="0002c16"/>上座為汝諸人弄奇去也。以拄杖擲地。鼓掌呵呵云。
+<lb ed="J" n="0002c17"/>也大奇也大奇。</p>
+<lb ed="J" n="0002c18"/><p xml:id="pJ26p0002c1801">孫弘祚弘福為薦祖簡肅尚書請陞座。師云。一念普
+<lb ed="J" n="0002c19"/>觀無量劫。非去非來亦非住。如是了知三世事。超諸
+<lb ed="J" n="0002c20"/>方便成十力。以拄杖卓一卓。喝一喝。云。也甚奇怪。山
+<lb ed="J" n="0002c21"/>僧適才舉首上場詩。引得簡肅孫公跳在山僧拄杖
+<lb ed="J" n="0002c22"/>頭上。現大人相。出廣長舌。道山僧眼華不少。被山僧
+<lb ed="J" n="0002c23"/>一喝。依然向山僧拄杖頭邊。默默隱去。山僧所見如
+<lb ed="J" n="0002c24"/>是。未審諸人同見也無。若也同見。便見三世諸佛。歷
+<lb ed="J" n="0002c25"/>代祖師并及人人生身父母。歷劫宗親。全體如是來。
+<lb ed="J" n="0002c26"/>全體如是去。全體如是住。其或未然。更聽山僧與尚
+<lb ed="J" n="0002c27"/>書題額去也。以拄杖劃一劃。云。昔日君王為柱石。今
+<lb ed="J" n="0002c28"/>朝佛法作金湯。</p>
+<lb ed="J" n="0002c29"/><p xml:id="pJ26p0002c2901">上堂。師云。天得一以清。地得一以寧。君王得一天下
+<lb ed="J" n="0002c30"/>太平。衲僧得一海眾雲臻。雖然總之是一。爭奈緇素
+<pb ed="J" xml:id="J26.B177.0003a" n="0003a"/>
+<lb ed="J" n="0003a01"/>分明。舉其緇也。兵隨印轉。舉其素也。將逐符行。直饒
+<lb ed="J" n="0003a02"/>不緇不素。未是輥芥投鍼。大眾正恁麼時。如何是鍼
+<lb ed="J" n="0003a03"/>芥相投句。龍得水時添意氣。虎逢山勢長威獰。</p>
+<lb ed="J" n="0003a04"/><p xml:id="pJ26p0003a0401">上堂。師云。今朝正值臘月八。釋迦原是小悉達。經行
+<lb ed="J" n="0003a05"/>忽地面仰天。撞著明星<anchor xml:id="beg_7" type="cb-app"/>刺<anchor xml:id="end_7"/>眼瞎。阿<g ref="#CB01223">㖿</g>阿<g ref="#CB01223">㖿</g>。相救相救。
+<lb ed="J" n="0003a06"/>卓拄杖云。幸爾還有者箇在。不然終是扶籬傍壁漢。
+<lb ed="J" n="0003a07"/>金粟專使送法衣至。上堂。師云。大庾嶺頭提不起。雞
+<lb ed="J" n="0003a08"/>足山前成滯貨。山僧今日獲一披。如雲普覆華王座。
+<lb ed="J" n="0003a09"/>大眾記取三十年後。切不可動著。何也。動著則禍生。
+<lb ed="J" n="0003a10"/>望日。上堂。師云。天上月正圓。人間道月半。撞著閻羅
+<lb ed="J" n="0003a11"/>王。便把飯錢算。咄。休打算。且待山僧細細與你從頭
+<lb ed="J" n="0003a12"/>判。天上月正圓。陝府鐵牛頭角攢。人<unclear></unclear><unclear></unclear>月半。嘉州
+<lb ed="J" n="0003a13"/>大象皮毛換。撞著閻羅王。大蟲被犬傷。便把飯錢算。
+<lb ed="J" n="0003a14"/>兩箇五百是一貫。不管三七廿一。二五一十。挨排算
+<lb ed="J" n="0003a15"/>到臘月三十日。秖算得一半。設或完全。直待驢年。喝
+<lb ed="J" n="0003a16"/>一喝。卓拄杖。下座。</p>
+<lb ed="J" n="0003a17"/><p xml:id="pJ26p0003a1701">歲旦。上堂。僧問。新年百草頭。早<anchor xml:id="beg_8" type="cb-app"/>已<anchor xml:id="end_8"/>露公案。舊時底春
+<lb ed="J" n="0003a18"/>風。華放滿園香。如何是不涉新舊句。師豎拂云。是新
+<lb ed="J" n="0003a19"/>是舊。進云。密密無蹤跡。相逢帶喜顏。師云閒言語。僧
+<lb ed="J" n="0003a20"/>禮拜。師乃云。爆竹一聲。蒼天兩字。艸木昆蟲全彰。意
+<lb ed="J" n="0003a21"/>氣柳眼。拖不價之金梅。梢吐不瑕之玉龍兒鳳子齊
+<lb ed="J" n="0003a22"/>歌舜德堯仁。癩狗泥豬同和祖風佛日。導群倩而越
+<lb ed="J" n="0003a23"/>死超生。普萬有而豐衣足食。大眾。正當恁麼時。還有
+<lb ed="J" n="0003a24"/>不威而嚴。無為而化者麼。良久云。東風吹出林間去。
+<lb ed="J" n="0003a25"/>引得遊蜂攘舊新。</p>
+<lb ed="J" n="0003a26"/><p xml:id="pJ26p0003a2601">元宵。上堂。師云。今朝正月十五。處處敲鑼擂鼓。將謂
+<lb ed="J" n="0003a27"/>移苦為樂。誰知翻樂為苦。一念此界他方。卻被風隔
+<lb ed="J" n="0003a28"/>雨阻。放出鐵鷂流星。打殺街頭石虎。引得彌勒呵呵。
+<lb ed="J" n="0003a29"/>笑到日輪當午。大眾且道他笑箇什麼。心生大懽喜。
+<lb ed="J" n="0003a30"/>自知作佛祖。</p>
+<pb ed="J" xml:id="J26.B177.0003b" n="0003b"/>
+<lb ed="J" n="0003b01"/><p xml:id="pJ26p0003b0101">解制。上堂。師云。東風解凍。百艸萌芽。行腳衲僧。似粟
+<lb ed="J" n="0003b02"/>如麻。拖泥帶水兮艸鞋獰似虎。溷俗和光兮拄杖活
+<lb ed="J" n="0003b03"/>如龍。向有佛處不可住。無佛處急走過。方稱英俊衲
+<lb ed="J" n="0003b04"/>家。切不可向萬里無寸艸處去。虛度生涯。大眾。且如
+<lb ed="J" n="0003b05"/>今日臨行慶賞一句。作麼生道。摘楊華。摘楊華。</p>
+<lb ed="J" n="0003b06"/><p xml:id="pJ26p0003b0601">浴佛。上堂。師云。山僧偶患腹瀉。撒屎不成屎橛。將此
+<lb ed="J" n="0003b07"/>塗污諸人。諸人鼻孔未徹。徹不徹。一條白棒當頭楔。
+<lb ed="J" n="0003b08"/>雖然如是。怎奈事無一向。今遇釋迦老子誕辰。不無
+<lb ed="J" n="0003b09"/>也要應箇時節。大眾且道。應時應節一句作麼生道
+<lb ed="J" n="0003b10"/>時。破浪在眾鼓掌作聲。師拈起拄杖。云。還要第二杓
+<lb ed="J" n="0003b11"/>惡水麼。卓一卓。下座。</p>
+<lb ed="J" n="0003b12"/><p xml:id="pJ26p0003b1201">丘檀越送銅鍋至。上堂。師云。存曾丘方伯不識好惡。
+<lb ed="J" n="0003b13"/>布施一口大鍋。要山僧煮鐵釘飯。炊木樝羹供養。盡
+<lb ed="J" n="0003b14"/>大地人箇箇咬嚼。山僧今日開此無遮大會。豈肯私
+<lb ed="J" n="0003b15"/>瞞。普欲是天是人。是僧是俗。受此食者盡教同福同
+<lb ed="J" n="0003b16"/>壽。同證同得。功超五果。行越三賢。未如是者。且向碗
+<lb ed="J" n="0003b17"/>底箸頭豁開兩眼。切莫瞌睡。將木樝羹。鐵釘飯。細細
+<lb ed="J" n="0003b18"/>咬嚼。看是什麼滋味。參。</p>
+<lb ed="J" n="0003b19"/><p xml:id="pJ26p0003b1901">金居士生日。請上堂。師云。時當毒熱渾如火。逼得通
+<lb ed="J" n="0003b20"/>身白汗流。只為諸人不肯薦。山僧特地一場愁。咄。愁
+<lb ed="J" n="0003b21"/>箇什麼。莫是衣不足身。食不足口麼。若是衣不足身。
+<lb ed="J" n="0003b22"/>不蠶而衣者有也。食不足口。不耕而食者有也。但世
+<lb ed="J" n="0003b23"/>間名利。富貴榮辱。種種亦復如是。何足致愁。單單只
+<lb ed="J" n="0003b24"/>愁生死交謝。寒暑迭遷。有物流動。捨死趣生。捨生趣
+<lb ed="J" n="0003b25"/>死。如旋火輪。無有休息。所以愁耳。今日幸我金居士
+<lb ed="J" n="0003b26"/>誕期。營齋供眾。強山僧舉揚箇事。然居士本意惟求
+<lb ed="J" n="0003b27"/>壽命比南山。福德如東海。不若將此馳求之心用在
+<lb ed="J" n="0003b28"/>生死際頭。求得生死二字脫然無累。方知壽命福德
+<lb ed="J" n="0003b29"/>盡未來際不曾增。盡未來際不曾減。盡未來際不曾
+<lb ed="J" n="0003b30"/>生。盡未來際不曾滅。淨裸裸絕承當。赤灑灑無回互。
+<pb ed="J" xml:id="J26.B177.0003c" n="0003c"/>
+<lb ed="J" n="0003c01"/>驀拈拄杖。卓一卓。云。還委悉麼。體取本來堅密身。永
+<lb ed="J" n="0003c02"/>證金剛無量壽。</p>
+<lb ed="J" n="0003c03"/><p xml:id="pJ26p0003c0301">上堂。師云。昨日盆傾大雨。今朝杲日麗天。帶累人衣
+<lb ed="J" n="0003c04"/>乍乾乍溼。哄得艸鞋增價增錢。忽地乾坤一色。宇宙
+<lb ed="J" n="0003c05"/>同源。為復是佛祖誕生。為復是神僊脫陰。問取拄杖
+<lb ed="J" n="0003c06"/>子。拄杖子道。是我敬雲施居士八十老母高陞壽域。
+<lb ed="J" n="0003c07"/>所以有如是無量無邊。不可說。不可說華藏莊嚴海。
+<lb ed="J" n="0003c08"/>一一流出。無量無邊。不可說。不可說福德智慧門。一
+<lb ed="J" n="0003c09"/>一含容。無量無邊。不可說。不可說壽命聚。一一聚中。
+<lb ed="J" n="0003c10"/>或現大身。或現小身。或現男形。或現女形。凡有所為。
+<lb ed="J" n="0003c11"/>悉皆現之。山僧聞已入是三昧。洞見十方。無障無礙。
+<lb ed="J" n="0003c12"/>驀拈拄杖。卓一卓。召大眾云。還見麼。眼窺海屋添籌
+<lb ed="J" n="0003c13"/>處。悟取中間不老人。</p>
+<lb ed="J" n="0003c14"/><p xml:id="pJ26p0003c1401"><g ref="#CB01323">𨍏</g>轢嚴居士送大悲菩薩進院。請上堂。嚴問。千僧拱
+<lb ed="J" n="0003c15"/>侍。法海波騰。風恬浪靜即不問。如何是興波作浪事。
+<lb ed="J" n="0003c16"/>師震威一喝。進云。今朝大士歸禪院。手眼憑師為點
+<lb ed="J" n="0003c17"/>明。師云。瞎。進云。轉大士為羅剎則易化。羅剎為大士
+<lb ed="J" n="0003c18"/>則難。非難非易一句。作速道來。師云。截斷葛藤。進云。
+<lb ed="J" n="0003c19"/>依然日午打三更。師豎拄杖。士拂袖歸眾。師乃云。福
+<lb ed="J" n="0003c20"/>城東際煙水漲。大塔廟前樓閣開。千手大悲捫不住。
+<lb ed="J" n="0003c21"/>無端放出善財來。大眾且道。善財來作甚麼。隨行蹋
+<lb ed="J" n="0003c22"/>斷流水聲。縱觀瀉出飛禽跡。</p>
+<lb ed="J" n="0003c23"/><p xml:id="pJ26p0003c2301">克彬禪人為師祖送靈骨入塔。請上堂。僧問。生滅去
+<lb ed="J" n="0003c24"/>來即不問。如何是密師安身處。師云。主山前。案山後。
+<lb ed="J" n="0003c25"/>僧禮拜。師乃云。一葉落。天下秋。一塵起。大地收。所以
+<lb ed="J" n="0003c26"/>道因緣和合。虛妄有生。因緣別離。虛妄名滅。殊不知
+<lb ed="J" n="0003c27"/>我密化上座性真常中。求于去來迷悟。生死涅槃。了
+<lb ed="J" n="0003c28"/>無所得。既無所得。且道伊即今在甚麼處安身立命。
+<lb ed="J" n="0003c29"/>驀拈拄杖。卓一卓。云。還委悉麼。不離當處常湛然。覓
+<lb ed="J" n="0003c30"/>則知君不可見。</p>
+<pb ed="J" xml:id="J26.B177.0004a" n="0004a"/>
+<lb ed="J" n="0004a01"/><p xml:id="pJ26p0004a0101">上堂。師云。秋風起。秋夜長。未歸客。思故鄉。阿誰是未
+<lb ed="J" n="0004a02"/>歸客。莫是三賢十聖是未歸客麼。西天四七。東土二
+<lb ed="J" n="0004a03"/>三是未歸客麼。今日現前大眾。若僧若俗是未歸客
+<lb ed="J" n="0004a04"/>麼。若然。歸者掉臂不顧。其或未然。且漫躊躕。切不可
+<lb ed="J" n="0004a05"/>終日塵勞汩汩。業識忙忙。蹉跎過日。急須緊繫芒鞋。
+<lb ed="J" n="0004a06"/>牢縛裙褲。慎勿思前算後。思後算前。中途懈退。必要
+<lb ed="J" n="0004a07"/>猛著精彩。驀直歸到故鄉田地。方始住腳。乃拈拄杖。
+<lb ed="J" n="0004a08"/>卓一卓。云。還有恁麼人麼。良久。云。來到寶山須採寶。
+<lb ed="J" n="0004a09"/>莫教赤手又空回。</p>
+<lb ed="J" n="0004a10"/><p xml:id="pJ26p0004a1001">受印開為僧上堂。師云。金鋤削盡千峰雪。露出天涯
+<lb ed="J" n="0004a11"/>星月孤。照得世間人廓徹。都來依樣畫葫蘆。大眾還
+<lb ed="J" n="0004a12"/>有依樣畫得者麼。有則不妨好手手中呈好手。紅心
+<lb ed="J" n="0004a13"/>心裏中紅心。其或未然。山僧自畫去也。以拄杖打圓
+<lb ed="J" n="0004a14"/>相於中。擲地云。層落落。影團團。千古萬古與人看。</p>
+<lb ed="J" n="0004a15"/><p xml:id="pJ26p0004a1501">開爐。上堂。師云。盡空盡界惡爐鞴。人與非人俱在內。
+<lb ed="J" n="0004a16"/>烈火猛煙恆熾然。鍛生煉死渾無礙。放行則瓦礫生
+<lb ed="J" n="0004a17"/>光。把住則黃金失色。正當此際。三緣未就。二俱不了。
+<lb ed="J" n="0004a18"/>檀那添煤添炭與之助力。山僧扇風扇火與之激揚。
+<lb ed="J" n="0004a19"/>大眾還有當爐不避者麼。出來與山僧拄杖子相見。
+<lb ed="J" n="0004a20"/>卓一卓。云。有麼。有麼。一僧不出眾連喝兩喝。師云。焦
+<lb ed="J" n="0004a21"/>頭爛額。似粟如麻。</p>
+<lb ed="J" n="0004a22"/><p xml:id="pJ26p0004a2201">佛成道日。上堂。問。當時雲門為甚麼要打殺釋迦老
+<lb ed="J" n="0004a23"/>子與狗子喫。師云。智眼難容俗漢。進云。倘有人打和
+<lb ed="J" n="0004a24"/>尚又作麼生。師和聲便打。進云者一棒是打雲門是
+<lb ed="J" n="0004a25"/>打某甲。師云任你卜度。僧喝一喝。師復打。僧禮拜。師
+<lb ed="J" n="0004a26"/>乃云。昨夜釋迦老子打翻漆桶。帶累多少人頭破腦
+<lb ed="J" n="0004a27"/>裂。今日山僧忍俊不禁也。只好是看孔著楔。拈拄杖
+<lb ed="J" n="0004a28"/>向空畫此<g ref="#CB15469">󳱭</g>。云。會麼。於此會得。說什麼麻三斤。乾屎
+<lb ed="J" n="0004a29"/>橛。要休便休。要歇便歇。所以道無邊剎海。自他不隔
+<lb ed="J" n="0004a30"/>於毫端。十世古今。始終不離於當念。其或未然。更聽
+<pb ed="J" xml:id="J26.B177.0004b" n="0004b"/>
+<lb ed="J" n="0004b01"/>山僧曲引旁通去也。復舉世尊初出母胎。一手指天。
+<lb ed="J" n="0004b02"/>一手指地。云。天上天下。惟吾獨尊。及至雪山苦行六
+<lb ed="J" n="0004b03"/>年。睹星悟道。亦云。盡大地眾生。一時成佛了也。據山
+<lb ed="J" n="0004b04"/>僧判斷。世尊一口兩舌。處處惹人情見。引得雲門大
+<lb ed="J" n="0004b05"/>師道。我當時若見。一棒打殺與狗子喫。貴圖天下太
+<lb ed="J" n="0004b06"/>平。然雲門大師只解騎虎頭。不解捉虎尾。遞相鈍置。
+<lb ed="J" n="0004b07"/>山僧當時若聞此語。只消掩耳而出。何也。佛之一字
+<lb ed="J" n="0004b08"/>吾不喜聞。喝一喝。卓拄杖。下座。</p>
+<lb ed="J" n="0004b09"/><p xml:id="pJ26p0004b0901">上堂。師云。柴米油鹽事事空。客來無計可融通。山僧
+<lb ed="J" n="0004b10"/>昨夜動饑火。燒得須彌走芥中。大眾還救取得麼。試
+<lb ed="J" n="0004b11"/>救取看。時象崖維那舞坐具。云。和尚會麼。喝一喝。便
+<lb ed="J" n="0004b12"/>出。師云。只好救取一半。然那一半還須山僧自救取。
+<lb ed="J" n="0004b13"/>何故。輸得自<anchor xml:id="beg_9" type="cb-app"/>己<anchor xml:id="end_9"/>。贏得他人。</p>
+<lb ed="J" n="0004b14"/><p xml:id="pJ26p0004b1401">歲旦。上堂。僧問。黃道初開。彩雲彌布。如何是新年頭
+<lb ed="J" n="0004b15"/>佛法。師云。恰好。進云。和尚還有為人處也無。師云。有。
+<lb ed="J" n="0004b16"/>僧喝一喝。師正色噓一聲。問。天雨寶華。空現寶色。地
+<lb ed="J" n="0004b17"/>隱山河。芥含塵剎。如何是芥含塵剎句。師驀頭一棒。
+<lb ed="J" n="0004b18"/>僧喝一喝。師又打。僧連喝。師連打。云。胡喝亂喝作麼。
+<lb ed="J" n="0004b19"/>僧禮拜。師云。掠虛漢。問。新<anchor xml:id="beg_a" type="cb-app"/>年<anchor xml:id="end_a"/>原是舊<anchor xml:id="beg_b" type="cb-app"/>年<anchor xml:id="end_b"/>人。如何是新
+<lb ed="J" n="0004b20"/><anchor xml:id="beg_c" type="cb-app"/>年<anchor xml:id="end_c"/>人。師云。搽胭抹粉。進云。如何是舊<anchor xml:id="beg_d" type="cb-app"/>年<anchor xml:id="end_d"/>人。師云。灰頭
+<lb ed="J" n="0004b21"/>土面。進云。新舊相去幾何。師云。看取上頭註腳。問。舊
+<lb ed="J" n="0004b22"/>歲已去。新歲到來。新舊二歲了然不涉時。如何。師以
+<lb ed="J" n="0004b23"/>手向面摸兩摸。云。會麼。進云。也要和尚相委悉。師云。
+<lb ed="J" n="0004b24"/>為汝兩次不薦。委悉箇甚麼。問。舊歲新年即不問。如
+<lb ed="J" n="0004b25"/>何是春到梅華撲鼻香。師云。你鼻孔為什麼被他換
+<lb ed="J" n="0004b26"/>卻。進云。還在。師云。在什麼處。僧喝。師打。云。且道是賞
+<lb ed="J" n="0004b27"/>你。是罰你。僧無語。師乃云。今朝新年頭。昨日舊年尾。
+<lb ed="J" n="0004b28"/>頭尾與舊新。總較者些子。遂呈拄杖云。大眾且道者
+<lb ed="J" n="0004b29"/>些子又作麼生較。良久。以拄杖擲地。云。從今拋擲在
+<lb ed="J" n="0004b30"/>春風。一任華開與華落。</p>
+<pb ed="J" xml:id="J26.B177.0004c" n="0004c"/>
+<lb ed="J" n="0004c01"/><p xml:id="pJ26p0004c0101">師誕日。上堂。問。清白池前蒼古柏。拈得彌盧作壽山。
+<lb ed="J" n="0004c02"/>今日拈來。和尚如何受用。師云。子丑寅卯辰<anchor xml:id="beg_e" type="cb-app"/>巳<anchor xml:id="end_e"/>午。甲
+<lb ed="J" n="0004c03"/>乙丙丁莫莽鹵。僧禮拜。師乃云。三十五前一著子。本
+<lb ed="J" n="0004c04"/>無生也本無死。釋迦狼籍雪山頭。彌勒收歸布袋裏。
+<lb ed="J" n="0004c05"/>驀拈拄杖。云。今日落在山僧手裏。逢人切莫錯舉。</p>
+<lb ed="J" n="0004c06"/><p xml:id="pJ26p0004c0601">師剃髮上堂。云。山僧昨日髮髼鬆。誰料今朝頭顱禿。
+<lb ed="J" n="0004c07"/>箇事分明本現成。大都只是人輕忽。不輕忽。咄。咄。咄。
+<lb ed="J" n="0004c08"/>六六原來三十六。卓拄杖。下座。</p>
+<lb ed="J" n="0004c09"/><p xml:id="pJ26p0004c0901">浴佛。上堂。師云。問底也問四月八。荅底也荅四月八。
+<lb ed="J" n="0004c10"/>兩兩三三沒傝<g ref="#CB21202">𠎷</g>。都盧只逞口頭滑。引得釋迦老子
+<lb ed="J" n="0004c11"/>一時惡發。指天指地獨尊<anchor xml:id="beg_f" type="cb-app"/>己<anchor xml:id="end_f"/>大。卻被雲門一棒要打
+<lb ed="J" n="0004c12"/>殺。撞著琅琊道箇將此深心奉塵剎。今日山僧不解。
+<lb ed="J" n="0004c13"/>明中抽橫骨。暗中坐舌頭。只好輕輕道箇。活驚殺。活
+<lb ed="J" n="0004c14"/>笑殺。大眾且道。驚箇什麼。笑箇什麼。試簡點看。簡點
+<lb ed="J" n="0004c15"/>得出。強中更有強中手。惡人還有惡人磨。</p>
+<lb ed="J" n="0004c16"/><p xml:id="pJ26p0004c1601">上堂。僧問。海乾日出時如何。師便打。僧喝。師又打。僧
+<lb ed="J" n="0004c17"/>又喝。師云。三喝四喝後如何。僧無語。師云。掠虛漢。僧
+<lb ed="J" n="0004c18"/>禮拜。師乃云。古佛與露柱相交。逢人且說三分話。金
+<lb ed="J" n="0004c19"/>剛與泥人揩背。未可全拋一片心。正恁麼時。是誰境
+<lb ed="J" n="0004c20"/>界。靠拄杖云。默默自知田地穩。騰騰誰謂肚皮憨。復
+<lb ed="J" n="0004c21"/>舉東印土國王請齋。一眾俱誦經。惟二十七祖般若
+<lb ed="J" n="0004c22"/>多羅尊者默默晏坐。王問尊者。何不誦經。者曰。貧道
+<lb ed="J" n="0004c23"/>入息不居陰界。出息不涉眾緣。常轉如是經。百千萬
+<lb ed="J" n="0004c24"/>億卷。山僧看來。本是一卷不斷頭經。卻被尊者話為
+<lb ed="J" n="0004c25"/>兩段。致使無人信受奉行。今日我翼乾沈大檀越來
+<lb ed="J" n="0004c26"/>山。請陞座。山僧自忖口門窄。盡力道不出箇元字腳。
+<lb ed="J" n="0004c27"/>只好將遠祖者卷不斷頭經拈向人天眾前。下箇註
+<lb ed="J" n="0004c28"/>腳。以拄杖卓一卓。云。還會麼。下文繁長。付在來日。</p>
+<lb ed="J" n="0004c29"/><p xml:id="pJ26p0004c2901">上堂。師云。六月炎天傾大雨。聲聲<g ref="#CB01403">㘞</g>地啟無生。洞知
+<lb ed="J" n="0004c30"/>五十<anchor xml:id="beg_10" type="cb-app"/>年<anchor xml:id="end_10"/>前事。滿目飛埃不是塵。如是。則截瓊枝而寸
+<pb ed="J" xml:id="J26.B177.0005a" n="0005a"/>
+<lb ed="J" n="0005a01"/>寸是玉。析旃檀而片片皆香。其體也奚四山之可恃。
+<lb ed="J" n="0005a02"/>其用也非五色之能媒。正恁麼時。不涉體用一句作
+<lb ed="J" n="0005a03"/>麼生道。卓拄杖。云。有時扶過斷橋水。依舊伴歸明月
+<lb ed="J" n="0005a04"/>村。復卓拄杖。下座。</p>
+<lb ed="J" n="0005a05"/><p xml:id="pJ26p0005a0501">解夏。上堂。師云。休夏自恣。千古同規。諸佛懽喜。眾生
+<lb ed="J" n="0005a06"/>皺眉。喜者甚喜。悲者甚悲。以拄杖卓一卓。云。惟我木
+<lb ed="J" n="0005a07"/>上座迥出悲喜之外。終日閒閒。倚墻靠壁。今日卻被
+<lb ed="J" n="0005a08"/>山僧握在手中。收之則撐天拄地。放之則七縱八橫。
+<lb ed="J" n="0005a09"/>發大機。顯大用。佛來也與一頓。魔來也與一頓。現前
+<lb ed="J" n="0005a10"/>若僧若俗。若男若女來也與一頓。過去七世父母。歷
+<lb ed="J" n="0005a11"/>劫宗親。有主無主。乃貴乃賤來也與一頓。復卓拄杖
+<lb ed="J" n="0005a12"/>三下。云。大眾且道山僧何故如此聻。只因聖制告圓。
+<lb ed="J" n="0005a13"/>大家做箇滿散。喝一喝。下座。</p>
+<lb ed="J" n="0005a14"/><p xml:id="pJ26p0005a1401">地藏菩薩誕日。上堂。師豎拄杖。云。大眾。見麼。有眼必
+<lb ed="J" n="0005a15"/>見。卓一卓。云。聞麼。有耳必聞。如是聞見分明。所以山
+<lb ed="J" n="0005a16"/>僧陞座為汝諸人證據。且道聞箇什麼。見箇什麼。莫
+<lb ed="J" n="0005a17"/>是地藏菩薩捨其尊貴而降卑小。為汝四眾發大誓
+<lb ed="J" n="0005a18"/>云。眾生度盡。方證菩提。地獄未空。誓不成佛麼。雖然
+<lb ed="J" n="0005a19"/>汗馬功高。要且不是衲僧巴鼻。以拄杖敲香几。云。不
+<lb ed="J" n="0005a20"/>若山僧今日更為諸人翻案去也。眾生度盡。不證菩
+<lb ed="J" n="0005a21"/>提。地獄<anchor xml:id="beg_11" type="cb-app"/>已<anchor xml:id="end_11"/>空。誓不成佛。山僧恁麼告報。還知落處麼。
+<lb ed="J" n="0005a22"/>卓拄杖。下座。</p>
+<lb ed="J" n="0005a23"/><p xml:id="pJ26p0005a2301">孫起伯建大悲閣。請上堂。師云。山僧住此二三秋。拄
+<lb ed="J" n="0005a24"/>杖芒鞋未徹頭。千手大悲來摸索。一莖艸上現瓊樓。
+<lb ed="J" n="0005a25"/>如是則塵塵垂手。<anchor xml:id="beg_12" type="cb-app"/>剎<anchor xml:id="end_12"/>剎現身。垂一手則千手萬手俱
+<lb ed="J" n="0005a26"/>備。舒一目則千目萬目皆然。其慈也與三世諸佛同。
+<lb ed="J" n="0005a27"/>其悲也與一切眾生共。玉殿瓊樓。因念而感。雲路丹
+<lb ed="J" n="0005a28"/>霄。隨心而至。時<g ref="#CB01323">𨍏</g>轢居士問。古殿藏僧棒。巍樓顯法
+<lb ed="J" n="0005a29"/>幢。法幢今大顯。棒頭旨未明。請師垂慈。傍通一線。師
+<lb ed="J" n="0005a30"/>驀頭打一棒。云。棒頭有眼。進云。謝師指示。師云。血滴
+<pb ed="J" xml:id="J26.B177.0005b" n="0005b"/>
+<lb ed="J" n="0005b01"/>滴地。卓拄杖。下座。</p>
+<lb ed="J" n="0005b02"/><p xml:id="pJ26p0005b0201">結制。上堂。師驀拈拄杖。卓一卓。喝一喝。云。會麼。若也
+<lb ed="J" n="0005b03"/>會得。便知結制從此結。解制從此解。結解本同源。桑
+<lb ed="J" n="0005b04"/>田變滄海。其或未然。更聽山僧為汝諸人說偈註破。
+<lb ed="J" n="0005b05"/>福城結制三冬。惟有今<anchor xml:id="beg_13" type="cb-app"/>年<anchor xml:id="end_13"/>最兇。捉敗五湖衲子。兼收
+<lb ed="J" n="0005b06"/>四海獰龍。佛祖尚未預數。人天豈立上風。會得棒頭
+<lb ed="J" n="0005b07"/>喝下。管教及第心空。喝一喝。卓拄杖。下座。</p>
+<lb ed="J" n="0005b08"/><p xml:id="pJ26p0005b0801">淨心禪人為師祖覺然入塔。請上堂。僧問。昨夜紫霞
+<lb ed="J" n="0005b09"/>朝北闕。今朝瑞氣向南開。且道靈骨入塔是何作用。
+<lb ed="J" n="0005b10"/>師云。魚行水濁。鳥飛毛落。問諸行無常即不問。覺公
+<lb ed="J" n="0005b11"/>去後歸何處。師云。東西不管。南北不收。進云。死去生
+<lb ed="J" n="0005b12"/>來。不依本分。過在甚麼處。師云。腳跟下好與三十棒。
+<lb ed="J" n="0005b13"/>僧禮拜。師乃云。颯颯腥風撲面來。肩頭酸處<unclear></unclear>難開。
+<lb ed="J" n="0005b14"/>分明一具黃金骨。東擲西拋經幾回。莫是一為無量。
+<lb ed="J" n="0005b15"/>無量為一得麼。且喜沒交涉。莫是小中現大。大中現
+<lb ed="J" n="0005b16"/>小。得麼。且喜沒交涉。莫是菩提涅槃。真如佛性。得麼。
+<lb ed="J" n="0005b17"/>且喜沒交涉。莫是山河大地。明暗塞空。得麼。且喜沒
+<lb ed="J" n="0005b18"/>交涉。莫是四大本空。五蘊非有。得麼。且喜沒交涉。既
+<lb ed="J" n="0005b19"/>然未得。且道作麼生是覺然上座底黃金骨。喝一喝。
+<lb ed="J" n="0005b20"/>云。百骸俱潰散。一物鎮長靈。</p>
+<lb ed="J" n="0005b21"/><p xml:id="pJ26p0005b2101">上堂。僧問。虛空無背面。八面絕玲瓏向什麼處安身
+<lb ed="J" n="0005b22"/>立命。師云。懷州牛喫禾。益州馬腹脹。問。衲僧共住學
+<lb ed="J" n="0005b23"/>無為。誰是心空及第者。師便打。僧喝一喝。師復打。僧
+<lb ed="J" n="0005b24"/>連喝。師連打。僧禮拜。師乃云。十五日已前為人膿滴
+<lb ed="J" n="0005b25"/>滴地。十五日已後為人血滴滴地。正當十五日為人
+<lb ed="J" n="0005b26"/>乾暴暴地。朝打三千。暮打八百。畢竟落處如何。黃狗
+<lb ed="J" n="0005b27"/>喫食。黑狗遭殃。</p>
+<lb ed="J" n="0005b28"/><p xml:id="pJ26p0005b2801">清白知客為受業師覺凡入塔。請上堂。師云。纖塵不
+<lb ed="J" n="0005b29"/>染。淨裸裸地絕承當。寸絲不挂。赤條條地無回互。所
+<lb ed="J" n="0005b30"/>以道和合妄生。和合妄死。既生死都盧是妄。安有罣
+<pb ed="J" xml:id="J26.B177.0005c" n="0005c"/>
+<lb ed="J" n="0005c01"/>礙染污而著其間哉。今辰覺凡定公數門人請山僧
+<lb ed="J" n="0005c02"/>為伊陞座。露布葛藤。翻是無罣礙處立罣礙。無染污
+<lb ed="J" n="0005c03"/>處成染污矣。何故。我王庫內無如是刀。大眾。且頓超
+<lb ed="J" n="0005c04"/>一句作麼生道。南北東西收不得。天堂地獄孰能該。</p>
+<lb ed="J" n="0005c05"/><p xml:id="pJ26p0005c0501">佛成道。解制。上堂。師云。一點明星<anchor xml:id="beg_14" type="cb-app"/>刺<anchor xml:id="end_14"/>眼開。輝天鑑地
+<lb ed="J" n="0005c06"/>嘆奇哉。當時想是無禪客。若有和聲打落腮。大眾且
+<lb ed="J" n="0005c07"/>道。釋迦老子有什麼過要和聲打落腮。試簡點看。若
+<lb ed="J" n="0005c08"/>簡點得出。不枉在者裏朝參暮請之勤。長期短限之
+<lb ed="J" n="0005c09"/>逼。其或未然。連山僧龜毛拂兔角杖只好擲向福城
+<lb ed="J" n="0005c10"/>東際又東際去。何也。為眾竭力。禍出私門。擲杖。下座。</p>
+<lb ed="J" n="0005c11"/><p xml:id="pJ26p0005c1101">師誕日。上堂。僧問。世尊生時指天指地。和尚生時有
+<lb ed="J" n="0005c12"/>何祥瑞。師云。七縱八橫。進云。慶賞一句又作麼生道。
+<lb ed="J" n="0005c13"/>師便打。僧撫掌呵呵。云。別有曇華一朵新。便拜。師云。
+<lb ed="J" n="0005c14"/>莫眼華。問。三十六<anchor xml:id="beg_15" type="cb-app"/>年<anchor xml:id="end_15"/>前行棒行喝。三十六<anchor xml:id="beg_16" type="cb-app"/>年<anchor xml:id="end_16"/>後度人
+<lb ed="J" n="0005c15"/>已畢。正當三十六<anchor xml:id="beg_17" type="cb-app"/>年<anchor xml:id="end_17"/>。以何為人。師便驀頭一棒。僧喝。
+<lb ed="J" n="0005c16"/>師連打兩棒。僧禮拜。師乃云。山僧久不陞座。想是舌
+<lb ed="J" n="0005c17"/>頭爛卻。四眾與吾慶生。震威痛下一喝。乃喝一喝。云。
+<lb ed="J" n="0005c18"/>大眾且道者一喝落在什麼處。時四維上座以兩手
+<lb ed="J" n="0005c19"/>掩耳。師復喝兩喝。下座。</p>
+<lb ed="J" n="0005c20"/><p xml:id="pJ26p0005c2001">結夏。上堂。師云。東塔今<anchor xml:id="beg_18" type="cb-app"/>年<anchor xml:id="end_18"/>結夏。老牛老馬歸舍。雖無
+<lb ed="J" n="0005c21"/>水艸供看。且有鞭繩惡辣。未審眾中還有擎頭戴角
+<lb ed="J" n="0005c22"/>者麼。試出來<g ref="#CB01387">𨁝</g>跳看。時象崖西堂以兩手作擎空勢。
+<lb ed="J" n="0005c23"/>師云。且喜出來。相共拖犁拽耙。下座。</p>
+<lb ed="J" n="0005c24"/><p xml:id="pJ26p0005c2401">解夏。上堂。師云。今朝七月十五。處處追宗薦祖。山僧
+<lb ed="J" n="0005c25"/>總不恁麼。單牧一頭水牯。所謂法無定相。隨遇即宗。
+<lb ed="J" n="0005c26"/>以一事明則千差萬別無不明。以一理契則萬別千
+<lb ed="J" n="0005c27"/>差無不契。然而事也理也。無不從此法界流出。究竟
+<lb ed="J" n="0005c28"/>還歸此法界。所以道實際理地不受一塵。佛事門頭
+<lb ed="J" n="0005c29"/>不捨一法。大眾。正與麼時。德山棒。臨濟喝。麻三斤。乾
+<lb ed="J" n="0005c30"/>屎橛。庭前柏樹子。青州布衫重七斤。還當得鬼神茶
+<pb ed="J" xml:id="J26.B177.0006a" n="0006a"/>
+<lb ed="J" n="0006a01"/>飯麼。還當得本分艸料麼。試辯別看。若辯別得出。一
+<lb ed="J" n="0006a02"/>任擎頭戴角。宇宙縱橫。其或未然。莫將學解生知解。
+<lb ed="J" n="0006a03"/>剔起眉毛子細看。</p>
+<lb ed="J" n="0006a04"/><p xml:id="pJ26p0006a0401">辭院。上堂。師云。山僧肚裏亂如麻。伎倆無能盡爪牙。
+<lb ed="J" n="0006a05"/>千日禪期今日畢。杖頭卓處活龍蛇。遂卓一卓云。還
+<lb ed="J" n="0006a06"/>有現躍飛騰者麼。眾無出。師以拄杖橫眉云。楖栗橫
+<lb ed="J" n="0006a07"/>擔不顧人。直入千峰萬峰去。</p></cb:div>
+<lb ed="J" n="0006a08"/><cb:juan fun="close" n="1"><cb:jhead>破山禪師語錄卷第一</cb:jhead></cb:juan>
+<lb ed="J" n="0006a09"/><cb:div type="w"><p xml:id="pJ26p0006a0901" rend="margin-left:0em;text-indent:1em"><note place="inline">嗣法門人蜀渝州治平寺照衣敬刻
+<lb ed="J" n="0006a10" type="honorific"/>破山和尚語錄第一卷　玉陽堆藍弘禮禪人對
+<lb ed="J" n="0006a11"/>　秀水謝禎仙書　嘉興倪天章刊</note></p>
+<lb ed="J" n="0006a12"/><p xml:id="pJ26p0006a1201"><note place="inline">康熙庚申歲孟春月嘉禾楞嚴寺般若坊藏板</note></p></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_1" cb:to="#end_1"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2" cb:to="#end_2"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_3" cb:to="#end_3"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4" cb:to="#end_4"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5" cb:to="#end_5"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6" cb:to="#end_6"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7" cb:to="#end_7"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8" cb:to="#end_8"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_9" cb:to="#end_9"><corr>己</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_a" cb:to="#end_a"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_b" cb:to="#end_b"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c" cb:to="#end_c"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_d" cb:to="#end_d"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_e" cb:to="#end_e"><corr>巳</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_f" cb:to="#end_f"><corr>己</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_10" cb:to="#end_10"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_11" cb:to="#end_11"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_12" cb:to="#end_12"><corr>剎</corr><sic>利</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13" cb:to="#end_13"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14" cb:to="#end_14"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_15" cb:to="#end_15"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_16" cb:to="#end_16"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_17" cb:to="#end_17"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_18" cb:to="#end_18"><corr>年</corr><sic><g ref="#CB21166">󵊮</g></sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

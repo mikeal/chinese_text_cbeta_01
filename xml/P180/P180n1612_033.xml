@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="P180n1612">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Northern Yongle Edition of the Canon, Electronic version, No. 1612 諸佛世尊如來菩薩尊者名稱歌曲(第19卷-第50卷)</title>
+			<author>明 太宗朱棣制</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.7 $<date>$Date: 2012/07/06 03:47:32 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>32卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/07/06 03:47:32 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Northern Yongle Edition of the Canon Vol. 180, No. 1612 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB01900">
+	<charName>CBETA CHARACTER CB01900</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[悚*頁]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>懶</value>
+	</charProp>
+	<mapping type="normal_unicode">U+61F6</mapping>
+	<mapping cb:dec="984940" type="PUA">U+F076C</mapping>
+</char>
+<char xml:id="CB02133">
+	<charName>CBETA CHARACTER CB02133</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[糸*系]</value>
+	</charProp>
+	<mapping cb:dec="985173" type="PUA">U+F0855</mapping>
+</char>
+<char xml:id="CB02455">
+	<charName>CBETA CHARACTER CB02455</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[卓*戈]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>戟</value>
+	</charProp>
+	<mapping type="unicode">U+39B8</mapping>
+	<mapping cb:dec="985495" type="PUA">U+F0997</mapping>
+</char>
+<char xml:id="CB08729">
+	<charName>CBETA CHARACTER CB08729</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[穴/匆/心]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>窗</value>
+	</charProp>
+	<mapping type="unicode">U+41AB</mapping>
+	<mapping cb:dec="991769" type="PUA">U+F2219</mapping>
+</char>
+<char xml:id="CB11894">
+	<charName>CBETA CHARACTER CB11894</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[瓜-、]</value>
+	</charProp>
+	<mapping type="unicode">U+244F0</mapping>
+	<mapping cb:dec="994934" type="PUA">U+F2E76</mapping>
+</char>
+<char xml:id="CB14502">
+	<charName>CBETA CHARACTER CB14502</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[罅-山+止]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>罅</value>
+	</charProp>
+	<mapping type="unicode">U+26251</mapping>
+	<mapping cb:dec="997542" type="PUA">U+F38A6</mapping>
+</char>
+<char xml:id="CB15072">
+	<charName>CBETA CHARACTER CB15072</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[托-七+友]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>拔</value>
+	</charProp>
+	<mapping type="normal_unicode">U+39DE</mapping>
+	<mapping cb:dec="998112" type="PUA">U+F3AE0</mapping>
+</char>
+<char xml:id="CB15656">
+	<charName>CBETA CHARACTER CB15656</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[阿-可+舀]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>陷</value>
+	</charProp>
+	<mapping type="unicode">U+49DF</mapping>
+	<mapping cb:dec="998696" type="PUA">U+F3D28</mapping>
+</char>
+<char xml:id="CB21113">
+	<charName>CBETA CHARACTER CB21113</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[泳-永+(瓜-、)]</value>
+	</charProp>
+	<mapping type="unicode">U+23C96</mapping>
+	<mapping cb:dec="1004153" type="PUA">U+F5279</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-09-13T11:40:04">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">弘利益之曲四</cb:mulu>
+<pb ed="P" xml:id="P180.1612.0373a" n="0373a"/>
+<lb ed="P" n="0373a01"/><milestone unit="juan" n="33"/><cb:mulu type="卷" n="33"></cb:mulu><cb:juan fun="open" n="33"><cb:jhead>諸佛世尊如來菩薩尊者名稱歌曲卷第三
+<lb ed="P" n="0373a02"/>十三　　　　　　　　　　　　　田三</cb:jhead></cb:juan>
+<lb ed="P" n="0373a03"/><cb:div type="other"><cb:mulu type="其他" level="1">弘利益之曲五</cb:mulu><head>弘利益之曲<anchor xml:id="beg_bb" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_bb"/></head>
+<lb ed="P" n="0373a04"/><lg xml:id="lgP180p0373a0401" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0373a05"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0373a06"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0373a07"/><p cb:type="head3" xml:id="pP180p0373a0701">又</p>
+<lb ed="P" n="0373a08"/><lg xml:id="lgP180p0373a0801" type="abnormal"><l rend="text-indent:0em">佛如來。也不須妄取過去法。也不須究竟未
+<lb ed="P" n="0373a09"/>來因。從今只道現前有所住。從今只道現前
+<lb ed="P" n="0373a10"/>有所住。佛如來。了達三世空寂無根也。諸佛
+<pb ed="P" xml:id="P180.1612.0373b" n="0373b"/>
+<lb ed="P" n="0373b01"/>如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛如
+<lb ed="P" n="0373b02"/>來。</l></lg>
+<lb ed="P" n="0373b03"/><p cb:type="head3" xml:id="pP180p0373b0301">又</p>
+<lb ed="P" n="0373b04"/><lg xml:id="lgP180p0373b0401" type="abnormal"><l rend="text-indent:0em">佛如來。心非妙悟莫能知。悟非情盡了何期。
+<lb ed="P" n="0373b05"/>誰道情非工夫莫忘却佛如來。那工夫非正
+<lb ed="P" n="0373b06"/>信孰能窺也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永
+<lb ed="P" n="0373b07"/>流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0373b08"/><p cb:type="head3" xml:id="pP180p0373b0801">又</p>
+<lb ed="P" n="0373b09"/><lg xml:id="lgP180p0373b0901" type="abnormal"><l rend="text-indent:0em">佛如來。誰道十方世界是那解脫門。無有一
+<lb ed="P" n="0373b10"/>法障礙自然物物上顯頭頭上明。進退皆合
+<pb ed="P" xml:id="P180.1612.0374a" n="0374a"/>
+<lb ed="P" n="0374a01"/>轍。左右自逢源。佛如來。不假安排一一成現
+<lb ed="P" n="0374a02"/>也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如如
+<lb ed="P" n="0374a03"/>諸佛如來。</l></lg>
+<lb ed="P" n="0374a04"/><p cb:type="head3" xml:id="pP180p0374a0401">又</p>
+<lb ed="P" n="0374a05"/><lg xml:id="lgP180p0374a0501" type="abnormal"><l rend="text-indent:0em">佛如來。只道人身難得佛法難逢。佛如來。只
+<lb ed="P" n="0374a06"/>道人身難得佛法難逢。佛如來。此身不向今
+<lb ed="P" n="0374a07"/>生度更向何生度此身也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0374a08"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0374a09"/><p cb:type="head3" xml:id="pP180p0374a0901">又</p>
+<lb ed="P" n="0374a10"/><lg xml:id="lgP180p0374a1001" type="abnormal"><l rend="text-indent:0em">佛如來。法身無着等空虛。竪起無方橫莫拘。
+<pb ed="P" xml:id="P180.1612.0374b" n="0374b"/>
+<lb ed="P" n="0374b01"/>從此包括天地彌綸周八極。隨緣赴感普徧
+<lb ed="P" n="0374b02"/>妙如如。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛
+<lb ed="P" n="0374b03"/>如來。</l></lg>
+<lb ed="P" n="0374b04"/><p cb:type="head2" xml:id="pP180p0374b0401">又弘利益之曲<anchor xml:id="beg_bc" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_bc"/></p>
+<lb ed="P" n="0374b05"/><lg xml:id="lgP180p0374b0501" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0374b06"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0374b07"/>法。天地間永流通。菩薩諸佛菩薩。</l></lg>
+<lb ed="P" n="0374b08"/><p cb:type="head3" xml:id="pP180p0374b0801">又</p>
+<lb ed="P" n="0374b09"/><lg xml:id="lgP180p0374b0901" type="abnormal"><l rend="text-indent:0em">佛菩薩。那百千諸佛但聞名。那國土何曾不
+<lb ed="P" n="0374b10"/>現成。自是不歸歸便得。自是不歸歸便得。佛
+<pb ed="P" xml:id="P180.1612.0375a" n="0375a"/>
+<lb ed="P" n="0375a01"/>菩薩。五湖風景有誰爭也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0375a02"/>法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0375a03"/><p cb:type="head3" xml:id="pP180p0375a0301">又</p>
+<lb ed="P" n="0375a04"/><lg xml:id="lgP180p0375a0401" type="abnormal"><l rend="text-indent:0em">佛菩薩。萬丈龍門勢倚空。懸崖撒手辯魚龍
+<lb ed="P" n="0375a05"/>時人舉眼只看<g ref="#CB02133">󰡕</g>綸上。佛菩薩。那時節不見
+<lb ed="P" n="0375a06"/>蘆花對蓼紅也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間
+<lb ed="P" n="0375a07"/>永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0375a08"/><p cb:type="head3" xml:id="pP180p0375a0801">又</p>
+<lb ed="P" n="0375a09"/><lg xml:id="lgP180p0375a0901" type="abnormal"><l rend="text-indent:0em">佛菩薩。正是光明寂照遍河沙凡聖含靈共
+<lb ed="P" n="0375a10"/>一家。真箇是一念不生全體現六根纔動被
+<pb ed="P" xml:id="P180.1612.0375b" n="0375b"/>
+<lb ed="P" n="0375b01"/>雲遮。斷除煩惱病趣向莫非邪。佛菩薩。隨順
+<lb ed="P" n="0375b02"/>世緣無掛礙涅槃生死是空華也。諸佛菩薩。</l>
+<lb ed="P" n="0375b03"/><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0375b04"/><p cb:type="head3" xml:id="pP180p0375b0401">又</p>
+<lb ed="P" n="0375b05"/><lg xml:id="lgP180p0375b0501" type="abnormal"><l rend="text-indent:0em">佛菩薩。誰道因七見一見一忘七。佛菩薩。誰
+<lb ed="P" n="0375b06"/>道月在中央天無四壁。佛菩薩。十方世界滅
+<lb ed="P" n="0375b07"/>空蹤通身是口說不出也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0375b08"/>法。天地間永流通。菩薩諸佛菩薩。</l></lg>
+<lb ed="P" n="0375b09"/><p cb:type="head3" xml:id="pP180p0375b0901">又</p>
+<lb ed="P" n="0375b10"/><lg xml:id="lgP180p0375b1001" type="abnormal"><l rend="text-indent:0em">佛菩薩。千峯勢到嶽邊止。萬<g ref="#CB21113">𣲖</g>流歸海上融。
+<pb ed="P" xml:id="P180.1612.0376a" n="0376a"/>
+<lb ed="P" n="0376a01"/>誰道。易中嶮峻斷處續無窮。好看風行草偃
+<lb ed="P" n="0376a02"/>水到便渠通。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。
+<lb ed="P" n="0376a03"/>諸佛菩薩。</l></lg>
+<lb ed="P" n="0376a04"/><p cb:type="head2" xml:id="pP180p0376a0401">又弘利益之曲<anchor xml:id="beg_bd" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_bd"/></p>
+<lb ed="P" n="0376a05"/><lg xml:id="lgP180p0376a0501" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0376a06"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0376a07"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0376a08"/><p cb:type="head3" xml:id="pP180p0376a0801">又</p>
+<lb ed="P" n="0376a09"/><lg xml:id="lgP180p0376a0901" type="abnormal"><l rend="text-indent:0em">佛如來。竪窮三際橫亘十邊。理事圓融性相
+<lb ed="P" n="0376a10"/>平等。山川草木重重彰顯。山川草木重重彰
+<pb ed="P" xml:id="P180.1612.0376b" n="0376b"/>
+<lb ed="P" n="0376b01"/>顯。佛如來。宮殿樓閣處處莊嚴也。諸佛如來。</l>
+<lb ed="P" n="0376b02"/><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0376b03"/><p cb:type="head3" xml:id="pP180p0376b0301">又</p>
+<lb ed="P" n="0376b04"/><lg xml:id="lgP180p0376b0401" type="abnormal"><l rend="text-indent:0em">佛如來。便似百川歸大海。芥子納須彌。從來
+<lb ed="P" n="0376b05"/>文字語言一一俱真實。佛如來。鍾鳴鼓響大
+<lb ed="P" n="0376b06"/>地孰非解脫音也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地
+<lb ed="P" n="0376b07"/>間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0376b08"/><p cb:type="head3" xml:id="pP180p0376b0801">又</p>
+<lb ed="P" n="0376b09"/><lg xml:id="lgP180p0376b0901" type="abnormal"><l rend="text-indent:0em">佛如來。誰道隱顯自在去住無方。誰知道那
+<lb ed="P" n="0376b10"/>在聖不聖處凡不凡。境界不思議功德復無
+<pb ed="P" xml:id="P180.1612.0377a" n="0377a"/>
+<lb ed="P" n="0377a01"/>量。佛如來。諸人常在中為甚却自忘也。諸佛
+<lb ed="P" n="0377a02"/>如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛如
+<lb ed="P" n="0377a03"/>來。</l></lg>
+<lb ed="P" n="0377a04"/><p cb:type="head3" xml:id="pP180p0377a0401">又</p>
+<lb ed="P" n="0377a05"/><lg xml:id="lgP180p0377a0501" type="abnormal"><l rend="text-indent:0em">佛如來。誰道心鏡從來瑩洪河本自深。佛如
+<lb ed="P" n="0377a06"/>來。誰道心鏡從來瑩洪河本自深。佛如來。秖
+<lb ed="P" n="0377a07"/>因一省後沙石化為金也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0377a08"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0377a09"/><p cb:type="head3" xml:id="pP180p0377a0901">又</p>
+<lb ed="P" n="0377a10"/><lg xml:id="lgP180p0377a1001" type="abnormal"><l rend="text-indent:0em">佛如來。叶路縱橫得自由。牢關捩轉妙全收
+<pb ed="P" xml:id="P180.1612.0377b" n="0377b"/>
+<lb ed="P" n="0377b01"/>誰道箇中密意世人難理會。看看喝下須教
+<lb ed="P" n="0377b02"/>水倒流。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法天地間永流通。如來。諸佛
+<lb ed="P" n="0377b03"/>如來。</l></lg>
+<lb ed="P" n="0377b04"/><p cb:type="head2" xml:id="pP180p0377b0401">又弘利益之曲<anchor xml:id="beg_be" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_be"/></p>
+<lb ed="P" n="0377b05"/><lg xml:id="lgP180p0377b0501" type="abnormal"><l rend="text-indent:0em">好看。那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0377b06"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0377b07"/>法。天地間永流通。菩薩諸佛菩薩。</l></lg>
+<lb ed="P" n="0377b08"/><p cb:type="head3" xml:id="pP180p0377b0801">又</p>
+<lb ed="P" n="0377b09"/><lg xml:id="lgP180p0377b0901" type="abnormal"><l rend="text-indent:0em">佛菩薩。似易而難十石油麻樹上攤。似難而
+<lb ed="P" n="0377b10"/>易百草頭上皆真意。誰人道也不難也不易。
+<pb ed="P" xml:id="P180.1612.0378a" n="0378a"/>
+<lb ed="P" n="0378a01"/>誰人道也不難也不易。佛菩薩。飢來便飡困
+<lb ed="P" n="0378a02"/>來即睡也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流
+<lb ed="P" n="0378a03"/>通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0378a04"/><p cb:type="head3" xml:id="pP180p0378a0401">又</p>
+<lb ed="P" n="0378a05"/><lg xml:id="lgP180p0378a0501" type="abnormal"><l rend="text-indent:0em">佛菩薩。倚天長劒射光寒。攪海蒼龍不觸瀾
+<lb ed="P" n="0378a06"/>誰道非難又非易。佛菩薩。家家門首有路透
+<lb ed="P" n="0378a07"/>長安也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。
+<lb ed="P" n="0378a08"/>菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0378a09"/><p cb:type="head3" xml:id="pP180p0378a0901">又</p>
+<lb ed="P" n="0378a10"/><lg xml:id="lgP180p0378a1001" type="abnormal"><l rend="text-indent:0em">佛菩薩。只見煦煦嫗嫗。那箇春夏發生長育。
+<pb ed="P" xml:id="P180.1612.0378b" n="0378b"/>
+<lb ed="P" n="0378b01"/>只見霜霜雪雪那箇秋冬收<anchor xml:id="beg_bf" type="cb-app"/>斂<anchor xml:id="end_bf"/>成熟君仁則
+<lb ed="P" n="0378b02"/>臣敬子孝則父慈。佛菩薩。千仞九淵孰不與
+<lb ed="P" n="0378b03"/>俱也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩
+<lb ed="P" n="0378b04"/>薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0378b05"/><p cb:type="head3" xml:id="pP180p0378b0501">又</p>
+<lb ed="P" n="0378b06"/><lg xml:id="lgP180p0378b0601" type="abnormal"><l rend="text-indent:0em">佛菩薩。誰道本來無縫<g ref="#CB14502">𦉑</g>觸着便光輝。佛菩
+<lb ed="P" n="0378b07"/>薩。誰道本來無縫<g ref="#CB14502">𦉑</g>觸着便光輝。佛菩薩。既
+<lb ed="P" n="0378b08"/>是千金寶何須彈雀兒也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0378b09"/>法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0378b10"/><p cb:type="head3" xml:id="pP180p0378b1001">又</p>
+<pb ed="P" xml:id="P180.1612.0379a" n="0379a"/>
+<lb ed="P" n="0379a01"/><lg xml:id="lgP180p0379a0101" type="abnormal"><l rend="text-indent:0em">佛菩薩。眼空宇宙渾無物。大坐當軒孰敢窺
+<lb ed="P" n="0379a02"/>若道同途把手。為甚不同歸。切莫誤將鶴唳
+<lb ed="P" n="0379a03"/>作鶯啼。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛
+<lb ed="P" n="0379a04"/>菩薩。</l></lg>
+<lb ed="P" n="0379a05"/><p cb:type="head2" xml:id="pP180p0379a0501">又弘利益之曲<anchor xml:id="beg_c0" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_c0"/></p>
+<lb ed="P" n="0379a06"/><lg xml:id="lgP180p0379a0601" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0379a07"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0379a08"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0379a09"/><p cb:type="head3" xml:id="pP180p0379a0901">又</p>
+<lb ed="P" n="0379a10"/><lg xml:id="lgP180p0379a1001" type="abnormal"><l rend="text-indent:0em">佛如來。那指天指地語琅琅。那送語傳言出
+<pb ed="P" xml:id="P180.1612.0379b" n="0379b"/>
+<lb ed="P" n="0379b01"/>畫堂。誰道使者尚能多意氣。誰道使者尚能
+<lb ed="P" n="0379b02"/>多意氣。佛如來。主人應是不尋常也。諸佛如
+<lb ed="P" n="0379b03"/>來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0379b04"/><p cb:type="head3" xml:id="pP180p0379b0401">又</p>
+<lb ed="P" n="0379b05"/><lg xml:id="lgP180p0379b0501" type="abnormal"><l rend="text-indent:0em">佛如來。混沌未分人未曉乾坤纔割事潜彰
+<lb ed="P" n="0379b06"/>好看天生伎倆多奇怪。佛如來。任爾縱橫畢
+<lb ed="P" n="0379b07"/>竟還輸他一場也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地
+<lb ed="P" n="0379b08"/>間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0379b09"/><p cb:type="head3" xml:id="pP180p0379b0901">又</p>
+<lb ed="P" n="0379b10"/><lg xml:id="lgP180p0379b1001" type="abnormal"><l rend="text-indent:0em">佛如來。誰道三世諸佛不知有一一面南看
+<pb ed="P" xml:id="P180.1612.0380a" n="0380a"/>
+<lb ed="P" n="0380a01"/>北斗。誰又道那狸奴白牯却知有戴角擎頭
+<lb ed="P" n="0380a02"/>獅子吼。好看那四稜塌地又團圞。佛如來。八
+<lb ed="P" n="0380a03"/>角磨盤却向空裏走也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。
+<lb ed="P" n="0380a04"/>天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0380a05"/><p cb:type="head3" xml:id="pP180p0380a0501">又</p>
+<lb ed="P" n="0380a06"/><lg xml:id="lgP180p0380a0601" type="abnormal"><l rend="text-indent:0em">佛如來。誰道說明說白埋塵混垢。佛如來。誰
+<lb ed="P" n="0380a07"/>道變化有由敗露不走。佛如來。誰知暗裏一
+<lb ed="P" n="0380a08"/>橫抽須要轟轟霹靂手也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0380a09"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0380a10"/><p cb:type="head3" xml:id="pP180p0380a1001">又</p>
+<pb ed="P" xml:id="P180.1612.0380b" n="0380b"/>
+<lb ed="P" n="0380b01"/><lg xml:id="lgP180p0380b0101" type="abnormal"><l rend="text-indent:0em">佛如來。誰是西天老比丘。星移斗轉水東流。
+<lb ed="P" n="0380b02"/>好看茫茫千古。宇宙人無數。戶貫依然顯在
+<lb ed="P" n="0380b03"/>百草頭。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛
+<lb ed="P" n="0380b04"/>如來。</l></lg>
+<lb ed="P" n="0380b05"/><p cb:type="head2" xml:id="pP180p0380b0501">又弘利益之曲<anchor xml:id="beg_c1" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_c1"/></p>
+<lb ed="P" n="0380b06"/><lg xml:id="lgP180p0380b0601" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0380b07"/>如來佛如來。佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0380b08"/>法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0380b09"/><p cb:type="head3" xml:id="pP180p0380b0901">又</p>
+<lb ed="P" n="0380b10"/><lg xml:id="lgP180p0380b1001" type="abnormal"><l rend="text-indent:0em">佛菩薩。那簾幙春風曉尚寒。那歌樓聲咽夢
+<pb ed="P" xml:id="P180.1612.0381a" n="0381a"/>
+<lb ed="P" n="0381a01"/>驚殘。好看金輿不現人間世。好看金輿不現
+<lb ed="P" n="0381a02"/>人間世。佛菩薩。到底壺中日月寬也。諸佛菩
+<lb ed="P" n="0381a03"/>薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0381a04"/><p cb:type="head3" xml:id="pP180p0381a0401">又</p>
+<lb ed="P" n="0381a05"/><lg xml:id="lgP180p0381a0501" type="abnormal"><l rend="text-indent:0em">佛菩薩。拾得踈慵非覺曉寒山<g ref="#CB01900">󰝬</g>惰不知歸。
+<lb ed="P" n="0381a06"/>誰道聲前一句圓音美佛菩薩。好看三山物
+<lb ed="P" n="0381a07"/>外一片月光輝也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地
+<lb ed="P" n="0381a08"/>間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0381a09"/><p cb:type="head3" xml:id="pP180p0381a0901">又</p>
+<lb ed="P" n="0381a10"/><lg xml:id="lgP180p0381a1001" type="abnormal"><l rend="text-indent:0em">佛菩薩。誰道那一道神光不覆藏。誰知道那
+<pb ed="P" xml:id="P180.1612.0381b" n="0381b"/>
+<lb ed="P" n="0381b01"/>超緣出想去來無礙生滅非常。巖花蜂作蜜
+<lb ed="P" n="0381b02"/>野草麝成香。佛菩薩。明明觸處顯露堂堂也。
+<lb ed="P" n="0381b03"/>諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸
+<lb ed="P" n="0381b04"/>佛菩薩。</l></lg>
+<lb ed="P" n="0381b05"/><p cb:type="head3" xml:id="pP180p0381b0501">又</p>
+<lb ed="P" n="0381b06"/><lg xml:id="lgP180p0381b0601" type="abnormal"><l rend="text-indent:0em">佛菩薩。誰道那一踏踏翻四大海。佛菩薩。誰
+<lb ed="P" n="0381b07"/>道。那一摑摑倒須彌峯。佛菩薩。撒手到家人
+<lb ed="P" n="0381b08"/>不識。鵲噪鴉鳴栢樹中也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0381b09"/>法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0381b10"/><p cb:type="head3" xml:id="pP180p0381b1001">又</p>
+<pb ed="P" xml:id="P180.1612.0382a" n="0382a"/>
+<lb ed="P" n="0382a01"/><lg xml:id="lgP180p0382a0101" type="abnormal"><l rend="text-indent:0em">佛菩薩。偃蹇蒼髯十萬本。參差翠玉數千竿。
+<lb ed="P" n="0382a02"/>莫道風敲月戶。淅瀝三秋冷。更看雨打茅堂
+<lb ed="P" n="0382a03"/>六月寒。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛
+<lb ed="P" n="0382a04"/>菩薩。</l></lg>
+<lb ed="P" n="0382a05"/><p cb:type="head2" xml:id="pP180p0382a0501">又弘利益之曲<anchor xml:id="beg_c2" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_c2"/></p>
+<lb ed="P" n="0382a06"/><lg xml:id="lgP180p0382a0601" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0382a07"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0382a08"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0382a09"/><p cb:type="head3" xml:id="pP180p0382a0901">又</p>
+<lb ed="P" n="0382a10"/><lg xml:id="lgP180p0382a1001" type="abnormal"><l rend="text-indent:0em">佛如來。那無是無非歸掌握那有聞有見隔
+<pb ed="P" xml:id="P180.1612.0382b" n="0382b"/>
+<lb ed="P" n="0382b01"/>關山。誰知一種如來語。誰知一種如來語。佛
+<lb ed="P" n="0382b02"/>如來。不在世人情解間也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0382b03"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0382b04"/><p cb:type="head3" xml:id="pP180p0382b0401">又</p>
+<lb ed="P" n="0382b05"/><lg xml:id="lgP180p0382b0501" type="abnormal"><l rend="text-indent:0em">佛如來。當機一句大無端。內外玲瓏溢目寒。
+<lb ed="P" n="0382b06"/>誰道無漏國中曾不住。佛如來。好看月華影
+<lb ed="P" n="0382b07"/>裏見應難也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永
+<lb ed="P" n="0382b08"/>流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0382b09"/><p cb:type="head3" xml:id="pP180p0382b0901">又</p>
+<lb ed="P" n="0382b10"/><lg xml:id="lgP180p0382b1001" type="abnormal"><l rend="text-indent:0em">佛如來。好看東山水上行出處甚分明好看
+<pb ed="P" xml:id="P180.1612.0383a" n="0383a"/>
+<lb ed="P" n="0383a01"/>那一切塵沙佛波濤四面生。直須彈指頃變
+<lb ed="P" n="0383a02"/>現目前呈。佛如來。面南看北斗日午打三更
+<lb ed="P" n="0383a03"/>也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。
+<lb ed="P" n="0383a04"/>諸佛如來。</l></lg>
+<lb ed="P" n="0383a05"/><p cb:type="head3" xml:id="pP180p0383a0501">又</p>
+<lb ed="P" n="0383a06"/><lg xml:id="lgP180p0383a0601" type="abnormal"><l rend="text-indent:0em">佛如來。便似太阿在手誰敢當鋒。佛如來。便
+<lb ed="P" n="0383a07"/>似青山萬疊白雲重重。佛如來。一旦兵威肅
+<lb ed="P" n="0383a08"/>靜安邦定亂總成功也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法
+<lb ed="P" n="0383a09"/>天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0383a10"/><p cb:type="head3" xml:id="pP180p0383a1001">又</p>
+<pb ed="P" xml:id="P180.1612.0383b" n="0383b"/>
+<lb ed="P" n="0383b01"/><lg xml:id="lgP180p0383b0101" type="abnormal"><l rend="text-indent:0em">佛如來。步步踏着毘盧境。頭頭顯着清淨身。
+<lb ed="P" n="0383b02"/>好看妙入雲門。一一得空相。何人肝膽孰精
+<lb ed="P" n="0383b03"/>神。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0383b04"/><p cb:type="head2" xml:id="pP180p0383b0401">又弘利益之曲<anchor xml:id="beg_c3" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_c3"/></p>
+<lb ed="P" n="0383b05"/><lg xml:id="lgP180p0383b0501" type="abnormal"><l rend="text-indent:0em">好看。那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0383b06"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0383b07"/>法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0383b08"/><p cb:type="head3" xml:id="pP180p0383b0801">又</p>
+<lb ed="P" n="0383b09"/><lg xml:id="lgP180p0383b0901" type="abnormal"><l rend="text-indent:0em">佛菩薩。誰道今朝四月八。淨飯王宮生悉達。
+<lb ed="P" n="0383b10"/>那吐水九龍天外來。那捧足七蓮從地發。佛
+<pb ed="P" xml:id="P180.1612.0384a" n="0384a"/>
+<lb ed="P" n="0384a01"/>菩薩。指天指地惟我獨尊也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這
+<lb ed="P" n="0384a02"/>佛法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0384a03"/><p cb:type="head3" xml:id="pP180p0384a0301">又</p>
+<lb ed="P" n="0384a04"/><lg xml:id="lgP180p0384a0401" type="abnormal"><l rend="text-indent:0em">佛菩薩。毘藍園裏不曾生。雙林樹下何曾滅
+<lb ed="P" n="0384a05"/>誰道西天老佛是瞿曇。佛菩薩。看看眼中又
+<lb ed="P" n="0384a06"/>是重添屑也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永
+<lb ed="P" n="0384a07"/>流通。菩薩諸佛菩薩。</l></lg>
+<lb ed="P" n="0384a08"/><p cb:type="head3" xml:id="pP180p0384a0801">又</p>
+<lb ed="P" n="0384a09"/><lg xml:id="lgP180p0384a0901" type="abnormal"><l rend="text-indent:0em">佛菩薩。誰道那是非海裏橫身入。誰又道那
+<lb ed="P" n="0384a10"/>豺虎羣中任意自在行。莫把那是是非非來
+<pb ed="P" xml:id="P180.1612.0384b" n="0384b"/>
+<lb ed="P" n="0384b01"/>辯我佛菩薩。平生穿鑿了無關也。諸佛菩薩。</l>
+<lb ed="P" n="0384b02"/><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩諸佛菩薩。</l></lg>
+<lb ed="P" n="0384b03"/><p cb:type="head3" xml:id="pP180p0384b0301">又</p>
+<lb ed="P" n="0384b04"/><lg xml:id="lgP180p0384b0401" type="abnormal"><l rend="text-indent:0em">佛菩薩。誰道是昔日為刀今日佛。佛菩薩。誰
+<lb ed="P" n="0384b05"/>道是今朝為佛佛能刀。佛菩薩。能刀能佛無
+<lb ed="P" n="0384b06"/>差別。便見眉間白玉毫也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0384b07"/>法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0384b08"/><p cb:type="head3" xml:id="pP180p0384b0801">又</p>
+<lb ed="P" n="0384b09"/><lg xml:id="lgP180p0384b0901" type="abnormal"><l rend="text-indent:0em">佛菩薩。目視煙霄臥白雲。不知山下有乾坤。
+<lb ed="P" n="0384b10"/>畢竟纖毫不立。更有眾生度。那三世如來寧
+<pb ed="P" xml:id="P180.1612.0385a" n="0385a"/>
+<lb ed="P" n="0385a01"/>須一口吞。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸
+<lb ed="P" n="0385a02"/>佛菩薩。</l></lg>
+<lb ed="P" n="0385a03"/><p cb:type="head2" xml:id="pP180p0385a0301">又弘利益之曲<anchor xml:id="beg_c4" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_c4"/></p>
+<lb ed="P" n="0385a04"/><lg xml:id="lgP180p0385a0401" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0385a05"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0385a06"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0385a07"/><p cb:type="head3" xml:id="pP180p0385a0701">又</p>
+<lb ed="P" n="0385a08"/><lg xml:id="lgP180p0385a0801" type="abnormal"><l rend="text-indent:0em">佛如來。誰道金鎻無鬚兩頭動誰道妙揮寶
+<lb ed="P" n="0385a09"/>劒正當前。這箇苦瓠必是連根苦。那箇甜<g ref="#CB11894">𤓰</g>
+<lb ed="P" n="0385a10"/>必是徹蔕甜。佛如來。兩般滋味根氣相連也。
+<pb ed="P" xml:id="P180.1612.0385b" n="0385b"/>
+<lb ed="P" n="0385b01"/>諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸
+<lb ed="P" n="0385b02"/>佛如來。</l></lg>
+<lb ed="P" n="0385b03"/><p cb:type="head3" xml:id="pP180p0385b0301">又</p>
+<lb ed="P" n="0385b04"/><lg xml:id="lgP180p0385b0401" type="abnormal"><l rend="text-indent:0em">佛如來。好看紅塵飛碧海。白浪起青岑。利人
+<lb ed="P" n="0385b05"/>利<anchor xml:id="beg_c5" type="cb-app"/>己<anchor xml:id="end_c5"/>一切都休問。佛如來。有佛無佛都只在
+<lb ed="P" n="0385b06"/>此心萌也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流
+<lb ed="P" n="0385b07"/>通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0385b08"/><p cb:type="head3" xml:id="pP180p0385b0801">又</p>
+<lb ed="P" n="0385b09"/><lg xml:id="lgP180p0385b0901" type="abnormal"><l rend="text-indent:0em">佛如來。莫道是水出崑崘浪接天。莫道是天
+<lb ed="P" n="0385b10"/>高地逈千山萬嶂疊秀林巒。好看那禪牀略
+<pb ed="P" xml:id="P180.1612.0386a" n="0386a"/>
+<lb ed="P" n="0386a01"/>下雲山斷。佛如來。凡聖無蹤海嶽寬也。諸佛
+<lb ed="P" n="0386a02"/>如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛如
+<lb ed="P" n="0386a03"/>來。</l></lg>
+<lb ed="P" n="0386a04"/><p cb:type="head3" xml:id="pP180p0386a0401">又</p>
+<lb ed="P" n="0386a05"/><lg xml:id="lgP180p0386a0501" type="abnormal"><l rend="text-indent:0em">佛如來。浪說客釣鼇頭遍走五湖。佛如來。浪
+<lb ed="P" n="0386a06"/>說客釣鼇頭遍走五湖。佛如來。不知泥裏蚌
+<lb ed="P" n="0386a07"/>滿腹是明珠也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間
+<lb ed="P" n="0386a08"/>永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0386a09"/><p cb:type="head3" xml:id="pP180p0386a0901">又</p>
+<lb ed="P" n="0386a10"/><lg xml:id="lgP180p0386a1001" type="abnormal"><l rend="text-indent:0em">佛如來。三世諸佛不知有。老老大大外邊走
+<pb ed="P" xml:id="P180.1612.0386b" n="0386b"/>
+<lb ed="P" n="0386b01"/>莫道人人眼皮。蓋盡五須彌。更看大洋海裏
+<lb ed="P" n="0386b02"/>翻筋斗。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛
+<lb ed="P" n="0386b03"/>如來。</l></lg>
+<lb ed="P" n="0386b04"/><p cb:type="head2" xml:id="pP180p0386b0401">又弘利益之曲<anchor xml:id="beg_c6" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_c6"/></p>
+<lb ed="P" n="0386b05"/><lg xml:id="lgP180p0386b0501" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0386b06"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0386b07"/>法。天地間永流通。菩薩諸佛菩薩。</l></lg>
+<lb ed="P" n="0386b08"/><p cb:type="head3" xml:id="pP180p0386b0801">又</p>
+<lb ed="P" n="0386b09"/><lg xml:id="lgP180p0386b0901" type="abnormal"><l rend="text-indent:0em">佛菩薩。那無相光中未兆身。那清虛渺邈豈
+<lb ed="P" n="0386b10"/>為鄰。好看一輪明月當軒照。好看一輪明月
+<pb ed="P" xml:id="P180.1612.0387a" n="0387a"/>
+<lb ed="P" n="0387a01"/>當軒照。佛菩薩。那玉殿堂堂色相真也。諸佛
+<lb ed="P" n="0387a02"/>菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛菩
+<lb ed="P" n="0387a03"/>薩。</l></lg>
+<lb ed="P" n="0387a04"/><p cb:type="head3" xml:id="pP180p0387a0401">又</p>
+<lb ed="P" n="0387a05"/><lg xml:id="lgP180p0387a0501" type="abnormal"><l rend="text-indent:0em">佛菩薩。不立纖毫尚是塵。不須開口問他人。
+<lb ed="P" n="0387a06"/>好看高揮寶劒無蹤跡。佛菩薩。誰道月裏嫦
+<lb ed="P" n="0387a07"/>娥現半身也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永
+<lb ed="P" n="0387a08"/>流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0387a09"/><p cb:type="head3" xml:id="pP180p0387a0901">又</p>
+<lb ed="P" n="0387a10"/><lg xml:id="lgP180p0387a1001" type="abnormal"><l rend="text-indent:0em">佛菩薩。誰道嶮崖難駐足澗曲更離羣。誰道
+<pb ed="P" xml:id="P180.1612.0387b" n="0387b"/>
+<lb ed="P" n="0387b01"/>是那滴瀝無相似一片寒巖鎻碧雲。直教野
+<lb ed="P" n="0387b02"/>鶴連天呌通宵徹夜分。佛菩薩。好看飢飡渴
+<lb ed="P" n="0387b03"/>飲絕類超倫也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間
+<lb ed="P" n="0387b04"/>永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0387b05"/><p cb:type="head3" xml:id="pP180p0387b0501">又</p>
+<lb ed="P" n="0387b06"/><lg xml:id="lgP180p0387b0601" type="abnormal"><l rend="text-indent:0em">佛菩薩。既着珍御服又躡弊芒鞋。佛菩薩。既
+<lb ed="P" n="0387b07"/><anchor xml:id="beg_c7" type="cb-app"/>已<anchor xml:id="end_c7"/>牽犂拽杷何須運水搬柴。佛菩薩。臥街截
+<lb ed="P" n="0387b08"/>耳猶看萬人叢裏口難開也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這
+<lb ed="P" n="0387b09"/>佛法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0387b10"/><p cb:type="head3" xml:id="pP180p0387b1001">又</p>
+<pb ed="P" xml:id="P180.1612.0388a" n="0388a"/>
+<lb ed="P" n="0388a01"/><lg xml:id="lgP180p0388a0101" type="abnormal"><l rend="text-indent:0em">佛菩薩。螺紋頂髻蓮華座。香象嚬呻吼寶獅
+<lb ed="P" n="0388a02"/>好看流落人間。不知幾百世。看看塞斷天下
+<lb ed="P" n="0388a03"/>衲僧徒。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛
+<lb ed="P" n="0388a04"/>菩薩。</l></lg>
+<lb ed="P" n="0388a05"/><p cb:type="head2" xml:id="pP180p0388a0501">又弘利益之曲<anchor xml:id="beg_c8" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_c8"/></p>
+<lb ed="P" n="0388a06"/><lg xml:id="lgP180p0388a0601" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0388a07"/>如來佛如來。佛菩薩。佛菩薩。佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0388a08"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0388a09"/><p cb:type="head3" xml:id="pP180p0388a0901">又</p>
+<lb ed="P" n="0388a10"/><lg xml:id="lgP180p0388a1001" type="abnormal"><l rend="text-indent:0em">佛如來。那竹溪煙絕雨纔通。無數的深紅。間
+<pb ed="P" xml:id="P180.1612.0388b" n="0388b"/>
+<lb ed="P" n="0388b01"/>淺紅。好看山杏落英春寂寂。好看山杏落英
+<lb ed="P" n="0388b02"/>春寂寂。佛如來。青旗吹動。那栁花風也。諸佛
+<lb ed="P" n="0388b03"/>如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛如
+<lb ed="P" n="0388b04"/>來。</l></lg>
+<lb ed="P" n="0388b05"/><p cb:type="head3" xml:id="pP180p0388b0501">又</p>
+<lb ed="P" n="0388b06"/><lg xml:id="lgP180p0388b0601" type="abnormal"><l rend="text-indent:0em">佛如來。誰知佛。為無心悟。心因有佛迷。好看
+<lb ed="P" n="0388b07"/>佛心本來清淨處。佛如來。看看雲外更有野
+<lb ed="P" n="0388b08"/>猿啼也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。
+<lb ed="P" n="0388b09"/>如來。諸佛如來。</l></lg>
+<lb ed="P" n="0388b10"/><p cb:type="head3" xml:id="pP180p0388b1001">又</p>
+<pb ed="P" xml:id="P180.1612.0389a" n="0389a"/>
+<lb ed="P" n="0389a01"/><lg xml:id="lgP180p0389a0101" type="abnormal"><l rend="text-indent:0em">佛如來。誰道石火夜流光樵人首戴雪。誰道
+<lb ed="P" n="0389a02"/>是麗水一星金混混流沙總不雜。有心江上
+<lb ed="P" n="0389a03"/>住怎怕浪淘沙。佛如來。莫不是灘頭石獅子
+<lb ed="P" n="0389a04"/>也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。
+<lb ed="P" n="0389a05"/>諸佛如來。</l></lg>
+<lb ed="P" n="0389a06"/><p cb:type="head3" xml:id="pP180p0389a0601">又</p>
+<lb ed="P" n="0389a07"/><lg xml:id="lgP180p0389a0701" type="abnormal"><l rend="text-indent:0em">佛如來。莫道真源不昧佛性如何。佛如來。莫
+<lb ed="P" n="0389a08"/>道知恩者少負恩者多。佛如來。唯有門前鏡
+<lb ed="P" n="0389a09"/>湖水清風不改舊時波也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0389a10"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<pb ed="P" xml:id="P180.1612.0389b" n="0389b"/>
+<lb ed="P" n="0389b01"/><p cb:type="head3" xml:id="pP180p0389b0101">又</p>
+<lb ed="P" n="0389b02"/><lg xml:id="lgP180p0389b0201" type="abnormal"><l rend="text-indent:0em">佛如來。佛恩深重誠難報。功德巍巍不浪施。
+<lb ed="P" n="0389b03"/>若明大用全機。踪跡少人知。衝開碧落松千
+<lb ed="P" n="0389b04"/>尺截斷紅塵水一溪。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流
+<lb ed="P" n="0389b05"/>通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0389b06"/><p cb:type="head2" xml:id="pP180p0389b0601">又弘利益之曲<anchor xml:id="beg_c9" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_c9"/></p>
+<lb ed="P" n="0389b07"/><lg xml:id="lgP180p0389b0701" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0389b08"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0389b09"/>法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0389b10"/><p cb:type="head3" xml:id="pP180p0389b1001">又</p>
+<pb ed="P" xml:id="P180.1612.0390a" n="0390a"/>
+<lb ed="P" n="0390a01"/><lg xml:id="lgP180p0390a0101" type="abnormal"><l rend="text-indent:0em">佛菩薩。那三年一閏大家知。也有那瞞頇不
+<lb ed="P" n="0390a02"/>記時。好看昨夜鴈回沙塞冷。好看昨夜鴈回
+<lb ed="P" n="0390a03"/>沙塞冷。佛菩薩。嚴風吹綻那月中枝也。諸佛
+<lb ed="P" n="0390a04"/>菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛菩
+<lb ed="P" n="0390a05"/>薩。</l></lg>
+<lb ed="P" n="0390a06"/><p cb:type="head3" xml:id="pP180p0390a0601">又</p>
+<lb ed="P" n="0390a07"/><lg xml:id="lgP180p0390a0701" type="abnormal"><l rend="text-indent:0em">佛菩薩。半言透徹幾人知。今古無儔類莫齊。
+<lb ed="P" n="0390a08"/>好看玉馬雪行歸夜半。佛菩薩。那羚羊掛角
+<lb ed="P" n="0390a09"/>日沉西也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流
+<lb ed="P" n="0390a10"/>通。菩薩。諸佛菩薩。</l></lg>
+<pb ed="P" xml:id="P180.1612.0390b" n="0390b"/>
+<lb ed="P" n="0390b01"/><p cb:type="head3" xml:id="pP180p0390b0101">又</p>
+<lb ed="P" n="0390b02"/><lg xml:id="lgP180p0390b0201" type="abnormal"><l rend="text-indent:0em">佛菩薩。誰道一片初生月娥眉畫碧空。誰道
+<lb ed="P" n="0390b03"/>是水中魚避釣雪外鳥防弓。千山雲起曉萬
+<lb ed="P" n="0390b04"/>木落秋風。佛菩薩。莫道石頭城下水看看浪
+<lb ed="P" n="0390b05"/>打釣舟篷也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永
+<lb ed="P" n="0390b06"/>流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0390b07"/><p cb:type="head3" xml:id="pP180p0390b0701">又</p>
+<lb ed="P" n="0390b08"/><lg xml:id="lgP180p0390b0801" type="abnormal"><l rend="text-indent:0em">佛菩薩。誰道那大方獨立峭巍巍。佛菩薩。誰
+<lb ed="P" n="0390b09"/>道那八面玲瓏萬象圍。佛菩薩。正坐當軒無
+<lb ed="P" n="0390b10"/>位位圓通無礙應羣機也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<pb ed="P" xml:id="P180.1612.0391a" n="0391a"/>
+<lb ed="P" n="0391a01"/>法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0391a02"/><p cb:type="head3" xml:id="pP180p0391a0201">又</p>
+<lb ed="P" n="0391a03"/><lg xml:id="lgP180p0391a0301" type="abnormal"><l rend="text-indent:0em">佛菩薩。酸甜滋味本天然。帶葉連枝顆顆圓
+<lb ed="P" n="0391a04"/>好看自古及今。人人多未識。信教菴摩羅果
+<lb ed="P" n="0391a05"/>世虛傳。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛
+<lb ed="P" n="0391a06"/>菩薩。</l></lg>
+<lb ed="P" n="0391a07"/><p cb:type="head2" xml:id="pP180p0391a0701">又弘利益之曲<anchor xml:id="beg_ca" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_ca"/></p>
+<lb ed="P" n="0391a08"/><lg xml:id="lgP180p0391a0801" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0391a09"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0391a10"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<pb ed="P" xml:id="P180.1612.0391b" n="0391b"/>
+<lb ed="P" n="0391b01"/><p cb:type="head3" xml:id="pP180p0391b0101">又</p>
+<lb ed="P" n="0391b02"/><lg xml:id="lgP180p0391b0201" type="abnormal"><l rend="text-indent:0em">佛如來。那江山磨盡幾施功。方得逢人話昔
+<lb ed="P" n="0391b03"/>同。正是春到洞庭南北岸。正是春到洞庭南
+<lb ed="P" n="0391b04"/>北岸。佛如來。烏啼西嶺月生東也。諸佛如來。</l>
+<lb ed="P" n="0391b05"/><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0391b06"/><p cb:type="head3" xml:id="pP180p0391b0601">又</p>
+<lb ed="P" n="0391b07"/><lg xml:id="lgP180p0391b0701" type="abnormal"><l rend="text-indent:0em">佛如來。杖林山下竹筋鞭。枝節蕭踈古澗邊。
+<lb ed="P" n="0391b08"/>莫道要會宗師開正眼。佛如來。那午夜滿輪
+<lb ed="P" n="0391b09"/>明月照秋天也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間
+<lb ed="P" n="0391b10"/>永流通。如來。諸佛如來。</l></lg>
+<pb ed="P" xml:id="P180.1612.0392a" n="0392a"/>
+<lb ed="P" n="0392a01"/><p cb:type="head3" xml:id="pP180p0392a0101">又</p>
+<lb ed="P" n="0392a02"/><lg xml:id="lgP180p0392a0201" type="abnormal"><l rend="text-indent:0em">佛如來。誰道硬似純鋼爛似泥。甜如崖蜜毒
+<lb ed="P" n="0392a03"/>如砒。若教渾侖吞却渾侖吐賺殺江西馬簸
+<lb ed="P" n="0392a04"/>箕眾生成正覺。諸佛<g ref="#CB15656">䧟</g>泥犂。佛如來。休將此
+<lb ed="P" n="0392a05"/>話舉秪恐閻家知也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天
+<lb ed="P" n="0392a06"/>地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0392a07"/><p cb:type="head3" xml:id="pP180p0392a0701">又</p>
+<lb ed="P" n="0392a08"/><lg xml:id="lgP180p0392a0801" type="abnormal"><l rend="text-indent:0em">佛如來。誰道那眉間一道白毫光。佛如來。好
+<lb ed="P" n="0392a09"/>看那歷劫知將甚處藏。佛如來。永夜寂寥天
+<lb ed="P" n="0392a10"/>未曉更須斫額望扶桑也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<pb ed="P" xml:id="P180.1612.0392b" n="0392b"/>
+<lb ed="P" n="0392b01"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0392b02"/><p cb:type="head3" xml:id="pP180p0392b0201">又</p>
+<lb ed="P" n="0392b03"/><lg xml:id="lgP180p0392b0301" type="abnormal"><l rend="text-indent:0em">佛如來。畫<g ref="#CB02455">㦸</g>門開見墜仙。廓然身在洞中天。
+<lb ed="P" n="0392b04"/>好看從茲以徃。不復論冬夏。任爾石爛松枯
+<lb ed="P" n="0392b05"/>知幾年。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛
+<lb ed="P" n="0392b06"/>如來。</l></lg>
+<lb ed="P" n="0392b07"/><p cb:type="head2" xml:id="pP180p0392b0701">又弘利益之曲<anchor xml:id="beg_cb" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_cb"/></p>
+<lb ed="P" n="0392b08"/><lg xml:id="lgP180p0392b0801" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮。佛
+<lb ed="P" n="0392b09"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0392b10"/>法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<pb ed="P" xml:id="P180.1612.0393a" n="0393a"/>
+<lb ed="P" n="0393a01"/><p cb:type="head3" xml:id="pP180p0393a0101">又</p>
+<lb ed="P" n="0393a02"/><lg xml:id="lgP180p0393a0201" type="abnormal"><l rend="text-indent:0em">佛菩薩。那箇騎驢這箇牽。萬里滄溟駕鐵船。
+<lb ed="P" n="0393a03"/>好看參差島嶼分諸國。好看參差島嶼分諸
+<lb ed="P" n="0393a04"/>國。佛菩薩。彷彿星河共一天也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>
+<lb ed="P" n="0393a05"/>這佛法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0393a06"/><p cb:type="head3" xml:id="pP180p0393a0601">又</p>
+<lb ed="P" n="0393a07"/><lg xml:id="lgP180p0393a0701" type="abnormal"><l rend="text-indent:0em">佛菩薩。踏破秤錘硬似鐵。懞懂禪和猶未瞥。
+<lb ed="P" n="0393a08"/>好看三冬嶺上火雲生。佛菩薩。誰信六月長
+<lb ed="P" n="0393a09"/>天降大雪也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永
+<lb ed="P" n="0393a10"/>流通。菩薩。諸佛菩薩。</l></lg>
+<pb ed="P" xml:id="P180.1612.0393b" n="0393b"/>
+<lb ed="P" n="0393b01"/><p cb:type="head3" xml:id="pP180p0393b0101">又</p>
+<lb ed="P" n="0393b02"/><lg xml:id="lgP180p0393b0201" type="abnormal"><l rend="text-indent:0em">佛菩薩。好看那水出高源洶湧來。只見穿雲
+<lb ed="P" n="0393b03"/>透石泠泠千古下崔嵬。誰人知道那滴滴朝
+<lb ed="P" n="0393b04"/>宗意。佛菩薩。聽取春深動地雷也。諸佛菩薩。</l>
+<lb ed="P" n="0393b05"/><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0393b06"/><p cb:type="head3" xml:id="pP180p0393b0601">又</p>
+<lb ed="P" n="0393b07"/><lg xml:id="lgP180p0393b0701" type="abnormal"><l rend="text-indent:0em">佛菩薩。正是那江國春風吹不起。佛菩薩。正
+<lb ed="P" n="0393b08"/>是那鷓鴣啼在深花裏。佛菩薩。好看浪高三
+<lb ed="P" n="0393b09"/>級魚化龍癡人猶戽夜塘水也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>
+<lb ed="P" n="0393b10"/>這佛法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<pb ed="P" xml:id="P180.1612.0394a" n="0394a"/>
+<lb ed="P" n="0394a01"/><p cb:type="head3" xml:id="pP180p0394a0101">又</p>
+<lb ed="P" n="0394a02"/><lg xml:id="lgP180p0394a0201" type="abnormal"><l rend="text-indent:0em">佛菩薩。佛理從來自不虧。莫同巧妙騁鋒機。
+<lb ed="P" n="0394a03"/>誰言真金一色。不向爐中煆。爭得那黃金喚
+<lb ed="P" n="0394a04"/>作泥。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛菩
+<lb ed="P" n="0394a05"/>薩。</l></lg>
+<lb ed="P" n="0394a06"/><p cb:type="head2" xml:id="pP180p0394a0601">又弘利益之曲<anchor xml:id="beg_cc" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_cc"/></p>
+<lb ed="P" n="0394a07"/><lg xml:id="lgP180p0394a0701" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0394a08"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0394a09"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0394a10"/><p cb:type="head3" xml:id="pP180p0394a1001">又</p>
+<pb ed="P" xml:id="P180.1612.0394b" n="0394b"/>
+<lb ed="P" n="0394b01"/><lg xml:id="lgP180p0394b0101" type="abnormal"><l rend="text-indent:0em">佛如來。那白雲時暎舊山青。竹鎻踈煙露幾
+<lb ed="P" n="0394b02"/>莖。好看虛室夜寒秋月逈。好看虛室夜寒秋
+<lb ed="P" n="0394b03"/>月逈。佛如來。鴈回遙聽是三更也。諸佛如來。</l>
+<lb ed="P" n="0394b04"/><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0394b05"/><p cb:type="head3" xml:id="pP180p0394b0501">又</p>
+<lb ed="P" n="0394b06"/><lg xml:id="lgP180p0394b0601" type="abnormal"><l rend="text-indent:0em">佛如來。踏破草鞋赤脚走。胷中憤氣衝牛斗。
+<lb ed="P" n="0394b07"/>誰道須彌頂上擊金鐘。佛如來。猶有那百戰
+<lb ed="P" n="0394b08"/>場中獅子吼也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間
+<lb ed="P" n="0394b09"/>永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0394b10"/><p cb:type="head3" xml:id="pP180p0394b1001">又</p>
+<pb ed="P" xml:id="P180.1612.0395a" n="0395a"/>
+<lb ed="P" n="0395a01"/><lg xml:id="lgP180p0395a0101" type="abnormal"><l rend="text-indent:0em">佛如來。好看山色青青水綠綠。好看風吹南
+<lb ed="P" n="0395a02"/>嶺雲露滴東籬菊。松竹歲寒心無絃琴上曲
+<lb ed="P" n="0395a03"/>佛如來。拍不足一二三四五六也。諸佛如來。</l>
+<lb ed="P" n="0395a04"/><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0395a05"/><p cb:type="head3" xml:id="pP180p0395a0501">又</p>
+<lb ed="P" n="0395a06"/><lg xml:id="lgP180p0395a0601" type="abnormal"><l rend="text-indent:0em">佛如來。誰道那牧童歸去倒騎牛。佛如來。那
+<lb ed="P" n="0395a07"/>白日城中晚未休。佛如來。踏着秤槌硬似鐵
+<lb ed="P" n="0395a08"/>那知船子下揚州也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天
+<lb ed="P" n="0395a09"/>地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0395a10"/><p cb:type="head3" xml:id="pP180p0395a1001">又</p>
+<pb ed="P" xml:id="P180.1612.0395b" n="0395b"/>
+<lb ed="P" n="0395b01"/><lg xml:id="lgP180p0395b0101" type="abnormal"><l rend="text-indent:0em">佛如來。何人信步紅塵裏。不問寬弘與短長。
+<lb ed="P" n="0395b02"/>誰道古路逶迤歸來天欲暮。好看一彎明月
+<lb ed="P" n="0395b03"/>照滄浪。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛
+<lb ed="P" n="0395b04"/>如來。</l></lg>
+<lb ed="P" n="0395b05"/><p cb:type="head2" xml:id="pP180p0395b0501">又弘利益之曲<anchor xml:id="beg_cd" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_cd"/></p>
+<lb ed="P" n="0395b06"/><lg xml:id="lgP180p0395b0601" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0395b07"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0395b08"/>法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0395b09"/><p cb:type="head3" xml:id="pP180p0395b0901">又</p>
+<lb ed="P" n="0395b10"/><lg xml:id="lgP180p0395b1001" type="abnormal"><l rend="text-indent:0em">佛菩薩。那千葉碧蓮雲裏現。那萬重山水異
+<pb ed="P" xml:id="P180.1612.0396a" n="0396a"/>
+<lb ed="P" n="0396a01"/>聞香。只看鳥道玄玄無障礙。只看鳥道玄玄
+<lb ed="P" n="0396a02"/>無障礙。佛菩薩一輪明月印千江也。諸佛菩
+<lb ed="P" n="0396a03"/>薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0396a04"/><p cb:type="head3" xml:id="pP180p0396a0401">又</p>
+<lb ed="P" n="0396a05"/><lg xml:id="lgP180p0396a0501" type="abnormal"><l rend="text-indent:0em">佛菩薩。好看花開金谷暖栁拂玉墀香。正是
+<lb ed="P" n="0396a06"/>萬方道泰春行令佛菩薩。誰悟得開口迷全
+<lb ed="P" n="0396a07"/>體無言雲半身也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地
+<lb ed="P" n="0396a08"/>間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0396a09"/><p cb:type="head3" xml:id="pP180p0396a0901">又</p>
+<lb ed="P" n="0396a10"/><lg xml:id="lgP180p0396a1001" type="abnormal"><l rend="text-indent:0em">佛菩薩。誰道江南地暖塞北春寒。正好是一
+<pb ed="P" xml:id="P180.1612.0396b" n="0396b"/>
+<lb ed="P" n="0396b01"/>把栁絲收不得和煙搭在玉闌干。碧梧藏彩
+<lb ed="P" n="0396b02"/>鳳皎月隱青山。佛菩薩。無端石馬潭中過驚
+<lb ed="P" n="0396b03"/>起泥龍海水翻也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地
+<lb ed="P" n="0396b04"/>間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0396b05"/><p cb:type="head3" xml:id="pP180p0396b0501">又</p>
+<lb ed="P" n="0396b06"/><lg xml:id="lgP180p0396b0601" type="abnormal"><l rend="text-indent:0em">佛菩薩。莫道樵子度荒郊騎牛草不露。佛菩
+<lb ed="P" n="0396b07"/>薩。莫道穿雲不涉水躡足降閻浮。佛菩薩。好
+<lb ed="P" n="0396b08"/>看五彩不粧容自異千光長艶顯雙眸也。諸
+<lb ed="P" n="0396b09"/>佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛
+<lb ed="P" n="0396b10"/>菩薩。</l></lg>
+<pb ed="P" xml:id="P180.1612.0397a" n="0397a"/>
+<lb ed="P" n="0397a01"/><p cb:type="head3" xml:id="pP180p0397a0101">又</p>
+<lb ed="P" n="0397a02"/><lg xml:id="lgP180p0397a0201" type="abnormal"><l rend="text-indent:0em">佛菩薩。誰言四海波濤靜。天地信無涯。好看
+<lb ed="P" n="0397a03"/>浮雲一散顯出家家月。直待春來方見百花
+<lb ed="P" n="0397a04"/>開。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0397a05"/><p cb:type="head2" xml:id="pP180p0397a0501">又弘利益之曲<anchor xml:id="beg_ce" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_ce"/></p>
+<lb ed="P" n="0397a06"/><lg xml:id="lgP180p0397a0601" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0397a07"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0397a08"/>法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0397a09"/><p cb:type="head3" xml:id="pP180p0397a0901">又</p>
+<lb ed="P" n="0397a10"/><lg xml:id="lgP180p0397a1001" type="abnormal"><l rend="text-indent:0em">佛如來。那寂光影裏現全身。那貴異天然逈
+<pb ed="P" xml:id="P180.1612.0397b" n="0397b"/>
+<lb ed="P" n="0397b01"/>出倫。正是家富兒奴偏得力。正是家富兒奴
+<lb ed="P" n="0397b02"/>偏得力。佛如來。夜分燈火照西鄰也。諸佛如
+<lb ed="P" n="0397b03"/>來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0397b04"/><p cb:type="head3" xml:id="pP180p0397b0401">又</p>
+<lb ed="P" n="0397b05"/><lg xml:id="lgP180p0397b0501" type="abnormal"><l rend="text-indent:0em">佛如來。只道雲遮海門樹擘破鐵圍山。誰悟
+<lb ed="P" n="0397b06"/>得神機妙用當前顯。佛如來。好看回光只在
+<lb ed="P" n="0397b07"/>那人身間也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永
+<lb ed="P" n="0397b08"/>流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0397b09"/><p cb:type="head3" xml:id="pP180p0397b0901">又</p>
+<lb ed="P" n="0397b10"/><lg xml:id="lgP180p0397b1001" type="abnormal"><l rend="text-indent:0em">佛如來。莫道海分千<g ref="#CB21113">𣲖</g>浪地<g ref="#CB15072">󳫠</g>萬重山。正好
+<pb ed="P" xml:id="P180.1612.0398a" n="0398a"/>
+<lb ed="P" n="0398a01"/>看那片雲生谷口明月下堂間。千年松倒掛
+<lb ed="P" n="0398a02"/>金剛努起拳。佛如來。一時軌範千古玄關也。
+<lb ed="P" n="0398a03"/>諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。如來。諸佛
+<lb ed="P" n="0398a04"/>如來。</l></lg>
+<lb ed="P" n="0398a05"/><p cb:type="head3" xml:id="pP180p0398a0501">又</p>
+<lb ed="P" n="0398a06"/><lg xml:id="lgP180p0398a0601" type="abnormal"><l rend="text-indent:0em">佛如來。正好是長安夜夜家家月。佛如來。那
+<lb ed="P" n="0398a07"/>時節幾處笙歌幾處愁。佛如來。正是清貧長
+<lb ed="P" n="0398a08"/>樂濁富多憂也。諸佛如來。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間
+<lb ed="P" n="0398a09"/>永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0398a10"/><p cb:type="head3" xml:id="pP180p0398a1001">又</p>
+<pb ed="P" xml:id="P180.1612.0398b" n="0398b"/>
+<lb ed="P" n="0398b01"/><lg xml:id="lgP180p0398b0101" type="abnormal"><l rend="text-indent:0em">佛如來。正是雲收三島靜。雨過百花鮮。誰道
+<lb ed="P" n="0398b02"/>一葉小舟。徑穿輕靄去。孤帆看逐暮煙還。</l><l rend="text-indent:0em"><note place="inline">和</note>
+<lb ed="P" n="0398b03"/>這佛法。天地間永流通。如來。諸佛如來。</l></lg>
+<lb ed="P" n="0398b04"/><p cb:type="head2" xml:id="pP180p0398b0401">又弘利益之曲<anchor xml:id="beg_cf" type="cb-app"/><note place="inline">即頻伽音又名呌街聲六首</note><anchor xml:id="end_cf"/></p>
+<lb ed="P" n="0398b05"/><lg xml:id="lgP180p0398b0501" type="abnormal"><l rend="text-indent:0em">好看那佛佛相傳法法相續歷劫浩無窮佛
+<lb ed="P" n="0398b06"/>如來佛如來佛菩薩。佛菩薩佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛
+<lb ed="P" n="0398b07"/>法。天地間永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0398b08"/><p cb:type="head3" xml:id="pP180p0398b0801">又</p>
+<lb ed="P" n="0398b09"/><lg xml:id="lgP180p0398b0901" type="abnormal"><l rend="text-indent:0em">佛菩薩。莫道天寬地窄地窄天寬。莫道青山
+<lb ed="P" n="0398b10"/>綠水綠水青山。好看大地風清兼月白。好看
+<pb ed="P" xml:id="P180.1612.0399a" n="0399a"/>
+<lb ed="P" n="0399a01"/>大地風清兼月白。佛菩薩。垂珠玉露滴金盤
+<lb ed="P" n="0399a02"/>也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。
+<lb ed="P" n="0399a03"/>諸佛菩薩。</l></lg>
+<lb ed="P" n="0399a04"/><p cb:type="head3" xml:id="pP180p0399a0401">又</p>
+<lb ed="P" n="0399a05"/><lg xml:id="lgP180p0399a0501" type="abnormal"><l rend="text-indent:0em">佛菩薩。正是平明日出海。三更月到<g ref="#CB08729">䆫</g>。管取
+<lb ed="P" n="0399a06"/>一片白雲遮不得。佛菩薩。水晶宮裏直透着
+<lb ed="P" n="0399a07"/>那清光也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流
+<lb ed="P" n="0399a08"/>通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0399a09"/><p cb:type="head3" xml:id="pP180p0399a0901">又</p>
+<lb ed="P" n="0399a10"/><lg xml:id="lgP180p0399a1001" type="abnormal"><l rend="text-indent:0em">佛菩薩。莫道月明東嶺上黃河徹底清。且只
+<pb ed="P" xml:id="P180.1612.0399b" n="0399b"/>
+<lb ed="P" n="0399b01"/>看那秋來黃葉落春來草自青。一花開五葉
+<lb ed="P" n="0399b02"/>結果自然成。佛菩薩。雲散天青澄潭月暎也。
+<lb ed="P" n="0399b03"/>諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸
+<lb ed="P" n="0399b04"/>佛菩薩。</l></lg>
+<lb ed="P" n="0399b05"/><p cb:type="head3" xml:id="pP180p0399b0501">又</p>
+<lb ed="P" n="0399b06"/><lg xml:id="lgP180p0399b0601" type="abnormal"><l rend="text-indent:0em">佛菩薩。正是雲籠嶽頂雨灑瀟湘。佛菩薩。好
+<lb ed="P" n="0399b07"/>看金沙照影玉女凝粧。佛菩薩。不問天涯地
+<lb ed="P" n="0399b08"/>角四海三江也。諸佛菩薩。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間
+<lb ed="P" n="0399b09"/>永流通。菩薩。諸佛菩薩。</l></lg>
+<lb ed="P" n="0399b10"/><p cb:type="head3" xml:id="pP180p0399b1001">又</p>
+<pb ed="P" xml:id="P180.1612.0400a" n="0400a"/>
+<lb ed="P" n="0400a01"/><lg xml:id="lgP180p0400a0101" type="abnormal"><l rend="text-indent:0em">佛菩薩。踏翻地軸與天關。一去飄飄不再還。
+<lb ed="P" n="0400a02"/>好看雲水相隨一身輕似葉。那長江千古浪
+<lb ed="P" n="0400a03"/>如山。</l><l rend="text-indent:0em"><note place="inline">和</note>這佛法。天地間永流通。菩薩。諸佛菩
+<lb ed="P" n="0400a04"/>薩。</l></lg></cb:div>
+<lb ed="P" n="0400a05"/><cb:juan fun="close" n="33"><cb:jhead>諸佛世尊如來菩薩尊者名稱歌曲卷第三
+<lb ed="P" n="0400a06"/>十三</cb:jhead></cb:juan>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_bb" cb:to="#end_bb"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_bc" cb:to="#end_bc"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_bd" cb:to="#end_bd"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_be" cb:to="#end_be"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_bf" cb:to="#end_bf"><corr>斂</corr><sic>歛</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c0" cb:to="#end_c0"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c1" cb:to="#end_c1"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c2" cb:to="#end_c2"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c3" cb:to="#end_c3"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c4" cb:to="#end_c4"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c5" cb:to="#end_c5"><corr>己</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c6" cb:to="#end_c6"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c7" cb:to="#end_c7"><corr>已</corr><sic>己</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c8" cb:to="#end_c8"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c9" cb:to="#end_c9"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_ca" cb:to="#end_ca"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_cb" cb:to="#end_cb"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_cc" cb:to="#end_cc"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_cd" cb:to="#end_cd"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_ce" cb:to="#end_ce"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_cf" cb:to="#end_cf"><corr><note place="inline">即頻伽音又名呌街聲六首</note></corr><sic><space quantity="0"/></sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

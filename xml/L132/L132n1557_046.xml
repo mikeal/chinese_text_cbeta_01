@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="L132n1557">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Qianlong Edition of the Canon, Electronic version, No. 1557 大方廣佛華嚴經疏鈔會本(第34卷-第51卷)</title>
+			<author>唐 實叉難陀譯　唐 澄觀述</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.12 $<date>$Date: 2012/06/27 08:38:49 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>18卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/06/27 08:38:49 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Qianlong Edition of the Canon Vol. 132, No. 1557 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00562">
+	<charName>CBETA CHARACTER CB00562</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+(梳-木)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>疏</value>
+	</charProp>
+	<mapping type="unicode">U+47FD</mapping>
+	<mapping cb:dec="983602" type="PUA">U+F0232</mapping>
+</char>
+<char xml:id="CB01008">
+	<charName>CBETA CHARACTER CB01008</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(暇-日)-(己-(乳-孚))+几]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>段</value>
+	</charProp>
+	<mapping cb:dec="984048" type="PUA">U+F03F0</mapping>
+</char>
+<char xml:id="CB07724">
+	<charName>CBETA CHARACTER CB07724</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(ㄇ@人)/圭]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>罣</value>
+	</charProp>
+	<mapping type="unicode">U+262B1</mapping>
+	<mapping cb:dec="990764" type="PUA">U+F1E2C</mapping>
+</char>
+<char xml:id="CB07757">
+	<charName>CBETA CHARACTER CB07757</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(ㄇ@(企-止))/ㄙ/月]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>罥</value>
+	</charProp>
+	<mapping type="normal_unicode">U+262B0</mapping>
+	<mapping cb:dec="990797" type="PUA">U+F1E4D</mapping>
+</char>
+<char xml:id="CB08516">
+	<charName>CBETA CHARACTER CB08516</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[敝/大]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>弊</value>
+	</charProp>
+	<mapping type="unicode">U+21681</mapping>
+	<mapping cb:dec="991556" type="PUA">U+F2144</mapping>
+</char>
+<char xml:id="CB13378">
+	<charName>CBETA CHARACTER CB13378</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[捐-口+ㄙ]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>捐</value>
+	</charProp>
+	<mapping type="normal_unicode">U+6350</mapping>
+	<mapping cb:dec="996418" type="PUA">U+F3442</mapping>
+</char>
+<char xml:id="CB22023">
+	<charName>CBETA CHARACTER CB22023</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[倦-(夗-夕)+(、/(甬-用))]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>倦</value>
+	</charProp>
+	<mapping cb:dec="1005063" type="PUA">U+F5607</mapping>
+</char>
+<char xml:id="CB30246">
+	<charName>CBETA CHARACTER CB30246</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(冰-水+〡)*ㄆ]</value>
+	</charProp>
+	<mapping cb:dec="1013286" type="PUA">U+F7626</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-09-27T14:46:22">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">諸菩薩住處品第三十二</cb:mulu>
+<pb ed="L" xml:id="L132.1557.0715a" n="0715a"/>
+<lb ed="L" n="0715a01"/><milestone unit="juan" n="46"/><cb:mulu type="卷" n="46a">第四十六之一</cb:mulu><cb:juan fun="open" n="46a"><cb:jhead>大方廣佛華嚴經<g ref="#CB00562">䟽</g>鈔會本第四十六之一　<g ref="#CB08516">𡚁</g>七</cb:jhead></cb:juan>
+<lb ed="L" n="0715a02"/><byline cb:type="translator">唐于闐國三藏沙門實叉難陀　譯</byline>
+<lb ed="L" n="0715a03"/><byline cb:type="author">唐清涼山大華嚴寺沙門澄觀撰述</byline>
+<lb ed="L" n="0715a04"/><cb:div type="other"><cb:mulu type="其他" level="1">佛不思議法品第三十三</cb:mulu><cb:div type="orig"><p cb:type="head1" xml:id="pL132p0715a0401">佛不思議法品第三十三</p></cb:div>
+<lb ed="L" n="0715a05"/><cb:div type="commentary"><p xml:id="pL132p0715a0501" rend="margin-left:1em">初明來意先通後別通則此下五品為答
+<lb ed="L" n="0715a06"/>第二會初如來地等十句問故古德但有
+<lb ed="L" n="0715a07"/>三品答前謂前明修生之因今辨修生之
+<lb ed="L" n="0715a08"/>果因圓果滿故次來也若答前問何以重
+<lb ed="L" n="0715a09"/>請由因果隔絕念法希聞因德尚深果必
+<lb ed="L" n="0715a10"/>玄妙故念請耳別明此品則前品因終此
+<lb ed="L" n="0715a11"/>品果始故次來也<note place="inline">古德但有三品者以後二品別為平等因果故
+<lb ed="L" n="0715a12"/>用品雖廣狹不同答果義等若答前問下二解妨先問以前六會共答前問皆不重
+<lb ed="L" n="0715a13"/>請故問此品何以重請由因果下古德答此乃有二意一因果隔絕前諸會同因故
+<lb ed="L" n="0715a14"/>不別問此下是果果隔於因故此重問二念法希奇果不思議故復念請因德已下
+<lb ed="L" n="0715a15"/>出念法希奇之相上是通意別明此下二唯明此品</note>二釋名者如來
+<pb ed="L" xml:id="L132.1557.0715b" n="0715b"/>
+<lb ed="L" n="0715b01"/>果法逈超言慮故以為名斯即佛之不思
+<lb ed="L" n="0715b02"/>議法也。</p>
+<lb ed="L" n="0715b03"/><p xml:id="pL132p0715b0301" rend="margin-left:1em">三宗趣者先總後別總明說佛果德體用
+<lb ed="L" n="0715b04"/>心言罔及為宗令總忘言絕想速滿為趣
+<lb ed="L" n="0715b05"/>別就宗中三門分別一通辨佛德若說百
+<lb ed="L" n="0715b06"/>四十不共佛法通於權小若五法攝大覺
+<lb ed="L" n="0715b07"/>性猶通於權若言唯一味實德者約理頓
+<lb ed="L" n="0715b08"/>說若言具無盡德是此所明故後文中初
+<lb ed="L" n="0715b09"/>標十問答具多門類通十方一一無盡<note place="inline">初通
+<lb ed="L" n="0715b10"/>辨佛德言百四十不共者<anchor xml:id="beg_1f6" type="cb-app"/>已<anchor xml:id="end_1f6"/>見光明覺品今重舉總數謂三十二相八十種好四一
+<lb ed="L" n="0715b11"/>切種清淨十力四無所畏三念住三不護大悲無忘失法永斷習氣一切種妙智為
+<lb ed="L" n="0715b12"/>百四十而通權小者小乘亦說但相劣耳權大說者皆悉超勝此約五教已有其二
+<lb ed="L" n="0715b13"/>若五法下正明實教故云通權權實皆有但實教中會歸法性不壞相耳若言唯一
+<lb ed="L" n="0715b14"/>味下二即頓教若言具無盡下三即圓教從故後文中下四辨今經是圓教德</note>二
+<lb ed="L" n="0715b15"/>別顯義相諸佛功德不出二種一者修生
+<pb ed="L" xml:id="L132.1557.0716a" n="0716a"/>
+<lb ed="L" n="0716a01"/>二者本有初謂信等本無今有後謂真如
+<lb ed="L" n="0716a02"/>具性功德此二無礙應成四句一唯修生
+<lb ed="L" n="0716a03"/>二唯本有以性相軀分故三本有修生謂
+<lb ed="L" n="0716a04"/>如來藏待彼了因本隱今顯故四修生本
+<lb ed="L" n="0716a05"/>有無分別智冥符理故若權教所明二德
+<lb ed="L" n="0716a06"/>不雜法報四句亦有差殊依此經宗雖有
+<lb ed="L" n="0716a07"/>四義而無四事本有如真金修生如嚴具
+<lb ed="L" n="0716a08"/>然由嚴具方顯金德嚴具無體全攬金成
+<lb ed="L" n="0716a09"/>故唯金不礙嚴具唯法身而不礙報化唯
+<lb ed="L" n="0716a10"/>嚴具亦然既互全<g ref="#CB30246">󷘦</g>故十身無礙八相該
+<lb ed="L" n="0716a11"/>於法界丈六徧於十方諸根毛孔各無限
+<lb ed="L" n="0716a12"/>量亦不礙量量與無量無有障礙<note place="inline">二別顯義相於
+<lb ed="L" n="0716a13"/>中有三初正顯二德言信等者此通行位信為萬行之首則該進念定等位亦以信
+<lb ed="L" n="0716a14"/>為初五十二位所有行德皆有二故若權教下三揀權異實初明權教言不雜者如
+<lb ed="L" n="0716a15"/>轉依果有二一所生得即是四智二所顯得即是涅槃涅槃本有四智修生修生有
+<pb ed="L" xml:id="L132.1557.0716b" n="0716b"/>
+<lb ed="L" n="0716b01"/>為修顯無為故二不雜法報四句者遮救恐外救云我宗亦有四句何異前融一唯
+<lb ed="L" n="0716b02"/>法即在纏法身二唯報即四智菩提三亦法亦報謂真如出纏具諸功德四非法非
+<lb ed="L" n="0716b03"/>報所謂應化今言亦有差殊者正揀權也雖有四句染淨時乖法報非一思之依此
+<lb ed="L" n="0716b04"/>經宗下二顯實教舉喻四句喻上四句一本有如真金是前第二句二修生如嚴具
+<lb ed="L" n="0716b05"/>喻第一句三然由嚴具方顯金德喻第四句修生本有四嚴具無體全攬金成喻第
+<lb ed="L" n="0716b06"/>三句此即合初二句成三四句離初二句無三四句三四兩句同在一時更無別體
+<lb ed="L" n="0716b07"/>以此細尋權實斯顯五故唯金下結第二句歸初句六唯嚴具亦然結第一句歸第
+<lb ed="L" n="0716b08"/>二句此約喻說若望前法但初句為第二第二句為第一耳從既互全<g ref="#CB30246">󷘦</g>下結歸本
+<lb ed="L" n="0716b09"/>宗無礙之相今更以喻總喻二德如修生在因漸顯於本有在果圓滿於本有非本
+<lb ed="L" n="0716b10"/>有理有漸有圓如初生月明雖漸滿而當帶圓月以圓月常在故故十五日月遍在
+<lb ed="L" n="0716b11"/>初一二三等中則知滿果遍在因位亦令後後常具前前前前常具後後以初一日
+<lb ed="L" n="0716b12"/>有二日月乃至十五日月以十五日月即初月故法合可知由此故云修生本有以
+<lb ed="L" n="0716b13"/>初圓時先已圓故本有修生以初生時亦已圓故忘懷思之</note>三顯不思
+<lb ed="L" n="0716b14"/>議之義泛明有四一理妙難測二事廣難
+<lb ed="L" n="0716b15"/>知三行深越世四果用超情今文通四正
+<pb ed="L" xml:id="L132.1557.0717a" n="0717a"/>
+<lb ed="L" n="0717a01"/>辨後一就後一中復開為四一何者不思
+<lb ed="L" n="0717a02"/>議略辨十種一智超世表二悲越常情三
+<lb ed="L" n="0717a03"/>無思成事四同染恒淨五所作祕密六業
+<lb ed="L" n="0717a04"/>用廣大七多少即入八分圓自在九依正
+<lb ed="L" n="0717a05"/>無礙十理事一味文並具之恐繁不引二
+<lb ed="L" n="0717a06"/>於何不思議此有四位一過世間二越權
+<lb ed="L" n="0717a07"/>小三超因位四顯法自體三云何不思議
+<lb ed="L" n="0717a08"/>亦有四種謂非聞思修及報智境故四何
+<lb ed="L" n="0717a09"/>用不思議亦有四種謂令信向故起行求
+<lb ed="L" n="0717a10"/>故隨分證故圓滿得故前並是宗唯何用
+<lb ed="L" n="0717a11"/>為趣即此宗趣可以釋名<note place="inline">一何者下徵不思議法體答謂
+<lb ed="L" n="0717a12"/>智悲等二於何下徵不思議人答謂世間等此人不能思議三云何下徵不思議體
+<lb ed="L" n="0717a13"/>謂聞思等思不及故四何用下徵不思議意謂如來說法本欲利生今絕言思於物
+<lb ed="L" n="0717a14"/>何益答意云令信入故謂欲證入要須心絕動搖言忘戲論耳</note>次正釋文
+<lb ed="L" n="0717a15"/>五品分二初品總明佛德後四別顯佛德
+<pb ed="L" xml:id="L132.1557.0717b" n="0717b"/>
+<lb ed="L" n="0717b01"/>古德後二為平等因果此但三品果法有
+<lb ed="L" n="0717b02"/>將此三配體相用後二可然初品有妨有
+<lb ed="L" n="0717b03"/>相用故今依賢首初品總顯佛德體用次
+<lb ed="L" n="0717b04"/>品別顯勝德之相後品別明勝德用益又
+<lb ed="L" n="0717b05"/>初品明德次品明相後品明好<note place="inline">後之四品者是<g ref="#CB00562">䟽</g>新
+<lb ed="L" n="0717b06"/>意欲將五品答其十問然有三重一此品總明佛德具答十問如下科釋二者一一
+<lb ed="L" n="0717b07"/>門中含答十問亦如下釋三者五品廣答十問如下說分之初古德<anchor xml:id="beg_1f7" type="cb-app"/>已<anchor xml:id="end_1f7"/>下敘昔<g ref="#CB00562">䟽</g>且
+<lb ed="L" n="0717b08"/>述古便依三品科經</note>。</p></cb:div>
+<lb ed="L" n="0717b09"/><cb:div type="orig"><p xml:id="pL132p0717b0901">爾時大會中有諸菩薩作是念。</p></cb:div>
+<lb ed="L" n="0717b10"/><cb:div type="commentary"><p xml:id="pL132p0717b1001" rend="margin-left:1em">今初分四一請分二加分三證分四說分
+<lb ed="L" n="0717b11"/>初中二先明請人。</p></cb:div>
+<lb ed="L" n="0717b12"/><cb:div type="orig"><p xml:id="pL132p0717b1201">諸佛國土云何不思議諸佛本願云何不思
+<lb ed="L" n="0717b13"/>議諸佛種性云何不思議諸佛出現云何不
+<lb ed="L" n="0717b14"/>思議諸佛身云何不思議諸佛音聲云何不
+<lb ed="L" n="0717b15"/>思議諸佛智慧云何不思議諸佛自在云何
+<pb ed="L" xml:id="L132.1557.0718a" n="0718a"/>
+<lb ed="L" n="0718a01"/>不思議諸佛無礙云何不思議諸佛解脫云
+<lb ed="L" n="0718a02"/>何不思議。</p></cb:div>
+<lb ed="L" n="0718a03"/><cb:div type="commentary"><p xml:id="pL132p0718a0301" rend="margin-left:1em">後諸佛下正顯所念十法皆云不思議即
+<lb ed="L" n="0718a04"/>前果用超情離於說相故此十句義並多
+<lb ed="L" n="0718a05"/>含皆通真應不得一向就應而辨<note place="inline">後諸佛下正顯
+<lb ed="L" n="0718a06"/>所念<g ref="#CB00562">䟽</g>文有三一略示法體不得一向下結彈異釋</note>然此十問攝前
+<lb ed="L" n="0718a07"/>普光後二十句所成果問謂身攝六根智
+<lb ed="L" n="0718a08"/>攝佛境佛地及最勝三問自在攝五一神
+<lb ed="L" n="0718a09"/>力二神通三十力四無畏五三昧此並前
+<lb ed="L" n="0718a10"/>開此合<note place="inline">然此十下對前相攝今當先列第二會初二十句問一如來地二如
+<lb ed="L" n="0718a11"/>來境界三如來神力四如來所行五如來十力六如來無畏七如來三昧八如來神
+<lb ed="L" n="0718a12"/>通九如來自在十如來無礙十一如來眼十二如來耳十三如來鼻十四如來舌十
+<lb ed="L" n="0718a13"/>五如來身十六如來意十七如來辯才十八如來智慧十九如來最勝二十欠光明
+<lb ed="L" n="0718a14"/>故唯有十九然句句皆有云何是言經中十句次第可知此中攝彼不依次第對前
+<lb ed="L" n="0718a15"/>成三類故一前開此合二前合此開三無開合欲以此少攝彼之多故先明前開此
+<pb ed="L" xml:id="L132.1557.0718b" n="0718b"/>
+<lb ed="L" n="0718b01"/>合乃有三句攝前十六句第二前合此開以前二句攝五句第三節彼此一句則此
+<lb ed="L" n="0718b02"/>中初合有三次此開有六後此不開有一具足十句彼前初開有十六次合有二後
+<lb ed="L" n="0718b03"/>不開合亦一成十九句就初前開中第一身攝六根者身即六中之一兼攝欠光明
+<lb ed="L" n="0718b04"/>一句故有七句第二智慧攝三兼能攝智為四第三自在攝五兼能攝自在為六故
+<lb ed="L" n="0718b05"/>成十六</note>前境界中開出國土所化所依之境
+<lb ed="L" n="0718b06"/>故前所行中開出出現本願種性種性即
+<lb ed="L" n="0718b07"/>悲智之行本願就因辨行故出現是佛普
+<lb ed="L" n="0718b08"/>賢行故出現與行互有寬陿下出現品行
+<lb ed="L" n="0718b09"/>是其一故前之無礙此開解脫作用無礙
+<lb ed="L" n="0718b10"/>名解脫故所以開合者顯義無方故名多
+<lb ed="L" n="0718b11"/>同者顯不異故<note place="inline">前境界下第二前合此開中亦有三節而初境界國
+<lb ed="L" n="0718b12"/>土無能攝句境界由前智慧<anchor xml:id="beg_1f8" type="cb-app"/>已<anchor xml:id="end_1f8"/>攝竟故故雖三節但有二句境界是所化之境國土
+<lb ed="L" n="0718b13"/>是所依之境第二節所行攝二即有能攝然三皆行故言出現與行互有寬狹者遮
+<lb ed="L" n="0718b14"/>難恐有難言彼十門出現行是其一如何此行能攝彼耶故以互有寬狹通之如以
+<lb ed="L" n="0718b15"/>菩提為門則菩提之性攝於涅槃若以涅槃為門則涅槃攝於菩提前之無礙者是
+<pb ed="L" xml:id="L132.1557.0719a" n="0719a"/>
+<lb ed="L" n="0719a01"/>第二節則前但有一此則具於無礙解脫</note>音聲即辯雖無開合
+<lb ed="L" n="0719a02"/>名有寬陿義旨大同<note place="inline">音聲即辯下第三無開合前後各一句</note>
+<lb ed="L" n="0719a03"/>更為立圖。</p>
+<lb ed="L" n="0719a04"/><p xml:id="pL132p0719a0401" rend="margin-left:1em"><note place="inline">◎佛不思議法品初十問　如來名號品二十問○</note></p>
+<lb ed="L" n="0719a05"/><p xml:id="pL132p0719a0501" rend="margin-left:1em"><figure><graphic url="../figures/L/L132p0719_01.gif"></graphic></figure></p>
+<lb ed="L" n="0719a06"/>
+<lb ed="L" n="0719a07"/>
+<lb ed="L" n="0719a08"/>
+<lb ed="L" n="0719a09"/>
+<lb ed="L" n="0719a10"/>
+<lb ed="L" n="0719a11"/>
+<lb ed="L" n="0719a12"/>
+<lb ed="L" n="0719a13"/>
+<lb ed="L" n="0719a14"/>
+<lb ed="L" n="0719a15"/><p xml:id="pL132p0719a1501" rend="margin-left:1em">此十義相第二會中已釋至下說分重明。</p></cb:div>
+<pb ed="L" xml:id="L132.1557.0719b" n="0719b"/>
+<lb ed="L" n="0719b01"/><cb:div type="orig"><p xml:id="pL132p0719b0101">爾時世尊知諸菩薩心之所念則以神力加
+<lb ed="L" n="0719b02"/>持智慧攝受光明照耀威勢充滿令青蓮華
+<lb ed="L" n="0719b03"/>藏菩薩住佛無畏入佛法界獲佛威德神通
+<lb ed="L" n="0719b04"/>目在得佛無礙廣大觀察知一切佛種性次
+<lb ed="L" n="0719b05"/>第住不可說佛法方便。</p></cb:div>
+<lb ed="L" n="0719b06"/><cb:div type="commentary"><p xml:id="pL132p0719b0601" rend="margin-left:1em">第二爾時世尊下加分中三初加因神知
+<lb ed="L" n="0719b07"/>機故次則以下顯加相三業加故初句總
+<lb ed="L" n="0719b08"/>餘句別謂意語身以光即教光故後令青
+<lb ed="L" n="0719b09"/>蓮華下加所為為具說德故文有八句一
+<lb ed="L" n="0719b10"/>外制無畏二內證深寂此意業勝三威德
+<lb ed="L" n="0719b11"/>內充四神用外徹此身業勝五具四無礙
+<lb ed="L" n="0719b12"/>是語業勝六徧觀機教為廣大七智性無
+<lb ed="L" n="0719b13"/>差為次第八授記善巧為方便皆說德也
+<lb ed="L" n="0719b14"/>所以加青蓮華藏者果德離言藉因顯故
+<lb ed="L" n="0719b15"/>因果同時故性德無染最超勝故一德具
+<pb ed="L" xml:id="L132.1557.0720a" n="0720a"/>
+<lb ed="L" n="0720a01"/>含一切功德故<note place="inline">七智性無差者成十九最勝彼欠二十光明行次第
+<lb ed="L" n="0720a02"/>本性無差性隨次第而終不易果德離言者此文有四節此對表華之義經宗有因
+<lb ed="L" n="0720a03"/>果二分十地<anchor xml:id="beg_1f9" type="cb-app"/>已<anchor xml:id="end_1f9"/>明華引果故二因果下表蓮華義謂有問言是華引果何要蓮華故
+<lb ed="L" n="0720a04"/>答云餘華華前果後此華不有則<anchor xml:id="beg_1fa" type="cb-app"/>已<anchor xml:id="end_1fa"/>有則華實雙含又無染故故舉蓮華三又問言
+<lb ed="L" n="0720a05"/>蓮華有四何要舉青故<g ref="#CB00562">䟽</g>答云最勝超故智論云水生華勝者即優鉢羅華故四又
+<lb ed="L" n="0720a06"/>蓮華一蓮多子表一含一切故此釋藏義</note>。</p></cb:div>
+<lb ed="L" n="0720a07"/><cb:div type="orig"><p xml:id="pL132p0720a0701">爾時青蓮華藏菩薩則能通達無礙法界則
+<lb ed="L" n="0720a08"/>能安住離障深行則能成滿普賢大願則能
+<lb ed="L" n="0720a09"/>知見一切佛法以大悲心觀察眾生欲令清
+<lb ed="L" n="0720a10"/>淨精進修習無有厭怠受行一切諸菩薩法
+<lb ed="L" n="0720a11"/>於一念中出生佛智解了一切無盡智門總
+<lb ed="L" n="0720a12"/>持辯才皆悉具足。</p></cb:div>
+<lb ed="L" n="0720a13"/><cb:div type="commentary"><p xml:id="pL132p0720a1301" rend="margin-left:1em">第三爾時青蓮華下證分十句初四自利
+<lb ed="L" n="0720a14"/>次三利他上皆自分後於一念下三句勝
+<lb ed="L" n="0720a15"/>進並顯可知。</p></cb:div>
+<pb ed="L" xml:id="L132.1557.0720b" n="0720b"/>
+<lb ed="L" n="0720b01"/><cb:div type="orig"><p xml:id="pL132p0720b0101">承佛神力告蓮華藏菩薩言。</p></cb:div>
+<lb ed="L" n="0720b02"/><cb:div type="commentary"><p xml:id="pL132p0720b0201" rend="margin-left:1em">第四承佛下說分分二先承力總告告蓮
+<lb ed="L" n="0720b03"/>華藏者非同佛心無以受佛德故亦名蓮
+<lb ed="L" n="0720b04"/>華不言青者不礙能說為最勝故。</p></cb:div>
+<lb ed="L" n="0720b05"/><cb:div type="orig"><p xml:id="pL132p0720b0501">佛子諸佛世尊有無量住所謂常住大悲住
+<lb ed="L" n="0720b06"/>種種身作諸佛事住平等意轉淨法輪住四
+<lb ed="L" n="0720b07"/>辯才說無量法住不思議一切佛法住清淨
+<lb ed="L" n="0720b08"/>音徧無量土住不可說甚深法界住現一切
+<lb ed="L" n="0720b09"/>最勝神通住能開示無有障礙究竟之法。</p></cb:div>
+<lb ed="L" n="0720b10"/><cb:div type="commentary"><p xml:id="pL132p0720b1001" rend="margin-left:1em">後佛子諸佛下正顯佛德略有二義一總
+<lb ed="L" n="0720b11"/>下五品共答十問此品答佛種性佛以功
+<lb ed="L" n="0720b12"/>德為種性故次二品答身次一品答本願
+<lb ed="L" n="0720b13"/>後一品答出現其國土問初會<anchor xml:id="beg_1fb" type="cb-app"/>已<anchor xml:id="end_1fb"/>廣餘或
+<lb ed="L" n="0720b14"/>經來未盡或前後攝之二者此品具答十
+<lb ed="L" n="0720b15"/>問謂佛德無量略顯三十二門門門皆具
+<pb ed="L" xml:id="L132.1557.0721a" n="0721a"/>
+<lb ed="L" n="0721a01"/>十有三百二十德以顯無盡昔以初十標
+<lb ed="L" n="0721a02"/>宗略答具答十問所餘唯有別答而超次
+<lb ed="L" n="0721a03"/>答前十問今謂三十二門如次答前十問
+<lb ed="L" n="0721a04"/>而門門皆含答十欲顯佛德一具一切故
+<lb ed="L" n="0721a05"/>亦顯所問能包含故而其標門之名多不
+<lb ed="L" n="0721a06"/>同前者為顯佛德無邊量故文分為十初
+<lb ed="L" n="0721a07"/>二門答國土問第二念念出生下二門答
+<lb ed="L" n="0721a08"/>本願問第三不思議境下二門答種性問
+<lb ed="L" n="0721a09"/>第四普入下二門答出現問第五離過清
+<lb ed="L" n="0721a10"/>淨下五門答身問第六演說下二門答音
+<lb ed="L" n="0721a11"/>聲問第七最勝下三門答智慧問第八自
+<lb ed="L" n="0721a12"/>在下八門答自在問第九決定下三門答
+<lb ed="L" n="0721a13"/>無礙問第十一切智住下三門答解脫問
+<lb ed="L" n="0721a14"/>以身及自在含前普光諸問多故用門亦
+<lb ed="L" n="0721a15"/>多而文多有三謂標釋結義相至文當顯
+<pb ed="L" xml:id="L132.1557.0721b" n="0721b"/>
+<lb ed="L" n="0721b01"/>今初二門答國土者國土即是所依所住
+<lb ed="L" n="0721b02"/>初門明其常住法門後門明其徧住法界
+<lb ed="L" n="0721b03"/>不唯國土不在方所為真土也今初文二
+<lb ed="L" n="0721b04"/>初標後釋釋中九句顯於如來應機說法
+<lb ed="L" n="0721b05"/>含答十問則十問皆成住處下皆倣之一
+<lb ed="L" n="0721b06"/>起應之心答種性問悲為種性故二演法
+<lb ed="L" n="0721b07"/>之身答身問三轉法之意答本願問本願
+<lb ed="L" n="0721b08"/>平等利一切故四能轉之辯答音聲問音
+<lb ed="L" n="0721b09"/>出辯故五所轉之法答自在自在不思議
+<lb ed="L" n="0721b10"/>故六轉音周徧答國土國土是音所至故
+<lb ed="L" n="0721b11"/>七所顯之理答智慧智慧能住法界故八
+<lb ed="L" n="0721b12"/>能化之通答神通問九演法之益答無礙
+<lb ed="L" n="0721b13"/>問文唯九句脫於出現或通前諸句出現
+<lb ed="L" n="0721b14"/>皆能作前九故答此十問既爾答初二會
+<lb ed="L" n="0721b15"/>類例可知<note place="inline">今初下釋文但明記上十問尋文易了或開或合顯義無方</note>。</p></cb:div>
+<pb ed="L" xml:id="L132.1557.0722a" n="0722a"/>
+<lb ed="L" n="0722a01"/><cb:div type="orig"><p xml:id="pL132p0722a0101">佛子諸佛世尊有十種法普徧無量無邊法
+<lb ed="L" n="0722a02"/>界何等為十所謂一切諸佛有無邊際身色
+<lb ed="L" n="0722a03"/>相清淨普入諸趣而無染著一切諸佛有無
+<lb ed="L" n="0722a04"/>邊際無障礙眼於一切法悉能明見一切諸
+<lb ed="L" n="0722a05"/>佛有無邊際無障礙耳悉能解了一切音聲
+<lb ed="L" n="0722a06"/>一切諸佛有無邊際鼻能到諸佛自在彼岸
+<lb ed="L" n="0722a07"/>一切諸佛有廣長舌出妙音聲周徧法界一
+<lb ed="L" n="0722a08"/>切諸佛有無邊際身應眾生心咸令得見一
+<lb ed="L" n="0722a09"/>切諸佛有無邊際意住於無礙平等法身一
+<lb ed="L" n="0722a10"/>切諸佛有無邊際無礙解脫示現無盡大神
+<lb ed="L" n="0722a11"/>通力一切諸佛有無邊際清淨世界隨眾生
+<lb ed="L" n="0722a12"/>樂現眾佛土具足無量種種莊嚴而於其中
+<lb ed="L" n="0722a13"/>不生染著一切諸佛有無邊際菩薩行願得
+<lb ed="L" n="0722a14"/>圓滿智遊戲自在悉能通達一切佛法佛子
+<lb ed="L" n="0722a15"/>是為如來應正等覺普徧法界無邊際十種
+<pb ed="L" xml:id="L132.1557.0722b" n="0722b"/>
+<lb ed="L" n="0722b01"/>佛法。</p></cb:div>
+<lb ed="L" n="0722b02"/><cb:div type="commentary"><p xml:id="pL132p0722b0201" rend="margin-left:1em">二普徧法界者明其徧住謂六根三業皆
+<lb ed="L" n="0722b03"/>徧法界土故標中無量是事法界無邊是
+<lb ed="L" n="0722b04"/>理此二無礙及事事無礙法界並為所徧
+<lb ed="L" n="0722b05"/>列中則顯前十皆徧一無邊身含答三問
+<lb ed="L" n="0722b06"/>一正答身其普徧諸趣是有悲性及出現
+<lb ed="L" n="0722b07"/>義次六是身別相亦是於身兼答普光眼
+<lb ed="L" n="0722b08"/>等六問出妙音聲答音聲問第八答三問
+<lb ed="L" n="0722b09"/>謂無礙答第九解脫答第十神通力答自
+<lb ed="L" n="0722b10"/>在第九別答國土第十答本願及智慧問。</p></cb:div>
+<lb ed="L" n="0722b11"/><cb:div type="orig"><p xml:id="pL132p0722b1101">佛子諸佛世尊有十種念念出生智何等為
+<lb ed="L" n="0722b12"/>十所謂一切諸佛於一念中悉能示現無量
+<lb ed="L" n="0722b13"/>世界從天來下一切諸佛於一念中悉能示
+<lb ed="L" n="0722b14"/>現無量世界菩薩受生一切諸佛於一念中
+<lb ed="L" n="0722b15"/>悉能示現無量世界出家學道一切諸佛於
+<pb ed="L" xml:id="L132.1557.0723a" n="0723a"/>
+<lb ed="L" n="0723a01"/>一念中悉能示現無量世界菩提樹下成等
+<lb ed="L" n="0723a02"/>正覺一切諸佛於一念中悉能示現無量世
+<lb ed="L" n="0723a03"/>界轉妙法輪一切諸佛於一念中悉能示現
+<lb ed="L" n="0723a04"/>無量世界教化眾生供養諸佛一切諸佛於
+<lb ed="L" n="0723a05"/>一念中悉能示現無量世界不可言說種種
+<lb ed="L" n="0723a06"/>佛身一切諸佛於一念中悉能示現無量世
+<lb ed="L" n="0723a07"/>界種種莊嚴無數莊嚴如來自在一切智藏
+<lb ed="L" n="0723a08"/>一切諸佛於一念中悉能示現無量世界無
+<lb ed="L" n="0723a09"/>量無數清淨眾生一切諸佛於一念中悉能
+<lb ed="L" n="0723a10"/>示現無量世界三世諸佛種種根性種種精
+<lb ed="L" n="0723a11"/>進種種行解於三世中成等正覺是為十。</p></cb:div>
+<lb ed="L" n="0723a12"/><cb:div type="commentary"><p xml:id="pL132p0723a1201" rend="margin-left:1em">第二念念出生智下二門答本願問此門
+<lb ed="L" n="0723a13"/>明乘願現其八相後門明願不失時今初
+<lb ed="L" n="0723a14"/>然願以後得智為體從其願智生八相等
+<lb ed="L" n="0723a15"/>非生智也別中一乘願下生二受生種族
+<pb ed="L" xml:id="L132.1557.0723b" n="0723b"/>
+<lb ed="L" n="0723b01"/>三學解脫道四明其出現五音聲六化生
+<lb ed="L" n="0723b02"/>嚴國七現身八自在相嚴福嚴嚴如來藏
+<lb ed="L" n="0723b03"/>故九是無礙十即智慧正徧知故。</p></cb:div>
+<lb ed="L" n="0723b04"/><cb:div type="orig"><p xml:id="pL132p0723b0401">佛子諸佛世尊有十種不失時何等為十所
+<lb ed="L" n="0723b05"/>謂一切諸佛成等正覺不失時一切諸佛成
+<lb ed="L" n="0723b06"/>熟有緣不失時一切諸佛授菩薩記不失時
+<lb ed="L" n="0723b07"/>一切諸佛隨眾生心示現神力不失時一切
+<lb ed="L" n="0723b08"/>諸佛隨眾生解示現佛身不失時一切諸佛
+<lb ed="L" n="0723b09"/>住於大捨不失時一切諸佛入諸聚落不失
+<lb ed="L" n="0723b10"/>時一切諸佛攝諸淨信不失時一切諸佛調
+<lb ed="L" n="0723b11"/>惡眾生不失時一切諸佛現不思議諸佛神
+<lb ed="L" n="0723b12"/>通不失時是為十。</p></cb:div>
+<lb ed="L" n="0723b13"/><cb:div type="commentary"><p xml:id="pL132p0723b1301" rend="margin-left:1em">二不失時者行止在緣根熟化現未熟便
+<lb ed="L" n="0723b14"/>捨非願不周若機熟失時便違本願別中
+<lb ed="L" n="0723b15"/>一出現二成本願有緣三知種性與記四
+<pb ed="L" xml:id="L132.1557.0724a" n="0724a"/>
+<lb ed="L" n="0724a01"/>自在五現身六智住於捨七六根無礙八
+<lb ed="L" n="0724a02"/>淨國攝信九強音調惡十即不思議解脫。</p></cb:div>
+<lb ed="L" n="0724a03"/><cb:div type="orig"><p xml:id="pL132p0724a0301">佛子諸佛世尊有十種無比不思議境界何
+<lb ed="L" n="0724a04"/>等為十所謂一切諸佛一跏趺坐徧滿十方
+<lb ed="L" n="0724a05"/>無量世界一切諸佛說一義句悉能開示一
+<lb ed="L" n="0724a06"/>切佛法一切諸佛放一光明悉能徧照一切
+<lb ed="L" n="0724a07"/>世界一切諸佛於一身中悉能示現一切諸
+<lb ed="L" n="0724a08"/>身一切諸佛於一處中悉能示現一切世界
+<lb ed="L" n="0724a09"/>一切諸佛於一智中悉能決了一切諸法無
+<lb ed="L" n="0724a10"/>所<g ref="#CB07724">𦊱</g>礙一切諸佛於一念中悉能徧徃十方
+<lb ed="L" n="0724a11"/>世界一切諸佛於一念中悉現如來無量威
+<lb ed="L" n="0724a12"/>德一切諸佛於一念中普緣三世佛及眾生
+<lb ed="L" n="0724a13"/>心無雜亂一切諸佛於一念中與去來今一
+<lb ed="L" n="0724a14"/>切諸佛體同無二是為十。</p></cb:div>
+<lb ed="L" n="0724a15"/><cb:div type="commentary"><p xml:id="pL132p0724a1501" rend="margin-left:1em">第三不思議境界下二門答種性問此門
+<pb ed="L" xml:id="L132.1557.0724b" n="0724b"/>
+<lb ed="L" n="0724b01"/>雙明報應種性皆真正故後門唯明法身
+<lb ed="L" n="0724b02"/>種性今初體相超言念故云不思議下位
+<lb ed="L" n="0724b03"/>不及故云無比別中一身二音三乘願放
+<lb ed="L" n="0724b04"/>光如其本願所得光故四出現五國土六
+<lb ed="L" n="0724b05"/>智慧七自在八威德種族九無雜之礙十
+<lb ed="L" n="0724b06"/>解脫體同上之五<g ref="#CB01008">󰏰</g>皆略指陳兼答十問
+<lb ed="L" n="0724b07"/>已下恐繁不顯說者隨宜。</p></cb:div>
+<lb ed="L" n="0724b08"/><cb:div type="orig"><p xml:id="pL132p0724b0801">佛子諸佛世尊能出生十種智何者為十所
+<lb ed="L" n="0724b09"/>謂一切諸佛知一切法無所趣向而能出生
+<lb ed="L" n="0724b10"/>廻向願智一切諸佛知一切法皆無有身而
+<lb ed="L" n="0724b11"/>能出生清淨身智一切諸佛知一切法本來
+<lb ed="L" n="0724b12"/>無二而能出生能覺悟智一切諸佛知一切
+<lb ed="L" n="0724b13"/>法無我無眾生而能出生調眾生智一切諸
+<lb ed="L" n="0724b14"/>佛知一切法本來無相而能出生了諸相智
+<lb ed="L" n="0724b15"/>一切諸佛知一切世界無有成壞而能出生
+<pb ed="L" xml:id="L132.1557.0725a" n="0725a"/>
+<lb ed="L" n="0725a01"/>了成壞智一切諸佛知一切法無有造作而
+<lb ed="L" n="0725a02"/>能出生知業果智一切諸佛知一切法無有
+<lb ed="L" n="0725a03"/>言說而能出生了言說智一切諸佛知一切
+<lb ed="L" n="0725a04"/>法無有染淨而能出生知染淨智一切諸佛
+<lb ed="L" n="0725a05"/>知一切法無有生滅而能出生了生滅智是
+<lb ed="L" n="0725a06"/>為十。</p></cb:div>
+<lb ed="L" n="0725a07"/><cb:div type="commentary"><p xml:id="pL132p0725a0701" rend="margin-left:1em">二出生智者明法身為種性也從無性中
+<lb ed="L" n="0725a08"/>出其智慧非答智慧故別中十各二句皆
+<lb ed="L" n="0725a09"/>上句知性即無性之性為能生後句出生
+<lb ed="L" n="0725a10"/>智用。</p></cb:div>
+<lb ed="L" n="0725a11"/><cb:div type="orig"><p xml:id="pL132p0725a1101">佛子諸佛世尊有十種普入法何等為十所
+<lb ed="L" n="0725a12"/>謂一切諸佛有淨妙身普入三世一切諸佛
+<lb ed="L" n="0725a13"/>皆悉具足三種自在普化眾生一切諸佛皆
+<lb ed="L" n="0725a14"/>悉具足諸陀羅尼普能受持一切佛法一切
+<lb ed="L" n="0725a15"/>諸佛皆悉具足四種辯才普轉一切清淨法
+<pb ed="L" xml:id="L132.1557.0725b" n="0725b"/>
+<lb ed="L" n="0725b01"/>輪一切諸佛皆悉具足平等大悲恒不捨離
+<lb ed="L" n="0725b02"/>一切眾生一切諸佛皆悉具足甚深禪定恒
+<lb ed="L" n="0725b03"/>普觀察一切眾生一切諸佛皆悉具足利他
+<lb ed="L" n="0725b04"/>善根調伏眾生無有休息一切諸佛皆悉具
+<lb ed="L" n="0725b05"/>足無所礙心普能安住一切法界一切諸佛
+<lb ed="L" n="0725b06"/>皆悉具足無礙神力一念普現三世諸佛一
+<lb ed="L" n="0725b07"/>切諸佛皆悉具足無礙智慧一念普立三世
+<lb ed="L" n="0725b08"/>劫數是為十。</p></cb:div>
+<lb ed="L" n="0725b09"/><cb:div type="commentary"><p xml:id="pL132p0725b0901" rend="margin-left:1em">第四普入下二門答出現問此門明徧現
+<lb ed="L" n="0725b10"/>常現非有出沒方為真現故別中云普現
+<lb ed="L" n="0725b11"/>三世諸佛況自身耶又一現即一切現以
+<lb ed="L" n="0725b12"/>三世佛無二體故如文殊般若中辨別中
+<lb ed="L" n="0725b13"/>云三種自在者即三業化也。</p></cb:div>
+<lb ed="L" n="0725b14"/><cb:div type="orig"><p xml:id="pL132p0725b1401">佛子諸佛世尊有十種難信受廣大法何等
+<lb ed="L" n="0725b15"/>為十所謂一切諸佛悉能摧滅一切諸魔一
+<pb ed="L" xml:id="L132.1557.0726a" n="0726a"/>
+<lb ed="L" n="0726a01"/>切諸佛悉能降伏一切外道一切諸佛悉能
+<lb ed="L" n="0726a02"/>調伏一切眾生咸令歡恱一切諸佛悉能徃
+<lb ed="L" n="0726a03"/>詣一切世界化導羣品一切諸佛悉能智證
+<lb ed="L" n="0726a04"/>甚深法界一切諸佛悉皆能以無二之身現
+<lb ed="L" n="0726a05"/>種種身充滿世界一切諸佛悉皆能以清淨
+<lb ed="L" n="0726a06"/>音聲起四辯才說法無斷凡有信受功不唐
+<lb ed="L" n="0726a07"/>捐一切諸佛皆悉能於一毛孔中出現諸佛
+<lb ed="L" n="0726a08"/>與一切世界微塵數等無有斷絕一切諸佛
+<lb ed="L" n="0726a09"/>皆悉能於一微塵中示現眾剎與一切世界
+<lb ed="L" n="0726a10"/>微塵數等具足種種上妙莊嚴恒於其中轉
+<lb ed="L" n="0726a11"/>妙法輪教化眾生而微塵不大世界不小常
+<lb ed="L" n="0726a12"/>以證智安住法界一切諸佛皆悉了達清淨
+<lb ed="L" n="0726a13"/>法界以智光明破世癡闇令於佛法悉得開
+<lb ed="L" n="0726a14"/>曉隨逐如來住十力中是為十。</p></cb:div>
+<lb ed="L" n="0726a15"/><cb:div type="commentary"><p xml:id="pL132p0726a1501" rend="margin-left:1em">第二十種廣大法者明出現之相謂大用
+<pb ed="L" xml:id="L132.1557.0726b" n="0726b"/>
+<lb ed="L" n="0726b01"/>無涯故云廣大凡小莫測故難信受文顯
+<lb ed="L" n="0726b02"/>可知。</p></cb:div>
+<lb ed="L" n="0726b03"/><cb:juan fun="close" n="46a"><cb:jhead>大方廣佛華嚴經<g ref="#CB00562">䟽</g>鈔會本第四十六之一</cb:jhead></cb:juan>
+<lb ed="L" n="0726b04"/><cb:div type="w"><head>音釋</head>
+<lb ed="L" n="0726b05"/><cb:div type="note"><entry><form><term rend="no_nor"><g ref="#CB07724">𦊱</g></term>礙</form><cb:def><p xml:id="pL132p0726b0503" rend="margin-left:1em;inline"><note place="inline"><term rend="no_nor"><g ref="#CB07724">𦊱</g></term>古賣切礙五溉切<term rend="no_nor"><g ref="#CB07724">𦊱</g></term>礙<term rend="no_nor"><g ref="#CB07757">󱹍</g></term>也</note>。</p></cb:def></entry><entry cb:place="inline"><form>唐<term rend="no_nor"><g ref="#CB13378">󳑂</g></term></form><cb:def><p xml:id="pL132p0726b0517" rend="margin-left:1em;inline"><note place="inline"><term rend="no_nor"><g ref="#CB13378">󳑂</g></term>與專切唐<term rend="no_nor"><g ref="#CB13378">󳑂</g></term>徒棄也</note>。</p></cb:def></entry></cb:div></cb:div>
+<pb ed="L" xml:id="L132.1557.0727a" n="0727a"/>
+<lb ed="L" n="0727a01"/><cb:juan fun="open" n="46b"><cb:mulu type="卷" n="46b">第四十六之二</cb:mulu><cb:jhead>大方廣佛華嚴經<g ref="#CB00562">䟽</g>鈔會本第四十六之二　<g ref="#CB08516">𡚁</g>八</cb:jhead></cb:juan>
+<lb ed="L" n="0727a02"/><byline cb:type="translator">唐于闐國三藏沙門實叉難陀　譯</byline>
+<lb ed="L" n="0727a03"/><byline cb:type="author">唐清涼山大華嚴寺沙門澄觀撰述</byline>
+<lb ed="L" n="0727a04"/><cb:div type="orig"><p xml:id="pL132p0727a0401">佛子諸佛世尊有十種大功德離過清淨何
+<lb ed="L" n="0727a05"/>等為十所謂一切諸佛具大威德離過清淨
+<lb ed="L" n="0727a06"/>一切諸佛悉於三世如來家生種族調善離
+<lb ed="L" n="0727a07"/>過清淨一切諸佛盡未來際心無所住離過
+<lb ed="L" n="0727a08"/>清淨一切諸佛於三世法皆無所著離過清
+<lb ed="L" n="0727a09"/>淨一切諸佛知種種性皆是一性無所從來
+<lb ed="L" n="0727a10"/>離過清淨一切諸佛前際後際福德無盡等
+<lb ed="L" n="0727a11"/>於法界離過清淨一切諸佛無邊身相徧十
+<lb ed="L" n="0727a12"/>方剎隨時調伏一切眾生離過清淨一切諸
+<lb ed="L" n="0727a13"/>佛獲四無畏離諸恐怖於眾會中大師子吼
+<lb ed="L" n="0727a14"/>明了分別一切諸法離過清淨一切諸佛於
+<lb ed="L" n="0727a15"/>不可說不可說劫入般涅槃眾生聞名獲無
+<pb ed="L" xml:id="L132.1557.0727b" n="0727b"/>
+<lb ed="L" n="0727b01"/>量福如佛現在功德無異離過清淨一切諸
+<lb ed="L" n="0727b02"/>佛遠在不可說不可說世界中若有眾生一
+<lb ed="L" n="0727b03"/>心正念則皆得見離過清淨是為十。</p></cb:div>
+<lb ed="L" n="0727b04"/><cb:div type="commentary"><p xml:id="pL132p0727b0401" rend="margin-left:1em">第五離過清淨下五門答身問即分為五
+<lb ed="L" n="0727b05"/>一此門總顯無過如來三業隨智慧行故
+<lb ed="L" n="0727b06"/>三業等事不出於身故別中十句多同出
+<lb ed="L" n="0727b07"/>現品身之十相思之<note place="inline">別中十句者彼之十相即是十身一普入
+<lb ed="L" n="0727b08"/>成益相即威勢身二無心普應相即是化身故云種族調善三平等隨應即菩提身
+<lb ed="L" n="0727b09"/>由菩薩智無所住故平等隨應四無著無礙即智身五周遍十方即是法身故云一
+<lb ed="L" n="0727b10"/>性六嚴剎益生即福德身七無生潛益即相好莊嚴身八嚴好滿願即是願身願力
+<lb ed="L" n="0727b11"/>周法界恒轉妙法輪故九窮盡後際即力持身故彼經中以醫王延壽喻喻佛雖涅
+<lb ed="L" n="0727b12"/>槃而不失利樂十圓廻等住即意生身故云心念則現以彼十相十身對今經文一
+<lb ed="L" n="0727b13"/>無差異其有難者隨句已釋若依彼次此一即彼三二即彼七三即彼四四即彼二
+<lb ed="L" n="0727b14"/>五即彼一六即彼九七即彼五八即彼十九即彼八十即彼六但彼文廣理無二也</note>。</p></cb:div>
+<lb ed="L" n="0727b15"/><cb:div type="orig"><p xml:id="pL132p0727b1501">佛子諸佛世尊有十種究竟清淨何等為十
+<pb ed="L" xml:id="L132.1557.0728a" n="0728a"/>
+<lb ed="L" n="0728a01"/>所謂一切諸佛徃昔大願究竟清淨一切諸
+<lb ed="L" n="0728a02"/>佛所持梵行究竟清淨一切諸佛離世眾惑
+<lb ed="L" n="0728a03"/>究竟清淨一切諸佛莊嚴國土究竟清淨一
+<lb ed="L" n="0728a04"/>切諸佛所有眷屬究竟清淨一切諸佛所有
+<lb ed="L" n="0728a05"/>種族究竟清淨一切諸佛色身相好究竟清
+<lb ed="L" n="0728a06"/>淨一切諸佛法身無染究竟清淨一切諸佛
+<lb ed="L" n="0728a07"/>一切智智無有障礙究竟清淨一切諸佛解
+<lb ed="L" n="0728a08"/>脫自在所作已辦到於彼岸究竟清淨是為
+<lb ed="L" n="0728a09"/>十。</p></cb:div>
+<lb ed="L" n="0728a10"/><cb:div type="commentary"><p xml:id="pL132p0728a1001" rend="margin-left:1em">二究竟清淨明過不生揀異因淨故云究
+<lb ed="L" n="0728a11"/>竟惑障諸垢永不起故別中前五功德身
+<lb ed="L" n="0728a12"/>淨次三色身次一法身次一智身後一意
+<lb ed="L" n="0728a13"/>生等身淨也<note place="inline">後一意生者由言解脫自在故云意生身言等身者等取
+<lb ed="L" n="0728a14"/>願身化身等也</note>。</p></cb:div>
+<lb ed="L" n="0728a15"/><cb:div type="orig"><p xml:id="pL132p0728a1501">佛子諸佛世尊於一切世界一切時有十種
+<pb ed="L" xml:id="L132.1557.0728b" n="0728b"/>
+<lb ed="L" n="0728b01"/>佛事何等為十一者若有眾生專心憶念則
+<lb ed="L" n="0728b02"/>現其前二者若有眾生心不調順則為說法
+<lb ed="L" n="0728b03"/>二者若有眾生能生淨信必令獲得無量善
+<lb ed="L" n="0728b04"/>根四者若有眾生能入法位悉皆現證無不
+<lb ed="L" n="0728b05"/>了知五者教化眾生無有疲厭六者遊諸佛
+<lb ed="L" n="0728b06"/>剎徃來無礙七者大悲不捨一切眾生八者
+<lb ed="L" n="0728b07"/>現變化身恒不斷絕九者神通自在未嘗休
+<lb ed="L" n="0728b08"/>息十者安住法界能徧觀察是為十。</p></cb:div>
+<lb ed="L" n="0728b09"/><cb:div type="commentary"><p xml:id="pL132p0728b0901" rend="margin-left:1em">三十種作佛事即明身之業用別中亦多
+<lb ed="L" n="0728b10"/>同出現品身相。</p></cb:div>
+<lb ed="L" n="0728b11"/><cb:div type="orig"><p xml:id="pL132p0728b1101">佛子諸佛世尊有十種無盡智海法何等為
+<lb ed="L" n="0728b12"/>十所謂一切諸佛無邊法身無盡智海法一
+<lb ed="L" n="0728b13"/>切諸佛無量佛事無盡智海法一切諸佛佛
+<lb ed="L" n="0728b14"/>眼境界無盡智海法一切諸佛無量無數難
+<lb ed="L" n="0728b15"/>思善根無盡智海法一切諸佛普雨一切甘
+<pb ed="L" xml:id="L132.1557.0729a" n="0729a"/>
+<lb ed="L" n="0729a01"/>露妙法無盡智海法一切諸佛讚佛功德無
+<lb ed="L" n="0729a02"/>盡智海法一切諸佛徃昔所修種種願行無
+<lb ed="L" n="0729a03"/>盡智海法一切諸佛盡未來際恒作佛事無
+<lb ed="L" n="0729a04"/>盡智海法一切諸佛了知一切眾生心行無
+<lb ed="L" n="0729a05"/>盡智海法一切諸佛福智莊嚴無能過者無
+<lb ed="L" n="0729a06"/>盡智海法是為十。</p></cb:div>
+<lb ed="L" n="0729a07"/><cb:div type="commentary"><p xml:id="pL132p0729a0701" rend="margin-left:1em">四無盡智海法者即如來六根三業皆智
+<lb ed="L" n="0729a08"/>慧深廣相應故亦別廣智身可知。</p></cb:div>
+<lb ed="L" n="0729a09"/><cb:div type="orig"><p xml:id="pL132p0729a0901">佛子諸佛世尊有十種常法何等為十所謂
+<lb ed="L" n="0729a10"/>一切諸佛常行一切諸波羅蜜一切諸佛於
+<lb ed="L" n="0729a11"/>一切法常離迷惑一切諸佛常具大悲一切
+<lb ed="L" n="0729a12"/>諸佛常有十力一切諸佛常轉法輪一切諸
+<lb ed="L" n="0729a13"/>佛常為眾生示成正覺一切諸佛常樂調伏
+<lb ed="L" n="0729a14"/>一切眾生一切諸佛心常正念不二之法一
+<lb ed="L" n="0729a15"/>切諸佛化眾生已常示入於無餘涅槃諸佛
+<pb ed="L" xml:id="L132.1557.0729b" n="0729b"/>
+<lb ed="L" n="0729b01"/>境界無邊際故是為十。</p></cb:div>
+<lb ed="L" n="0729b02"/><cb:div type="commentary"><p xml:id="pL132p0729b0201" rend="margin-left:1em">五十種常法者明身中意業恒常用無斷
+<lb ed="L" n="0729b03"/>故。</p></cb:div>
+<lb ed="L" n="0729b04"/><cb:div type="orig"><p xml:id="pL132p0729b0401">佛子諸佛世尊有十種演說無量諸佛法門
+<lb ed="L" n="0729b05"/>何等為十所謂一切諸佛演說無量眾生界
+<lb ed="L" n="0729b06"/>門一切諸佛演說無量眾生行門一切諸佛
+<lb ed="L" n="0729b07"/>演說無量眾生業果門一切諸佛演說無量
+<lb ed="L" n="0729b08"/>化眾生門一切諸佛演說無量淨眾生門一
+<lb ed="L" n="0729b09"/>切諸佛演說無量菩薩行門一切諸佛演說
+<lb ed="L" n="0729b10"/>無量菩薩願門一切諸佛演說無量一切世
+<lb ed="L" n="0729b11"/>界成壞劫門一切諸佛演說無量菩薩深心
+<lb ed="L" n="0729b12"/>淨佛剎門一切諸佛演說無量一切世界三
+<lb ed="L" n="0729b13"/>世諸佛於彼彼劫次第出現門一切諸佛演
+<lb ed="L" n="0729b14"/>說一切諸佛智門是為十佛子諸佛世尊有
+<lb ed="L" n="0729b15"/>十種為眾生作佛事何等為十所謂一切諸
+<pb ed="L" xml:id="L132.1557.0730a" n="0730a"/>
+<lb ed="L" n="0730a01"/>佛示現色身為眾生作佛事一切諸佛出妙
+<lb ed="L" n="0730a02"/>音聲為眾生作佛事一切諸佛有所受為眾
+<lb ed="L" n="0730a03"/>生作佛事一切諸佛無所受為眾生作佛事
+<lb ed="L" n="0730a04"/>一切諸佛以地水火風為眾生作佛事一切
+<lb ed="L" n="0730a05"/>諸佛神力自在示現一切所緣境界為眾生
+<lb ed="L" n="0730a06"/>作佛事一切諸佛種種名號為眾生作佛事
+<lb ed="L" n="0730a07"/>一切諸佛以佛剎境界為眾生作佛事一切
+<lb ed="L" n="0730a08"/>諸佛嚴淨佛剎為眾生作佛事一切諸佛寂
+<lb ed="L" n="0730a09"/>寞無言為眾生作佛事是為十。</p></cb:div>
+<lb ed="L" n="0730a10"/><cb:div type="commentary"><p xml:id="pL132p0730a1001" rend="margin-left:1em">第六演說無量下二門答音聲問此門明
+<lb ed="L" n="0730a11"/>以音聲辯說兼答普光辯問後門十種作
+<lb ed="L" n="0730a12"/>佛事明種種說法謂六塵四大舉動施為
+<lb ed="L" n="0730a13"/>皆能顯法成益無非佛事非獨音聲如淨
+<lb ed="L" n="0730a14"/>名說別中初身二音三四皆智受為成彼
+<lb ed="L" n="0730a15"/>檀故不受令彼倣佛行少欲故又以無所
+<pb ed="L" xml:id="L132.1557.0730b" n="0730b"/>
+<lb ed="L" n="0730b01"/>受受諸受故餘可知。</p></cb:div>
+<lb ed="L" n="0730b02"/><cb:div type="orig"><p xml:id="pL132p0730b0201">佛子諸佛世尊有十種最勝法何等為十所
+<lb ed="L" n="0730b03"/>謂一切諸佛大願堅固不可沮壞所言必作
+<lb ed="L" n="0730b04"/>言無有二一切諸佛為欲圓滿一切功德盡
+<lb ed="L" n="0730b05"/>未來劫修菩薩行不生懈倦一切諸佛為欲
+<lb ed="L" n="0730b06"/>調伏一切眾生故徃不可說不可說世界如
+<lb ed="L" n="0730b07"/>是而為一切眾生而無斷絕一切諸佛於信
+<lb ed="L" n="0730b08"/>於毀二種眾生大悲普觀平等無異一切諸
+<lb ed="L" n="0730b09"/>佛從初發心乃至成佛終不退失菩提之心
+<lb ed="L" n="0730b10"/>一切諸佛積集無量諸善功德皆以迴向一
+<lb ed="L" n="0730b11"/>切智性於諸世間終無染著一切諸佛於諸
+<lb ed="L" n="0730b12"/>佛所修學三業唯行佛行非二乘行皆為迴
+<lb ed="L" n="0730b13"/>向一切智性成於無上正等菩提一切諸佛
+<lb ed="L" n="0730b14"/>放大光明其光平等照一切處及照一切諸
+<lb ed="L" n="0730b15"/>佛之法令諸菩薩心得清淨滿一切智一切
+<pb ed="L" xml:id="L132.1557.0731a" n="0731a"/>
+<lb ed="L" n="0731a01"/>諸佛捨離世樂不貪不染而普願世間離苦
+<lb ed="L" n="0731a02"/>得樂無諸戲論一切諸佛愍諸眾生受種種
+<lb ed="L" n="0731a03"/>苦守護佛種行佛境界出離生死逮十力地
+<lb ed="L" n="0731a04"/>是為十。</p></cb:div>
+<lb ed="L" n="0731a05"/><cb:div type="commentary"><p xml:id="pL132p0731a0501" rend="margin-left:1em">第七最勝法下三門答智慧問初此一門
+<lb ed="L" n="0731a06"/>總明權實因果之智兼答普光最勝之問
+<lb ed="L" n="0731a07"/>智慧最勝故結云住十力地兼答佛地之
+<lb ed="L" n="0731a08"/>問別中四即三念處行餘可思之<note place="inline">四即三念者亦
+<lb ed="L" n="0731a09"/>云三念住念謂能緣慧處謂不增不減平等之理初一心聽法不憂二一心聽法不
+<lb ed="L" n="0731a10"/>喜三常行捨心以法界中減退相不可得故增進相不可得即涅槃相故如次配之</note>。</p></cb:div>
+<lb ed="L" n="0731a11"/><cb:div type="orig"><p xml:id="pL132p0731a1101">佛子諸佛世尊有十種無障礙住何等為十
+<lb ed="L" n="0731a12"/>所謂一切諸佛皆能徃一切世界無障礙住
+<lb ed="L" n="0731a13"/>一切諸佛皆能住一切世界無障礙住一切
+<lb ed="L" n="0731a14"/>諸佛皆能於一切世界行住坐臥無障礙住
+<lb ed="L" n="0731a15"/>一切諸佛皆能於一切世界演說正法無障
+<pb ed="L" xml:id="L132.1557.0731b" n="0731b"/>
+<lb ed="L" n="0731b01"/>礙住一切諸佛皆能於一切世界住兜率天
+<lb ed="L" n="0731b02"/>宮無障礙住一切諸佛皆能入法界一切三
+<lb ed="L" n="0731b03"/>世無障礙住一切諸佛皆能坐法界一切道
+<lb ed="L" n="0731b04"/>塲無障礙住一切諸佛皆能念念觀一切眾
+<lb ed="L" n="0731b05"/>生心行以三種自在教化調伏無障礙住一
+<lb ed="L" n="0731b06"/>切諸佛皆能以一身住無量不思議佛所及
+<lb ed="L" n="0731b07"/>一切處利益眾生無障礙住一切諸佛皆能
+<lb ed="L" n="0731b08"/>開示無量諸佛所說正法無障礙住是為十。</p></cb:div>
+<lb ed="L" n="0731b09"/><cb:div type="commentary"><p xml:id="pL132p0731b0901" rend="margin-left:1em">二無障礙住明智慧離障以智慧所作無
+<lb ed="L" n="0731b10"/>礙故一切無礙。</p></cb:div>
+<lb ed="L" n="0731b11"/><cb:div type="orig"><p xml:id="pL132p0731b1101">佛子諸佛世尊有十種最勝無上莊嚴何等
+<lb ed="L" n="0731b12"/>為十所謂一切諸佛皆悉具足諸相隨好是
+<lb ed="L" n="0731b13"/>為諸佛第一最勝無上身莊嚴一切諸佛皆
+<lb ed="L" n="0731b14"/>悉具足六十種音一一音有五百分一一分
+<lb ed="L" n="0731b15"/>無量百千清淨之音以為嚴好能於法界一
+<pb ed="L" xml:id="L132.1557.0732a" n="0732a"/>
+<lb ed="L" n="0732a01"/>切眾中無諸恐怖大師子吼演說如來甚深
+<lb ed="L" n="0732a02"/>法義眾生聞者靡不歡喜隨其根欲悉得調
+<lb ed="L" n="0732a03"/>伏是為諸佛第二最勝無上語莊嚴一切諸
+<lb ed="L" n="0732a04"/>佛皆具十力諸大三昧十八不共莊嚴意業
+<lb ed="L" n="0732a05"/>所行境界通達無礙一切佛法咸得無餘法
+<lb ed="L" n="0732a06"/>界莊嚴而為莊嚴法界眾生心之所行去來
+<lb ed="L" n="0732a07"/>現在各各差別於一念中悉能明見是為諸
+<lb ed="L" n="0732a08"/>佛第三最勝無上意莊嚴一切諸佛皆悉能
+<lb ed="L" n="0732a09"/>放無數光明一一光明有不可說光明網以
+<lb ed="L" n="0732a10"/>為眷屬普照一切諸佛國土滅除一切世間
+<lb ed="L" n="0732a11"/>黑闇示現無量諸佛出興其身平等悉皆清
+<lb ed="L" n="0732a12"/>淨所作佛事咸不唐<g ref="#CB13378">󳑂</g>能令眾生至不退轉
+<lb ed="L" n="0732a13"/>是為諸佛第四最勝無上光明莊嚴一切諸
+<lb ed="L" n="0732a14"/>佛現微笑時皆於口中放百千億那由他阿
+<lb ed="L" n="0732a15"/>僧祇光明一一光明各有無量不思議種種
+<pb ed="L" xml:id="L132.1557.0732b" n="0732b"/>
+<lb ed="L" n="0732b01"/>色徧照十方一切世界於大眾中發誠實語
+<lb ed="L" n="0732b02"/>授無量無數不思議眾生阿耨多羅三藐三
+<lb ed="L" n="0732b03"/>菩提記是為諸佛第五離世癡惑最勝無上
+<lb ed="L" n="0732b04"/>現微笑莊嚴一切諸佛皆有法身清淨無礙
+<lb ed="L" n="0732b05"/>於一切法究竟通達住於法界無有邊際雖
+<lb ed="L" n="0732b06"/>在世間不與世雜了世實性行出世法言語
+<lb ed="L" n="0732b07"/>道斷超蘊界處是為諸佛第六最勝無上法
+<lb ed="L" n="0732b08"/>身莊嚴一切諸佛皆有無量常妙光明不可
+<lb ed="L" n="0732b09"/>說不可說種種色相以為嚴好為光明藏出
+<lb ed="L" n="0732b10"/>生無量圓滿光明普照十方無有障礙是為
+<lb ed="L" n="0732b11"/>諸佛第七最勝無上常妙光明莊嚴一切諸
+<lb ed="L" n="0732b12"/>佛皆有無邊妙色可愛妙色清淨妙色隨心
+<lb ed="L" n="0732b13"/>所現妙色映蔽一切三界妙色到於彼岸無
+<lb ed="L" n="0732b14"/>上妙色是為諸佛第八最勝無上妙色莊嚴
+<lb ed="L" n="0732b15"/>一切諸佛皆於三世佛種中生積眾善寶究
+<pb ed="L" xml:id="L132.1557.0733a" n="0733a"/>
+<lb ed="L" n="0733a01"/>竟清淨無諸過失離世譏謗一切法中最為
+<lb ed="L" n="0733a02"/>殊勝清淨妙行之所莊嚴具足成就一切智
+<lb ed="L" n="0733a03"/>智種族清淨無能譏毀是為諸佛第九最勝
+<lb ed="L" n="0733a04"/>無上種族莊嚴一切諸佛以大慈力莊嚴其
+<lb ed="L" n="0733a05"/>身究竟清淨無諸渴愛身行永息心善解脫
+<lb ed="L" n="0733a06"/>見者無厭大悲救護一切世間第一福田無
+<lb ed="L" n="0733a07"/>上受者哀愍利益一切眾生悉令增長無量
+<lb ed="L" n="0733a08"/>福德智慧之聚是為諸佛第十最勝無上大
+<lb ed="L" n="0733a09"/>慈大悲功德莊嚴是為十。</p></cb:div>
+<lb ed="L" n="0733a10"/><cb:div type="commentary"><p xml:id="pL132p0733a1001" rend="margin-left:1em">三十種無上莊嚴即智慧成益由內具智
+<lb ed="L" n="0733a11"/>嚴故外具諸嚴標中超下位故最勝上無
+<lb ed="L" n="0733a12"/>加故云無上別中十義結名自顯一相好
+<lb ed="L" n="0733a13"/>身二圓滿音三以功德嚴意四放光五微
+<lb ed="L" n="0733a14"/>笑授記其緣甚眾離世間品亦明六法身
+<lb ed="L" n="0733a15"/>中真如出纏故云清淨無礙即法性法身
+<pb ed="L" xml:id="L132.1557.0733b" n="0733b"/>
+<lb ed="L" n="0733b01"/>本智返照故於一切法究竟通達即智慧
+<lb ed="L" n="0733b02"/>法身智契法界俱無邊際雖在<anchor xml:id="beg_1fc" type="cb-app"/>已<anchor xml:id="end_1fc"/>下應化
+<lb ed="L" n="0733b03"/>法身了世<anchor xml:id="beg_1fd" type="cb-app"/>已<anchor xml:id="end_1fd"/>下功德法身嚴理智故了世
+<lb ed="L" n="0733b04"/>實性成上不雜生下出世行出世法則功
+<lb ed="L" n="0733b05"/>德備矣言語道斷即虛空法身亦實相法
+<lb ed="L" n="0733b06"/>身體絕百非言亡四句唯證相應故超蘊
+<lb ed="L" n="0733b07"/>界處顯是無為翻有漏蘊成五分法身若
+<lb ed="L" n="0733b08"/>翻界處則外六塵亦國土身則十身圓融
+<lb ed="L" n="0733b09"/>成真法身矣七即常光八金等妙色九中
+<lb ed="L" n="0733b10"/>具真應種三世佛種即真如無性故應種
+<lb ed="L" n="0733b11"/>可知十中起必智俱故無渴愛動與道合
+<lb ed="L" n="0733b12"/>故身行永息心善解脫成上無愛見者無
+<lb ed="L" n="0733b13"/>厭成上行息此皆功德亦無愛見成下大
+<lb ed="L" n="0733b14"/>悲既為第一田故受施之中更無過上。</p></cb:div>
+<lb ed="L" n="0733b15"/><cb:div type="orig"><p xml:id="pL132p0733b1501">佛子諸佛世尊有十種自在法。</p></cb:div>
+<pb ed="L" xml:id="L132.1557.0734a" n="0734a"/>
+<lb ed="L" n="0734a01"/><cb:div type="commentary"><p xml:id="pL132p0734a0101" rend="margin-left:1em">第八十自在法下八門答自在問即為八
+<lb ed="L" n="0734a02"/><g ref="#CB01008">󰏰</g>初一總明自在兼攝加持初總可知。</p></cb:div>
+<lb ed="L" n="0734a03"/><cb:div type="orig"><p xml:id="pL132p0734a0301">何等為十所謂一切諸佛於一切法悉得自
+<lb ed="L" n="0734a04"/>在明達種種句身味身演說諸法辯才無礙
+<lb ed="L" n="0734a05"/>是為諸佛第一自在法。</p></cb:div>
+<lb ed="L" n="0734a06"/><cb:div type="commentary"><p xml:id="pL132p0734a0601" rend="margin-left:1em">別中全同八地之中十種自在但深廣不
+<lb ed="L" n="0734a07"/>次耳一法自在論經云無中邊法門示現
+<lb ed="L" n="0734a08"/>故。</p></cb:div>
+<lb ed="L" n="0734a09"/><cb:div type="orig"><p xml:id="pL132p0734a0901">一切諸佛教化眾生未曾失時隨其願樂為
+<lb ed="L" n="0734a10"/>說正法咸令調伏無有斷絕是為諸佛第二
+<lb ed="L" n="0734a11"/>自在法。</p></cb:div>
+<lb ed="L" n="0734a12"/><cb:div type="commentary"><p xml:id="pL132p0734a1201" rend="margin-left:1em">二心自在無量阿僧祇劫三昧入智故由
+<lb ed="L" n="0734a13"/>在三昧觀機故化不失時。</p></cb:div>
+<lb ed="L" n="0734a14"/><cb:div type="orig"><p xml:id="pL132p0734a1401">一切諸佛能令盡虛空界無量無數種種莊
+<lb ed="L" n="0734a15"/>嚴一切世界六種震動令彼世界或舉或下
+<pb ed="L" xml:id="L132.1557.0734b" n="0734b"/>
+<lb ed="L" n="0734b01"/>或大或小或合或散未曾惱害於一眾生其
+<lb ed="L" n="0734b02"/>中眾生不覺不知無疑無怪是為諸佛第三
+<lb ed="L" n="0734b03"/>自在法。</p></cb:div>
+<lb ed="L" n="0734b04"/><cb:div type="commentary"><p xml:id="pL132p0734b0401" rend="margin-left:1em">三勝解自在大小淨穢隨解轉變故。</p></cb:div>
+<lb ed="L" n="0734b05"/><cb:div type="orig"><p xml:id="pL132p0734b0501">一切諸佛以神通力悉能嚴淨一切世界於
+<lb ed="L" n="0734b06"/>一念頃普現一切世界莊嚴此諸莊嚴經無
+<lb ed="L" n="0734b07"/>數劫說不能盡悉皆離染清淨無比一切佛
+<lb ed="L" n="0734b08"/>剎嚴淨之事皆令平等入一剎中是為諸佛
+<lb ed="L" n="0734b09"/>第四自在法。</p></cb:div>
+<lb ed="L" n="0734b10"/><cb:div type="commentary"><p xml:id="pL132p0734b1001" rend="margin-left:1em">四財自在一切世界無量莊嚴嚴飾住持
+<lb ed="L" n="0734b11"/>故。</p></cb:div>
+<lb ed="L" n="0734b12"/><cb:div type="orig"><p xml:id="pL132p0734b1201">一切諸佛見一眾生應受化者為其住壽經
+<lb ed="L" n="0734b13"/>不可說不可說劫乃至盡未來際結跏趺坐
+<lb ed="L" n="0734b14"/>身心無倦專心憶念未曾廢忘方便調伏而
+<lb ed="L" n="0734b15"/>不失時如為一眾生為一切眾生悉亦如是
+<pb ed="L" xml:id="L132.1557.0735a" n="0735a"/>
+<lb ed="L" n="0735a01"/>是為諸佛第五自在法。</p></cb:div>
+<lb ed="L" n="0735a02"/><cb:div type="commentary"><p xml:id="pL132p0735a0201" rend="margin-left:1em">五命自在不可說劫命住持故。</p></cb:div>
+<lb ed="L" n="0735a03"/><cb:div type="orig"><p xml:id="pL132p0735a0301">一切諸佛悉能徧徃一切世界一切如來所
+<lb ed="L" n="0735a04"/>行之處而不暫捨一切法界十方各別一一
+<lb ed="L" n="0735a05"/>方有無量世界海一一世界海有無量世界
+<lb ed="L" n="0735a06"/>種佛以神力一念咸到轉於無礙清淨法輪
+<lb ed="L" n="0735a07"/>是為諸佛第六自在法。</p></cb:div>
+<lb ed="L" n="0735a08"/><cb:div type="commentary"><p xml:id="pL132p0735a0801" rend="margin-left:1em">六如意自在一切國土中如意變化故。</p></cb:div>
+<lb ed="L" n="0735a09"/><cb:div type="orig"><p xml:id="pL132p0735a0901">一切諸佛為欲調伏一切眾生念念中成阿
+<lb ed="L" n="0735a10"/>耨多羅三藐三菩提而於一切佛法非已現
+<lb ed="L" n="0735a11"/>覺亦非當覺亦不住於有學之地而悉知見
+<lb ed="L" n="0735a12"/>通達無礙無量智慧無量自在教化調伏一
+<lb ed="L" n="0735a13"/>切眾生是為諸佛第七自在法。</p></cb:div>
+<lb ed="L" n="0735a14"/><cb:div type="commentary"><p xml:id="pL132p0735a1401" rend="margin-left:1em">七智自在如來力無畏不共法相好莊嚴
+<lb ed="L" n="0735a15"/>三菩提示現故文中生界無邊機熟相續
+<pb ed="L" xml:id="L132.1557.0735b" n="0735b"/>
+<lb ed="L" n="0735b01"/>故念念應成而真成在昔故佛於三世非
+<lb ed="L" n="0735b02"/>是新覺亦非不覺住在學地又顯雖念念
+<lb ed="L" n="0735b03"/>覺離覺相故非三世覺亦離不覺故不住
+<lb ed="L" n="0735b04"/>學地又云而悉通達無量智等即十力等。</p></cb:div>
+<lb ed="L" n="0735b05"/><cb:div type="orig"><p xml:id="pL132p0735b0501">一切諸佛能以眼處作耳處佛事能以耳處
+<lb ed="L" n="0735b06"/>作鼻處佛事能以鼻處作舌處佛事能以舌
+<lb ed="L" n="0735b07"/>處作身處佛事能以身處作意處佛事能以
+<lb ed="L" n="0735b08"/>意處於一切世界中住世出世間種種境界
+<lb ed="L" n="0735b09"/>一一境界中能作無量廣大佛事是為諸佛
+<lb ed="L" n="0735b10"/>第八自在法。</p></cb:div>
+<lb ed="L" n="0735b11"/><cb:div type="commentary"><p xml:id="pL132p0735b1101" rend="margin-left:1em">八業自在六根互用廣大佛事是佛業故
+<lb ed="L" n="0735b12"/>然非改轉一根不變本來具故。</p></cb:div>
+<lb ed="L" n="0735b13"/><cb:div type="orig"><p xml:id="pL132p0735b1301">一切諸佛其身毛孔一一能容一切眾生一
+<lb ed="L" n="0735b14"/>一眾生其身悉與不可說諸佛剎等而無迫
+<lb ed="L" n="0735b15"/>隘一一眾生步步能過無數世界如是展轉
+<pb ed="L" xml:id="L132.1557.0736a" n="0736a"/>
+<lb ed="L" n="0736a01"/>盡無數劫悉見諸佛出現於世教化眾生轉
+<lb ed="L" n="0736a02"/>淨法輪開示過去未來現在不可說法盡虛
+<lb ed="L" n="0736a03"/>空界一切眾生諸趣受身威儀徃來及其所
+<lb ed="L" n="0736a04"/>受種種樂具皆悉具足而於其中無所障礙
+<lb ed="L" n="0736a05"/>是為諸佛第九自在法。</p></cb:div>
+<lb ed="L" n="0736a06"/><cb:div type="commentary"><p xml:id="pL132p0736a0601" rend="margin-left:1em">九生自在一切世界生示現故。</p></cb:div>
+<lb ed="L" n="0736a07"/><cb:div type="orig"><p xml:id="pL132p0736a0701">一切諸佛於一念頃現一切世界微塵數佛
+<lb ed="L" n="0736a08"/>一一佛皆於一切法界眾妙蓮華廣大莊嚴
+<lb ed="L" n="0736a09"/>世界蓮華藏師子座上成等正覺示現諸佛
+<lb ed="L" n="0736a10"/>自在神力如於眾妙蓮華廣大莊嚴世界如
+<lb ed="L" n="0736a11"/>是於一切法界中不可說不可說種種莊嚴
+<lb ed="L" n="0736a12"/>種種境界種種形相種種示現種種劫數清
+<lb ed="L" n="0736a13"/>淨世界如於一念如是於無量無邊阿僧祇
+<lb ed="L" n="0736a14"/>劫一切念中一念一切現一念無量住而未
+<lb ed="L" n="0736a15"/>曾用少方便力是為諸佛第十自在法。</p></cb:div>
+<pb ed="L" xml:id="L132.1557.0736b" n="0736b"/>
+<lb ed="L" n="0736b01"/><cb:div type="commentary"><p xml:id="pL132p0736b0101" rend="margin-left:1em">十願自在隨心所欲佛國土時示成三菩
+<lb ed="L" n="0736b02"/>提故上來唯三與八取意而釋餘並論經
+<lb ed="L" n="0736b03"/>之文其第十自在文有四節一一念現多
+<lb ed="L" n="0736b04"/>佛於一類界成佛二如於眾妙下類顯餘
+<lb ed="L" n="0736b05"/>界三如於一念下類顯餘念四一念一切
+<lb ed="L" n="0736b06"/>現下總結深廣一切現者一念便現法界
+<lb ed="L" n="0736b07"/>諸形諸時諸神力故一念無量住者常無
+<lb ed="L" n="0736b08"/>現故而不動如來少許方便故云自在。</p></cb:div>
+<lb ed="L" n="0736b09"/><cb:div type="orig"><p xml:id="pL132p0736b0901">佛子諸佛世尊有十種無量不思議圓滿佛
+<lb ed="L" n="0736b10"/>法何等為十所謂一切諸佛一一淨相皆具
+<lb ed="L" n="0736b11"/>百福一切諸佛皆悉成就一切佛法一切諸
+<lb ed="L" n="0736b12"/>佛皆悉成就一切善根一切諸佛皆悉成就
+<lb ed="L" n="0736b13"/>一切功德一切諸佛皆能教化一切眾生一
+<lb ed="L" n="0736b14"/>切諸佛皆悉能為眾生作主一切諸佛皆悉
+<lb ed="L" n="0736b15"/>成就清淨佛剎一切諸佛皆悉成就一切智
+<pb ed="L" xml:id="L132.1557.0737a" n="0737a"/>
+<lb ed="L" n="0737a01"/>智一切諸佛皆悉成就色身相好見者獲益
+<lb ed="L" n="0737a02"/>功不唐捐一切諸佛皆具諸佛平等正法一
+<lb ed="L" n="0737a03"/>切諸佛作佛事已莫不示現入於涅槃是為
+<lb ed="L" n="0737a04"/>十。</p></cb:div>
+<lb ed="L" n="0737a05"/><cb:div type="commentary"><p xml:id="pL132p0737a0501" rend="margin-left:1em">第二不思議圓滿佛法者明圓滿自在謂
+<lb ed="L" n="0737a06"/>前十自在八地容有故顯如來十種圓滿
+<lb ed="L" n="0737a07"/>又無一法不自在故方云圓滿別中二即
+<lb ed="L" n="0737a08"/>證成菩提十力等云一切佛法九即具有
+<lb ed="L" n="0737a09"/>法輪教法三通福智故曰善根四唯是福
+<lb ed="L" n="0737a10"/>但云功德餘可思凖。</p></cb:div>
+<lb ed="L" n="0737a11"/><cb:div type="orig"><p xml:id="pL132p0737a1101">佛子諸佛世尊有十種善巧方便。</p></cb:div>
+<lb ed="L" n="0737a12"/><cb:div type="commentary"><p xml:id="pL132p0737a1201" rend="margin-left:1em">第三善巧方便即於法自在皆權實等無
+<lb ed="L" n="0737a13"/>礙故。</p></cb:div>
+<lb ed="L" n="0737a14"/><cb:div type="orig"><p xml:id="pL132p0737a1401">何等為十一切諸佛了知諸法皆離戲論而
+<lb ed="L" n="0737a15"/>能開示諸佛善根是為第一善巧方便。</p></cb:div>
+<pb ed="L" xml:id="L132.1557.0737b" n="0737b"/>
+<lb ed="L" n="0737b01"/><cb:div type="commentary"><p xml:id="pL132p0737b0101" rend="margin-left:1em">別中一知實離言絕動搖之戲論而起權
+<lb ed="L" n="0737b02"/>開示善根故為自在。</p></cb:div>
+<lb ed="L" n="0737b03"/><cb:div type="orig"><p xml:id="pL132p0737b0301">一切諸佛知一切法悉無所見各不相知無
+<lb ed="L" n="0737b04"/>縛無解無受無集無成就自在究竟到於彼
+<lb ed="L" n="0737b05"/>岸然於諸法真實而知不異不別而得自在
+<lb ed="L" n="0737b06"/>無我無受不壞實際已得至於大自在地常
+<lb ed="L" n="0737b07"/>能觀察一切法界是為第二善巧方便。</p></cb:div>
+<lb ed="L" n="0737b08"/><cb:div type="commentary"><p xml:id="pL132p0737b0801" rend="margin-left:1em">二證實無能所見而不礙於法真實知見
+<lb ed="L" n="0737b09"/>無縛無解而至大自在。</p></cb:div>
+<lb ed="L" n="0737b10"/><cb:div type="orig"><p xml:id="pL132p0737b1001">一切諸佛永離諸相心無所住而能悉知不
+<lb ed="L" n="0737b11"/>亂不錯雖知一切相皆無自性而如其體性
+<lb ed="L" n="0737b12"/>悉能善入而亦示現無量色身及以一切清
+<lb ed="L" n="0737b13"/>淨佛土種種莊嚴無盡之相集智慧燈滅眾
+<lb ed="L" n="0737b14"/>生惑是為第三善巧方便。</p></cb:div>
+<lb ed="L" n="0737b15"/><cb:div type="commentary"><p xml:id="pL132p0737b1501" rend="margin-left:1em">三無相知相無性入性亦能示現依正調
+<pb ed="L" xml:id="L132.1557.0738a" n="0738a"/>
+<lb ed="L" n="0738a01"/>生。</p></cb:div>
+<lb ed="L" n="0738a02"/><cb:div type="orig"><p xml:id="pL132p0738a0201">一切諸佛住於法界不住過去未來現在如
+<lb ed="L" n="0738a03"/>如性中無去來今三世相故而能演說去來
+<lb ed="L" n="0738a04"/>今世無量諸佛出現世間令其聞者普見一
+<lb ed="L" n="0738a05"/>切諸佛境界是為第四善巧方便。</p></cb:div>
+<lb ed="L" n="0738a06"/><cb:div type="commentary"><p xml:id="pL132p0738a0601" rend="margin-left:1em">四證冥三際之理而演三際益生。</p></cb:div>
+<lb ed="L" n="0738a07"/><cb:div type="orig"><p xml:id="pL132p0738a0701">一切諸佛身語意業無所造作無來無去亦
+<lb ed="L" n="0738a08"/>無有住離諸數法到於一切諸法彼岸而為
+<lb ed="L" n="0738a09"/>眾法藏具無量智了達種種世出世法智慧
+<lb ed="L" n="0738a10"/>無礙示現無量自在神力調伏一切法界眾
+<lb ed="L" n="0738a11"/>生是為第五善巧方便。</p></cb:div>
+<lb ed="L" n="0738a12"/><cb:div type="commentary"><p xml:id="pL132p0738a1201" rend="margin-left:1em">五三業湛然而包含示現。</p></cb:div>
+<lb ed="L" n="0738a13"/><cb:div type="orig"><p xml:id="pL132p0738a1301">一切諸佛知一切法不可見非一非異非量
+<lb ed="L" n="0738a14"/>非無量非來非去皆無自性亦不違於世間
+<lb ed="L" n="0738a15"/>諸法一切智者無自性中見一切法於法自
+<pb ed="L" xml:id="L132.1557.0738b" n="0738b"/>
+<lb ed="L" n="0738b01"/>在廣說諸法而常安住真如實性是為第六
+<lb ed="L" n="0738b02"/>善巧方便。</p></cb:div>
+<lb ed="L" n="0738b03"/><cb:div type="commentary"><p xml:id="pL132p0738b0301" rend="margin-left:1em">六知非一異而見一切法。</p></cb:div>
+<lb ed="L" n="0738b04"/><cb:div type="orig"><p xml:id="pL132p0738b0401">一切諸佛於一時中知一切時具淨善根入
+<lb ed="L" n="0738b05"/>於正位而無所著於其日月年劫成壞如是
+<lb ed="L" n="0738b06"/>等時不住不捨而能示現若晝若夜初中後
+<lb ed="L" n="0738b07"/>時一日七日半月一月一年百年一劫多劫
+<lb ed="L" n="0738b08"/>不可思劫不可說劫乃至盡於未來際劫恒
+<lb ed="L" n="0738b09"/>為眾生轉妙法輪不斷不退無有休息是為
+<lb ed="L" n="0738b10"/>第七善巧方便。</p></cb:div>
+<lb ed="L" n="0738b11"/><cb:div type="commentary"><p xml:id="pL132p0738b1101" rend="margin-left:1em">十知時融入故不住不捨而不壞年劫演
+<lb ed="L" n="0738b12"/>法無休。</p></cb:div>
+<lb ed="L" n="0738b13"/><cb:div type="orig"><p xml:id="pL132p0738b1301">一切諸佛恒住法界成就諸佛無量無畏及
+<lb ed="L" n="0738b14"/>不可數辯不可量辯無盡辯無斷辯無邊辯
+<lb ed="L" n="0738b15"/>不共辯無窮辯真實辯方便開示一切句辯
+<pb ed="L" xml:id="L132.1557.0739a" n="0739a"/>
+<lb ed="L" n="0739a01"/>一切法辯隨其根性及以欲解以種種法門
+<lb ed="L" n="0739a02"/>說不可說不可說百千億那由他修多羅初
+<lb ed="L" n="0739a03"/>中後善皆悉究竟是為第八善巧方便。</p></cb:div>
+<lb ed="L" n="0739a04"/><cb:div type="commentary"><p xml:id="pL132p0739a0401" rend="margin-left:1em">八恒住法界則寂無所住而成就無量無
+<lb ed="L" n="0739a05"/>畏十辯演法十辯者一多故二非心測故
+<lb ed="L" n="0739a06"/>三隨說一事窮劫不盡故四任放辯才無
+<lb ed="L" n="0739a07"/>有間故五觸類成辯故六下位所無故七
+<lb ed="L" n="0739a08"/>無能難屈故八皆契事理故九無一句義
+<lb ed="L" n="0739a09"/>不能顯故十無有一法不能演故初中後
+<lb ed="L" n="0739a10"/>善下明說之德具七善故或開為十瑜伽
+<lb ed="L" n="0739a11"/>八十五云一初善聽聞時生歡喜故二中
+<lb ed="L" n="0739a12"/>善修行時無有艱苦遠離二邊依中道行
+<lb ed="L" n="0739a13"/>故三後善謂究竟離垢等故今文云皆悉
+<lb ed="L" n="0739a14"/>究竟諸經論中更有多釋恐厭繁文餘七
+<lb ed="L" n="0739a15"/>經文略無<note place="inline">三後善者等字等取及一切究竟離欲為後邊故法性離垢故
+<pb ed="L" xml:id="L132.1557.0739b" n="0739b"/>
+<lb ed="L" n="0739b01"/>能學者亦離垢故修行究竟得離垢故諸經論者智論云讚布施為初善讚持戒為
+<lb ed="L" n="0739b02"/>中善讚二果報生天淨土名後善復說聲聞獨覺大乘亦名三善寶愜經云知苦斷
+<lb ed="L" n="0739b03"/>集名初善修八正道為中善證滅名後善是名聲聞初中後善若不捨菩提心不念
+<lb ed="L" n="0739b04"/>下乘廻向一切智是名菩薩初中後善等釋曰今<g ref="#CB00562">䟽</g>全依瑜伽故指餘釋餘七者謂
+<lb ed="L" n="0739b05"/>略故無非是全無今依瑜伽具出論云四者文巧謂善緝綴名身等故及八語具八
+<lb ed="L" n="0739b06"/>語具者一先首二美妙三顯了四易解五樂聞六無依七無違八廣大如瑜伽二十
+<lb ed="L" n="0739b07"/>五說五義妙謂能引發利益安樂六地一謂不與外道共故唯佛法有外道所無七
+<lb ed="L" n="0739b08"/>圓滿無限量故最尊勝故義豐且勝故名圓滿八清淨謂自性解脫故一剎那自體
+<lb ed="L" n="0739b09"/>解脫故或法自體解脫故九鮮白謂相續解脫故設多剎那亦解脫故能學之者亦
+<lb ed="L" n="0739b10"/>解脫故十梵行之相謂八聖道支滅諦名梵道諦名行與滅為因此具八道名梵行
+<lb ed="L" n="0739b11"/>相當知此道由純一道等四種妙相之所顯說</note>。</p></cb:div>
+<lb ed="L" n="0739b12"/><cb:div type="orig"><p xml:id="pL132p0739b1201">一切諸佛住淨法界知一切法本無名字無
+<lb ed="L" n="0739b13"/>過去名無現在名無未來名無眾生名無非
+<lb ed="L" n="0739b14"/>眾生名無國土名無非國土名無法名無非
+<lb ed="L" n="0739b15"/>法名無功德名無非功德名無菩薩名無佛
+<pb ed="L" xml:id="L132.1557.0740a" n="0740a"/>
+<lb ed="L" n="0740a01"/>名無數名無非數名無生名無滅名無有名
+<lb ed="L" n="0740a02"/>無無名無一名無種種名何以故諸法體性
+<lb ed="L" n="0740a03"/>不可說故一切諸法無方無處不可集說不
+<lb ed="L" n="0740a04"/>可散說不可一說不可多說音聲莫逮言語
+<lb ed="L" n="0740a05"/>悉斷雖隨世俗種種言說無所攀緣無所造
+<lb ed="L" n="0740a06"/>作遠離一切虛妄想著如是究竟到於彼岸
+<lb ed="L" n="0740a07"/>是為第九善巧方便。</p></cb:div>
+<lb ed="L" n="0740a08"/><cb:div type="commentary"><p xml:id="pL132p0740a0801" rend="margin-left:1em">九離說而說故無想著。</p></cb:div>
+<lb ed="L" n="0740a09"/><cb:div type="orig"><p xml:id="pL132p0740a0901">一切諸佛知一切法本性寂靜無生故非色
+<lb ed="L" n="0740a10"/>無戲論故非受無名數故非想無造作故非
+<lb ed="L" n="0740a11"/>行無執取故非識無入處故非處無所得故
+<lb ed="L" n="0740a12"/>非界然亦不壞一切諸法本性無起如虛空
+<lb ed="L" n="0740a13"/>故一切諸法皆悉空寂無業果無修習無成
+<lb ed="L" n="0740a14"/>就無出生非數非不數非有非無非生非滅
+<lb ed="L" n="0740a15"/>非垢非淨非入非出非住非不住非調伏非
+<pb ed="L" xml:id="L132.1557.0740b" n="0740b"/>
+<lb ed="L" n="0740b01"/>不調伏非眾生非無眾生非壽命非無壽命
+<lb ed="L" n="0740b02"/>非因緣非無因緣而能了知正定邪定及不
+<lb ed="L" n="0740b03"/>定聚一切眾生為說妙法令到彼岸成就十
+<lb ed="L" n="0740b04"/>力四無所畏能師子吼具一切智住佛境界
+<lb ed="L" n="0740b05"/>是為第十善巧方便。</p></cb:div>
+<lb ed="L" n="0740b06"/><cb:div type="commentary"><p xml:id="pL132p0740b0601" rend="margin-left:1em">十了寂起用於中先知本寂後而能下不
+<lb ed="L" n="0740b07"/>廢起用前中亦二先正顯後然亦下釋成
+<lb ed="L" n="0740b08"/>謂色等性無非遣之使無故不壞諸法即
+<lb ed="L" n="0740b09"/>空無業等後起用可知。</p></cb:div>
+<lb ed="L" n="0740b10"/><cb:div type="orig"><p xml:id="pL132p0740b1001">佛子是為諸佛成就十種善巧方便。</p>
+<lb ed="L" n="0740b11"/><cb:juan fun="close" n="46b"><cb:jhead>大方廣佛華嚴經<g ref="#CB00562">䟽</g>鈔會本第四十六之二</cb:jhead></cb:juan></cb:div>
+<lb ed="L" n="0740b12"/><cb:div type="w"><head>音釋</head>
+<lb ed="L" n="0740b13"/><cb:div type="note"><entry><form>沮壞</form><cb:def><p xml:id="pL132p0740b1303" rend="margin-left:1em;inline"><note place="inline">沮慈<term rend="no_nor">吕</term>切遏也壞古聵切毀也</note>。</p></cb:def></entry><entry cb:place="inline"><form>譏謗</form><cb:def><p xml:id="pL132p0740b1317" rend="margin-left:1em;inline"><note place="inline">譏居依切誹也謗補曠切毀也</note>。</p></cb:def></entry>
+<lb ed="L" n="0740b14"/><entry><form>懈<term rend="no_nor"><g ref="#CB22023">󵘇</g></term></form><cb:def><p xml:id="pL132p0740b1403" rend="margin-left:1em;inline"><note place="inline">懈古隘切懈怠也倦渠卷切疲倦也</note>。</p></cb:def></entry></cb:div></cb:div>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_1f6" cb:to="#end_1f6"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f7" cb:to="#end_1f7"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f8" cb:to="#end_1f8"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f9" cb:to="#end_1f9"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1fa" cb:to="#end_1fa"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1fb" cb:to="#end_1fb"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1fc" cb:to="#end_1fc"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1fd" cb:to="#end_1fd"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

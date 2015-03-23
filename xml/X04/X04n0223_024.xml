@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X04n0223">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 223 華嚴經合論</title>
+			<author>唐 李通玄造論　志寧釐經合論</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.20 $<date>$Date: 2013/01/30 08:42:05 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		<respStmt xml:id="resp2"><resp>corrections</resp><name>Xuzangjing</name></respStmt>
+		<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA</name></respStmt>
+	</editionStmt>
+	<extent>120卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2013/01/30 08:42:05 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 04, No. 223 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB02534">
+	<charName>CBETA CHARACTER CB02534</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[歹*冬]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>終</value>
+	</charProp>
+	<mapping type="unicode">U+239E9</mapping>
+	<mapping cb:dec="985574" type="PUA">U+F09E6</mapping>
+</char>
+<char xml:id="CB02617">
+	<charName>CBETA CHARACTER CB02617</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[目*候]</value>
+	</charProp>
+	<mapping cb:dec="985657" type="PUA">U+F0A39</mapping>
+</char>
+<char xml:id="CB08504">
+	<charName>CBETA CHARACTER CB08504</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[舀*炎]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>燄</value>
+	</charProp>
+	<mapping type="unicode">U+269A8</mapping>
+	<mapping cb:dec="991544" type="PUA">U+F2138</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2005-11-03T14:49:27">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="品" level="1">華藏世界品第五</cb:mulu>
+<lb ed="X" n="0161c06"/><milestone unit="juan" n="24"/>
+<lb ed="X" n="0161c07"/>
+<lb ed="X" n="0161c08"/>
+<lb ed="X" n="0161c09"/><lb ed="R006" n="0001a01"/><cb:juan fun="open" n="24"><cb:mulu type="卷" n="24"></cb:mulu><cb:jhead>大方廣佛新華嚴經合論卷第二十四</cb:jhead></cb:juan>
+<lb ed="X" n="0161c10"/><lb ed="R006" n="0001a02"/><byline cb:type="other">唐于闐國三藏沙門實叉難陀譯經</byline>
+<lb ed="X" n="0161c11"/><lb ed="R006" n="0001a03"/><byline cb:type="author">唐太原方山長者李通玄造論</byline>
+<lb ed="X" n="0161c12"/><lb ed="R006" n="0001a04"/><byline cb:type="author">唐福州開元寺沙門志寧釐經合論</byline>
+<lb ed="X" n="0161c13"/><lb ed="R006" n="0001a05"/><cb:div type="pin"><cb:mulu type="品" level="1">毗盧遮那品第六</cb:mulu><head>毗盧遮那品第六</head>
+<lb ed="X" n="0161c14"/><lb ed="R006" n="0001a06"/><cb:div type="commentary"><p xml:id="pX04p0161c1401" rend="margin-left:1em">【論】將釋此品約作三門分別一釋品來意二釋品
+<lb ed="X" n="0161c15"/><lb ed="R006" n="0001a07"/>名目三隨文釋義一釋品來意者前之五品以舉
+<lb ed="X" n="0161c16"/><lb ed="R006" n="0001a08"/>現世毗盧遮那佛果恐不成信何以然者為古無
+<lb ed="X" n="0161c17"/><lb ed="R006" n="0001a09"/>舊迹今何所來以此引古證今明道不謬故又明
+<lb ed="X" n="0161c18"/><lb ed="R006" n="0001a10"/>古今諸佛三世法相似故成其信者不狐疑故二
+<lb ed="X" n="0161c19"/><lb ed="R006" n="0001a11"/>釋品名毗盧遮那品者此品依主得名明引古佛
+<lb ed="X" n="0161c20"/><lb ed="R006" n="0001a12"/>成今信還以佛號以為品名毗云種種遮那云光
+<lb ed="X" n="0161c21"/><lb ed="R006" n="0001a13"/>明言以法身悲智設種種教行之光破眾生之業
+<lb ed="X" n="0161c22"/><lb ed="R006" n="0001a14"/>暗故問曰古佛今佛為一為異答曰為一為異何
+<lb ed="X" n="0161c23"/><lb ed="R006" n="0001a15"/>以然者為法身智身九十七大人之相大慈大悲
+<lb ed="X" n="0161c24"/><lb ed="R006" n="0001a16"/>智慧解脫是一各各眾生發心成佛是異又無量
+<pb ed="X" xml:id="X04.0223.0162a" n="0162a"/>
+<lb ed="X" n="0162a01"/><lb ed="R006" n="0001a17"/>三世諸佛皆同一念成佛無前後際是一然亦不
+<lb ed="X" n="0162a02"/><lb ed="R006" n="0001a18"/>壞一念中見無量眾生三世劫量是異以十玄門
+<lb ed="X" n="0162a03"/><lb ed="R006" n="0001b01"/>六相義該通可解經云一切諸佛身唯是一法身
+<lb ed="X" n="0162a04"/><lb ed="R006" n="0001b02"/>一身一智慧力無畏亦然三隨文釋義者於此一
+<lb ed="X" n="0162a05"/><lb ed="R006" n="0001b03"/>品經中長科總有十五段經文於此十五段文中
+<lb ed="X" n="0162a06"/><lb ed="R006" n="0001b04"/>有四佛出世總明毗盧遮那一號各隨世間應緣
+<lb ed="X" n="0162a07"/><lb ed="R006" n="0001b05"/>名異非是佛名號異此經下文佛名號品一一佛
+<lb ed="X" n="0162a08"/><lb ed="R006" n="0001b06"/>皆具等法界眾生界隨緣名號世間一切名號皆
+<lb ed="X" n="0162a09"/><lb ed="R006" n="0001b07"/>是諸佛名為如來德徧一切法故猶如虗空徧含
+<lb ed="X" n="0162a10"/><lb ed="R006" n="0001b08"/>眾法無不淨故一切眾生名入佛名號無不淨故
+<lb ed="X" n="0162a11"/><lb ed="R006" n="0001b09"/>又如有香名為象藏因龍鬬而生燒之一丸凝停
+<lb ed="X" n="0162a12"/><lb ed="R006" n="0001b10"/>七日降金色雨霑人身者悉皆金色一切名言入
+<lb ed="X" n="0162a13"/><lb ed="R006" n="0001b11"/>佛名號者悉皆清淨亦復如是如是佛名號徧一
+<lb ed="X" n="0162a14"/><lb ed="R006" n="0001b12"/>切世界名字故始名毗盧遮那以種種教行之光
+<lb ed="X" n="0162a15"/><lb ed="R006" n="0001b13"/>徧照一切以法眼照之其長科十五段者。</p></cb:div>
+<lb ed="X" n="0162a16"/><lb ed="R006" n="0001b14"/><cb:div type="orig"><p xml:id="pX04p0162a1601">【經】爾時普賢菩薩復告大眾言諸佛子乃往古世過
+<lb ed="X" n="0162a17"/><lb ed="R006" n="0001b15"/>世界微塵數劫復倍是數有世界海名普門淨光明
+<lb ed="X" n="0162a18"/><lb ed="R006" n="0001b16"/>此世界海中有世界名勝音依摩尼華網海住須彌
+<lb ed="X" n="0162a19"/><lb ed="R006" n="0001b17"/>山微塵數世界而為眷屬其形正圓其地具有無量
+<lb ed="X" n="0162a20"/><lb ed="R006" n="0001b18"/>莊嚴三百重眾寶樹輪圍山所共圍遶一切寶雲而
+<lb ed="X" n="0162a21"/><lb ed="R006" n="0002a01"/>覆其上清淨無垢光明照耀城邑宮殿如須彌山衣
+<lb ed="X" n="0162a22"/><lb ed="R006" n="0002a02"/>服飲食隨念而至其劫名曰種種莊嚴。</p></cb:div>
+<lb ed="X" n="0162a23"/><lb ed="R006" n="0002a03"/><cb:div type="commentary"><p xml:id="pX04p0162a2301" rend="margin-left:1em">【論】一爾時<anchor xml:id="beg_1da" type="cb-app"/>已<anchor xml:id="end_1da"/>下一段八行經明普賢告眾欲說其
+<lb ed="X" n="0162a24"/><lb ed="R006" n="0002a04"/>法於此段中復分為十一舉古佛所過之劫數二
+<pb ed="X" xml:id="X04.0223.0162b" n="0162b"/>
+<lb ed="X" n="0162b01"/><lb ed="R006" n="0002a05"/>舉古世界海之名三舉世界海中別有世界之號
+<lb ed="X" n="0162b02"/><lb ed="R006" n="0002a06"/>四舉世界所依住處五舉世界周圍眷屬之數六
+<lb ed="X" n="0162b03"/><lb ed="R006" n="0002a07"/>舉世界形狀七舉世界地上莊嚴八舉世界寶樹
+<lb ed="X" n="0162b04"/><lb ed="R006" n="0002a08"/>及山輪圍重數九舉世界城邑宮殿十舉世界人
+<lb ed="X" n="0162b05"/><lb ed="R006" n="0002a09"/>飲食衣服隨念而至及舉劫名此<anchor xml:id="beg_1db" type="cb-app"/>已<anchor xml:id="end_1db"/>上但隨文自
+<lb ed="X" n="0162b06"/><lb ed="R006" n="0002a10"/>具不煩更解。</p></cb:div>
+<lb ed="X" n="0162b07"/><lb ed="R006" n="0002a11"/><cb:div type="orig"><p xml:id="pX04p0162b0701">【經】諸佛子彼勝音世界中有香水海名清淨光明其
+<lb ed="X" n="0162b08"/><lb ed="R006" n="0002a12"/>海中有大蓮華須彌山出現名華<g ref="#CB08504">𦦨</g>普莊嚴幢十寶
+<lb ed="X" n="0162b09"/><lb ed="R006" n="0002a13"/>欄楯周帀圍遶於其山上有一大林名摩尼華枝輪
+<lb ed="X" n="0162b10"/><lb ed="R006" n="0002a14"/>無量華樓閣無量寶臺觀周迴布列無量妙香幢無
+<lb ed="X" n="0162b11"/><lb ed="R006" n="0002a15"/>量寶山幢<anchor xml:id="nkr_note_orig_0162001" n="0162001"/>迥極莊嚴無量寶芬陀利華處處敷榮無
+<lb ed="X" n="0162b12"/><lb ed="R006" n="0002a16"/>量香摩尼蓮華網周帀垂布樂音和悅香雲照耀數
+<lb ed="X" n="0162b13"/><lb ed="R006" n="0002a17"/>各無量不可紀極有百萬億那由他城周帀圍遶種
+<lb ed="X" n="0162b14"/><lb ed="R006" n="0002a18"/>種眾生於中止住。</p></cb:div>
+<lb ed="X" n="0162b15"/><lb ed="R006" n="0002b01"/><cb:div type="commentary"><p xml:id="pX04p0162b1501" rend="margin-left:1em">【論】二諸佛子<anchor xml:id="beg_1dc" type="cb-app"/>已<anchor xml:id="end_1dc"/>下有八行半經於中大意義分為
+<lb ed="X" n="0162b16"/><lb ed="R006" n="0002b02"/>八一明勝音世界中香水海及舉其名二明海中
+<lb ed="X" n="0162b17"/><lb ed="R006" n="0002b03"/>有華山出現形如須彌三明山上莊嚴有十四明
+<lb ed="X" n="0162b18"/><lb ed="R006" n="0002b04"/>山上有一大樹林及舉林名五舉山上五種無量
+<lb ed="X" n="0162b19"/><lb ed="R006" n="0002b05"/>眾事莊嚴六明都舉莊嚴難紀七明山上諸城之
+<lb ed="X" n="0162b20"/><lb ed="R006" n="0002b06"/>數八明襍類眾生共居云芬陀利華者此云白蓮
+<lb ed="X" n="0162b21"/><lb ed="R006" n="0002b07"/>華也此上一段文自顯著不煩更解。</p></cb:div>
+<lb ed="X" n="0162b22"/><lb ed="R006" n="0002b08"/><cb:div type="orig"><p xml:id="pX04p0162b2201">【經】諸佛子此林東有一大城名<g ref="#CB08504">𦦨</g>光明人王所都百
+<lb ed="X" n="0162b23"/><lb ed="R006" n="0002b09"/>萬億那由他城周帀圍遶清淨妙寶所共成立縱廣
+<lb ed="X" n="0162b24"/><lb ed="R006" n="0002b10"/>各有七千由旬七寶為郭樓櫓却敵悉皆崇麗七重
+<pb ed="X" xml:id="X04.0223.0162c" n="0162c"/>
+<lb ed="X" n="0162c01"/><lb ed="R006" n="0002b11"/>寶壍香水盈滿優鉢羅華波頭摩華拘物頭華芬陀
+<lb ed="X" n="0162c02"/><lb ed="R006" n="0002b12"/>利華悉是眾寶處處分布以為嚴飾寶多羅樹七重
+<lb ed="X" n="0162c03"/><lb ed="R006" n="0002b13"/>圍遶宮殿樓閣悉寶莊嚴種種妙網張施其上塗香
+<lb ed="X" n="0162c04"/><lb ed="R006" n="0002b14"/>散華芬瑩其中有百萬億那由他門悉寶莊嚴一一
+<lb ed="X" n="0162c05"/><lb ed="R006" n="0002b15"/>門前各有四十九寶尸羅幢次第行列復有百萬億
+<lb ed="X" n="0162c06"/><lb ed="R006" n="0002b16"/>園林周帀圍遶其中皆有種種襍香摩尼樹香周流
+<lb ed="X" n="0162c07"/><lb ed="R006" n="0002b17"/>普熏眾鳥和鳴聽者歡悅此大城中所有居人靡不
+<lb ed="X" n="0162c08"/><lb ed="R006" n="0002b18"/>成就業報神足乘空往來行同諸天心有所欲應念
+<lb ed="X" n="0162c09"/><lb ed="R006" n="0003a01"/>皆至其城次南有一天城名樹華莊嚴其次右旋有
+<lb ed="X" n="0162c10"/><lb ed="R006" n="0003a02"/>大龍城名曰究竟次有夜叉城名金剛勝妙幢次有
+<lb ed="X" n="0162c11"/><lb ed="R006" n="0003a03"/>乾闥婆城名曰妙宮次有阿脩羅城名曰寶輪次有
+<lb ed="X" n="0162c12"/><lb ed="R006" n="0003a04"/>迦樓羅城名妙<anchor xml:id="nkr_note_orig_0162002" n="0162002"/>寶莊嚴次有梵天王城名種種妙莊
+<lb ed="X" n="0162c13"/><lb ed="R006" n="0003a05"/>嚴如是等百萬億那由他數此一一城各有百萬億
+<lb ed="X" n="0162c14"/><lb ed="R006" n="0003a06"/>那由他樓閣所共圍遶一一皆有無量莊嚴。</p></cb:div>
+<lb ed="X" n="0162c15"/><lb ed="R006" n="0003a07"/><cb:div type="commentary"><p xml:id="pX04p0162c1501" rend="margin-left:1em">【論】三諸佛子<anchor xml:id="beg_1dd" type="cb-app"/>已<anchor xml:id="end_1dd"/>下十九行半經明林東之城於此
+<lb ed="X" n="0162c16"/><lb ed="R006" n="0003a08"/>段中義分為十一舉城之名二舉人王所居三舉
+<lb ed="X" n="0162c17"/><lb ed="R006" n="0003a09"/>諸城圍遶四明城體眾寶所成五明城廣狹六明
+<lb ed="X" n="0162c18"/><lb ed="R006" n="0003a10"/>城郭莊嚴悉皆崇麗七明城上下眾事莊嚴言櫓
+<lb ed="X" n="0162c19"/><lb ed="R006" n="0003a11"/>者依音義解云城上守禦曰櫓出頭前引曰敵眾
+<lb ed="X" n="0162c20"/><lb ed="R006" n="0003a12"/>飾高勝曰崇美而可觀曰麗城下遶而長坑深廣
+<lb ed="X" n="0162c21"/><lb ed="R006" n="0003a13"/>者曰壕狹者曰壍優鉢羅華者此云青色華根似
+<lb ed="X" n="0162c22"/><lb ed="R006" n="0003a14"/>藕其葉狹長近下小圓上漸尖似佛眼故其華莖
+<lb ed="X" n="0162c23"/><lb ed="R006" n="0003a15"/>無<anchor xml:id="beg_1de" type="cb-app"/>刺<anchor xml:id="end_1de"/>准歎佛中目淨脩廣如青蓮即是青蓮華葉
+<lb ed="X" n="0162c24"/><lb ed="R006" n="0003a16"/>也波頭摩華此云赤蓮華其華莖有<anchor xml:id="beg_1df" type="cb-app"/>刺<anchor xml:id="end_1df"/>拘物頭華
+<pb ed="X" xml:id="X04.0223.0163a" n="0163a"/>
+<lb ed="X" n="0163a01"/><lb ed="R006" n="0003a17"/>其莖有<anchor xml:id="beg_1e0" type="cb-app"/>刺<anchor xml:id="end_1e0"/>或曰赤白華也其華葉頭稍短未開敷
+<lb ed="X" n="0163a02"/><lb ed="R006" n="0003a18"/>時狀如郁蹙然也芬陀利華者白蓮華也寶多羅
+<lb ed="X" n="0163a03"/><lb ed="R006" n="0003b01"/>樹者<note place="inline">或云無憂樹此之未定撿文未得也</note>七重圍遶法事中或一三
+<lb ed="X" n="0163a04"/><lb ed="R006" n="0003b02"/>五七九契陽數也尸羅此云清淨寶幢<note place="inline"><anchor xml:id="beg_1e1" type="cb-app"/>已<anchor xml:id="end_1e1"/>上莊嚴總為眾寶</note>
+<lb ed="X" n="0163a05"/><lb ed="R006" n="0003b03"/>八明城中居人九明人得業報神通也所念皆至
+<lb ed="X" n="0163a06"/><lb ed="R006" n="0003b04"/>十明城四遶天龍乾闥婆等七種襍類諸城所居
+<lb ed="X" n="0163a07"/><lb ed="R006" n="0003b05"/>及都結城及莊嚴無量問曰此中一種是人非天
+<lb ed="X" n="0163a08"/><lb ed="R006" n="0003b06"/>龍神何得業報神通衣服飲食隨念而至又所居
+<lb ed="X" n="0163a09"/><lb ed="R006" n="0003b07"/>高勝依報寶嚴以何業故報得如是答曰為因廣
+<lb ed="X" n="0163a10"/><lb ed="R006" n="0003b08"/>大故業報廣大為因高勝故業報所居高勝問曰
+<lb ed="X" n="0163a11"/><lb ed="R006" n="0003b09"/>何者是因廣大高勝答曰為於往因於此毗盧遮
+<lb ed="X" n="0163a12"/><lb ed="R006" n="0003b10"/>那法界智體用無依住門性清淨法而生信心修
+<lb ed="X" n="0163a13"/><lb ed="R006" n="0003b11"/>信解力常信自他凡聖一體同知來智無所依住
+<lb ed="X" n="0163a14"/><lb ed="R006" n="0003b12"/>無我無我所心境平等無二相故無我所故一切
+<lb ed="X" n="0163a15"/><lb ed="R006" n="0003b13"/>凡聖本唯法界無造作性無生滅性依真而住住
+<lb ed="X" n="0163a16"/><lb ed="R006" n="0003b14"/>無所住與一切諸佛眾生同一心智住性真法界
+<lb ed="X" n="0163a17"/><lb ed="R006" n="0003b15"/>所有分別是一切諸佛本不動智凡聖一真共同
+<lb ed="X" n="0163a18"/><lb ed="R006" n="0003b16"/>此智全信自心是佛種智及一切智故不於心外
+<lb ed="X" n="0163a19"/><lb ed="R006" n="0003b17"/>別有信佛之心亦不於自心之內見自心有佛相
+<lb ed="X" n="0163a20"/><lb ed="R006" n="0003b18"/>故信如斯法自力未充以此是人獲諸人中一切
+<lb ed="X" n="0163a21"/><lb ed="R006" n="0004a01"/>勝報以是信力還得毗盧遮那佛在國同居而恒
+<lb ed="X" n="0163a22"/><lb ed="R006" n="0004a02"/>出現神足通力與天同處一切諸城所居神天龍
+<lb ed="X" n="0163a23"/><lb ed="R006" n="0004a03"/>八部等皆是同緣於此法中而生信解故以此信
+<lb ed="X" n="0163a24"/><lb ed="R006" n="0004a04"/>因高勝廣大獲得如斯勝妙依正果報故。</p></cb:div>
+<pb ed="X" xml:id="X04.0223.0163b" n="0163b"/>
+<lb ed="X" n="0163b01"/><lb ed="R006" n="0004a05"/><cb:div type="orig"><p xml:id="pX04p0163b0101">【經】諸佛子此寶華枝輪大林之中有一道場名寶華
+<lb ed="X" n="0163b02"/><lb ed="R006" n="0004a06"/>徧照以眾大寶分布莊嚴摩尼華輪徧滿開敷然以
+<lb ed="X" n="0163b03"/><lb ed="R006" n="0004a07"/>香燈具眾寶色<g ref="#CB08504">𦦨</g>雲彌覆光網普照諸莊嚴具常出
+<lb ed="X" n="0163b04"/><lb ed="R006" n="0004a08"/>妙寶一切樂中恒奏雅音摩尼寶王現菩薩身種種
+<lb ed="X" n="0163b05"/><lb ed="R006" n="0004a09"/>妙華周徧十方其道場前有一大海名香摩尼金剛
+<lb ed="X" n="0163b06"/><lb ed="R006" n="0004a10"/>出大蓮華名華蘂<g ref="#CB08504">𦦨</g>輪其華廣大百億由旬莖葉鬚
+<lb ed="X" n="0163b07"/><lb ed="R006" n="0004a11"/>臺皆是妙寶十不可說百千億那由他蓮華所共圍
+<lb ed="X" n="0163b08"/><lb ed="R006" n="0004a12"/>遶常放光明恒出妙音周徧十方。</p></cb:div>
+<lb ed="X" n="0163b09"/><lb ed="R006" n="0004a13"/><cb:div type="commentary"><p xml:id="pX04p0163b0901" rend="margin-left:1em">【論】四諸佛子<anchor xml:id="beg_1e2" type="cb-app"/>已<anchor xml:id="end_1e2"/>下有九行經明華枝林中道場并
+<lb ed="X" n="0163b10"/><lb ed="R006" n="0004a14"/>陳嚴飾廣大此林眾華嚴飾常有妓樂之音。</p></cb:div>
+<lb ed="X" n="0163b11"/><lb ed="R006" n="0004a15"/><cb:div type="orig"><p xml:id="pX04p0163b1101">【經】諸佛子彼勝音世界最初劫中有十須彌山微塵
+<lb ed="X" n="0163b12"/><lb ed="R006" n="0004a16"/>數如來出興於世其第一佛號一切功德山須彌勝
+<lb ed="X" n="0163b13"/><lb ed="R006" n="0004a17"/>雲諸佛子應知彼佛將出現時一百年前此摩尼華
+<lb ed="X" n="0163b14"/><lb ed="R006" n="0004a18"/>枝輪大林中一切莊嚴周徧清淨所謂出不思議寶
+<lb ed="X" n="0163b15"/><lb ed="R006" n="0004b01"/><g ref="#CB08504">𦦨</g>雲發歎佛功德音演無數佛音聲舒光布網彌覆
+<lb ed="X" n="0163b16"/><lb ed="R006" n="0004b02"/>十方宮殿樓閣互相照耀寶華光明騰聚成雲復出
+<lb ed="X" n="0163b17"/><lb ed="R006" n="0004b03"/>妙音說一切眾生前世所行廣大善根說三世一切
+<lb ed="X" n="0163b18"/><lb ed="R006" n="0004b04"/>諸佛名號說諸菩薩所修願行究竟之道說諸如來
+<lb ed="X" n="0163b19"/><lb ed="R006" n="0004b05"/>轉妙法輪種種言辭現如是等莊嚴之相顯示如來
+<lb ed="X" n="0163b20"/><lb ed="R006" n="0004b06"/>當出於世其世界中一切諸王見此相故善根成熟
+<lb ed="X" n="0163b21"/><lb ed="R006" n="0004b07"/>悉欲見佛而來道場。</p></cb:div>
+<lb ed="X" n="0163b22"/><lb ed="R006" n="0004b08"/><cb:div type="commentary"><p xml:id="pX04p0163b2201" rend="margin-left:1em">【論】五諸佛子<anchor xml:id="beg_1e3" type="cb-app"/>已<anchor xml:id="end_1e3"/>下有十二行半經明初劫中佛出
+<lb ed="X" n="0163b23"/><lb ed="R006" n="0004b09"/>現之數并陳初佛名號及舉華枝大林先現之瑞。</p></cb:div>
+<lb ed="X" n="0163b24"/><lb ed="R006" n="0004b10"/><cb:div type="orig"><p xml:id="pX04p0163b2401">【經】爾時一切功德山須彌勝雲佛於其道場大蓮華
+<pb ed="X" xml:id="X04.0223.0163c" n="0163c"/>
+<lb ed="X" n="0163c01"/><lb ed="R006" n="0004b11"/>中忽然出現其身周普等真法界一切佛剎皆示出
+<lb ed="X" n="0163c02"/><lb ed="R006" n="0004b12"/>生一切道場悉詣其所無邊妙色具足清淨一切世
+<lb ed="X" n="0163c03"/><lb ed="R006" n="0004b13"/>間無能暎奪具眾寶相一一分明一切宮殿悉現其
+<lb ed="X" n="0163c04"/><lb ed="R006" n="0004b14"/>像一切眾生咸得<anchor xml:id="nkr_note_orig_0163001" n="0163001"/>目見無邊化佛從其身出種種色
+<lb ed="X" n="0163c05"/><lb ed="R006" n="0004b15"/>光充滿世界如於此清淨光明香水海華<g ref="#CB08504">𦦨</g>莊嚴幢
+<lb ed="X" n="0163c06"/><lb ed="R006" n="0004b16"/>須彌頂上摩尼華枝輪大林中出現其身而坐於座
+<lb ed="X" n="0163c07"/><lb ed="R006" n="0004b17"/>其勝音世界有六十八千億須彌山頂悉亦於彼現
+<lb ed="X" n="0163c08"/><lb ed="R006" n="0004b18"/>身而坐。</p></cb:div>
+<lb ed="X" n="0163c09"/><lb ed="R006" n="0005a01"/><cb:div type="commentary"><p xml:id="pX04p0163c0901" rend="margin-left:1em">【論】六爾時<anchor xml:id="beg_1e4" type="cb-app"/>已<anchor xml:id="end_1e4"/>下有九行半經明初佛蓮華中忽然
+<lb ed="X" n="0163c10"/><lb ed="R006" n="0005a02"/>出現并陳佛身徧坐一切法界道場眾生皆見等
+<lb ed="X" n="0163c11"/><lb ed="R006" n="0005a03"/>事問曰何故此佛蓮華化現出興釋迦佛母胎出
+<lb ed="X" n="0163c12"/><lb ed="R006" n="0005a04"/>現答曰隨根所見母胎出現唯劣解眾生自根見
+<lb ed="X" n="0163c13"/><lb ed="R006" n="0005a05"/>爾如離世間品云為劣解眾生母胎出爾應大根
+<lb ed="X" n="0163c14"/><lb ed="R006" n="0005a06"/>眾生皆見蓮華出現也。</p></cb:div>
+<lb ed="X" n="0163c15"/><lb ed="R006" n="0005a07"/><cb:div type="orig"><p xml:id="pX04p0163c1501">【經】爾時彼佛即於眉間放大光明其光名發起一切
+<lb ed="X" n="0163c16"/><lb ed="R006" n="0005a08"/>善根音十佛剎微塵數光明而為眷屬充滿一切十
+<lb ed="X" n="0163c17"/><lb ed="R006" n="0005a09"/>方國土若有眾生應可調伏其光照觸即自開悟息
+<lb ed="X" n="0163c18"/><lb ed="R006" n="0005a10"/>諸惑熱裂諸蓋網摧諸障山淨諸垢濁發大信解生
+<lb ed="X" n="0163c19"/><lb ed="R006" n="0005a11"/>勝善根永離一切諸難恐怖滅除一切身心苦惱起
+<lb ed="X" n="0163c20"/><lb ed="R006" n="0005a12"/>見佛心趣一切智時一切世間主并其眷屬無量百
+<lb ed="X" n="0163c21"/><lb ed="R006" n="0005a13"/>千蒙佛光明所開覺故悉詣佛所頭面禮足。</p></cb:div>
+<lb ed="X" n="0163c22"/><lb ed="R006" n="0005a14"/><cb:div type="commentary"><p xml:id="pX04p0163c2201" rend="margin-left:1em">【論】七爾時<anchor xml:id="beg_1e5" type="cb-app"/>已<anchor xml:id="end_1e5"/>下有八行經明初佛出現放光集眾
+<lb ed="X" n="0163c23"/><lb ed="R006" n="0005a15"/>并陳光德大眾來集。</p></cb:div>
+<lb ed="X" n="0163c24"/><lb ed="R006" n="0005a16"/><cb:div type="orig"><p xml:id="pX04p0163c2401">【經】諸佛子彼<g ref="#CB08504">𦦨</g>光明大城中有王名喜見善慧統領
+<pb ed="X" xml:id="X04.0223.0164a" n="0164a"/>
+<lb ed="X" n="0164a01"/><lb ed="R006" n="0005a17"/>百萬億那由他城夫人婇女三萬七千人福吉祥為
+<lb ed="X" n="0164a02"/><lb ed="R006" n="0005a18"/>上首王子五百人<note place="inline">別本云二萬五千人</note>大威光為上首大威光
+<lb ed="X" n="0164a03"/><lb ed="R006" n="0005b01"/>太子有十千夫人妙見為上首爾時大威光太子見
+<lb ed="X" n="0164a04"/><lb ed="R006" n="0005b02"/>佛光明<anchor xml:id="beg_1e6" type="cb-app"/>已<anchor xml:id="end_1e6"/>以昔所修善根力故即時證得十種法門
+<lb ed="X" n="0164a05"/><lb ed="R006" n="0005b03"/>何謂為十所謂證得一切諸佛功德輪三昧證得一
+<lb ed="X" n="0164a06"/><lb ed="R006" n="0005b04"/>切佛法普門陀羅尼證得廣大方便藏般若波羅蜜
+<lb ed="X" n="0164a07"/><lb ed="R006" n="0005b05"/>證得調伏一切眾生大莊嚴大慈證得普雲音大悲
+<lb ed="X" n="0164a08"/><lb ed="R006" n="0005b06"/>證得生無邊功德最勝心大喜證得如實覺悟一切
+<lb ed="X" n="0164a09"/><lb ed="R006" n="0005b07"/>法大捨證得廣大方便平等藏大神通證得增長信
+<lb ed="X" n="0164a10"/><lb ed="R006" n="0005b08"/>解力大願證得普入一切智光明辯才門爾時大威
+<lb ed="X" n="0164a11"/><lb ed="R006" n="0005b09"/>光太子獲得如是法光明<anchor xml:id="beg_1e7" type="cb-app"/>已<anchor xml:id="end_1e7"/>承佛威力普觀大眾而
+<lb ed="X" n="0164a12"/><lb ed="R006" n="0005b10"/>說頌言。</p>
+<lb ed="X" n="0164a13"/><lb ed="R006" n="0005b11"/><lg xml:id="lgX04p0164a1301"><l>世尊坐道場</l><l>清淨大光明</l><l>譬如千日出</l>
+<lb ed="X" n="0164a14"/><lb ed="R006" n="0005b12"/><l>普照虗空界</l><l>無量億千劫</l><l>導師時乃現</l>
+<lb ed="X" n="0164a15"/><lb ed="R006" n="0005b13"/><l>佛今出世間</l><l>一切所瞻奉</l><l>汝觀佛光明</l>
+<lb ed="X" n="0164a16"/><lb ed="R006" n="0005b14"/><l>化佛難思議</l><l>一切宮殿中</l><l>寂然而正受</l>
+<lb ed="X" n="0164a17"/><lb ed="R006" n="0005b15"/><l>汝觀佛神通</l><l>毛孔出<g ref="#CB08504">𦦨</g>雲</l><l>照耀於世間</l>
+<lb ed="X" n="0164a18"/><lb ed="R006" n="0005b16"/><l>光明無有盡</l><l>汝應觀佛身</l><l>光網極清淨</l>
+<lb ed="X" n="0164a19"/><lb ed="R006" n="0005b17"/><l>現形等一切</l><l>徧滿於十方</l><l>妙音徧世間</l>
+<lb ed="X" n="0164a20"/><lb ed="R006" n="0005b18"/><l>聞者皆欣樂</l><l>隨諸眾生語</l><l>讚歎佛功德</l>
+<lb ed="X" n="0164a21"/><lb ed="R006" n="0006a01"/><l>世尊光所照</l><l>眾生悉安樂</l><l>有苦皆滅除</l>
+<lb ed="X" n="0164a22"/><lb ed="R006" n="0006a02"/><l>心生大歡喜</l><l>觀諸菩薩眾</l><l>十方來萃止</l>
+<lb ed="X" n="0164a23"/><lb ed="R006" n="0006a03"/><l>悉放摩尼雲</l><l>現前稱讚佛</l><l>道場出妙音</l>
+<lb ed="X" n="0164a24"/><lb ed="R006" n="0006a04"/><l>其音極深遠</l><l>能滅眾生苦</l><l>此是佛神力</l>
+<pb ed="X" xml:id="X04.0223.0164b" n="0164b"/>
+<lb ed="X" n="0164b01"/><lb ed="R006" n="0006a05"/><l>一切咸恭敬</l><l>心生大歡喜</l><l>共在世尊前</l>
+<lb ed="X" n="0164b02"/><lb ed="R006" n="0006a06"/><l>瞻仰於法王</l></lg></cb:div>
+<lb ed="X" n="0164b03"/><lb ed="R006" n="0006a07"/><cb:div type="commentary"><p xml:id="pX04p0164b0301" rend="margin-left:1em">【論】八諸佛子<anchor xml:id="beg_1e8" type="cb-app"/>已<anchor xml:id="end_1e8"/>下有十四行經明光明大城有人
+<lb ed="X" n="0164b04"/><lb ed="R006" n="0006a08"/>王名喜見善慧王與眷屬俱集并陳太子威光以
+<lb ed="X" n="0164b05"/><lb ed="R006" n="0006a09"/>自善根見佛光明得十種法門具如經說最下三
+<lb ed="X" n="0164b06"/><lb ed="R006" n="0006a10"/>句明威光說頌歎佛於此十行頌中歎佛之德及
+<lb ed="X" n="0164b07"/><lb ed="R006" n="0006a11"/>德與眾生益如文可知。</p></cb:div>
+<lb ed="X" n="0164b08"/><lb ed="R006" n="0006a12"/><cb:div type="orig"><p xml:id="pX04p0164b0801">【經】諸佛子彼大威光太子說此頌時以佛神力其聲
+<lb ed="X" n="0164b09"/><lb ed="R006" n="0006a13"/>普徧勝音世界時喜見善慧王聞此頌<anchor xml:id="beg_1e9" type="cb-app"/>已<anchor xml:id="end_1e9"/>心大歡喜
+<lb ed="X" n="0164b10"/><lb ed="R006" n="0006a14"/>觀諸眷屬而說頌言。</p>
+<lb ed="X" n="0164b11"/><lb ed="R006" n="0006a15"/><lg xml:id="lgX04p0164b1101"><l>汝應速召集</l><l>一切諸王眾</l><l>王子及大臣</l>
+<lb ed="X" n="0164b12"/><lb ed="R006" n="0006a16"/><l>城邑宰官等</l><l>普告諸城內</l><l>疾應擊大鼓</l>
+<lb ed="X" n="0164b13"/><lb ed="R006" n="0006a17"/><l>共集所有人</l><l>俱行往見佛</l><l>一切四衢道</l>
+<lb ed="X" n="0164b14"/><lb ed="R006" n="0006a18"/><l>悉應鳴寶鐸</l><l>妻子眷屬俱</l><l>共往觀如來</l>
+<lb ed="X" n="0164b15"/><lb ed="R006" n="0006b01"/><l>一切諸城郭</l><l>宜令悉清淨</l><l>普建勝妙幢</l>
+<lb ed="X" n="0164b16"/><lb ed="R006" n="0006b02"/><l>摩尼以嚴飾</l><l>寶帳羅眾網</l><l>妓樂如雲布</l>
+<lb ed="X" n="0164b17"/><lb ed="R006" n="0006b03"/><l>嚴備在虗空</l><l>處處令充滿</l><l>道路皆嚴淨</l>
+<lb ed="X" n="0164b18"/><lb ed="R006" n="0006b04"/><l>普雨妙衣服</l><l>巾馭汝寶乘</l><l>與我同觀佛</l>
+<lb ed="X" n="0164b19"/><lb ed="R006" n="0006b05"/><l>各各隨自力</l><l>普雨莊嚴具</l><l>一切如雲布</l>
+<lb ed="X" n="0164b20"/><lb ed="R006" n="0006b06"/><l>徧滿虗空中</l><l>香<g ref="#CB08504">𦦨</g>蓮華蓋</l><l>半月寶纓珞</l>
+<lb ed="X" n="0164b21"/><lb ed="R006" n="0006b07"/><l>及無數妙衣</l><l>汝等皆應雨</l><l>須彌香水海</l>
+<lb ed="X" n="0164b22"/><lb ed="R006" n="0006b08"/><l>上妙摩尼輪</l><l>及清淨栴檀</l><l>悉應雨滿空</l>
+<lb ed="X" n="0164b23"/><lb ed="R006" n="0006b09"/><l>眾寶華纓珞</l><l>莊嚴淨無垢</l><l>及以摩尼燈</l>
+<lb ed="X" n="0164b24"/><lb ed="R006" n="0006b10"/><l>皆令在空住</l><l>一切持向佛</l><l>心生大歡喜</l>
+<pb ed="X" xml:id="X04.0223.0164c" n="0164c"/>
+<lb ed="X" n="0164c01"/><lb ed="R006" n="0006b11"/><l>妻子眷屬俱</l><l>往見世所尊</l></lg></cb:div>
+<lb ed="X" n="0164c02"/><lb ed="R006" n="0006b12"/><cb:div type="commentary"><p xml:id="pX04p0164c0201" rend="margin-left:1em">【論】九諸佛子<anchor xml:id="beg_1ea" type="cb-app"/>已<anchor xml:id="end_1ea"/>下有兩行半經明威光說頌以佛
+<lb ed="X" n="0164c03"/><lb ed="R006" n="0006b13"/>神力其聲徧聞父王聞之歡喜說頌於此十一行
+<lb ed="X" n="0164c04"/><lb ed="R006" n="0006b14"/>頌中明其善慧王敕眾令集并令辦供具。</p></cb:div>
+<lb ed="X" n="0164c05"/><lb ed="R006" n="0006b15"/><cb:div type="orig"><p xml:id="pX04p0164c0501">【經】爾時喜見善慧王與三萬七千夫人婇女俱福吉
+<lb ed="X" n="0164c06"/><lb ed="R006" n="0006b16"/>祥為上首五百王子俱大威光為上首六萬大臣俱
+<lb ed="X" n="0164c07"/><lb ed="R006" n="0006b17"/>慧力為上首如是等七十七百千億那由他眾前後
+<lb ed="X" n="0164c08"/><lb ed="R006" n="0006b18"/>圍遶從<g ref="#CB08504">𦦨</g>光明大城出以王力故一切大眾乘空而
+<lb ed="X" n="0164c09"/><lb ed="R006" n="0007a01"/>往諸供養具徧滿虗空至於佛所頂禮佛足却坐一
+<lb ed="X" n="0164c10"/><lb ed="R006" n="0007a02"/>面復有妙華城善化幢天王與十億那由他眷屬俱
+<lb ed="X" n="0164c11"/><lb ed="R006" n="0007a03"/>復有究竟大城淨光龍王與二十五億眷屬俱復有
+<lb ed="X" n="0164c12"/><lb ed="R006" n="0007a04"/>金剛勝幢城猛健夜叉王與七十七億眷屬俱復有
+<lb ed="X" n="0164c13"/><lb ed="R006" n="0007a05"/>無垢城喜見乾闥婆王與九十七億眷屬俱復有妙
+<lb ed="X" n="0164c14"/><lb ed="R006" n="0007a06"/>輪城淨色思惟阿脩羅王與五十八億眷屬俱復有
+<lb ed="X" n="0164c15"/><lb ed="R006" n="0007a07"/>妙莊嚴城十方行迦樓羅王與九十九千眷屬俱復
+<lb ed="X" n="0164c16"/><lb ed="R006" n="0007a08"/>有遊戲快樂城金剛德緊那羅王與十八億眷屬俱
+<lb ed="X" n="0164c17"/><lb ed="R006" n="0007a09"/>復有金剛幢城寶稱幢摩睺羅伽王與三億百千那
+<lb ed="X" n="0164c18"/><lb ed="R006" n="0007a10"/>由他眷屬俱復有淨妙莊嚴城最勝梵王與十八億
+<lb ed="X" n="0164c19"/><lb ed="R006" n="0007a11"/>眷屬俱如是等百萬億那由他大城中所有諸王并
+<lb ed="X" n="0164c20"/><lb ed="R006" n="0007a12"/>其眷屬悉共往詣一切功德須彌勝雲如來所頂禮
+<lb ed="X" n="0164c21"/><lb ed="R006" n="0007a13"/>佛足却坐一面時彼如來為欲調伏諸眾生故於眾
+<lb ed="X" n="0164c22"/><lb ed="R006" n="0007a14"/>會道場海中說普集一切三世佛自在法脩多羅世
+<lb ed="X" n="0164c23"/><lb ed="R006" n="0007a15"/>界微塵數脩多羅而為眷屬隨眾生心悉令獲益是
+<lb ed="X" n="0164c24"/><lb ed="R006" n="0007a16"/>時大威光菩薩聞是法<anchor xml:id="beg_1eb" type="cb-app"/>已<anchor xml:id="end_1eb"/>即獲一切功德須彌勝雲
+<pb ed="X" xml:id="X04.0223.0165a" n="0165a"/>
+<lb ed="X" n="0165a01"/><lb ed="R006" n="0007a17"/>佛宿世所集法海光明所謂得一切法聚平等三昧
+<lb ed="X" n="0165a02"/><lb ed="R006" n="0007a18"/>智光明一切法悉入最初菩提心中住智光明十方
+<lb ed="X" n="0165a03"/><lb ed="R006" n="0007b01"/>法界普光明藏清淨眼智光明觀察一切佛法大願
+<lb ed="X" n="0165a04"/><lb ed="R006" n="0007b02"/>海智光明入無邊功德海清淨行智光明趣向不退
+<lb ed="X" n="0165a05"/><lb ed="R006" n="0007b03"/>轉大力速疾藏智光明法界中無量變化力出離輪
+<lb ed="X" n="0165a06"/><lb ed="R006" n="0007b04"/>智光明決定入無量功德圓滿海智光明了知一切
+<lb ed="X" n="0165a07"/><lb ed="R006" n="0007b05"/>佛決定解莊嚴成就海智光明了知法界無邊佛現
+<lb ed="X" n="0165a08"/><lb ed="R006" n="0007b06"/>一切眾生前神通海智光明了知一切佛力無所畏
+<lb ed="X" n="0165a09"/><lb ed="R006" n="0007b07"/>法智光明爾時大威光菩薩得如是無量智光明<anchor xml:id="beg_1ec" type="cb-app"/>已<anchor xml:id="end_1ec"/>
+<lb ed="X" n="0165a10"/><lb ed="R006" n="0007b08"/>承佛威力而說頌言。</p>
+<lb ed="X" n="0165a11"/><lb ed="R006" n="0007b09"/><lg xml:id="lgX04p0165a1101"><l>我聞佛妙法</l><l>而得智光明</l><l>以是見世尊</l>
+<lb ed="X" n="0165a12"/><lb ed="R006" n="0007b10"/><l>往昔所行事</l><l>一切所生處</l><l>名號身差別</l>
+<lb ed="X" n="0165a13"/><lb ed="R006" n="0007b11"/><l>及供養於佛</l><l>如是我咸見</l><l>往昔諸佛所</l>
+<lb ed="X" n="0165a14"/><lb ed="R006" n="0007b12"/><l>一切皆承事</l><l>無量劫修行</l><l>嚴淨諸剎海</l>
+<lb ed="X" n="0165a15"/><lb ed="R006" n="0007b13"/><l>捨施於自身</l><l>廣大無涯際</l><l>修治最勝行</l>
+<lb ed="X" n="0165a16"/><lb ed="R006" n="0007b14"/><l>嚴淨諸剎海</l><l>耳鼻頭手足</l><l>及以諸宮殿</l>
+<lb ed="X" n="0165a17"/><lb ed="R006" n="0007b15"/><l>捨之無有量</l><l>嚴淨諸剎海</l><l>能於一一剎</l>
+<lb ed="X" n="0165a18"/><lb ed="R006" n="0007b16"/><l>億劫不思議</l><l>修習菩提行</l><l>嚴淨諸剎海</l>
+<lb ed="X" n="0165a19"/><lb ed="R006" n="0007b17"/><l>普賢大願力</l><l>一切佛海中</l><l>修行無量行</l>
+<lb ed="X" n="0165a20"/><lb ed="R006" n="0007b18"/><l>嚴淨諸剎海</l><l>如因日光照</l><l>還見於日輪</l>
+<lb ed="X" n="0165a21"/><lb ed="R006" n="0008a01"/><l>我以佛智光</l><l>見佛所行道</l><l>我觀佛剎海</l>
+<lb ed="X" n="0165a22"/><lb ed="R006" n="0008a02"/><l>清淨大光明</l><l>寂靜證菩提</l><l>法界悉周徧</l>
+<lb ed="X" n="0165a23"/><lb ed="R006" n="0008a03"/><l>我當如世尊</l><l>廣淨諸剎海</l><l>以佛威神力</l>
+<lb ed="X" n="0165a24"/><lb ed="R006" n="0008a04"/><l>修習菩提行</l></lg></cb:div>
+<pb ed="X" xml:id="X04.0223.0165b" n="0165b"/>
+<lb ed="X" n="0165b01"/><lb ed="R006" n="0008a05"/><cb:div type="commentary"><p xml:id="pX04p0165b0101" rend="margin-left:1em">【論】十爾時<anchor xml:id="beg_1ed" type="cb-app"/>已<anchor xml:id="end_1ed"/>下有三十四行半經明十王興供見
+<lb ed="X" n="0165b02"/><lb ed="R006" n="0008a06"/>佛并陳所聞脩多羅經威光獲益脩多羅者此為
+<lb ed="X" n="0165b03"/><lb ed="R006" n="0008a07"/>長行經也最下兩句明威光說偈此十行頌中明
+<lb ed="X" n="0165b04"/><lb ed="R006" n="0008a08"/>威光聞法獲益得宿命智力見佛所行往因之事
+<lb ed="X" n="0165b05"/><lb ed="R006" n="0008a09"/>并自立願如佛所行。</p></cb:div>
+<lb ed="X" n="0165b06"/><lb ed="R006" n="0008a10"/><cb:div type="orig"><p xml:id="pX04p0165b0601">【經】諸佛子時大威光菩薩以見一切功德山須彌勝
+<lb ed="X" n="0165b07"/><lb ed="R006" n="0008a11"/>雲佛承事供養故於如來所心得悟了為一切世間
+<lb ed="X" n="0165b08"/><lb ed="R006" n="0008a12"/>顯示如來往昔行海顯示往昔菩薩行方便顯示一
+<lb ed="X" n="0165b09"/><lb ed="R006" n="0008a13"/>切佛功德海顯示普入一切法界清淨智顯示一切
+<lb ed="X" n="0165b10"/><lb ed="R006" n="0008a14"/>道場中成佛自在力顯示佛力無畏無差別智顯示
+<lb ed="X" n="0165b11"/><lb ed="R006" n="0008a15"/>普示現如來身顯示不可思議佛神變顯示莊嚴無
+<lb ed="X" n="0165b12"/><lb ed="R006" n="0008a16"/>量清淨佛土顯示普賢菩薩所有行願令如須彌山
+<lb ed="X" n="0165b13"/><lb ed="R006" n="0008a17"/>微塵數眾生發菩提心佛剎微塵數眾生成就如來
+<lb ed="X" n="0165b14"/><lb ed="R006" n="0008a18"/>清淨國土爾時一切功德山須彌勝雲佛為大威光
+<lb ed="X" n="0165b15"/><lb ed="R006" n="0008b01"/>菩薩而說頌言。</p>
+<lb ed="X" n="0165b16"/><lb ed="R006" n="0008b02"/><lg xml:id="lgX04p0165b1601"><l>善哉大威光</l><l>福藏廣名稱</l><l>為利眾生故</l>
+<lb ed="X" n="0165b17"/><lb ed="R006" n="0008b03"/><l>發趣菩提道</l><l>汝獲智光明</l><l>法界悉充<anchor xml:id="nkr_note_orig_0165001" n="0165001"/>滿</l>
+<lb ed="X" n="0165b18"/><lb ed="R006" n="0008b04"/><l>福慧咸廣大</l><l>當得深智海</l><l>一剎中修行</l>
+<lb ed="X" n="0165b19"/><lb ed="R006" n="0008b05"/><l>經於剎塵劫</l><l>如汝見於我</l><l>當獲如是智</l>
+<lb ed="X" n="0165b20"/><lb ed="R006" n="0008b06"/><l>非諸劣行者</l><l>能知此方便</l><l>獲大精進力</l>
+<lb ed="X" n="0165b21"/><lb ed="R006" n="0008b07"/><l>乃能淨剎海</l><l>一一微塵中</l><l>無量劫修行</l>
+<lb ed="X" n="0165b22"/><lb ed="R006" n="0008b08"/><l>彼人乃能得</l><l>莊嚴諸佛剎</l><l>為一一眾生</l>
+<lb ed="X" n="0165b23"/><lb ed="R006" n="0008b09"/><l>輪迴經劫海</l><l>其心不疲懈</l><l>當成世導師</l>
+<lb ed="X" n="0165b24"/><lb ed="R006" n="0008b10"/><l>供養一一佛</l><l>悉盡未來際</l><l>心無暫疲厭</l>
+<pb ed="X" xml:id="X04.0223.0165c" n="0165c"/>
+<lb ed="X" n="0165c01"/><lb ed="R006" n="0008b11"/><l>當成無上道</l><l>三世一切佛</l><l>當共滿汝願</l>
+<lb ed="X" n="0165c02"/><lb ed="R006" n="0008b12"/><l>一切佛會中</l><l>汝身安住彼</l><l>一切諸如來</l>
+<lb ed="X" n="0165c03"/><lb ed="R006" n="0008b13"/><l>誓願無有邊</l><l>大智通達者</l><l>能知此方便</l>
+<lb ed="X" n="0165c04"/><lb ed="R006" n="0008b14"/><l>大光供養我</l><l>故獲大威力</l><l>令塵數眾生</l>
+<lb ed="X" n="0165c05"/><lb ed="R006" n="0008b15"/><l>成熟向菩提</l><l>諸修普賢行</l><l>大名稱菩薩</l>
+<lb ed="X" n="0165c06"/><lb ed="R006" n="0008b16"/><l>莊嚴佛剎海</l><l>法界普周徧</l></lg></cb:div>
+<lb ed="X" n="0165c07"/><lb ed="R006" n="0008b17"/><cb:div type="commentary"><p xml:id="pX04p0165c0701" rend="margin-left:1em">【論】十一諸佛子<anchor xml:id="beg_1ee" type="cb-app"/>已<anchor xml:id="end_1ee"/>下有十一行經明威光菩薩以
+<lb ed="X" n="0165c08"/><lb ed="R006" n="0008b18"/>見初佛承事供養故得十種顯示如來所行法令
+<lb ed="X" n="0165c09"/><lb ed="R006" n="0009a01"/>須彌山塵數眾生發菩提心功德山須彌勝雲如
+<lb ed="X" n="0165c10"/><lb ed="R006" n="0009a02"/>來為威光說頌歎威光之德於此十一行頌中明
+<lb ed="X" n="0165c11"/><lb ed="R006" n="0009a03"/>功德山如來歎威光所得如佛所行廣大如文可
+<lb ed="X" n="0165c12"/><lb ed="R006" n="0009a04"/>知。</p></cb:div>
+<lb ed="X" n="0165c13"/><lb ed="R006" n="0009a05"/><cb:div type="orig"><p xml:id="pX04p0165c1301">【經】諸佛子汝等應知彼大莊嚴劫中有恒河沙數小
+<lb ed="X" n="0165c14"/><lb ed="R006" n="0009a06"/>劫人壽命二小劫諸佛子彼一切功德須彌勝雲佛
+<lb ed="X" n="0165c15"/><lb ed="R006" n="0009a07"/>壽命五十億歲彼佛滅度後有佛出世名波羅蜜善
+<lb ed="X" n="0165c16"/><lb ed="R006" n="0009a08"/>眼莊嚴王亦於彼摩尼華枝輪大林中而成正覺爾
+<lb ed="X" n="0165c17"/><lb ed="R006" n="0009a09"/>時大威光童子見彼如來成等正覺現神通力即得
+<lb ed="X" n="0165c18"/><lb ed="R006" n="0009a10"/>念佛三昧名無邊海藏門即得陀羅尼名大智力法
+<lb ed="X" n="0165c19"/><lb ed="R006" n="0009a11"/>淵即得大慈名普隨眾生調伏度脫即得大悲名徧
+<lb ed="X" n="0165c20"/><lb ed="R006" n="0009a12"/>覆一切境界雲即得大喜名一切佛功德海威力藏
+<lb ed="X" n="0165c21"/><lb ed="R006" n="0009a13"/>即得大捨名法性虗空平等清淨即得般若波羅蜜
+<lb ed="X" n="0165c22"/><lb ed="R006" n="0009a14"/>名自性離垢法界清淨身即得神通名無礙光普隨
+<lb ed="X" n="0165c23"/><lb ed="R006" n="0009a15"/>現即得辯才名善入離垢淵即得智光名一切佛法
+<lb ed="X" n="0165c24"/><lb ed="R006" n="0009a16"/>清淨藏如是等十千法門皆得通達爾時大威光童
+<pb ed="X" xml:id="X04.0223.0166a" n="0166a"/>
+<lb ed="X" n="0166a01"/><lb ed="R006" n="0009a17"/>子承佛威力為諸眷屬而說頌言。</p>
+<lb ed="X" n="0166a02"/><lb ed="R006" n="0009a18"/><lg xml:id="lgX04p0166a0201"><l>不可思議億劫中</l><l>導世明師難一遇</l>
+<lb ed="X" n="0166a03"/><lb ed="R006" n="0009b01"/><l>此土眾生多善利</l><l>而今得見第二佛</l>
+<lb ed="X" n="0166a04"/><lb ed="R006" n="0009b02"/><l>佛身普放大光明</l><l>色相無邊極清淨</l>
+<lb ed="X" n="0166a05"/><lb ed="R006" n="0009b03"/><l>如雲充滿一切<anchor xml:id="nkr_note_orig_0166001" n="0166001"/>土</l><l>處處稱揚佛功德</l>
+<lb ed="X" n="0166a06"/><lb ed="R006" n="0009b04"/><l>光明所照咸歡喜</l><l>眾生有苦悉除滅</l>
+<lb ed="X" n="0166a07"/><lb ed="R006" n="0009b05"/><l>各令恭敬起慈心</l><l>此是如來自在用</l>
+<lb ed="X" n="0166a08"/><lb ed="R006" n="0009b06"/><l>出不思議變化雲</l><l>放無量色光明網</l>
+<lb ed="X" n="0166a09"/><lb ed="R006" n="0009b07"/><l>十方國土皆充滿</l><l>此佛神通之所現</l>
+<lb ed="X" n="0166a10"/><lb ed="R006" n="0009b08"/><l>一一毛孔現光雲</l><l>普徧虗空發大音</l>
+<lb ed="X" n="0166a11"/><lb ed="R006" n="0009b09"/><l>所有幽冥靡不照</l><l>地獄眾苦咸令滅</l>
+<lb ed="X" n="0166a12"/><lb ed="R006" n="0009b10"/><l>如來妙音徧十方</l><l>一切言音咸具演</l>
+<lb ed="X" n="0166a13"/><lb ed="R006" n="0009b11"/><l>隨諸眾生宿善力</l><l>此是大師神變用</l>
+<lb ed="X" n="0166a14"/><lb ed="R006" n="0009b12"/><l>無量無邊大眾海</l><l>佛於其中皆出現</l>
+<lb ed="X" n="0166a15"/><lb ed="R006" n="0009b13"/><l>普轉無盡妙法輪</l><l>調伏一切諸眾生</l>
+<lb ed="X" n="0166a16"/><lb ed="R006" n="0009b14"/><l>佛神通力無有邊</l><l>一切剎中皆出現</l>
+<lb ed="X" n="0166a17"/><lb ed="R006" n="0009b15"/><l>善逝如是智無礙</l><l>為利眾生成正覺</l>
+<lb ed="X" n="0166a18"/><lb ed="R006" n="0009b16"/><l>汝等應生歡喜心</l><l>踊躍愛樂極尊重</l>
+<lb ed="X" n="0166a19"/><lb ed="R006" n="0009b17"/><l>我當與汝同詣彼</l><l>若見如來眾苦滅</l>
+<lb ed="X" n="0166a20"/><lb ed="R006" n="0009b18"/><l>發心迴向趣菩提</l><l>慈念一切諸眾生</l>
+<lb ed="X" n="0166a21"/><lb ed="R006" n="0010a01"/><l>悉住普賢廣大願</l><l>當如法王得自在</l></lg></cb:div>
+<lb ed="X" n="0166a22"/><lb ed="R006" n="0010a02"/><cb:div type="commentary"><p xml:id="pX04p0166a2201" rend="margin-left:1em">【論】十二諸佛子<anchor xml:id="beg_1ef" type="cb-app"/>已<anchor xml:id="end_1ef"/>下有十四行半經明莊嚴劫中
+<lb ed="X" n="0166a23"/><lb ed="R006" n="0010a03"/>佛及人壽命長短初佛去世第二佛出興并明威
+<lb ed="X" n="0166a24"/><lb ed="R006" n="0010a04"/>光見第二佛得十種利并為眷屬說頌此二十行
+<pb ed="X" xml:id="X04.0223.0166b" n="0166b"/>
+<lb ed="X" n="0166b01"/><lb ed="R006" n="0010a05"/>頌中明威光歎佛慈悲出世難遇勸其眷屬同往
+<lb ed="X" n="0166b02"/><lb ed="R006" n="0010a06"/>佛所。</p></cb:div>
+<lb ed="X" n="0166b03"/><lb ed="R006" n="0010a07"/><cb:div type="orig"><p xml:id="pX04p0166b0301">【經】諸佛子大威光童子說此頌時以佛神力其聲無
+<lb ed="X" n="0166b04"/><lb ed="R006" n="0010a08"/>礙<anchor xml:id="nkr_note_orig_0166002" n="0166002"/>一切世界皆悉得聞無量眾生發菩提心時大威
+<lb ed="X" n="0166b05"/><lb ed="R006" n="0010a09"/>光王子與其父母并諸眷屬及無量百千億那由他
+<lb ed="X" n="0166b06"/><lb ed="R006" n="0010a10"/>眾生前後圍遶寶蓋如雲徧覆虗空共詣波羅蜜善
+<lb ed="X" n="0166b07"/><lb ed="R006" n="0010a11"/>眼莊嚴王如來所其佛為說法界體性清淨莊嚴脩
+<lb ed="X" n="0166b08"/><lb ed="R006" n="0010a12"/>多羅世界海微塵等脩多羅而為眷屬彼諸大眾聞
+<lb ed="X" n="0166b09"/><lb ed="R006" n="0010a13"/>此經<anchor xml:id="beg_1f0" type="cb-app"/>已<anchor xml:id="end_1f0"/>得清淨智名入一切淨方便得於地名離垢
+<lb ed="X" n="0166b10"/><lb ed="R006" n="0010a14"/>光明得波羅蜜輪名示現一切世間愛樂莊嚴得增
+<lb ed="X" n="0166b11"/><lb ed="R006" n="0010a15"/>廣行輪名普入一切剎土無邊光明清淨見得趣向
+<lb ed="X" n="0166b12"/><lb ed="R006" n="0010a16"/>行輪名離垢福德雲光明幢得隨入證輪名一切法
+<lb ed="X" n="0166b13"/><lb ed="R006" n="0010a17"/>海廣大光明得轉深發趣行名大智莊嚴得灌頂智
+<lb ed="X" n="0166b14"/><lb ed="R006" n="0010a18"/>慧海名無功用修極妙見得顯了大光明名如來功
+<lb ed="X" n="0166b15"/><lb ed="R006" n="0010b01"/>德海相光影徧照得出生願力清淨智名無量願力
+<lb ed="X" n="0166b16"/><lb ed="R006" n="0010b02"/>信解藏時彼佛為大威光菩薩而說頌言。</p>
+<lb ed="X" n="0166b17"/><lb ed="R006" n="0010b03"/><lg xml:id="lgX04p0166b1701"><l>善哉功德智慧海</l><l>發心趣向大菩提</l>
+<lb ed="X" n="0166b18"/><lb ed="R006" n="0010b04"/><l>汝當得佛不思議</l><l>普為眾生作依處</l>
+<lb ed="X" n="0166b19"/><lb ed="R006" n="0010b05"/><l>汝<anchor xml:id="beg_1f1" type="cb-app"/>已<anchor xml:id="end_1f1"/>出生大智海</l><l>悉能徧了一切法</l>
+<lb ed="X" n="0166b20"/><lb ed="R006" n="0010b06"/><l>當以難思妙方便</l><l>入佛無盡所行境</l>
+<lb ed="X" n="0166b21"/><lb ed="R006" n="0010b07"/><l><anchor xml:id="beg_1f2" type="cb-app"/>已<anchor xml:id="end_1f2"/>見諸佛功德雲</l><l><anchor xml:id="beg_1f3" type="cb-app"/>已<anchor xml:id="end_1f3"/>入無盡智慧地</l>
+<lb ed="X" n="0166b22"/><lb ed="R006" n="0010b08"/><l>諸波羅蜜方便海</l><l>大名稱者當滿足</l>
+<lb ed="X" n="0166b23"/><lb ed="R006" n="0010b09"/><l><anchor xml:id="beg_1f4" type="cb-app"/>已<anchor xml:id="end_1f4"/>得方便總持門</l><l>及以無盡辯才門</l>
+<lb ed="X" n="0166b24"/><lb ed="R006" n="0010b10"/><l>種種行願皆修習</l><l>當成無等大智慧</l>
+<pb ed="X" xml:id="X04.0223.0166c" n="0166c"/>
+<lb ed="X" n="0166c01"/><lb ed="R006" n="0010b11"/><l>汝<anchor xml:id="beg_1f5" type="cb-app"/>已<anchor xml:id="end_1f5"/>出生諸願海</l><l>汝<anchor xml:id="beg_1f6" type="cb-app"/>已<anchor xml:id="end_1f6"/>入於三昧海</l>
+<lb ed="X" n="0166c02"/><lb ed="R006" n="0010b12"/><l>當具種種大神通</l><l>不可思議諸佛法</l>
+<lb ed="X" n="0166c03"/><lb ed="R006" n="0010b13"/><l>究竟法界不思議</l><l>廣大深心<anchor xml:id="beg_1f7" type="cb-app"/>已<anchor xml:id="end_1f7"/>清淨</l>
+<lb ed="X" n="0166c04"/><lb ed="R006" n="0010b14"/><l>普見十方一切佛</l><l>離垢莊嚴眾剎海</l>
+<lb ed="X" n="0166c05"/><lb ed="R006" n="0010b15"/><l>汝<anchor xml:id="beg_1f8" type="cb-app"/>已<anchor xml:id="end_1f8"/>入我菩提行</l><l>昔時本事方便海</l>
+<lb ed="X" n="0166c06"/><lb ed="R006" n="0010b16"/><l>如我修行所淨治</l><l>如是妙行汝皆悟</l>
+<lb ed="X" n="0166c07"/><lb ed="R006" n="0010b17"/><l>我於無量一一剎</l><l>種種供養諸佛海</l>
+<lb ed="X" n="0166c08"/><lb ed="R006" n="0010b18"/><l>如彼修行所得果</l><l>如是莊嚴汝咸見</l>
+<lb ed="X" n="0166c09"/><lb ed="R006" n="0011a01"/><l>廣大劫海無有盡</l><l>一切剎中修淨行</l>
+<lb ed="X" n="0166c10"/><lb ed="R006" n="0011a02"/><l>堅固誓願不可思</l><l>當得如來此神力</l>
+<lb ed="X" n="0166c11"/><lb ed="R006" n="0011a03"/><l>諸佛供養盡無餘</l><l>國土莊嚴悉清淨</l>
+<lb ed="X" n="0166c12"/><lb ed="R006" n="0011a04"/><l>一切劫中修妙行</l><l>汝當成佛大功德</l></lg></cb:div>
+<lb ed="X" n="0166c13"/><lb ed="R006" n="0011a05"/><cb:div type="commentary"><p xml:id="pX04p0166c1301" rend="margin-left:1em">【論】十三諸佛子<anchor xml:id="beg_1f9" type="cb-app"/>已<anchor xml:id="end_1f9"/>下有十六行經明威光說頌其
+<lb ed="X" n="0166c14"/><lb ed="R006" n="0011a06"/>聲徧聞威光與眷屬同往佛所得十種利第二佛
+<lb ed="X" n="0166c15"/><lb ed="R006" n="0011a07"/>為威光說頌此二十行頌中明第二如來歎威光
+<lb ed="X" n="0166c16"/><lb ed="R006" n="0011a08"/>入道得益所得之益是八地法門如經云得灌頂
+<lb ed="X" n="0166c17"/><lb ed="R006" n="0011a09"/>智慧海名無功用修極妙見。</p></cb:div>
+<lb ed="X" n="0166c18"/><lb ed="R006" n="0011a10"/><cb:div type="orig"><p xml:id="pX04p0166c1801">【經】諸佛子波羅蜜善眼莊嚴王如來入涅槃<anchor xml:id="beg_1fa" type="cb-app"/>已<anchor xml:id="end_1fa"/>喜見
+<lb ed="X" n="0166c19"/><lb ed="R006" n="0011a11"/>善慧王尋亦去世大威光童子受轉輪王位彼摩尼
+<lb ed="X" n="0166c20"/><lb ed="R006" n="0011a12"/>華枝輪大林中第三如來出現於世名最勝功德海
+<lb ed="X" n="0166c21"/><lb ed="R006" n="0011a13"/>時大威光轉輪聖王見彼如來成佛之相與其眷屬
+<lb ed="X" n="0166c22"/><lb ed="R006" n="0011a14"/>及四兵眾城邑聚落一切人民并持七寶俱往佛所
+<lb ed="X" n="0166c23"/><lb ed="R006" n="0011a15"/>以一切香摩尼莊嚴大樓閣奉上於佛時彼如來於
+<lb ed="X" n="0166c24"/><lb ed="R006" n="0011a16"/>其林中說菩薩普眼光明行修多羅世界微塵數修
+<pb ed="X" xml:id="X04.0223.0167a" n="0167a"/>
+<lb ed="X" n="0167a01"/><lb ed="R006" n="0011a17"/>多羅而為眷屬爾時大威光菩薩聞此法<anchor xml:id="beg_1fb" type="cb-app"/>已<anchor xml:id="end_1fb"/>得三昧
+<lb ed="X" n="0167a02"/><lb ed="R006" n="0011a18"/>名大福德普光明得此三昧故悉能了知一切菩薩
+<lb ed="X" n="0167a03"/><lb ed="R006" n="0011b01"/>一切眾生過現未來福非福海時彼佛為大威光菩
+<lb ed="X" n="0167a04"/><lb ed="R006" n="0011b02"/>薩而說頌言。</p>
+<lb ed="X" n="0167a05"/><lb ed="R006" n="0011b03"/><lg xml:id="lgX04p0167a0501"><l>善哉福德大威光</l><l>汝等今來至我所</l>
+<lb ed="X" n="0167a06"/><lb ed="R006" n="0011b04"/><l>愍念一切眾生海</l><l>發勝菩提大願心</l>
+<lb ed="X" n="0167a07"/><lb ed="R006" n="0011b05"/><l>汝為一切苦眾生</l><l>起大悲心令解脫</l>
+<lb ed="X" n="0167a08"/><lb ed="R006" n="0011b06"/><l>當作羣迷所依怙</l><l>是名菩薩方便行</l>
+<lb ed="X" n="0167a09"/><lb ed="R006" n="0011b07"/><l>若有菩薩能堅固</l><l>修諸勝行無厭怠</l>
+<lb ed="X" n="0167a10"/><lb ed="R006" n="0011b08"/><l>最勝最上無礙解</l><l>如是妙智彼當得</l>
+<lb ed="X" n="0167a11"/><lb ed="R006" n="0011b09"/><l>福德光者福幢者</l><l>福德處者福海者</l>
+<lb ed="X" n="0167a12"/><lb ed="R006" n="0011b10"/><l>普賢菩薩所有願</l><l>是汝大光能趣入</l>
+<lb ed="X" n="0167a13"/><lb ed="R006" n="0011b11"/><l>汝能以此廣大願</l><l>入不思議諸佛海</l>
+<lb ed="X" n="0167a14"/><lb ed="R006" n="0011b12"/><l>諸佛福海無有邊</l><l>汝以妙解皆能見</l>
+<lb ed="X" n="0167a15"/><lb ed="R006" n="0011b13"/><l>汝於十方國土中</l><l>悉見無量無邊佛</l>
+<lb ed="X" n="0167a16"/><lb ed="R006" n="0011b14"/><l>彼佛往昔諸行海</l><l>如是一切汝咸見</l>
+<lb ed="X" n="0167a17"/><lb ed="R006" n="0011b15"/><l>若有住此方便海</l><l>必得入於智地中</l>
+<lb ed="X" n="0167a18"/><lb ed="R006" n="0011b16"/><l>地是隨順諸佛學</l><l>決定當成一切智</l>
+<lb ed="X" n="0167a19"/><lb ed="R006" n="0011b17"/><l>汝於一切剎海中</l><l>微塵劫海修諸行</l>
+<lb ed="X" n="0167a20"/><lb ed="R006" n="0011b18"/><l>一切如來諸行海</l><l>汝皆學<anchor xml:id="beg_1fc" type="cb-app"/>已<anchor xml:id="end_1fc"/>當成佛</l>
+<lb ed="X" n="0167a21"/><lb ed="R006" n="0012a01"/><l>如汝所見十方中</l><l>一切剎海極嚴淨</l>
+<lb ed="X" n="0167a22"/><lb ed="R006" n="0012a02"/><l>汝剎嚴淨亦如是</l><l>無邊願者所當得</l>
+<lb ed="X" n="0167a23"/><lb ed="R006" n="0012a03"/><l>今此道場眾會海</l><l>聞汝願<anchor xml:id="beg_1fd" type="cb-app"/>已<anchor xml:id="end_1fd"/>生欣樂</l>
+<lb ed="X" n="0167a24"/><lb ed="R006" n="0012a04"/><l>皆入普賢廣大乘</l><l>發心迴向趣菩提</l>
+<pb ed="X" xml:id="X04.0223.0167b" n="0167b"/>
+<lb ed="X" n="0167b01"/><lb ed="R006" n="0012a05"/><l>無邊國土一一中</l><l>悉入修行經劫海</l>
+<lb ed="X" n="0167b02"/><lb ed="R006" n="0012a06"/><l>以諸願力能圓滿</l><l>普賢菩薩一切行</l></lg></cb:div>
+<lb ed="X" n="0167b03"/><lb ed="R006" n="0012a07"/><cb:div type="commentary"><p xml:id="pX04p0167b0301" rend="margin-left:1em">【論】十四諸佛子<anchor xml:id="beg_1fe" type="cb-app"/>已<anchor xml:id="end_1fe"/>下有十二行經明第二佛去世
+<lb ed="X" n="0167b04"/><lb ed="R006" n="0012a08"/>善慧王亦去世大威光受輪王位第三如來於舊
+<lb ed="X" n="0167b05"/><lb ed="R006" n="0012a09"/>道場出興於世威光見佛聞法得益第三如來說
+<lb ed="X" n="0167b06"/><lb ed="R006" n="0012a10"/>頌歎威光之德此二十二行頌明第三如來歎威
+<lb ed="X" n="0167b07"/><lb ed="R006" n="0012a11"/>光所得之法。</p></cb:div>
+<lb ed="X" n="0167b08"/><lb ed="R006" n="0012a12"/><cb:div type="orig"><p xml:id="pX04p0167b0801">【經】諸佛子彼摩尼華枝輪大林中復有佛出號名稱
+<lb ed="X" n="0167b09"/><lb ed="R006" n="0012a13"/>普聞蓮華眼幢是時大威光於此命<anchor xml:id="nkr_note_orig_0167001" n="0167001"/><g ref="#CB02534">𣧩</g>生須彌山上
+<lb ed="X" n="0167b10"/><lb ed="R006" n="0012a14"/>寂靜寶宮天城中為大天王名離垢福德幢共諸天
+<lb ed="X" n="0167b11"/><lb ed="R006" n="0012a15"/>眾俱詣佛所雨寶華雲以為供養時彼如來為說廣
+<lb ed="X" n="0167b12"/><lb ed="R006" n="0012a16"/>大方便普門徧照脩多羅世界海微塵數脩多羅而
+<lb ed="X" n="0167b13"/><lb ed="R006" n="0012a17"/>為眷屬時天王眾聞此經<anchor xml:id="beg_1ff" type="cb-app"/>已<anchor xml:id="end_1ff"/>得三昧名普門歡喜藏
+<lb ed="X" n="0167b14"/><lb ed="R006" n="0012a18"/>以三昧力能入一切法實相海獲是益<anchor xml:id="beg_200" type="cb-app"/>已<anchor xml:id="end_200"/>從道場出
+<lb ed="X" n="0167b15"/><lb ed="R006" n="0012b01"/>還歸本處。</p></cb:div>
+<lb ed="X" n="0167b16"/><lb ed="R006" n="0012b02"/><cb:div type="commentary"><p xml:id="pX04p0167b1601" rend="margin-left:1em">【論】十五諸佛子<anchor xml:id="beg_201" type="cb-app"/>已<anchor xml:id="end_201"/>下有八行半經明第四如來於
+<lb ed="X" n="0167b17"/><lb ed="R006" n="0012b03"/>舊道場中出現大威光去世生須彌山頂為大天
+<lb ed="X" n="0167b18"/><lb ed="R006" n="0012b04"/>王還來見佛獲益而去此一品經來文未足未有
+<lb ed="X" n="0167b19"/><lb ed="R006" n="0012b05"/>結終之處此品但明引古印今毗盧遮那出世之
+<lb ed="X" n="0167b20"/><lb ed="R006" n="0012b06"/>法古今相襲不異又明所信樂道高法勝人壽命
+<lb ed="X" n="0167b21"/><lb ed="R006" n="0012b07"/>長遠福德所居依正果勝見佛聞法所獲利益勝
+<lb ed="X" n="0167b22"/><lb ed="R006" n="0012b08"/>故。</p></cb:div>
+<lb ed="X" n="0167b23"/><lb ed="R006" n="0012b09"/>
+<lb ed="X" n="0167b24"/><lb ed="R006" n="0012b10"/><cb:juan fun="close" n="24"><cb:jhead>大方廣佛新華嚴經合論卷第二十四</cb:jhead></cb:juan>
+<pb ed="X" xml:id="X04.0223.0167c" n="0167c"/>
+<lb ed="X" n="0167c01"/><lb ed="R006" n="0012b11"/>
+<lb ed="X" n="0167c02"/><lb ed="R006" n="0012b12"/><cb:div type="w"><head>音切</head>
+<lb ed="X" n="0167c03"/><lb ed="R006" n="0012b13"/><cb:div type="note"><entry rend="margin-left:1em"><form>縱</form><cb:def><p xml:id="pX04p0167c0302" rend="inline"><note place="inline">足容切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>櫓</form><cb:def><p xml:id="pX04p0167c0306" rend="inline"><note place="inline">魯音</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>崇</form><cb:def><p xml:id="pX04p0167c0309" rend="inline"><note place="inline">土弓切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>敵</form><cb:def><p xml:id="pX04p0167c0313" rend="inline"><note place="inline">徒力切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>壍</form><cb:def><p xml:id="pX04p0167c0317" rend="inline"><note place="inline">七焰切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>奪</form><cb:def><p xml:id="pX04p0167c0321" rend="inline"><note place="inline">徒活切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>裂</form><cb:def><p xml:id="pX04p0167c0325" rend="inline"><note place="inline">列音</note>。</p></cb:def></entry>
+<lb ed="X" n="0167c04"/><lb ed="R006" n="0012b14"/><entry rend="margin-left:1em"><form>萃</form><cb:def><p xml:id="pX04p0167c0402" rend="inline"><note place="inline">秦醉切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>妓</form><cb:def><p xml:id="pX04p0167c0406" rend="inline"><note place="inline">奇綺切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>馭</form><cb:def><p xml:id="pX04p0167c0410" rend="inline"><note place="inline">魚據切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>乘</form><cb:def><p xml:id="pX04p0167c0414" rend="inline"><note place="inline">去聲</note>劣<note place="inline">力月切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>怙</form><cb:def><p xml:id="pX04p0167c0421" rend="inline"><note place="inline">胡古切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>禦</form><cb:def><p xml:id="pX04p0167c0425" rend="inline"><note place="inline">魚舉
+<lb ed="X" n="0167c05"/><lb ed="R006" n="0012b15"/>切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>壕</form><cb:def><p xml:id="pX04p0167c0503" rend="inline"><note place="inline">乎刀切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>郁</form><cb:def><p xml:id="pX04p0167c0507" rend="inline"><note place="inline">於六切</note>。</p></cb:def></entry><entry cb:place="inline" rend="margin-left:1em"><form>蹙</form><cb:def><p xml:id="pX04p0167c0511" rend="inline"><note place="inline">子六切</note>。</p></cb:def></entry></cb:div></cb:div></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_1da" cb:to="#end_1da"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1db" cb:to="#end_1db"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1dc" cb:to="#end_1dc"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1dd" cb:to="#end_1dd"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1de" cb:to="#end_1de"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1df" cb:to="#end_1df"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1e0" cb:to="#end_1e0"><corr>刺</corr><sic>剌</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1e1" cb:to="#end_1e1"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1e2" cb:to="#end_1e2"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1e3" cb:to="#end_1e3"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1e4" cb:to="#end_1e4"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1e5" cb:to="#end_1e5"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1e6" cb:to="#end_1e6"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1e7" cb:to="#end_1e7"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1e8" cb:to="#end_1e8"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1e9" cb:to="#end_1e9"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1ea" cb:to="#end_1ea"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1eb" cb:to="#end_1eb"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1ec" cb:to="#end_1ec"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1ed" cb:to="#end_1ed"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1ee" cb:to="#end_1ee"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1ef" cb:to="#end_1ef"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f0" cb:to="#end_1f0"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f1" cb:to="#end_1f1"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f2" cb:to="#end_1f2"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f3" cb:to="#end_1f3"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f4" cb:to="#end_1f4"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f5" cb:to="#end_1f5"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f6" cb:to="#end_1f6"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f7" cb:to="#end_1f7"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f8" cb:to="#end_1f8"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f9" cb:to="#end_1f9"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1fa" cb:to="#end_1fa"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1fb" cb:to="#end_1fb"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1fc" cb:to="#end_1fc"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1fd" cb:to="#end_1fd"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1fe" cb:to="#end_1fe"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1ff" cb:to="#end_1ff"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_200" cb:to="#end_200"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_201" cb:to="#end_201"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+<cb:div type="cbeta-notes">
+<head>CBETA 校勘記</head>
+<p>
+</p>
+</cb:div>
+<cb:div type="xuzang-notes">
+<head>卍續藏 校勘記</head>
+<p>
+<note n="0162001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0162001">迥宋藏作迴</note>
+<note n="0162002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0162002">寶莊嚴下南北宋藏俱有次有緊那羅城名遊戲快樂次有摩<g ref="#CB02617">󰨹</g>羅城名金剛幢二十一字</note>
+<note n="0163001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0163001">目宋論作自</note>
+<note n="0165001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0165001">滿南北宋藏俱作徧</note>
+<note n="0166001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0166001">土宋論作法</note>
+<note n="0166002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0166002">一切下宋藏有智字</note>
+<note n="0167001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0167001"><g ref="#CB02534">𣧩</g>北藏作終</note>
+</p>
+</cb:div>
+</back></text></TEI>

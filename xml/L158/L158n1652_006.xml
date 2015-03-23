@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="L158n1652">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Qianlong Edition of the Canon, Electronic version, No. 1652 明覺聰禪師語錄</title>
+			<author>清 性聰撰述 寂空．方醒等編次</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.8 $<date>$Date: 2012/06/27 08:40:02 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>20卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/06/27 08:40:02 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Qianlong Edition of the Canon Vol. 158, No. 1652 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00932">
+	<charName>CBETA CHARACTER CB00932</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[黎-(暴-(日/共))+(恭-共)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>黎</value>
+	</charProp>
+	<mapping type="unicode">U+25816</mapping>
+	<mapping cb:dec="983972" type="PUA">U+F03A4</mapping>
+</char>
+<char xml:id="CB01076">
+	<charName>CBETA CHARACTER CB01076</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[去*頁]</value>
+	</charProp>
+	<mapping type="unicode">U+4ABA</mapping>
+	<mapping cb:dec="984116" type="PUA">U+F0434</mapping>
+</char>
+<char xml:id="CB01387">
+	<charName>CBETA CHARACTER CB01387</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+孛]</value>
+	</charProp>
+	<mapping type="unicode">U+2805D</mapping>
+	<mapping cb:dec="984427" type="PUA">U+F056B</mapping>
+</char>
+<char xml:id="CB01926">
+	<charName>CBETA CHARACTER CB01926</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[厂@火]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>灰</value>
+	</charProp>
+	<mapping type="normal_unicode">U+7070</mapping>
+	<mapping cb:dec="984966" type="PUA">U+F0786</mapping>
+</char>
+<char xml:id="CB02420">
+	<charName>CBETA CHARACTER CB02420</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[矢*見]</value>
+	</charProp>
+	<mapping type="unicode">U+4093</mapping>
+	<mapping cb:dec="985460" type="PUA">U+F0974</mapping>
+</char>
+<char xml:id="CB02575">
+	<charName>CBETA CHARACTER CB02575</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[毯-炎+參]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>毿</value>
+	</charProp>
+	<mapping type="unicode">U+23BF6</mapping>
+	<mapping cb:dec="985615" type="PUA">U+F0A0F</mapping>
+</char>
+<char xml:id="CB03594">
+	<charName>CBETA CHARACTER CB03594</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[門@壬]</value>
+	</charProp>
+	<mapping type="unicode">U+28CDD</mapping>
+	<mapping cb:dec="986634" type="PUA">U+F0E0A</mapping>
+</char>
+<char xml:id="CB05222">
+	<charName>CBETA CHARACTER CB05222</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[骨*歷]</value>
+	</charProp>
+	<mapping type="unicode">U+29AB8</mapping>
+	<mapping cb:dec="988262" type="PUA">U+F1466</mapping>
+</char>
+<char xml:id="CB05943">
+	<charName>CBETA CHARACTER CB05943</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[云/鬼]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>魂</value>
+	</charProp>
+	<mapping type="unicode">U+4C1F</mapping>
+	<mapping cb:dec="988983" type="PUA">U+F1737</mapping>
+</char>
+<char xml:id="CB07448">
+	<charName>CBETA CHARACTER CB07448</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宜/八]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>冥</value>
+	</charProp>
+	<mapping type="unicode">U+21A0B</mapping>
+	<mapping cb:dec="990488" type="PUA">U+F1D18</mapping>
+</char>
+<char xml:id="CB08650">
+	<charName>CBETA CHARACTER CB08650</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[蓻/火]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>爇</value>
+	</charProp>
+	<mapping type="normal_unicode">U+24454</mapping>
+	<mapping cb:dec="991690" type="PUA">U+F21CA</mapping>
+</char>
+<char xml:id="CB08798">
+	<charName>CBETA CHARACTER CB08798</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[卸-ㄗ+夬]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>缺</value>
+	</charProp>
+	<mapping type="normal_unicode">U+7F3A</mapping>
+	<mapping cb:dec="991838" type="PUA">U+F225E</mapping>
+</char>
+<char xml:id="CB08887">
+	<charName>CBETA CHARACTER CB08887</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[庭-壬+手]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>庭</value>
+	</charProp>
+	<mapping cb:dec="991927" type="PUA">U+F22B7</mapping>
+</char>
+<char xml:id="CB09415">
+	<charName>CBETA CHARACTER CB09415</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[角-土+(人/人)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>角</value>
+	</charProp>
+	<mapping type="normal_unicode">U+278B2</mapping>
+	<mapping cb:dec="992455" type="PUA">U+F24C7</mapping>
+</char>
+<char xml:id="CB10308">
+	<charName>CBETA CHARACTER CB10308</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[彳*魚*亍]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>衡</value>
+	</charProp>
+	<mapping type="unicode">U+2258D</mapping>
+	<mapping cb:dec="993348" type="PUA">U+F2844</mapping>
+</char>
+<char xml:id="CB12175">
+	<charName>CBETA CHARACTER CB12175</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[攙-、]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>攙</value>
+	</charProp>
+	<mapping type="normal_unicode">U+6519</mapping>
+	<mapping cb:dec="995215" type="PUA">U+F2F8F</mapping>
+</char>
+<char xml:id="CB14081">
+	<charName>CBETA CHARACTER CB14081</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[木*豆*寸]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>樹</value>
+	</charProp>
+	<mapping type="unicode">U+235F3</mapping>
+	<mapping cb:dec="997121" type="PUA">U+F3701</mapping>
+</char>
+<char xml:id="CB15072">
+	<charName>CBETA CHARACTER CB15072</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[托-七+友]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>拔</value>
+	</charProp>
+	<mapping type="normal_unicode">U+39DE</mapping>
+	<mapping cb:dec="998112" type="PUA">U+F3AE0</mapping>
+</char>
+<char xml:id="CB15162">
+	<charName>CBETA CHARACTER CB15162</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[拈-口+(足-口+(雪-雨))]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>捷</value>
+	</charProp>
+	<mapping type="unicode">U+3A17</mapping>
+	<mapping cb:dec="998202" type="PUA">U+F3B3A</mapping>
+</char>
+<char xml:id="CB15248">
+	<charName>CBETA CHARACTER CB15248</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[酉*舀]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>餡</value>
+	</charProp>
+	<mapping type="unicode">U+2889D</mapping>
+	<mapping cb:dec="998288" type="PUA">U+F3B90</mapping>
+</char>
+<char xml:id="CB21151">
+	<charName>CBETA CHARACTER CB21151</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[毯-炎+藍]</value>
+	</charProp>
+	<mapping cb:dec="1004191" type="PUA">U+F529F</mapping>
+</char>
+<char xml:id="CB22183">
+	<charName>CBETA CHARACTER CB22183</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[山/(險-(人*人)+(烈-列))]</value>
+	</charProp>
+	<mapping cb:dec="1005223" type="PUA">U+F56A7</mapping>
+</char>
+<char xml:id="CB22191">
+	<charName>CBETA CHARACTER CB22191</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[狁-儿+貝]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>猿</value>
+	</charProp>
+	<mapping cb:dec="1005231" type="PUA">U+F56AF</mapping>
+</char>
+<char xml:id="CB22196">
+	<charName>CBETA CHARACTER CB22196</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[筋-月+耳]</value>
+	</charProp>
+	<mapping cb:dec="1005236" type="PUA">U+F56B4</mapping>
+</char>
+<char xml:id="CB30180">
+	<charName>CBETA CHARACTER CB30180</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[山/戲]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>巇</value>
+	</charProp>
+	<mapping cb:dec="1013220" type="PUA">U+F75E4</mapping>
+</char>
+<char xml:id="CB30246">
+	<charName>CBETA CHARACTER CB30246</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(冰-水+〡)*ㄆ]</value>
+	</charProp>
+	<mapping cb:dec="1013286" type="PUA">U+F7626</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-10-26T13:39:40">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">杭州府餘杭縣法喜禪寺語錄</cb:mulu>
+<pb ed="L" xml:id="L158.1652.0075b" n="0075b"/>
+<lb ed="L" n="0075b01"/><milestone unit="juan" n="6"/><cb:mulu type="卷" n="6"></cb:mulu><cb:juan fun="open" n="6"><cb:jhead>明覺聰禪師語錄卷第六　　　　貌六</cb:jhead></cb:juan>
+<lb ed="L" n="0075b02"/><byline cb:type="editor">嗣法門人明德編</byline>
+<lb ed="L" n="0075b03"/><cb:div type="other"><cb:mulu type="其他" level="1">杭州府錢塘縣廣福禪院語錄</cb:mulu><head>杭州府錢塘縣廣福禪院語錄</head>
+<lb ed="L" n="0075b04"/><p xml:id="pL158p0075b0401">順治甲午年師受護法來坤宇居士等請
+<lb ed="L" n="0075b05"/>於九月二十日入院。</p>
+<lb ed="L" n="0075b06"/><p xml:id="pL158p0075b0601">上堂拈護法請啟云威音王已前一句子
+<lb ed="L" n="0075b07"/>諸佛嚼不破歷祖拈不出包羅天地囊括
+<lb ed="L" n="0075b08"/>古今茲日被大護法毫端點出光射叢林
+<lb ed="L" n="0075b09"/>脫或未諳且聽下靣註腳維那宣畢以拄
+<lb ed="L" n="0075b10"/>杖指法座云師子座無畏說拶破泥牛迸
+<lb ed="L" n="0075b11"/>出血鯉魚<g ref="#CB01387">𨁝</g>跳上青天直踏崚嶒向上關
+<lb ed="L" n="0075b12"/>偉勛劃策看謀略喝一喝遂陞座拈香云
+<lb ed="L" n="0075b13"/>此一瓣香恩垂八表德被萬方<g ref="#CB08650">󲇊</g>向爐中
+<lb ed="L" n="0075b14"/>端為祝延
+<lb ed="L" n="0075b15" type="honorific"/>今上皇帝聖壽萬安伏願舜日長明航海而
+<pb ed="L" xml:id="L158.1652.0076a" n="0076a"/>
+<lb ed="L" n="0076a01"/>貢珠珍堯天不夜擊壤以歡三祝此一瓣
+<lb ed="L" n="0076a02"/>香奉為本省諸位尊官并本山護法居士
+<lb ed="L" n="0076a03"/>等伏願同明大道共證無生此一瓣香得
+<lb ed="L" n="0076a04"/>之於心應之於手<g ref="#CB08650">󲇊</g>向爐中供養先住金
+<lb ed="L" n="0076a05"/>粟現住雲間明發禪院百癡元老和尚以
+<lb ed="L" n="0076a06"/>酧法乳之恩遂<anchor xml:id="beg_38" type="cb-app"/>斂<anchor xml:id="end_38"/>衣敷坐白椎竟師云若
+<lb ed="L" n="0076a07"/>論第一義絲毫不犯猶涉塵在直下徹去
+<lb ed="L" n="0076a08"/>還有跡在縱饒塵跡兩忘正好喫棒眾中
+<lb ed="L" n="0076a09"/>還有不涉塵跡者麼問答不錄乃云凉風
+<lb ed="L" n="0076a10"/>扇野白露垂林井梧落葉籬菊舒金若會
+<lb ed="L" n="0076a11"/>世諦語言資生業等皆順正法其或未會
+<lb ed="L" n="0076a12"/>新廣福不惜眉毛露些靣目去也若論向
+<lb ed="L" n="0076a13"/>上事灼然<g ref="#CB01076">䪺</g>在目前孤逈逈地硬剝剝地
+<lb ed="L" n="0076a14"/>仰之彌高鑽之彌堅迎之不見其首視之
+<lb ed="L" n="0076a15"/>不見其形我若把住你便揚眉瞬目頭如
+<pb ed="L" xml:id="L158.1652.0076b" n="0076b"/>
+<lb ed="L" n="0076b01"/>五嶽口似縣河我若放行你便海月橋下
+<lb ed="L" n="0076b02"/>摝蝦玉池山上遊戲入佛入魔得大自在
+<lb ed="L" n="0076b03"/>山僧恁麼提唱諸人還識得落處麼你若
+<lb ed="L" n="0076b04"/>神通妙用會去便落神通妙用彀中你若
+<lb ed="L" n="0076b05"/>向上一路會去便落向上一路彀中你若
+<lb ed="L" n="0076b06"/>體用雙彰會去便落體用雙彰彀中你若
+<lb ed="L" n="0076b07"/>總不恁麼會去便落總不恁麼彀中畢竟
+<lb ed="L" n="0076b08"/>合作麼生山花不借栽培力自有春風管
+<lb ed="L" n="0076b09"/>帶伊。</p>
+<lb ed="L" n="0076b10"/><p xml:id="pL158p0076b1001">立兩序上堂剎竿扶起龍象交參股肱叢
+<lb ed="L" n="0076b11"/>室買石得雲饒提唱宗乘移花兼蝶至和
+<lb ed="L" n="0076b12"/>氣蔚然禮儀周備如斯則法門丕振矣政
+<lb ed="L" n="0076b13"/>當今日符到奉行一句作麼生道印破三
+<lb ed="L" n="0076b14"/>玄光宇宙風<g ref="#CB02420">䂓</g>八表悉瞻依。</p>
+<lb ed="L" n="0076b15"/><p xml:id="pL158p0076b1501">舉化南首座上堂秉臨濟三玄戈甲破雲
+<pb ed="L" xml:id="L158.1652.0077a" n="0077a"/>
+<lb ed="L" n="0077a01"/>門一字機關慣取驪龍頷下珠能奪猛虎
+<lb ed="L" n="0077a02"/>口中食山僧數年已來親入虎穴已得虎
+<lb ed="L" n="0077a03"/>子况今毛羽全彰爪牙齊具合作麼生驅
+<lb ed="L" n="0077a04"/>遣當陽放出便驚人擬議便遭他毒口。</p>
+<lb ed="L" n="0077a05"/><p xml:id="pL158p0077a0501">因雪上堂彤雲密布白玉高堆山陰乘興
+<lb ed="L" n="0077a06"/>空勞千里奔馳少室咨參枉受一塲寒苦
+<lb ed="L" n="0077a07"/>廣福門下無立雪咨參人亦無乘興撥棹
+<lb ed="L" n="0077a08"/>者喜見禎祥時清道泰東隣樵子擊壤謳
+<lb ed="L" n="0077a09"/>歌西舍田翁鼓腹樂業林下衲僧不用波
+<lb ed="L" n="0077a10"/>挈既然如斯山僧吟詩預慶豐年帝釋散
+<lb ed="L" n="0077a11"/>瓊花乾坤盡一色本是文殊普賢喚作寒
+<lb ed="L" n="0077a12"/>山拾得太陽<g ref="#CB30246">󷘦</g>拾歸來依舊露出白澤眾
+<lb ed="L" n="0077a13"/>中還有和得者麼良久云折腳禪牀安且
+<lb ed="L" n="0077a14"/>坐衲被蒙頭耐歲寒。</p>
+<lb ed="L" n="0077a15"/><p xml:id="pL158p0077a1501">執事持鉢回上堂風車腹兮簸箕口吞却
+<pb ed="L" xml:id="L158.1652.0077b" n="0077b"/>
+<lb ed="L" n="0077b01"/>山河與北斗手持漆鉢乘空行觸着毫端
+<lb ed="L" n="0077b02"/>如雷吼且道吼個甚麼金剛腳下崖崩壓
+<lb ed="L" n="0077b03"/>倒五蘊山頭四十里許你軰茄子瓠子誰
+<lb ed="L" n="0077b04"/>識東臯米貴西埠柴荒月<g ref="#CB03594">𨳝</g>大小冬菜生
+<lb ed="L" n="0077b05"/>蟲潑天門戶極難撐持幸得諸人曲垂方
+<lb ed="L" n="0077b06"/>便廣播真風虎穴龍宮沿門親叩傾箱倒
+<lb ed="L" n="0077b07"/>廩滿載驪珠既然得意回山廣福打氊拍
+<lb ed="L" n="0077b08"/>板唱個杜拗山歌畧表勛勞以兩手拍云
+<lb ed="L" n="0077b09"/>泥人舞石女吟頭戴華陽巾一頂逍遙坐
+<lb ed="L" n="0077b10"/>撫沒絃琴尿牀鬼子呵呵笑火爐立地側
+<lb ed="L" n="0077b11"/>耳聽雖然如是大似貧兒思舊債。</p>
+<lb ed="L" n="0077b12"/><p xml:id="pL158p0077b1201">上堂寒山掃地拾得燒香布袋打皷豐干
+<lb ed="L" n="0077b13"/>宣揚廣福坐在冷地裏看他現出三頭六
+<lb ed="L" n="0077b14"/>臂擎山持杵腳踏火輪乘空而走者隊漢
+<lb ed="L" n="0077b15"/>直饒神通廣大法力難量不消山僧彈指
+<pb ed="L" xml:id="L158.1652.0078a" n="0078a"/>
+<lb ed="L" n="0078a01"/>一下瓦解冰消何謂敕下傳聞六國清野
+<lb ed="L" n="0078a02"/>老謳歌樂太平。</p>
+<lb ed="L" n="0078a03"/><p xml:id="pL158p0078a0301">臘八上堂僧問昔日世尊覩明星悟道未
+<lb ed="L" n="0078a04"/>審和尚見個甚麼悟道師云自小出家從
+<lb ed="L" n="0078a05"/>已老不曾着得眼中花進云鴛鴦繡出從
+<lb ed="L" n="0078a06"/>君看不把金針度與人師云知音者少乃
+<lb ed="L" n="0078a07"/>云從天降下則貧寒夜半逾城徃雪山六
+<lb ed="L" n="0078a08"/>載煉成金剛鑽欲賣與人入闠闤美則美
+<lb ed="L" n="0078a09"/>矣大似拋却甜桃<g ref="#CB14081">𣗳</g>尋山摘醋梨眼睛餓
+<lb ed="L" n="0078a10"/>出火脫空成道時所以盡大地人信瞿曇
+<lb ed="L" n="0078a11"/>覩明星悟道惟山僧敢謂玄沙道底或有
+<lb ed="L" n="0078a12"/>個出格漢道既是盡大地人信因甚麼和
+<lb ed="L" n="0078a13"/>尚不信不見道長舌婦人言莫聽丈夫各
+<lb ed="L" n="0078a14"/>自立主張復舉古德云臘月喫雞羹纔疑
+<lb ed="L" n="0078a15"/>禍便生溪邊楊柳影不礙釣舟行又我本
+<pb ed="L" xml:id="L158.1652.0078b" n="0078b"/>
+<lb ed="L" n="0078b01"/>師道臘八喫香糜禪和樂有餘渾身都煖
+<lb ed="L" n="0078b02"/>熱不怕雪風吹師云二老宗乘舉唱體用
+<lb ed="L" n="0078b03"/>無差施設門<g ref="#CB08887">󲊷</g>其理不二雖是應時及節
+<lb ed="L" n="0078b04"/>話却是餿飯殘羹養者般漢有甚麼用處
+<lb ed="L" n="0078b05"/>廣福儻理不儻親那容貪嘴禪和在這裏
+<lb ed="L" n="0078b06"/>啜糟哺醨便拽拄杖下座一時趂散。</p>
+<lb ed="L" n="0078b07"/><p xml:id="pL158p0078b0701">上堂周居士問學人未見和尚時有些疑
+<lb ed="L" n="0078b08"/>着而今相見合作麼生師云與汝三頓條
+<lb ed="L" n="0078b09"/>令進云併却咽喉唇吻道將一句來師云
+<lb ed="L" n="0078b10"/>山僧今日牙痛與你道不得進云承和尚
+<lb ed="L" n="0078b11"/>有言禪非意想道不屬知去此二途請師
+<lb ed="L" n="0078b12"/>速道師云一句頓超千聖外松蘿不與月
+<lb ed="L" n="0078b13"/>輪齊乃云臘月十有五打起鹽官鼓側耳
+<lb ed="L" n="0078b14"/>聽莫莾鹵當陽拈起利吹毛發機須用千
+<lb ed="L" n="0078b15"/>鈞弩可謂禪非意想道不屬知明之者點
+<pb ed="L" xml:id="L158.1652.0079a" n="0079a"/>
+<lb ed="L" n="0079a01"/>頭弄影昧之者摸壁扶籬若能覷破脫體
+<lb ed="L" n="0079a02"/>無依如戴<g ref="#CB09415">󲓇</g>虎搖嶽驚羣壯士伸臂不借
+<lb ed="L" n="0079a03"/>他力所以有句非宗旨無言絕聖凡到者
+<lb ed="L" n="0079a04"/>裏山僧祗得口掛壁上幸今摩詰遠來只
+<lb ed="L" n="0079a05"/>得旁通一線向枯木上糝花虛空裏釘橛
+<lb ed="L" n="0079a06"/>若是伶俐漢聞廣福恁麼道終不在老鼠
+<lb ed="L" n="0079a07"/>窠裏錮鏴死坐冷<g ref="#CB01926">󰞆</g>更須透脫生佛<anchor xml:id="beg_39" type="cb-app"/>已<anchor xml:id="end_39"/>前
+<lb ed="L" n="0079a08"/>卷舒自在畢竟如何行持串錦老魚懷就
+<lb ed="L" n="0079a09"/>市飄飄一葉浪頭行。</p>
+<lb ed="L" n="0079a10"/><p xml:id="pL158p0079a1001">上堂上元節屆掛燈毬村社笙歌慶賞優
+<lb ed="L" n="0079a11"/>大抵僧家清淡好不搽脂粉也風流有般
+<lb ed="L" n="0079a12"/>漢道野僧家有甚麼風流處裙無腰褲無
+<lb ed="L" n="0079a13"/>口頭上青<g ref="#CB01926">󰞆</g>三五斗是則是誰識渠儂意
+<lb ed="L" n="0079a14"/>可誇尋常披領破袈裟睡餘不管興亡事
+<lb ed="L" n="0079a15"/>緩步擕筇看落花。</p>
+<pb ed="L" xml:id="L158.1652.0079b" n="0079b"/>
+<lb ed="L" n="0079b01"/><p xml:id="pL158p0079b0101">師寓泰郵彌陀菴佛成道日文學黃居士
+<lb ed="L" n="0079b02"/>等請上堂師云一念無為十方坐斷放開
+<lb ed="L" n="0079b03"/>一線敲唱俱隨眾中還有酧唱者麼僧問
+<lb ed="L" n="0079b04"/>法王宣令眾盈門龍象交叅禮世尊夜悟
+<lb ed="L" n="0079b05"/>明星即不問臨濟料揀請師分師云裂破
+<lb ed="L" n="0079b06"/>古今分明直指進云玉女丹泉起西湖雪
+<lb ed="L" n="0079b07"/>浪春如何是奪人不奪境師云人靣不知
+<lb ed="L" n="0079b08"/>何處去桃花依舊笑春風進云梅占羣芳
+<lb ed="L" n="0079b09"/>首神山瑞氣靈如何是奪境不奪人師云
+<lb ed="L" n="0079b10"/>有時擕杖孤峰頂劃斷山雲不放高進云
+<lb ed="L" n="0079b11"/>耿廟神燈照西湖水上行如何是人境兩
+<lb ed="L" n="0079b12"/>俱奪師云遠道絕行人大地無寸土進云
+<lb ed="L" n="0079b13"/>甓社湖珠耀寒光射斗牛如何是人境俱
+<lb ed="L" n="0079b14"/>不奪師云春賞文游臺上望錦帆幾片下
+<lb ed="L" n="0079b15"/>揚州進云料揀<anchor xml:id="beg_3a" type="cb-app"/>已<anchor xml:id="end_3a"/>蒙師指示如今佛法囑
+<pb ed="L" xml:id="L158.1652.0080a" n="0080a"/>
+<lb ed="L" n="0080a01"/>何人師云橫身當宇宙一句定綱宗進云
+<lb ed="L" n="0080a02"/>學人分上又作麼生師打云正好喫棒乃
+<lb ed="L" n="0080a03"/>云不登寶位頓棄金城獨坐雪山蘆芽穿
+<lb ed="L" n="0080a04"/>膝朔風凜凜嚴霜冽冽夜靜一天星皎潔
+<lb ed="L" n="0080a05"/>爍破瞿曇鐵靣門却是眼中已着屑驀豎
+<lb ed="L" n="0080a06"/>拂子召大眾云還委悉麼今朝釋迦老子
+<lb ed="L" n="0080a07"/>覩明星悟道在拂子頭上放大光明驚天
+<lb ed="L" n="0080a08"/>動地轉大法輪歎言善哉一切眾生皆具
+<lb ed="L" n="0080a09"/>如來智慧德相只因妄想執着不能證得
+<lb ed="L" n="0080a10"/>爾等諸人諦信得及頭頂天腳履地圓陀
+<lb ed="L" n="0080a11"/>陀光爍爍豎窮三際橫徧十方<g ref="#CB22191">󵚯</g>猴古鏡
+<lb ed="L" n="0080a12"/>露柱懷胎千年無影<g ref="#CB14081">𣗳</g>今時沒底靴總是
+<lb ed="L" n="0080a13"/>諸人智慧德相若喚作智慧德相即迷頭
+<lb ed="L" n="0080a14"/>認影畢竟如何覷破星前光影子威音那
+<lb ed="L" n="0080a15"/>畔絕商量。</p>
+<pb ed="L" xml:id="L158.1652.0080b" n="0080b"/>
+<lb ed="L" n="0080b01"/><p xml:id="pL158p0080b0101">佛誕日上堂僧問世尊初生九龍吐水灌
+<lb ed="L" n="0080b02"/>沐金軀即不問初生意旨是如何師云新
+<lb ed="L" n="0080b03"/>出猫兒強似虎攪動乾坤驚殺人進云初
+<lb ed="L" n="0080b04"/>生意旨蒙師指即今說法是如何師云杲
+<lb ed="L" n="0080b05"/>日正當空乃云如來乘願下天來應世金
+<lb ed="L" n="0080b06"/>輪出禍胎指地指天開大口無端平地起
+<lb ed="L" n="0080b07"/>風雷雖有跨龍鼓浪之雄擒虎<g ref="#CB15072">󳫠</g>山之勇
+<lb ed="L" n="0080b08"/>誰知只解慎初不解護末一條性命又落
+<lb ed="L" n="0080b09"/>在雲門手裏一棒打殺與狗子喫可謂重
+<lb ed="L" n="0080b10"/>賞之下必有勇夫今承眾信敦請山僧揄
+<lb ed="L" n="0080b11"/>揚正法慶讚聖誕且道山僧慶讚底是雲
+<lb ed="L" n="0080b12"/>門打殺底是若道雲門是孤負山僧舌頭
+<lb ed="L" n="0080b13"/>拖地若道山僧是又孤負雲門畢竟合作
+<lb ed="L" n="0080b14"/>麼生石女喚回三界夢木人坐斷六門機
+<lb ed="L" n="0080b15"/>中秋上堂對一說倒一說黑如漆白如雪
+<pb ed="L" xml:id="L158.1652.0081a" n="0081a"/>
+<lb ed="L" n="0081a01"/>崚嶒孤卓透玲瓏一條脊梁硬似鐵有時
+<lb ed="L" n="0081a02"/>踏着軟如綿攢簇得來眉毛結會作玄宗
+<lb ed="L" n="0081a03"/>佛印心羞殺瞿曇靣門熱通身手眼殺活
+<lb ed="L" n="0081a04"/>機掉棒虛空打落月銀漢無聲轉玉盤亘
+<lb ed="L" n="0081a05"/>古靈明無間<g ref="#CB08798">󲉞</g>大眾既是無間<g ref="#CB08798">󲉞</g>兩儀未
+<lb ed="L" n="0081a06"/>判之先一點靈光落在甚麼處還委悉麼
+<lb ed="L" n="0081a07"/>不見道真金元混泥沙內荊璞由來韞石
+<lb ed="L" n="0081a08"/>中。</p>
+<lb ed="L" n="0081a09"/><p xml:id="pL158p0081a0901">上堂無雲峰頂徹湧空刦金烏枯木堂前
+<lb ed="L" n="0081a10"/>暗消剛骨紅影達者深入閫奧作家格外
+<lb ed="L" n="0081a11"/>權<g ref="#CB10308">𢖍</g>無孔笛橫吹倒吹破甑子七零八落
+<lb ed="L" n="0081a12"/>寒山拾得不知名豐干尚且難摸索擲下
+<lb ed="L" n="0081a13"/>拂子云諸人切莫亂卜度。</p>
+<lb ed="L" n="0081a14"/><p xml:id="pL158p0081a1401">上堂祖師言教如塗毒皷擊着喪身失命
+<lb ed="L" n="0081a15"/>衲僧機筈似箭鋒相拄撩着穿過髑髏有
+<pb ed="L" xml:id="L158.1652.0081b" n="0081b"/>
+<lb ed="L" n="0081b01"/>此機用方為作家宗匠與人剪除愛網<g ref="#CB15072">󳫠</g>
+<lb ed="L" n="0081b02"/>斷疑根俾他貧者得大寶珠富者赤骨<g ref="#CB05222">𩪸</g>
+<lb ed="L" n="0081b03"/>地銳脫見聞光吞萬象氣絕諸塵機超空
+<lb ed="L" n="0081b04"/>刦之前心包宇宙之外收卷也大地無寸
+<lb ed="L" n="0081b05"/>土縱橫也逼塞太虛空萬法全彰毫髮無
+<lb ed="L" n="0081b06"/>間剷斷千差了然無礙到者田地釋迦也
+<lb ed="L" n="0081b07"/>無插嘴處德山棒喝誑嬰兒。</p>
+<lb ed="L" n="0081b08"/><p xml:id="pL158p0081b0801">上堂黃龍三關跛驢腳踏斷趙州家畧彴
+<lb ed="L" n="0081b09"/>佛手展開向上機曠刦已來者一着人人
+<lb ed="L" n="0081b10"/>出處有生緣洞明彈指超無學殊不知諸
+<lb ed="L" n="0081b11"/>人生緣處上與諸佛同條下與含生共體
+<lb ed="L" n="0081b12"/>居聖而聖處凡而凡對萬物而異其形立
+<lb ed="L" n="0081b13"/>三綱以美其德包羅天地法界全彰所以
+<lb ed="L" n="0081b14"/>個事惟佛與佛乃能究盡諸法實相者話
+<lb ed="L" n="0081b15"/>猶是如來禪若論祖師禪別有一路不見
+<pb ed="L" xml:id="L158.1652.0082a" n="0082a"/>
+<lb ed="L" n="0082a01"/>道行到水窮山盡處須知別有一壺天。</p>
+<lb ed="L" n="0082a02"/><p xml:id="pL158p0082a0201">上堂僧問九重先唱導三覺獨為尊太白
+<lb ed="L" n="0082a03"/>家風舊曹源氣象新如何是臨濟宗師云
+<lb ed="L" n="0082a04"/>青天白日起雷霆進云如何是雲門宗師
+<lb ed="L" n="0082a05"/>云奪皷<g ref="#CB12175">󲾏</g>旗天地震進云如何是溈仰宗
+<lb ed="L" n="0082a06"/>師云虛空裏畫簸箕進云如何是曹洞宗
+<lb ed="L" n="0082a07"/>師云黑狗爛銀蹄進云如何是法眼宗師
+<lb ed="L" n="0082a08"/>云賊身<anchor xml:id="beg_3b" type="cb-app"/>已<anchor xml:id="end_3b"/>露了也進云恁麼則春色無高
+<lb ed="L" n="0082a09"/>下花枝有短長師云莫將閒學解埋沒祖
+<lb ed="L" n="0082a10"/>師心乃云言前的旨頂上真機大則包含
+<lb ed="L" n="0082a11"/>無邊法界細則蟭螟眼裏藏身出沒卷舒
+<lb ed="L" n="0082a12"/>直下頓超情見孤明壁立翻身坐破漆桶
+<lb ed="L" n="0082a13"/>如龍得水似虎靠山拈龜毛拂穿却衲僧
+<lb ed="L" n="0082a14"/>鼻孔用兔<g ref="#CB09415">󲓇</g>杖擉瞎達磨眼睛有此機用
+<lb ed="L" n="0082a15"/>可以弘範三界賑濟四生且當處湛然又
+<pb ed="L" xml:id="L158.1652.0082b" n="0082b"/>
+<lb ed="L" n="0082b01"/>作麼生鐵蛇鑽不破佛眼覷無門。</p>
+<lb ed="L" n="0082b02"/><p xml:id="pL158p0082b0201">歲旦上堂佛法無新舊人有老少顏儉生
+<lb ed="L" n="0082b03"/>節孝義道出大豐年育生萬物運轉三陽
+<lb ed="L" n="0082b04"/>玄機戢於朕兆法性充乎太虛昭昭耳目
+<lb ed="L" n="0082b05"/>之間晃晃色塵之外若能轉物即同如來
+<lb ed="L" n="0082b06"/>至此不聖而聖不尊而尊更說甚麼真如
+<lb ed="L" n="0082b07"/>菩提湼槃妙心正法眼藏狗子佛性總是
+<lb ed="L" n="0082b08"/>熱碗鳴聲然雖如是政當祝聖一句作麼
+<lb ed="L" n="0082b09"/>生道齊天一統歸王化萬國咸臨賀聖朝
+<lb ed="L" n="0082b10"/>師寓泰郵彌陀庵大悲誕日上堂乃拈拄
+<lb ed="L" n="0082b11"/>杖召大眾云觀音降生了也還見麼離色
+<lb ed="L" n="0082b12"/>求觀非正見以拄杖擊香几云說法了也
+<lb ed="L" n="0082b13"/>還聞麼離聲求聽非真聞以兩手托起拄
+<lb ed="L" n="0082b14"/>杖云觀音菩薩將錢買餬餅放下却是饅
+<lb ed="L" n="0082b15"/>頭諸人會得此意麼設或未能山僧為汝
+<pb ed="L" xml:id="L158.1652.0083a" n="0083a"/>
+<lb ed="L" n="0083a01"/>下個註腳三丈大光錢買個油餬餅喫得
+<lb ed="L" n="0083a02"/>飽膨脝夜來捉虱蚤睡時不顧失却鼻天
+<lb ed="L" n="0083a03"/>早起來拾得口兩耳卓朔笑咍咍踏着秤
+<lb ed="L" n="0083a04"/>錘翻筋斗摟搜頭夜半走十字街頭大哮
+<lb ed="L" n="0083a05"/>吼且道吼個甚麼大悲菩薩高沙城裏縣
+<lb ed="L" n="0083a06"/>羊賣狗擲下拄杖云覿靣不逢下坡快走。</p>
+<lb ed="L" n="0083a07"/><p xml:id="pL158p0083a0701">上堂僧問當軒毒皷即不問如何是句到
+<lb ed="L" n="0083a08"/>意不到師云有頭無尾進云如何是意到
+<lb ed="L" n="0083a09"/>句不到師云舌頭不得力進云如何是意
+<lb ed="L" n="0083a10"/>句俱到師云坐斷乾坤進云如何是意句
+<lb ed="L" n="0083a11"/>俱不到師云也是個藞苴漢進云有意看
+<lb ed="L" n="0083a12"/>山山轉好無心合道道相應師云如何是
+<lb ed="L" n="0083a13"/>你無心處僧一喝師云却有心在乃云體
+<lb ed="L" n="0083a14"/>會大道至理玄深佛口莫能宣達磨覷不
+<lb ed="L" n="0083a15"/>破於中寂而常照覺妄歸真照而常寂覺
+<pb ed="L" xml:id="L158.1652.0083b" n="0083b"/>
+<lb ed="L" n="0083b01"/>真斷妄直令正眼廓開突露無見頂相珠
+<lb ed="L" n="0083b02"/>回玉轉體用現前擲大千於方外捲沙界
+<lb ed="L" n="0083b03"/>於毫端毒藥醍醐攪成一片黃金瓦礫搓
+<lb ed="L" n="0083b04"/>作一團散作山河大地春總成華藏香水
+<lb ed="L" n="0083b05"/>海重重攝入無非菩提道塲剎剎圓融盡
+<lb ed="L" n="0083b06"/>是遮那佛事且如何是向上一路螻蟻負
+<lb ed="L" n="0083b07"/>鐵上須彌蚯蚓抹過新羅國。</p>
+<lb ed="L" n="0083b08"/><p xml:id="pL158p0083b0801">端午上堂佳節欣逢五月午黑臉鍾馗騎
+<lb ed="L" n="0083b09"/>艾虎手提蒲劍利如風小鬼聞之皆舌吐
+<lb ed="L" n="0083b10"/><g ref="#CB09415">󲓇</g>黍高堆奠屈原江村是處龍舟舞勝似
+<lb ed="L" n="0083b11"/>衲僧峻<g ref="#CB15162">㨗</g>機翻身上下力須努欲出沉淪
+<lb ed="L" n="0083b12"/>用此心切須到岸入寶所或有來者請上
+<lb ed="L" n="0083b13"/>船觀音把舵山僧搖櫓驀拈拄杖作搖櫓
+<lb ed="L" n="0083b14"/>勢云囉哩嗹囉哩嗹便下座。</p>
+<lb ed="L" n="0083b15"/><p xml:id="pL158p0083b1501">上堂僧問向上宗乘即不問臨濟照用請
+<pb ed="L" xml:id="L158.1652.0084a" n="0084a"/>
+<lb ed="L" n="0084a01"/>師宣師云一棒一條痕進云如何是先照
+<lb ed="L" n="0084a02"/>後用師云假鷄聲韻難瞞我不肯糊塗放
+<lb ed="L" n="0084a03"/>過關進云如何是先用後照師云寰中天
+<lb ed="L" n="0084a04"/>子敕塞外將軍令進云如何是照用同時
+<lb ed="L" n="0084a05"/>師云頂門三千腦後八百進云如何是照
+<lb ed="L" n="0084a06"/>用不同時師云有時把住有時放行進云
+<lb ed="L" n="0084a07"/>照用蒙師指透關意若何師云汝喫得山
+<lb ed="L" n="0084a08"/>僧棒也未僧喝師云放過一着乃云三春
+<lb ed="L" n="0084a09"/>倐過九夏已來桃花凋卸李花正開黃鸝
+<lb ed="L" n="0084a10"/>上翠柳白鷺立青苔分明西祖意入眼即
+<lb ed="L" n="0084a11"/>成埃此話人中有境境中有人頭頭非外
+<lb ed="L" n="0084a12"/>物一一本來心所以無邊剎海自他不隔
+<lb ed="L" n="0084a13"/>於纖毫十世古今始終不離於當念若乃
+<lb ed="L" n="0084a14"/>廓開耳目於心懷掃蕩無明於性窟人境
+<lb ed="L" n="0084a15"/>雙泯是非杳忘可以駕慈航觀斷岸超三
+<pb ed="L" xml:id="L158.1652.0084b" n="0084b"/>
+<lb ed="L" n="0084b01"/>界度眾生舒卷自繇得大無畏畢竟有何
+<lb ed="L" n="0084b02"/>主宰便恁麼提<g ref="#CB15072">󳫠</g>於人錦標若在手豈怕
+<lb ed="L" n="0084b03"/>浪<g ref="#CB22183">󵚧</g><g ref="#CB30180">󷗤</g>卓拄杖下座。</p>
+<lb ed="L" n="0084b04"/><p xml:id="pL158p0084b0401">上堂佛法言詮盡屬時人功幹祖師玄妙
+<lb ed="L" n="0084b05"/>悉涉聖解凡情故見不能超諸色相語不
+<lb ed="L" n="0084b06"/>能達本歸真稍有絲毫碍胷障蔽自<anchor xml:id="beg_3c" type="cb-app"/>己<anchor xml:id="end_3c"/>悟
+<lb ed="L" n="0084b07"/>門直令我執蕩盡人法雙忘摩醯手眼頓
+<lb ed="L" n="0084b08"/>開直透玄關錮鏴方可以顯大機用運大
+<lb ed="L" n="0084b09"/>鉗鎚煆煉凡聖眾中還有不受人鉗鎚者
+<lb ed="L" n="0084b10"/>麼除却黃龍頭<g ref="#CB09415">󲓇</g>外其餘盡是赤斑蛇。</p>
+<lb ed="L" n="0084b11"/><p xml:id="pL158p0084b1101">上堂即心即佛夜叉頭上火車輪非心非
+<lb ed="L" n="0084b12"/>佛腦後突出遼天鶻擬聽寂無聲好手難
+<lb ed="L" n="0084b13"/>摸索觸着震動虛空放下填溝塞壑個事
+<lb ed="L" n="0084b14"/>只在目前莫將言語卜度既非言語卜度
+<lb ed="L" n="0084b15"/>畢竟意作麼生啼得血流無用處不如緘
+<pb ed="L" xml:id="L158.1652.0085a" n="0085a"/>
+<lb ed="L" n="0085a01"/>口過殘春。</p>
+<lb ed="L" n="0085a02"/><p xml:id="pL158p0085a0201">大悲誕日上堂普門機花市螟蛉夜放光
+<lb ed="L" n="0085a03"/>塵剎身金谷黃鸝鳴翠柳慈心廣應劈開
+<lb ed="L" n="0085a04"/>螃蛤見形容說法無私入佛入魔常自在
+<lb ed="L" n="0085a05"/>可謂頭頭妙用處處真機汝等諸人要與
+<lb ed="L" n="0085a06"/>大悲菩薩相見麼畫閣繡<g ref="#CB08887">󲊷</g>鳥啼花笑如
+<lb ed="L" n="0085a07"/>斯領略頓入圓通山僧與麼告報還信得
+<lb ed="L" n="0085a08"/>及麼祇在目前常顯現奚須天竺洛伽山。</p>
+<lb ed="L" n="0085a09"/><p xml:id="pL158p0085a0901">上堂二十年前說法慣說脫空話拈出無
+<lb ed="L" n="0085a10"/>義語塞斷人咽喉二十年後說法真語者
+<lb ed="L" n="0085a11"/>實語者不誑語者使他即能領會何謂二
+<lb ed="L" n="0085a12"/>十年前無老婆心二十年後有老婆心山
+<lb ed="L" n="0085a13"/>僧與麼為人諸人還信得及麼不見道真
+<lb ed="L" n="0085a14"/>金自有真金價終不和沙賣與人。</p>
+<lb ed="L" n="0085a15"/><p xml:id="pL158p0085a1501">都察院容庵馮居士請上堂當軒按劍唬
+<pb ed="L" xml:id="L158.1652.0085b" n="0085b"/>
+<lb ed="L" n="0085b01"/>得西河獅子擲騰毒皷震天驚起南山鱉
+<lb ed="L" n="0085b02"/>鼻鼓舞上至三十三天下至水輪空際遇
+<lb ed="L" n="0085b03"/>着巡海夜叉正打瞌睡穿過他鼻孔忽然
+<lb ed="L" n="0085b04"/>打個噴嚏將謂無明火發攛潛蟭螟眼裡
+<lb ed="L" n="0085b05"/>諸人還委悉麼山僧盡力提掇個事只是
+<lb ed="L" n="0085b06"/>罕遇知音今日幸有明眼居士在座下舉
+<lb ed="L" n="0085b07"/>着必知落處何謂也皆因久叅尊宿深明
+<lb ed="L" n="0085b08"/>向上常扣玄關曾遊法海繇是夙植善根
+<lb ed="L" n="0085b09"/>所以今時敏<g ref="#CB15162">㨗</g>為皇家之柱石作法門之
+<lb ed="L" n="0085b10"/>標幟格外提持為尋知<anchor xml:id="beg_3d" type="cb-app"/>己<anchor xml:id="end_3d"/>且如何是知<anchor xml:id="beg_3e" type="cb-app"/>己<anchor xml:id="end_3e"/>
+<lb ed="L" n="0085b11"/>事露柱懷胎知娩意燈籠着褲破<g ref="#CB21151">󵊟</g><g ref="#CB02575">𣯶</g>。</p></cb:div>
+<lb ed="L" n="0085b12"/><cb:div type="other"><cb:mulu type="其他" level="1">燕京順天府海會寺語錄一</cb:mulu><head>燕京順天府海會寺語錄</head>
+<lb ed="L" n="0085b13"/><p xml:id="pL158p0085b1301">順治丙申年師在高郵州彌陀庵受京都
+<lb ed="L" n="0085b14"/>宰官居士等請於五月進院至。</p>
+<lb ed="L" n="0085b15"/><p xml:id="pL158p0085b1501">山門云盡大地是個解脫門因甚把手拽
+<pb ed="L" xml:id="L158.1652.0086a" n="0086a"/>
+<lb ed="L" n="0086a01"/>不入以拄杖一劃云象龍歸海會雲水盡
+<lb ed="L" n="0086a02"/>朝宗。</p>
+<lb ed="L" n="0086a03"/><p xml:id="pL158p0086a0301">大殿佛身無為不墮諸數坐斷十方全身
+<lb ed="L" n="0086a04"/>獨露以目顧左右云普。</p>
+<lb ed="L" n="0086a05"/><p xml:id="pL158p0086a0501">伽藍堂鋪金買地秉燭有天摧邪輔正神
+<lb ed="L" n="0086a06"/>力無偏山僧今到此酧汝一爐烟。</p>
+<lb ed="L" n="0086a07"/><p xml:id="pL158p0086a0701">祖師堂西天東土皆<anchor xml:id="beg_3f" type="cb-app"/>已<anchor xml:id="end_3f"/>懸羊賣狗知他是
+<lb ed="L" n="0086a08"/>聖是凡到底無人識你咄。</p>
+<lb ed="L" n="0086a09"/><p xml:id="pL158p0086a0901">方丈獅子窟栴檀林當陽踞坐威德驚人
+<lb ed="L" n="0086a10"/>若是野干徒張口鳴個中還有獅子兒麼
+<lb ed="L" n="0086a11"/>出來哮吼看喝一喝便據坐。</p>
+<lb ed="L" n="0086a12"/><p xml:id="pL158p0086a1201">結制上堂師至法座前拈請啟云覿靣分
+<lb ed="L" n="0086a13"/>付不待文詞一句投機目前了徹若能委
+<lb ed="L" n="0086a14"/>悉即知摩詰與佛鼻孔通同或有所疑煩
+<lb ed="L" n="0086a15"/>與維那道破令四眾咸知宣畢以拄杖指
+<pb ed="L" xml:id="L158.1652.0086b" n="0086b"/>
+<lb ed="L" n="0086b01"/>法座云曲彔木床十分險峻今日山僧不
+<lb ed="L" n="0086b02"/>顧危亡直向其間全提正令遂陞座拈香
+<lb ed="L" n="0086b03"/>云此瓣香曠刦培根價倍三千之重當今
+<lb ed="L" n="0086b04"/>現瑞位超九五之尊<g ref="#CB08650">󲇊</g>向爐中端為祝延
+<lb ed="L" n="0086b05" type="honorific"/>今上皇帝萬歲萬安伏願龍綸遠播含日月
+<lb ed="L" n="0086b06"/>之光華鳳詔遐宣布唐虞之風化此瓣香
+<lb ed="L" n="0086b07"/>光騰牛斗威鎮山河<g ref="#CB08650">󲇊</g>向罏中奉為滿朝
+<lb ed="L" n="0086b08"/>經文緯武宰輔尊官及本寺護法居士伏
+<lb ed="L" n="0086b09"/>願共證厥中之道同登不二之門此瓣香
+<lb ed="L" n="0086b10"/>不從鷲嶺拾得亦非少室拈來自因航海
+<lb ed="L" n="0086b11"/>梯山叅幾員知識末梢遇着一個惡辣阿
+<lb ed="L" n="0086b12"/>師遭他毒手汗衫從此卸下今日不敢囊
+<lb ed="L" n="0086b13"/>藏<g ref="#CB08650">󲇊</g>向爐中供養雲間明發堂上百癡元
+<lb ed="L" n="0086b14"/>老和尚以酧法乳之恩遂斂衣敷座師云
+<lb ed="L" n="0086b15"/>兔<g ref="#CB09415">󲓇</g>拶開空界月龜毛釣取碧潭龍從來
+<pb ed="L" xml:id="L158.1652.0087a" n="0087a"/>
+<lb ed="L" n="0087a01"/>作畧超今古獨坐當軒振祖風眾中還有
+<lb ed="L" n="0087a02"/>成褫者麼僧問海會新開爐鞲未審如何
+<lb ed="L" n="0087a03"/>煆煉凡聖師云靈丹一粒點鐵成金進云
+<lb ed="L" n="0087a04"/>恁麼則紅爐上一點雪也師云也須照顧
+<lb ed="L" n="0087a05"/>眉毛僧喝師便打云火箭射汝頂門也不
+<lb ed="L" n="0087a06"/>知問丹鳳呈祥瑞金毛降帝都法王登寶
+<lb ed="L" n="0087a07"/>座祝聖事如何師云巖松長擁翠進云麗
+<lb ed="L" n="0087a08"/>日光明殿逍遙兜率宮如何是主中主師
+<lb ed="L" n="0087a09"/>云坐斷牢關絕無朕跡進云文光彰祖道
+<lb ed="L" n="0087a10"/>翰墨灑林香如何是主中賔師云且看閙
+<lb ed="L" n="0087a11"/>市徃來人進云妙道安天下功勳報國家
+<lb ed="L" n="0087a12"/>如何是賔中主師云白雲飛出岫明月一
+<lb ed="L" n="0087a13"/>輪高進云叅罷全無事歸來休問程如何
+<lb ed="L" n="0087a14"/>是賔中賔師云相識滿天下知心能幾人
+<lb ed="L" n="0087a15"/>進云賔主言無異問答理周全師云知音
+<pb ed="L" xml:id="L158.1652.0087b" n="0087b"/>
+<lb ed="L" n="0087b01"/>知後更誰知進云人天眾前焉敢造次師
+<lb ed="L" n="0087b02"/>云止止不須說我法妙難思乃云法幢初
+<lb ed="L" n="0087b03"/>建條令始行龍歸海會鳳舞円<g ref="#CB08887">󲊷</g><g ref="#CB07448">𡨋</g>契本
+<lb ed="L" n="0087b04"/>有不昧正因了無虧欠洞達圓明歷萬古
+<lb ed="L" n="0087b05"/>而不朽運四序以常新展則彌綸宇宙<g ref="#CB30246">󷘦</g>
+<lb ed="L" n="0087b06"/>則包納乾坤既然如是因甚麼又畫地為
+<lb ed="L" n="0087b07"/>罏重經煆煉喝一喝云換骨洗腸重整頓
+<lb ed="L" n="0087b08"/>通身是口也須叅復舉蘇東坡叅玉泉禪
+<lb ed="L" n="0087b09"/>師問官人高姓坡云姓秤玉云是甚麼秤
+<lb ed="L" n="0087b10"/>坡云稱天下長老底秤玉便喝云且道者
+<lb ed="L" n="0087b11"/>一喝重多少坡無語師召大眾云者裡合
+<lb ed="L" n="0087b12"/>下得甚麼語良久云玉泉舌頭拖地東坡
+<lb ed="L" n="0087b13"/>眉毛廝結如是批判莫謂山僧饒舌。</p>
+<lb ed="L" n="0087b14"/><p xml:id="pL158p0087b1401">上堂僧問秘密如來藏敷揚義理玄提持
+<lb ed="L" n="0087b15"/>向上事本不在言詮如何是向上句師云
+<pb ed="L" xml:id="L158.1652.0088a" n="0088a"/>
+<lb ed="L" n="0088a01"/>玉筋撑虎口進云某甲會也師云作麼作
+<lb ed="L" n="0088a02"/>麼進云三腳錦魚禮金剛師云錯會不少
+<lb ed="L" n="0088a03"/>問臨濟三頓棒挑翻海底燈大千虀粉碎
+<lb ed="L" n="0088a04"/>烈焰轉騰騰海底金燈即不問四大部洲
+<lb ed="L" n="0088a05"/>人何處安身立命師云芻狗吠時明月上
+<lb ed="L" n="0088a06"/>木鷄啼處夜光寒僧喝師便棒進云真是
+<lb ed="L" n="0088a07"/>個老賊師云却被闍<g ref="#CB00932">𥠖</g>看破乃云海會無
+<lb ed="L" n="0088a08"/>邊際須乘般若舟一篙撑到岸歸家即便
+<lb ed="L" n="0088a09"/>休既是到家便可入佛國土成就眾生闇
+<lb ed="L" n="0088a10"/>中為炬燭險處作津梁花街柳巷現聖示
+<lb ed="L" n="0088a11"/>凡爐炭護湯應機接物譬如即今有三種
+<lb ed="L" n="0088a12"/>病人來合作麼生接他瘖瘂者來教伊說
+<lb ed="L" n="0088a13"/>又說不得瞽者來擎拳豎拂他又不見聾
+<lb ed="L" n="0088a14"/>者來將言句接他又不聞玄沙恁麼道通
+<lb ed="L" n="0088a15"/>身手眼莫能醫海會則不然自有權巧接
+<pb ed="L" xml:id="L158.1652.0088b" n="0088b"/>
+<lb ed="L" n="0088b01"/>他直使個個瞥地知歸瘖瘂者指他觀鼻
+<lb ed="L" n="0088b02"/>端白瞽目者教念聰明王咒聾聵者驀頭
+<lb ed="L" n="0088b03"/>便棒管教直下領會祗如今日檀信設齋
+<lb ed="L" n="0088b04"/>供養此三種人有何利益不見道端坐受
+<lb ed="L" n="0088b05"/>供養施主常安樂。</p>
+<lb ed="L" n="0088b06"/><p xml:id="pL158p0088b0601">工部節慎庫郝良弼居士請上堂僧問海
+<lb ed="L" n="0088b07"/>宇名揚振祖綱法筵大啟象龍驤靈山會
+<lb ed="L" n="0088b08"/>上拈花事四眾憑師為舉揚師云木馬嘶
+<lb ed="L" n="0088b09"/>時天地轉進云今日居士設齋如何慶讚
+<lb ed="L" n="0088b10"/>師云斬新日月特地乾坤進云超羣須是
+<lb ed="L" n="0088b11"/>英靈漢勝敵還他獅子兒師云也須喫棒
+<lb ed="L" n="0088b12"/>始得傅明哲居士問向上一路千聖不傳
+<lb ed="L" n="0088b13"/>未審和尚作麼生師云不是容易道將來
+<lb ed="L" n="0088b14"/>進云恁麼則古佛再來傳心印師云山僧
+<lb ed="L" n="0088b15"/>從來無一法與人進云豈無現在老龐公
+<pb ed="L" xml:id="L158.1652.0089a" n="0089a"/>
+<lb ed="L" n="0089a01"/>師便喝乃云建大法幢擊大法皷演大法
+<lb ed="L" n="0089a02"/>義必仗有力英才全身擔荷撑門拄戶輔
+<lb ed="L" n="0089a03"/>揚祖道如龍得水似虎靠山光彩林泉壯
+<lb ed="L" n="0089a04"/>偉家風今日郝公因為監院表帥叢林請
+<lb ed="L" n="0089a05"/>演宗乘令汝等知有向上事心佛眾生三
+<lb ed="L" n="0089a06"/>無差別若能一念回光冷地裡忽然退步
+<lb ed="L" n="0089a07"/>踏着鎮州一個大蘿蔔頭臨濟四賔主雲
+<lb ed="L" n="0089a08"/>門乾屎橛洞山麻三觔楊岐鐵酸<g ref="#CB15248">𨢝</g>總在
+<lb ed="L" n="0089a09"/>裡許一會百會一了百了佛祖欺汝不得
+<lb ed="L" n="0089a10"/>方可每日擕笻江上望數株松栢倚斜陽
+<lb ed="L" n="0089a11"/>諸山請上堂僧問天性彌寰宇當陽寶鏡
+<lb ed="L" n="0089a12"/>懸一毛吞巨海洞徹見根源西天三大士
+<lb ed="L" n="0089a13"/>說法度何人師云打破虛空全無靶柄進
+<lb ed="L" n="0089a14"/>云承師點出摩醯眼覷破三千及大千師
+<lb ed="L" n="0089a15"/>云如何是摩醯眼僧豎拳師云弄精<g ref="#CB05943">䰟</g>漢
+<pb ed="L" xml:id="L158.1652.0089b" n="0089b"/>
+<lb ed="L" n="0089b01"/>乃云唱起德山歌打動禾山皷觀音為船
+<lb ed="L" n="0089b02"/>主勢至便搖擼何謂今日諸山禪德設齋
+<lb ed="L" n="0089b03"/>迎請菩薩子到海會應供雖堂前不曾作
+<lb ed="L" n="0089b04"/>舞猶勝金牛三步但有一問有一人終日
+<lb ed="L" n="0089b05"/>喫飯不道飽有一人終日不喫飯不道饑
+<lb ed="L" n="0089b06"/>如此二人那個合受供養若是明眼作家
+<lb ed="L" n="0089b07"/>舉着便知落處雖然如是且道衲子尋常
+<lb ed="L" n="0089b08"/>在什麼處行履復云從教千聖莫能知。</p></cb:div>
+<lb ed="L" n="0089b09"/>
+<lb ed="L" n="0089b10"/><cb:juan fun="close" n="6"><cb:jhead>明覺聰禪師語錄卷第六</cb:jhead></cb:juan>
+<lb ed="L" n="0089b11"/><cb:div type="w"><head>音釋</head>
+<lb ed="L" n="0089b12"/><cb:div type="note"><entry><form>埠</form><cb:def><p xml:id="pL158p0089b1202" rend="margin-left:1em;inline"><note place="inline">同步舶船埠頭水瀕也</note>。</p></cb:def></entry><entry cb:place="inline"><form>醨</form><cb:def><p xml:id="pL158p0089b1212" rend="margin-left:1em;inline"><note place="inline">鄰溪切音離薄酒也</note>。</p></cb:def></entry><entry cb:place="inline"><form>簸</form><cb:def><p xml:id="pL158p0089b1221" rend="margin-left:1em;inline"><note place="inline">波上聲揚米去
+<lb ed="L" n="0089b13"/>糠也</note>。</p></cb:def></entry><entry cb:place="inline"><form><anchor xml:id="beg_40" type="cb-app"/><term rend="no_nor">筯</term><anchor xml:id="end_40"/></form><cb:def><p xml:id="pL158p0089b1308" rend="margin-left:1em;inline"><note place="inline">治據切音住匙<anchor xml:id="beg_41" type="cb-app"/><term rend="no_nor">筯</term><anchor xml:id="end_41"/>也</note>。</p></cb:def></entry></cb:div></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_38" cb:to="#end_38"><corr>斂</corr><sic>歛</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_39" cb:to="#end_39"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_3a" cb:to="#end_3a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_3b" cb:to="#end_3b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_3c" cb:to="#end_3c"><corr>己</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_3d" cb:to="#end_3d"><corr>己</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_3e" cb:to="#end_3e"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_3f" cb:to="#end_3f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_40" cb:to="#end_40"><corr><term rend="no_nor">筯</term></corr><sic><term rend="no_nor"><g ref="#CB22196">󵚴</g></term></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_41" cb:to="#end_41"><corr><term rend="no_nor">筯</term></corr><sic><term rend="no_nor"><g ref="#CB22196">󵚴</g></term></sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

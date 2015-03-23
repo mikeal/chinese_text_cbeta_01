@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="K41n1482">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Tripitaka Koreana, Electronic version, No. 1482 大乘中觀釋論(第10卷-第18卷)</title>
+			<author>安慧菩薩造  宋 惟淨等譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.6 $<date>$Date: 2011/04/18 10:34:27 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>9卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/04/18 10:34:27 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Tripitaka Koreana Vol. 41, No. 1482 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Text as provided by Research Institute of Tripitaka Koreana(RITK), Input by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">高麗大藏經研究所提供，CBETA 人工輸入</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB30072">
+	<charName>CBETA CHARACTER CB30072</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(〦/米)*力]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>敕</value>
+	</charProp>
+	<mapping type="unicode">U+20860</mapping>
+	<mapping cb:dec="1013112" type="PUA">U+F7578</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-06-03T13:08:49">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="K" xml:id="K41.1482.0101c" n="0101c"/>
+<lb ed="K" n="0101c01"/><milestone unit="juan" n="10"/><cb:docNumber>K. no. 1482</cb:docNumber>
+<lb ed="K" n="0101c02"/><cb:div type="xu"><cb:mulu type="序" level="1">聖教序</cb:mulu><head>大宋新譯三藏聖教序　　　跡</head>
+<lb ed="K" n="0101c03"/><byline cb:type="author">太宗神功聖德文武皇帝製</byline>
+<lb ed="K" n="0101c04"/><p xml:id="pK41p0101c0401">大矣哉我佛之教也化導羣迷闡揚
+<lb ed="K" n="0101c05"/>宗性廣博宏辯英彥莫能究其旨精
+<lb ed="K" n="0101c06"/>微妙說庸愚豈可度其源義理幽玄
+<lb ed="K" n="0101c07"/>真空莫測包括萬象譬喻無垠綜法
+<lb ed="K" n="0101c08"/>網之紀綱演無際之正教拔四生於
+<lb ed="K" n="0101c09"/>苦海譯三藏之祕言天地變化乎陰
+<lb ed="K" n="0101c10"/>陽日月盈虧乎寒暑大則說諸善惡
+<lb ed="K" n="0101c11"/>細則比於恒沙含識萬端弗可盡述
+<lb ed="K" n="0101c12"/>若窺像法如影隨形離六情以長存
+<lb ed="K" n="0101c13"/>歷千劫而可久須彌納藏於芥子如
+<lb ed="K" n="0101c14"/>來坦蕩於無邊達磨西來法傳東土
+<lb ed="K" n="0101c15"/>宣揚妙理順從指歸彼岸菩提愛河
+<lb ed="K" n="0101c16"/>生滅用行於五濁惡趣拯溺於三業
+<lb ed="K" n="0101c17"/>途中經垂世以難窮道無私而永泰
+<lb ed="K" n="0101c18"/>雪山貝葉若銀臺之耀目歲月煙蘿
+<lb ed="K" n="0101c19"/>起香界之自遠巍巍罕測杳杳難名
+<lb ed="K" n="0101c20"/>所以道資十聖德被三賢至道起於
+<lb ed="K" n="0101c21"/>乾元眾妙生乎太易揔繁形類竅鑿
+<lb ed="K" n="0101c22"/>昏明絕彼是非開茲蒙昧有西域法
+<lb ed="K" n="0101c23"/>師天息災等常持四忍早悟三乘翻
+<lb ed="K" n="0101c24"/>貝葉之真詮續人天之聖教芳猷重
+<pb ed="K" xml:id="K41.1482.0102a" n="0102a"/>
+<lb ed="K" n="0102a01"/>啟運偶昌時潤五聲於文章暢四始
+<lb ed="K" n="0102a02"/>於風律堂堂容止穆穆輝華曠劫而
+<lb ed="K" n="0102a03"/>昏墊重明玄門昭顯軌範而彌光妙
+<lb ed="K" n="0102a04"/>法淨界騰音利益有情俱登覺岸無
+<lb ed="K" n="0102a05"/>成鄣礙救諸疲羸冥昧慈悲浩汙物
+<lb ed="K" n="0102a06"/>表柔伏貪佷啟滌昏愚演小乘聲聞
+<lb ed="K" n="0102a07"/>合其儀論大乘正覺立其性含靈悟
+<lb ed="K" n="0102a08"/>而蒙福藏教缺而重興幻化迷途火
+<lb ed="K" n="0102a09"/>宅深喻雖設其教不知者多善念生
+<lb ed="K" n="0102a10"/>而無量潛臻惡業興而隨緣皆墯調
+<lb ed="K" n="0102a11"/>御四眾積行十方澍華雨於金輪護
+<lb ed="K" n="0102a12"/>恒沙於玉闕有頂之風不可壞無際
+<lb ed="K" n="0102a13"/>之水弗能漂澄寂湛然圓明清淨之
+<lb ed="K" n="0102a14"/>智慧性空無染妄想解脫之因緣可
+<lb ed="K" n="0102a15"/>以離煩惱於心田可以得清涼於宇
+<lb ed="K" n="0102a16"/>宙朕慙非博學釋典微閑豈堪序文
+<lb ed="K" n="0102a17"/>以示來者如縻螢爝火不足比之於
+<lb ed="K" n="0102a18"/>皎日將微蠡量海未能窮盡於深淵
+<lb ed="K" n="0102a19"/>者哉。</p></cb:div>
+<lb ed="K" n="0102a20"/><cb:div type="xu"><cb:mulu type="序" level="1">繼作聖教序</cb:mulu><head>繼作聖教序</head>
+<lb ed="K" n="0102a21"/><byline cb:type="author">真宗文明章聖元孝皇帝製</byline>
+<lb ed="K" n="0102a22"/><p xml:id="pK41p0102a2201">高明肇分三辰方乃序其次厚載初
+<lb ed="K" n="0102a23"/>定萬彙於以發乎端清濁之體既彰
+<pb ed="K" xml:id="K41.1482.0102b" n="0102b"/>
+<lb ed="K" n="0102b01"/>善惡之源是顯然後以文物立其教
+<lb ed="K" n="0102b02"/>以正典化其俗利益之功同歸於理
+<lb ed="K" n="0102b03"/>於是乎像法來於西國真諦流於中
+<lb ed="K" n="0102b04"/>夏洞貫千古真實之理無以窮囊括
+<lb ed="K" n="0102b05"/>九圍玄妙之門莫能究言乎妄想則
+<lb ed="K" n="0102b06"/>五蘊皆空現乃真容則一毫圓滿廣
+<lb ed="K" n="0102b07"/>大之教豈能紀述者哉伏覩
+<lb ed="K" n="0102b08" type="honorific"/>太宗神功聖德文武皇帝法性周圓
+<lb ed="K" n="0102b09"/>仁慈普布化蠻貊則萬邦輻湊躋烝
+<lb ed="K" n="0102b10"/>民於仁壽之鄉崇教法則四海雲從
+<lb ed="K" n="0102b11"/>惠蒼生於富庶之域見尊經之浩汗
+<lb ed="K" n="0102b12"/>設方便以救沉淪知法界之恢宏行
+<lb ed="K" n="0102b13"/>精進而攝懈怠乃擇其邃宇校彼真
+<lb ed="K" n="0102b14"/>文命天竺之高僧譯貝多之佛語象
+<lb ed="K" n="0102b15"/>管翻成於金字珠編復置於琅函龍
+<lb ed="K" n="0102b16"/>宮之聖藻惟新鷲嶺之苾芻仰歎由
+<lb ed="K" n="0102b17"/>是三乘共貫四諦同圓盡苦空真正
+<lb ed="K" n="0102b18"/>之言顯祕密精研之義讚相相乎實
+<lb ed="K" n="0102b19"/>相論空空乎盡空華嚴之理合軌轍
+<lb ed="K" n="0102b20"/>金像之教同規矩朕纘嗣
+<lb ed="K" n="0102b21" type="honorific"/>丕構恭臨寶圖常翼翼而撫兆民每
+<lb ed="K" n="0102b22"/>兢兢而守
+<lb ed="K" n="0102b23" type="honorific"/>先訓以至釋典尤未精詳諒其幽深
+<pb ed="K" xml:id="K41.1482.0102c" n="0102c"/>
+<lb ed="K" n="0102c01"/>曷能探測有譯經西域僧法賢奏章
+<lb ed="K" n="0102c02"/>懇切致意專勤以
+<lb ed="K" n="0102c03" type="honorific"/>先皇帝大闡真風高傳佛旨興前王
+<lb ed="K" n="0102c04"/>之墜典振覺路之頺綱欲旌
+<lb ed="K" n="0102c05" type="honorific"/><anchor xml:id="beg_1" type="cb-app"/>天<anchor xml:id="end_1"/>造之功庸用廣
+<lb ed="K" n="0102c06" type="honorific"/>聖文之述作請予製序繼聖教焉自
+<lb ed="K" n="0102c07"/>聖考上僊追號罔息政事之外何睱
+<lb ed="K" n="0102c08"/>經心今<anchor xml:id="beg_2" type="cb-app"/>已<anchor xml:id="end_2"/>禫除思臻微奧雖幼承慈
+<lb ed="K" n="0102c09"/>誨柰夙乏通才焉窮乎法海之津涯
+<lb ed="K" n="0102c10"/>莫造乎空門之閫域略敷大意以徇
+<lb ed="K" n="0102c11"/>輿情蹄涔不足擬浴日之波尺箠豈
+<lb ed="K" n="0102c12"/>能量昊天之影聊述短序以紀聖功
+<lb ed="K" n="0102c13"/>者焉。</p></cb:div>
+<pb ed="K" xml:id="K41.1482.0136a" n="0136a"/>
+<lb ed="K" n="0136a01"/><cb:juan fun="open" n="10"><cb:mulu type="卷" n="10"></cb:mulu><cb:jhead>大乘中觀釋論卷第十　　　　<unclear></unclear><unclear></unclear></cb:jhead></cb:juan>
+<lb ed="K" n="0136a02"/><byline cb:type="author">安慧菩薩造　　　百</byline>
+<lb ed="K" n="0136a03"/><byline cb:type="translator"><note place="inline">西天譯經三藏朝散大夫試鴻臚卿傳梵大師賜紫沙門臣　法護　奉　詔譯</note></byline>
+<lb ed="K" n="0136a04"/><cb:div type="other"><cb:mulu type="其他" level="1">觀合品第十四</cb:mulu><head>觀合品第十四</head>
+<lb ed="K" n="0136a05"/><p xml:id="pK41p0136a0501">復次有外人言勝義諦中有其眼等
+<lb ed="K" n="0136a06"/>及諸行法彼說和合如佛所言有三
+<lb ed="K" n="0136a07"/>種法謂眼根色境眼識合故生觸由
+<lb ed="K" n="0136a08"/>此所說餘耳等法亦復如是隨起諸
+<lb ed="K" n="0136a09"/>結此名和合非不有故如龜毛等是
+<lb ed="K" n="0136a10"/>故世尊或說諸法有所和合。</p>
+<lb ed="K" n="0136a11"/><p xml:id="pK41p0136a1101">論者言世尊說者此等決定非勝義
+<lb ed="K" n="0136a12"/>諦是故頌言。</p>
+<lb ed="K" n="0136a13"/><lg xml:id="lgK41p0136a1301"><l>能見及所見</l><l>見者等各異</l>
+<lb ed="K" n="0136a14"/><l>彼更互相望</l><l>一切皆無合</l></lg>
+<lb ed="K" n="0136a15"/><p xml:id="pK41p0136a1501">釋曰此義即是二二相望。</p>
+<lb ed="K" n="0136a16"/><p xml:id="pK41p0136a1601">復次頌言。</p>
+<lb ed="K" n="0136a17"/><lg xml:id="lgK41p0136a1701"><l>如是染染者</l><l>及彼所染法</l>
+<lb ed="K" n="0136a18"/><l>瞋等餘煩惱</l><l>餘處三無合</l></lg>
+<lb ed="K" n="0136a19"/><p xml:id="pK41p0136a1901">釋曰彼一切法更互相望皆悉無合
+<lb ed="K" n="0136a20"/>何所以邪。</p>
+<lb ed="K" n="0136a21"/><p xml:id="pK41p0136a2101">復次頌言。</p>
+<lb ed="K" n="0136a22"/><lg xml:id="lgK41p0136a2201"><l>異共異有合</l><l>彼見等諸法</l>
+<lb ed="K" n="0136a23"/><l>異性無所有</l><l>故不可說合</l></lg>
+<pb ed="K" xml:id="K41.1482.0136b" n="0136b"/>
+<lb ed="K" n="0136b01"/><p xml:id="pK41p0136b0101">釋曰自體如是故更互相望異性無體。</p>
+<lb ed="K" n="0136b02"/><p xml:id="pK41p0136b0201">復次頌言。</p>
+<lb ed="K" n="0136b03"/><lg xml:id="lgK41p0136b0301"><l>非唯見等法</l><l>異性無所有</l></lg>
+<lb ed="K" n="0136b04"/><p xml:id="pK41p0136b0401">釋曰云何異性如瓶衣等次下頌言。</p>
+<lb ed="K" n="0136b05"/><lg xml:id="lgK41p0136b0501"><l>餘諸法皆同</l><l>無異性可得</l></lg>
+<lb ed="K" n="0136b06"/><p xml:id="pK41p0136b0601">釋曰此等所說非語言中而能生信
+<lb ed="K" n="0136b07"/>無異性因此復云何。</p>
+<lb ed="K" n="0136b08"/><p xml:id="pK41p0136b0801">復次頌言。</p>
+<lb ed="K" n="0136b09"/><lg xml:id="lgK41p0136b0901"><l>異因異有異</l><l>異離異無異</l>
+<lb ed="K" n="0136b10"/><l>若法從因出</l><l>彼無異可得</l></lg>
+<lb ed="K" n="0136b11"/><p xml:id="pK41p0136b1101">釋曰異法因待異法即有其異此義
+<lb ed="K" n="0136b12"/>應知法自性等云何有異若先無異
+<lb ed="K" n="0136b13"/>後乃因異有異此即相違亦非諸法
+<lb ed="K" n="0136b14"/>有異對待異性可得此應思擇。</p>
+<lb ed="K" n="0136b15"/><p xml:id="pK41p0136b1501">復次頌言。</p>
+<lb ed="K" n="0136b16"/><lg xml:id="lgK41p0136b1601"><l>若異異於異</l><l>離異無所得</l>
+<lb ed="K" n="0136b17"/><l>彼異不異異</l><l>離異無有異</l></lg>
+<lb ed="K" n="0136b18"/><p xml:id="pK41p0136b1801">釋曰亦無異因對待而有於異法中
+<lb ed="K" n="0136b19"/>離無所得如火自性離自體中即無
+<lb ed="K" n="0136b20"/>熱性譬如瓶等離於自體不見異性。</p>
+<lb ed="K" n="0136b21"/><p xml:id="pK41p0136b2101">此中應知勝義諦中無有異性。</p>
+<lb ed="K" n="0136b22"/><p xml:id="pK41p0136b2201">勝論師言若說異性者即是同法差
+<lb ed="K" n="0136b23"/>別功能今此亦應有異可得如無異
+<pb ed="K" xml:id="K41.1482.0136c" n="0136c"/>
+<lb ed="K" n="0136c01"/>物自體對待。</p>
+<lb ed="K" n="0136c02"/><p xml:id="pK41p0136c0201">論者言若彼異物離於自相有異可
+<lb ed="K" n="0136c03"/>取者而彼同法為異法中住為不異
+<lb ed="K" n="0136c04"/>法住此復云何。</p>
+<lb ed="K" n="0136c05"/><p xml:id="pK41p0136c0501">復次頌言。</p>
+<lb ed="K" n="0136c06"/><lg xml:id="lgK41p0136c0601"><l>異中無異性</l><l>不異中亦無</l>
+<lb ed="K" n="0136c07"/><l>無有異性故</l><l>即無彼此異</l></lg>
+<lb ed="K" n="0136c08"/><p xml:id="pK41p0136c0801">釋曰異與異性合無此道理異與不
+<lb ed="K" n="0136c09"/>異亦互相違無異性中而彼異性定
+<lb ed="K" n="0136c10"/>當止遣若其異性有所得者決定相
+<lb ed="K" n="0136c11"/>違異性對待有不異性畢竟性中既
+<lb ed="K" n="0136c12"/>無異性亦無不異何以故本無異性
+<lb ed="K" n="0136c13"/>故勝義諦中無彼此異。</p>
+<lb ed="K" n="0136c14"/><p xml:id="pK41p0136c1401">復有人言若法自相互相衰變彼有
+<lb ed="K" n="0136c15"/>異故可說為異。</p>
+<lb ed="K" n="0136c16"/><p xml:id="pK41p0136c1601">論者言若有異相對待彼法此即可
+<lb ed="K" n="0136c17"/>說有其衰變既先無相後有衰變即
+<lb ed="K" n="0136c18"/>非道理若或先有衰變此亦不然如
+<lb ed="K" n="0136c19"/>是決定離其衰變異相不有是故異
+<lb ed="K" n="0136c20"/>非異性無有和合。</p>
+<lb ed="K" n="0136c21"/><p xml:id="pK41p0136c2101">復次頌言。</p>
+<lb ed="K" n="0136c22"/><lg xml:id="lgK41p0136c2201"><l>一法不自合</l><l>異法亦不合</l></lg>
+<lb ed="K" n="0136c23"/><p xml:id="pK41p0136c2301">釋曰何所以邪合義無體故異中即
+<pb ed="K" xml:id="K41.1482.0137a" n="0137a"/>
+<lb ed="K" n="0137a01"/>無異法可有若有異性即有別異過
+<lb ed="K" n="0137a02"/>失可見是故無有少法可合合法合
+<lb ed="K" n="0137a03"/>時若分別者合即無合此復云何次
+<lb ed="K" n="0137a04"/>下頌言。</p>
+<lb ed="K" n="0137a05"/><lg xml:id="lgK41p0137a0501"><l>合法及合時</l><l>合者悉皆無</l></lg>
+<lb ed="K" n="0137a06"/><p xml:id="pK41p0137a0601">釋曰由如是故作者作業及所作法
+<lb ed="K" n="0137a07"/>亦悉不有云何見等諸法更互相望
+<lb ed="K" n="0137a08"/>而有合邪。</p></cb:div>
+<lb ed="K" n="0137a09"/><cb:div type="other"><cb:mulu type="其他" level="1">觀性品第十五</cb:mulu><head>觀性品第十五</head>
+<lb ed="K" n="0137a10"/><p xml:id="pK41p0137a1001">復有人言如汝所說若自分別有所
+<lb ed="K" n="0137a11"/>成立彼一切法有其自性皆虛妄法
+<lb ed="K" n="0137a12"/>然彼諸行汝亦說為虛妄法者即能
+<lb ed="K" n="0137a13"/>成所成而有相違。</p>
+<lb ed="K" n="0137a14"/><p xml:id="pK41p0137a1401">論者言諸法自性若從因緣有所生
+<lb ed="K" n="0137a15"/>起彼非自性以自性無所作道理與
+<lb ed="K" n="0137a16"/>現緣法有相違故勝義諦中若法增
+<lb ed="K" n="0137a17"/>相自相不可得故無分別智起時如
+<lb ed="K" n="0137a18"/>實照了若有所得皆是世俗所行此
+<lb ed="K" n="0137a19"/>止遣者即與現緣有所相違以不生
+<lb ed="K" n="0137a20"/>故勝義諦中若有少法而可得者彼
+<lb ed="K" n="0137a21"/>法自體悉無所有。</p>
+<lb ed="K" n="0137a22"/><p xml:id="pK41p0137a2201">復次頌言。</p>
+<lb ed="K" n="0137a23"/><lg xml:id="lgK41p0137a2301"><l>從因緣和合</l><l>諸法即無生</l></lg>
+<pb ed="K" xml:id="K41.1482.0137b" n="0137b"/>
+<lb ed="K" n="0137b01"/><p xml:id="pK41p0137b0101">釋曰無自性故若先有自性云何從
+<lb ed="K" n="0137b02"/>彼因緣所成次下頌言。</p>
+<lb ed="K" n="0137b03"/><lg xml:id="lgK41p0137b0301"><l>若從因緣生</l><l>即自性有作</l></lg>
+<lb ed="K" n="0137b04"/><p xml:id="pK41p0137b0401">此中應問若此作法有何過失故頌
+<lb ed="K" n="0137b05"/>荅言。</p>
+<lb ed="K" n="0137b06"/><lg xml:id="lgK41p0137b0601"><l>自性名作法</l><l>云何當可得</l>
+<lb ed="K" n="0137b07"/><l>自性無虛假</l><l>離佗法所成</l></lg>
+<lb ed="K" n="0137b08"/><p xml:id="pK41p0137b0801">釋曰本非自性有所作法若有所見
+<lb ed="K" n="0137b09"/>及有所得皆因緣成此中如是止遣
+<lb ed="K" n="0137b10"/>對治。</p>
+<lb ed="K" n="0137b11"/><p xml:id="pK41p0137b1101">論者言我此比量勝義諦中自性皆
+<lb ed="K" n="0137b12"/>空如是所有眼等諸法應知皆是因
+<lb ed="K" n="0137b13"/>緣生性如幻所作男女等相彼相若
+<lb ed="K" n="0137b14"/>有自性可得即非因緣對待所成如
+<lb ed="K" n="0137b15"/>涅槃等此說即與佗比量相違。</p>
+<lb ed="K" n="0137b16"/><p xml:id="pK41p0137b1601">或有人言如實義者且如火以熱為
+<lb ed="K" n="0137b17"/>自性若火先從因緣所生即有所作
+<lb ed="K" n="0137b18"/>乃非自性容有所作道理可得若尒
+<lb ed="K" n="0137b19"/>火即有其先知是故當知諸法自性
+<lb ed="K" n="0137b20"/>無有虛假離佗法成。</p>
+<lb ed="K" n="0137b21"/><p xml:id="pK41p0137b2101">復有人言諸法自性無有別異此無
+<lb ed="K" n="0137b22"/>過失若如所說從因緣生火之熱性
+<lb ed="K" n="0137b23"/>云何先知。</p>
+<pb ed="K" xml:id="K41.1482.0137c" n="0137c"/>
+<lb ed="K" n="0137c01"/><p xml:id="pK41p0137c0101">阿毗曇人言諸法自性如是決定無
+<lb ed="K" n="0137c02"/>有虛假離於佗法因緣所成者火之
+<lb ed="K" n="0137c03"/>熱性此復云何先有所得此中若先
+<lb ed="K" n="0137c04"/>有體可得即非自性火云何有。</p>
+<lb ed="K" n="0137c05"/><p xml:id="pK41p0137c0501">經部師言若法自性無有虛假離佗
+<lb ed="K" n="0137c06"/>法成此中決定或有所得彼即不有
+<lb ed="K" n="0137c07"/>是故自性若或容有少法可作即佗
+<lb ed="K" n="0137c08"/>法對待此不和合如是自性無有作
+<lb ed="K" n="0137c09"/>者此復云何有其所作若先不有因
+<lb ed="K" n="0137c10"/>緣所作即無過失若先有法何名無體。</p>
+<lb ed="K" n="0137c11"/><p xml:id="pK41p0137c1101">論者言此說不然何以故彼無所有
+<lb ed="K" n="0137c12"/>云何無所有當知有作皆是緣法對
+<lb ed="K" n="0137c13"/>待所得彼即無有少法可作何以故
+<lb ed="K" n="0137c14"/>若法現轉即先不有何有所作若法
+<lb ed="K" n="0137c15"/>現轉此復云何說名所作若於現轉
+<lb ed="K" n="0137c16"/>有所作者其或先無轉時容有所作
+<lb ed="K" n="0137c17"/>此即過失是故若先無法即無所作
+<lb ed="K" n="0137c18"/>如兔角等彼何無作若或作者有其
+<lb ed="K" n="0137c19"/>力能彼即有作譬如石女無子云何
+<lb ed="K" n="0137c20"/>有名而可詮表相似之法能與不能
+<lb ed="K" n="0137c21"/>能所分別亦非不有言說分別何以
+<lb ed="K" n="0137c22"/>故因有說無是無亦不可得如是決
+<lb ed="K" n="0137c23"/>定悉不可以言說分別設或能有物
+<pb ed="K" xml:id="K41.1482.0138a" n="0138a"/>
+<lb ed="K" n="0138a01"/>性亦無異因異法可得云何決定有
+<lb ed="K" n="0138a02"/>其所作若法緣聚彼緣差別而亦不
+<lb ed="K" n="0138a03"/>成以於是法不明了故即於是中見
+<lb ed="K" n="0138a04"/>作者性譬如空花是故勝義諦中法
+<lb ed="K" n="0138a05"/>無自性勝義諦中有法皆是自性對待。</p>
+<lb ed="K" n="0138a06"/><p xml:id="pK41p0138a0601">復次頌言。</p>
+<lb ed="K" n="0138a07"/><lg xml:id="lgK41p0138a0701"><l>若法無自性</l><l>云何見佗性</l>
+<lb ed="K" n="0138a08"/><l>自性於佗性</l><l>亦名為佗性</l></lg>
+<lb ed="K" n="0138a09"/><p xml:id="pK41p0138a0901">釋曰若無自性即無佗性何以故若
+<lb ed="K" n="0138a10"/>自性有成彼性變壞容有佗性既無
+<lb ed="K" n="0138a11"/>自性何有佗性此復云何若說自性
+<lb ed="K" n="0138a12"/>亦名佗性如是異法和合生觸此即
+<lb ed="K" n="0138a13"/>佗性法無自性故若說有佗性彼即
+<lb ed="K" n="0138a14"/>不有是故無有佗性此亦不然何以
+<lb ed="K" n="0138a15"/>故若自性若佗性二俱無性有所得
+<lb ed="K" n="0138a16"/>者彼說皆空。</p>
+<lb ed="K" n="0138a17"/><p xml:id="pK41p0138a1701">復次頌言。</p>
+<lb ed="K" n="0138a18"/><lg xml:id="lgK41p0138a1801"><l>離自性佗性</l><l>復云何有法</l>
+<lb ed="K" n="0138a19"/><l>若有自佗性</l><l>即諸法得成</l></lg>
+<lb ed="K" n="0138a20"/><p xml:id="pK41p0138a2001">釋曰無所有故諸法自性無差別中
+<lb ed="K" n="0138a21"/>無法可有此中若復有所遮遣如是
+<lb ed="K" n="0138a22"/>還成有法可得。</p>
+<lb ed="K" n="0138a23"/><p xml:id="pK41p0138a2301">復次頌言。</p>
+<pb ed="K" xml:id="K41.1482.0138b" n="0138b"/>
+<lb ed="K" n="0138b01"/><lg xml:id="lgK41p0138b0101"><l>有法若不成</l><l>無法亦不成</l>
+<lb ed="K" n="0138b02"/><l>有壞名為無</l><l>世人說無體</l></lg>
+<lb ed="K" n="0138b03"/><p xml:id="pK41p0138b0301">釋曰此說如理何所以邪法壞名無
+<lb ed="K" n="0138b04"/>世人說彼以為無體若無法可壞彼
+<lb ed="K" n="0138b05"/>所說無亦即不有是故此無亦不可立。</p>
+<lb ed="K" n="0138b06"/><p xml:id="pK41p0138b0601">復次頌言。</p>
+<lb ed="K" n="0138b07"/><lg xml:id="lgK41p0138b0701"><l>若見自佗性</l><l>或有體無體</l>
+<lb ed="K" n="0138b08"/><l>彼則不能見</l><l>如來真實義</l></lg>
+<lb ed="K" n="0138b09"/><p xml:id="pK41p0138b0901">釋曰此不和合是故諸佛子等普盡
+<lb ed="K" n="0138b10"/>世閒悉為攝受而能長時荷諸重擔
+<lb ed="K" n="0138b11"/>於自佗性悉無所見以無分別智止
+<lb ed="K" n="0138b12"/>息一切別異所起自性佗性此云何
+<lb ed="K" n="0138b13"/>知為依雜阿含等教理證成是故頌言。</p>
+<lb ed="K" n="0138b14"/><lg xml:id="lgK41p0138b1401"><l>世尊<anchor xml:id="beg_3" type="cb-app"/>已<anchor xml:id="end_3"/>成就</l><l>離有亦離無</l>
+<lb ed="K" n="0138b15"/><l>教授迦旃延</l><l>應離有無二</l></lg>
+<lb ed="K" n="0138b16"/><p xml:id="pK41p0138b1601">釋曰佛告迦旃延世閒眾生依止二
+<lb ed="K" n="0138b17"/>法無始以來著有著無又如佛告阿
+<lb ed="K" n="0138b18"/>難言世閒眾生執有著常執無著斷。</p>
+<lb ed="K" n="0138b19"/><p xml:id="pK41p0138b1901">此中應問若勝義諦中無自性等云
+<lb ed="K" n="0138b20"/>何能見彼真實義荅此說見實者應
+<lb ed="K" n="0138b21"/>知皆是因緣生法世俗分位所成立
+<lb ed="K" n="0138b22"/>故如實觀時非勝義諦。</p>
+<lb ed="K" n="0138b23"/><p xml:id="pK41p0138b2301">復次頌言。</p>
+<pb ed="K" xml:id="K41.1482.0138c" n="0138c"/>
+<lb ed="K" n="0138c01"/><lg xml:id="lgK41p0138c0101"><l>若自性佗性</l><l>或有體無體</l>
+<lb ed="K" n="0138c02"/><l>自體有異性</l><l>法即不可得</l></lg>
+<lb ed="K" n="0138c03"/><p xml:id="pK41p0138c0301">釋曰此中止遣諸色相見當觀真實。</p>
+<lb ed="K" n="0138c04"/><p xml:id="pK41p0138c0401">如尊者提婆所說頌言。</p>
+<lb ed="K" n="0138c05"/><lg xml:id="lgK41p0138c0501"><l>從識種子生</l><l>成三有境界</l>
+<lb ed="K" n="0138c06"/><l>見境界無我</l><l>三有種子滅</l></lg>
+<lb ed="K" n="0138c07"/><p xml:id="pK41p0138c0701">論者言若法自體有異性者亦應決
+<lb ed="K" n="0138c08"/>定有法可得何以故諸法自體若離
+<lb ed="K" n="0138c09"/>因緣無所得故此中意者無所作性。</p>
+<lb ed="K" n="0138c10"/><p xml:id="pK41p0138c1001">復次頌言。</p>
+<lb ed="K" n="0138c11"/><lg xml:id="lgK41p0138c1101"><l>若見彼異性</l><l>非諸法有體</l>
+<lb ed="K" n="0138c12"/><l>云何自體無</l><l>異性當可得</l></lg>
+<lb ed="K" n="0138c13"/><p xml:id="pK41p0138c1301">釋曰若著於有此成過失若法自體
+<lb ed="K" n="0138c14"/>有性可得即非因緣以先無法有所
+<lb ed="K" n="0138c15"/>造作若彼自相息滅後有所得此亦
+<lb ed="K" n="0138c16"/>不然如先意樂因緣所作此中亦復
+<lb ed="K" n="0138c17"/>無所詮表云何自性所成而有異性
+<lb ed="K" n="0138c18"/>可得亦非性與無性相對和合此中
+<lb ed="K" n="0138c19"/>若法不滅後有所得彼亦不有云何
+<lb ed="K" n="0138c20"/>自體實有異性可得亦非有法自色
+<lb ed="K" n="0138c21"/>相中自體有實亦非無法相中異性
+<lb ed="K" n="0138c22"/>和合何以故性與無性二相違故。</p>
+<lb ed="K" n="0138c23"/><p xml:id="pK41p0138c2301">復次頌言。</p>
+<pb ed="K" xml:id="K41.1482.0139a" n="0139a"/>
+<lb ed="K" n="0139a01"/><lg xml:id="lgK41p0139a0101"><l>言有即著常</l><l>言無即斷見</l>
+<lb ed="K" n="0139a02"/><l>是故有無性</l><l>智者無依著</l></lg>
+<lb ed="K" n="0139a03"/><p xml:id="pK41p0139a0301">釋曰此中云何著有無性墮斷常見故。</p>
+<lb ed="K" n="0139a04"/><p xml:id="pK41p0139a0401">復次頌言。</p>
+<lb ed="K" n="0139a05"/><lg xml:id="lgK41p0139a0501"><l>若法有自性</l><l>非無即是常</l>
+<lb ed="K" n="0139a06"/><l>先有而今無</l><l>此還成斷見</l></lg>
+<lb ed="K" n="0139a07"/><p xml:id="pK41p0139a0701">釋曰法無自性亦復非彼無性可得
+<lb ed="K" n="0139a08"/>以離所作性故若執有性乃著常見
+<lb ed="K" n="0139a09"/>若法先有而今無者此即壞法亦成
+<lb ed="K" n="0139a10"/>斷見若尒即於一切愛非愛果所得
+<lb ed="K" n="0139a11"/>悉壞墮斷常見世法相違是故應知
+<lb ed="K" n="0139a12"/>若見諸法無有自性即見真實此即
+<lb ed="K" n="0139a13"/>證成中道之義。</p></cb:div>
+<lb ed="K" n="0139a14"/><cb:div type="other"><cb:mulu type="其他" level="1">觀縛解品第十六</cb:mulu><head>觀縛解品第十六</head>
+<lb ed="K" n="0139a15"/><p xml:id="pK41p0139a1501">此中應問云何諸法於勝義諦有性
+<lb ed="K" n="0139a16"/>無性二俱無體若其然者即無生死
+<lb ed="K" n="0139a17"/>亦無涅槃無縛無解以勝義諦中諸
+<lb ed="K" n="0139a18"/>法無性故如是即應一切皆無此云
+<lb ed="K" n="0139a19"/>何說眾生於彼諸趣徃來數數生滅
+<lb ed="K" n="0139a20"/>荅若言諸行或彼眾生有徃來者此
+<lb ed="K" n="0139a21"/>所分別為是常邪為無常邪二俱不
+<lb ed="K" n="0139a22"/>然故下頌言。</p>
+<lb ed="K" n="0139a23"/><lg xml:id="lgK41p0139a2301"><l>諸行若輪轉</l><l>常即無徃來</l>
+<pb ed="K" xml:id="K41.1482.0139b" n="0139b"/>
+<lb ed="K" n="0139b01"/><l>無常無徃來</l><l>眾生亦同等</l></lg>
+<lb ed="K" n="0139b02"/><p xml:id="pK41p0139b0201">釋曰若是常者即無所作生滅無性
+<lb ed="K" n="0139b03"/>故又常即畢竟寂滅性故若無常者
+<lb ed="K" n="0139b04"/>已滅諸法不復生故。</p>
+<lb ed="K" n="0139b05"/><p xml:id="pK41p0139b0501">路伽邪陀人言汝說諸行及彼眾生
+<lb ed="K" n="0139b06"/>無徃來者成我所成何以故實無佗
+<lb ed="K" n="0139b07"/>世來生此世亦無此世復還佗世如
+<lb ed="K" n="0139b08"/>我宗頌言。</p>
+<lb ed="K" n="0139b09"/><lg xml:id="lgK41p0139b0901"><l>汝今且觀如是人</l><l>諸根圓具及所行</l>
+<lb ed="K" n="0139b10"/><l>又若說彼有多聞</l><l>或為惡獸所食噉</l>
+<lb ed="K" n="0139b11"/><l>恣佗所食為所棄</l><l>過去佗身彼即無</l>
+<lb ed="K" n="0139b12"/><l>不還後世無怖心</l><l>應知此身唯行聚</l></lg>
+<lb ed="K" n="0139b13"/><p xml:id="pK41p0139b1301">此中意者若有覺常住即非如是眾
+<lb ed="K" n="0139b14"/>生及行可說徃來故我所說應如是
+<lb ed="K" n="0139b15"/>行若有人言此生之前有過去生而
+<lb ed="K" n="0139b16"/>可為因此不遮遣何以故如入胎初
+<lb ed="K" n="0139b17"/>覺決定自體相續有入次前覺心不
+<lb ed="K" n="0139b18"/>離境界有能取故如後起覺我宗說
+<lb ed="K" n="0139b19"/>者此亦不然且非今生離眼等所依
+<lb ed="K" n="0139b20"/>決定有覺若有覺心次於入胎初覺
+<lb ed="K" n="0139b21"/>即眼等所依定有所得以先有故若
+<lb ed="K" n="0139b22"/>尒即有無始徃來生死隨轉彼未來
+<lb ed="K" n="0139b23"/>生亦可相因未死有覺如現起覺若
+<pb ed="K" xml:id="K41.1482.0139c" n="0139c"/>
+<lb ed="K" n="0139c01"/>有覺相續可為因者又離彼所依無
+<lb ed="K" n="0139c02"/>相續覺何以故唯有一覺乃至未終
+<lb ed="K" n="0139c03"/>常如是住故。</p>
+<lb ed="K" n="0139c04"/><p xml:id="pK41p0139c0401">論者言汝此所說譬喻無體亦非道
+<lb ed="K" n="0139c05"/>理何以故且如提婆達多於相續中
+<lb ed="K" n="0139c06"/>色覺與聲覺彼非不異境界別故如
+<lb ed="K" n="0139c07"/>佗人相續覺。</p>
+<lb ed="K" n="0139c08"/><p xml:id="pK41p0139c0801">復有人言彼諸取法若一若異常與
+<lb ed="K" n="0139c09"/>無常皆不可說。</p>
+<lb ed="K" n="0139c10"/><p xml:id="pK41p0139c1001">論者言諸取徃來常與無常俱成過
+<lb ed="K" n="0139c11"/>失何所以邪故下頌言。</p>
+<lb ed="K" n="0139c12"/><lg xml:id="lgK41p0139c1201"><l>人若有徃來</l><l>於蘊處界中</l>
+<lb ed="K" n="0139c13"/><l>五種推求無</l><l>誰受徃來者</l></lg>
+<lb ed="K" n="0139c14"/><p xml:id="pK41p0139c1401">釋曰非蘊處界諸色法中有相可取
+<lb ed="K" n="0139c15"/>離行及識審細推求悉不可得如石
+<lb ed="K" n="0139c16"/>女子五種推求彼說徃來亦不可得。</p>
+<lb ed="K" n="0139c17"/><p xml:id="pK41p0139c1701">此中應問若如所說此蘊之外無別
+<lb ed="K" n="0139c18"/>蘊體亦不即此蘊者云何如來亦具
+<lb ed="K" n="0139c19"/>五蘊故頌荅言。</p>
+<lb ed="K" n="0139c20"/><lg xml:id="lgK41p0139c2001"><l>能取及所取</l><l>無諸有徃來</l>
+<lb ed="K" n="0139c21"/><l>無有即無取</l><l>何有徃來者</l></lg>
+<lb ed="K" n="0139c22"/><p xml:id="pK41p0139c2201">釋曰若先離取即復無取亦非同時
+<lb ed="K" n="0139c23"/>取體可生彼不同時性無有可立或
+<pb ed="K" xml:id="K41.1482.0140a" n="0140a"/>
+<lb ed="K" n="0140a01"/>復離體而不有故此義即是無別有
+<lb ed="K" n="0140a02"/>取以眾生無體故此中意者如是即
+<lb ed="K" n="0140a03"/>無能取所取由此亦無生死可得。</p></cb:div>
+<lb ed="K" n="0140a04"/><cb:juan fun="close" n="10"><cb:jhead>大乘中觀釋論卷第十</cb:jhead></cb:juan>
+<lb ed="K" n="0140a05"/><cb:div type="w"><p xml:id="pK41p0140a0501" rend="margin-left:2em">甲辰歲高麗國大藏都監奉
+<lb ed="K" n="0140a06" type="honorific"/><g ref="#CB30072">𠡠</g>彫造</p></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_1" cb:to="#end_1"><corr>天</corr><sic>夭</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2" cb:to="#end_2"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_3" cb:to="#end_3"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

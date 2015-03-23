@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="C097n1821">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Zhonghua Canon, Electronic version, No. 1821 楞伽經纂</title>
+			<author>劉宋 求那跋陀羅譯經　宋 楊彥國詮註</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.7 $<date>$Date: 2012/03/02 09:50:09 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>4卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2012/03/02 09:50:09 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Zhonghua Canon Vol. 097, No. 1821 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB02167">
+	<charName>CBETA CHARACTER CB02167</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[損-口+ㄙ]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>損</value>
+	</charProp>
+	<mapping cb:dec="985207" type="PUA">U+F0877</mapping>
+</char>
+<char xml:id="CB02456">
+	<charName>CBETA CHARACTER CB02456</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[卸-ㄗ+并]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>缾</value>
+	</charProp>
+	<mapping type="normal_unicode">U+7F3E</mapping>
+	<mapping cb:dec="985496" type="PUA">U+F0998</mapping>
+</char>
+<char xml:id="CB04693">
+	<charName>CBETA CHARACTER CB04693</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[狦-(狂-王)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>冊</value>
+	</charProp>
+	<mapping type="unicode">U+2054B</mapping>
+	<mapping cb:dec="987733" type="PUA">U+F1255</mapping>
+</char>
+<char xml:id="CB08073">
+	<charName>CBETA CHARACTER CB08073</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[〦/日]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>旨</value>
+	</charProp>
+	<mapping type="unicode">U+23140</mapping>
+	<mapping cb:dec="991113" type="PUA">U+F1F89</mapping>
+</char>
+<char xml:id="CB11301">
+	<charName>CBETA CHARACTER CB11301</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[門@(八/允)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>閱</value>
+	</charProp>
+	<mapping cb:dec="994341" type="PUA">U+F2C25</mapping>
+</char>
+<char xml:id="CB28917">
+	<charName>CBETA CHARACTER CB28917</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[目*比]</value>
+	</charProp>
+	<mapping type="unicode">U+401D</mapping>
+	<mapping cb:dec="1011957" type="PUA">U+F70F5</mapping>
+</char>
+<char xml:id="CB30246">
+	<charName>CBETA CHARACTER CB30246</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(冰-水+〡)*ㄆ]</value>
+	</charProp>
+	<mapping cb:dec="1013286" type="PUA">U+F7626</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-12-22T14:26:51">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">一切佛語心品第三</cb:mulu><cb:mulu type="其他" level="2">離涅槃想分第五十七</cb:mulu>
+<pb ed="C" xml:id="C097.1821.0135a" n="0135a"/>
+<lb ed="C" n="0135a01"/><milestone unit="juan" n="4"/><cb:juan fun="open" n="4a"><cb:mulu type="卷" n="4a">卷四上</cb:mulu><cb:jhead>楞伽經纂卷第四上　　　　阿</cb:jhead></cb:juan>
+<lb ed="C" n="0135a02"/><cb:div type="other"><cb:mulu type="其他" level="1">一切佛語心品第四</cb:mulu><head>一切佛語心品第四</head>
+<lb ed="C" n="0135a03"/><cb:div type="other"><cb:mulu type="其他" level="2">離一切根量分第五十八</cb:mulu><head>離一切根量分第五十八</head>
+<lb ed="C" n="0135a04"/><cb:div type="orig"><p xml:id="pC097p0135a0401">爾時大慧菩薩白佛言世尊。惟願為
+<lb ed="C" n="0135a05"/>說三藐三佛陀。我及餘菩薩善於如
+<lb ed="C" n="0135a06"/>來自性。自覺覺他。佛告大慧。恣所欲
+<lb ed="C" n="0135a07"/>問。我當為汝隨所問說。大慧白佛言
+<lb ed="C" n="0135a08"/>世尊。如來應供等正覺。為作耶。為不
+<lb ed="C" n="0135a09"/>作耶。為事耶。為因耶。為相耶。為所相
+<lb ed="C" n="0135a10"/>耶。為說耶。為所說耶。為覺耶。為所覺
+<lb ed="C" n="0135a11"/>耶。如是等詞句為異為不異。</p>
+<lb ed="C" n="0135a12"/><p xml:id="pC097p0135a1201">佛告大慧。如來應供等正覺。於如是
+<lb ed="C" n="0135a13"/>等詞句。非事非因。所以者何。俱有過
+<lb ed="C" n="0135a14"/>故。大慧。若如來是事者。或作或無常。
+<lb ed="C" n="0135a15"/>無常故。一切事應是如來。我及諸佛
+<lb ed="C" n="0135a16"/>皆所不欲。若非所作者。無所得故方
+<lb ed="C" n="0135a17"/>便則空。同於兔角般大之子。以無所
+<lb ed="C" n="0135a18"/>有故。大慧。若無事無因者則非有非
+<lb ed="C" n="0135a19"/>無。若非有非無則出於四句。四句者
+<lb ed="C" n="0135a20"/>是世間言說。若出四句者則不墯四
+<pb ed="C" xml:id="C097.1821.0135b" n="0135b"/>
+<lb ed="C" n="0135b01"/>句。不墯四句故智者所取。一切如來
+<lb ed="C" n="0135b02"/>句義亦如是。慧者當知。如我所說一
+<lb ed="C" n="0135b03"/>切法無我。當知此義無我性。是無我。</p></cb:div>
+<lb ed="C" n="0135b04"/><cb:div type="commentary"><p xml:id="pC097p0135b0401" rend="margin-left:1em"><note place="inline">佛說諸法無我以諸法中無有我性故說無我非是無有諸法自性故下
+<lb ed="C" n="0135b05"/>文云云</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0135b0504" rend="inline">一切法有自性無他性。如牛馬。
+<lb ed="C" n="0135b06"/>大慧。譬如非牛馬性。馬牛性。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0135b0612" rend="margin-left:1em;inline"><note place="inline">譬如牛無馬性
+<lb ed="C" n="0135b07"/>馬無牛性非無自性</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0135b0709" rend="inline">其實非有非無。彼非無自
+<lb ed="C" n="0135b08"/>相。如是大慧。一切諸法非無自相。有
+<lb ed="C" n="0135b09"/>自相。但非無我愚夫之所能知。以妄
+<lb ed="C" n="0135b10"/>想故。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0135b1003" rend="margin-left:1em;inline"><note place="inline">聲緣外道棄有墮空不離妄想故於諸法自相未能了知</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0135b1025" rend="inline">如
+<lb ed="C" n="0135b11"/>是一切法空。無生無自性。當如是知。</p></cb:div>
+<lb ed="C" n="0135b12"/><cb:div type="commentary"><p xml:id="pC097p0135b1201" rend="margin-left:1em"><note place="inline">謂若知此乃證空義</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0135b1209" rend="inline">如是如來與陰。非異非不
+<lb ed="C" n="0135b13"/>異。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0135b1302" rend="margin-left:1em;inline"><note place="inline">如來清淨法身與諸陰界無異不異之性相</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0135b1319" rend="inline">若不異陰者。
+<lb ed="C" n="0135b14"/>應是無常。若異者方便則空。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0135b1412" rend="margin-left:1em;inline"><note place="inline">若離陰即是斷
+<lb ed="C" n="0135b15"/>見</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0135b1502" rend="inline">若二者應有異。如牛角相似故不
+<lb ed="C" n="0135b16"/>異。長短差別故有異。一切法亦如是。</p></cb:div>
+<lb ed="C" n="0135b17"/><cb:div type="commentary"><p xml:id="pC097p0135b1701" rend="margin-left:1em"><note place="inline">非離陰而別有法身故如牛角之相似然以方便而成實相茲所以有差
+<lb ed="C" n="0135b18"/>別</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0135b1802" rend="inline">大慧。如牛右角異左角。左角異右
+<lb ed="C" n="0135b19"/>角。如是長短種種色各各異。大慧。如
+<lb ed="C" n="0135b20"/>來於陰界入。非異非不異。如是如來
+<pb ed="C" xml:id="C097.1821.0135c" n="0135c"/>
+<lb ed="C" n="0135c01"/>解脫。非異非不異。如是如來以解脫
+<lb ed="C" n="0135c02"/>名說。若如來異解脫者。應色相成。色
+<lb ed="C" n="0135c03"/>相成故應無常。若不異者。修行者得
+<lb ed="C" n="0135c04"/>相應無分別。而修行者見分別。是故
+<lb ed="C" n="0135c05"/>非異非不異。如是智及爾炎。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0135c0512" rend="margin-left:1em;inline"><note place="inline">謂之爾炎則因
+<lb ed="C" n="0135c06"/>物而起矣</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0135c0605" rend="inline">非異非不異。大慧。智及爾炎非
+<lb ed="C" n="0135c07"/>異非不異者。非常非無常。非作非所
+<lb ed="C" n="0135c08"/>作。非有為非無為。非覺非所覺。非相
+<lb ed="C" n="0135c09"/>非所相。非陰非異陰。非說非所說。非
+<lb ed="C" n="0135c10"/>一非異非俱非不俱。非一非異非俱
+<lb ed="C" n="0135c11"/>非不俱故。悉離一切量。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0135c1110" rend="margin-left:1em;inline"><note place="inline">見翳覺議是名為量</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0135c1118" rend="inline">離
+<lb ed="C" n="0135c12"/>一切量則無言說。無言說則無生。無
+<lb ed="C" n="0135c13"/>生則無滅。無滅則寂滅。寂滅則自性
+<lb ed="C" n="0135c14"/>涅槃。自性涅槃則無事無因。無事無
+<lb ed="C" n="0135c15"/>因則無攀緣。無攀緣則出過一切虛
+<lb ed="C" n="0135c16"/>偽。出過一切虛偽則是如來。如來則
+<lb ed="C" n="0135c17"/>是三藐三佛陀。大慧。是名三藐三佛
+<lb ed="C" n="0135c18"/>陀佛陀。三藐三佛陀佛陀者。離一切
+<lb ed="C" n="0135c19"/>根量。爾時世尊欲重宣此義而說偈
+<lb ed="C" n="0135c20"/>言。</p>
+<pb ed="C" xml:id="C097.1821.0136a" n="0136a"/>
+<lb ed="C" n="0136a01"/><lg xml:id="lgC097p0136a0101"><l>悉離諸根量</l><l>無事亦無因</l>
+<lb ed="C" n="0136a02"/><l><anchor xml:id="beg_7c" type="cb-app"/>已<anchor xml:id="end_7c"/>離覺所覺</l><l>亦離相所相</l>
+<lb ed="C" n="0136a03"/><l>陰緣等正覺</l><l>一異莫能見</l>
+<lb ed="C" n="0136a04"/><l>若無有見者</l><l>云何而分別</l>
+<lb ed="C" n="0136a05"/><l>非作非不作</l><l>非事亦非因</l>
+<lb ed="C" n="0136a06"/><l>非陰不在陰</l><l>亦非有餘雜</l>
+<lb ed="C" n="0136a07"/><l>亦非有諸性</l><l>如彼妄想見</l>
+<lb ed="C" n="0136a08"/><l>當知亦非無</l><l>此法法自爾</l>
+<lb ed="C" n="0136a09"/><l>以有故有無</l><l>以無故有有</l>
+<lb ed="C" n="0136a10"/><l>若無不應受</l><l>若有不應想</l>
+<lb ed="C" n="0136a11"/><l>或於我非我</l><l>言說量流連</l>
+<lb ed="C" n="0136a12"/><l>沉溺於二邊</l><l>自壞壞世間</l>
+<lb ed="C" n="0136a13"/><l>解脫一切過</l><l>正觀察我通</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0136a1311" rend="margin-left:1em;inline"><note place="inline">我通
+<lb ed="C" n="0136a14"/>即無我是也</note>。</p></cb:div>
+<lb ed="C" n="0136a15"/><cb:div type="orig"><lg xml:id="lgC097p0136a1501"><l>是名為正觀</l><l>不毀大導師</l></lg></cb:div>
+<lb ed="C" n="0136a16"/><cb:div type="commentary"><p xml:id="pC097p0136a1601" rend="margin-left:1em"><note place="inline">頌曰佛陀實際絕行蹤非事非因蔑異同根量兩頭俱截斷逈然忘照若虛空</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0136a17"/><cb:div type="other"><cb:mulu type="其他" level="2">不生不滅離言說分第五十九</cb:mulu><head>不生不滅離言說分第五十九</head>
+<lb ed="C" n="0136a18"/><cb:div type="orig"><p xml:id="pC097p0136a1801">爾時大慧菩薩復白佛言世尊。如世
+<lb ed="C" n="0136a19"/>尊說修多羅。攝受不生不滅。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0136a1912" rend="margin-left:1em;inline"><note place="inline">梵語多羅此間契經
+<lb ed="C" n="0136a20"/>謂經中攝受不生不滅之說</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0136a2012" rend="inline">又世尊說不生不滅是
+<pb ed="C" xml:id="C097.1821.0136b" n="0136b"/>
+<lb ed="C" n="0136b01"/>如來異名。云何世尊。為無性故說不
+<lb ed="C" n="0136b02"/>生不滅。為是如來異名。佛告大慧。我
+<lb ed="C" n="0136b03"/>說一切法不生不滅。有無品不現。大
+<lb ed="C" n="0136b04"/>慧白佛言世尊。若一切法不生者。則
+<lb ed="C" n="0136b05"/>攝受法不可得。一切法不生故。若名字
+<lb ed="C" n="0136b06"/>中有法者。唯願為說。佛告大慧。善哉
+<lb ed="C" n="0136b07"/>善哉。諦聽諦聽。善思念之。吾當為汝
+<lb ed="C" n="0136b08"/>分別解說。大慧白佛言。唯然受教。</p>
+<lb ed="C" n="0136b09"/><p xml:id="pC097p0136b0901">佛告大慧。我說如來非無性。亦非不
+<lb ed="C" n="0136b10"/>生不滅。攝一切法亦不待緣故。不生
+<lb ed="C" n="0136b11"/>不滅亦非無義。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0136b1107" rend="margin-left:1em;inline"><note place="inline">不生不滅若無實義即斷見也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0136b1119" rend="inline">大慧。
+<lb ed="C" n="0136b12"/>我說意生法身。如來名號。彼不生者。</p></cb:div>
+<lb ed="C" n="0136b13"/><cb:div type="commentary"><p xml:id="pC097p0136b1301" rend="margin-left:1em"><note place="inline">謂之意生雖生而未甞生乃是不生者</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0136b1316" rend="inline">一切外道聲聞緣
+<lb ed="C" n="0136b14"/>覺七住菩薩非其境界。大慧。彼不生
+<lb ed="C" n="0136b15"/>即如來異名。譬如因陁羅釋迦不蘭
+<lb ed="C" n="0136b16"/>陁羅。如是等諸物。亦各有多名。亦非
+<lb ed="C" n="0136b17"/>多名而有多性。亦非無自性。如是大
+<lb ed="C" n="0136b18"/>慧。我於此娑呵世界。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0136b1809" rend="margin-left:1em;inline"><note place="inline">娑呵釋言能忍</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0136b1815" rend="inline">有三阿
+<lb ed="C" n="0136b19"/>僧祇百千名號。愚夫悉聞。各說我名
+<lb ed="C" n="0136b20"/>而不解我如來異名。大慧。或有眾生
+<pb ed="C" xml:id="C097.1821.0136c" n="0136c"/>
+<lb ed="C" n="0136c01"/>知我如來者。有知一切智者。有知佛
+<lb ed="C" n="0136c02"/>者。有知救世者有知自覺者。有知導
+<lb ed="C" n="0136c03"/>師者。有知廣導者。有知一切導者。有
+<lb ed="C" n="0136c04"/>知仙人者。有知梵者。有知毗紐者。有
+<lb ed="C" n="0136c05"/>知自在者。有知勝者。有知迦毗羅者。
+<lb ed="C" n="0136c06"/>有知真實邊者。有知月者。有知日者。
+<lb ed="C" n="0136c07"/>有知主者。有知無生者。有知無滅者
+<lb ed="C" n="0136c08"/>有知空者。有知如如者。有知諦者。有
+<lb ed="C" n="0136c09"/>知實際者。有知法性者。有知涅槃者。
+<lb ed="C" n="0136c10"/>有知常者。有知平等者。有知不二者。
+<lb ed="C" n="0136c11"/>有知無相者。有知解脫者。有知道者
+<lb ed="C" n="0136c12"/>有知意生者。大慧。如是等三阿僧祇
+<lb ed="C" n="0136c13"/>百千名號。不增不減。此及餘世界。皆
+<lb ed="C" n="0136c14"/>悉知我如水中月不出不入。彼諸愚
+<lb ed="C" n="0136c15"/>夫不能知我。墮二邊故。然悉恭敬供
+<lb ed="C" n="0136c16"/>養於我。而不善解知詞句義趣。不分
+<lb ed="C" n="0136c17"/>別名。不解自通。計著種種言說章句。
+<lb ed="C" n="0136c18"/>於不生不滅作無性想。不知如來名
+<lb ed="C" n="0136c19"/>號差別如因陁羅釋迦不蘭陁羅不
+<lb ed="C" n="0136c20"/>解自通會歸終極。於一切法隨說計
+<pb ed="C" xml:id="C097.1821.0137a" n="0137a"/>
+<lb ed="C" n="0137a01"/>著。大慧。彼諸癡人作如是言義。如言
+<lb ed="C" n="0137a02"/>說義說無異。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0137a0206" rend="margin-left:1em;inline"><note place="inline">謂彼義說不知自通亦如言說</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0137a0218" rend="inline">所以者何。
+<lb ed="C" n="0137a03"/>謂義無身故。言說之外更無餘義。惟
+<lb ed="C" n="0137a04"/>止言說。大慧。彼惡燒智。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0137a0410" rend="margin-left:1em;inline"><note place="inline">惡能滅慧如燒物然</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0137a0418" rend="inline">不知
+<lb ed="C" n="0137a05"/>言說自性。不知言說生滅義不生滅。大
+<lb ed="C" n="0137a06"/>慧。一切言說墮於文字。義則不墮。離性
+<lb ed="C" n="0137a07"/>非性故。無受生。亦無身。大慧。如來不說
+<lb ed="C" n="0137a08"/>墮文字法。文字有無不可得故。除不墮
+<lb ed="C" n="0137a09"/>文字。大慧。若有說言如來說墮文字法
+<lb ed="C" n="0137a10"/>者。此則妄說。法離文字故。是故我等諸
+<lb ed="C" n="0137a11"/>佛及諸菩薩。不說一字。不荅一字。所以
+<lb ed="C" n="0137a12"/>者何。法離文字故。非不饒益義說。言說
+<lb ed="C" n="0137a13"/>者眾生妄想故。大慧。若不說一切法者。
+<lb ed="C" n="0137a14"/>教法則壞。教法壞者則無諸佛菩薩緣
+<lb ed="C" n="0137a15"/>覺聲聞。若無者誰說為誰。是故菩薩
+<lb ed="C" n="0137a16"/>摩訶薩莫著言說。隨冝方便廣說經
+<lb ed="C" n="0137a17"/>法。以眾生希望煩惱不一故我及諸佛
+<lb ed="C" n="0137a18"/>為彼種種異解眾生而說諸法。令離
+<lb ed="C" n="0137a19"/>心意意識故。不為得自覺聖智處。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0137a1914" rend="margin-left:1em;inline"><note place="inline">於聖
+<lb ed="C" n="0137a20"/>智言處以別聖智不在言說</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0137a2012" rend="inline">大慧。於一切法無所
+<pb ed="C" xml:id="C097.1821.0137b" n="0137b"/>
+<lb ed="C" n="0137b01"/>有。覺自心現量。離二妄想。諸菩薩摩
+<lb ed="C" n="0137b02"/>訶薩依於義不依文字。若善男子善
+<lb ed="C" n="0137b03"/>女人依文字者。自壞第一義。亦不能
+<lb ed="C" n="0137b04"/>覺他。墯惡見相續而為眾說。不善了
+<lb ed="C" n="0137b05"/>知一切法一切地一切相。亦不知章
+<lb ed="C" n="0137b06"/>句。若善一切法一切地一切相。通達
+<lb ed="C" n="0137b07"/>章句。具足性義。彼則能以正無相樂
+<lb ed="C" n="0137b08"/>而自娛樂。平等大乘建立眾生。大慧。
+<lb ed="C" n="0137b09"/>攝受大乘者。則攝受諸佛菩薩緣覺
+<lb ed="C" n="0137b10"/>聲聞。攝受諸佛菩薩緣覺聲聞者。則
+<lb ed="C" n="0137b11"/>攝受一切眾生。攝受一切眾生者。則
+<lb ed="C" n="0137b12"/>攝受正法。攝受正法者。則佛種不斷。
+<lb ed="C" n="0137b13"/>佛種不斷者。則能了知得殊勝入處。
+<lb ed="C" n="0137b14"/>知得殊勝入處菩薩摩訶薩。常得化
+<lb ed="C" n="0137b15"/>生建立大乘。十自在力現眾色像。通
+<lb ed="C" n="0137b16"/>達眾生形類希望煩惱諸相。如實說
+<lb ed="C" n="0137b17"/>法。如實者不異。如實者不來不去相。
+<lb ed="C" n="0137b18"/>一切虛偽息。是名如實。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0137b1810" rend="margin-left:1em;inline"><note place="inline">謂之如實以明其非有是
+<lb ed="C" n="0137b19"/>相</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0137b1902" rend="inline">大慧。善男子善女子不應攝受隨
+<lb ed="C" n="0137b20"/>說計著。真實者離名字故。大慧。如為
+<pb ed="C" xml:id="C097.1821.0137c" n="0137c"/>
+<lb ed="C" n="0137c01"/>愚夫以指指物。愚夫觀指。不得實義。
+<lb ed="C" n="0137c02"/>如是愚夫隨言說攝受計著。至竟不
+<lb ed="C" n="0137c03"/>捨。終不能得離言說指第一實義。譬
+<lb ed="C" n="0137c04"/>如嬰兒。應食熟食。不應食生。若食生
+<lb ed="C" n="0137c05"/>者則令發狂。不知次第方便熟故。大
+<lb ed="C" n="0137c06"/>慧。如是不生不滅。不方便修則為不
+<lb ed="C" n="0137c07"/>善。是故應當善修方便。莫隨言說如
+<lb ed="C" n="0137c08"/>視指端。是故大慧。於真實義當方便
+<lb ed="C" n="0137c09"/>修。真實義者。微妙寂靜。是涅槃因。言
+<lb ed="C" n="0137c10"/>說者妄想合。妄想者集生死。大慧。真
+<lb ed="C" n="0137c11"/>實義者從多聞者得。多聞者謂善於
+<lb ed="C" n="0137c12"/>義。非善言說。善義者不隨一切外道
+<lb ed="C" n="0137c13"/>經論。身自不隨。亦不令他隨。是則名
+<lb ed="C" n="0137c14"/>曰大德多聞。是故欲求義者。當親近
+<lb ed="C" n="0137c15"/>多聞所謂善義。與此相違計著言說。
+<lb ed="C" n="0137c16"/>應當遠離。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0137c1605" rend="margin-left:1em;inline"><note place="inline">頌曰如來境界豈容聲苦口紛紛為眾情離說離言
+<lb ed="C" n="0137c17"/>方合道不生不滅只空名真心出入波中月法相縱橫鑑裏形實際義中
+<lb ed="C" n="0137c18"/>無一字涅槃生死坦然乎</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0137c19"/><cb:div type="other"><cb:mulu type="其他" level="2">袪外道不生不滅分第六十</cb:mulu><head>袪外道不生不滅分第六十</head>
+<lb ed="C" n="0137c20"/><cb:div type="orig"><p xml:id="pC097p0137c2001">爾時大慧菩薩復承佛威神而白佛
+<pb ed="C" xml:id="C097.1821.0138a" n="0138a"/>
+<lb ed="C" n="0138a01"/>言世尊。世尊顯示不生不滅。無有奇
+<lb ed="C" n="0138a02"/>特。所以者何。一切外道因。亦不生不
+<lb ed="C" n="0138a03"/>滅。世尊亦說虛空非數緣滅及涅槃
+<lb ed="C" n="0138a04"/>界不生不滅。外道說因生諸世間。世
+<lb ed="C" n="0138a05"/>尊亦說無明愛業妄想為緣生諸世
+<lb ed="C" n="0138a06"/>間。彼因此緣。名差別耳。外物因緣亦
+<lb ed="C" n="0138a07"/>如是。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0138a0703" rend="margin-left:1em;inline"><note place="inline">言外物則以別無明愛業者內也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0138a0716" rend="inline">如是世尊與
+<lb ed="C" n="0138a08"/>外道論無有差別。微塵勝妙自在眾
+<lb ed="C" n="0138a09"/>生主等如是九物不生不滅。世尊亦
+<lb ed="C" n="0138a10"/>說一切性不生不滅有無不可得。外
+<lb ed="C" n="0138a11"/>道亦說四大不壞。自性不生不滅。四
+<lb ed="C" n="0138a12"/>大常。是四大。乃至周流諸趣不捨自
+<lb ed="C" n="0138a13"/>性。世尊所說亦復如是。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0138a1310" rend="margin-left:1em;inline"><note place="inline">外道分別諸大佛亦分別
+<lb ed="C" n="0138a14"/>諸大</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0138a1403" rend="inline">是故我言無有奇特。惟願世尊為
+<lb ed="C" n="0138a15"/>說差別。所以奇特勝諸外道。若無差
+<lb ed="C" n="0138a16"/>別者。一切外道皆亦是佛。以不生不
+<lb ed="C" n="0138a17"/>滅故。而世尊說一世界中多佛出世
+<lb ed="C" n="0138a18"/>者。無有是處。如向所說一世界中應
+<lb ed="C" n="0138a19"/>有多佛。無差別故。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0138a1908" rend="margin-left:1em;inline"><note place="inline">大慧謂佛不可多得故言無有是處
+<lb ed="C" n="0138a20"/>若言多佛豈外道亦是佛而佛與外道更無差別耶</note>。</p></cb:div>
+<pb ed="C" xml:id="C097.1821.0138b" n="0138b"/>
+<lb ed="C" n="0138b01"/><cb:div type="orig"><p xml:id="pC097p0138b0101">佛告大慧。我說不生不滅不同外道
+<lb ed="C" n="0138b02"/>不生不滅。所以者何。彼諸外道有性
+<lb ed="C" n="0138b03"/>自性。得不生不變相。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0138b0309" rend="margin-left:1em;inline"><note place="inline">此性自性謂自立不變之性相</note>。</p></cb:div>
+<lb ed="C" n="0138b04"/><cb:div type="orig"><p xml:id="pC097p0138b0401">我不如是墯有無品。大慧。我者離有
+<lb ed="C" n="0138b05"/>無品。離生滅。非性非無性。如種種幻
+<lb ed="C" n="0138b06"/>夢現故非無性。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0138b0607" rend="margin-left:1em;inline"><note place="inline">佛說無性但如幻夢而<anchor xml:id="beg_7d" type="cb-app"/>已<anchor xml:id="end_7d"/>既不著有亦不
+<lb ed="C" n="0138b07"/>墯空故下文云云</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0138b0708" rend="inline">云何無性。謂色無自性相。
+<lb ed="C" n="0138b08"/>攝受現不現故。攝不攝故。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0138b0811" rend="margin-left:1em;inline"><note place="inline">色本無自性但人攝
+<lb ed="C" n="0138b09"/>受與不攝受現與不現乃有或有或無之見</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0138b0918" rend="inline">以是故一切
+<lb ed="C" n="0138b10"/>性無性非無性。但覺自心現量。妄想
+<lb ed="C" n="0138b11"/>不生。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0138b1103" rend="margin-left:1em;inline"><note place="inline">謂之無性非同斷見但覺自心現量而妄想不生則自無性矣</note>。</p></cb:div>
+<lb ed="C" n="0138b12"/><cb:div type="orig"><p xml:id="pC097p0138b1201">安隱快樂。世事永息。愚癡凡夫妄想
+<lb ed="C" n="0138b13"/>作事非諸聖賢。不實妄想如楗闥婆
+<lb ed="C" n="0138b14"/>城及幻化人。大慧。如楗闥婆城及幻
+<lb ed="C" n="0138b15"/>化人。種種眾生商賈出入。愚夫妄想
+<lb ed="C" n="0138b16"/>謂真出入。而實無有出者入者。但彼
+<lb ed="C" n="0138b17"/>妄想故。如是大慧。愚癡凡夫起不生
+<lb ed="C" n="0138b18"/>不滅惑。彼亦無有有為無為。如幻人
+<lb ed="C" n="0138b19"/>生。其實無有若生若滅。性無性無所
+<lb ed="C" n="0138b20"/>有故。一切法亦復如是離於生滅。愚
+<pb ed="C" xml:id="C097.1821.0138c" n="0138c"/>
+<lb ed="C" n="0138c01"/>癡凡夫墯不如實。起生滅妄想。非諸
+<lb ed="C" n="0138c02"/>聖賢不如實者。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0138c0207" rend="margin-left:1em;inline"><note place="inline">聖賢不除妄想亦不如實然不起生滅想
+<lb ed="C" n="0138c03"/>與凡夫異</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0138c0305" rend="inline">不爾。如性自性。妄想亦不異。若
+<lb ed="C" n="0138c04"/>異妄想者。計著一切性自性。不見寂
+<lb ed="C" n="0138c05"/>靜。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0138c0502" rend="margin-left:1em;inline"><note place="inline">不爾者異前之辭也如來於一切性自性如之而<anchor xml:id="beg_7e" type="cb-app"/>已<anchor xml:id="end_7e"/>於妄想未甞有
+<lb ed="C" n="0138c06"/>異之之念</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0138c0605" rend="inline">不見寂靜者。終不離妄想。是故
+<lb ed="C" n="0138c07"/>大慧。無相見勝。非相見相者受生因
+<lb ed="C" n="0138c08"/>故不勝。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0138c0804" rend="margin-left:1em;inline"><note place="inline">見無相者名為勝相若非相而見有相則不斷有生之因
+<lb ed="C" n="0138c09"/>故為不勝</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0138c0905" rend="inline">無相者。妄想不生。不起不滅。我
+<lb ed="C" n="0138c10"/>說涅槃。大慧。涅槃者。如真實義見。離
+<lb ed="C" n="0138c11"/>先妄想心心數法。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0138c1108" rend="margin-left:1em;inline"><note place="inline">如真實義見則雖見而無所見心心
+<lb ed="C" n="0138c12"/>數法悉皆離之盖如來涅槃如實印所印無起滅之性相故也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0138c1225" rend="inline">逮得
+<lb ed="C" n="0138c13"/>如來自覺聖智。我說是涅槃。爾時世
+<lb ed="C" n="0138c14"/>尊欲重宣此義而說偈言。</p>
+<lb ed="C" n="0138c15"/><lg xml:id="lgC097p0138c1501"><l>滅除彼生論</l><l>建立不生義</l>
+<lb ed="C" n="0138c16"/><l>我說如是法</l><l>愚夫不能知</l>
+<lb ed="C" n="0138c17"/><l>一切法不生</l><l>無性無所有</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0138c1711" rend="margin-left:1em;inline"><note place="inline">亦非無性</note>。</p></cb:div>
+<lb ed="C" n="0138c18"/><cb:div type="orig"><lg xml:id="lgC097p0138c1801"><l>乾闥婆幻夢</l><l>有性者無因</l>
+<lb ed="C" n="0138c19"/><l>不生無自性</l><l>何因空當說</l>
+<lb ed="C" n="0138c20"/><l>以離於和合</l><l>覺知性不現</l>
+<pb ed="C" xml:id="C097.1821.0139a" n="0139a"/>
+<lb ed="C" n="0139a01"/><l>是故空不生</l><l>我說無自性</l>
+<lb ed="C" n="0139a02"/><l>謂一一和合</l><l>性現而非有</l>
+<lb ed="C" n="0139a03"/><l>分析無和合</l><l>非如外道見</l>
+<lb ed="C" n="0139a04"/><l>夢幻及垂髮</l><l>野馬乾闥婆</l>
+<lb ed="C" n="0139a05"/><l>世間種種事</l><l>無因而相現</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0139a0511" rend="margin-left:1em;inline"><note place="inline">謂本
+<lb ed="C" n="0139a06"/>無因惟心所現</note>。</p></cb:div>
+<lb ed="C" n="0139a07"/><cb:div type="orig"><lg xml:id="lgC097p0139a0701"><l>折伏有因論</l><l>申暢無生義</l>
+<lb ed="C" n="0139a08"/><l>申暢無生者</l><l>法流永不斷</l>
+<lb ed="C" n="0139a09"/><l>熾然無因論</l><l>恐怖諸外道</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0139a0911" rend="margin-left:1em;inline"><note place="inline">或說
+<lb ed="C" n="0139a10"/>無因以恐怖外道文</note>。</p></cb:div>
+<lb ed="C" n="0139a11"/><cb:div type="orig"><p xml:id="pC097p0139a1101">爾時大慧以偈問曰。</p>
+<lb ed="C" n="0139a12"/><lg xml:id="lgC097p0139a1201"><l>云何何所因</l><l>彼以何故生</l>
+<lb ed="C" n="0139a13"/><l>於何處和合</l><l>而作無因論</l></lg>
+<lb ed="C" n="0139a14"/><p xml:id="pC097p0139a1401">爾時世尊復以偈荅。</p>
+<lb ed="C" n="0139a15"/><lg xml:id="lgC097p0139a1501"><l>觀察有為法</l><l>非無因有因</l>
+<lb ed="C" n="0139a16"/><l>彼生滅論者</l><l>所見從是滅</l></lg>
+<lb ed="C" n="0139a17"/><p xml:id="pC097p0139a1701">爾時大慧說偈問曰。</p>
+<lb ed="C" n="0139a18"/><lg xml:id="lgC097p0139a1801"><l>云何為無生</l><l>為是無性耶</l>
+<lb ed="C" n="0139a19"/><l>為顧視諸緣</l><l>有法名無生</l>
+<lb ed="C" n="0139a20"/><l>名不應無義</l><l>惟為分別說</l></lg>
+<pb ed="C" xml:id="C097.1821.0139b" n="0139b"/>
+<lb ed="C" n="0139b01"/><p xml:id="pC097p0139b0101">爾時世尊復以偈荅。</p>
+<lb ed="C" n="0139b02"/><lg xml:id="lgC097p0139b0201"><l>非無性無生</l><l>亦非顧諸緣</l>
+<lb ed="C" n="0139b03"/><l>非有性而名</l><l>名亦非無義</l>
+<lb ed="C" n="0139b04"/><l>一切諸外道</l><l>聲聞及緣覺</l>
+<lb ed="C" n="0139b05"/><l>七住非境界</l><l>是名無生相</l>
+<lb ed="C" n="0139b06"/><l>遠離諸因緣</l><l>亦離一切事</l>
+<lb ed="C" n="0139b07"/><l>唯有微心住</l><l>想所想俱離</l>
+<lb ed="C" n="0139b08"/><l>其身隨轉變</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0139b0806" rend="margin-left:1em;inline"><note place="inline">謂轉所依</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgC097p0139b0810" cb:place="inline"><l>我說是無生</l></lg>
+<lb ed="C" n="0139b09"/>　無外性無性</cb:div><cb:div type="commentary"><p xml:id="pC097p0139b0906" rend="margin-left:1em;inline"><note place="inline">亦無無性</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgC097p0139b0910" cb:place="inline"><l>亦無心攝受</l></lg>
+<lb ed="C" n="0139b10"/><lg xml:id="lgC097p0139b1001"><l>斷除一切見</l><l>我說是無生</l>
+<lb ed="C" n="0139b11"/><l>如是無自性</l><l>空等應分別</l>
+<lb ed="C" n="0139b12"/><l>非空故說空</l><l>無生故說空</l>
+<lb ed="C" n="0139b13"/><l>因緣數和合</l><l>則有生有滅</l>
+<lb ed="C" n="0139b14"/><l>離諸因緣數</l><l>無別有生滅</l>
+<lb ed="C" n="0139b15"/><l>捨離因緣數</l><l>更無有異性</l>
+<lb ed="C" n="0139b16"/><l>若言一異者</l><l>是外道妄想</l>
+<lb ed="C" n="0139b17"/><l>有無性不生</l><l>非有亦非無</l>
+<lb ed="C" n="0139b18"/><l>除其數轉變</l><l>是悉不可得</l>
+<lb ed="C" n="0139b19"/><l>但有諸俗數</l><l>展轉為鉤鏁</l>
+<lb ed="C" n="0139b20"/><l>離彼因緣鏁</l><l>生義不可得</l>
+<pb ed="C" xml:id="C097.1821.0139c" n="0139c"/>
+<lb ed="C" n="0139c01"/><l>生無性不起</l><l>離諸外道過</l>
+<lb ed="C" n="0139c02"/><l>但說緣鉤鏁</l><l>凡愚不能了</l>
+<lb ed="C" n="0139c03"/><l>若離緣鉤鏁</l><l>別有生性者</l>
+<lb ed="C" n="0139c04"/><l>是則無因論</l><l>破壞鉤鏁義</l>
+<lb ed="C" n="0139c05"/><l>如燈顯眾像</l><l>鉤鏁現若然</l>
+<lb ed="C" n="0139c06"/><l>是則離鉤鏁</l><l>別更有諸性</l>
+<lb ed="C" n="0139c07"/><l>無性無有生</l><l>如虛空自性</l>
+<lb ed="C" n="0139c08"/><l>若離於鉤鏁</l><l>慧無所分別</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0139c0811" rend="margin-left:1em;inline"><note place="inline">離鉤
+<lb ed="C" n="0139c09"/>鏁而求法愚夫所分別爾</note>。</p></cb:div>
+<lb ed="C" n="0139c10"/><cb:div type="orig"><lg xml:id="lgC097p0139c1001"><l>復有餘無生</l><l>賢聖所得法</l>
+<lb ed="C" n="0139c11"/><l>彼生無生者</l><l>是則無生忍</l>
+<lb ed="C" n="0139c12"/><l>若使諸世間</l><l>觀察鉤鏁者</l>
+<lb ed="C" n="0139c13"/><l>一切離鉤鏁</l><l>從是得三昧</l>
+<lb ed="C" n="0139c14"/><l>癡愛諸業等</l><l>是則內鉤鏁</l>
+<lb ed="C" n="0139c15"/><l>鑽燧泥團輪</l><l>種子等名外</l>
+<lb ed="C" n="0139c16"/><l>若使有他性</l><l>而從因緣生</l>
+<lb ed="C" n="0139c17"/><l>彼非鉤鏁義</l><l>是則不成就</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0139c1711" rend="margin-left:1em;inline"><note place="inline">謂非聖智</note>。</p></cb:div>
+<lb ed="C" n="0139c18"/><cb:div type="orig"><lg xml:id="lgC097p0139c1801"><l>若生無自性</l><l>彼為誰鉤鏁</l>
+<lb ed="C" n="0139c19"/><l>展轉相生故</l><l>當知因緣義</l>
+<lb ed="C" n="0139c20"/><l>堅濕煖動法</l><l>凡愚生妄想</l>
+<pb ed="C" xml:id="C097.1821.0140a" n="0140a"/>
+<lb ed="C" n="0140a01"/><l>離數無異法</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0140a0106" rend="margin-left:1em;inline"><note place="inline">謂離鏁更無別法</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgC097p0140a0113" cb:place="inline"><l>是則說無性</l></lg>
+<lb ed="C" n="0140a02"/><lg xml:id="lgC097p0140a0201"><l>如醫療眾病</l><l>無有若干論</l>
+<lb ed="C" n="0140a03"/><l>以病差別法</l><l>為說種種治</l>
+<lb ed="C" n="0140a04"/><l>我為彼眾生</l><l>破壞諸煩惱</l>
+<lb ed="C" n="0140a05"/><l>知其根優劣</l><l>為彼說度門</l>
+<lb ed="C" n="0140a06"/><l>非煩惱根異</l><l>而有種種法</l>
+<lb ed="C" n="0140a07"/><l>唯說一乘法</l><l>是則為大乘</l></lg></cb:div>
+<lb ed="C" n="0140a08"/><cb:div type="commentary"><p xml:id="pC097p0140a0801" rend="margin-left:1em"><note place="inline">頌曰不生不滅義如如外道如何辨等殊只為立名兼立相遂令歸有或歸無
+<lb ed="C" n="0140a09"/>一靈妙覺波還水萬種塵緣雪在爐如實界中亡取捨更無真妄可名模</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0140a10"/><cb:div type="other"><cb:mulu type="其他" level="2">袪外道七無常見分第六十一</cb:mulu><head>袪外道七無常見分第六十一</head>
+<lb ed="C" n="0140a11"/><cb:div type="orig"><p xml:id="pC097p0140a1101">爾時大慧菩薩復白佛言世尊。一切
+<lb ed="C" n="0140a12"/>外道皆起無常妄想。世尊亦說一切
+<lb ed="C" n="0140a13"/>行無常是生滅法。此義云何。為邪為
+<lb ed="C" n="0140a14"/>正。為有幾種無常。</p>
+<lb ed="C" n="0140a15"/><p xml:id="pC097p0140a1501">佛告大慧。一切外道有七種無常。非
+<lb ed="C" n="0140a16"/>我法也。何等為七。彼有說言。作<anchor xml:id="beg_7f" type="cb-app"/>已<anchor xml:id="end_7f"/>而
+<lb ed="C" n="0140a17"/>捨。是名無常。有說形處壞。是名無常。
+<lb ed="C" n="0140a18"/>有說即色是無常。有說色轉變中間。
+<lb ed="C" n="0140a19"/>是名無常。無間自之散壞。如乳酪等
+<lb ed="C" n="0140a20"/>轉變。中間不可見。無常毀壞一切性
+<pb ed="C" xml:id="C097.1821.0140b" n="0140b"/>
+<lb ed="C" n="0140b01"/>轉。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0140b0102" rend="margin-left:1em;inline"><note place="inline">即色言色之相色轉變言色之性故別立此句一切色相轉變無窮
+<lb ed="C" n="0140b02"/>而其中間轉變之性不住散壞莫見其迹若乳變為酪是謂色轉變無常
+<lb ed="C" n="0140b03"/>也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0140b0302" rend="inline">有說性無常。有說性無性無常。有
+<lb ed="C" n="0140b04"/>說一切法不生無常入一切法。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0140b0413" rend="margin-left:1em;inline"><note place="inline">以本不生
+<lb ed="C" n="0140b05"/>而復生一切法是以不生而入生也以不生而入生故云不生無常入一
+<lb ed="C" n="0140b06"/>切法</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0140b0603" rend="inline">大慧。性無性無常者。謂四大及所
+<lb ed="C" n="0140b07"/>造自相壞。四大自性不可得不生。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0140b0714" rend="margin-left:1em;inline"><note place="inline">外道
+<lb ed="C" n="0140b08"/>謂四大相壞而四大自性不生不可得故言性無性無常</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0140b0823" rend="inline">彼不生
+<lb ed="C" n="0140b09"/>無常者。非常無常。一切法有無不生。
+<lb ed="C" n="0140b10"/>分析乃至微塵不可見。是不生義非
+<lb ed="C" n="0140b11"/>生。是名不生無常相。若不覺此者。墯
+<lb ed="C" n="0140b12"/>一切外道生無常義。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0140b1209" rend="margin-left:1em;inline"><note place="inline">外道分析一切法皆不生故自
+<lb ed="C" n="0140b13"/>立不生之相乃有不生無常之句若不覺此則是於不生中而反有生</note>。</p></cb:div>
+<lb ed="C" n="0140b14"/><cb:div type="orig"><p xml:id="pC097p0140b1401">大慧。性無常者。是自心妄想。非常無
+<lb ed="C" n="0140b15"/>常性。所以者何。謂無常自性不壞。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0140b1514" rend="margin-left:1em;inline"><note place="inline">立無
+<lb ed="C" n="0140b16"/>常性者謂無常自不壞滅而能壞滅諸法故下文云云</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0140b1622" rend="inline">大慧。此
+<lb ed="C" n="0140b17"/>是一切性無性無常事。除無常無有
+<lb ed="C" n="0140b18"/>能令一切法性無性者。如杖瓦石破
+<lb ed="C" n="0140b19"/>壞諸物。現見各各不異。是性無常事。
+<lb ed="C" n="0140b20"/>非作所作有差別。此是無常。此是事。
+<pb ed="C" xml:id="C097.1821.0140c" n="0140c"/>
+<lb ed="C" n="0140c01"/>作所作無異者。一切性常無因性。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0140c0114" rend="margin-left:1em;inline"><note place="inline">立無
+<lb ed="C" n="0140c02"/>常性者將以壞滅一切法性令皆無性如以杖瓦石等破壞諸物令各歸
+<lb ed="C" n="0140c03"/>壞滅所謂無常事也彼盖不知作者在乎心也所作者事物之有相也作
+<lb ed="C" n="0140c04"/>與所作不同而外道謂非有差別皆欲歸於無常故曰性無常者是自心
+<lb ed="C" n="0140c05"/>妄想</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0140c0503" rend="inline">大慧。一切性無性有因。非凡愚所
+<lb ed="C" n="0140c06"/>知。非因不相似事生。若生者。一切性
+<lb ed="C" n="0140c07"/>悉皆無常。是不相似事。作所作無有
+<lb ed="C" n="0140c08"/>別異而悉見有異。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0140c0808" rend="margin-left:1em;inline"><note place="inline">性無性因自心現非因不相似事而
+<lb ed="C" n="0140c09"/>生若不深探其因心所現而云因不相似事是著一切色相而見一切性
+<lb ed="C" n="0140c10"/>皆無常矣若是則向之外道所謂作所作無有別異而今於一切色相悉
+<lb ed="C" n="0140c11"/>見有異</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0140c1104" rend="inline">若性無常者。墮作因性相。若墮
+<lb ed="C" n="0140c12"/>者。一切性不究竟。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0140c1208" rend="margin-left:1em;inline"><note place="inline">真空無作無因立無常性以破壞一
+<lb ed="C" n="0140c13"/>切色相是有作也因一切不相似色相而壞滅之是有因也以其溺於性
+<lb ed="C" n="0140c14"/>相故曰不究竟</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0140c1407" rend="inline">一切性作因相墯者。自無常
+<lb ed="C" n="0140c15"/>應無常。無常無常故。一切性不無常。
+<lb ed="C" n="0140c16"/>應是常。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0140c1604" rend="margin-left:1em;inline"><note place="inline">墯作因相則無常自性與物俱轉亦無常夫自無常故一
+<lb ed="C" n="0140c17"/>切性相皆應是常</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0140c1708" rend="inline">若無常入一切性者。應墮
+<lb ed="C" n="0140c18"/>二世。彼過去色與壞俱。未來不生。色
+<lb ed="C" n="0140c19"/>不生故。現在色與壞相俱。色者四大
+<lb ed="C" n="0140c20"/>積集差別。四大及造色自性不壞。離
+<pb ed="C" xml:id="C097.1821.0141a" n="0141a"/>
+<lb ed="C" n="0141a01"/>異不異故。一切外道一切四大不壞
+<lb ed="C" n="0141a02"/>一切三有四大及造色。在所知。有生
+<lb ed="C" n="0141a03"/>滅。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0141a0302" rend="margin-left:1em;inline"><note place="inline">大種造色非異非不異其自性亦不壞彼外道不滅諸大以三界依
+<lb ed="C" n="0141a04"/>四大及微塵等是故隨彼所知說生住滅</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0141a0417" rend="inline">離四大造色。一
+<lb ed="C" n="0141a05"/>切外道於何所思惟性無常。四大不
+<lb ed="C" n="0141a06"/>生。自性相不壞故。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0141a0608" rend="margin-left:1em;inline"><note place="inline">外道虛妄分別謂離四大諸塵等法
+<lb ed="C" n="0141a07"/>更有無常是故說言諸大不生以自性相常不壞故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0141a0721" rend="inline">離始造無
+<lb ed="C" n="0141a08"/>常者。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0141a0803" rend="margin-left:1em;inline"><note place="inline">謂作<anchor xml:id="beg_80" type="cb-app"/>已<anchor xml:id="end_80"/>而捨也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0141a0809" rend="inline">非四大。復有異。四大各
+<lb ed="C" n="0141a09"/>各異相自相故。非差別可得。彼無差
+<lb ed="C" n="0141a10"/>別。斯等不更造。二方便不作。當知是
+<lb ed="C" n="0141a11"/>無常。彼形處壞無常者。謂四大及造
+<lb ed="C" n="0141a12"/>色不壞。至竟不壞。大慧。竟者分析乃
+<lb ed="C" n="0141a13"/>至微塵。觀察壞四大及造色。形處異
+<lb ed="C" n="0141a14"/>見長短不可得。非四大。四大不壞形
+<lb ed="C" n="0141a15"/>處壞現。墯在數論。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0141a1508" rend="margin-left:1em;inline"><note place="inline">外道以四大造色不壞分析乃至微
+<lb ed="C" n="0141a16"/>塵但滅形狀長短異見不滅四大造色故墯世論</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0141a1620" rend="inline">色即無常
+<lb ed="C" n="0141a17"/>者。謂色即是無常。彼則形處無常非
+<lb ed="C" n="0141a18"/>四大。若四大無常者。非俗數言說。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0141a1814" rend="margin-left:1em;inline"><note place="inline">外道
+<lb ed="C" n="0141a19"/>謂色無常即是形處無常非大種性若大種性亦無常者則無世事無世
+<lb ed="C" n="0141a20"/>事者則墯世論又下文云云</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0141a2012" rend="inline">世俗言說非性者。則
+<pb ed="C" xml:id="C097.1821.0141b" n="0141b"/>
+<lb ed="C" n="0141b01"/>墮世論。見一切性但有言說。不見自
+<lb ed="C" n="0141b02"/>相生。轉變無常者。謂色異性現非四
+<lb ed="C" n="0141b03"/>大。如金作莊嚴具。轉變現非金性壞。
+<lb ed="C" n="0141b04"/>但莊嚴具處所壞。如是餘性轉變等
+<lb ed="C" n="0141b05"/>亦如是。如是等種種外道無常見妄
+<lb ed="C" n="0141b06"/>想。火燒四大時自相不燒。各各自相
+<lb ed="C" n="0141b07"/>相壞者。四大造色應斷。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0141b0710" rend="margin-left:1em;inline"><note place="inline">外道言如火燒諸大而自
+<lb ed="C" n="0141b08"/>相尚在彼盖謂必待自相皆壞然後四大造色之相斷<anchor xml:id="beg_81" type="cb-app"/>已<anchor xml:id="end_81"/>上皆外道見</note>。</p></cb:div>
+<lb ed="C" n="0141b09"/><cb:div type="orig"><p xml:id="pC097p0141b0901">大慧。我法起非常非無常。所以者何。
+<lb ed="C" n="0141b10"/>謂外性不决定故。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0141b1008" rend="margin-left:1em;inline"><note place="inline">如來於外性如幻未甞决定有無之
+<lb ed="C" n="0141b11"/>想</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0141b1102" rend="inline">唯說三有微心。不說種種相有生
+<lb ed="C" n="0141b12"/>有滅。四大合會差別。四大及造色故。
+<lb ed="C" n="0141b13"/>妄想二種事攝所攝知。二種妄想離
+<lb ed="C" n="0141b14"/>外性無性二種見。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0141b1408" rend="margin-left:1em;inline"><note place="inline">四大及造色二種事本來空寂皆以
+<lb ed="C" n="0141b15"/>有攝及所攝性乃知爾如來如實而知二種妄想以不取有無二種相故</note>。</p></cb:div>
+<lb ed="C" n="0141b16"/><cb:div type="orig"><p xml:id="pC097p0141b1601">覺自心現量妄想者。思想作行生。非
+<lb ed="C" n="0141b17"/>不作行。離心性無性妄想。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0141b1711" rend="margin-left:1em;inline"><note place="inline">覺自心現量者唯見
+<lb ed="C" n="0141b18"/>自心妄想名為作行生而實不生以離心性及無性妄想故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0141b1824" rend="inline">世間
+<lb ed="C" n="0141b19"/>出世間上上一切法。非常非無常。不
+<lb ed="C" n="0141b20"/>覺自心現量。墮二邊惡見相續。一切
+<pb ed="C" xml:id="C097.1821.0141c" n="0141c"/>
+<lb ed="C" n="0141c01"/>外道不覺自妄想。此凡夫無有根本。
+<lb ed="C" n="0141c02"/>謂世間出世間上上從說妄想生。非
+<lb ed="C" n="0141c03"/>凡愚所覺。爾時世尊欲重宣此義而
+<lb ed="C" n="0141c04"/>說偈言。</p>
+<lb ed="C" n="0141c05"/><lg xml:id="lgC097p0141c0501"><l>遠離於始造</l><l>及與形處異</l>
+<lb ed="C" n="0141c06"/><l>性與色無常</l><l>外道愚妄想</l>
+<lb ed="C" n="0141c07"/><l>諸性無有壞</l><l>大大自性住</l>
+<lb ed="C" n="0141c08"/><l>外道無常想</l><l>沒在種種見</l>
+<lb ed="C" n="0141c09"/><l>彼諸外道等</l><l>無若生若滅</l>
+<lb ed="C" n="0141c10"/><l>大大性自常</l><l>何謂無常想</l>
+<lb ed="C" n="0141c11"/><l>一切唯心量</l><l>二種心流轉</l>
+<lb ed="C" n="0141c12"/><l>攝受及所攝</l><l>無有我我所</l>
+<lb ed="C" n="0141c13"/><l>梵天為樹根</l><l>枝條普周徧</l>
+<lb ed="C" n="0141c14"/><l>如是我所說</l><l>唯是彼心量</l></lg></cb:div>
+<lb ed="C" n="0141c15"/><cb:div type="commentary"><p xml:id="pC097p0141c1501" rend="margin-left:1em"><note place="inline">頌曰外道雖聦智弗長溺於性相說無常誰知心外無餘法不攝纖塵是道場</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0141c16"/><cb:div type="other"><cb:mulu type="其他" level="2">超諸地相分第六十二</cb:mulu><head>超諸地相分第六十二</head>
+<lb ed="C" n="0141c17"/><cb:div type="orig"><p xml:id="pC097p0141c1701">爾時大慧菩薩復白佛言世尊。唯願
+<lb ed="C" n="0141c18"/>為說一切菩薩聲聞緣覺滅正受次
+<lb ed="C" n="0141c19"/>第相續。若善於滅正受次第相續相
+<lb ed="C" n="0141c20"/>者。我及餘菩薩終不妄捨滅正受樂
+<pb ed="C" xml:id="C097.1821.0142a" n="0142a"/>
+<lb ed="C" n="0142a01"/>門。不墮一切聲聞緣覺外道愚癡。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142a0114" rend="margin-left:1em;inline"><note place="inline">自初
+<lb ed="C" n="0142a02"/>地至十地皆由滅正受而入佛地故云滅正受次第相續或有聲聞緣覺
+<lb ed="C" n="0142a03"/>於此起涅槃想而於如來地不滿足此大慧所以云不妄捨滅正受樂門
+<lb ed="C" n="0142a04"/>不墮聲聞外道愚癡不妄捨者謂於三昧樂有所持也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142a0422" rend="inline">佛告大
+<lb ed="C" n="0142a05"/>慧。諦聽諦聽。善思念之。當為汝說。大
+<lb ed="C" n="0142a06"/>慧白佛言世尊。惟願為說。</p>
+<lb ed="C" n="0142a07"/><p xml:id="pC097p0142a0701">佛告大慧。六地起菩薩及聲聞緣覺
+<lb ed="C" n="0142a08"/>入滅正受。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142a0805" rend="margin-left:1em;inline"><note place="inline">此聲聞乃第六地聲聞</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142a0814" rend="inline">第七地菩薩
+<lb ed="C" n="0142a09"/>念念正受。離一切性自性相正受。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142a0914" rend="margin-left:1em;inline"><note place="inline">滅諸
+<lb ed="C" n="0142a10"/>念而正受者六地也隨念不離正受七地為然以能離一切法自性自受</note>。</p></cb:div>
+<lb ed="C" n="0142a11"/><cb:div type="orig"><p xml:id="pC097p0142a1101">非聲聞緣覺。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142a1106" rend="margin-left:1em;inline"><note place="inline">此是七地菩薩非是七地聲聞</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142a1118" rend="inline">諸聲聞
+<lb ed="C" n="0142a12"/>緣覺墮有行覺。攝所攝相滅正受。是
+<lb ed="C" n="0142a13"/>故七地非念正受。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142a1308" rend="margin-left:1em;inline"><note place="inline">聲聞緣覺緣有為行而入正受及先
+<lb ed="C" n="0142a14"/>墮攝所攝境界是七地聲聞未能隨念正受故曰非念正受所以別七地
+<lb ed="C" n="0142a15"/>菩薩</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142a1503" rend="inline">得一切法無差別相非分。得種種
+<lb ed="C" n="0142a16"/>相性。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142a1603" rend="margin-left:1em;inline"><note place="inline">未得一切法無差別故曰非分以見諸法種種異相故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142a1624" rend="inline">覺
+<lb ed="C" n="0142a17"/>一切法善不善性相正受。是故七地
+<lb ed="C" n="0142a18"/>無善念正受。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142a1806" rend="margin-left:1em;inline"><note place="inline">分別善不善性相而入正受是七地聲聞也於
+<lb ed="C" n="0142a19"/>隨念正受則無善巧方便故曰無善念正受亦以別七地菩薩</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142a1925" rend="inline">大慧。
+<lb ed="C" n="0142a20"/>八地菩薩及聲聞緣覺。心意意識妄
+<pb ed="C" xml:id="C097.1821.0142b" n="0142b"/>
+<lb ed="C" n="0142b01"/>想相滅。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142b0104" rend="margin-left:1em;inline"><note place="inline">此聲聞乃八地聲聞也八地菩薩聲聞於意識妄想非有
+<lb ed="C" n="0142b02"/>斷滅之想故曰相滅相滅者如圓覺云於一切處不起妄想於妄想境不
+<lb ed="C" n="0142b03"/>加了知是也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142b0306" rend="inline">初地乃至七地菩薩。觀三界
+<lb ed="C" n="0142b04"/>心意意識量離我我所。自妄想修墮
+<lb ed="C" n="0142b05"/>外性種種相。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142b0506" rend="margin-left:1em;inline"><note place="inline">七地菩薩觀三界心意意識其本離我我所唯
+<lb ed="C" n="0142b06"/>是自心妄想乃墮外性種種諸相此謂自七地墮外道邪徑者</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142b0625" rend="inline">愚夫
+<lb ed="C" n="0142b07"/>二種自心攝所攝。向無知不覺無始
+<lb ed="C" n="0142b08"/>過惡虛偽習氣所薰。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142b0809" rend="margin-left:1em;inline"><note place="inline">二種自心謂外道於我我所及
+<lb ed="C" n="0142b09"/>有無二邊而生攝所攝計著不知由無始來過惡薰習</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142b0922" rend="inline">大慧。八
+<lb ed="C" n="0142b10"/>地菩薩聲聞緣覺涅槃。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142b1010" rend="margin-left:1em;inline"><note place="inline">此文亦以別八地菩薩與
+<lb ed="C" n="0142b11"/>八地聲聞雖皆曰涅槃而實不同</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142b1114" rend="inline">菩薩者。三昧覺所
+<lb ed="C" n="0142b12"/>持。是故三昧門樂不般涅槃。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142b1212" rend="margin-left:1em;inline"><note place="inline">八地菩薩於三
+<lb ed="C" n="0142b13"/>昧正受覺而有所持故雖有三昧樂而不作涅槃想</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142b1321" rend="inline">若不持者。
+<lb ed="C" n="0142b14"/>如來地不滿足。棄捨一切為眾生事。
+<lb ed="C" n="0142b15"/>佛種則斷。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142b1505" rend="margin-left:1em;inline"><note place="inline">三昧覺所持故不忘大悲本願而為眾生若一切滅
+<lb ed="C" n="0142b16"/>盡而證涅槃即墮斷空何眾生之能顧愍</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142b1617" rend="inline">諸佛世尊為示
+<lb ed="C" n="0142b17"/>如來不可思議無量功德。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142b1711" rend="margin-left:1em;inline"><note place="inline">諸佛所以示現如來
+<lb ed="C" n="0142b18"/>功德者為欲菩薩顧愍眾生故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142b1813" rend="inline">聲聞緣覺三昧門得
+<lb ed="C" n="0142b19"/>樂所牽故。作涅槃想。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142b1909" rend="margin-left:1em;inline"><note place="inline">此八地聲聞也菩薩非不涅槃
+<lb ed="C" n="0142b20"/>無心於涅槃故不般涅槃聲緣牽於三昧門樂則是有心於涅槃故曰想</note>。</p></cb:div>
+<pb ed="C" xml:id="C097.1821.0142c" n="0142c"/>
+<lb ed="C" n="0142c01"/><cb:div type="orig"><p xml:id="pC097p0142c0101">大慧。我分部七地。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142c0108" rend="margin-left:1em;inline"><note place="inline">分別部分其所得法</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142c0116" rend="inline">善修心
+<lb ed="C" n="0142c02"/>意意識相。善修我我所攝受。人法無
+<lb ed="C" n="0142c03"/>我。生滅自共相。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142c0307" rend="margin-left:1em;inline"><note place="inline">人法無我生滅自共相皆善修也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142c0320" rend="inline">善
+<lb ed="C" n="0142c04"/>四無礙決定力。三昧門地次第相續
+<lb ed="C" n="0142c05"/>入道品法。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142c0505" rend="margin-left:1em;inline"><note place="inline">佛之分部七地菩薩所得如此</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142c0517" rend="inline">不令菩薩
+<lb ed="C" n="0142c06"/>摩訶薩不覺自共相。不善七地墮外
+<lb ed="C" n="0142c07"/>道邪徑故立地次第。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142c0709" rend="margin-left:1em;inline"><note place="inline">佛所以立地次第而分部七地
+<lb ed="C" n="0142c08"/>者為此</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142c0804" rend="inline">大慧。彼實無有若生若滅。除自
+<lb ed="C" n="0142c09"/>心現量。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142c0904" rend="margin-left:1em;inline"><note place="inline">諸地次第皆是自心所現其實無有若生若滅如來於此
+<lb ed="C" n="0142c10"/>但指惟心而一<anchor xml:id="beg_82" type="cb-app"/>切生滅頓了<anchor xml:id="end_82"/></note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142c1012" rend="inline">所謂地次第相續及
+<lb ed="C" n="0142c11"/>三界種種行。愚夫所不覺。愚夫所不
+<lb ed="C" n="0142c12"/>覺者。謂我及諸佛說地次第相續。及
+<lb ed="C" n="0142c13"/>說三界種種行。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142c1307" rend="margin-left:1em;inline"><note place="inline">世尊及諸佛以對治眾生病故有諸地次
+<lb ed="C" n="0142c14"/>第及三界種種行之說愚夫不覺而有執著殊不知佛說而未甞說也</note>。</p>
+<lb ed="C" n="0142c15"/><p xml:id="pC097p0142c1501" rend="margin-left:1em"><note place="inline">頌曰十地皆因邪徑設那堪地上有聲聞初根斷滅方歸正七地惟心妄
+<lb ed="C" n="0142c16"/>始分八地常持三昧覺每於群品布慈雲自心若了無餘事階漸紛綸只
+<lb ed="C" n="0142c17"/>謾云</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0142c18"/><cb:div type="other"><cb:mulu type="其他" level="2">滅諸地而證圓覺分第六十三</cb:mulu><head>滅諸地而證圓覺分第六十三</head>
+<lb ed="C" n="0142c19"/><cb:div type="orig"><p xml:id="pC097p0142c1901">復次大慧。聲聞緣覺第八菩薩地。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0142c1914" rend="margin-left:1em;inline"><note place="inline">謂聲
+<lb ed="C" n="0142c20"/>聞在第八地者</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0142c2007" rend="inline">滅三昧門樂醉所醉。不善自
+<pb ed="C" xml:id="C097.1821.0143a" n="0143a"/>
+<lb ed="C" n="0143a01"/>心現量。自共相習氣所障。墮人法無
+<lb ed="C" n="0143a02"/>我。法攝受見。妄想涅槃想。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0143a0211" rend="margin-left:1em;inline"><note place="inline">謂有人法無我之相
+<lb ed="C" n="0143a03"/>及攝受法之見盖以妄想心為涅槃故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0143a0316" rend="inline">非寂滅智慧覺。
+<lb ed="C" n="0143a04"/>大慧。菩薩者。見滅三昧門樂。本願哀
+<lb ed="C" n="0143a05"/>愍。大悲成就。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0143a0506" rend="margin-left:1em;inline"><note place="inline">第八菩薩見寂滅三昧樂門便能憶持本願依
+<lb ed="C" n="0143a06"/>大慈悲成就眾生</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0143a0608" rend="inline">知分別十無盡句。不妄想
+<lb ed="C" n="0143a07"/>涅槃想。彼已涅槃妄想不生故。離攝
+<lb ed="C" n="0143a08"/>所攝妄想。覺了自心現量。一切諸法
+<lb ed="C" n="0143a09"/>妄想不生。不墮心意意識外性自性
+<lb ed="C" n="0143a10"/>相計著妄想。非佛法因不生。隨智慧
+<lb ed="C" n="0143a11"/>生。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0143a1102" rend="margin-left:1em;inline"><note place="inline">八地菩薩<anchor xml:id="beg_83" type="cb-app"/>已<anchor xml:id="end_83"/>離諸法妄想於是復修一切佛法非因於此則餘無所
+<lb ed="C" n="0143a12"/>生然所以生非妄想生隨智慧生</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0143a1214" rend="inline">得如來自覺地。如
+<lb ed="C" n="0143a13"/>人夢中方便度水。未度而覺。覺<anchor xml:id="beg_84" type="cb-app"/>已<anchor xml:id="end_84"/>思
+<lb ed="C" n="0143a14"/>惟。為正為邪非正非邪。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0143a1410" rend="margin-left:1em;inline"><note place="inline">八地菩薩於如來自覺之
+<lb ed="C" n="0143a15"/>地如人夢臨大水欲渡其身未渡中間忽然便寤寤<anchor xml:id="beg_85" type="cb-app"/>已<anchor xml:id="end_85"/>思惟此為是實為
+<lb ed="C" n="0143a16"/>復是虛</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0143a1604" rend="inline">餘無始見聞覺識因想。種種習
+<lb ed="C" n="0143a17"/>氣種種形處墮有無相。心意意識夢
+<lb ed="C" n="0143a18"/>現。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0143a1802" rend="margin-left:1em;inline"><note place="inline">向之所見非虛非實唯是無始見聞覺識習氣所薰不離有無二相
+<lb ed="C" n="0143a19"/>至此則心意意識一切頓覺悉如幻夢隨緣而現無去之之想覺<anchor xml:id="beg_86" type="cb-app"/>已<anchor xml:id="end_86"/>則滅
+<lb ed="C" n="0143a20"/>無留之之情故曰夢現謂之夢現則現已還滅非有斷滅之想也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0143a2026" rend="inline">大
+<pb ed="C" xml:id="C097.1821.0143b" n="0143b"/>
+<lb ed="C" n="0143b01"/>慧。如是菩薩摩訶薩。於第八菩薩地
+<lb ed="C" n="0143b02"/>見妄想生初地轉進至第七地。見一
+<lb ed="C" n="0143b03"/>切法如幻等。方便度攝所攝心妄想。
+<lb ed="C" n="0143b04"/>行<anchor xml:id="beg_87" type="cb-app"/>已<anchor xml:id="end_87"/>作佛法方便。未得者令得。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0143b0413" rend="margin-left:1em;inline"><note place="inline">第八地<anchor xml:id="beg_88" type="cb-app"/>已<anchor xml:id="end_88"/>
+<lb ed="C" n="0143b05"/>無妄想生之見所可見者乃初地轉進至七地所修行者皆第八地所見
+<lb ed="C" n="0143b06"/>之妄想也唯見一切如幻而善離攝所攝心至此疑墯於空而乃勤修佛
+<lb ed="C" n="0143b07"/>法未得令得故曰方便</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0143b0710" rend="inline">大慧。此是菩薩涅槃方
+<lb ed="C" n="0143b08"/>便不壞。離心意意識。得無生法忍。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0143b0814" rend="margin-left:1em;inline"><note place="inline">見如
+<lb ed="C" n="0143b09"/>幻<anchor xml:id="beg_89" type="cb-app"/>已<anchor xml:id="end_89"/>而又復作佛事此乃涅槃方便非壞滅諸法名為涅槃故曰不壞盖
+<lb ed="C" n="0143b10"/>由善離心意意識是以得證無生法忍</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0143b1016" rend="inline">大慧。於第一義
+<lb ed="C" n="0143b11"/>無次第相續說。無所有妄想寂滅法。</p></cb:div>
+<lb ed="C" n="0143b12"/><cb:div type="commentary"><p xml:id="pC097p0143b1201" rend="margin-left:1em"><note place="inline">次第說為喻菩薩之入外道邪徑者妄想寂滅皆是對治法若第一義諦
+<lb ed="C" n="0143b13"/>一切根量滅則妄想寂滅皆無所有矣</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0143b1316" rend="inline">爾時世尊欲重
+<lb ed="C" n="0143b14"/>宣此義而說偈言。</p>
+<lb ed="C" n="0143b15"/><lg xml:id="lgC097p0143b1501"><l>心量無所有</l><l>此住及佛地</l>
+<lb ed="C" n="0143b16"/><l>去來及現在</l><l>三世諸佛說</l>
+<lb ed="C" n="0143b17"/><l>心量地第七</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0143b1706" rend="margin-left:1em;inline"><note place="inline">第七地未離心量</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgC097p0143b1713" cb:place="inline"><l>無所有第八</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0143b1718" rend="margin-left:1em;inline"><note place="inline">至第
+<lb ed="C" n="0143b18"/>八方無所有</note>。</p></cb:div>
+<lb ed="C" n="0143b19"/><cb:div type="orig"><lg xml:id="lgC097p0143b1901"><l>二地名為住</l><l>佛地名最勝</l>
+<lb ed="C" n="0143b20"/><l>自覺智及淨</l><l>此則是我地</l>
+<pb ed="C" xml:id="C097.1821.0143c" n="0143c"/>
+<lb ed="C" n="0143c01"/><l>自在最勝處</l><l>清淨妙莊嚴</l>
+<lb ed="C" n="0143c02"/><l>照曜如盛火</l><l>光明悉徧至</l>
+<lb ed="C" n="0143c03"/><l>熾炎不壞目</l><l>周輪化三有</l>
+<lb ed="C" n="0143c04"/><l>化現在三有</l><l>或有先時化</l>
+<lb ed="C" n="0143c05"/><l>於彼演說乘</l><l>皆是如來地</l>
+<lb ed="C" n="0143c06"/><l>十地則為初</l><l>初則為八地</l>
+<lb ed="C" n="0143c07"/><l>第九則為七</l><l>七亦復為八</l>
+<lb ed="C" n="0143c08"/><l>第二為第三</l><l>第四為第五</l>
+<lb ed="C" n="0143c09"/><l>第三為第六</l><l>無所有何次</l></lg></cb:div>
+<lb ed="C" n="0143c10"/><cb:div type="commentary"><p xml:id="pC097p0143c1001" rend="margin-left:1em"><note place="inline">頌曰纔登八地絕疑情心量因緣更不萌自得涅槃方便巧已離意識頓無生
+<lb ed="C" n="0143c11"/>自心覺了誰求寂佛法何妨度眾盲若到如來無所證夢中度水覺何曾</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0143c12"/><cb:div type="other"><cb:mulu type="其他" level="2">離常無常分第六十四</cb:mulu><head>離常無常分第六十四</head>
+<lb ed="C" n="0143c13"/><cb:div type="orig"><p xml:id="pC097p0143c1301">爾時大慧菩薩復白佛言世尊。如來
+<lb ed="C" n="0143c14"/>應供等正覺為常無常。</p>
+<lb ed="C" n="0143c15"/><p xml:id="pC097p0143c1501">佛告大慧。如來應供等正覺非常非
+<lb ed="C" n="0143c16"/>無常。謂二俱有過。常者有作主過。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0143c1614" rend="margin-left:1em;inline"><note place="inline">謂常
+<lb ed="C" n="0143c17"/>者是於虛寂中強立真常之性故云作主</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0143c1717" rend="inline">常者一切外道
+<lb ed="C" n="0143c18"/>說。作者無所作是故如來常。非常非
+<lb ed="C" n="0143c19"/>作常。故有過。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0143c1906" rend="margin-left:1em;inline"><note place="inline">如來之常非無因而常亦非作主而常常與作
+<lb ed="C" n="0143c20"/>常皆不免有過故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0143c2008" rend="inline">若如來無常者。有作無常
+<pb ed="C" xml:id="C097.1821.0144a" n="0144a"/>
+<lb ed="C" n="0144a01"/>過。陰所相相無性。陰壞則應斷而如
+<lb ed="C" n="0144a02"/>來不斷。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0144a0204" rend="margin-left:1em;inline"><note place="inline">五陰相相本來無性若必欲陰壞而諸相斷滅然佛如來
+<lb ed="C" n="0144a03"/>實非斷滅</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0144a0305" rend="inline">大慧。一切所作皆無常如<g ref="#CB02456">󰦘</g>衣
+<lb ed="C" n="0144a04"/>等。一切皆無常過。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0144a0408" rend="margin-left:1em;inline"><note place="inline">若謂無常如<g ref="#CB02456">󰦘</g>衣之無定相則一切
+<lb ed="C" n="0144a05"/>法皆墮無常</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0144a0506" rend="inline">一切智眾具。方便應無義。以
+<lb ed="C" n="0144a06"/>所作故。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0144a0604" rend="margin-left:1em;inline"><note place="inline">若一切所作皆無常則一切智眾皆具有所修福慧悉空
+<lb ed="C" n="0144a07"/>無義以無常有所作故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0144a0710" rend="inline">一切所作皆應是如來。
+<lb ed="C" n="0144a08"/>無差別因性故。是故如來非常非無
+<lb ed="C" n="0144a09"/>常。復次大慧。如來非如虛空常。如虛
+<lb ed="C" n="0144a10"/>空常者。自覺聖智眾具。無義過。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0144a1013" rend="margin-left:1em;inline"><note place="inline">前言如來
+<lb ed="C" n="0144a11"/>非無常此言如來非常若如虛空之常空無所有則自覺聖智眾皆具有
+<lb ed="C" n="0144a12"/>一切皆無義矣</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0144a1207" rend="inline">大慧。譬如虛空。非常非無常。
+<lb ed="C" n="0144a13"/>離常無常一異俱不俱常無常過故
+<lb ed="C" n="0144a14"/>不可說。是故如來非常。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0144a1410" rend="margin-left:1em;inline"><note place="inline">此言雖非如虛空常然亦
+<lb ed="C" n="0144a15"/>如虛空之性無所變動離常無常等過一有所說即有情量名相幾何而
+<lb ed="C" n="0144a16"/>不墮於常無常耶</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0144a1608" rend="inline">復次大慧。若如來無生常
+<lb ed="C" n="0144a17"/>者。如兔馬等角。以無生常故方便無
+<lb ed="C" n="0144a18"/>義。以無生常過故如來非常。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0144a1812" rend="margin-left:1em;inline"><note place="inline">執無生而有常
+<lb ed="C" n="0144a19"/>如兔馬等角悉無所有則一切方便皆無義若是又墮斷見此如來所以
+<lb ed="C" n="0144a20"/>非常</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0144a2003" rend="inline">復次大慧。更有餘事知如來常。所
+<pb ed="C" xml:id="C097.1821.0144b" n="0144b"/>
+<lb ed="C" n="0144b01"/>以者何。謂無間所得智常故如來常。</p></cb:div>
+<lb ed="C" n="0144b02"/><cb:div type="commentary"><p xml:id="pC097p0144b0201" rend="margin-left:1em"><note place="inline">此述如來實有常住之法而非世之所謂常無常者</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0144b0221" rend="inline">大慧。若如
+<lb ed="C" n="0144b03"/>來出世若不出世。法畢定住。聲聞緣
+<lb ed="C" n="0144b04"/>覺諸佛如來無間住。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0144b0409" rend="margin-left:1em;inline"><note place="inline">聲聞緣覺與如來所得智皆無
+<lb ed="C" n="0144b05"/>間斷故曰住</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0144b0506" rend="inline">不住虛空。亦非愚夫之所覺
+<lb ed="C" n="0144b06"/>知。大慧。如來所得智。是般若所薰。非
+<lb ed="C" n="0144b07"/>心意意識彼諸陰界入處所薰。大慧。
+<lb ed="C" n="0144b08"/>一切三有。皆是不實妄想所生。如來
+<lb ed="C" n="0144b09"/>不從不實虛妄想生。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0144b0909" rend="margin-left:1em;inline"><note place="inline">謂如來無間之智畢定常住非
+<lb ed="C" n="0144b10"/>住虛空非墮陰識但離妄緣即如如矣</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0144b1016" rend="inline">大慧。以二法故
+<lb ed="C" n="0144b11"/>有常無常。非不二。不二者。寂靜一切
+<lb ed="C" n="0144b12"/>法。無二生相故。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0144b1207" rend="margin-left:1em;inline"><note place="inline">語常無常則有二法唯不二法乃能寂靜
+<lb ed="C" n="0144b13"/>諸法以不二法者無生無二無性相故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0144b1316" rend="inline">是故如來應供
+<lb ed="C" n="0144b14"/>等正覺非常非無常。大慧。乃至言說
+<lb ed="C" n="0144b15"/>分別生。則有常無常過。分別覺滅者。
+<lb ed="C" n="0144b16"/>則離愚夫常無常見。寂靜慧者永離
+<lb ed="C" n="0144b17"/>常無常非常無常薰。爾時世尊欲重
+<lb ed="C" n="0144b18"/>宣此義而說偈言。</p>
+<lb ed="C" n="0144b19"/><lg xml:id="lgC097p0144b1901"><l>眾具無義者</l><l>生常無常過</l>
+<lb ed="C" n="0144b20"/><l>若無分別覺</l><l>永離常無常</l>
+<pb ed="C" xml:id="C097.1821.0144c" n="0144c"/>
+<lb ed="C" n="0144c01"/><l>從其所立宗</l><l>則有眾雜義</l>
+<lb ed="C" n="0144c02"/><l>等觀自心量</l><l>言說不可得</l></lg></cb:div>
+<lb ed="C" n="0144c03"/><cb:div type="commentary"><p xml:id="pC097p0144c0301" rend="margin-left:1em"><note place="inline">頌曰楞伽頂上絕纖塵常與無常屬作因兔角無生歸斷見虛空籠統亦非真
+<lb ed="C" n="0144c04"/>若能自覺方為道纔有言辭便不親湏到如來無間智超然常住邁群倫</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0144c05"/>
+<lb ed="C" n="0144c06"/><cb:juan fun="close" n="4a"><cb:jhead>楞伽經纂卷第四上</cb:jhead></cb:juan>
+<lb ed="C" n="0144c07"/><cb:juan fun="open" n="4b"><cb:mulu type="卷" n="4b">卷四下</cb:mulu><cb:jhead>楞伽經纂卷第四<note place="inline">下</note>　　　　阿</cb:jhead></cb:juan>
+<lb ed="C" n="0144c08"/>
+<lb ed="C" n="0144c09"/><cb:div type="other"><cb:mulu type="其他" level="2">滅識即藏分第六十五</cb:mulu><head>滅識即藏分第六十五</head>
+<lb ed="C" n="0144c10"/>
+<lb ed="C" n="0144c11"/><cb:div type="orig"><p xml:id="pC097p0144c1101">爾時大慧菩薩復白言世尊。惟願世
+<lb ed="C" n="0144c12"/>尊更為我說陰界入生滅。彼無有我。
+<lb ed="C" n="0144c13"/>誰生誰滅。愚夫者。依於生滅。不覺苦
+<lb ed="C" n="0144c14"/>盡。不識涅槃。佛言善哉諦聽。當為汝
+<lb ed="C" n="0144c15"/>說。大慧白佛言。唯然受教。</p>
+<lb ed="C" n="0144c16"/><p xml:id="pC097p0144c1601">佛告大慧。如來之藏是善不善因。能
+<lb ed="C" n="0144c17"/>徧興造一切趣生。譬如伎兒變現諸
+<lb ed="C" n="0144c18"/>趣。離我我所。不覺彼故三緣和合方
+<lb ed="C" n="0144c19"/>便而生。外道不覺計著作者。為無始
+<lb ed="C" n="0144c20"/>虛偽惡習所薰。名為識藏。生無明住
+<pb ed="C" xml:id="C097.1821.0145a" n="0145a"/>
+<lb ed="C" n="0145a01"/>地。與七識俱。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145a0106" rend="margin-left:1em;inline"><note place="inline">無明本無住地以有識藏乃生</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145a0118" rend="inline">如海浪
+<lb ed="C" n="0145a02"/>身常生不斷。離無常過。離於我論。自
+<lb ed="C" n="0145a03"/>性無垢畢竟清淨。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145a0308" rend="margin-left:1em;inline"><note place="inline">言如來藏離作無常及有我論</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145a0320" rend="inline">其
+<lb ed="C" n="0145a04"/>餘諸識有生有滅。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145a0408" rend="margin-left:1em;inline"><note place="inline">若墮於識即有生滅</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145a0416" rend="inline">意意識
+<lb ed="C" n="0145a05"/>等念念有七。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145a0506" rend="margin-left:1em;inline"><note place="inline">言因意識而有七識</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145a0514" rend="inline">因不實妄想
+<lb ed="C" n="0145a06"/>取諸境界。種種形處計著名相。不覺
+<lb ed="C" n="0145a07"/>自心所現色相。不覺苦樂。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145a0711" rend="margin-left:1em;inline"><note place="inline">起苦樂受故云不覺</note>。</p></cb:div>
+<lb ed="C" n="0145a08"/><cb:div type="orig"><p xml:id="pC097p0145a0801">不至解脫。名相諸纏。貪生生貪。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145a0813" rend="margin-left:1em;inline"><note place="inline">因貪生故
+<lb ed="C" n="0145a09"/>乃生貪著</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145a0905" rend="inline">若因若攀緣彼諸受根滅。次第
+<lb ed="C" n="0145a10"/>不生餘自心妄想。不知苦樂。入滅受
+<lb ed="C" n="0145a11"/>想正受。第四禪善真諦解脫。修行者
+<lb ed="C" n="0145a12"/>作解脫想。不離不轉名如來藏識藏。
+<lb ed="C" n="0145a13"/>七識流轉不滅。所以者何。彼因攀緣
+<lb ed="C" n="0145a14"/>諸識生故。非聲聞緣覺修行境界。不
+<lb ed="C" n="0145a15"/>覺無我。自共相攝受生陰界入見。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145a1514" rend="margin-left:1em;inline"><note place="inline">謂如
+<lb ed="C" n="0145a16"/>來藏識藏止是其名不同因彼識藏而有攀緣故生諸識然非聲聞外道
+<lb ed="C" n="0145a17"/>所知境界以彼不覺二無我及於蘊界處而取自相共相故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145a1724" rend="inline">如來
+<lb ed="C" n="0145a18"/>藏五法自性人法無我。則滅地次第
+<lb ed="C" n="0145a19"/>相續轉進。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145a1905" rend="margin-left:1em;inline"><note place="inline">謂修行者若見如來藏及五法三自性於人法悉皆
+<lb ed="C" n="0145a20"/>無我乃能滅諸地次第而住不動地</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145a2015" rend="inline">餘外道見不能傾
+<pb ed="C" xml:id="C097.1821.0145b" n="0145b"/>
+<lb ed="C" n="0145b01"/>動。是名住菩薩不動地。得十三昧道
+<lb ed="C" n="0145b02"/>門樂。三昧覺所持。觀察不思議佛法
+<lb ed="C" n="0145b03"/>自願。不受三昧門樂及實際。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145b0312" rend="margin-left:1em;inline"><note place="inline">以觀察佛法自
+<lb ed="C" n="0145b04"/>願則能顧愍眾生不滯空寂故於三昧門樂及實際皆不受</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145b0424" rend="inline">向自
+<lb ed="C" n="0145b05"/>覺聖趣。不共一切聲聞緣覺及諸外
+<lb ed="C" n="0145b06"/>道所修行道。得十賢聖種性道。及身
+<lb ed="C" n="0145b07"/>智意生。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145b0704" rend="margin-left:1em;inline"><note place="inline">所立之智如意之生</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145b0712" rend="inline">離三昧行。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145b0716" rend="margin-left:1em;inline"><note place="inline">著三昧行即有
+<lb ed="C" n="0145b08"/>三昧相故當離之</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145b0808" rend="inline">是故大慧。菩薩摩訶薩欲
+<lb ed="C" n="0145b09"/>求勝進者。當淨如來藏及識藏名。若
+<lb ed="C" n="0145b10"/>無識藏名如來藏者則無生滅。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145b1013" rend="margin-left:1em;inline"><note place="inline">有如來藏
+<lb ed="C" n="0145b11"/>及識藏二種名則有是性相而生滅起矣故當淨之淨之則無所有也</note>。</p></cb:div>
+<lb ed="C" n="0145b12"/><cb:div type="orig"><p xml:id="pC097p0145b1201">大慧。然諸凡聖悉有生滅。修行者自
+<lb ed="C" n="0145b13"/>覺聖趣現法樂住。不捨方便。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145b1312" rend="margin-left:1em;inline"><note place="inline">雖曰如來藏無
+<lb ed="C" n="0145b14"/>名亦無生滅而諸聖亦未甞與木石同性故悉有生滅以是故修行者雖
+<lb ed="C" n="0145b15"/>自覺聖智法樂現前而不捨於勇猛精進故曰不捨方便</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145b1523" rend="inline">大慧。此
+<lb ed="C" n="0145b16"/>如來藏識藏。一切聲聞緣覺心想所
+<lb ed="C" n="0145b17"/>見。雖自性淨。客塵所覆故猶見不淨
+<lb ed="C" n="0145b18"/>非諸如來。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145b1805" rend="margin-left:1em;inline"><note place="inline">如來無我之藏如如絕想本來清淨一切聲緣而以
+<lb ed="C" n="0145b19"/>想見盖由客塵所覆而見不淨</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145b1913" rend="inline">如來者。現前境界猶
+<lb ed="C" n="0145b20"/>如掌中視阿摩勒果。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145b2009" rend="margin-left:1em;inline"><note place="inline">自覺境界常現在前則不復有
+<pb ed="C" xml:id="C097.1821.0145c" n="0145c"/>
+<lb ed="C" n="0145c01"/>心想之見盖以無客塵覆故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145c0112" rend="inline">大慧。我於此義。以神
+<lb ed="C" n="0145c02"/>力建立。令勝鬘夫人。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145c0209" rend="margin-left:1em;inline"><note place="inline">藏中勝鬘經是也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145c0216" rend="inline">及利
+<lb ed="C" n="0145c03"/>智滿足諸菩薩等。宣揚演說如來藏
+<lb ed="C" n="0145c04"/>及識藏名。七識俱生。聲聞計著。見人
+<lb ed="C" n="0145c05"/>法無我故勝鬘夫人承佛威神說如
+<lb ed="C" n="0145c06"/>來境界。非聲聞緣覺及外道境界。如
+<lb ed="C" n="0145c07"/>來藏識藏。唯佛及餘利智依義菩薩
+<lb ed="C" n="0145c08"/>智慧境界。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145c0805" rend="margin-left:1em;inline"><note place="inline">知聲聞計著寂滅則如來藏不可離知心想有生滅
+<lb ed="C" n="0145c09"/>見則如來藏不可即以是唯佛菩薩智慧境界</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145c0919" rend="inline">是故汝及餘
+<lb ed="C" n="0145c10"/>菩薩。於如來藏識藏當勤修學。莫但
+<lb ed="C" n="0145c11"/>聞覺作知足想。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0145c1107" rend="margin-left:1em;inline"><note place="inline">未能自覺故曰聞覺</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0145c1115" rend="inline">爾時世尊
+<lb ed="C" n="0145c12"/>欲重宣此義而說偈言。</p>
+<lb ed="C" n="0145c13"/><lg xml:id="lgC097p0145c1301"><l>甚深如來藏</l><l>而與七識俱</l>
+<lb ed="C" n="0145c14"/><l>二種攝受生</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0145c1406" rend="margin-left:1em;inline"><note place="inline">二種謂藏與識</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgC097p0145c1412" cb:place="inline"><l>智者則遠離</l></lg>
+<lb ed="C" n="0145c15"/><lg xml:id="lgC097p0145c1501"><l>如鏡像現心</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0145c1506" rend="margin-left:1em;inline"><note place="inline">心之所現如鏡現像</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgC097p0145c1514" cb:place="inline"><l>無始習所薰</l>
+<lb ed="C" n="0145c16"/><l>如實觀察者</l><l>諸事悉無事</l>
+<lb ed="C" n="0145c17"/><l>如愚見指月</l><l>觀指不觀月</l>
+<lb ed="C" n="0145c18"/><l>計著名字者</l><l>不見我真實</l>
+<lb ed="C" n="0145c19"/><l>心為工伎兒</l><l>意如和伎者</l>
+<lb ed="C" n="0145c20"/><l>五識為伴侶</l><l>妄想觀伎眾</l></lg></cb:div>
+<pb ed="C" xml:id="C097.1821.0146a" n="0146a"/>
+<lb ed="C" n="0146a01"/><cb:div type="commentary"><p xml:id="pC097p0146a0101" rend="margin-left:1em"><note place="inline">頌曰如來寶藏只虛名善惡皆由彼造成諸識盡時方合道靈機不染始無生
+<lb ed="C" n="0146a02"/>有心作想應難淨真諦攀緣亦未精爭似現前無覆盖還如摩勒掌中擎</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0146a03"/><cb:div type="other"><cb:mulu type="其他" level="2">五法三自性二無我分別相分第六十六</cb:mulu><head>五法三自性二無我分別相分
+<lb ed="C" n="0146a04"/>第六十六</head>
+<lb ed="C" n="0146a05"/><cb:div type="orig"><p xml:id="pC097p0146a0501">爾時大慧菩薩白佛言世尊。惟願為
+<lb ed="C" n="0146a06"/>說五法自性識二種無我究竟分別
+<lb ed="C" n="0146a07"/>相。我及餘菩薩於一切地次第相續。
+<lb ed="C" n="0146a08"/>分別此法入一切佛法。入一切佛法
+<lb ed="C" n="0146a09"/>者。乃至如來自覺地。佛告大慧諦聽
+<lb ed="C" n="0146a10"/>諦聽。善思念之。大慧白佛言。唯然受
+<lb ed="C" n="0146a11"/>教。</p>
+<lb ed="C" n="0146a12"/><p xml:id="pC097p0146a1201">佛告大慧。五法自性識二無我分別
+<lb ed="C" n="0146a13"/>趣相者。謂名相妄想正智如如。若修
+<lb ed="C" n="0146a14"/>行者修行入如來自覺聖趣。離於斷
+<lb ed="C" n="0146a15"/>常有無等見。現法樂正受住。現在前。</p></cb:div>
+<lb ed="C" n="0146a16"/><cb:div type="commentary"><p xml:id="pC097p0146a1601" rend="margin-left:1em"><note place="inline">謂修行者若觀察此法入於如來自覺境界則得現法樂三昧常現在前
+<lb ed="C" n="0146a17"/>未甞間昧所謂猶如掌中視阿摩勒果</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0146a1716" rend="inline">大慧。不覺彼五
+<lb ed="C" n="0146a18"/>法自性識二無我。自心現外性。凡夫
+<lb ed="C" n="0146a19"/>妄想。非諸聖賢。大慧白佛言世尊。云
+<lb ed="C" n="0146a20"/>何愚夫妄想生。非諸聖賢。佛告大慧。
+<pb ed="C" xml:id="C097.1821.0146b" n="0146b"/>
+<lb ed="C" n="0146b01"/>愚夫計著俗數名相。隨心流散。流散
+<lb ed="C" n="0146b02"/>已。種種相像貌墮我我所見希望。計
+<lb ed="C" n="0146b03"/>著妙色。計著<anchor xml:id="beg_8a" type="cb-app"/>已<anchor xml:id="end_8a"/>。無知覆障生染著。染
+<lb ed="C" n="0146b04"/>著<anchor xml:id="beg_8b" type="cb-app"/>已<anchor xml:id="end_8b"/>。貪恚癡所生業積集。積集<anchor xml:id="beg_8c" type="cb-app"/>已<anchor xml:id="end_8c"/>。妄
+<lb ed="C" n="0146b05"/>想自纏。如蠶作繭。墮生死海諸趣曠
+<lb ed="C" n="0146b06"/>野。如汲井輪。以愚癡故。不能知如幻
+<lb ed="C" n="0146b07"/>野馬水月自性離我我所。起於一切
+<lb ed="C" n="0146b08"/>不實妄想。離相所相及生住滅。從自
+<lb ed="C" n="0146b09"/>心妄想生。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0146b0905" rend="margin-left:1em;inline"><note place="inline">無實如幻奔馳如野馬隨現如水月彼皆自現其自
+<lb ed="C" n="0146b10"/>現之性本來離我離相皆從自心妄想而生</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0146b1018" rend="inline">非自在時節
+<lb ed="C" n="0146b11"/>微塵勝妙生。愚癡凡夫隨名相流。大
+<lb ed="C" n="0146b12"/>慧。彼相者。眼識所照名為色。耳鼻舌
+<lb ed="C" n="0146b13"/>身意意識所照名為聲香味觸法。是
+<lb ed="C" n="0146b14"/>名為相。大慧。彼妄想者。施設眾名。顯
+<lb ed="C" n="0146b15"/>示諸相。如此不異象馬車步男女等
+<lb ed="C" n="0146b16"/>名。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0146b1602" rend="margin-left:1em;inline"><note place="inline">謂以象馬等名而顯其相</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0146b1612" rend="inline">是名妄想。大慧。正智
+<lb ed="C" n="0146b17"/>者。彼名相不可得。猶如過客。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0146b1712" rend="margin-left:1em;inline"><note place="inline">非有斷滅之相
+<lb ed="C" n="0146b18"/>故</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0146b1802" rend="inline">諸識不生。不斷不常。不墮一切外
+<lb ed="C" n="0146b19"/>道聲聞緣覺之地。復次大慧。菩薩摩
+<lb ed="C" n="0146b20"/>訶薩以此正智不立名相。非不立名
+<pb ed="C" xml:id="C097.1821.0146c" n="0146c"/>
+<lb ed="C" n="0146c01"/>相。捨離二見建立及誹謗知。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0146c0112" rend="margin-left:1em;inline"><note place="inline">離有無二見及
+<lb ed="C" n="0146c02"/>建立誹謗之所知</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0146c0208" rend="inline">名相不生。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0146c0212" rend="margin-left:1em;inline"><note place="inline">非必不立名相名相自不生矣</note>。</p></cb:div>
+<lb ed="C" n="0146c03"/><cb:div type="orig"><p xml:id="pC097p0146c0301">是名如如。大慧。菩薩摩訶薩住如如
+<lb ed="C" n="0146c04"/>者。得無所有境界故。得菩薩歡喜地。
+<lb ed="C" n="0146c05"/>得菩薩歡喜地<anchor xml:id="beg_8d" type="cb-app"/>已<anchor xml:id="end_8d"/>。永離一切外道惡
+<lb ed="C" n="0146c06"/>趣。正住出世間趣。法相成熟。分別幻
+<lb ed="C" n="0146c07"/>等一切法。自覺法趣相。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0146c0710" rend="margin-left:1em;inline"><note place="inline">分別如幻等法而證自得
+<lb ed="C" n="0146c08"/>聖智所行法相</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0146c0807" rend="inline">離諸妄想見性異相。次第乃
+<lb ed="C" n="0146c09"/>至法雲地。於其中間。三昧力自在。神
+<lb ed="C" n="0146c10"/>通開敷。得如來地<anchor xml:id="beg_8e" type="cb-app"/>已<anchor xml:id="end_8e"/>。種種變化圓照
+<lb ed="C" n="0146c11"/>示現。成熟眾生。如水中月。善究竟滿
+<lb ed="C" n="0146c12"/>足十無盡句。為種種意解眾生分別
+<lb ed="C" n="0146c13"/>說法。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0146c1303" rend="margin-left:1em;inline"><note place="inline">隨意生解曰意解</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0146c1310" rend="inline">法身離意所作。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0146c1316" rend="margin-left:1em;inline"><note place="inline">法身無為
+<lb ed="C" n="0146c14"/>悉離意識之所作至此乃名如如</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0146c1414" rend="inline">是名菩薩入如如
+<lb ed="C" n="0146c15"/>所得。</p>
+<lb ed="C" n="0146c16"/><p xml:id="pC097p0146c1601">爾時大慧菩薩白佛言世尊。云何為
+<lb ed="C" n="0146c17"/>三種自性入於五法。為各有自相宗。</p></cb:div>
+<lb ed="C" n="0146c18"/><cb:div type="commentary"><p xml:id="pC097p0146c1801" rend="margin-left:1em"><note place="inline">三自性謂妄想自性緣起自性成自性而皆又離於五法之內故曰入於
+<lb ed="C" n="0146c19"/>五法</note>。</p></cb:div>
+<lb ed="C" n="0146c20"/><cb:div type="orig"><p xml:id="pC097p0146c2001">佛告大慧。三種自性及八識二種無
+<pb ed="C" xml:id="C097.1821.0147a" n="0147a"/>
+<lb ed="C" n="0147a01"/>我。悉入五法。大慧。彼名及相。是妄想
+<lb ed="C" n="0147a02"/>自性。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0147a0203" rend="margin-left:1em;inline"><note place="inline">本無名相皆妄想生</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0147a0211" rend="inline">若依彼妄想生心心
+<lb ed="C" n="0147a03"/>法。名俱時生。如日光俱種種相。各別
+<lb ed="C" n="0147a04"/>分別持。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0147a0404" rend="margin-left:1em;inline"><note place="inline">心本無所持以分別諸相而有所持故曰分別持以是故
+<lb ed="C" n="0147a05"/>有緣起</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0147a0504" rend="inline">是名緣起自性。大慧。正智如如
+<lb ed="C" n="0147a06"/>者。不可壞故名成自性。復次大慧。自
+<lb ed="C" n="0147a07"/>心現妄想八種分別。謂識藏意意識
+<lb ed="C" n="0147a08"/>及五識身相者。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0147a0807" rend="margin-left:1em;inline"><note place="inline">識有身財故曰身相</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0147a0815" rend="inline">不實相妄
+<lb ed="C" n="0147a09"/>想故。我我所二攝受滅。二無我生。是
+<lb ed="C" n="0147a10"/>故大慧。此五法者。聲聞緣覺菩薩如
+<lb ed="C" n="0147a11"/>來自覺聖智諸地相續次第。一切佛
+<lb ed="C" n="0147a12"/>法悉入其中。復次大慧。五法者。相名
+<lb ed="C" n="0147a13"/>妄想如如正智。大慧。相者。若處所形
+<lb ed="C" n="0147a14"/>相色像等現。是名為相。若彼有如是
+<lb ed="C" n="0147a15"/>相。名為<g ref="#CB02456">󰦘</g>等。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0147a1506" rend="margin-left:1em;inline"><note place="inline">謂有<g ref="#CB02456">󰦘</g>相即有<g ref="#CB02456">󰦘</g>名</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0147a1514" rend="inline">即此非餘。是說
+<lb ed="C" n="0147a16"/>為名。施設眾名。顯示諸相。<g ref="#CB02456">󰦘</g>等心心
+<lb ed="C" n="0147a17"/>法。是名妄想。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0147a1706" rend="margin-left:1em;inline"><note place="inline">若依<g ref="#CB02456">󰦘</g>相而生<g ref="#CB02456">󰦘</g>名心及心法皆然</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0147a1720" rend="inline">彼名
+<lb ed="C" n="0147a18"/>彼相。畢竟不可得。始終無覺。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0147a1812" rend="margin-left:1em;inline"><note place="inline">凡有覺皆覺想</note>。</p></cb:div>
+<lb ed="C" n="0147a19"/><cb:div type="orig"><p xml:id="pC097p0147a1901">於諸法無展轉不實妄想。是名如如
+<lb ed="C" n="0147a20"/>真實決定究竟自性不可得。彼是如
+<pb ed="C" xml:id="C097.1821.0147b" n="0147b"/>
+<lb ed="C" n="0147b01"/>相。我及諸佛隨順入處。普為眾生如
+<lb ed="C" n="0147b02"/>實演說。施設顯示於彼。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0147b0210" rend="margin-left:1em;inline"><note place="inline">示彼眾生</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0147b0214" rend="inline">隨入正
+<lb ed="C" n="0147b03"/>覺。不斷不常。妄想不起。隨順自覺聖
+<lb ed="C" n="0147b04"/>趣。一切外道聲聞緣覺所不得相。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0147b0414" rend="margin-left:1em;inline"><note place="inline">無復
+<lb ed="C" n="0147b05"/>有聲聞外道之相故曰不得相</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0147b0513" rend="inline">是名正智。大慧。是名
+<lb ed="C" n="0147b06"/>五法三種自性八識二種無我。一切
+<lb ed="C" n="0147b07"/>佛法悉入其中。是故大慧。當自方便
+<lb ed="C" n="0147b08"/>學。亦教他人勿隨於他。爾時世尊欲
+<lb ed="C" n="0147b09"/>重宣此義而說偈言。</p>
+<lb ed="C" n="0147b10"/><lg xml:id="lgC097p0147b1001"><l>五法三自性</l><l>及與八種識</l>
+<lb ed="C" n="0147b11"/><l>二種無有我</l><l>悉攝摩訶衍</l>
+<lb ed="C" n="0147b12"/><l>名相虛妄想</l><l>自性二種相</l>
+<lb ed="C" n="0147b13"/><l>正智及如如</l><l>是則為成相</l></lg></cb:div>
+<lb ed="C" n="0147b14"/><cb:div type="commentary"><p xml:id="pC097p0147b1401" rend="margin-left:1em"><note place="inline">頌曰三般自性示真詮悉入楞伽五法玄湏了相名皆是妄逈離妄想即忘緣
+<lb ed="C" n="0147b15"/>如如正智何湏覺人法忘情始得圓高步便超三界外從茲親摘火中蓮</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0147b16"/><cb:div type="other"><cb:mulu type="其他" level="2">優曇恒沙譬喻分第六十七</cb:mulu><head>優曇恒沙譬喻分第六十七</head>
+<lb ed="C" n="0147b17"/><cb:div type="orig"><p xml:id="pC097p0147b1701">爾時大慧菩薩復白佛言世尊。如世
+<lb ed="C" n="0147b18"/>尊所說句。過去諸佛如恒河沙。未來
+<lb ed="C" n="0147b19"/>現在亦復如是。云何世尊。為如說而
+<lb ed="C" n="0147b20"/>受。為更有餘義。惟願如來哀愍解說。
+<pb ed="C" xml:id="C097.1821.0147c" n="0147c"/>
+<lb ed="C" n="0147c01"/>佛告大慧。莫如說受。三世諸佛量非
+<lb ed="C" n="0147c02"/>如恒河沙。所以者何。過世間望。非譬
+<lb ed="C" n="0147c03"/>所譬。以凡愚依計常外道妄想。長養
+<lb ed="C" n="0147c04"/>惡見。生死無窮。欲令厭離生死趣輪。
+<lb ed="C" n="0147c05"/>精勤勝進故。為彼說言。諸佛易見。非
+<lb ed="C" n="0147c06"/>如優曇鉢華難得見故息方便求。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0147c0614" rend="margin-left:1em;inline"><note place="inline">若言
+<lb ed="C" n="0147c07"/>難遇如優曇鉢華即生退怯故說易見如恒河沙所以誘之欲其進也</note>。</p></cb:div>
+<lb ed="C" n="0147c08"/><cb:div type="orig"><p xml:id="pC097p0147c0801">有時復觀諸受化者作是說言。佛難
+<lb ed="C" n="0147c09"/>值遇如優曇鉢華。優曇鉢華無<anchor xml:id="beg_8f" type="cb-app"/>已<anchor xml:id="end_8f"/>見
+<lb ed="C" n="0147c10"/>今見當見。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0147c1005" rend="margin-left:1em;inline"><note place="inline">說諸佛出世如優曇鉢華者依可化眾生故故云觀
+<lb ed="C" n="0147c11"/>諸受化者</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0147c1105" rend="inline">如來者。世間悉見。不以建立自
+<lb ed="C" n="0147c12"/>通故說言如來出世如優曇鉢華。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0147c1214" rend="margin-left:1em;inline"><note place="inline">謂世
+<lb ed="C" n="0147c13"/>間雖悉見如來而不得自覺聖智境界故說言如優曇鉢華</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0147c1324" rend="inline">大慧。
+<lb ed="C" n="0147c14"/>自建立自通者。過世間望。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0147c1411" rend="margin-left:1em;inline"><note place="inline">謂自覺聖智所得世
+<lb ed="C" n="0147c15"/>間無等過諸譬喻故云過世間望</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0147c1514" rend="inline">彼諸凡愚所不能
+<lb ed="C" n="0147c16"/>信。自覺聖智境界無以為譬。真實如
+<lb ed="C" n="0147c17"/>來過心意意識所見之相。不可為譬
+<lb ed="C" n="0147c18"/>大慧。然我說譬佛如恒沙。無有過咎。</p></cb:div>
+<lb ed="C" n="0147c19"/><cb:div type="commentary"><p xml:id="pC097p0147c1901" rend="margin-left:1em"><note place="inline">譬佛如沙非為多故所譬具在下文非一義也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0147c1919" rend="inline">譬如恒沙。一
+<lb ed="C" n="0147c20"/>切魚鼈斬收魔羅師子象馬人獸踐
+<pb ed="C" xml:id="C097.1821.0148a" n="0148a"/>
+<lb ed="C" n="0148a01"/>踏。沙不念言。彼惱亂我而生妄想。自
+<lb ed="C" n="0148a02"/>性清淨無諸垢汙。如來應供等正覺。
+<lb ed="C" n="0148a03"/>自覺聖智恒河。大力神通自在等沙。
+<lb ed="C" n="0148a04"/>一切外道諸人獸等一切惱亂。如來
+<lb ed="C" n="0148a05"/>不念而生妄想。如來寂然無有念想。
+<lb ed="C" n="0148a06"/>如來本願以三昧樂安眾生故無有
+<lb ed="C" n="0148a07"/>惱亂。猶如恒河。等無有異。又斷貪恚
+<lb ed="C" n="0148a08"/>故。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0148a0802" rend="margin-left:1em;inline"><note place="inline">其待魚鼈輸<g ref="#CB30246">󷘦</g>等物等無有異故曰又斷貪恚</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0148a0820" rend="inline">譬如恒沙。
+<lb ed="C" n="0148a09"/>是地自性。劫盡燒時燒一切地。而彼
+<lb ed="C" n="0148a10"/>地大不捨自性。與火大俱生故。其餘
+<lb ed="C" n="0148a11"/>愚夫作地燒想。而地不燒。以火因故。
+<lb ed="C" n="0148a12"/>如是如來法身。如恒沙不壞。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0148a1212" rend="margin-left:1em;inline"><note place="inline">地以火生而愚
+<lb ed="C" n="0148a13"/>夫作地燒想地實不燒一切有身俱壞凡夫作法身壞想而如來法身實
+<lb ed="C" n="0148a14"/>不壞</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0148a1403" rend="inline">大慧。譬如恒沙。無有限量。如來光
+<lb ed="C" n="0148a15"/>明亦復如是無有限量。為成熟眾生
+<lb ed="C" n="0148a16"/>故普照一切諸佛大眾。大慧。譬如恒
+<lb ed="C" n="0148a17"/>沙。別求異沙永不可得。如是如來應
+<lb ed="C" n="0148a18"/>供等正覺無生死生滅。有因緣斷故。
+<lb ed="C" n="0148a19"/>大慧。譬如恒沙。增減不可得知。如是
+<lb ed="C" n="0148a20"/>如來智慧成熟眾生。不增不減。非身
+<pb ed="C" xml:id="C097.1821.0148b" n="0148b"/>
+<lb ed="C" n="0148b01"/>法故。身法者有壞。如來法身非是身
+<lb ed="C" n="0148b02"/>法。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0148b0202" rend="margin-left:1em;inline"><note place="inline">身法即有壞之身相</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0148b0210" rend="inline">如壓恒沙。油不可得。如
+<lb ed="C" n="0148b03"/>是一切極苦眾生逼迫如來。乃至眾
+<lb ed="C" n="0148b04"/>生未得涅槃。不捨法界自三昧願樂。
+<lb ed="C" n="0148b05"/>以大悲故。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0148b0505" rend="margin-left:1em;inline"><note place="inline">眾生極苦遂感如來發大悲本願故曰逼迫猶壓沙
+<lb ed="C" n="0148b06"/>也壓沙而油不可得欲令如來捨離法界中深心願樂亦不可得</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0148b0626" rend="inline">大
+<lb ed="C" n="0148b07"/>慧。譬如恒沙。隨水而流。非無水也。如
+<lb ed="C" n="0148b08"/>是如來所說一切諸法隨涅槃流。是
+<lb ed="C" n="0148b09"/>故說言如恒河沙。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0148b0908" rend="margin-left:1em;inline"><note place="inline">沙譬則一切諸法水譬則涅槃流法
+<lb ed="C" n="0148b10"/>雖千變皆隨涅槃未有一法而不涅槃者故曰非無水也雖所說一切法
+<lb ed="C" n="0148b11"/>皆隨涅槃流而未甞隨諸去流轉故曰隨流而性常</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0148b1121" rend="inline">如來不隨
+<lb ed="C" n="0148b12"/>諸去流轉。去是壞義故。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0148b1210" rend="margin-left:1em;inline"><note place="inline">以涅槃非壞故不隨諸去
+<lb ed="C" n="0148b13"/>流轉</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0148b1303" rend="inline">大慧。生死本際不可知。不知故。云
+<lb ed="C" n="0148b14"/>何說去。去者斷義而愚夫不知。大慧
+<lb ed="C" n="0148b15"/>白佛言世尊。若眾生生死際不可知
+<lb ed="C" n="0148b16"/>者。云何解脫可知。佛告大慧。無始虛
+<lb ed="C" n="0148b17"/>偽過惡妄想習氣因滅。自心現。知外
+<lb ed="C" n="0148b18"/>義妄想身轉。解脫不滅。是故無邊。非
+<lb ed="C" n="0148b19"/>都無所有。為彼妄想作無邊等異名。</p></cb:div>
+<lb ed="C" n="0148b20"/><cb:div type="commentary"><p xml:id="pC097p0148b2001" rend="margin-left:1em"><note place="inline">無始因滅然後覺知自心所現覺心自現則能了知外境不為妄想所轉
+<pb ed="C" xml:id="C097.1821.0148c" n="0148c"/>
+<lb ed="C" n="0148c01"/>故名解脫解脫者非是壞滅雖說無邊非都無所有曰無邊者亦為眾生
+<lb ed="C" n="0148c02"/>妄想而立異名耳</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0148c0208" rend="inline">觀察內外離於妄想。無異
+<lb ed="C" n="0148c03"/>眾生。智及爾炎一切諸法悉皆寂靜。</p></cb:div>
+<lb ed="C" n="0148c04"/><cb:div type="commentary"><p xml:id="pC097p0148c0401" rend="margin-left:1em"><note place="inline">謂以解脫知見觀察內外諸法則離於妄想無別有眾生盖以即此妄想
+<lb ed="C" n="0148c05"/>名為眾生故如是觀者智及爾炎悉皆寂靜以解脫者識破眾生妄想心
+<lb ed="C" n="0148c06"/>故故下文云云</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0148c0607" rend="inline">不識自心現妄想故妄想生。
+<lb ed="C" n="0148c07"/>若識則滅。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0148c0705" rend="margin-left:1em;inline"><note place="inline">一切妄想不患不滅惟患其不能識了若能識了則
+<lb ed="C" n="0148c08"/>妄想無自而生所謂解脫者此也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0148c0814" rend="inline">爾時世尊欲重宣
+<lb ed="C" n="0148c09"/>此義而說偈言。</p>
+<lb ed="C" n="0148c10"/><lg xml:id="lgC097p0148c1001"><l>觀察諸導師</l><l>猶如恒河沙</l>
+<lb ed="C" n="0148c11"/><l>不壞亦不去</l><l>亦復不究竟</l>
+<lb ed="C" n="0148c12"/><l>是則為平等</l><l>觀察諸如來</l>
+<lb ed="C" n="0148c13"/><l>猶如恒沙等</l><l>悉離一切過</l>
+<lb ed="C" n="0148c14"/><l>隨流而性常</l><l>是則佛正覺</l></lg></cb:div>
+<lb ed="C" n="0148c15"/><cb:div type="commentary"><p xml:id="pC097p0148c1501" rend="margin-left:1em"><note place="inline">頌曰譬彼優曇亦未親恒沙設喻義兼陳不流不去如常寂無減無增類法身
+<lb ed="C" n="0148c16"/>逈絕因緣何所異任他惱亂不曾嗔為君更說無窮量還似光明照剎塵</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0148c17"/><cb:div type="other"><cb:mulu type="其他" level="2">剎那壞相差別分第六十八</cb:mulu><head>剎那壞相差別分第六十八</head>
+<lb ed="C" n="0148c18"/><cb:div type="orig"><p xml:id="pC097p0148c1801">爾時大慧菩薩復白佛言。惟願為說
+<lb ed="C" n="0148c19"/>一切諸法剎那壞相。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0148c1909" rend="margin-left:1em;inline"><note place="inline">剎那念也一念之頃心意俱生
+<lb ed="C" n="0148c20"/>展轉變壞故曰利那壞相盖愚夫計著識相而然</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0148c2020" rend="inline">世尊。云何
+<pb ed="C" xml:id="C097.1821.0149a" n="0149a"/>
+<lb ed="C" n="0149a01"/>一切法剎那。佛告大慧。諦聽諦聽。善
+<lb ed="C" n="0149a02"/>思念之。當為汝說。</p>
+<lb ed="C" n="0149a03"/><p xml:id="pC097p0149a0301">佛告大慧。一切法者。謂善不善無記。
+<lb ed="C" n="0149a04"/>有為無為。世間出世間。有罪無罪。有
+<lb ed="C" n="0149a05"/>漏無漏。受不受。大慧。略說心意意識
+<lb ed="C" n="0149a06"/>及習氣。是五受陰因。是心意意識習
+<lb ed="C" n="0149a07"/>氣長養。凡愚善不善妄想。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149a0711" rend="margin-left:1em;inline"><note place="inline">識習氣有善不善分
+<lb ed="C" n="0149a08"/>別此剎那見也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149a0807" rend="inline">大慧。修三昧樂。三昧正受現
+<lb ed="C" n="0149a09"/>法樂住。名為賢聖善無漏。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149a0911" rend="margin-left:1em;inline"><note place="inline">法樂現前而住則無
+<lb ed="C" n="0149a10"/>復妄想矣此謂非剎那者</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149a1011" rend="inline">大慧。善不善者謂八識。
+<lb ed="C" n="0149a11"/>何等為八。謂如來藏名識藏。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149a1112" rend="margin-left:1em;inline"><note place="inline">如來藏識藏其
+<lb ed="C" n="0149a12"/>實一也以其未墮名相則曰如來藏以其墮於名相則號為識藏故曰名
+<lb ed="C" n="0149a13"/>識藏</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149a1303" rend="inline">心意意識及五識身。非外道所說。
+<lb ed="C" n="0149a14"/>大慧。五識身者。心意意識俱。善不善
+<lb ed="C" n="0149a15"/>相展轉變壞。相續流注。不壞身生。亦
+<lb ed="C" n="0149a16"/>生亦滅。不覺自心現。次第滅。餘識生。
+<lb ed="C" n="0149a17"/>形相差別攝受。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149a1707" rend="margin-left:1em;inline"><note place="inline">不壞身猶真識也隨順意識而生生<anchor xml:id="beg_90" type="cb-app"/>已<anchor xml:id="end_90"/>還
+<lb ed="C" n="0149a18"/>滅若不覺自心所現則次第滅時別識生起取於種種形相差別</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149a1826" rend="inline">意
+<lb ed="C" n="0149a19"/>識五識俱相應生。剎那時不住。名為
+<lb ed="C" n="0149a20"/>剎那。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149a2003" rend="margin-left:1em;inline"><note place="inline">謂念念不住故名剎那</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149a2012" rend="inline">大慧。剎那者。名識
+<pb ed="C" xml:id="C097.1821.0149b" n="0149b"/>
+<lb ed="C" n="0149b01"/>藏如來藏意俱生。識習氣剎那。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149b0113" rend="margin-left:1em;inline"><note place="inline">剎那壞者
+<lb ed="C" n="0149b02"/>識習氣也如來藏與意俱生乃有剎那壞相</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149b0218" rend="inline">無漏習氣非
+<lb ed="C" n="0149b03"/>剎那非凡愚所覺。計著剎那論故。不
+<lb ed="C" n="0149b04"/>覺一切法剎那非剎那。以斷見壞無
+<lb ed="C" n="0149b05"/>為法。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149b0503" rend="margin-left:1em;inline"><note place="inline">凡愚計著一切諸法剎那變壞而不能知一切諸法有是剎那
+<lb ed="C" n="0149b06"/>非剎那故乃計無為同諸法壞是墮斷見故曰以斷見壞無為法</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149b0626" rend="inline">大
+<lb ed="C" n="0149b07"/>慧。七識不流轉。不受苦樂。非涅槃因。</p></cb:div>
+<lb ed="C" n="0149b08"/><cb:div type="commentary"><p xml:id="pC097p0149b0801" rend="margin-left:1em"><note place="inline">七識剎那變壞不與生死俱轉故云不流轉不受苦樂唯如來藏生死流
+<lb ed="C" n="0149b09"/>轉故受苦樂為涅槃因</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149b0910" rend="inline">大慧。如來藏者。受苦樂與
+<lb ed="C" n="0149b10"/>因俱。若生若滅。四住地無明住地所
+<lb ed="C" n="0149b11"/>醉。凡愚不覺剎那見。妄想薰心。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149b1113" rend="margin-left:1em;inline"><note place="inline">凡愚不能
+<lb ed="C" n="0149b12"/>了知如來之藏起剎那見故為妄想所薰</note>。</p></cb:div>
+<lb ed="C" n="0149b13"/><cb:div type="orig"><p xml:id="pC097p0149b1301">復次大慧。如金金剛佛舍利。得奇特
+<lb ed="C" n="0149b14"/>性。終不<g ref="#CB02167">󰡷</g>壞。大慧。若得無間有剎那
+<lb ed="C" n="0149b15"/>者。聖應非聖而聖未曾不聖。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149b1512" rend="margin-left:1em;inline"><note place="inline">無間有剎那謂
+<lb ed="C" n="0149b16"/>剎那非剎那者若得無間有剎那則雖聖之名亦不免於名相故亦壞聖
+<lb ed="C" n="0149b17"/>亦壞而湛然者不期於存而獨存是乃所以聖故曰未曾不聖</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149b1725" rend="inline">如金
+<lb ed="C" n="0149b18"/>金剛。雖經劫數。稱量不減。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149b1811" rend="margin-left:1em;inline"><note place="inline">以剎那本無所成亦
+<lb ed="C" n="0149b19"/>無所壞若得無間有剎那則無復剎那不剎那見故如金剛等何成壞之
+<lb ed="C" n="0149b20"/>足云</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149b2003" rend="inline">云何凡愚不善於我隱覆之說。於
+<pb ed="C" xml:id="C097.1821.0149c" n="0149c"/>
+<lb ed="C" n="0149c01"/>內外一切法作剎那想。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149c0110" rend="margin-left:1em;inline"><note place="inline">佛說剎那所以息煩亂而
+<lb ed="C" n="0149c02"/>凡愚無知作剎那想</note>。</p><p xml:id="pC097p0149c0209" rend="margin-left:1em;inline"><note place="inline">頌曰堪嘆誰知壞剎那若還計著又成魔剎那一
+<lb ed="C" n="0149c03"/>切皆云壞借問真空壞得麼</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0149c04"/><cb:div type="other"><cb:mulu type="其他" level="2">三種波羅蜜差別分第六十九</cb:mulu><head>三種波羅蜜差別分第六十九</head>
+<lb ed="C" n="0149c05"/><cb:div type="orig"><p xml:id="pC097p0149c0501">大慧菩薩復白佛言世尊。如世尊說
+<lb ed="C" n="0149c06"/>六波羅蜜滿足。得成正覺。何等為六
+<lb ed="C" n="0149c07"/>佛告大慧。波羅蜜有三種分別。謂世
+<lb ed="C" n="0149c08"/>間。出世間。出世間上上。世間波羅蜜
+<lb ed="C" n="0149c09"/>者。我我所攝受計著。攝受二邊。為種
+<lb ed="C" n="0149c10"/>種受生處。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149c1005" rend="margin-left:1em;inline"><note place="inline">欲邀福於來世故行波羅蜜</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149c1016" rend="inline">樂色聲香
+<lb ed="C" n="0149c11"/>味觸故滿足檀波羅蜜。戒忍精進禪
+<lb ed="C" n="0149c12"/>定智慧亦如是。凡夫神通及生梵天。</p></cb:div>
+<lb ed="C" n="0149c13"/><cb:div type="commentary"><p xml:id="pC097p0149c1301" rend="margin-left:1em"><note place="inline">貪於色等境界而欲成就神通生於梵天非善於六度者也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149c1324" rend="inline">出世
+<lb ed="C" n="0149c14"/>間波羅蜜者。聲聞緣覺墮攝受涅槃
+<lb ed="C" n="0149c15"/>故行六波羅蜜。樂自<anchor xml:id="beg_91" type="cb-app"/>己<anchor xml:id="end_91"/>涅槃樂。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149c1513" rend="margin-left:1em;inline"><note place="inline">不覺自心
+<lb ed="C" n="0149c16"/>所現作涅槃想而攝受之故以行六波羅為樂</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149c1619" rend="inline">出世間上上
+<lb ed="C" n="0149c17"/>波羅蜜者。覺自心現妄想量。攝受及
+<lb ed="C" n="0149c18"/>自心二故。不生妄想。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149c1809" rend="margin-left:1em;inline"><note place="inline">覺自心現妄想則知攝與所攝
+<lb ed="C" n="0149c19"/>及自心與妄想皆是二法以覺此故不生妄想</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149c1919" rend="inline">於諸趣攝受
+<lb ed="C" n="0149c20"/>非分。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0149c2003" rend="margin-left:1em;inline"><note place="inline">悉無諸趣攝受故曰非分</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0149c2013" rend="inline">自心色相不計著。</p></cb:div>
+<pb ed="C" xml:id="C097.1821.0150a" n="0150a"/>
+<lb ed="C" n="0150a01"/><cb:div type="commentary"><p xml:id="pC097p0150a0101" rend="margin-left:1em"><note place="inline">聲聞緣覺雖能滅外色相而計著自心之色相若前之自己涅槃樂是也
+<lb ed="C" n="0150a02"/>至此則不然矣</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0150a0207" rend="inline">為安樂一切眾生故生檀波
+<lb ed="C" n="0150a03"/>羅蜜。起上方便。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0150a0307" rend="margin-left:1em;inline"><note place="inline">為安樂眾生而起最上方便此善於布施
+<lb ed="C" n="0150a04"/>也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0150a0402" rend="inline">即於彼緣。妄想不生。戒是尸波羅
+<lb ed="C" n="0150a05"/>蜜。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0150a0502" rend="margin-left:1em;inline"><note place="inline">即諸境界不起妄想則無去取離著之見此善於持戒也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0150a0524" rend="inline">即彼
+<lb ed="C" n="0150a06"/>妄想不生。忍知攝所攝。是羼提波羅
+<lb ed="C" n="0150a07"/>蜜。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0150a0702" rend="margin-left:1em;inline"><note place="inline">即於不起妄想忍知能攝所攝自性此善於忍辱也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0150a0722" rend="inline">初中後
+<lb ed="C" n="0150a08"/>夜。精勤方便。隨順修行。方便妄想不
+<lb ed="C" n="0150a09"/>生。是毗棃耶波羅蜜。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0150a0909" rend="margin-left:1em;inline"><note place="inline">隨順如實修行於修行方便亦不起
+<lb ed="C" n="0150a10"/>方便之想此善於精進也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0150a1011" rend="inline">妄想悉滅。不墮聲聞涅
+<lb ed="C" n="0150a11"/>槃攝受。是禪波羅蜜。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0150a1109" rend="margin-left:1em;inline"><note place="inline">聲聞有涅槃想故有攝受非此
+<lb ed="C" n="0150a12"/>始名禪定</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0150a1205" rend="inline">自心妄想非性。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0150a1211" rend="margin-left:1em;inline"><note place="inline">覺自心妄想皆非有性故曰非
+<lb ed="C" n="0150a13"/>性</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0150a1302" rend="inline">智慧觀察。不墮二邊。先身轉勝而
+<lb ed="C" n="0150a14"/>不可壞。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0150a1404" rend="margin-left:1em;inline"><note place="inline">轉先身而即勝如金剛之不可壞</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0150a1417" rend="inline">得自覺聖
+<lb ed="C" n="0150a15"/>趣。是般若波羅蜜。爾時世尊欲重宣
+<lb ed="C" n="0150a16"/>此義而說偈言。</p>
+<lb ed="C" n="0150a17"/><lg xml:id="lgC097p0150a1701"><l>空無常剎那</l><l>愚夫妄想作</l>
+<lb ed="C" n="0150a18"/><l>如河燈種子</l><l>而作剎那想</l>
+<lb ed="C" n="0150a19"/><l>剎那息煩亂</l><l>寂靜離所作</l>
+<lb ed="C" n="0150a20"/><l>一切法不生</l><l>我說剎那義</l>
+<pb ed="C" xml:id="C097.1821.0150b" n="0150b"/>
+<lb ed="C" n="0150b01"/><l>物生則有滅</l><l>不為愚者說</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0150b0111" rend="margin-left:1em;inline"><note place="inline">愚者
+<lb ed="C" n="0150b02"/>不曉剎那義而作想</note>。</p></cb:div>
+<lb ed="C" n="0150b03"/><cb:div type="orig"><lg xml:id="lgC097p0150b0301"><l>無間相續性</l><l>妄想之所薰</l>
+<lb ed="C" n="0150b04"/><l>無明為其因</l><l>心則從彼生</l>
+<lb ed="C" n="0150b05"/><l>乃至色未生</l><l>中間有何分</l>
+<lb ed="C" n="0150b06"/><l>相續次第滅</l><l>餘心隨彼生</l>
+<lb ed="C" n="0150b07"/><l>不住於色時</l><l>何所緣而生</l>
+<lb ed="C" n="0150b08"/><l>以從彼生故</l><l>不如實因生</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0150b0811" rend="margin-left:1em;inline"><note place="inline">謂非
+<lb ed="C" n="0150b09"/>因實際而生</note>。</p></cb:div>
+<lb ed="C" n="0150b10"/><cb:div type="orig"><lg xml:id="lgC097p0150b1001"><l>云何無所成</l><l>而知剎那壞</l>
+<lb ed="C" n="0150b11"/><l>修行者正受</l><l>金剛佛舍利</l>
+<lb ed="C" n="0150b12"/><l>光音天宮殿</l><l>世間不壞事</l>
+<lb ed="C" n="0150b13"/><l>住於正法得</l><l>如來智具足</l>
+<lb ed="C" n="0150b14"/><l>比丘得平等</l><l>云何見剎那</l>
+<lb ed="C" n="0150b15"/><l>乾闥婆幻等</l><l>色無有剎那</l>
+<lb ed="C" n="0150b16"/><l>於不實色等</l><l>視之若真實</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0150b1611" rend="margin-left:1em;inline"><note place="inline">一切
+<lb ed="C" n="0150b17"/>色相無非實際</note>。</p>
+<lb ed="C" n="0150b18"/><p xml:id="pC097p0150b1801" rend="margin-left:1em"><note place="inline">頌曰世俗波羅樂色聲聲緣攝受涅槃城自心覺了方為上六度從茲絕想情</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0150b19"/><cb:div type="other"><cb:mulu type="其他" level="2">如來說法離諸過差別分第七十</cb:mulu><head>如來說法離諸過差別分第七十</head>
+<lb ed="C" n="0150b20"/><cb:div type="orig"><p xml:id="pC097p0150b2001">爾時大慧菩薩復白佛言世尊。世尊
+<pb ed="C" xml:id="C097.1821.0150c" n="0150c"/>
+<lb ed="C" n="0150c01"/>記阿羅漢。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0150c0105" rend="margin-left:1em;inline"><note place="inline">記謂受記</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0150c0109" rend="inline">得成阿耨多羅三藐
+<lb ed="C" n="0150c02"/>三菩提。與諸菩薩等無差別。一切眾
+<lb ed="C" n="0150c03"/>生法不涅槃。誰至佛道。從初得佛至
+<lb ed="C" n="0150c04"/>般涅槃。於其中間不說一字。亦無所
+<lb ed="C" n="0150c05"/>荅。如來常定故亦無慮亦無察。化佛
+<lb ed="C" n="0150c06"/>化作佛事。何故說識剎那展轉壞相。
+<lb ed="C" n="0150c07"/>金剛力士常隨侍衛。何不施設本際。
+<lb ed="C" n="0150c08"/>現魔魔業惡業果報。旃遮摩納孫陁
+<lb ed="C" n="0150c09"/>利女空鉢而出。惡業障現。云何如來
+<lb ed="C" n="0150c10"/>得一切種智而不離諸過。佛告大慧。
+<lb ed="C" n="0150c11"/>諦聽諦聽。善思念之。當為汝說。大慧
+<lb ed="C" n="0150c12"/>白佛言。善哉世尊。唯然受教。</p>
+<lb ed="C" n="0150c13"/><p xml:id="pC097p0150c1301">佛告大慧。為無餘涅槃故。說誘進行
+<lb ed="C" n="0150c14"/>菩薩行者故。此及餘世界修菩薩行
+<lb ed="C" n="0150c15"/>者樂聲聞乘涅槃。為令轉聲聞乘進
+<lb ed="C" n="0150c16"/>向大乘。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0150c1604" rend="margin-left:1em;inline"><note place="inline">授聲聞言無上正覺凡以誘進也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0150c1617" rend="inline">化佛授聲
+<lb ed="C" n="0150c17"/>聞記。非是法佛。因是故記諸聲聞與
+<lb ed="C" n="0150c18"/>菩薩不異。大慧。不異者。聲聞緣覺諸
+<lb ed="C" n="0150c19"/>佛如來煩惱障斷解脫一味。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0150c1912" rend="margin-left:1em;inline"><note place="inline">只解脫煩惱一
+<lb ed="C" n="0150c20"/>味爾</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0150c2003" rend="inline">非智障斷。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0150c2007" rend="margin-left:1em;inline"><note place="inline">聲緣煩惱障斷與如來同智障不斷與如來異</note>。</p></cb:div>
+<pb ed="C" xml:id="C097.1821.0151a" n="0151a"/>
+<lb ed="C" n="0151a01"/><cb:div type="orig"><p xml:id="pC097p0151a0101">大慧。智障者。見法無我。殊勝清淨。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0151a0114" rend="margin-left:1em;inline"><note place="inline">智障
+<lb ed="C" n="0151a02"/>要見法無我性乃得清淨是智障斷也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0151a0216" rend="inline">煩惱障者。先習
+<lb ed="C" n="0151a03"/>見人無我斷。七識滅。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0151a0309" rend="margin-left:1em;inline"><note place="inline">謂先所習人無我見至此而斷
+<lb ed="C" n="0151a04"/>然後意識捨離是煩惱障斷也</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0151a0413" rend="inline">法障解脫。識藏習滅。
+<lb ed="C" n="0151a05"/>究竟清淨。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0151a0505" rend="margin-left:1em;inline"><note place="inline">煩惱障斷止於七識滅爾至於法障解脫然後識藏
+<lb ed="C" n="0151a06"/>習滅故曰究竟清淨此<anchor xml:id="beg_92" type="cb-app"/>已<anchor xml:id="end_92"/>下說諸佛如來</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0151a0617" rend="inline">因本住法故。前
+<lb ed="C" n="0151a07"/>後非性。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0151a0704" rend="margin-left:1em;inline"><note place="inline">本住法即常住真心前云如樹木心是也一切圓融前後
+<lb ed="C" n="0151a08"/>皆非有性</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0151a0805" rend="inline">無盡本願故。如來無慮無察而
+<lb ed="C" n="0151a09"/>演說法。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0151a0904" rend="margin-left:1em;inline"><note place="inline">以本願無盡故不忘演說然所以演說實出於無慮無察</note>。</p></cb:div>
+<lb ed="C" n="0151a10"/><cb:div type="orig"><p xml:id="pC097p0151a1001">正智所化故。念不妄故。無慮無察。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0151a1014" rend="margin-left:1em;inline"><note place="inline">所以
+<lb ed="C" n="0151a11"/>化人出自正智實無妄念故凡所演說無慮無察</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0151a1120" rend="inline">四住地無
+<lb ed="C" n="0151a12"/>明住地習氣斷故。二煩惱斷。離二種
+<lb ed="C" n="0151a13"/>死。覺人法無我及二障斷。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0151a1311" rend="margin-left:1em;inline"><note place="inline">以無明習氣斷故方
+<lb ed="C" n="0151a14"/>斷二煩惱乃至二障斷</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0151a1410" rend="inline">大慧。心意意識眼識等
+<lb ed="C" n="0151a15"/>七剎那。習氣因。善無漏品離。不復輪
+<lb ed="C" n="0151a16"/>轉。如來藏者輪轉。涅槃苦樂因。空亂
+<lb ed="C" n="0151a17"/>意慧愚癡凡夫所不能覺。大慧。金剛
+<lb ed="C" n="0151a18"/>力士所隨護者。是化佛耳。非真如來。
+<lb ed="C" n="0151a19"/>真如來者。離一切根量。一切凡夫聲
+<lb ed="C" n="0151a20"/>聞緣覺及外道根量悉滅。得現法樂
+<pb ed="C" xml:id="C097.1821.0151b" n="0151b"/>
+<lb ed="C" n="0151b01"/>住。無間法智忍故非金剛力士所護。
+<lb ed="C" n="0151b02"/>一切化佛不從業生化。化佛者非佛。
+<lb ed="C" n="0151b03"/>不離佛。因陶家輪等眾生所作相而
+<lb ed="C" n="0151b04"/>說法。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0151b0403" rend="margin-left:1em;inline"><note place="inline">如陶家輪造出百千器類皆因眾生所作之相此化佛說法也</note>。</p></cb:div>
+<lb ed="C" n="0151b05"/><cb:div type="orig"><p xml:id="pC097p0151b0501">非自通處說自覺境界。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0151b0510" rend="margin-left:1em;inline"><note place="inline">既曰化佛故云非自通處</note>。</p></cb:div>
+<lb ed="C" n="0151b06"/><cb:div type="orig"><p xml:id="pC097p0151b0601">復次大慧。愚夫依七識身滅。起斷見。
+<lb ed="C" n="0151b07"/>不覺識藏故起常見。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0151b0709" rend="margin-left:1em;inline"><note place="inline">愚夫以七識身滅而謂一切斷
+<lb ed="C" n="0151b08"/>滅故起斷見不覺識藏本無所有執以為真常之法故起常見</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0151b0825" rend="inline">自妄
+<lb ed="C" n="0151b09"/>想故不知本際。自妄想慧滅故解脫
+<lb ed="C" n="0151b10"/>四住地無明住地。</p></cb:div><cb:div type="commentary"><p xml:id="pC097p0151b1008" rend="margin-left:1em;inline"><note place="inline">自妄想之慧滅乃能解脫無明</note>。</p></cb:div><cb:div type="orig"><p xml:id="pC097p0151b1020" rend="inline">習
+<lb ed="C" n="0151b11"/>氣斷故一切過斷。爾時世尊欲重宣
+<lb ed="C" n="0151b12"/>此義而說偈言。</p>
+<lb ed="C" n="0151b13"/><lg xml:id="lgC097p0151b1301"><l>三乘亦非乘</l><l>如來不磨滅</l>
+<lb ed="C" n="0151b14"/><l>一切佛所記</l><l>說離諸過惡</l>
+<lb ed="C" n="0151b15"/><l>為諸無間智</l><l>及無餘涅槃</l>
+<lb ed="C" n="0151b16"/><l>誘進諸下劣</l><l>是故隱覆說</l>
+<lb ed="C" n="0151b17"/><l>諸佛所起智</l><l>即分別說道</l>
+<lb ed="C" n="0151b18"/><l>諸乘非為乘</l><l>彼則非涅槃</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0151b1811" rend="margin-left:1em;inline"><note place="inline">智者
+<lb ed="C" n="0151b19"/>乘無乘及涅槃</note>。</p></cb:div>
+<lb ed="C" n="0151b20"/><cb:div type="orig"><lg xml:id="lgC097p0151b2001"><l>欲色有及見</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0151b2006" rend="margin-left:1em;inline"><note place="inline">欲界色界三有及見</note>。</p></cb:div><cb:div type="orig"><lg xml:id="lgC097p0151b2014" cb:place="inline"><l>說是四住地</l>
+<pb ed="C" xml:id="C097.1821.0151c" n="0151c"/>
+<lb ed="C" n="0151c01"/><l>意識之所起</l><l>識宅意所住</l>
+<lb ed="C" n="0151c02"/><l>意及眼識等</l><l>斷滅說無常</l>
+<lb ed="C" n="0151c03"/><l>或作涅槃見</l><l>而為說常住</l></lg></cb:div><cb:div type="commentary"><p xml:id="pC097p0151c0311" rend="margin-left:1em;inline"><note place="inline">此皆
+<lb ed="C" n="0151c04"/>因眾生而說一切法</note>。</p>
+<lb ed="C" n="0151c05"/><p xml:id="pC097p0151c0501" rend="margin-left:1em"><note place="inline">頌曰大慈金口何曾失誘進聲緣故佛同<anchor xml:id="beg_93" type="cb-app"/>已<anchor xml:id="end_93"/>了妄緣冥慮察不忘本願演宗風
+<lb ed="C" n="0151c06"/>藏心輪轉非無漏化佛因他豈自通若識如來真境界逈離根量等虛空</note>。</p></cb:div></cb:div>
+<lb ed="C" n="0151c07"/><cb:div type="other"><cb:mulu type="其他" level="2">戒飲食分第七十一</cb:mulu><head>戒飲食分第七十一</head>
+<lb ed="C" n="0151c08"/><cb:div type="orig"><p xml:id="pC097p0151c0801">爾時大慧菩薩以偈問言。</p>
+<lb ed="C" n="0151c09"/><lg xml:id="lgC097p0151c0901"><l>彼諸菩薩等</l><l>志求佛道者</l>
+<lb ed="C" n="0151c10"/><l>酒肉及與葱</l><l>飲食為云何</l>
+<lb ed="C" n="0151c11"/><l>惟願無上尊</l><l>哀愍為演說</l>
+<lb ed="C" n="0151c12"/><l>愚夫所貪著</l><l>臭穢無名稱</l>
+<lb ed="C" n="0151c13"/><l>虎狼所甘嗜</l><l>云何而可食</l>
+<lb ed="C" n="0151c14"/><l>食者生諸過</l><l>不食為福善</l>
+<lb ed="C" n="0151c15"/><l>惟願為我說</l><l>食不食罪福</l></lg>
+<lb ed="C" n="0151c16"/><p xml:id="pC097p0151c1601">大慧菩薩說偈問<anchor xml:id="beg_94" type="cb-app"/>已<anchor xml:id="end_94"/>。復白佛言。惟願
+<lb ed="C" n="0151c17"/>世尊為我等說食不食肉功德過惡
+<lb ed="C" n="0151c18"/>我及諸菩薩於現在未來。當為種種
+<lb ed="C" n="0151c19"/>希望食肉眾生分別說法令彼眾生
+<lb ed="C" n="0151c20"/>慈心相向。得慈心<anchor xml:id="beg_95" type="cb-app"/>已<anchor xml:id="end_95"/>。各於住地清淨
+<pb ed="C" xml:id="C097.1821.0152a" n="0152a"/>
+<lb ed="C" n="0152a01"/>明了。疾得究竟無上菩提。聲聞緣覺
+<lb ed="C" n="0152a02"/>自地止息已。亦得速成無上菩提。惡
+<lb ed="C" n="0152a03"/>邪論法諸外道輩。邪見斷常顛倒計
+<lb ed="C" n="0152a04"/>著。尚有遮法不聽食肉。况復如來世
+<lb ed="C" n="0152a05"/>間救護正法成就而食肉邪。佛告大
+<lb ed="C" n="0152a06"/>慧。善哉善哉。諦聽諦聽。善思念之。當
+<lb ed="C" n="0152a07"/>為汝說。大慧白佛言。唯然受教。</p>
+<lb ed="C" n="0152a08"/><p xml:id="pC097p0152a0801">佛告大慧。有無量因緣不應食肉。然
+<lb ed="C" n="0152a09"/>我今當為汝略說。謂一切眾生從本
+<lb ed="C" n="0152a10"/><anchor xml:id="beg_96" type="cb-app"/>已<anchor xml:id="end_96"/>來。展轉因緣常為六親。以親想故。
+<lb ed="C" n="0152a11"/>不應食肉。驢騾駱駞狐狗牛馬人獸
+<lb ed="C" n="0152a12"/>等肉。屠者雜賣故。不應食肉。不淨氣
+<lb ed="C" n="0152a13"/>分所生長故。不應食肉。眾生聞氣悉
+<lb ed="C" n="0152a14"/>生恐怖。如旃陁羅及譚婆等。狗見憎
+<lb ed="C" n="0152a15"/>惡驚怖群吠故。不應食肉。令修行者
+<lb ed="C" n="0152a16"/>慈心不生故。不應食肉。凡愚所嗜臭
+<lb ed="C" n="0152a17"/>穢不淨。無善名稱故。不應食肉。令諸
+<lb ed="C" n="0152a18"/>呪術不成就故。不應食肉。以殺生者
+<lb ed="C" n="0152a19"/>見形起識。深味著故。不應食肉。彼食
+<lb ed="C" n="0152a20"/>肉者。諸天所棄故。不應食肉。令口氣
+<pb ed="C" xml:id="C097.1821.0152b" n="0152b"/>
+<lb ed="C" n="0152b01"/>臭故。不應食肉。多惡夢故。不應食肉。
+<lb ed="C" n="0152b02"/>空閑林中虎狼聞香故。不應食肉。令
+<lb ed="C" n="0152b03"/>飲食無節量故。不應食肉。令修行者
+<lb ed="C" n="0152b04"/>不生厭離故。不應食肉。我甞說言。凡
+<lb ed="C" n="0152b05"/>所飲食。作食子肉想。作服藥想故。不
+<lb ed="C" n="0152b06"/>應食肉。聽食肉者無有是處。復次大
+<lb ed="C" n="0152b07"/>慧。過去有王。名師子蘇陁婆。食種種
+<lb ed="C" n="0152b08"/>肉。遂至食人。臣民不堪。即便謀反。斷
+<lb ed="C" n="0152b09"/>其俸祿。以食肉者有如是過故。不應
+<lb ed="C" n="0152b10"/>食肉。復次大慧。凡諸殺者。為財利故
+<lb ed="C" n="0152b11"/>殺生屠販。彼諸愚癡食肉眾生。以錢
+<lb ed="C" n="0152b12"/>為網而捕諸肉。彼殺生者。若以財物。
+<lb ed="C" n="0152b13"/>若以鉤網。取彼空行水陸眾生。種種
+<lb ed="C" n="0152b14"/>殺害。屠販求利。亦無不教不求不想
+<lb ed="C" n="0152b15"/>而有魚肉。以是義故。不應食肉。大慧。
+<lb ed="C" n="0152b16"/>我有時說遮五種肉。或制十種。今於
+<lb ed="C" n="0152b17"/>此經。一切種一切時開除方便一切
+<lb ed="C" n="0152b18"/>悉斷。大慧。如來應供等正覺尚無所
+<lb ed="C" n="0152b19"/>食。况食魚肉。亦不教人。以大悲前行
+<lb ed="C" n="0152b20"/>故視一切眾生猶如一子。是故不聽
+<pb ed="C" xml:id="C097.1821.0152c" n="0152c"/>
+<lb ed="C" n="0152c01"/>令食子肉。爾時世尊欲重宣此義而
+<lb ed="C" n="0152c02"/>說偈言。</p>
+<lb ed="C" n="0152c03"/><lg xml:id="lgC097p0152c0301"><l>曾悉為親屬</l><l>鄙穢不淨雜</l>
+<lb ed="C" n="0152c04"/><l>不淨所生長</l><l>聞氣悉恐怖</l>
+<lb ed="C" n="0152c05"/><l>一切肉與葱</l><l>及諸韮蒜等</l>
+<lb ed="C" n="0152c06"/><l>種種放逸酒</l><l>修行常遠離</l>
+<lb ed="C" n="0152c07"/><l>亦常離麻油</l><l>及諸穿孔牀</l>
+<lb ed="C" n="0152c08"/><l>以彼諸細蟲</l><l>於中極恐怖</l>
+<lb ed="C" n="0152c09"/><l>飲食生放逸</l><l>放逸生諸覺</l>
+<lb ed="C" n="0152c10"/><l>從覺生貪欲</l><l>是故不應食</l>
+<lb ed="C" n="0152c11"/><l>由食生貪欲</l><l>貪令心迷醉</l>
+<lb ed="C" n="0152c12"/><l>迷醉長愛欲</l><l>生死不解脫</l>
+<lb ed="C" n="0152c13"/><l>為利殺眾生</l><l>以財網諸肉</l>
+<lb ed="C" n="0152c14"/><l>二俱是惡業</l><l>死墮叫呼獄</l>
+<lb ed="C" n="0152c15"/><l>若無教想求</l><l>則無三淨肉</l>
+<lb ed="C" n="0152c16"/><l>彼非無因有</l><l>是故不應食</l>
+<lb ed="C" n="0152c17"/><l>彼諸修行者</l><l>由是悉離遠</l>
+<lb ed="C" n="0152c18"/><l>十方佛世尊</l><l>一切咸訶責</l>
+<lb ed="C" n="0152c19"/><l>展轉更相食</l><l>死墮虎狼類</l>
+<lb ed="C" n="0152c20"/><l>臭穢可厭惡</l><l>所生常愚癡</l>
+<pb ed="C" xml:id="C097.1821.0153a" n="0153a"/>
+<lb ed="C" n="0153a01"/><l>多生旃陀羅</l><l>獵師譚婆種</l>
+<lb ed="C" n="0153a02"/><l>或生陀夷尼</l><l>及諸食肉性</l>
+<lb ed="C" n="0153a03"/><l>羅剎猫狸等</l><l>徧於是中生</l>
+<lb ed="C" n="0153a04"/><l>縛象與大雲</l><l>央掘利魔羅</l>
+<lb ed="C" n="0153a05"/><l>及此楞伽經</l><l>我悉制斷肉</l>
+<lb ed="C" n="0153a06"/><l>諸佛及菩薩</l><l>聲聞所訶責</l>
+<lb ed="C" n="0153a07"/><l>食<anchor xml:id="beg_97" type="cb-app"/>已<anchor xml:id="end_97"/>無慙愧</l><l>生生常癡冥</l>
+<lb ed="C" n="0153a08"/><l>先說見聞疑</l><l><anchor xml:id="beg_98" type="cb-app"/>已<anchor xml:id="end_98"/>斷一切肉</l>
+<lb ed="C" n="0153a09"/><l>妄想不覺知</l><l>故生食肉處</l>
+<lb ed="C" n="0153a10"/><l>如彼貪欲過</l><l>障礙聖解脫</l>
+<lb ed="C" n="0153a11"/><l>酒肉葱韮蒜</l><l>悉為聖道障</l>
+<lb ed="C" n="0153a12"/><l>未來世眾生</l><l>於肉愚癡說</l>
+<lb ed="C" n="0153a13"/><l>言此淨無罪</l><l>佛聽我等食</l>
+<lb ed="C" n="0153a14"/><l>食如服藥想</l><l>亦如食子肉</l>
+<lb ed="C" n="0153a15"/><l>知足生厭離</l><l>修行行乞食</l>
+<lb ed="C" n="0153a16"/><l>安住慈心者</l><l>我說常厭離</l>
+<lb ed="C" n="0153a17"/><l>虎狼諸惡獸</l><l>恒可同游止</l>
+<lb ed="C" n="0153a18"/><l>若食諸血肉</l><l>眾生悉恐怖</l>
+<lb ed="C" n="0153a19"/><l>是故修行者</l><l>慈心不食肉</l>
+<lb ed="C" n="0153a20"/><l>食肉無慈慧</l><l>永背正解脫</l>
+<pb ed="C" xml:id="C097.1821.0153b" n="0153b"/>
+<lb ed="C" n="0153b01"/><l>及違聖表相</l><l>是故不應食</l>
+<lb ed="C" n="0153b02"/><l>得生梵志種</l><l>及諸修行處</l>
+<lb ed="C" n="0153b03"/><l>智慧富貴家</l><l>斯由不食肉</l></lg></cb:div>
+<lb ed="C" n="0153b04"/><cb:div type="commentary"><p xml:id="pC097p0153b0401" rend="margin-left:1em"><note place="inline">頌曰如來不食度群倫况嗜腥羶染穢人秘典一時都禁斷修行從此得
+<lb ed="C" n="0153b05"/>通津</note>。</p><p xml:id="pC097p0153b0503" rend="margin-left:1em;inline"><note place="inline">○揔頌曰如來只為閔癡盲豈憚相將入草行紙筆跡中傳了義胷
+<lb ed="C" n="0153b06"/>喉響裏演無生也知明月元非指要覔真金不免烹若問楞伽端的意舉
+<lb ed="C" n="0153b07"/>頭擬議八千程</note>。</p></cb:div></cb:div></cb:div>
+<lb ed="C" n="0153b08"/>
+<lb ed="C" n="0153b09"/><cb:juan fun="close" n="4b"><cb:jhead>楞伽經纂卷第四<note place="inline">下</note></cb:jhead></cb:juan>
+<lb ed="C" n="0153b10"/>
+<lb ed="C" n="0153b11"/><cb:div type="other"><cb:mulu type="其他" level="1">後序</cb:mulu><cb:div type="other"><cb:mulu type="其他" level="2">楊彥國序</cb:mulu><head>楞伽後序</head>
+<lb ed="C" n="0153b12"/><p xml:id="pC097p0153b1201">世疑達磨西來不立文字以楞伽秘
+<lb ed="C" n="0153b13"/>典為非達磨所傳乃魏流支之妄嗚
+<lb ed="C" n="0153b14"/>呼是未甞知祖意面壁九年杜絕言
+<lb ed="C" n="0153b15"/>句門人得髓不容以聲此西來之<g ref="#CB08073">𣅀</g>
+<lb ed="C" n="0153b16"/>也柰何後學智劣世遠師訛無所折
+<lb ed="C" n="0153b17"/>正學者必待揚眉拭眥而盡得之則
+<lb ed="C" n="0153b18"/>達磨之教得其傳者幾希矣是故我
+<lb ed="C" n="0153b19"/>祖不免取上乘一心之典併以傳授
+<lb ed="C" n="0153b20"/>且曰吾有楞伽四卷是佛之心印使
+<pb ed="C" xml:id="C097.1821.0153c" n="0153c"/>
+<lb ed="C" n="0153c01"/>法亡而典存上根利器者可由此而
+<lb ed="C" n="0153c02"/>證道傳訛習異者亦可由此而折正
+<lb ed="C" n="0153c03"/>雖歷百千世而宗風不墜者其有頼
+<lb ed="C" n="0153c04"/>於斯乎馬祖甞曰達磨自天笁來傳
+<lb ed="C" n="0153c05"/>上乘一心之法引楞伽經以佛語心
+<lb ed="C" n="0153c06"/>為宗以無門為法門其言著在方<g ref="#CB04693">𠕋</g>
+<lb ed="C" n="0153c07"/>以達磨授經之言為非則馬祖亦誣
+<lb ed="C" n="0153c08"/>人矣夫馬祖師讓讓師六祖其言必
+<lb ed="C" n="0153c09"/>有師承使楞伽果出於流支之偽濫
+<lb ed="C" n="0153c10"/>胡不折正於馬祖獨於數百載而下
+<lb ed="C" n="0153c11"/>折正於人乎流支之說果何經據而
+<lb ed="C" n="0153c12"/>云以傳燈為出於景德之後今為此
+<lb ed="C" n="0153c13"/>說者果出於景德之前乎若以二祖
+<lb ed="C" n="0153c14"/>非人勿傳之說為非是未甞知先聖
+<lb ed="C" n="0153c15"/>有醍醐上味翻為毒藥之語也今楞
+<lb ed="C" n="0153c16"/>伽無傳則已其文具存試取而讀之
+<lb ed="C" n="0153c17"/>有一言違先聖之<g ref="#CB08073">𣅀</g>乎但恐其句讀
+<lb ed="C" n="0153c18"/>之難非麤心者所能分別也去聖時
+<lb ed="C" n="0153c19"/>遙邪說增熾斯典備存尚不知取而
+<lb ed="C" n="0153c20"/>讀之以為之折正况欲盡毀棄以為
+<pb ed="C" xml:id="C097.1821.0154a" n="0154a"/>
+<lb ed="C" n="0154a01"/>非達磨所傳復如何哉以為吾宗不
+<lb ed="C" n="0154a02"/>立文字一切斷滅之則三祖之信心
+<lb ed="C" n="0154a03"/>銘四祖之禪宗論六祖之壇經皆數
+<lb ed="C" n="0154a04"/>千言盡可焚置而靈山所付特可委
+<lb ed="C" n="0154a05"/>之迦葉又何用阿難區區為之結集
+<lb ed="C" n="0154a06"/>殊不知面壁得髓之說乃達磨之拈
+<lb ed="C" n="0154a07"/>花也楞伽四卷乃達磨之一大藏教
+<lb ed="C" n="0154a08"/>也聖人立法自有權實安可執一而
+<lb ed="C" n="0154a09"/>論夫以八識二無我五法三自性語
+<lb ed="C" n="0154a10"/>楞伽之一二則可矣究楞伽之意故
+<lb ed="C" n="0154a11"/>有盡竹帛所不能載者此達磨所謂
+<lb ed="C" n="0154a12"/>可惜後人以為名相去在正今日之
+<lb ed="C" n="0154a13"/>弊也吾將纂述斯典為之詮釋使文
+<lb ed="C" n="0154a14"/>順而義明冀學者易於觀覽以大闡
+<lb ed="C" n="0154a15"/>揚達磨之宗使有見聞者槩可成佛
+<lb ed="C" n="0154a16"/>遽得此說誠可駭嘆因以為之辨云。</p>
+<lb ed="C" n="0154a17"/><p xml:id="pC097p0154a1701">太姥野人楊<note place="inline">彥國</note>序</p></cb:div>
+<lb ed="C" n="0154a18"/>
+<lb ed="C" n="0154a19"/>
+<lb ed="C" n="0154a20"/>
+<pb ed="C" xml:id="C097.1821.0154b" n="0154b"/>
+<lb ed="C" n="0154b01"/><cb:div type="other"><cb:mulu type="其他" level="2">沈調序</cb:mulu><head>楊居士楞伽經纂後序</head>
+<lb ed="C" n="0154b02"/><p xml:id="pC097p0154b0201">昔馬祖謂楞伽以佛語心為宗以無
+<lb ed="C" n="0154b03"/>門為法門居士楊公謂以心為宗則
+<lb ed="C" n="0154b04"/>心外無宗以無門為法門則有門非
+<lb ed="C" n="0154b05"/>法此楞伽之指要也其所發明事相
+<lb ed="C" n="0154b06"/>專論五法三自性八識二無我故又
+<lb ed="C" n="0154b07"/>名聖智事分別自性經又名觀察五
+<lb ed="C" n="0154b08"/>法自性相經又名言說妄想相心經
+<lb ed="C" n="0154b09"/>居士謂心本無名以現得名故云言
+<lb ed="C" n="0154b10"/>說妄想相心比佛語心之大意也云
+<lb ed="C" n="0154b11"/>佛語心者以其始終所論不離妄想
+<lb ed="C" n="0154b12"/>以至論倒不倒妄想起聖凡種性雖
+<lb ed="C" n="0154b13"/>聖種性亦由不顛倒妄想而起名為
+<lb ed="C" n="0154b14"/>妄想其實自心現量大哉心量雖十
+<lb ed="C" n="0154b15"/>方虛空山河大地不出其中修行者
+<lb ed="C" n="0154b16"/>乃欲滅除妄想而求真諦殊不知心
+<lb ed="C" n="0154b17"/>之有想猶海之有浪欲捨浪而觀海
+<lb ed="C" n="0154b18"/>亦猶捨煩惱而求菩提捨惑亂而求
+<lb ed="C" n="0154b19"/>戒定其可得乎由此觀之唯能知妄
+<lb ed="C" n="0154b20"/>想之可以凡可以聖然後可與論楞
+<pb ed="C" xml:id="C097.1821.0154c" n="0154c"/>
+<lb ed="C" n="0154c01"/>伽大旨嗚呼身心世界居妄想中不
+<lb ed="C" n="0154c02"/>自知覺乃欲滅想求真去道愈遠此
+<lb ed="C" n="0154c03"/>佛所以特假海浪以諭大慧至於大
+<lb ed="C" n="0154c04"/>慧問不實妄想云何而生則曰種種
+<lb ed="C" n="0154c05"/>義種種不實妄想論妄想生滅則曰
+<lb ed="C" n="0154c06"/>聖賢如性自性妄想亦不異以至反
+<lb ed="C" n="0154c07"/>覆詰難則告之曰前聖所知轉相傳
+<lb ed="C" n="0154c08"/>授妄想無性獨一靜處自覺觀察離
+<lb ed="C" n="0154c09"/>見妄想其告之深切著明如此故居
+<lb ed="C" n="0154c10"/>士嘆言迷此則生死河悟此則涅槃
+<lb ed="C" n="0154c11"/>樂其有得於斯歟後之學者假此微
+<lb ed="C" n="0154c12"/>言求自覺悟當如此經所指獨依於
+<lb ed="C" n="0154c13"/>義不依於文要在默契幽深回光返
+<lb ed="C" n="0154c14"/>照則楞伽印心之說當自得於言說
+<lb ed="C" n="0154c15"/>思惟之表若或執此經文以求心要
+<lb ed="C" n="0154c16"/>是猶刻舟求劒其蹉過遠矣昔慧滿
+<lb ed="C" n="0154c17"/>甞云諸佛說心令知心相是虛妄今
+<lb ed="C" n="0154c18"/>乃重加心相又增議論深違佛旨斯
+<lb ed="C" n="0154c19"/>可謂善觀楞伽者也此經雖以五法
+<lb ed="C" n="0154c20"/>等事相為主論然皆隨而排遣未甞
+<pb ed="C" xml:id="C097.1821.0155a" n="0155a"/>
+<lb ed="C" n="0155a01"/>泥於一法自非深明義趣已捨筌蹄
+<lb ed="C" n="0155a02"/>其能不滯於言說文字間乎居士福
+<lb ed="C" n="0155a03"/>州長溪人家于瀲浦余建炎間作邑
+<lb ed="C" n="0155a04"/>長溪時居士<anchor xml:id="beg_99" type="cb-app"/>已<anchor xml:id="end_99"/>去世三十餘年矣聞
+<lb ed="C" n="0155a05"/>有是經纂特趨瀲浦謁其弟<note place="inline">惇禮</note>察
+<lb ed="C" n="0155a06"/>院得其所藏之本察院公具言居士
+<lb ed="C" n="0155a07"/>自少為學有雋聲一舉不第便有遯
+<lb ed="C" n="0155a08"/>世之意去參諸方深造禪理既而結
+<lb ed="C" n="0155a09"/>茅太姥之下徧<g ref="#CB11301">󲰥</g>內典獨於楞伽自
+<lb ed="C" n="0155a10"/>有所得若夙緣所契研窮咀味凢數
+<lb ed="C" n="0155a11"/>十年乃作此論臨終戒其子以親書
+<lb ed="C" n="0155a12"/>副本藏諸柩仍建小塔于<note place="inline">太姥左峯之顛</note>以淨
+<lb ed="C" n="0155a13"/>本置其中嵗久塔頂夜有光村人疑
+<lb ed="C" n="0155a14"/>有物遂窮之唯有文字四秩由是散
+<lb ed="C" n="0155a15"/>失民間察院公宦游既歸乃復求訪
+<lb ed="C" n="0155a16"/>得之觀其分章作偈顧雖諸禪老宿
+<lb ed="C" n="0155a17"/>皆瞪眎而不敢<anchor xml:id="beg_9a" type="cb-app"/>睥<anchor xml:id="end_9a"/>睨非大手筆其誰
+<lb ed="C" n="0155a18"/>能之名經纂者以明其非注釋云耳。</p>
+<lb ed="C" n="0155a19"/><p xml:id="pC097p0155a1901">紹興二十八年十一月初九日左太中大
+<lb ed="C" n="0155a20"/>夫充敷文閣待制知福州軍州事提
+<pb ed="C" xml:id="C097.1821.0155b" n="0155b"/>
+<lb ed="C" n="0155b01"/>舉學事兼管內勸農使充福建路安
+<lb ed="C" n="0155b02"/>撫使馬步軍都緫管歸安縣開國男
+<lb ed="C" n="0155b03"/>食邑三百戶賜紫金魚袋沈<note place="inline">調</note>記</p></cb:div></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_7c" cb:to="#end_7c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7d" cb:to="#end_7d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7e" cb:to="#end_7e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7f" cb:to="#end_7f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_80" cb:to="#end_80"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_81" cb:to="#end_81"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_82" cb:to="#end_82"><corr>切生滅頓了</corr><sic><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear><unclear></unclear></sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_83" cb:to="#end_83"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_84" cb:to="#end_84"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_85" cb:to="#end_85"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_86" cb:to="#end_86"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_87" cb:to="#end_87"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_88" cb:to="#end_88"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_89" cb:to="#end_89"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8a" cb:to="#end_8a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8b" cb:to="#end_8b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8c" cb:to="#end_8c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8d" cb:to="#end_8d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8e" cb:to="#end_8e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8f" cb:to="#end_8f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_90" cb:to="#end_90"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_91" cb:to="#end_91"><corr>己</corr><sic>已</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_92" cb:to="#end_92"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_93" cb:to="#end_93"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_94" cb:to="#end_94"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_95" cb:to="#end_95"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_96" cb:to="#end_96"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_97" cb:to="#end_97"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_98" cb:to="#end_98"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_99" cb:to="#end_99"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_9a" cb:to="#end_9a"><corr>睥</corr><sic><g ref="#CB28917">䀝</g></sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

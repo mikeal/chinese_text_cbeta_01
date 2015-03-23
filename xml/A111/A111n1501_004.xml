@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="A111n1501">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Jin Edition of the Canon, Electronic version, No. 1501 大中祥符法寶錄(第3卷-第12卷)</title>
+			<author>宋 楊億等編修</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.4 $<date>$Date: 2011/05/04 09:37:20 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>9卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/05/04 09:37:20 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Jin Edition of the Canon Vol. 111, No. 1501 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00042">
+	<charName>CBETA CHARACTER CB00042</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[八/異]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>冀</value>
+	</charProp>
+	<mapping type="normal_unicode">U+517E</mapping>
+	<mapping cb:dec="983082" type="PUA">U+F002A</mapping>
+</char>
+<char xml:id="CB00716">
+	<charName>CBETA CHARACTER CB00716</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[宋-木+禹]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>宇</value>
+	</charProp>
+	<mapping type="unicode">U+3762</mapping>
+	<mapping cb:dec="983756" type="PUA">U+F02CC</mapping>
+</char>
+<char xml:id="CB04552">
+	<charName>CBETA CHARACTER CB04552</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[凵@又]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>凶</value>
+	</charProp>
+	<mapping cb:dec="987592" type="PUA">U+F11C8</mapping>
+</char>
+<char xml:id="CB07694">
+	<charName>CBETA CHARACTER CB07694</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[參-(彰-章)+小]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>參</value>
+	</charProp>
+	<mapping type="unicode">U+3558</mapping>
+	<mapping cb:dec="990734" type="PUA">U+F1E0E</mapping>
+</char>
+<char xml:id="CB07968">
+	<charName>CBETA CHARACTER CB07968</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[虔-文+又]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>虔</value>
+	</charProp>
+	<mapping type="unicode">U+2719B</mapping>
+	<mapping cb:dec="991008" type="PUA">U+F1F20</mapping>
+</char>
+<char xml:id="CB08504">
+	<charName>CBETA CHARACTER CB08504</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[舀*炎]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>燄</value>
+	</charProp>
+	<mapping type="unicode">U+269A8</mapping>
+	<mapping cb:dec="991544" type="PUA">U+F2138</mapping>
+</char>
+<char xml:id="CB09274">
+	<charName>CBETA CHARACTER CB09274</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[舟-(白-日)]</value>
+	</charProp>
+	<mapping cb:dec="992314" type="PUA">U+F243A</mapping>
+</char>
+<char xml:id="CB14335">
+	<charName>CBETA CHARACTER CB14335</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[塚-豖+豕]</value>
+	</charProp>
+	<mapping type="normal_unicode">U+585A</mapping>
+	<mapping cb:dec="997375" type="PUA">U+F37FF</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2011-02-01T14:22:22">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">別明　聖代翻宣錄中之二</cb:mulu><cb:mulu type="其他" level="2">藏乘區別年代指明二之一</cb:mulu><cb:mulu type="其他" level="3">雍熙元年三月譯成經六卷</cb:mulu><cb:mulu type="其他" level="4">分別善惡報應經一部二卷</cb:mulu>
+<pb ed="A" xml:id="A111.1501.0699b" n="0699b"/>
+<lb ed="A" n="0699b01"/><milestone unit="juan" n="4"/><cb:mulu type="卷" n="4"></cb:mulu><cb:juan fun="open" n="4"><cb:jhead>大中祥符法寶錄卷第四　　　　跡</cb:jhead></cb:juan>
+<lb ed="A" n="0699b02"/><byline cb:type="editor"><note place="inline"><unclear></unclear>…<unclear></unclear>…
+<lb ed="A" n="0699b03"/><unclear></unclear>…<unclear></unclear>楊億等奉
+<lb ed="A" n="0699b04" type="honorific"/>勑編修</note></byline>
+<lb ed="A" n="0699b05"/><cb:div type="other"><cb:mulu type="其他" level="1">別明　聖代翻宣錄中之三</cb:mulu><head>別明　聖代翻宣錄中之三</head>
+<lb ed="A" n="0699b06"/><cb:div type="other"><cb:mulu type="其他" level="2">藏乘區別年代指明二之二</cb:mulu><head>藏乘區別年代指明二之二</head>
+<lb ed="A" n="0699b07"/><cb:div type="other"><cb:mulu type="其他" level="3">雍熙元年五月譯成經五卷</cb:mulu><head>雍熙元年五月譯成經五卷</head>
+<lb ed="A" n="0699b08"/><cb:div type="other"><cb:mulu type="其他" level="4">聖虛空藏菩薩陀羅尼經一部一卷</cb:mulu><head>聖虛空藏菩薩陀羅尼經一部一卷</head>
+<lb ed="A" n="0699b09"/><p xml:id="pA111p0699b0901" rend="margin-left:3em">大乘經藏祕密部收佛在喜
+<lb ed="A" n="0699b10"/>樂山頂天宮不遠仙人住處
+<lb ed="A" n="0699b11"/>說此中所明七佛聖尊各說
+<pb ed="A" xml:id="A111.1501.0700a" n="0700a"/>
+<lb ed="A" n="0700a01"/>神呪彰祕密言除疾疫苦若
+<lb ed="A" n="0700a02"/>受持者當作護摩決定速能
+<lb ed="A" n="0700a03"/>獲諸悉地。</p></cb:div>
+<lb ed="A" n="0700a04"/><cb:div type="other"><cb:mulu type="其他" level="4">大寒林聖難拏陀羅尼經一部一卷</cb:mulu><head>大寒林聖難拏陀羅尼經一部一卷</head>
+<lb ed="A" n="0700a05"/><p xml:id="pA111p0700a0501" rend="margin-left:3em">大乘經藏祕密部收佛在王
+<lb ed="A" n="0700a06"/>舍城中說此中所明因羅睺
+<lb ed="A" n="0700a07"/>羅游寒林中於大<g ref="#CB14335">󳟿</g>閒為鬼
+<lb ed="A" n="0700a08"/>魅所著悲泣流淚具以白佛
+<lb ed="A" n="0700a09"/>佛為授斯大明而作擁護若
+<lb ed="A" n="0700a10"/>一切有情能念誦者咸彰利
+<lb ed="A" n="0700a11"/>益又若設諸供養結印誦明
+<lb ed="A" n="0700a12"/>一百八徧可一踰善那境界
+<pb ed="A" xml:id="A111.1501.0700b" n="0700b"/>
+<lb ed="A" n="0700b01"/>之內人非人等皆悉遠離。</p></cb:div>
+<lb ed="A" n="0700b02"/><cb:div type="other"><cb:mulu type="其他" level="4">大乘日子王所問經一部一卷</cb:mulu><head>大乘日子王所問經一部一卷</head>
+<lb ed="A" n="0700b03"/><p xml:id="pA111p0700b0301" rend="margin-left:3em">大乘經藏收佛在憍睒彌國
+<lb ed="A" n="0700b04"/>瞿尸羅林說此中所明因日
+<lb ed="A" n="0700b05"/>子王託欲染緣假殺害行顯
+<lb ed="A" n="0700b06"/>其夫人具法威力由是相因
+<lb ed="A" n="0700b07"/>見佛聽法斯乃菩薩長夜利
+<lb ed="A" n="0700b08"/>益安樂一切眾生善方便也
+<lb ed="A" n="0700b09"/>以其利生方便故號大乘日
+<lb ed="A" n="0700b10"/>子王矣。</p></cb:div>
+<lb ed="A" n="0700b11"/><cb:div type="other"><cb:mulu type="其他" level="4">大護明大陀羅尼經一部一卷</cb:mulu><head>大護明大陀羅尼經一部一卷</head>
+<pb ed="A" xml:id="A111.1501.0701a" n="0701a"/>
+<lb ed="A" n="0701a01"/><p xml:id="pA111p0701a0101" rend="margin-left:3em">大乘經藏祕密部收佛徃吠
+<lb ed="A" n="0701a02"/>舍離城菴沒羅園說此中所
+<lb ed="A" n="0701a03"/>明佛為眾生諸災難起疾疫
+<lb ed="A" n="0701a04"/>流布說此神呪令速除滅如
+<lb ed="A" n="0701a05"/>來以彼四無量心說示真言
+<lb ed="A" n="0701a06"/>令知歸趣俾受持者疾疫消
+<lb ed="A" n="0701a07"/>除若依法修速獲悉地。</p></cb:div>
+<lb ed="A" n="0701a08"/><cb:div type="other"><cb:mulu type="其他" level="4">諸行有為經一部一卷</cb:mulu><head>諸行有為經一部一卷</head>
+<lb ed="A" n="0701a09"/><p xml:id="pA111p0701a0901" rend="margin-left:3em">小乘經藏收佛在舍衛國祇
+<lb ed="A" n="0701a10"/>樹給孤獨園說此中所明佛
+<lb ed="A" n="0701a11"/>為苾芻說諸有為法悉是無
+<lb ed="A" n="0701a12"/>常如幻如<g ref="#CB08504">𦦨</g>皆不實故諸了
+<pb ed="A" xml:id="A111.1501.0701b" n="0701b"/>
+<lb ed="A" n="0701b01"/>知者當生猒患修十善法證
+<lb ed="A" n="0701b02"/>八軰果。</p></cb:div>
+<lb ed="A" n="0701b03"/><p xml:id="pA111p0701b0301" rend="margin-left:5em">上五部竝中天竺梵本所出。</p>
+<lb ed="A" n="0701b04"/><p xml:id="pA111p0701b0401" rend="margin-left:4em">右經三藏沙門法天譯天
+<lb ed="A" n="0701b05"/>息災證梵義施護證梵文
+<lb ed="A" n="0701b06"/>沙門清沼筆受沙門令遵
+<lb ed="A" n="0701b07"/>法定慧達智遜綴文沙門
+<lb ed="A" n="0701b08"/>惠溫守巒道真寘顯慧超
+<lb ed="A" n="0701b09"/>法雲可瓌善祐證義兵部
+<lb ed="A" n="0701b10"/>員外郎張洎潤文殿頭高
+<lb ed="A" n="0701b11"/>品王文壽殿直劉素監譯
+<pb ed="A" xml:id="A111.1501.0702a" n="0702a"/>
+<lb ed="A" n="0702a01"/>是月三日監使引三藏等
+<lb ed="A" n="0702a02"/>詣崇政殿捧所譯經具表
+<lb ed="A" n="0702a03" type="honorific"/>上進其詞曰臣法天等言
+<lb ed="A" n="0702a04"/>臣等今譯就聖虛空藏菩
+<lb ed="A" n="0702a05"/>薩陀羅尼經文寒林聖難
+<lb ed="A" n="0702a06"/>拏陀羅尼經大乘日子王
+<lb ed="A" n="0702a07"/>所問經大護明大陀羅尼
+<lb ed="A" n="0702a08"/>經諸行有為經等五部五
+<lb ed="A" n="0702a09"/>卷上四部高談了義理極
+<lb ed="A" n="0702a10"/>無為其修證者皆菩薩上
+<lb ed="A" n="0702a11"/>流也下一經曲示權機言
+<lb ed="A" n="0702a12"/>該有相其趣向者唯聲聞
+<pb ed="A" xml:id="A111.1501.0702b" n="0702b"/>
+<lb ed="A" n="0702b01"/>小果也灑一味雨潤三種
+<lb ed="A" n="0702b02"/>根或祕密以存心或虛空
+<lb ed="A" n="0702b03"/>而表稱金剛發慧邪魅懾
+<lb ed="A" n="0702b04"/>於威靈寶印舒光疫癘逃
+<lb ed="A" n="0702b05"/>於影象詞旨煥若報應昭
+<lb ed="A" n="0702b06"/>然宣傳幸屬於
+<lb ed="A" n="0702b07" type="honorific"/>聖時流衍式期於彌劫伏惟
+<lb ed="A" n="0702b08"/>應運統天睿文英武大聖
+<lb ed="A" n="0702b09"/>至明廣孝皇帝陛下握符
+<lb ed="A" n="0702b10"/>御宇
+<lb ed="A" n="0702b11" type="honorific"/>恭<anchor xml:id="beg_3" type="cb-app"/>己<anchor xml:id="end_3"/>臨人敷德教以咸和
+<pb ed="A" xml:id="A111.1501.0703a" n="0703a"/>
+<lb ed="A" n="0703a01"/>騰頌聲而載路而復
+<lb ed="A" n="0703a02" type="honorific"/>游心華藏觀妙真源融甘
+<lb ed="A" n="0703a03"/>露於釋天得心珠於法海
+<lb ed="A" n="0703a04"/>臣等共慙菲陋獲預翻傳
+<lb ed="A" n="0703a05"/>謬鼓吹於圓音莫<g ref="#CB09274">󲐺</g>青於
+<lb ed="A" n="0703a06"/>妙義廣憑眾善仰祝
+<lb ed="A" n="0703a07" type="honorific"/>丕圖前件新譯經謹繕寫
+<lb ed="A" n="0703a08" type="honorific"/>上進以
+<lb ed="A" n="0703a09" type="honorific"/>聞是日
+<lb ed="A" n="0703a10" type="honorific"/>命坐賜茶
+<lb ed="A" n="0703a11" type="honorific"/>親加撫慰錫賜如例
+<lb ed="A" n="0703a12" type="honorific"/>詔以其經入藏頒行時天
+<pb ed="A" xml:id="A111.1501.0703b" n="0703b"/>
+<lb ed="A" n="0703b01"/>息災以久駐都城頗有山
+<lb ed="A" n="0703b02"/>林之思尋聞于
+<lb ed="A" n="0703b03" type="honorific"/>上至是
+<lb ed="A" n="0703b04" type="honorific"/>上語天息災曰卿傳譯曰
+<lb ed="A" n="0703b05"/>久固知疲倦可適名山暫
+<lb ed="A" n="0703b06"/>為游賞翌日
+<lb ed="A" n="0703b07" type="honorific"/>優詔給假許詣南嶽游禮
+<lb ed="A" n="0703b08"/>勝境遣官健充給使縣次
+<lb ed="A" n="0703b09"/>續食朝辭日賜束帛至明
+<lb ed="A" n="0703b10"/>年春還上都。</p></cb:div>
+<lb ed="A" n="0703b11"/><cb:div type="other"><cb:mulu type="其他" level="3">是年九月譯成經集十卷</cb:mulu><head>是年九月譯成經集十卷</head>
+<pb ed="A" xml:id="A111.1501.0704a" n="0704a"/>
+<lb ed="A" n="0704a01"/><cb:div type="other"><cb:mulu type="其他" level="4">無能勝大明王陀羅尼經一部一卷</cb:mulu><head>無能勝大明王陀羅尼經一部一卷</head>
+<lb ed="A" n="0704a02"/><p xml:id="pA111p0704a0201" rend="margin-left:3em">大乘經藏祕密部收析出別
+<lb ed="A" n="0704a03"/>譯此中所明顯茲神呪有大
+<lb ed="A" n="0704a04"/>力能能勝於他他無能勝神
+<lb ed="A" n="0704a05"/>通智用彰持誦之深功祕密
+<lb ed="A" n="0704a06"/>靈光入瑜伽之妙理。</p></cb:div>
+<lb ed="A" n="0704a07"/><cb:div type="other"><cb:mulu type="其他" level="4">嗟韈曩法天子受三歸依獲免惡道經一部一卷</cb:mulu><head>嗟韈曩法天子受三歸依獲免
+<lb ed="A" n="0704a08"/>惡道經一部一卷</head>
+<lb ed="A" n="0704a09"/><p xml:id="pA111p0704a0901" rend="margin-left:3em">小乘經藏收佛在舍衛國祇
+<lb ed="A" n="0704a10"/>樹給孤獨園說此中所明忉
+<lb ed="A" n="0704a11"/>利天中有一天子名嗟韈曩
+<lb ed="A" n="0704a12"/>法天報將盡五衰現前畜趣
+<pb ed="A" xml:id="A111.1501.0704b" n="0704b"/>
+<lb ed="A" n="0704b01"/>業成七日當墮帝釋愍其苦
+<lb ed="A" n="0704b02"/>惱因以方便拔除令發淨心
+<lb ed="A" n="0704b03"/>歸依三寶由是獲免惡道生
+<lb ed="A" n="0704b04"/>覩史天。</p></cb:div>
+<lb ed="A" n="0704b05"/><cb:div type="other"><cb:mulu type="其他" level="4">佛頂放無垢光明入普門觀察一切如來心陀羅尼經一部二卷</cb:mulu><head>佛頂放無垢光明入普門觀察
+<lb ed="A" n="0704b06"/>一切如來心陀羅尼經一部二卷</head>
+<lb ed="A" n="0704b07"/><p xml:id="pA111p0704b0701" rend="margin-left:3em">大乘經藏祕密部收佛在覩
+<lb ed="A" n="0704b08"/>史天宮說上卷所明佛為梵
+<lb ed="A" n="0704b09"/>釋天眾說六度法時忉利天
+<lb ed="A" n="0704b10"/>有一天子名摩尼藏無垢方
+<lb ed="A" n="0704b11"/>受天樂忽有藥叉名炬口天
+<pb ed="A" xml:id="A111.1501.0705a" n="0705a"/>
+<lb ed="A" n="0705a01"/>謂言七日汝當命終墮於惡
+<lb ed="A" n="0705a02"/>道彼天即告帝釋天主帝釋
+<lb ed="A" n="0705a03"/>乃為白佛求救佛說神呪令
+<lb ed="A" n="0705a04"/>彼受持獲免惡道下卷所明
+<lb ed="A" n="0705a05"/>此大神呪有勝功力造塔安
+<lb ed="A" n="0705a06"/>置旋繞供養依法所作獲福
+<lb ed="A" n="0705a07"/>無邊復說無垢普門如來心
+<lb ed="A" n="0705a08"/>呪等。</p></cb:div>
+<lb ed="A" n="0705a09"/><cb:div type="other"><cb:mulu type="其他" level="4">聖最上燈明如來陀羅尼經一部一卷</cb:mulu><head>聖最上燈明如來陀羅尼經一
+<lb ed="A" n="0705a10"/>部一卷</head>
+<lb ed="A" n="0705a11"/><p xml:id="pA111p0705a1101" rend="margin-left:3em">大乘經藏祕密部收佛在舍
+<lb ed="A" n="0705a12"/>衛國祇樹給孤獨園說此中
+<pb ed="A" xml:id="A111.1501.0705b" n="0705b"/>
+<lb ed="A" n="0705b01"/>所明因無邊華世界最上燈
+<lb ed="A" n="0705b02"/>明如來遣二菩薩來此世界
+<lb ed="A" n="0705b03"/>如彼佛勑宣祕密言於此界
+<lb ed="A" n="0705b04"/>中作利益事令有情類依法
+<lb ed="A" n="0705b05"/>受持息除一切擾惱鄣難由
+<lb ed="A" n="0705b06"/>是會中無能勝等菩薩天王
+<lb ed="A" n="0705b07"/>亦隨喜說祕密章句最後如
+<lb ed="A" n="0705b08"/>來亦說神呪。</p></cb:div>
+<lb ed="A" n="0705b09"/><cb:div type="other"><cb:mulu type="其他" level="4">消除一切閃電鄣難隨求如意陀羅尼經一部一卷</cb:mulu><head>消除一切閃電鄣難隨求如意
+<lb ed="A" n="0705b10"/>陀羅尼經一部一卷</head>
+<lb ed="A" n="0705b11"/><p xml:id="pA111p0705b1101" rend="margin-left:3em">大乘經藏祕密部收佛在舍
+<pb ed="A" xml:id="A111.1501.0706a" n="0706a"/>
+<lb ed="A" n="0706a01"/>衛國精舍中說此中所明佛
+<lb ed="A" n="0706a02"/>謂阿難陀我欲悲愍利益一
+<lb ed="A" n="0706a03"/>切羣生獲得安樂宣說消除
+<lb ed="A" n="0706a04"/>一切閃電障難隨求如意陀
+<lb ed="A" n="0706a05"/>羅尼及說四方電名然後觀
+<lb ed="A" n="0706a06"/>自在菩薩金剛手菩薩等并
+<lb ed="A" n="0706a07"/>餘梵釋四王亦各隨喜宣說
+<lb ed="A" n="0706a08"/>神呪。</p></cb:div>
+<lb ed="A" n="0706a09"/><cb:div type="other"><cb:mulu type="其他" level="4">一切如來正法祕密篋印心陀羅尼經一部一卷</cb:mulu><head>一切如來正法祕密篋印心陀
+<lb ed="A" n="0706a10"/>羅尼經一部一卷</head>
+<lb ed="A" n="0706a11"/><p xml:id="pA111p0706a1101" rend="margin-left:3em">大乘經藏祕密部收佛在摩
+<lb ed="A" n="0706a12"/>誐陀國無垢園中說因無垢
+<pb ed="A" xml:id="A111.1501.0706b" n="0706b"/>
+<lb ed="A" n="0706b01"/>妙月婆羅門於自舍中飰佛
+<lb ed="A" n="0706b02"/>及僧佛因適中塗逢故塔廟
+<lb ed="A" n="0706b03"/>乃放光明普徧照耀於其光
+<lb ed="A" n="0706b04"/>中出聲讚佛佛即繞塔脫衣
+<lb ed="A" n="0706b05"/>以覆又以方便雨淚悲感是
+<lb ed="A" n="0706b06"/>時十方諸佛同時出現亦各
+<lb ed="A" n="0706b07"/>雨淚塔中舍利現諸佛掌時
+<lb ed="A" n="0706b08"/>金剛手問塔因緣佛言一切
+<lb ed="A" n="0706b09"/>如來全身舍利在此塔中正
+<lb ed="A" n="0706b10"/>法心印陀羅尼乃至八萬四
+<lb ed="A" n="0706b11"/>千法門悉從中出佛因廣讚
+<pb ed="A" xml:id="A111.1501.0707a" n="0707a"/>
+<lb ed="A" n="0707a01"/>此陀羅尼有大功德若受持
+<lb ed="A" n="0707a02"/>者得成聖果。</p></cb:div>
+<lb ed="A" n="0707a03"/><cb:div type="other"><cb:mulu type="其他" level="4">息除中天陀羅尼經一部一卷</cb:mulu><head>息除中天陀羅尼經一部一卷</head>
+<lb ed="A" n="0707a04"/><p xml:id="pA111p0707a0401" rend="margin-left:3em">大乘經藏祕密部收佛在殑
+<lb ed="A" n="0707a05"/>伽河邊說此中所明佛起悲
+<lb ed="A" n="0707a06"/>心為諸羣品欲除中夭之橫
+<lb ed="A" n="0707a07"/>爰宣無上之門說祕密言託
+<lb ed="A" n="0707a08"/>加持力十方諸佛同共讚揚
+<lb ed="A" n="0707a09"/>若能誦持息除中天。</p></cb:div>
+<lb ed="A" n="0707a10"/><cb:div type="other"><cb:mulu type="其他" level="4">六道伽陀經一部一卷</cb:mulu><head>六道伽陀經一部一卷</head></cb:div>
+<lb ed="A" n="0707a11"/><cb:div type="other"><cb:mulu type="其他" level="4">讚法界頌一部一卷</cb:mulu><head>讚法界頌一部一卷<note place="inline">竝西方聖賢集收</note></head></cb:div>
+<lb ed="A" n="0707a12"/><p xml:id="pA111p0707a1201" rend="margin-left:5em">上九部竝中天竺梵本所出。</p>
+<pb ed="A" xml:id="A111.1501.0707b" n="0707b"/>
+<lb ed="A" n="0707b01"/><p xml:id="pA111p0707b0101" rend="margin-left:4em">右經集三藏沙門施護譯
+<lb ed="A" n="0707b02"/>法天證梵文沙門清沼令
+<lb ed="A" n="0707b03"/>遵法定筆受沙門智遜慧
+<lb ed="A" n="0707b04"/>達寘顯綴文沙門惠溫守
+<lb ed="A" n="0707b05"/>巒道真慧超法雲可瓌善
+<lb ed="A" n="0707b06"/>祐證義兵部員外郎張洎
+<lb ed="A" n="0707b07"/>潤文殿頭高品王文壽殿
+<lb ed="A" n="0707b08"/>直劉素監譯是月二十三
+<lb ed="A" n="0707b09"/>日監使引三藏等詣
+<lb ed="A" n="0707b10" type="honorific"/>崇政殿捧所譯經具表
+<lb ed="A" n="0707b11" type="honorific"/>上進其詞曰臣施護等言
+<pb ed="A" xml:id="A111.1501.0708a" n="0708a"/>
+<lb ed="A" n="0708a01"/>臣等今譯就無能勝大明
+<lb ed="A" n="0708a02"/>王陀羅尼等經及讚法界
+<lb ed="A" n="0708a03"/>頌共九部計一十卷從本
+<lb ed="A" n="0708a04"/>至末同出異名殑伽河邊
+<lb ed="A" n="0708a05"/>暢三乘之妙義光明池上
+<lb ed="A" n="0708a06"/>顯諸佛之全身或呪藏祕
+<lb ed="A" n="0708a07"/>於密言或小器忻於權化
+<lb ed="A" n="0708a08"/>伽陀為目彰六道之習因
+<lb ed="A" n="0708a09"/>讚頌立名示法界之真理
+<lb ed="A" n="0708a10"/>琅函乍發煥乎文章金口
+<lb ed="A" n="0708a11"/>所宣坦然明白克彰報應
+<lb ed="A" n="0708a12"/>定表徵祥伏惟
+<pb ed="A" xml:id="A111.1501.0708b" n="0708b"/>
+<lb ed="A" n="0708b01" type="honorific"/>應運統天睿文英武大聖
+<lb ed="A" n="0708b02"/>至明廣孝皇帝陛下道合
+<lb ed="A" n="0708b03"/>二儀
+<lb ed="A" n="0708b04" type="honorific"/>功超三古煥日新之盛德
+<lb ed="A" n="0708b05"/>蘊天縱之多能
+<lb ed="A" n="0708b06" type="honorific"/>福慧等於世雄
+<lb ed="A" n="0708b07" type="honorific"/>聖哲侔於大梵故得覺華
+<lb ed="A" n="0708b08"/>分彩道樹垂陰遐傳甘露
+<lb ed="A" n="0708b09"/>之文遠達
+<lb ed="A" n="0708b10" type="honorific"/>蒼龍之闕臣等身依妙教
+<lb ed="A" n="0708b11"/>學愧謏聞<g ref="#CB07968">𧆛</g>奉
+<pb ed="A" xml:id="A111.1501.0709a" n="0709a"/>
+<lb ed="A" n="0709a01"/>德音預茲翻譯今者幸逢
+<lb ed="A" n="0709a02"/>誕節仰祝
+<lb ed="A" n="0709a03" type="honorific"/>遐齡<g ref="#CB00042">󰀪</g>憑最上之勝因以奉
+<lb ed="A" n="0709a04"/>無疆之
+<lb ed="A" n="0709a05" type="honorific"/>睿筭前件新譯經謹繕寫
+<lb ed="A" n="0709a06" type="honorific"/>上進以
+<lb ed="A" n="0709a07" type="honorific"/>聞是日
+<lb ed="A" n="0709a08" type="honorific"/>命坐賜茶
+<lb ed="A" n="0709a09" type="honorific"/>親加撫慰錫賜如例
+<lb ed="A" n="0709a10" type="honorific"/>詔以其經入藏頒行是歲
+<lb ed="A" n="0709a11"/>校兩街梵學童子得惟淨
+<lb ed="A" n="0709a12"/>等四人念誦梵經最為精熟
+<pb ed="A" xml:id="A111.1501.0709b" n="0709b"/>
+<lb ed="A" n="0709b01" type="honorific"/>詔竝度為僧并度本院童
+<lb ed="A" n="0709b02"/>行十有一人又
+<lb ed="A" n="0709b03" type="honorific"/>詔自今新譯經論竝刊版
+<lb ed="A" n="0709b04"/>摹印以廣流布。</p></cb:div>
+<lb ed="A" n="0709b05"/><cb:div type="other"><cb:mulu type="其他" level="3">二年五月譯成經八卷</cb:mulu><head>二年五月譯成經八卷</head>
+<lb ed="A" n="0709b06"/><cb:div type="other"><cb:mulu type="其他" level="4">妙法聖念處經一部八卷</cb:mulu><head>妙法聖念處經一部八卷</head>
+<lb ed="A" n="0709b07"/><p xml:id="pA111p0709b0701" rend="margin-left:3em">大乘經藏收佛於一時在大
+<lb ed="A" n="0709b08"/>眾中為眾宣說第一卷明善
+<lb ed="A" n="0709b09"/>惡因果差別不同若諸有情
+<lb ed="A" n="0709b10"/>不造諸惡出離三界得證二
+<lb ed="A" n="0709b11"/>空若迷諸境常行惡因墮於
+<pb ed="A" xml:id="A111.1501.0710a" n="0710a"/>
+<lb ed="A" n="0710a01"/>三塗淪沒無盡第二卷明苾
+<lb ed="A" n="0710a02"/>芻請問地獄有情何因得免
+<lb ed="A" n="0710a03"/>佛說不飲諸酒是離苦因第
+<lb ed="A" n="0710a04"/>三卷明若有求生人天者應
+<lb ed="A" n="0710a05"/>離諸業煩惱及妄語等過勸
+<lb ed="A" n="0710a06"/>諸有情修習善行尊重三寶
+<lb ed="A" n="0710a07"/>趣證菩提第四卷明苾芻請
+<lb ed="A" n="0710a08"/>問若人愛樂生天修何因行
+<lb ed="A" n="0710a09"/>佛說布施持戒遠離諸纏命
+<lb ed="A" n="0710a10"/>終之後諸天化生第五卷明
+<lb ed="A" n="0710a11"/>帝釋天主宣說伽陀明得生
+<lb ed="A" n="0710a12"/>天力特禁戒乃至有諸苾芻
+<pb ed="A" xml:id="A111.1501.0710b" n="0710b"/>
+<lb ed="A" n="0710b01"/>及飛禽類各說伽陀等第六
+<lb ed="A" n="0710b02"/>卷明佛誡諸天云何久住譬
+<lb ed="A" n="0710b03"/>如芭蕉水沫無少堅實教彼
+<lb ed="A" n="0710b04"/>天眾當須遠離第七卷明飛
+<lb ed="A" n="0710b05"/>禽說偈勸彼諸天勤修利益
+<lb ed="A" n="0710b06"/>守護戒根乃至帝釋說偈顯
+<lb ed="A" n="0710b07"/>行悲心是生天業貪癡散亂
+<lb ed="A" n="0710b08"/>為地獄因第八卷明帝釋說
+<lb ed="A" n="0710b09"/>偈若散亂不生脫輪迴惡怖
+<lb ed="A" n="0710b10"/>勸行施忍正見慈悲尊重如
+<lb ed="A" n="0710b11"/>來信受佛教等揔彰此部經
+<pb ed="A" xml:id="A111.1501.0711a" n="0711a"/>
+<lb ed="A" n="0711a01"/>之大旨者佛於眾中應其機
+<lb ed="A" n="0711a02"/>感以妙偈句示正法門令諸
+<lb ed="A" n="0711a03"/>天人斷除三毒三毒者貪瞋
+<lb ed="A" n="0711a04"/>癡之謂也由彼貪故諸染隨
+<lb ed="A" n="0711a05"/>生貪法若除過失不起其能
+<lb ed="A" n="0711a06"/>斷除貪瞋癡等即得尸羅清
+<lb ed="A" n="0711a07"/>淨尸羅淨故得生天報然以
+<lb ed="A" n="0711a08"/>天中是勝快樂智者亦於樂
+<lb ed="A" n="0711a09"/>中生猒能起猒者是於妙法
+<lb ed="A" n="0711a10"/>安住聖念聖者正也正以離
+<lb ed="A" n="0711a11"/>邪乃名聖性大雄深旨拔苦為
+<lb ed="A" n="0711a12"/>先貪滅苦除歸三解脫者也。</p></cb:div>
+<pb ed="A" xml:id="A111.1501.0711b" n="0711b"/>
+<lb ed="A" n="0711b01"/><p xml:id="pA111p0711b0101" rend="margin-left:5em">上一部中天竺梵本所出。</p>
+<lb ed="A" n="0711b02"/><p xml:id="pA111p0711b0201" rend="margin-left:4em">右經三藏沙門法天譯天
+<lb ed="A" n="0711b03"/>息災證梵義施護證梵文
+<lb ed="A" n="0711b04"/>沙門清沼令遵法定筆受
+<lb ed="A" n="0711b05"/>沙門寘顯慧達綴文沙門
+<lb ed="A" n="0711b06"/>惠溫守巒道真智遜慧超
+<lb ed="A" n="0711b07"/>法雲可瓌善祐證義兵部
+<lb ed="A" n="0711b08"/>員外郎張洎潤文殿頭高
+<lb ed="A" n="0711b09"/>品王文壽殿直劉素監譯
+<lb ed="A" n="0711b10"/>是月二日監使引三藏等詣
+<lb ed="A" n="0711b11" type="honorific"/>崇政殿捧所譯經具表
+<pb ed="A" xml:id="A111.1501.0712a" n="0712a"/>
+<lb ed="A" n="0712a01" type="honorific"/>上進其詞曰臣法天等言
+<lb ed="A" n="0712a02"/>臣等今譯就妙法聖念處
+<lb ed="A" n="0712a03"/>經一部八卷伏以此經深
+<lb ed="A" n="0712a04"/>明六度普應羣機定慧雙
+<lb ed="A" n="0712a05"/>融戒忍兼舉方圓任器果
+<lb ed="A" n="0712a06"/>利隨因馭鹿乘牛各循於
+<lb ed="A" n="0712a07"/>軌轍取魚得兔允籍於筌
+<lb ed="A" n="0712a08"/>蹄諒此格言誠為要義式
+<lb ed="A" n="0712a09"/>當翻演允屬
+<lb ed="A" n="0712a10" type="honorific"/>休明恭惟
+<lb ed="A" n="0712a11" type="honorific"/>應運統天睿文英武大聖
+<lb ed="A" n="0712a12"/>至明廣孝皇帝陛下濬哲
+<pb ed="A" xml:id="A111.1501.0712b" n="0712b"/>
+<lb ed="A" n="0712b01"/>欽明徇齊敦敏
+<lb ed="A" n="0712b02" type="honorific"/>冠百王而求治
+<lb ed="A" n="0712b03" type="honorific"/>致比屋之可封
+<lb ed="A" n="0712b04" type="honorific"/>乃眷真乘允資
+<lb ed="A" n="0712b05" type="honorific"/>政本爰從
+<lb ed="A" n="0712b06" type="honorific"/>纂極恢闡度門
+<lb ed="A" n="0712b07" type="honorific"/>旁求寶偈之一音更廣
+<lb ed="A" n="0712b08"/>龍宮之三藏臣等謬膺
+<lb ed="A" n="0712b09"/>推擇獲預翻宣慙非八備
+<lb ed="A" n="0712b10"/>之才但祝
+<lb ed="A" n="0712b11" type="honorific"/>千齡之運前件新譯經謹
+<pb ed="A" xml:id="A111.1501.0713a" n="0713a"/>
+<lb ed="A" n="0713a01"/>繕寫
+<lb ed="A" n="0713a02" type="honorific"/>上進以
+<lb ed="A" n="0713a03" type="honorific"/>聞是日
+<lb ed="A" n="0713a04" type="honorific"/>命坐賜茶
+<lb ed="A" n="0713a05" type="honorific"/>親加撫慰錫賜如例
+<lb ed="A" n="0713a06" type="honorific"/>詔以其經入藏頒行。</p></cb:div>
+<lb ed="A" n="0713a07"/><cb:div type="other"><cb:mulu type="其他" level="3">是年十月譯成經集一十一卷</cb:mulu><head>是年十月譯成經集一十一卷</head>
+<lb ed="A" n="0713a08"/><cb:div type="other"><cb:mulu type="其他" level="4">聖觀目在菩薩一百八名經一部一卷</cb:mulu><head>聖觀目在菩薩一百八名經一部一卷</head>
+<lb ed="A" n="0713a09"/><p xml:id="pA111p0713a0901" rend="margin-left:3em">大乘經藏祕密部收佛在補
+<lb ed="A" n="0713a10"/>陀落迦山聖觀自在菩薩宮
+<lb ed="A" n="0713a11"/>中說此中所明觀自在菩薩
+<lb ed="A" n="0713a12"/>具一百八名若有聞者無數
+<pb ed="A" xml:id="A111.1501.0713b" n="0713b"/>
+<lb ed="A" n="0713b01"/>劫中不墮惡趣滅無閒業得
+<lb ed="A" n="0713b02"/>宿命智乃至圓諸辯才獲妙
+<lb ed="A" n="0713b03"/>聲相臨終得生西方淨土等。</p></cb:div>
+<lb ed="A" n="0713b04"/><cb:div type="other"><cb:mulu type="其他" level="4">讚揚聖德多羅菩薩一百八名經一部一卷</cb:mulu><head>讚揚聖德多羅菩薩一百八名
+<lb ed="A" n="0713b05"/>經一部一卷</head>
+<lb ed="A" n="0713b06"/><p xml:id="pA111p0713b0601" rend="margin-left:3em">大乘經藏祕密部收析出別
+<lb ed="A" n="0713b07"/>譯此中所明金剛手菩薩請
+<lb ed="A" n="0713b08"/>問觀自在菩薩自說一百八
+<lb ed="A" n="0713b09"/>名稱揚多羅菩薩具大聖德
+<lb ed="A" n="0713b10"/>多羅菩薩者即觀自在也其
+<lb ed="A" n="0713b11"/>一百八名只以梵言成讚不
+<pb ed="A" xml:id="A111.1501.0714a" n="0714a"/>
+<lb ed="A" n="0714a01"/>翻文義。</p></cb:div>
+<lb ed="A" n="0714a02"/><cb:div type="other"><cb:mulu type="其他" level="4">菩提行經一部四卷</cb:mulu><head>菩提行經一部四卷</head></cb:div>
+<lb ed="A" n="0714a03"/><cb:div type="other"><cb:mulu type="其他" level="4">法集要頌經一部四卷</cb:mulu><head>法集要頌經一部四卷</head></cb:div>
+<lb ed="A" n="0714a04"/><cb:div type="other"><cb:mulu type="其他" level="4">勝軍化世百喻伽陀經一部一卷</cb:mulu><head>勝軍化世百喻伽陀經一部一
+<lb ed="A" n="0714a05"/>卷<note place="inline">並西方聖賢集收</note></head></cb:div>
+<lb ed="A" n="0714a06"/><p xml:id="pA111p0714a0601" rend="margin-left:5em">上五部竝中天竺梵本所出。</p>
+<lb ed="A" n="0714a07"/><p xml:id="pA111p0714a0701" rend="margin-left:4em">右經集三藏沙門天息災
+<lb ed="A" n="0714a08"/>譯法天證梵義施護證梵
+<lb ed="A" n="0714a09"/>文沙門清沼令遵法定筆
+<lb ed="A" n="0714a10"/>受沙門智遜善祐慧達綴
+<lb ed="A" n="0714a11"/>文沙門惠溫守巒道真寘
+<lb ed="A" n="0714a12"/>顯慧超法雲可瓌證義禮
+<pb ed="A" xml:id="A111.1501.0714b" n="0714b"/>
+<lb ed="A" n="0714b01"/>部郎中張洎潤文殿頭高
+<lb ed="A" n="0714b02"/>品王文壽殿前承旨東慶
+<lb ed="A" n="0714b03"/>監譯是月二日監使引三
+<lb ed="A" n="0714b04"/>藏等詣
+<lb ed="A" n="0714b05" type="honorific"/>崇政殿捧所譯經具表
+<lb ed="A" n="0714b06" type="honorific"/>上進其詞曰臣天息災等
+<lb ed="A" n="0714b07"/>言臣等今譯就聖觀自在
+<lb ed="A" n="0714b08"/>菩薩一百八名經等五部
+<lb ed="A" n="0714b09"/>一十一卷機緣各異時會
+<lb ed="A" n="0714b10"/>有殊始乃應于小根陳變
+<lb ed="A" n="0714b11"/>化之事終既談于極果現
+<pb ed="A" xml:id="A111.1501.0715a" n="0715a"/>
+<lb ed="A" n="0715a01"/>受用之身或說伽陀或顯
+<lb ed="A" n="0715a02"/>名數緫五天之妙義皆四
+<lb ed="A" n="0715a03"/>智之格言伏惟
+<lb ed="A" n="0715a04" type="honorific"/>應運統天睿文英武大聖
+<lb ed="A" n="0715a05"/>至明廣孝皇帝陛下業茂
+<lb ed="A" n="0715a06"/>先天運膺下武蕩蕩致清
+<lb ed="A" n="0715a07"/>夷之化熙熙臻仁壽之風
+<lb ed="A" n="0715a08"/>而復愽綜羣言深通內典
+<lb ed="A" n="0715a09"/>住六波羅蜜行四無量心
+<lb ed="A" n="0715a10"/>百福莊嚴萬靈拱衛故得
+<lb ed="A" n="0715a11"/>梵文遐至華藏增嚴重開
+<lb ed="A" n="0715a12"/>甘露之門更廣慈雲之潤
+<pb ed="A" xml:id="A111.1501.0715b" n="0715b"/>
+<lb ed="A" n="0715b01"/>臣等謬承
+<lb ed="A" n="0715b02" type="honorific"/>天獎獲廁法筵恭暢
+<lb ed="A" n="0715b03" type="honorific"/>微言顧慙昧學<g ref="#CB07968">𧆛</g>賴人師
+<lb ed="A" n="0715b04"/>之法力仰資
+<lb ed="A" n="0715b05" type="honorific"/>帝祚之天長前件新譯經
+<lb ed="A" n="0715b06"/>謹繕寫
+<lb ed="A" n="0715b07" type="honorific"/>上進以
+<lb ed="A" n="0715b08" type="honorific"/>聞是日
+<lb ed="A" n="0715b09" type="honorific"/>命坐賜茶
+<lb ed="A" n="0715b10" type="honorific"/>親加撫慰錫賜如例
+<lb ed="A" n="0715b11" type="honorific"/>詔以其經入藏頒行是年
+<pb ed="A" xml:id="A111.1501.0716a" n="0716a"/>
+<lb ed="A" n="0716a01" type="honorific"/>詔度本院童行六人為僧
+<lb ed="A" n="0716a02" type="honorific"/>詔自今應天竺僧有精通
+<lb ed="A" n="0716a03"/>梵誥可助翻演者令館於
+<lb ed="A" n="0716a04"/>傳法院又下
+<lb ed="A" n="0716a05" type="honorific"/>詔曰大雄氏之教流於中
+<lb ed="A" n="0716a06"/>國者久矣有大饒益得人
+<lb ed="A" n="0716a07"/>則昌以尓右街太平興國
+<lb ed="A" n="0716a08"/>寺傳法院西天譯經三藏
+<lb ed="A" n="0716a09"/>明教大師賜紫天息災傳
+<lb ed="A" n="0716a10"/>教大師賜紫法天傳法大
+<lb ed="A" n="0716a11"/>師賜紫施護等竝深悟真
+<lb ed="A" n="0716a12"/>空遠離絕域能紹隆於佛
+<pb ed="A" xml:id="A111.1501.0716b" n="0716b"/>
+<lb ed="A" n="0716b01"/>事爰演譯於經文冝光被於
+<lb ed="A" n="0716b02"/>朝恩俾<g ref="#CB07694">㕘</g>榮於卿寺可竝
+<lb ed="A" n="0716b03"/>特授朝散大夫試鴻臚少
+<lb ed="A" n="0716b04"/>卿餘如故天息災等奉表
+<lb ed="A" n="0716b05"/>謝曰臣天息災等言今月
+<lb ed="A" n="0716b06"/>十八日於
+<lb ed="A" n="0716b07" type="honorific"/>東上閤門各授
+<lb ed="A" n="0716b08" type="honorific"/>勑牒一道官告一通伏蒙
+<lb ed="A" n="0716b09" type="honorific"/>聖恩特授臣等朝散大夫
+<lb ed="A" n="0716b10"/>試鴻臚少卿餘如故者
+<lb ed="A" n="0716b11"/>天文炳若
+<pb ed="A" xml:id="A111.1501.0717a" n="0717a"/>
+<lb ed="A" n="0717a01" type="honorific"/>睿澤沛然祗荷
+<lb ed="A" n="0717a02" type="honorific"/>寵榮不遑啟處伏念臣等
+<lb ed="A" n="0717a03"/>行非精苦學寡討論幸承
+<lb ed="A" n="0717a04"/>蔭於釋天莫探幽於智地
+<lb ed="A" n="0717a05"/>早者以欽聞道化緬慕華
+<lb ed="A" n="0717a06"/>風遠踰十萬之程獲謁
+<lb ed="A" n="0717a07" type="honorific"/>九重之聖冥符夙契繼譯
+<lb ed="A" n="0717a08"/>真文慙無八備之能尤昧
+<lb ed="A" n="0717a09"/>五明之典豈謂伏蒙
+<lb ed="A" n="0717a10" type="honorific"/>應運統天睿文英武大聖
+<lb ed="A" n="0717a11"/>至明廣孝皇帝陛下遐徵
+<lb ed="A" n="0717a12"/>曩制宏布
+<pb ed="A" xml:id="A111.1501.0717b" n="0717b"/>
+<lb ed="A" n="0717b01" type="honorific"/>湛恩預試秩於卿曹俾<g ref="#CB07694">㕘</g>
+<lb ed="A" n="0717b02"/>榮於爵品芝泥載馥獸錦
+<lb ed="A" n="0717b03"/>相輝錫
+<lb ed="A" n="0717b04" type="honorific"/>鳳誥之襃言動雞園之盛
+<lb ed="A" n="0717b05"/>觀罔知克荷徒切若驚敢
+<lb ed="A" n="0717b06"/>不更誓覃研彌精翻譯庶
+<lb ed="A" n="0717b07"/>仗竺乾之勝果仰資
+<lb ed="A" n="0717b08" type="honorific"/>宸極之鴻休臣等無任感
+<lb ed="A" n="0717b09"/>天荷
+<lb ed="A" n="0717b10" type="honorific"/>聖激切屏營之至謹奉表稱
+<lb ed="A" n="0717b11"/>謝以
+<pb ed="A" xml:id="A111.1501.0718a" n="0718a"/>
+<lb ed="A" n="0718a01" type="honorific"/>聞是年天息災等特
+<lb ed="A" n="0718a02" type="honorific"/>詔給月俸。</p></cb:div>
+<lb ed="A" n="0718a03"/><cb:div type="other"><cb:mulu type="其他" level="3">三年二月譯成經集十卷</cb:mulu><head>三年二月譯成經集十卷</head>
+<lb ed="A" n="0718a04"/><cb:div type="other"><cb:mulu type="其他" level="4">大迦葉問大寶積正法經一部五卷</cb:mulu><head>大迦葉問大寶積正法經一部五卷</head>
+<lb ed="A" n="0718a05"/><p xml:id="pA111p0718a0501" rend="margin-left:3em">大乘經藏收佛在王舍城鷲
+<lb ed="A" n="0718a06"/>峯山說第一卷明有四種法
+<lb ed="A" n="0718a07"/>菩薩應知一者入空解脫門
+<lb ed="A" n="0718a08"/>信業報無性二者入無我無
+<lb ed="A" n="0718a09"/>願解脫門雖得涅槃常起大
+<lb ed="A" n="0718a10"/>悲樂度眾生三者於大輪迴
+<lb ed="A" n="0718a11"/>巧施方便四者於諸有情雖
+<lb ed="A" n="0718a12"/>行給施不求果報如是乃至
+<pb ed="A" xml:id="A111.1501.0718b" n="0718b"/>
+<lb ed="A" n="0718b01"/>有二十二種四法等第二卷
+<lb ed="A" n="0718b02"/>明菩薩欲作佛事智慧為先
+<lb ed="A" n="0718b03"/>乃至廣說十二有支無我無
+<lb ed="A" n="0718b04"/>法不生不滅等第三卷明由
+<lb ed="A" n="0718b05"/>智斷惑非智先起而惑後亡
+<lb ed="A" n="0718b06"/>亦非惑先亡而智後起亦非
+<lb ed="A" n="0718b07"/>同時乃表惑智俱無自性第
+<lb ed="A" n="0718b08"/>四卷明如人被縛巧設方便
+<lb ed="A" n="0718b09"/>而得解免如苦有情作善相
+<lb ed="A" n="0718b10"/>應制止心猿令得離縛第五
+<lb ed="A" n="0718b11"/>卷明涅槃法者非相非非相
+<pb ed="A" xml:id="A111.1501.0719a" n="0719a"/>
+<lb ed="A" n="0719a01"/>本來無得不生不滅等揔彰
+<lb ed="A" n="0719a02"/>此部經之大旨者明炬一發
+<lb ed="A" n="0719a03"/>眾暗悉除智起惑亡其義如
+<lb ed="A" n="0719a04"/>是然而不即不離非後非前
+<lb ed="A" n="0719a05"/>緣法自然性不可得乃至涅
+<lb ed="A" n="0719a06"/>槃寂滅非滅相之可求諸法
+<lb ed="A" n="0719a07"/>緣生非有生而可得其悟了
+<lb ed="A" n="0719a08"/>者入涅槃門。</p></cb:div>
+<lb ed="A" n="0719a09"/><cb:div type="other"><cb:mulu type="其他" level="4">沙彌十戒儀則經一部一卷</cb:mulu><head>沙彌十戒儀則經一部一卷</head>
+<lb ed="A" n="0719a10"/><p xml:id="pA111p0719a1001" rend="margin-left:3em">小乘律藏收析出別譯此中
+<lb ed="A" n="0719a11"/>所明佛說沙彌十種戒法及
+<lb ed="A" n="0719a12"/>事師儀軌令其奉持不失正行。</p></cb:div>
+<pb ed="A" xml:id="A111.1501.0719b" n="0719b"/>
+<lb ed="A" n="0719b01"/><cb:div type="other"><cb:mulu type="其他" level="4">十二緣生祥瑞經一部二卷</cb:mulu><head>十二緣生祥瑞經一部二卷</head>
+<lb ed="A" n="0719b02"/><p xml:id="pA111p0719b0201" rend="margin-left:3em">小乘經藏收佛於一時在大
+<lb ed="A" n="0719b03"/>眾中為無量百千天人演說
+<lb ed="A" n="0719b04"/>上下二卷通明世閒人之吉
+<lb ed="A" n="0719b05"/><g ref="#CB04552">󱇈</g>生年月日星曜所直各有
+<lb ed="A" n="0719b06"/>何相以機被人天故小乘收。</p></cb:div>
+<lb ed="A" n="0719b07"/><cb:div type="other"><cb:mulu type="其他" level="4">聖持世陀羅尼經一部一卷</cb:mulu><head>聖持世陀羅尼經一部一卷</head>
+<lb ed="A" n="0719b08"/><p xml:id="pA111p0719b0801" rend="margin-left:3em">大乘經藏祕密部收析出別
+<lb ed="A" n="0719b09"/>譯此中所明是陀羅尼有大
+<lb ed="A" n="0719b10"/>功力能作一切勝成就事乃至
+<lb ed="A" n="0719b11"/>廣說儀軌行相觀想法門等。</p></cb:div>
+<pb ed="A" xml:id="A111.1501.0720a" n="0720a"/>
+<lb ed="A" n="0720a01"/><cb:div type="other"><cb:mulu type="其他" level="4">法集名數經一部一卷</cb:mulu><head>法集名數經一部一卷<note place="inline">西方聖賢集收</note></head></cb:div>
+<lb ed="A" n="0720a02"/><p xml:id="pA111p0720a0201" rend="margin-left:5em">上五部竝中天竺梵本所出。</p>
+<lb ed="A" n="0720a03"/><p xml:id="pA111p0720a0301" rend="margin-left:4em">右經集三藏沙門施護譯
+<lb ed="A" n="0720a04"/>天息災證梵義法天證梵
+<lb ed="A" n="0720a05"/>文沙門清沼令遵筆受沙
+<lb ed="A" n="0720a06"/>門慧達寘顯綴文沙門惠
+<lb ed="A" n="0720a07"/>溫守巒道真智遜慧超法
+<lb ed="A" n="0720a08"/>雲可瓌善祐證義禮部郎
+<lb ed="A" n="0720a09"/>中張洎潤文殿頭高品王
+<lb ed="A" n="0720a10"/>文壽殿前承旨東慶監譯
+<lb ed="A" n="0720a11"/>是月二十五日監使引三
+<lb ed="A" n="0720a12"/>藏等詣
+<pb ed="A" xml:id="A111.1501.0720b" n="0720b"/>
+<lb ed="A" n="0720b01" type="honorific"/>崇政殿捧所譯經具表
+<lb ed="A" n="0720b02" type="honorific"/>上進其詞曰臣施護等言
+<lb ed="A" n="0720b03"/>臣等今譯就大迦葉問大
+<lb ed="A" n="0720b04"/>寶積正法經等五部一十
+<lb ed="A" n="0720b05"/>卷或大乘了義或密藏靈
+<lb ed="A" n="0720b06"/>文言名數乃開諸義門述
+<lb ed="A" n="0720b07"/>緣生乃陳乎法相宣毗尼
+<lb ed="A" n="0720b08"/>四分之本授沙彌十戒之
+<lb ed="A" n="0720b09"/>儀皆自一音而成異解猶
+<lb ed="A" n="0720b10"/>四類之見水若三獸之渡
+<lb ed="A" n="0720b11"/>河雖向果之有差且歸源
+<pb ed="A" xml:id="A111.1501.0721a" n="0721a"/>
+<lb ed="A" n="0721a01"/>之無二獲利彰感如影隨
+<lb ed="A" n="0721a02"/>形伏惟
+<lb ed="A" n="0721a03" type="honorific"/>應運統天睿文英武大聖
+<lb ed="A" n="0721a04"/>至明廣孝皇帝陛下功格
+<lb ed="A" n="0721a05"/>上蒼化孚緜<g ref="#CB00716">㝢</g>
+<lb ed="A" n="0721a06"/>心崇六德
+<lb ed="A" n="0721a07" type="honorific"/>道契三明遵鶴林囑累之
+<lb ed="A" n="0721a08"/>言廣鷲嶺真如之法躋三
+<lb ed="A" n="0721a09"/>界於
+<lb ed="A" n="0721a10" type="honorific"/>壽域緫眾善於
+<lb ed="A" n="0721a11"/>皇風臣等幸託空門獲膺
+<lb ed="A" n="0721a12"/>明詔運鍾
+<pb ed="A" xml:id="A111.1501.0721b" n="0721b"/>
+<lb ed="A" n="0721b01" type="honorific"/>至治虔修殊勝之緣教闡
+<lb ed="A" n="0721b02"/>難思上祝
+<lb ed="A" n="0721b03" type="honorific"/>延洪之祚前件新譯經謹
+<lb ed="A" n="0721b04"/>繕寫
+<lb ed="A" n="0721b05" type="honorific"/>上進以
+<lb ed="A" n="0721b06" type="honorific"/>聞是日
+<lb ed="A" n="0721b07" type="honorific"/>命坐賜茶
+<lb ed="A" n="0721b08" type="honorific"/>親加撫慰錫賜如例
+<lb ed="A" n="0721b09" type="honorific"/>詔以其經入藏頒行。</p></cb:div></cb:div></cb:div>
+<lb ed="A" n="0721b10"/>
+<lb ed="A" n="0721b11"/><cb:juan fun="close" n="4"><cb:jhead>大中祥符法寶錄卷第四</cb:jhead></cb:juan>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_3" cb:to="#end_3"><corr>己</corr><sic>已</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

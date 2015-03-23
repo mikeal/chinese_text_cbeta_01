@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="X56n0937">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>卍 Xuzangjing, Electronic version, No. 937 金剛錍論釋文</title>
+			<author>宋 時舉釋　明 海眼會</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.7 $<date>$Date: 2010/10/25 08:44:57 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		<respStmt xml:id="resp2"><resp>corrections</resp><name>Xuzangjing</name></respStmt>
+	</editionStmt>
+	<extent>3卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2010/10/25 08:44:57 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>卍 Xuzangjing Vol. 56, No. 937 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA, OCR by CBETA</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入，CBETA 掃瞄辨識</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB01050">
+	<charName>CBETA CHARACTER CB01050</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[角/牛]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>觸</value>
+	</charProp>
+	<mapping type="unicode">U+278BB</mapping>
+	<mapping cb:dec="984090" type="PUA">U+F041A</mapping>
+</char>
+<char xml:id="CB01065">
+	<charName>CBETA CHARACTER CB01065</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[魚*昔]</value>
+	</charProp>
+	<mapping type="unicode">U+4C5C</mapping>
+	<mapping cb:dec="984105" type="PUA">U+F0429</mapping>
+</char>
+<char xml:id="CB07944">
+	<charName>CBETA CHARACTER CB07944</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[金*((白-日+田)/廾)]</value>
+	</charProp>
+	<mapping cb:dec="990984" type="PUA">U+F1F08</mapping>
+</char>
+<char xml:id="CB09895">
+	<charName>CBETA CHARACTER CB09895</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[牙-(必-心)+?]</value>
+	</charProp>
+	<mapping type="unicode">U+3E26</mapping>
+	<mapping cb:dec="992935" type="PUA">U+F26A7</mapping>
+</char>
+<char xml:id="CB15145">
+	<charName>CBETA CHARACTER CB15145</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(ㄇ@(企-止))/圭]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>罣</value>
+	</charProp>
+	<mapping type="normal_unicode">U+262B1</mapping>
+	<mapping cb:dec="998185" type="PUA">U+F3B29</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2005-05-25T15:07:13">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<pb ed="X" xml:id="X56.0937.0568c" n="0568c"/>
+<lb ed="X" n="0568c01"/>
+<milestone unit="juan" n="1"/>
+<lb ed="X" n="0568c02"/>
+<lb ed="X" n="0568c03"/>
+<lb ed="X" n="0568c04"/>
+<lb ed="X" n="0568c05"/><cb:docNumber>No. 937</cb:docNumber>
+<lb ed="X" n="0568c06"/><lb ed="R100" n="0604a01"/><cb:juan fun="open" n="1"><cb:mulu type="卷" n="1"></cb:mulu><cb:jhead>金剛錍釋文卷上</cb:jhead></cb:juan>
+<lb ed="X" n="0568c07"/>
+<lb ed="X" n="0568c08"/><lb ed="R100" n="0604a02"/><byline cb:type="other">荊谿尊者湛然撰</byline><byline cb:type="other">後學玄箸海眼會</byline>
+<lb ed="X" n="0568c09"/><lb ed="R100" n="0604a03"/><byline cb:type="author">天台沙門時舉釋</byline><byline cb:type="other">後學新伊大真校</byline>
+<lb ed="X" n="0568c10"/><lb ed="R100" n="0604a04"/><cb:div type="other"><cb:mulu type="其他" level="1">卷上</cb:mulu><p xml:id="pX56p0568c1001" rend="margin-left:1em">四明十義書云荊谿立於無情有性正為顯圓妄
+<lb ed="X" n="0568c11"/><lb ed="R100" n="0604a05"/>染即佛性旁遮偏指清淨真如據此則四明<anchor xml:id="beg_1" type="cb-app"/>已<anchor xml:id="end_1"/>斷
+<lb ed="X" n="0568c12"/><lb ed="R100" n="0604a06"/>盡金錍述作之意故此文首於題下先示抉膜之
+<lb ed="X" n="0568c13"/><lb ed="R100" n="0604a07"/>旨後於偏權疑碎而下方示旁遮野客之意又濫
+<lb ed="X" n="0568c14"/><lb ed="R100" n="0604a08"/>霑釋典下亦先明佛性正義自曾於靜夜下方對
+<lb ed="X" n="0568c15"/><lb ed="R100" n="0604a09"/>野客耳以此則知一書始末正為顯圓妄染即佛
+<lb ed="X" n="0568c16"/><lb ed="R100" n="0604a10"/>性義剛之一字乃旁遮野客之偏執使山家學大
+<lb ed="X" n="0568c17"/><lb ed="R100" n="0604a11"/>乘者毋惑於彼無情無性之見而失徧具之旨故
+<lb ed="X" n="0568c18"/><lb ed="R100" n="0604a12"/>於性中點示體遍也。</p>
+<lb ed="X" n="0568c19"/><lb ed="R100" n="0604a13"/><cb:div type="orig"><p xml:id="pX56p0568c1901">金剛錍<note place="inline">圓<figure><graphic url="../figures/X/X56p0568_01.gif"></graphic></figure>金<g ref="#CB07944">󱼈</g>以抉四眼無明之膜令一切處悉見遮那佛性之指偏權疑碎加之以刪假夢
+<lb ed="X" n="0568c20"/><lb ed="R100" n="0604a14"/>寄客立以賓主觀者恕之</note>。</p></cb:div>
+<lb ed="X" n="0568c21"/><lb ed="R100" n="0604a15"/><cb:div type="commentary"><p xml:id="pX56p0568c2101" rend="margin-left:1em">圓伊三點不縱不橫以喻圓融三德大教示於佛
+<lb ed="X" n="0568c22"/><lb ed="R100" n="0604a16"/>性體徧四眼二智萬象森羅佛眼種智真空冥寂
+<lb ed="X" n="0568c23"/><lb ed="R100" n="0604a17"/>以九界眾生雖有四眼而無明未破佛性不顯故
+<lb ed="X" n="0568c24"/><lb ed="R100" n="0604a18"/>以圓伊三德大教以抉九界四眼無明之膜使其
+<pb ed="X" xml:id="X56.0937.0569a" n="0569a"/>
+<lb ed="X" n="0569a01"/><lb ed="R100" n="0604b01"/>佛眼開明見佛性之妙體也九界三土之性既顯
+<lb ed="X" n="0569a02"/><lb ed="R100" n="0604b02"/>九界即遮那三土即寂光則一切之言合該十界
+<lb ed="X" n="0569a03"/><lb ed="R100" n="0604b03"/>故曰圓人即達九界三道而見圓伊三德體徧下
+<lb ed="X" n="0569a04"/><lb ed="R100" n="0604b04"/>文亦云一切世間何所不攝指義本於大經云爾
+<lb ed="X" n="0569a05"/><lb ed="R100" n="0604b05"/>時良毉即以金錍抉其眼膜初以一指示之問言
+<lb ed="X" n="0569a06"/><lb ed="R100" n="0604b06"/>見不答言未見此抉見思之膜示以真諦之指未
+<lb ed="X" n="0569a07"/><lb ed="R100" n="0604b07"/>見中道所證真理全是無明復以二指示之問言
+<lb ed="X" n="0569a08"/><lb ed="R100" n="0604b08"/>見不答言我猶未見此抉塵沙之膜示以俗諦之
+<lb ed="X" n="0569a09"/><lb ed="R100" n="0604b09"/>指未見中道猶是無明復以三指示之問言見不
+<lb ed="X" n="0569a10"/><lb ed="R100" n="0604b10"/>答言少見此抉無明之膜示以中道遮那佛性之
+<lb ed="X" n="0569a11"/><lb ed="R100" n="0604b11"/>指以圓人分破無明分證中道故云少見故輔行
+<lb ed="X" n="0569a12"/><lb ed="R100" n="0604b12"/>引涅槃疏云既譬佛性不應餘解即以三諦而為
+<lb ed="X" n="0569a13"/><lb ed="R100" n="0604b13"/>三指初指如空故云不見三指如十住故云少見
+<lb ed="X" n="0569a14"/><lb ed="R100" n="0604b14"/>即圓十住也如是開決則知四眼即佛眼無明即
+<lb ed="X" n="0569a15"/><lb ed="R100" n="0604b15"/>佛性九界即佛界空假即中道有何一法而非遮
+<lb ed="X" n="0569a16"/><lb ed="R100" n="0604b16"/>那佛性圓伊雖具三德乃即一論三遮那即一中
+<lb ed="X" n="0569a17"/><lb ed="R100" n="0604b17"/>道之理乃即三而一若知正因體徧三一相即何
+<lb ed="X" n="0569a18"/><lb ed="R100" n="0604b18"/>所不徧也但他宗惑於經中偏權之說今直示以
+<lb ed="X" n="0569a19"/><lb ed="R100" n="0605a01"/>圓實佛性使其偏權之疑惑消滅故喻之以剛所
+<lb ed="X" n="0569a20"/><lb ed="R100" n="0605a02"/>擬之處無不碎壞也蓋宗有所異為護時情不欲
+<lb ed="X" n="0569a21"/><lb ed="R100" n="0605a03"/>正斥故假夢寄客立以賓主觀此書者必母罪也
+<lb ed="X" n="0569a22"/><lb ed="R100" n="0605a04"/>故曰恕之此謙辭耳。</p></cb:div>
+<lb ed="X" n="0569a23"/><lb ed="R100" n="0605a05"/><cb:div type="orig"><p xml:id="pX56p0569a2301">自濫霑釋典積有歲年未甞不以佛性義經懷恐不
+<lb ed="X" n="0569a24"/><lb ed="R100" n="0605a06"/>了之徒為苦行大教斯立功在於茲萬派之通途眾
+<pb ed="X" xml:id="X56.0937.0569b" n="0569b"/>
+<lb ed="X" n="0569b01"/><lb ed="R100" n="0605a07"/>流之歸趣諸法之大旨造行之所期。</p></cb:div>
+<lb ed="X" n="0569b02"/><lb ed="R100" n="0605a08"/><cb:div type="commentary"><p xml:id="pX56p0569b0201" rend="margin-left:1em">然佛性之說乃具徧之旨自非潛心積學不能通
+<lb ed="X" n="0569b03"/><lb ed="R100" n="0605a09"/>明濫霑釋典積有歲年非積學歟未甞不以佛性
+<lb ed="X" n="0569b04"/><lb ed="R100" n="0605a10"/>義經懷非潛心歟由斯二者則涅槃佛性之文得
+<lb ed="X" n="0569b05"/><lb ed="R100" n="0605a11"/>以申通若了此佛性則可為教行之本教行以此
+<lb ed="X" n="0569b06"/><lb ed="R100" n="0605a12"/>為本故超過諸說不墮邪見次舉譬中通途合大
+<lb ed="X" n="0569b07"/><lb ed="R100" n="0605a13"/>旨歸趣合所期蓋教詮佛性之源示眾生之本有
+<lb ed="X" n="0569b08"/><lb ed="R100" n="0605a14"/>如水發源故曰通途行則從因至果趣於極果如
+<lb ed="X" n="0569b09"/><lb ed="R100" n="0605a15"/>流之歸海故曰歸趣。</p></cb:div>
+<lb ed="X" n="0569b10"/><lb ed="R100" n="0605a16"/><cb:div type="orig"><p xml:id="pX56p0569b1001">若是而思之依而觀之則凡聖一如色香泯淨阿鼻
+<lb ed="X" n="0569b11"/><lb ed="R100" n="0605a17"/>依正全處極聖之自心毗盧身土不逾下凡之一念。</p></cb:div>
+<lb ed="X" n="0569b12"/><lb ed="R100" n="0605a18"/><cb:div type="commentary"><p xml:id="pX56p0569b1201" rend="margin-left:1em">若是乃承上之辭苟能了知如上佛性之旨為教
+<lb ed="X" n="0569b13"/><lb ed="R100" n="0605b01"/>行之本則達一切諸法無非三千有何一法非佛
+<lb ed="X" n="0569b14"/><lb ed="R100" n="0605b02"/>性具之義亦未始有一念而越三千之外上言濫
+<lb ed="X" n="0569b15"/><lb ed="R100" n="0605b03"/>霑釋典即聞慧能如是思即思慧能如是觀即修
+<lb ed="X" n="0569b16"/><lb ed="R100" n="0605b04"/>慧即聞思修之三也若然尚何凡聖色香之異又
+<lb ed="X" n="0569b17"/><lb ed="R100" n="0605b05"/>雖依正各說意實依正<g ref="#CB09895">㸦</g>融凡聖者或作六凡四
+<lb ed="X" n="0569b18"/><lb ed="R100" n="0605b06"/>聖說下文既約九一分此不當四六分雖曰色香
+<lb ed="X" n="0569b19"/><lb ed="R100" n="0605b07"/>則六塵在其中矣佛性是一故名一如一色一香
+<lb ed="X" n="0569b20"/><lb ed="R100" n="0605b08"/>無非中道則離染礙故云泯淨阿鼻依正下佛界
+<lb ed="X" n="0569b21"/><lb ed="R100" n="0605b09"/>具九界且就極下界說云阿鼻耳毗盧身土下九
+<lb ed="X" n="0569b22"/><lb ed="R100" n="0605b10"/>界具佛界既九一依正互具互遍即一念三千之
+<lb ed="X" n="0569b23"/><lb ed="R100" n="0605b11"/>法文雖未明言三千而三千之旨在其中矣故阿
+<lb ed="X" n="0569b24"/><lb ed="R100" n="0605b12"/>鼻依正下佛具三千諸法毗盧身土下乃生具三
+<pb ed="X" xml:id="X56.0937.0569c" n="0569c"/>
+<lb ed="X" n="0569c01"/><lb ed="R100" n="0605b13"/>千諸法只一三千心佛眾生一一具足三無差別
+<lb ed="X" n="0569c02"/><lb ed="R100" n="0605b14"/>此之四句為下文對他宗破立佛性之張本也暨
+<lb ed="X" n="0569c03"/><lb ed="R100" n="0605b15"/>下文以此三千妙旨破立之後而野客方知一家
+<lb ed="X" n="0569c04"/><lb ed="R100" n="0605b16"/>所立不思議境一念三千之功始陳請之曰云何
+<lb ed="X" n="0569c05"/><lb ed="R100" n="0605b17"/>三千是知今雖不明言三千而三千之旨在其中
+<lb ed="X" n="0569c06"/><lb ed="R100" n="0605b18"/>矣。</p></cb:div>
+<lb ed="X" n="0569c07"/><lb ed="R100" n="0606a01"/><cb:div type="orig"><p xml:id="pX56p0569c0701">曾於靜夜久而思之思之未<anchor xml:id="beg_2" type="cb-app"/>已<anchor xml:id="end_2"/>怳焉如睡不覺寱云
+<lb ed="X" n="0569c08"/><lb ed="R100" n="0606a02"/>無情有性。</p></cb:div>
+<lb ed="X" n="0569c09"/><lb ed="R100" n="0606a03"/><cb:div type="commentary"><p xml:id="pX56p0569c0901" rend="margin-left:1em">荊谿將顯圓宗折衝異論故設睡夢以發言立野
+<lb ed="X" n="0569c10"/><lb ed="R100" n="0606a04"/>客以發問皆托事明理強立問答假立賓主恍惚
+<lb ed="X" n="0569c11"/><lb ed="R100" n="0606a05"/>似睡非實睡也故曰恍焉如睡。</p></cb:div>
+<lb ed="X" n="0569c12"/><lb ed="R100" n="0606a06"/><cb:div type="orig"><p xml:id="pX56p0569c1201">仍於睡夢忽見一人云僕野客也容儀麤獷進退不
+<lb ed="X" n="0569c13"/><lb ed="R100" n="0606a07"/>恒逼前平立。</p></cb:div>
+<lb ed="X" n="0569c14"/><lb ed="R100" n="0606a08"/><cb:div type="commentary"><p xml:id="pX56p0569c1401" rend="margin-left:1em">此下對斥外人所計言之野則鄙之之辭客則外
+<lb ed="X" n="0569c15"/><lb ed="R100" n="0606a09"/>之之意言其未領佛性以來有若野客容儀等者
+<lb ed="X" n="0569c16"/><lb ed="R100" n="0606a10"/>則敘情狀如此由其未深圓理不能住於柔和善
+<lb ed="X" n="0569c17"/><lb ed="R100" n="0606a11"/>順之地故見之於容儀麤獷爾由其不守宗途出
+<lb ed="X" n="0569c18"/><lb ed="R100" n="0606a12"/>入彼此進退失據故見之去就不常耳直欲與今
+<lb ed="X" n="0569c19"/><lb ed="R100" n="0606a13"/>爭衡竝驅故云逼前平立。</p></cb:div>
+<lb ed="X" n="0569c20"/><lb ed="R100" n="0606a14"/><cb:div type="orig"><p xml:id="pX56p0569c2001">謂余曰向來忽聞無情有性仁所述耶余曰然。</p></cb:div>
+<lb ed="X" n="0569c21"/><lb ed="R100" n="0606a15"/><cb:div type="commentary"><p xml:id="pX56p0569c2101" rend="margin-left:1em">彼將欲挾其所承之說與夫涅槃斥非之文以難
+<lb ed="X" n="0569c22"/><lb ed="R100" n="0606a16"/>一家建義故先定其宗旨云向來等言然者汎應
+<lb ed="X" n="0569c23"/><lb ed="R100" n="0606a17"/>之也。</p></cb:div>
+<lb ed="X" n="0569c24"/><lb ed="R100" n="0606a18"/><cb:div type="orig"><p xml:id="pX56p0569c2401">客曰僕恭尋釋教薄究根源盛演斯宗豈過雙林最
+<pb ed="X" xml:id="X56.0937.0570a" n="0570a"/>
+<lb ed="X" n="0570a01"/><lb ed="R100" n="0606b01"/>後極唱究竟之談而云佛性非謂無情仁何獨言無
+<lb ed="X" n="0570a02"/><lb ed="R100" n="0606b02"/>情有耶。</p></cb:div>
+<lb ed="X" n="0570a03"/><lb ed="R100" n="0606b03"/><cb:div type="commentary"><p xml:id="pX56p0570a0301" rend="margin-left:1em">恭尋薄究亦謙辭耳他以涅槃為極唱由古人立
+<lb ed="X" n="0570a04"/><lb ed="R100" n="0606b04"/>涅槃為第五時極唱謂法華談萬善同歸未及雙
+<lb ed="X" n="0570a05"/><lb ed="R100" n="0606b05"/>樹佛性極唱也故今云豈過雙樹等涅槃既曰瓦
+<lb ed="X" n="0570a06"/><lb ed="R100" n="0606b06"/>石非佛性仁何獨言無情有性也。</p></cb:div>
+<lb ed="X" n="0570a07"/><lb ed="R100" n="0606b07"/><cb:div type="orig"><p xml:id="pX56p0570a0701">余曰古人尚云一闡提無云無情無未足可怪然以
+<lb ed="X" n="0570a08"/><lb ed="R100" n="0606b08"/>教分大小其言碩乖若云無情即不應云有性若云
+<lb ed="X" n="0570a09"/><lb ed="R100" n="0606b09"/>有性即不合云無情。</p></cb:div>
+<lb ed="X" n="0570a10"/><lb ed="R100" n="0606b10"/><cb:div type="commentary"><p xml:id="pX56p0570a1001" rend="margin-left:1em">古人尚云闡提無者指彼三無二有之家言闡提
+<lb ed="X" n="0570a11"/><lb ed="R100" n="0606b11"/>無佛性也如此則成有情亦無佛性汝云無情無
+<lb ed="X" n="0570a12"/><lb ed="R100" n="0606b12"/>性未足可怪此且與之在古人雖然若今家以教
+<lb ed="X" n="0570a13"/><lb ed="R100" n="0606b13"/>分大小其言大乖此之大小當約偏圓以分如下
+<lb ed="X" n="0570a14"/><lb ed="R100" n="0606b14"/>文云藏通三乘俱未稟性別人初心所稟未周故
+<lb ed="X" n="0570a15"/><lb ed="R100" n="0606b15"/>此七人可云無情不云有性圓人始末知理不二
+<lb ed="X" n="0570a16"/><lb ed="R100" n="0606b16"/>心外無境誰情無情如此則無情無性之言屬前
+<lb ed="X" n="0570a17"/><lb ed="R100" n="0606b17"/>三教是權是小無情有性屬於圓教雖不明言四
+<lb ed="X" n="0570a18"/><lb ed="R100" n="0606b18"/>教而四教之義在其中矣至下文野客具知其義
+<lb ed="X" n="0570a19"/><lb ed="R100" n="0607a01"/>方請問云聞仁所宗四教釋義可得聞耶。</p></cb:div>
+<lb ed="X" n="0570a20"/><lb ed="R100" n="0607a02"/><cb:div type="orig"><p xml:id="pX56p0570a2001">客曰涅槃部大云何竝列余曰以子不閑佛性進否
+<lb ed="X" n="0570a21"/><lb ed="R100" n="0607a03"/>教部權實故使同於常人疑之。</p></cb:div>
+<lb ed="X" n="0570a22"/><lb ed="R100" n="0607a04"/><cb:div type="commentary"><p xml:id="pX56p0570a2201" rend="margin-left:1em">此文由上教分大小而生若云大無無情涅槃豈
+<lb ed="X" n="0570a23"/><lb ed="R100" n="0607a05"/>非大教何以無情佛性竝列野客在前不知佛性
+<lb ed="X" n="0570a24"/><lb ed="R100" n="0607a06"/>體徧荊谿以教別大小而覈之野客於此又執部
+<pb ed="X" xml:id="X56.0937.0570b" n="0570b"/>
+<lb ed="X" n="0570b01"/><lb ed="R100" n="0607a07"/>難教乃謂涅槃部大部既是大只可列有性之大
+<lb ed="X" n="0570b02"/><lb ed="R100" n="0607a08"/>云何又列無情之小荊谿於此又以其不解教部
+<lb ed="X" n="0570b03"/><lb ed="R100" n="0607a09"/>權實佛性進否而斥之蓋涅槃部雖是大部中談
+<lb ed="X" n="0570b04"/><lb ed="R100" n="0607a10"/>教有權有實所以佛性有進有否故曰以子不閑
+<lb ed="X" n="0570b05"/><lb ed="R100" n="0607a11"/>佛性進否教部權實故使同於常人疑之何者涅
+<lb ed="X" n="0570b06"/><lb ed="R100" n="0607a12"/>槃部屬醍醐其如部中談教有權教之小有實教
+<lb ed="X" n="0570b07"/><lb ed="R100" n="0607a13"/>之大大教中正因佛性徧一切處名進權教中緣
+<lb ed="X" n="0570b08"/><lb ed="R100" n="0607a14"/>了佛性局在有情名否以子不思部中談教有權
+<lb ed="X" n="0570b09"/><lb ed="R100" n="0607a15"/>有實遂乃執權緣了難實正因疑於實教正因不
+<lb ed="X" n="0570b10"/><lb ed="R100" n="0607a16"/>遍瓦石故同於常人疑之也。</p></cb:div>
+<lb ed="X" n="0570b11"/><lb ed="R100" n="0607a17"/><cb:div type="orig"><p xml:id="pX56p0570b1101">今且為子委引經文使後代好引此文證佛性非無
+<lb ed="X" n="0570b12"/><lb ed="R100" n="0607a18"/>情者善得經旨不昧理性知余所立善符經宗。</p></cb:div>
+<lb ed="X" n="0570b13"/><lb ed="R100" n="0607b01"/><cb:div type="commentary"><p xml:id="pX56p0570b1301" rend="margin-left:1em">今且為子委引涅槃經中瓦石緣了不遍之權文
+<lb ed="X" n="0570b14"/><lb ed="R100" n="0607b02"/>證佛性非無情者善得經中權教緣了不遍之旨
+<lb ed="X" n="0570b15"/><lb ed="R100" n="0607b03"/>不昧實教正因體遍之宗知余所立眾生正因體
+<lb ed="X" n="0570b16"/><lb ed="R100" n="0607b04"/>遍善符合於經文所談佛性之宗。</p></cb:div>
+<lb ed="X" n="0570b17"/><lb ed="R100" n="0607b05"/><cb:div type="orig"><p xml:id="pX56p0570b1701">今立眾生正因體徧經文亦以虗空譬之故三十一
+<lb ed="X" n="0570b18"/><lb ed="R100" n="0607b06"/>迦葉品云眾生佛性猶如虗空非內非外若內外者
+<lb ed="X" n="0570b19"/><lb ed="R100" n="0607b07"/>云何得名一切處有請觀有之一字虗空何所不收
+<lb ed="X" n="0570b20"/><lb ed="R100" n="0607b08"/>故知經文不許唯內專外故云非內外等及云如空
+<lb ed="X" n="0570b21"/><lb ed="R100" n="0607b09"/>既云眾生佛性豈非理性正因。</p></cb:div>
+<lb ed="X" n="0570b22"/><lb ed="R100" n="0607b10"/><cb:div type="commentary"><p xml:id="pX56p0570b2201" rend="margin-left:1em">今立眾生正因體徧荊谿立也經文亦以虗空譬
+<lb ed="X" n="0570b23"/><lb ed="R100" n="0607b11"/>之符經宗也經談常住佛性為宗佛性之體徧一
+<lb ed="X" n="0570b24"/><lb ed="R100" n="0607b12"/>切處故以虗空譬之虗空喻文出迦葉品眾生佛
+<pb ed="X" xml:id="X56.0937.0570c" n="0570c"/>
+<lb ed="X" n="0570c01"/><lb ed="R100" n="0607b13"/>性非內非外猶如虗空非內非外眾生心中本有
+<lb ed="X" n="0570c02"/><lb ed="R100" n="0607b14"/>佛性遍一切處無有<g ref="#CB15145">󳬩</g>礙故以虗空為譬所喻佛
+<lb ed="X" n="0570c03"/><lb ed="R100" n="0607b15"/>性非局於心之內非局於色之外能喻虗空非局
+<lb ed="X" n="0570c04"/><lb ed="R100" n="0607b16"/>此內非局彼外若局內外者云何得名一切處有
+<lb ed="X" n="0570c05"/><lb ed="R100" n="0607b17"/>今請野客觀經中有之一字虗空何所不收故云
+<lb ed="X" n="0570c06"/><lb ed="R100" n="0607b18"/>經文不許惟局內心及專外色是故得名非內非
+<lb ed="X" n="0570c07"/><lb ed="R100" n="0608a01"/>外一切處有等及云佛性猶如虗空既云眾生佛
+<lb ed="X" n="0570c08"/><lb ed="R100" n="0608a02"/>性豈非因心理性之具非內非外即是中道正因
+<lb ed="X" n="0570c09"/><lb ed="R100" n="0608a03"/>故曰豈非理性正因所言佛性者因不名佛果不
+<lb ed="X" n="0570c10"/><lb ed="R100" n="0608a04"/>名性因人具有果人之性故曰佛性在荊谿則曰
+<lb ed="X" n="0570c11"/><lb ed="R100" n="0608a05"/>眾生正因在經文則曰眾生佛性在荊谿則曰體
+<lb ed="X" n="0570c12"/><lb ed="R100" n="0608a06"/>遍在迦葉則曰猶如虗空既云佛性本來周遍何
+<lb ed="X" n="0570c13"/><lb ed="R100" n="0608a07"/>假今立良由野客但知權教緣了局在有情不知
+<lb ed="X" n="0570c14"/><lb ed="R100" n="0608a08"/>實教正因體遍瓦石等對其不知故云立也雖云
+<lb ed="X" n="0570c15"/><lb ed="R100" n="0608a09"/>正徧非但中理本有三種三理元遍達性成修修
+<lb ed="X" n="0570c16"/><lb ed="R100" n="0608a10"/>三亦遍但為了因未曾發心緣因未曾加行性雖
+<lb ed="X" n="0570c17"/><lb ed="R100" n="0608a11"/>具三以在迷故開乃成合故但同名理性正因而
+<lb ed="X" n="0570c18"/><lb ed="R100" n="0608a12"/><anchor xml:id="beg_3" type="cb-app"/>已<anchor xml:id="end_3"/>一切眾生皆有正性與下文即此全是理性三
+<lb ed="X" n="0570c19"/><lb ed="R100" n="0608a13"/>因未發心等是同但野客不了此意却作權教緣
+<lb ed="X" n="0570c20"/><lb ed="R100" n="0608a14"/>了而說故以緣了難正也。</p></cb:div>
+<lb ed="X" n="0570c21"/><lb ed="R100" n="0608a15"/><cb:div type="orig"><p xml:id="pX56p0570c2101">次迦葉問云何名為猶如虗空佛乃以果地無礙而
+<lb ed="X" n="0570c22"/><lb ed="R100" n="0608a16"/>答迦葉豈非正因因果不二。</p></cb:div>
+<lb ed="X" n="0570c23"/><lb ed="R100" n="0608a17"/><cb:div type="commentary"><p xml:id="pX56p0570c2301" rend="margin-left:1em">然佛性之體具足諸法非內外遍虗空同法界無
+<lb ed="X" n="0570c24"/><lb ed="R100" n="0608a18"/>有罣礙是以前三十一卷迦葉品中如來以虗空
+<pb ed="X" xml:id="X56.0937.0571a" n="0571a"/>
+<lb ed="X" n="0571a01"/><lb ed="R100" n="0608b01"/>為佛性喻由迦葉權機不曉虗空喻徧之旨故至
+<lb ed="X" n="0571a02"/><lb ed="R100" n="0608b02"/>三十三卷中問云眾生佛性云何名為猶如虗空
+<lb ed="X" n="0571a03"/><lb ed="R100" n="0608b03"/>今但略引一句爾此是問因以迦葉不但不解所
+<lb ed="X" n="0571a04"/><lb ed="R100" n="0608b04"/>喻佛性仍復不解能喻之空迷實執權如來爾時
+<lb ed="X" n="0571a05"/><lb ed="R100" n="0608b05"/>欲顯實教正因因果不二不將因答乃以果地依
+<lb ed="X" n="0571a06"/><lb ed="R100" n="0608b06"/>正融通無礙之事而答迦葉章安科此文云佛性
+<lb ed="X" n="0571a07"/><lb ed="R100" n="0608b07"/>虗空文有三節先明佛性同虗空非三世攝二明
+<lb ed="X" n="0571a08"/><lb ed="R100" n="0608b08"/>佛性同虗空非內外後明佛性同虗空無罣礙即
+<lb ed="X" n="0571a09"/><lb ed="R100" n="0608b09"/>今云果地無礙而答迦葉迦葉問因如來答果以
+<lb ed="X" n="0571a10"/><lb ed="R100" n="0608b10"/>由迦葉權機惑果事而迷因理齊<anchor xml:id="beg_4" type="cb-app"/>已<anchor xml:id="end_4"/>領解故以果
+<lb ed="X" n="0571a11"/><lb ed="R100" n="0608b11"/>上緣了是有為問。</p></cb:div>
+<lb ed="X" n="0571a12"/><lb ed="R100" n="0608b12"/><cb:div type="orig"><p xml:id="pX56p0571a1201">由佛果答迦葉乃以權智斷果果上緣了悉皆是有
+<lb ed="X" n="0571a13"/><lb ed="R100" n="0608b13"/>難佛空喻法喻不齊故迦葉云如來佛性涅槃是有
+<lb ed="X" n="0571a14"/><lb ed="R100" n="0608b14"/>虗空應當亦是有耶佛先順問答次復宗明空先順
+<lb ed="X" n="0571a15"/><lb ed="R100" n="0608b15"/>問云為非涅槃說為涅槃非涅槃者謂有為煩惱為
+<lb ed="X" n="0571a16"/><lb ed="R100" n="0608b16"/>非如來說為如來非如來者謂闡提二乘為非佛性
+<lb ed="X" n="0571a17"/><lb ed="R100" n="0608b17"/>說為佛性非佛性者謂牆壁瓦礫今問若瓦石永非
+<lb ed="X" n="0571a18"/><lb ed="R100" n="0608b18"/>二乘煩惱亦永非耶故知經文寄方便教說三對治
+<lb ed="X" n="0571a19"/><lb ed="R100" n="0609a01"/>暫說三有以斥三非。</p></cb:div>
+<lb ed="X" n="0571a20"/><lb ed="R100" n="0609a02"/><cb:div type="commentary"><p xml:id="pX56p0571a2001" rend="margin-left:1em">此大經文章安科為佛性異虗空述者於斯先敘
+<lb ed="X" n="0571a21"/><lb ed="R100" n="0609a03"/>出難意而後引文迦葉通舉因果三法為難者蓋
+<lb ed="X" n="0571a22"/><lb ed="R100" n="0609a04"/>由如來以果答因意顯因果不二迦葉以果推因
+<lb ed="X" n="0571a23"/><lb ed="R100" n="0609a05"/>因果俱有故舉三法以難虗空法喻有無不齊如
+<lb ed="X" n="0571a24"/><lb ed="R100" n="0609a06"/>來從而亦順問而答之以三故記主首敘云迦葉
+<pb ed="X" xml:id="X56.0937.0571b" n="0571b"/>
+<lb ed="X" n="0571b01"/><lb ed="R100" n="0609a07"/>乃以權智斷果即如來涅槃二法也此即是果果
+<lb ed="X" n="0571b02"/><lb ed="R100" n="0609a08"/>上緣了乃佛性之一此即是因迦葉不了佛答乃
+<lb ed="X" n="0571b03"/><lb ed="R100" n="0609a09"/>實教正因因果不二乃認為權智斷果有緣了性
+<lb ed="X" n="0571b04"/><lb ed="R100" n="0609a10"/>也此之智斷有證有見果由因尅以因修緣故果
+<lb ed="X" n="0571b05"/><lb ed="R100" n="0609a11"/>尅斷以因修了故果尅智因中惡法破盡而證是
+<lb ed="X" n="0571b06"/><lb ed="R100" n="0609a12"/>果是果者功由別修豈非在因有修在果有證因
+<lb ed="X" n="0571b07"/><lb ed="R100" n="0609a13"/>果既喻虗空虗空是無法喻不齊乃成佛性異虗
+<lb ed="X" n="0571b08"/><lb ed="R100" n="0609a14"/>空之喻也故迦葉云如來佛性涅槃是有虗空應
+<lb ed="X" n="0571b09"/><lb ed="R100" n="0609a15"/>當亦是有耶如來以果驗因皆如虗空迦葉以果
+<lb ed="X" n="0571b10"/><lb ed="R100" n="0609a16"/>驗因與虗空異教部權實佛性進否由之而有所
+<lb ed="X" n="0571b11"/><lb ed="R100" n="0609a17"/>以科分佛性與虗空同異者在此故記主有帶權
+<lb ed="X" n="0571b12"/><lb ed="R100" n="0609a18"/>說實分正緣了之語與夫尋常一向權實各說三
+<lb ed="X" n="0571b13"/><lb ed="R100" n="0609b01"/>因之義不同也何者迦葉難權即緣了佛性與虗
+<lb ed="X" n="0571b14"/><lb ed="R100" n="0609b02"/>空異是佛性之否也如來說實即是正因佛性與
+<lb ed="X" n="0571b15"/><lb ed="R100" n="0609b03"/>虗空同是佛性之進也迦葉既以權為難佛亦順
+<lb ed="X" n="0571b16"/><lb ed="R100" n="0609b04"/>以權為答則三非之文正是帶權說三二果一因
+<lb ed="X" n="0571b17"/><lb ed="R100" n="0609b05"/>也如來涅槃果也佛性因也只緣錯認權教智斷
+<lb ed="X" n="0571b18"/><lb ed="R100" n="0609b06"/>之果乃謂緣了之因有修智斷之果有證虗空之
+<lb ed="X" n="0571b19"/><lb ed="R100" n="0609b07"/>體是無何得以虗空之無喻佛性之有只緣權教
+<lb ed="X" n="0571b20"/><lb ed="R100" n="0609b08"/>因果不即能所不忘故至果時不忘因性所以智
+<lb ed="X" n="0571b21"/><lb ed="R100" n="0609b09"/>斷二果與果上緣了悉皆是有難佛空喻法喻不
+<lb ed="X" n="0571b22"/><lb ed="R100" n="0609b10"/>齊只緣迦葉權機先則迷因次則迷果因合而果
+<lb ed="X" n="0571b23"/><lb ed="R100" n="0609b11"/>開是故雙挾因果併問故云如來佛性涅槃是有
+<lb ed="X" n="0571b24"/><lb ed="R100" n="0609b12"/>虗空是無云何以虗空之無喻佛性之有虗空應
+<pb ed="X" xml:id="X56.0937.0571c" n="0571c"/>
+<lb ed="X" n="0571c01"/><lb ed="R100" n="0609b13"/>當亦是有耶此辯佛性異虗空也如來說因果在
+<lb ed="X" n="0571c02"/><lb ed="R100" n="0609b14"/>實以空喻遍迦葉解因果為權以空喻無迦葉既
+<lb ed="X" n="0571c03"/><lb ed="R100" n="0609b15"/>不曉實教之中因果不二故佛覆實順權答三先
+<lb ed="X" n="0571c04"/><lb ed="R100" n="0609b16"/>權順問而答三非次則復於實教佛性之宗以明
+<lb ed="X" n="0571c05"/><lb ed="R100" n="0609b17"/>虗空喻遍之旨先順問云為非涅槃說為涅槃非
+<lb ed="X" n="0571c06"/><lb ed="R100" n="0609b18"/>涅槃者謂有為煩惱佛證於果方是涅槃因中有
+<lb ed="X" n="0571c07"/><lb ed="R100" n="0610a01"/>為煩惱非是涅槃此以涅槃之果斥於煩惱之因
+<lb ed="X" n="0571c08"/><lb ed="R100" n="0610a02"/>也為非如來說為如來非如來者謂闡提二乘佛
+<lb ed="X" n="0571c09"/><lb ed="R100" n="0610a03"/>證於果方是如來因中闡提二乘非是如來此以
+<lb ed="X" n="0571c10"/><lb ed="R100" n="0610a04"/>如來之果斥於二乘之因也以由權教因果不即
+<lb ed="X" n="0571c11"/><lb ed="R100" n="0610a05"/>是故以果而斥於因為非佛性說為佛性非佛性
+<lb ed="X" n="0571c12"/><lb ed="R100" n="0610a06"/>者謂墻壁瓦礫有情中方有佛性瓦石無情不有
+<lb ed="X" n="0571c13"/><lb ed="R100" n="0610a07"/>佛性以此有情之因斥無情之因由權教色心不
+<lb ed="X" n="0571c14"/><lb ed="R100" n="0610a08"/>即故以有情斥無情也今問若瓦石永無佛性應
+<lb ed="X" n="0571c15"/><lb ed="R100" n="0610a09"/>闡提二乘永非如來有為煩惱永非涅槃也故知
+<lb ed="X" n="0571c16"/><lb ed="R100" n="0610a10"/>經文正意在圓佛寄方便權教說三對治說果上
+<lb ed="X" n="0571c17"/><lb ed="R100" n="0610a11"/>有涅槃對斥煩惱非涅槃暫說果上有如來對斥
+<lb ed="X" n="0571c18"/><lb ed="R100" n="0610a12"/>二乘非如來暫說有情有佛性對斥瓦石非佛性
+<lb ed="X" n="0571c19"/><lb ed="R100" n="0610a13"/>故曰暫說三有以斥三非權用三教以為蘇息實
+<lb ed="X" n="0571c20"/><lb ed="R100" n="0610a14"/>不保權以為究竟故此權後便用實教之義而總
+<lb ed="X" n="0571c21"/><lb ed="R100" n="0610a15"/>結云一切世間無非虗空對於虗空等自古於此
+<lb ed="X" n="0571c22"/><lb ed="R100" n="0610a16"/>有辯三非之難乃謂迦葉問三如來答三顯然各
+<lb ed="X" n="0571c23"/><lb ed="R100" n="0610a17"/>有三法何故荊谿在後結斥野客但作緣了二法
+<lb ed="X" n="0571c24"/><lb ed="R100" n="0610a18"/>而敘乃曰緣了難正殊不相應須知迦葉問三者
+<pb ed="X" xml:id="X56.0937.0572a" n="0572a"/>
+<lb ed="X" n="0572a01"/><lb ed="R100" n="0610b01"/>乃云如來佛性涅槃是有虗空應當亦是有耶此
+<lb ed="X" n="0572a02"/><lb ed="R100" n="0610b02"/>即迦葉問三也為非涅槃說為涅槃等此是如來
+<lb ed="X" n="0572a03"/><lb ed="R100" n="0610b03"/>答三也若知經中佛意與記中荊谿之意則可知
+<lb ed="X" n="0572a04"/><lb ed="R100" n="0610b04"/>矣經意通因果祖意唯局因如迦葉問三如來答
+<lb ed="X" n="0572a05"/><lb ed="R100" n="0610b05"/>三有因有果此乃經意通因果也荊谿與野客所
+<lb ed="X" n="0572a06"/><lb ed="R100" n="0610b06"/>辯者不辯如來涅槃之果只辯瓦石非性之因野
+<lb ed="X" n="0572a07"/><lb ed="R100" n="0610b07"/>客亦不執如來涅槃而難乃執瓦石一非性文而
+<lb ed="X" n="0572a08"/><lb ed="R100" n="0610b08"/>難故曰祖意局在因是故荊谿在前但云不覺寱
+<lb ed="X" n="0572a09"/><lb ed="R100" n="0610b09"/>云無情有性野客亦只執瓦石非性之權文而難
+<lb ed="X" n="0572a10"/><lb ed="R100" n="0610b10"/>曰而云佛性非謂無情仁何獨言無情有耶此乃
+<lb ed="X" n="0572a11"/><lb ed="R100" n="0610b11"/>以權緣了難實正因是故斥其不知教之權實云
+<lb ed="X" n="0572a12"/><lb ed="R100" n="0610b12"/>緣了難正殊不相應應知只一佛性之言在如來
+<lb ed="X" n="0572a13"/><lb ed="R100" n="0610b13"/>則為實教正因在迦葉認為權教緣了只一佛性
+<lb ed="X" n="0572a14"/><lb ed="R100" n="0610b14"/>之言在荊谿則為實教正因墻壁瓦礫有佛性在
+<lb ed="X" n="0572a15"/><lb ed="R100" n="0610b15"/>野客執為權教緣了墻壁瓦礫無佛性是故斥云
+<lb ed="X" n="0572a16"/><lb ed="R100" n="0610b16"/>緣了難正殊不相應若孤山佛性居中義兼上下
+<lb ed="X" n="0572a17"/><lb ed="R100" n="0610b17"/>與夫澄子照之說不欲敘破。</p></cb:div>
+<lb ed="X" n="0572a18"/><lb ed="R100" n="0610b18"/><cb:div type="orig"><p xml:id="pX56p0572a1801">故此文後便即結云一切世間無非虗空對於虗空
+<lb ed="X" n="0572a19"/><lb ed="R100" n="0611a01"/>佛意以瓦石等三以為所對故云對於虗空是則一
+<lb ed="X" n="0572a20"/><lb ed="R100" n="0611a02"/>切無非如來等三迦葉復以四大為竝令空成有故
+<lb ed="X" n="0572a21"/><lb ed="R100" n="0611a03"/>迦葉云世間亦無非四大對四大是有虗空無對何
+<lb ed="X" n="0572a22"/><lb ed="R100" n="0611a04"/>不名有迦葉意以空無對故有之大也佛於此後捨
+<lb ed="X" n="0572a23"/><lb ed="R100" n="0611a05"/>喻從法廣明涅槃不同虗空若涅槃不同餘二亦異
+<lb ed="X" n="0572a24"/><lb ed="R100" n="0611a06"/>故知經以正因結難一切世間何所不攝豈隔煩惱
+<pb ed="X" xml:id="X56.0937.0572b" n="0572b"/>
+<lb ed="X" n="0572b01"/><lb ed="R100" n="0611a07"/>及二乘乎虗空之言何所不該安棄墻壁瓦石等耶
+<lb ed="X" n="0572b02"/><lb ed="R100" n="0611a08"/>佛後復云空與涅槃雖俱非世攝涅槃如來有證有
+<lb ed="X" n="0572b03"/><lb ed="R100" n="0611a09"/>見虗空常故是故不然豈非正與緣了不同。</p></cb:div>
+<lb ed="X" n="0572b04"/><lb ed="R100" n="0611a10"/><cb:div type="commentary"><p xml:id="pX56p0572b0401" rend="margin-left:1em">佛先順問答乃暫說三有以斥三非故今不容不
+<lb ed="X" n="0572b05"/><lb ed="R100" n="0611a11"/>以實教正因結顯歸源虗空體遍之圓宗也故結
+<lb ed="X" n="0572b06"/><lb ed="R100" n="0611a12"/>云一切世間無非虗空對於虗空既是無非虗空
+<lb ed="X" n="0572b07"/><lb ed="R100" n="0611a13"/>對於虗空此明虗空無待對也既是無非涅槃對
+<lb ed="X" n="0572b08"/><lb ed="R100" n="0611a14"/>於涅槃涅槃無待對也既是無非如來對於如來
+<lb ed="X" n="0572b09"/><lb ed="R100" n="0611a15"/>如來無待對也既是無非佛性對於佛性佛性無
+<lb ed="X" n="0572b10"/><lb ed="R100" n="0611a16"/>待對也無其三非此三皆是即是三非而為三是
+<lb ed="X" n="0572b11"/><lb ed="R100" n="0611a17"/>非對是說涅槃疏中作此消經不可以無非作無
+<lb ed="X" n="0572b12"/><lb ed="R100" n="0611a18"/>不消也佛意以瓦石等三為所對虗空為能對故
+<lb ed="X" n="0572b13"/><lb ed="R100" n="0611b01"/>云對於虗空虗空喻如來果遍為能對闡提二乘
+<lb ed="X" n="0572b14"/><lb ed="R100" n="0611b02"/>為所對則闡提即是如來虗空喻涅槃果遍為能
+<lb ed="X" n="0572b15"/><lb ed="R100" n="0611b03"/>對有為煩惱為所對則有為煩惱即是涅槃虗空
+<lb ed="X" n="0572b16"/><lb ed="R100" n="0611b04"/>喻佛性周遍即佛性為能對牆壁瓦石為所對則
+<lb ed="X" n="0572b17"/><lb ed="R100" n="0611b05"/>墻壁瓦石即是佛性是則一切無非如來一切世
+<lb ed="X" n="0572b18"/><lb ed="R100" n="0611b06"/>間皆是如來一切無非涅槃一切皆是涅槃一切
+<lb ed="X" n="0572b19"/><lb ed="R100" n="0611b07"/>無非佛性一切皆是佛性是則一切無非如來等
+<lb ed="X" n="0572b20"/><lb ed="R100" n="0611b08"/>三一切世間無非虗空對於虗空虗空無對是故
+<lb ed="X" n="0572b21"/><lb ed="R100" n="0611b09"/>名無迦葉在前以法喻不齊難空非有乃云如來
+<lb ed="X" n="0572b22"/><lb ed="R100" n="0611b10"/>佛性涅槃是有虗空應當亦是有耶今來迦葉復
+<lb ed="X" n="0572b23"/><lb ed="R100" n="0611b11"/>有四大無對難空非無令空成有故迦葉難云不
+<lb ed="X" n="0572b24"/><lb ed="R100" n="0611b12"/>但無非虗空對於虗空一切世間亦乃無非四大
+<pb ed="X" xml:id="X56.0937.0572c" n="0572c"/>
+<lb ed="X" n="0572c01"/><lb ed="R100" n="0611b13"/>對於四大四大無對既得是有虗空無對何不名
+<lb ed="X" n="0572c02"/><lb ed="R100" n="0611b14"/>有迦葉意以四大無對是故有之小虗空無對是
+<lb ed="X" n="0572c03"/><lb ed="R100" n="0611b15"/>故有之大也雖作此難佛竟不答迦葉本以四大
+<lb ed="X" n="0572c04"/><lb ed="R100" n="0611b16"/>無對名有難於虗空無對亦應是有若四大無對
+<lb ed="X" n="0572c05"/><lb ed="R100" n="0611b17"/>言之但無外道所計非四大來對四大故名為無
+<lb ed="X" n="0572c06"/><lb ed="R100" n="0611b18"/>而四大中地水火風各有相對但以四大無對得
+<lb ed="X" n="0572c07"/><lb ed="R100" n="0612a01"/>名為有若虗空之中更無一佛相對得名為無難
+<lb ed="X" n="0572c08"/><lb ed="R100" n="0612a02"/>既不成故佛不答迦葉既不曉實教虗空之喻故
+<lb ed="X" n="0572c09"/><lb ed="R100" n="0612a03"/>佛於此復捨實教虗空之喻從於權教涅槃之法
+<lb ed="X" n="0572c10"/><lb ed="R100" n="0612a04"/>廣明權教涅槃之法不同實教虗空之喻具有一
+<lb ed="X" n="0572c11"/><lb ed="R100" n="0612a05"/>十五句明其不同故曰廣明若權教涅槃不同實
+<lb ed="X" n="0572c12"/><lb ed="R100" n="0612a06"/>教虗空則權教如來佛性亦不同實教虗空故餘
+<lb ed="X" n="0572c13"/><lb ed="R100" n="0612a07"/>二亦異如是則權教因果皆不遍矣故知前來經
+<lb ed="X" n="0572c14"/><lb ed="R100" n="0612a08"/>文乃以正因結難乃云一切世間無非虗空對於
+<lb ed="X" n="0572c15"/><lb ed="R100" n="0612a09"/>虗空正喻實教因果皆遍一切世間之言非獨攝
+<lb ed="X" n="0572c16"/><lb ed="R100" n="0612a10"/>於瓦石故云何所不攝豈隔煩惱及二乘乎虗空
+<lb ed="X" n="0572c17"/><lb ed="R100" n="0612a11"/>之言不獨該於二乘煩惱而<anchor xml:id="beg_5" type="cb-app"/>已<anchor xml:id="end_5"/>故云何所不該安
+<lb ed="X" n="0572c18"/><lb ed="R100" n="0612a12"/>棄墻壁瓦礫等耶佛以正因結難之後復以實教
+<lb ed="X" n="0572c19"/><lb ed="R100" n="0612a13"/>虗空權教涅槃雖則俱非三世所攝權教如來有
+<lb ed="X" n="0572c20"/><lb ed="R100" n="0612a14"/>證有見具有一十五句所以是有實教虗空常住
+<lb ed="X" n="0572c21"/><lb ed="R100" n="0612a15"/>不變故無證無見無一十五句所以是無是故不
+<lb ed="X" n="0572c22"/><lb ed="R100" n="0612a16"/>然故總結云豈非正與緣了不同若據涅槃經但
+<lb ed="X" n="0572c23"/><lb ed="R100" n="0612a17"/>云涅槃有證有見不云如來有證有見今文例顯
+<lb ed="X" n="0572c24"/><lb ed="R100" n="0612a18"/>是故通云涅槃如來上文則曰若涅槃不同餘二
+<pb ed="X" xml:id="X56.0937.0573a" n="0573a"/>
+<lb ed="X" n="0573a01"/><lb ed="R100" n="0612b01"/>亦異涅槃如來是所尅之果既其是權緣了佛性
+<lb ed="X" n="0573a02"/><lb ed="R100" n="0612b02"/>是能尅之因亦即是權能喻虗空以常住故既其
+<lb ed="X" n="0573a03"/><lb ed="R100" n="0612b03"/>是實所喻正因以體遍故亦只是實豈非實教正
+<lb ed="X" n="0573a04"/><lb ed="R100" n="0612b04"/>因與權教緣了不同此乃結示經文斥於野客消
+<lb ed="X" n="0573a05"/><lb ed="R100" n="0612b05"/>文釋義之失。</p></cb:div>
+<lb ed="X" n="0573a06"/><lb ed="R100" n="0612b06"/><cb:div type="orig"><p xml:id="pX56p0573a0601">次佛復宗顯空非有故恐世人以邪計空為佛性喻
+<lb ed="X" n="0573a07"/><lb ed="R100" n="0612b07"/>更以一十復次而遮其非。</p></cb:div>
+<lb ed="X" n="0573a08"/><lb ed="R100" n="0612b08"/><cb:div type="commentary"><p xml:id="pX56p0573a0801" rend="margin-left:1em">前文云佛先順問答次復宗明空先順問答<anchor xml:id="beg_6" type="cb-app"/>已<anchor xml:id="end_6"/>如
+<lb ed="X" n="0573a09"/><lb ed="R100" n="0612b09"/>前說次復宗明空今當辯之復本說實教眾生佛
+<lb ed="X" n="0573a10"/><lb ed="R100" n="0612b10"/>性非內非外之宗顯於虗空之喻以其虗空無待
+<lb ed="X" n="0573a11"/><lb ed="R100" n="0612b11"/>故故云非有非同權教有待對而說三有由佛性
+<lb ed="X" n="0573a12"/><lb ed="R100" n="0612b12"/>無待對故遍一切處喻如虗空無待對故遍一切
+<lb ed="X" n="0573a13"/><lb ed="R100" n="0612b13"/>處若其外道所計邪空<anchor xml:id="beg_7" type="cb-app"/>已<anchor xml:id="end_7"/>有局限非佛性喻故恐
+<lb ed="X" n="0573a14"/><lb ed="R100" n="0612b14"/>世人以外道所計邪空為佛性喻故更以一十復
+<lb ed="X" n="0573a15"/><lb ed="R100" n="0612b15"/>次而遮其非遮其邪空顯於正教以情分別一切
+<lb ed="X" n="0573a16"/><lb ed="R100" n="0612b16"/>皆邪正教亦邪離情分別一切皆正邪空皆正若
+<lb ed="X" n="0573a17"/><lb ed="R100" n="0612b17"/>以理言之魔界如佛界如而邪正體一何邪正之
+<lb ed="X" n="0573a18"/><lb ed="R100" n="0612b18"/>有外道邪空之計即性惡法門一十復次所遮其
+<lb ed="X" n="0573a19"/><lb ed="R100" n="0613a01"/>非全是佛性所遍之處誰言邪空非是佛性若佛
+<lb ed="X" n="0573a20"/><lb ed="R100" n="0613a02"/>性外更有邪空魔能說之即同魔事今取明於圓
+<lb ed="X" n="0573a21"/><lb ed="R100" n="0613a03"/>常大覺之宗豈有邪正是非分別之相以情從理
+<lb ed="X" n="0573a22"/><lb ed="R100" n="0613a04"/>故有邪正之分以理簡情乃有邪正之辯邪正既
+<lb ed="X" n="0573a23"/><lb ed="R100" n="0613a05"/>其不同是故邪空非佛性喻故用復次而遮其非
+<lb ed="X" n="0573a24"/><lb ed="R100" n="0613a06"/>大意各有三初牒外計次牒佛斥後斥世同邪然
+<pb ed="X" xml:id="X56.0937.0573b" n="0573b"/>
+<lb ed="X" n="0573b01"/><lb ed="R100" n="0613a07"/>文有存略或略佛斥或廣經文亦不須一一對經
+<lb ed="X" n="0573b02"/><lb ed="R100" n="0613a08"/>攷證蓋述者貴義易顯故也。</p></cb:div>
+<lb ed="X" n="0573b03"/><lb ed="R100" n="0613a09"/><cb:div type="orig"><p xml:id="pX56p0573b0301">初云世人言虗空者名為無色無對不可見佛言此
+<lb ed="X" n="0573b04"/><lb ed="R100" n="0613a10"/>即心所三世所攝語似心所故佛破之世言身內何
+<lb ed="X" n="0573b05"/><lb ed="R100" n="0613a11"/>殊心所。</p></cb:div>
+<lb ed="X" n="0573b06"/><lb ed="R100" n="0613a12"/><cb:div type="commentary"><p xml:id="pX56p0573b0601" rend="margin-left:1em">世人者非今所斥乃經中佛斥者也既空為非現
+<lb ed="X" n="0573b07"/><lb ed="R100" n="0613a13"/>見有對之色此語全似心所法矣故佛斥言此即
+<lb ed="X" n="0573b08"/><lb ed="R100" n="0613a14"/>心所非性空無礙莫喻佛性今他宗計佛性惟局
+<lb ed="X" n="0573b09"/><lb ed="R100" n="0613a15"/>有情身內不徧無情何殊外道所計虗空似心所
+<lb ed="X" n="0573b10"/><lb ed="R100" n="0613a16"/>耶。</p></cb:div>
+<lb ed="X" n="0573b11"/><lb ed="R100" n="0613a17"/><cb:div type="orig"><p xml:id="pX56p0573b1101">復次外道言虗空者即是光明佛言亦是色法世言
+<lb ed="X" n="0573b12"/><lb ed="R100" n="0613a18"/>身內何殊色法。</p></cb:div>
+<lb ed="X" n="0573b13"/><lb ed="R100" n="0613b01"/><cb:div type="commentary"><p xml:id="pX56p0573b1301" rend="margin-left:1em">邪計光明即是於空佛斥光明乃是色法外人不
+<lb ed="X" n="0573b14"/><lb ed="R100" n="0613b02"/>知光明乃空所容之色法色無常豈無礙空今世
+<lb ed="X" n="0573b15"/><lb ed="R100" n="0613b03"/>人計佛性局在身內昧於佛性之體遍一切處不
+<lb ed="X" n="0573b16"/><lb ed="R100" n="0613b04"/>隔情與無情若在身內正同外計但以空中光色
+<lb ed="X" n="0573b17"/><lb ed="R100" n="0613b05"/>而為空也。</p></cb:div>
+<lb ed="X" n="0573b18"/><lb ed="R100" n="0613b06"/><cb:div type="orig"><p xml:id="pX56p0573b1801">有云住處世言身內豈非住處。</p></cb:div>
+<lb ed="X" n="0573b19"/><lb ed="R100" n="0613b07"/><cb:div type="commentary"><p xml:id="pX56p0573b1901" rend="margin-left:1em">計空有處所如東西二室一滿一空佛斥若有住
+<lb ed="X" n="0573b20"/><lb ed="R100" n="0613b08"/>處即亦是色法三世所攝非常住空世人執佛性
+<lb ed="X" n="0573b21"/><lb ed="R100" n="0613b09"/>局於身內不遍無情即邪計空有於住處滿室無
+<lb ed="X" n="0573b22"/><lb ed="R100" n="0613b10"/>空空室有空。</p></cb:div>
+<lb ed="X" n="0573b23"/><lb ed="R100" n="0613b11"/><cb:div type="orig"><p xml:id="pX56p0573b2301">有云次第世言身內必須隨身剎那時運。</p></cb:div>
+<lb ed="X" n="0573b24"/><lb ed="R100" n="0613b12"/><cb:div type="commentary"><p xml:id="pX56p0573b2401" rend="margin-left:1em">疏云次第如簫管中及空門向內數人云牕內見
+<pb ed="X" xml:id="X56.0937.0573c" n="0573c"/>
+<lb ed="X" n="0573c01"/><lb ed="R100" n="0613b13"/>於牕外之空先於第一牕櫺中見次於第二第三
+<lb ed="X" n="0573c02"/><lb ed="R100" n="0613b14"/>中見故是次第世人計佛性在有情身內此之佛
+<lb ed="X" n="0573c03"/><lb ed="R100" n="0613b15"/>性必須隨於身內剎那之心念念生滅未念欲念
+<lb ed="X" n="0573c04"/><lb ed="R100" n="0613b16"/>正念念<anchor xml:id="beg_8" type="cb-app"/>已<anchor xml:id="end_8"/>四運次第時時遷運佛性隨身即有次
+<lb ed="X" n="0573c05"/><lb ed="R100" n="0613b17"/>第正同外道所計虗空而有次第。</p></cb:div>
+<lb ed="X" n="0573c06"/><lb ed="R100" n="0613b18"/><cb:div type="orig"><p xml:id="pX56p0573c0601">有云不離三法一空二實三者空實佛言若言空者
+<lb ed="X" n="0573c07"/><lb ed="R100" n="0614a01"/>有處無故若言實者空處無故若言空實二處無故
+<lb ed="X" n="0573c08"/><lb ed="R100" n="0614a02"/>世言身內猶闕外計空及二俱。</p></cb:div>
+<lb ed="X" n="0573c09"/><lb ed="R100" n="0614a03"/><cb:div type="commentary"><p xml:id="pX56p0573c0901" rend="margin-left:1em">經云有言夫虗空者不離三法止空及二俱疏云
+<lb ed="X" n="0573c10"/><lb ed="R100" n="0614a04"/>一空在空處有中無空二空在有處無處無空三
+<lb ed="X" n="0573c11"/><lb ed="R100" n="0614a05"/>在有無處如濕爛物當爛未爛當爛即義當於空
+<lb ed="X" n="0573c12"/><lb ed="R100" n="0614a06"/>未爛即義當於實即空實處明有空佛斥可見今
+<lb ed="X" n="0573c13"/><lb ed="R100" n="0614a07"/>世人計有情有性即但得外計有處有空之義而
+<lb ed="X" n="0573c14"/><lb ed="R100" n="0614a08"/>尚缺於空及二俱也。</p></cb:div>
+<lb ed="X" n="0573c15"/><lb ed="R100" n="0614a09"/><cb:div type="orig"><p xml:id="pX56p0573c1501">有云作法如去舍等世言身沒與真相應即同作法。</p></cb:div>
+<lb ed="X" n="0573c16"/><lb ed="R100" n="0614a10"/><cb:div type="commentary"><p xml:id="pX56p0573c1601" rend="margin-left:1em">言造作法如去屋舍去樹林而作虗空世人言佛
+<lb ed="X" n="0573c17"/><lb ed="R100" n="0614a11"/>性在有情身內正屬別教破九界而顯佛界破九
+<lb ed="X" n="0573c18"/><lb ed="R100" n="0614a12"/>界故云身沒顯佛界故故云與真相應若云破九
+<lb ed="X" n="0573c19"/><lb ed="R100" n="0614a13"/>界方顯佛性即同外道所計去舍拔樹方見虗空
+<lb ed="X" n="0573c20"/><lb ed="R100" n="0614a14"/>也。</p></cb:div>
+<lb ed="X" n="0573c21"/><lb ed="R100" n="0614a15"/><cb:div type="orig"><p xml:id="pX56p0573c2101">有云無礙處佛言有分有具餘處無故世言身內餘
+<lb ed="X" n="0573c22"/><lb ed="R100" n="0614a16"/>處則無。</p></cb:div>
+<lb ed="X" n="0573c23"/><lb ed="R100" n="0614a17"/><cb:div type="commentary"><p xml:id="pX56p0573c2301" rend="margin-left:1em">有云虗空即無礙處佛言此無礙處為分有十方
+<lb ed="X" n="0573c24"/><lb ed="R100" n="0614a18"/>空耶為具有十方空耶若言此處具有虗空其餘
+<pb ed="X" xml:id="X56.0937.0574a" n="0574a"/>
+<lb ed="X" n="0574a01"/><lb ed="R100" n="0614b01"/>諸處無虗空世人云有情身內有佛性無情色上
+<lb ed="X" n="0574a02"/><lb ed="R100" n="0614b02"/>無佛性正同外道所計此處具有虗空餘處則無
+<lb ed="X" n="0574a03"/><lb ed="R100" n="0614b03"/>於虗空也。</p></cb:div>
+<lb ed="X" n="0574a04"/><lb ed="R100" n="0614b04"/><cb:div type="orig"><p xml:id="pX56p0574a0401">有云與有竝合佛言合有三種一如鳥投樹二如羊
+<lb ed="X" n="0574a05"/><lb ed="R100" n="0614b05"/>相<g ref="#CB01050">𧢻</g>三如二指<anchor xml:id="beg_9" type="cb-app"/>已<anchor xml:id="end_9"/>合世言身內如二指合。</p></cb:div>
+<lb ed="X" n="0574a06"/><lb ed="R100" n="0614b06"/><cb:div type="commentary"><p xml:id="pX56p0574a0601" rend="margin-left:1em">有云虗空與有竝合佛言合有三種一如鳥投樹
+<lb ed="X" n="0574a07"/><lb ed="R100" n="0614b07"/>有情之鳥無情之樹其業有異名異業合二如羊
+<lb ed="X" n="0574a08"/><lb ed="R100" n="0614b08"/>相<g ref="#CB01050">𧢻</g>則彼此是羊名共業合三如二雙指合在一
+<lb ed="X" n="0574a09"/><lb ed="R100" n="0614b09"/>處空體用<anchor xml:id="beg_a" type="cb-app"/>已<anchor xml:id="end_a"/>合如一雙指<anchor xml:id="beg_b" type="cb-app"/>已<anchor xml:id="end_b"/>合物體用<anchor xml:id="beg_c" type="cb-app"/>已<anchor xml:id="end_c"/>合亦如
+<lb ed="X" n="0574a10"/><lb ed="R100" n="0614b10"/>一雙指<anchor xml:id="beg_d" type="cb-app"/>已<anchor xml:id="end_d"/>合兩種<anchor xml:id="beg_e" type="cb-app"/>已<anchor xml:id="end_e"/>合共業為一處名<anchor xml:id="beg_f" type="cb-app"/>已<anchor xml:id="end_f"/>合共合
+<lb ed="X" n="0574a11"/><lb ed="R100" n="0614b11"/>今文且云如二指<anchor xml:id="beg_10" type="cb-app"/>已<anchor xml:id="end_10"/>合此是文略世人言有情身
+<lb ed="X" n="0574a12"/><lb ed="R100" n="0614b12"/>內有佛性者正如外道所計空之體用與所計物
+<lb ed="X" n="0574a13"/><lb ed="R100" n="0614b13"/>之體用各自<anchor xml:id="beg_11" type="cb-app"/>已<anchor xml:id="end_11"/>合今共合為一處如此則同彼身
+<lb ed="X" n="0574a14"/><lb ed="R100" n="0614b14"/>內與佛性共為一處也。</p></cb:div>
+<lb ed="X" n="0574a15"/><lb ed="R100" n="0614b15"/><cb:div type="orig"><p xml:id="pX56p0574a1501">有云如器中空世言身內何異器中。</p></cb:div>
+<lb ed="X" n="0574a16"/><lb ed="R100" n="0614b16"/><cb:div type="commentary"><p xml:id="pX56p0574a1601" rend="margin-left:1em">外計空在器中如果在器今直言如器中空欲使
+<lb ed="X" n="0574a17"/><lb ed="R100" n="0614b17"/>文義易顯故也佛斥云如是虗空先無器時在何
+<lb ed="X" n="0574a18"/><lb ed="R100" n="0614b18"/>處住若有住處虗空則多如其多者云何言常言
+<lb ed="X" n="0574a19"/><lb ed="R100" n="0615a01"/>一言遍世言身內有性先無身時性在何處住若
+<lb ed="X" n="0574a20"/><lb ed="R100" n="0615a02"/>有住處佛性則多如其多者云何言常言一言遍。</p></cb:div>
+<lb ed="X" n="0574a21"/><lb ed="R100" n="0615a03"/><cb:div type="orig"><p xml:id="pX56p0574a2101">有云所指之處佛言則有方面世言身中豈非方面。</p></cb:div>
+<lb ed="X" n="0574a22"/><lb ed="R100" n="0615a04"/><cb:div type="commentary"><p xml:id="pX56p0574a2201" rend="margin-left:1em">外計即所指之處便為虗空佛斥所指處不出四
+<lb ed="X" n="0574a23"/><lb ed="R100" n="0615a05"/>方今云方面即四方也空無方所世言身內有性
+<lb ed="X" n="0574a24"/><lb ed="R100" n="0615a06"/>局於方所同彼邪空佛性不爾遍一切處非內非
+<pb ed="X" xml:id="X56.0937.0574b" n="0574b"/>
+<lb ed="X" n="0574b01"/><lb ed="R100" n="0615a07"/>外。</p></cb:div>
+<lb ed="X" n="0574b02"/><lb ed="R100" n="0615a08"/><cb:div type="orig"><p xml:id="pX56p0574b0201">佛總結云從因緣生皆是無常故此一十邪計虗空
+<lb ed="X" n="0574b03"/><lb ed="R100" n="0615a09"/>非佛性喻是無常故三世攝故虗空異彼徧一切處
+<lb ed="X" n="0574b04"/><lb ed="R100" n="0615a10"/>此違迦葉問復宗符空以喻正因。</p></cb:div>
+<lb ed="X" n="0574b05"/><lb ed="R100" n="0615a11"/><cb:div type="commentary"><p xml:id="pX56p0574b0501" rend="margin-left:1em">佛於一十復次之後總結斥云有法若從因緣生
+<lb ed="X" n="0574b06"/><lb ed="R100" n="0615a12"/>者皆是無常既從邪無因緣而起妄計云何能常
+<lb ed="X" n="0574b07"/><lb ed="R100" n="0615a13"/>故此邪空不可以喻正因佛性佛性是常邪空是
+<lb ed="X" n="0574b08"/><lb ed="R100" n="0615a14"/>無常三世攝故佛性是遍邪空質礙局方所故自
+<lb ed="X" n="0574b09"/><lb ed="R100" n="0615a15"/>非開宗所說空性無礙非內非外遍一切處者何
+<lb ed="X" n="0574b10"/><lb ed="R100" n="0615a16"/>以喻今正因佛性唯此正因佛性方可取喻無礙
+<lb ed="X" n="0574b11"/><lb ed="R100" n="0615a17"/>之空此所以違迦葉之問復說實教之宗方符體
+<lb ed="X" n="0574b12"/><lb ed="R100" n="0615a18"/>徧之空足喻正因之性故曰故此一十邪計虗空
+<lb ed="X" n="0574b13"/><lb ed="R100" n="0615b01"/>等邪。</p></cb:div>
+<lb ed="X" n="0574b14"/><lb ed="R100" n="0615b02"/><cb:div type="orig"><p xml:id="pX56p0574b1401">世人何以棄佛正教明於邪空云何乃以智斷果上
+<lb ed="X" n="0574b15"/><lb ed="R100" n="0615b03"/>緣了佛性以難正因如來是智果涅槃是斷果故智
+<lb ed="X" n="0574b16"/><lb ed="R100" n="0615b04"/>斷果上有緣了性所以迦葉難云如來佛性涅槃是
+<lb ed="X" n="0574b17"/><lb ed="R100" n="0615b05"/>有世人多引涅槃為難故廣引之以杜餘論子應不
+<lb ed="X" n="0574b18"/><lb ed="R100" n="0615b06"/>見涅槃之文空斆世人瓦石之妨緣了難正殊不相
+<lb ed="X" n="0574b19"/><lb ed="R100" n="0615b07"/>應此即子不知佛性之進否也。</p></cb:div>
+<lb ed="X" n="0574b20"/><lb ed="R100" n="0615b08"/><cb:div type="commentary"><p xml:id="pX56p0574b2001" rend="margin-left:1em">此破野客偏權之執顯佛性進否之旨云何乃以
+<lb ed="X" n="0574b21"/><lb ed="R100" n="0615b09"/>智斷果上緣了佛性以難正因此斥野客以權難
+<lb ed="X" n="0574b22"/><lb ed="R100" n="0615b10"/>實也何謂智果如來是智果何謂斷果涅槃是斷
+<lb ed="X" n="0574b23"/><lb ed="R100" n="0615b11"/>果何謂緣了佛性故智斷果上有緣了性故迦葉
+<lb ed="X" n="0574b24"/><lb ed="R100" n="0615b12"/>前難云如來佛性涅槃是有以由權教如來涅槃
+<pb ed="X" xml:id="X56.0937.0574c" n="0574c"/>
+<lb ed="X" n="0574c01"/><lb ed="R100" n="0615b13"/>是所尅之果緣了佛性是能尅之因因果不亡故
+<lb ed="X" n="0574c02"/><lb ed="R100" n="0615b14"/>名為有良由世人多引涅槃經中瓦石非性之權
+<lb ed="X" n="0574c03"/><lb ed="R100" n="0615b15"/>文為難故荊谿廣引經中權實之文以杜絕後代
+<lb ed="X" n="0574c04"/><lb ed="R100" n="0615b16"/>執無情無性之餘論也吾子野客想應不見涅槃
+<lb ed="X" n="0574c05"/><lb ed="R100" n="0615b17"/>經中權實之文空效世人瓦石之妨正當以權教
+<lb ed="X" n="0574c06"/><lb ed="R100" n="0615b18"/>緣了難實教正因故云緣了難正殊不相應若知
+<lb ed="X" n="0574c07"/><lb ed="R100" n="0616a01"/>實教正因體遍名進權教緣了不遍名否則不以
+<lb ed="X" n="0574c08"/><lb ed="R100" n="0616a02"/>權難實也只由荊谿與野客所辯佛性之因故斥
+<lb ed="X" n="0574c09"/><lb ed="R100" n="0616a03"/>云此即子不知佛性之進否也。</p></cb:div>
+<lb ed="X" n="0574c10"/><lb ed="R100" n="0616a04"/><cb:div type="orig"><p xml:id="pX56p0574c1001">況復以空譬正緣了猶局如迦葉所引三皆有者此
+<lb ed="X" n="0574c11"/><lb ed="R100" n="0616a05"/>乃涅槃帶權門說故佛順迦葉三皆是有若頓教實
+<lb ed="X" n="0574c12"/><lb ed="R100" n="0616a06"/>說本有三種三理元徧達性成修修三亦徧欲示眾
+<lb ed="X" n="0574c13"/><lb ed="R100" n="0616a07"/>生本有正性且云正徧猶如虗空欲赴末代以順迦
+<lb ed="X" n="0574c14"/><lb ed="R100" n="0616a08"/>葉豈非迦葉知機設疑故佛覆實述權緣了此子不
+<lb ed="X" n="0574c15"/><lb ed="R100" n="0616a09"/>知教之權實。</p></cb:div>
+<lb ed="X" n="0574c16"/><lb ed="R100" n="0616a10"/><cb:div type="commentary"><p xml:id="pX56p0574c1601" rend="margin-left:1em">此佛性之進否由教之有權實前<anchor xml:id="beg_12" type="cb-app"/>已<anchor xml:id="end_12"/>明佛性進否
+<lb ed="X" n="0574c17"/><lb ed="R100" n="0616a11"/>故今以教權實次之即帶權說實也若一向權實
+<lb ed="X" n="0574c18"/><lb ed="R100" n="0616a12"/>則三因俱局俱遍今言一遍二不遍者正是帶權
+<lb ed="X" n="0574c19"/><lb ed="R100" n="0616a13"/>說實之義故先云佛性如虗空正譬實教正因體
+<lb ed="X" n="0574c20"/><lb ed="R100" n="0616a14"/>遍次云為非佛性是墻壁瓦礫即是權教緣了不
+<lb ed="X" n="0574c21"/><lb ed="R100" n="0616a15"/>遍局在有情權未即實故名猶局豈特緣了佛性
+<lb ed="X" n="0574c22"/><lb ed="R100" n="0616a16"/>之因是權如來涅槃亦皆是權故繼之云如迦葉
+<lb ed="X" n="0574c23"/><lb ed="R100" n="0616a17"/>所引三皆是有者此乃涅槃經中帶權門說即迦
+<lb ed="X" n="0574c24"/><lb ed="R100" n="0616a18"/>葉問三在權故佛順迦葉答三三皆是有有修有
+<pb ed="X" xml:id="X56.0937.0575a" n="0575a"/>
+<lb ed="X" n="0575a01"/><lb ed="R100" n="0616b01"/>證局在有情此乃如來說三在權若頓教實說眾
+<lb ed="X" n="0575a02"/><lb ed="R100" n="0616b02"/>生心中本有正因佛種本有了因佛種本有緣因
+<lb ed="X" n="0575a03"/><lb ed="R100" n="0616b03"/>佛種此之三因能生果上之三德故名為種以無
+<lb ed="X" n="0575a04"/><lb ed="R100" n="0616b04"/>始來唯有煩惱業苦而<anchor xml:id="beg_13" type="cb-app"/>已<anchor xml:id="end_13"/>即此全是理性三因故
+<lb ed="X" n="0575a05"/><lb ed="R100" n="0616b05"/>三佛種即是三理此三理性元遍一切性三既遍
+<lb ed="X" n="0575a06"/><lb ed="R100" n="0616b06"/>達性成修修三亦遍是知三因之體本來周遍由
+<lb ed="X" n="0575a07"/><lb ed="R100" n="0616b07"/>了因未曾發心緣因未曾加行故性緣了同名正
+<lb ed="X" n="0575a08"/><lb ed="R100" n="0616b08"/>因佛示眾生本有正因佛性且云正因猶如虗空
+<lb ed="X" n="0575a09"/><lb ed="R100" n="0616b09"/>於此實教正因之後又說權教緣了欲赴末代權
+<lb ed="X" n="0575a10"/><lb ed="R100" n="0616b10"/>機以順迦葉之權問豈非迦葉知機在權故設疑
+<lb ed="X" n="0575a11"/><lb ed="R100" n="0616b11"/>問疑其佛性喻於虗空佛性是有虗空應當亦是
+<lb ed="X" n="0575a12"/><lb ed="R100" n="0616b12"/>有耶既不曉實教正因虗空之喻故以覆於實教
+<lb ed="X" n="0575a13"/><lb ed="R100" n="0616b13"/>正因虗空之喻述於權教緣了之性子以緣了難
+<lb ed="X" n="0575a14"/><lb ed="R100" n="0616b14"/>正即是以權難實也此即子不知教之權實也。</p></cb:div>
+<lb ed="X" n="0575a15"/><lb ed="R100" n="0616b15"/><cb:div type="orig"><p xml:id="pX56p0575a1501">故涅槃中佛性之言不唯一種如迦葉品下文云言
+<lb ed="X" n="0575a16"/><lb ed="R100" n="0616b16"/>佛性者所謂十力無畏不共大悲三念三十二相八
+<lb ed="X" n="0575a17"/><lb ed="R100" n="0616b17"/>十種好子何不引此文令一切眾生亦無何獨瓦石
+<lb ed="X" n="0575a18"/><lb ed="R100" n="0616b18"/>若云此是果德眾生有此果性者果性身土何不霑
+<lb ed="X" n="0575a19"/><lb ed="R100" n="0617a01"/>於瓦石等耶又若許因有果性者世何但云十方諸
+<lb ed="X" n="0575a20"/><lb ed="R100" n="0617a02"/>佛同一法身力無畏等而不云生佛亦同法身力無
+<lb ed="X" n="0575a21"/><lb ed="R100" n="0617a03"/>畏等使一塵一心無非三身三德之性種也若言但
+<lb ed="X" n="0575a22"/><lb ed="R100" n="0617a04"/>有果地法身性者何故經云十力無畏乃至相好又
+<lb ed="X" n="0575a23"/><lb ed="R100" n="0617a05"/>復經中闡提等人四句辨性子言眾生有性為何眾
+<lb ed="X" n="0575a24"/><lb ed="R100" n="0617a06"/>生有何等性瓦石為復無四何耶又第六第九及三
+<pb ed="X" xml:id="X56.0937.0575b" n="0575b"/>
+<lb ed="X" n="0575b01"/><lb ed="R100" n="0617a07"/>十二皆以雜血五味用對凡夫三乘及佛何故佛性
+<lb ed="X" n="0575b02"/><lb ed="R100" n="0617a08"/>在人差降不同。</p><p xml:id="pX56p0575b0207" rend="inline">又二十七云若修八正即見佛性婆
+<lb ed="X" n="0575b03"/><lb ed="R100" n="0617a09"/>沙俱舍悉有八正乃至諸經咸有道品為修何八正
+<lb ed="X" n="0575b04"/><lb ed="R100" n="0617a10"/>見何佛性故子不知佛性進否。</p></cb:div>
+<lb ed="X" n="0575b05"/><lb ed="R100" n="0617a11"/><cb:div type="commentary"><p xml:id="pX56p0575b0501" rend="margin-left:1em">此乃通引涅槃一經之中佛性之義斥其不知佛
+<lb ed="X" n="0575b06"/><lb ed="R100" n="0617a12"/>性之進否故涅槃經中佛性之言不但有緣了不
+<lb ed="X" n="0575b07"/><lb ed="R100" n="0617a13"/>遍瓦礫一種而<anchor xml:id="beg_14" type="cb-app"/>已<anchor xml:id="end_14"/>言佛性處凡有多種如迦葉品
+<lb ed="X" n="0575b08"/><lb ed="R100" n="0617a14"/>之下文即下第六第九第二十九第三十二卷等
+<lb ed="X" n="0575b09"/><lb ed="R100" n="0617a15"/>文並有佛性之義且迦葉品下文云言佛性者所
+<lb ed="X" n="0575b10"/><lb ed="R100" n="0617a16"/>謂十力是佛性無畏是佛性十八不共法大悲三
+<lb ed="X" n="0575b11"/><lb ed="R100" n="0617a17"/>念三十二相八十種好亦是佛性雖是佛性並是
+<lb ed="X" n="0575b12"/><lb ed="R100" n="0617a18"/>果上所顯之德有情眾生既無三十二相等何不
+<lb ed="X" n="0575b13"/><lb ed="R100" n="0617b01"/>引此文言一切眾生亦無佛性何獨於瓦石非性
+<lb ed="X" n="0575b14"/><lb ed="R100" n="0617b02"/>之文執無情無性耶十力等並如法界次第此乃
+<lb ed="X" n="0575b15"/><lb ed="R100" n="0617b03"/>第一番反難野客有情無佛性也以由野客但執
+<lb ed="X" n="0575b16"/><lb ed="R100" n="0617b04"/>有情有佛性故若云三十二相等乃果上所顯之
+<lb ed="X" n="0575b17"/><lb ed="R100" n="0617b05"/>德因中有情眾生有此果性者果上身土互融因
+<lb ed="X" n="0575b18"/><lb ed="R100" n="0617b06"/>性本具則因佛性遍身遍土何故執其佛性不沾
+<lb ed="X" n="0575b19"/><lb ed="R100" n="0617b07"/>於墻壁瓦石等耶此乃第二難正顯有情有佛性
+<lb ed="X" n="0575b20"/><lb ed="R100" n="0617b08"/>也及若許眾生之因有果人性者世人所弘華嚴
+<lb ed="X" n="0575b21"/><lb ed="R100" n="0617b09"/>經中何故<anchor xml:id="beg_15" type="cb-app"/>但<anchor xml:id="end_15"/>云十方諸佛同一法身力無畏等而
+<lb ed="X" n="0575b22"/><lb ed="R100" n="0617b10"/>不云眾生之因與諸佛之果亦同法身力無畏等
+<lb ed="X" n="0575b23"/><lb ed="R100" n="0617b11"/>果上三身依正互具眾生心因有此果性則使眾
+<lb ed="X" n="0575b24"/><lb ed="R100" n="0617b12"/>生依報中一塵無情之色正報中一念有情之心
+<pb ed="X" xml:id="X56.0937.0575c" n="0575c"/>
+<lb ed="X" n="0575c01"/><lb ed="R100" n="0617b13"/>無非三德三身之性種豈可云無情無佛性耶此
+<lb ed="X" n="0575c02"/><lb ed="R100" n="0617b14"/>是第三難其不曉佛說果德之意佛說果上依正
+<lb ed="X" n="0575c03"/><lb ed="R100" n="0617b15"/>融通意在眾生因中本具所謂談法界者未窮斯
+<lb ed="X" n="0575c04"/><lb ed="R100" n="0617b16"/>妙致使惑果事而迷因理即此類也又復若云眾
+<lb ed="X" n="0575c05"/><lb ed="R100" n="0617b17"/>生但有果上法身性而無報應二身性者何故經
+<lb ed="X" n="0575c06"/><lb ed="R100" n="0617b18"/>云十力無畏乃至三十二相八十種好十力無畏
+<lb ed="X" n="0575c07"/><lb ed="R100" n="0618a01"/>豈非報身三十二相豈非應身既是三身皆言佛
+<lb ed="X" n="0575c08"/><lb ed="R100" n="0618a02"/>性佛是果人則一切眾生皆有果人之性即是具
+<lb ed="X" n="0575c09"/><lb ed="R100" n="0618a03"/>足三身佛性法身報應未嘗離於法身豈可無報
+<lb ed="X" n="0575c10"/><lb ed="R100" n="0618a04"/>應二身之義耶此是第四難其三身佛性體本相
+<lb ed="X" n="0575c11"/><lb ed="R100" n="0618a05"/>即又復大經三十二卷中闡提善人四句辯性或
+<lb ed="X" n="0575c12"/><lb ed="R100" n="0618a06"/>有佛性闡提人有善根人無此辯修惡性或有佛
+<lb ed="X" n="0575c13"/><lb ed="R100" n="0618a07"/>性善根人有闡提人無此辯修善性或有佛性二
+<lb ed="X" n="0575c14"/><lb ed="R100" n="0618a08"/>人俱有此辯性德性即性善性惡二人俱有或有
+<lb ed="X" n="0575c15"/><lb ed="R100" n="0618a09"/>佛性二人俱無此辯不退性未入似位故二人俱
+<lb ed="X" n="0575c16"/><lb ed="R100" n="0618a10"/>無也子但執云有情眾生方有佛性為是何等眾
+<lb ed="X" n="0575c17"/><lb ed="R100" n="0618a11"/>生為闡提眾生耶為善根眾生耶此乃難其不知
+<lb ed="X" n="0575c18"/><lb ed="R100" n="0618a12"/>人有善惡言有性者為是何等性修善性耶修惡
+<lb ed="X" n="0575c19"/><lb ed="R100" n="0618a13"/>性耶性德性耶此乃難其不知性有善惡修性之
+<lb ed="X" n="0575c20"/><lb ed="R100" n="0618a14"/>義闡提起於修惡則諸法皆惡無一法在於修惡
+<lb ed="X" n="0575c21"/><lb ed="R100" n="0618a15"/>外則瓦石之法亦有修惡之性善根之人起於修
+<lb ed="X" n="0575c22"/><lb ed="R100" n="0618a16"/>善則諸法皆善無有一法在於修善外則瓦石諸
+<lb ed="X" n="0575c23"/><lb ed="R100" n="0618a17"/>法亦有此修善之性闡提善人俱有性德性則諸
+<lb ed="X" n="0575c24"/><lb ed="R100" n="0618a18"/>法皆性無有一法在於性德外則瓦石諸法亦有
+<pb ed="X" xml:id="X56.0937.0576a" n="0576a"/>
+<lb ed="X" n="0576a01"/><lb ed="R100" n="0618b01"/>性德性二人俱無不退性則瓦石亦無不退性如
+<lb ed="X" n="0576a02"/><lb ed="R100" n="0618b02"/>是則瓦石亦可以此四句而辯於性瓦石為復無
+<lb ed="X" n="0576a03"/><lb ed="R100" n="0618b03"/>四句耶正彰其有此乃難其不知瓦石可辯四句
+<lb ed="X" n="0576a04"/><lb ed="R100" n="0618b04"/>圓詮諸法色心不二有情之心既有四句無情之
+<lb ed="X" n="0576a05"/><lb ed="R100" n="0618b05"/>色亦有四句若然則有情無情皆有佛性也文中
+<lb ed="X" n="0576a06"/><lb ed="R100" n="0618b06"/>雖未明言三千之相而三千之旨在其中矣此第
+<lb ed="X" n="0576a07"/><lb ed="R100" n="0618b07"/>五番難其不知四句辯性之旨如云果性身土沾
+<lb ed="X" n="0576a08"/><lb ed="R100" n="0618b08"/>於瓦石又云一塵一心無非三身三德之種性復
+<lb ed="X" n="0576a09"/><lb ed="R100" n="0618b09"/>云四句辯性遍於瓦石莫非性遍故名為進又第
+<lb ed="X" n="0576a10"/><lb ed="R100" n="0618b10"/>六卷明藏教佛性第九卷明別教佛性及三十二
+<lb ed="X" n="0576a11"/><lb ed="R100" n="0618b11"/>卷明通教佛性此止觀以三教判三處經文竝以
+<lb ed="X" n="0576a12"/><lb ed="R100" n="0618b12"/>雜血五味用對凡夫聲聞緣覺及對於佛何故三
+<lb ed="X" n="0576a13"/><lb ed="R100" n="0618b13"/>教佛性在人差降不同三教既其各異佛性亦應
+<lb ed="X" n="0576a14"/><lb ed="R100" n="0618b14"/>有殊此是權教佛性不遍無情名之為否又二十
+<lb ed="X" n="0576a15"/><lb ed="R100" n="0618b15"/>七卷若修八正道即見佛性修圓八正道此是能
+<lb ed="X" n="0576a16"/><lb ed="R100" n="0618b16"/>觀觀也即見佛性所顯之理也此之佛性遍於諸
+<lb ed="X" n="0576a17"/><lb ed="R100" n="0618b17"/>法名之為進若三藏婆沙論與俱舍論悉有八正
+<lb ed="X" n="0576a18"/><lb ed="R100" n="0618b18"/>見於佛性不遍諸法名之為否乃至諸經若權若
+<lb ed="X" n="0576a19"/><lb ed="R100" n="0619a01"/>實咸有八正道見於佛性遍一切處名之為進為
+<lb ed="X" n="0576a20"/><lb ed="R100" n="0619a02"/>修權教八正見於佛性不徧諸法名之為否耶為
+<lb ed="X" n="0576a21"/><lb ed="R100" n="0619a03"/>修何八正見何佛性既不能明此等權實教中所
+<lb ed="X" n="0576a22"/><lb ed="R100" n="0619a04"/>談佛性有進有否所以將權緣了難實正因故曰
+<lb ed="X" n="0576a23"/><lb ed="R100" n="0619a05"/>此子不知佛性之進否也<anchor xml:id="beg_16" type="cb-app"/>已<anchor xml:id="end_16"/>上通約涅槃經中所
+<lb ed="X" n="0576a24"/><lb ed="R100" n="0619a06"/>明佛性之義斥其不知佛性通否也如此。</p></cb:div>
+<pb ed="X" xml:id="X56.0937.0576b" n="0576b"/>
+<lb ed="X" n="0576b01"/><lb ed="R100" n="0619a07"/><cb:div type="orig"><p xml:id="pX56p0576b0101">客曰何故權教不說緣了二因遍耶余曰眾生無始
+<lb ed="X" n="0576b02"/><lb ed="R100" n="0619a08"/>計我我所從所計示未應說徧涅槃經中帶權說實
+<lb ed="X" n="0576b03"/><lb ed="R100" n="0619a09"/>故得以空譬正未譬緣了若教一向權則三因俱局
+<lb ed="X" n="0576b04"/><lb ed="R100" n="0619a10"/>如別初心聞正亦局藏性理性一切俱然所以博地
+<lb ed="X" n="0576b05"/><lb ed="R100" n="0619a11"/>聞無情無依迷示迷云能造是附權立性云所造非
+<lb ed="X" n="0576b06"/><lb ed="R100" n="0619a12"/>又復一代<anchor xml:id="beg_17" type="cb-app"/>已<anchor xml:id="end_17"/>多顯頓如華嚴中依正不二普賢普眼
+<lb ed="X" n="0576b07"/><lb ed="R100" n="0619a13"/>三無差別大集染淨一切融通淨名不思議毛孔含
+<lb ed="X" n="0576b08"/><lb ed="R100" n="0619a14"/>納思益網明無非法界般若諸法混同無二法華本
+<lb ed="X" n="0576b09"/><lb ed="R100" n="0619a15"/>末實相皆如涅槃唯防像末謬執分正緣了別指方
+<lb ed="X" n="0576b10"/><lb ed="R100" n="0619a16"/>隅若執實迷權尚失於實執權迷實則權實俱迷驗
+<lb ed="X" n="0576b11"/><lb ed="R100" n="0619a17"/>子尚昧小乘由心故暗大教心外無境客曰涅槃豈
+<lb ed="X" n="0576b12"/><lb ed="R100" n="0619a18"/>唯兼帶說耶余曰約部通云一切兼帶部中品內或
+<lb ed="X" n="0576b13"/><lb ed="R100" n="0619b01"/>實或權如申迦葉難別為末代一機而<anchor xml:id="beg_18" type="cb-app"/>已<anchor xml:id="end_18"/>則權實竝
+<lb ed="X" n="0576b14"/><lb ed="R100" n="0619b02"/>明若一向權如恒河中七種眾生若一向實如三點
+<lb ed="X" n="0576b15"/><lb ed="R100" n="0619b03"/>二鳥三慈十德等他皆准知不可具述如云色常色
+<lb ed="X" n="0576b16"/><lb ed="R100" n="0619b04"/>言豈不收於一切依正何故制空令局限耶此世人
+<lb ed="X" n="0576b17"/><lb ed="R100" n="0619b05"/>不知教之權實。</p></cb:div>
+<lb ed="X" n="0576b18"/><lb ed="R100" n="0619b06"/><cb:div type="commentary"><p xml:id="pX56p0576b1801" rend="margin-left:1em">此通引一代權實之文斥其不知教之權實因前
+<lb ed="X" n="0576b19"/><lb ed="R100" n="0619b07"/>文云以空譬正緣了猶局故今野客問云何故權
+<lb ed="X" n="0576b20"/><lb ed="R100" n="0619b08"/>教不說二因佛性遍無情耶余曰蓋由眾生無始
+<lb ed="X" n="0576b21"/><lb ed="R100" n="0619b09"/>以來計於假名之我及以五陰實法之我所由於
+<lb ed="X" n="0576b22"/><lb ed="R100" n="0619b10"/>此假名五陰而生計執迷於佛性故從其所計陰
+<lb ed="X" n="0576b23"/><lb ed="R100" n="0619b11"/>心點示緣了佛性未應說遍無情此乃涅槃經中
+<lb ed="X" n="0576b24"/><lb ed="R100" n="0619b12"/>帶權緣了說實正因故得以空譬實教正因未譬
+<pb ed="X" xml:id="X56.0937.0576c" n="0576c"/>
+<lb ed="X" n="0576c01"/><lb ed="R100" n="0619b13"/>權教緣了即帶權說實之文所以權教只說緣了
+<lb ed="X" n="0576c02"/><lb ed="R100" n="0619b14"/>實教只說正因也若教一向在權則說三因俱局
+<lb ed="X" n="0576c03"/><lb ed="R100" n="0619b15"/>豈但緣了而<anchor xml:id="beg_19" type="cb-app"/>已<anchor xml:id="end_19"/>如別教初心之人聞正亦局豈<anchor xml:id="beg_1a" type="cb-app"/>但<anchor xml:id="end_1a"/>
+<lb ed="X" n="0576c04"/><lb ed="R100" n="0619b16"/>三因局在有情至如名藏性名理性法界實際亦
+<lb ed="X" n="0576c05"/><lb ed="R100" n="0619b17"/>竝約有情故曰一切俱然所以博地凡夫定於無
+<lb ed="X" n="0576c06"/><lb ed="R100" n="0619b18"/>情無佛性依迷示迷者就他所迷點示云能造心
+<lb ed="X" n="0576c07"/><lb ed="R100" n="0620a01"/>中具有佛性附權教立性云所造色而非佛性此
+<lb ed="X" n="0576c08"/><lb ed="R100" n="0620a02"/>是涅槃帶權之義正意在於圓頓之實此之圓頓
+<lb ed="X" n="0576c09"/><lb ed="R100" n="0620a03"/>不止涅槃一代之中<anchor xml:id="beg_1b" type="cb-app"/>已<anchor xml:id="end_1b"/>多顯圓體遍之旨中間雖
+<lb ed="X" n="0576c10"/><lb ed="R100" n="0620a04"/>有權小正意在頓故舉諸經云如華嚴經中依中
+<lb ed="X" n="0576c11"/><lb ed="R100" n="0620a05"/>現正正中現依普賢行願無邊際普眼廣大境界
+<lb ed="X" n="0576c12"/><lb ed="R100" n="0620a06"/>身以一剎種入一切一切入一亦復然心佛眾生
+<lb ed="X" n="0576c13"/><lb ed="R100" n="0620a07"/>三無差別等此豈非圓頓佛性之義耶大集經中
+<lb ed="X" n="0576c14"/><lb ed="R100" n="0620a08"/>十界染淨一切融通此豈非圓頓佛性之義淨名
+<lb ed="X" n="0576c15"/><lb ed="R100" n="0620a09"/>經中不思議品須彌內芥子芥子內須彌毛孔含
+<lb ed="X" n="0576c16"/><lb ed="R100" n="0620a10"/>納此豈非圓頓佛性之義思益經中珠網光明光
+<lb ed="X" n="0576c17"/><lb ed="R100" n="0620a11"/>光相攝一攝一切一切攝一諸法互融無非法界
+<lb ed="X" n="0576c18"/><lb ed="R100" n="0620a12"/>此豈非圓頓佛性之義般若經中一切諸法混同
+<lb ed="X" n="0576c19"/><lb ed="R100" n="0620a13"/>無二此豈非圓頓佛性之義法華經中諸法實相
+<lb ed="X" n="0576c20"/><lb ed="R100" n="0620a14"/>本末皆如此豈非圓頓佛性之義如上諸大乘經
+<lb ed="X" n="0576c21"/><lb ed="R100" n="0620a15"/><anchor xml:id="beg_1c" type="cb-app"/>已<anchor xml:id="end_1c"/>被現在機緣圓頓佛性之義唯涅槃經中為防
+<lb ed="X" n="0576c22"/><lb ed="R100" n="0620a16"/>如來滅後於像法末法之中有謬執權實之機須
+<lb ed="X" n="0576c23"/><lb ed="R100" n="0620a17"/>明示權實之方隅使其不昧故於三因之中分正
+<lb ed="X" n="0576c24"/><lb ed="R100" n="0620a18"/>因性別指於實分緣了性別指屬權故云分正緣
+<pb ed="X" xml:id="X56.0937.0577a" n="0577a"/>
+<lb ed="X" n="0577a01"/><lb ed="R100" n="0620b01"/>了苟權實不明則權實互執若執實教之正因迷
+<lb ed="X" n="0577a02"/><lb ed="R100" n="0620b02"/>於權教之緣了不能了權即實尚失於實何況於
+<lb ed="X" n="0577a03"/><lb ed="R100" n="0620b03"/>權而不失乎若執權教緣了迷於實教正因則權
+<lb ed="X" n="0577a04"/><lb ed="R100" n="0620b04"/>實俱亡矣野客於涅槃頓教之中尚迷權實之義
+<lb ed="X" n="0577a05"/><lb ed="R100" n="0620b05"/>驗子亦迷小乘諸法由心之義則六道依正諸法
+<lb ed="X" n="0577a06"/><lb ed="R100" n="0620b06"/>由心所造感果不虗尚昧此意何況圓實大教萬
+<lb ed="X" n="0577a07"/><lb ed="R100" n="0620b07"/>法唯心心外無境而能了達耶若有一法從心外
+<lb ed="X" n="0577a08"/><lb ed="R100" n="0620b08"/>生則不名唯心即佛性則萬法無非佛性何間無
+<lb ed="X" n="0577a09"/><lb ed="R100" n="0620b09"/>情此野客不知四權教實故特以三藏極小而斥
+<lb ed="X" n="0577a10"/><lb ed="R100" n="0620b10"/>之貶之極也野客由前文云涅槃經中帶權說實
+<lb ed="X" n="0577a11"/><lb ed="R100" n="0620b11"/>故得以空譬正緣了猶局故今問云涅槃經中合
+<lb ed="X" n="0577a12"/><lb ed="R100" n="0620b12"/>應權則三因俱權實則三因俱實豈唯帶權緣了
+<lb ed="X" n="0577a13"/><lb ed="R100" n="0620b13"/>說實正因故曰涅槃豈唯兼帶說耶余曰蓋有由
+<lb ed="X" n="0577a14"/><lb ed="R100" n="0620b14"/>也若曰通論部談四教兼帶偏權而說圓實故云
+<lb ed="X" n="0577a15"/><lb ed="R100" n="0620b15"/>約部通云一切兼帶若逐品各說部中品內或實
+<lb ed="X" n="0577a16"/><lb ed="R100" n="0620b16"/>或權權實非一有權實兼帶說者有一向權實者
+<lb ed="X" n="0577a17"/><lb ed="R100" n="0620b17"/>若兼帶說者如迦葉品中由答迦葉之難初則難
+<lb ed="X" n="0577a18"/><lb ed="R100" n="0620b18"/>實如云眾生佛性云何名為猶如虗空次則難權
+<lb ed="X" n="0577a19"/><lb ed="R100" n="0621a01"/>如云如來佛性涅槃是有虗空應當亦是有耶此
+<lb ed="X" n="0577a20"/><lb ed="R100" n="0621a02"/>則別為末代一機而說宜於實教但說正因宜於
+<lb ed="X" n="0577a21"/><lb ed="R100" n="0621a03"/>權教但說緣了此則權實兼帶而說也若一向權
+<lb ed="X" n="0577a22"/><lb ed="R100" n="0621a04"/>如恒河中七種眾生者約魚為喻也魚等唯四開
+<lb ed="X" n="0577a23"/><lb ed="R100" n="0621a05"/>對有七以喻從人云七種耳謂常沒及暫出常沒
+<lb ed="X" n="0577a24"/><lb ed="R100" n="0621a06"/>如大魚以喻闡提及凡夫有小善根者出<anchor xml:id="beg_1d" type="cb-app"/>已<anchor xml:id="end_1d"/>則住
+<pb ed="X" xml:id="X56.0937.0577b" n="0577b"/>
+<lb ed="X" n="0577b01"/><lb ed="R100" n="0621a07"/>如坻彌魚喻四念處并煖法人出<anchor xml:id="beg_1e" type="cb-app"/>已<anchor xml:id="end_1e"/>觀方觀方<anchor xml:id="beg_1f" type="cb-app"/>已<anchor xml:id="end_1f"/>
+<lb ed="X" n="0577b02"/><lb ed="R100" n="0621a08"/>行行<anchor xml:id="beg_20" type="cb-app"/>已<anchor xml:id="end_20"/>復住如<g ref="#CB01065">䱜</g>魚喻頂法及須陀洹斯陀含阿
+<lb ed="X" n="0577b03"/><lb ed="R100" n="0621a09"/>那含到彼岸如神龜水陸俱行喻阿羅漢并支佛
+<lb ed="X" n="0577b04"/><lb ed="R100" n="0621a10"/>經意以通教涅槃喻之若河而以別破之云此七
+<lb ed="X" n="0577b05"/><lb ed="R100" n="0621a11"/>人皆不能修身戒心慧故知是權也若一向實如
+<lb ed="X" n="0577b06"/><lb ed="R100" n="0621a12"/>哀歎品中伊字三點以喻圓融三德如鳥喻中明
+<lb ed="X" n="0577b07"/><lb ed="R100" n="0621a13"/>二鳥雙遊以喻圓融二用如梵行品明圓教眾生
+<lb ed="X" n="0577b08"/><lb ed="R100" n="0621a14"/>法無緣之三慈如德王品中明圓教十種三諦之
+<lb ed="X" n="0577b09"/><lb ed="R100" n="0621a15"/>功德<anchor xml:id="beg_21" type="cb-app"/>已<anchor xml:id="end_21"/>上諸品實義甚多故名為等其他品內所
+<lb ed="X" n="0577b10"/><lb ed="R100" n="0621a16"/>明實義準此可知不可具述此乃通指實教三因
+<lb ed="X" n="0577b11"/><lb ed="R100" n="0621a17"/>之外又復別指陳如品中因滅是色獲得常色之
+<lb ed="X" n="0577b12"/><lb ed="R100" n="0621a18"/>言豈不收於一切依正之色此乃常住佛性之體
+<lb ed="X" n="0577b13"/><lb ed="R100" n="0621b01"/>是則佛性之體遍於有情無情猶如虗空遍一切
+<lb ed="X" n="0577b14"/><lb ed="R100" n="0621b02"/>處何故局定佛性於有情身內何故節制虗空令
+<lb ed="X" n="0577b15"/><lb ed="R100" n="0621b03"/>局限耶若以權緣了難實正因此世人不知教之
+<lb ed="X" n="0577b16"/><lb ed="R100" n="0621b04"/>權實此約一代以斥野客不知教之權實者若此
+<lb ed="X" n="0577b17"/><lb ed="R100" n="0621b05"/>蓋荊谿深得一代權實之旨故能斥於野客不知
+<lb ed="X" n="0577b18"/><lb ed="R100" n="0621b06"/>佛性之進否也。</p></cb:div>
+<lb ed="X" n="0577b19"/><lb ed="R100" n="0621b07"/><cb:div type="orig"><p xml:id="pX56p0577b1901">如二乘人處處聞大尚至法華方信<anchor xml:id="beg_22" type="cb-app"/>己<anchor xml:id="end_22"/>性悔來至此
+<lb ed="X" n="0577b20"/><lb ed="R100" n="0621b08"/>財非<anchor xml:id="beg_23" type="cb-app"/>己<anchor xml:id="end_23"/>有此豈非子不知父性耶聞開權<anchor xml:id="beg_24" type="cb-app"/>已<anchor xml:id="end_24"/>方云口
+<lb ed="X" n="0577b21"/><lb ed="R100" n="0621b09"/>生化生有分故涅槃中猶恐未來一分有情不信<anchor xml:id="beg_25" type="cb-app"/>己<anchor xml:id="end_25"/>
+<lb ed="X" n="0577b22"/><lb ed="R100" n="0621b10"/>身有如來性及謂闡提未來永斷示令知有及以不
+<lb ed="X" n="0577b23"/><lb ed="R100" n="0621b11"/>斷豈部內諸文全無頓耶。</p></cb:div>
+<lb ed="X" n="0577b24"/><lb ed="R100" n="0621b12"/><cb:div type="commentary"><p xml:id="pX56p0577b2401" rend="margin-left:1em">此以佛世現在之機況出未來之機明於涅槃帶
+<pb ed="X" xml:id="X56.0937.0577c" n="0577c"/>
+<lb ed="X" n="0577c01"/><lb ed="R100" n="0621b13"/>權說實之意如二乘人在華嚴中以大擬之不信
+<lb ed="X" n="0577c02"/><lb ed="R100" n="0621b14"/>於大於方等中以大彈斥猶執小果般若轉教付
+<lb ed="X" n="0577c03"/><lb ed="R100" n="0621b15"/>財二乘自謂自是菩薩法門非<anchor xml:id="beg_26" type="cb-app"/>己<anchor xml:id="end_26"/>所有至法華聞
+<lb ed="X" n="0577c04"/><lb ed="R100" n="0621b16"/>三周開顯五佛會同方信<anchor xml:id="beg_27" type="cb-app"/>己<anchor xml:id="end_27"/>身有如來性故引經
+<lb ed="X" n="0577c05"/><lb ed="R100" n="0621b17"/>證悔來至此者乃信解品文此約小機於華嚴不
+<lb ed="X" n="0577c06"/><lb ed="R100" n="0621b18"/>受大化故曰悔來如云窮子見父有大力勢即懷
+<lb ed="X" n="0577c07"/><lb ed="R100" n="0622a01"/>恐怖悔來至此財非<anchor xml:id="beg_28" type="cb-app"/>己<anchor xml:id="end_28"/>有者如領付科中云領知
+<lb ed="X" n="0577c08"/><lb ed="R100" n="0622a02"/>眾物金銀珍寶等而無希取一餐之意方云口生
+<lb ed="X" n="0577c09"/><lb ed="R100" n="0622a03"/>化生者如譬喻品云今日乃知真是佛子從佛口
+<lb ed="X" n="0577c10"/><lb ed="R100" n="0622a04"/>生從法化生得佛法分現在之機尚至法華方信
+<lb ed="X" n="0577c11"/><lb ed="R100" n="0622a05"/>有性何況佛滅度後未來一類障重根鈍眾生必
+<lb ed="X" n="0577c12"/><lb ed="R100" n="0622a06"/>能使之自信<anchor xml:id="beg_29" type="cb-app"/>己<anchor xml:id="end_29"/>身有佛性耶故涅槃猶恐未來一
+<lb ed="X" n="0577c13"/><lb ed="R100" n="0622a07"/>分有情不信<anchor xml:id="beg_2a" type="cb-app"/>己<anchor xml:id="end_2a"/>身有如來性非<anchor xml:id="beg_2b" type="cb-app"/>但<anchor xml:id="end_2b"/>不信自<anchor xml:id="beg_2c" type="cb-app"/>己<anchor xml:id="end_2c"/>身中
+<lb ed="X" n="0577c14"/><lb ed="R100" n="0622a08"/>有佛性及謂闡提眾生以極惡故於未來世永無
+<lb ed="X" n="0577c15"/><lb ed="R100" n="0622a09"/>佛性為此機故故於有情心中點示佛性令其知
+<lb ed="X" n="0577c16"/><lb ed="R100" n="0622a10"/>有迦葉知機設疑正是知此未來不信有情有性
+<lb ed="X" n="0577c17"/><lb ed="R100" n="0622a11"/>故如來附於權教而說佛性局在有情乃曰非佛
+<lb ed="X" n="0577c18"/><lb ed="R100" n="0622a12"/>性者謂墻壁瓦礫則顯有情有佛性帶權之意在
+<lb ed="X" n="0577c19"/><lb ed="R100" n="0622a13"/>此涅槃部內旁則帶於權門正則在於圓頓況復
+<lb ed="X" n="0577c20"/><lb ed="R100" n="0622a14"/>一代之中<anchor xml:id="beg_2d" type="cb-app"/>已<anchor xml:id="end_2d"/>多顯頓所以部內眾生佛性猶如虗
+<lb ed="X" n="0577c21"/><lb ed="R100" n="0622a15"/>空之文及三點二鳥等文此等竝是部內之頓故
+<lb ed="X" n="0577c22"/><lb ed="R100" n="0622a16"/>云豈部內之文全無頓耶如是則法華本迹顯於
+<lb ed="X" n="0577c23"/><lb ed="R100" n="0622a17"/>圓頓被未來機以此二經同醍醐故。</p></cb:div>
+<lb ed="X" n="0577c24"/><lb ed="R100" n="0622a18"/>
+<pb ed="X" xml:id="X56.0937.0578a" n="0578a"/>
+<lb ed="X" n="0578a01"/><lb ed="R100" n="0622b01"/><cb:juan fun="close" n="1"><cb:jhead>金剛錍釋文上卷</cb:jhead></cb:juan></cb:div>
+<lb ed="X" n="0578a02"/><lb ed="R100" n="0622b02"/>
+<lb ed="X" n="0578a03"/><lb ed="R100" n="0622b03"/><cb:div type="w"><head>音釋</head>
+<lb ed="X" n="0578a04"/><lb ed="R100" n="0622b04"/><cb:div type="note"><entry><form>錍</form><cb:def><p xml:id="pX56p0578a0402" rend="inline"><note place="inline">音披<figure><graphic url="../figures/X/X56p0578_01.gif"></graphic></figure>梵書伊字</note>。</p></cb:def></entry><entry cb:place="inline"><form>抉</form><cb:def><p xml:id="pX56p0578a0410" rend="inline"><note place="inline">一穴切音淵入聲挑也</note>。</p></cb:def></entry><entry cb:place="inline"><form>膜</form><cb:def><p xml:id="pX56p0578a0420" rend="inline"><note place="inline">音莫</note>。</p></cb:def></entry><entry cb:place="inline"><form>怳</form><cb:def><p xml:id="pX56p0578a0423" rend="inline"><note place="inline">呼徃切</note>。</p></cb:def></entry><entry cb:place="inline"><form>寱</form><cb:def><p xml:id="pX56p0578a0427" rend="inline"><note place="inline">音刈睡語
+<lb ed="X" n="0578a05"/><lb ed="R100" n="0622b05"/>也</note>。</p></cb:def></entry><entry cb:place="inline"><form>獷</form><cb:def><p xml:id="pX56p0578a0503" rend="inline"><note place="inline">音鑛鉤猛切</note>。</p></cb:def></entry><entry cb:place="inline"><form><g ref="#CB01050">𧢻</g></form><cb:def><p xml:id="pX56p0578a0509" rend="inline"><note place="inline">音觸牴也據也突也</note>。</p></cb:def></entry></cb:div></cb:div>
+<lb ed="X" n="0578a06"/>
+<lb ed="X" n="0578a07"/><cb:div type="xu"><cb:mulu type="序" level="1">No. 937-A</cb:mulu><head>No. 937-A</head>
+<lb ed="X" n="0578a08"/><lb ed="R100" n="0622b07"/><p xml:id="pX56p0578a0801" rend="margin-left:1em">金錍一書昔讀之冥若夜遊莫知所向邇者達空
+<lb ed="X" n="0578a09"/><lb ed="R100" n="0622b08"/>上人偶得釋文一冊即金錍之註解也因借讀之
+<lb ed="X" n="0578a10"/><lb ed="R100" n="0622b09"/>數四似知一二則向之冥若今皆朗然其喜躍可
+<lb ed="X" n="0578a11"/><lb ed="R100" n="0622b10"/>勝言哉但恨板存外省眾求頗艱昺遂拉其同志
+<lb ed="X" n="0578a12"/><lb ed="R100" n="0622b11"/>托諸木以廣之伏翼見聞之者知妄染即佛性了
+<lb ed="X" n="0578a13"/><lb ed="R100" n="0622b12"/>世相皆常住則祖師一場寐語使大地眾生皆有
+<lb ed="X" n="0578a14"/><lb ed="R100" n="0622b13"/>以惺其瞌唾<anchor xml:id="beg_2e" type="cb-app"/>已<anchor xml:id="end_2e"/>乎茲因落成聊記來自云爾。</p>
+<lb ed="X" n="0578a15"/><lb ed="R100" n="0622b14"/><p xml:id="pX56p0578a1501">天啟元年孟夏月佛旦日董岩經閣僧圓昺謹識</p></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_1" cb:to="#end_1"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2" cb:to="#end_2"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_3" cb:to="#end_3"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4" cb:to="#end_4"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5" cb:to="#end_5"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_6" cb:to="#end_6"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_7" cb:to="#end_7"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_8" cb:to="#end_8"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_9" cb:to="#end_9"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_a" cb:to="#end_a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_b" cb:to="#end_b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_c" cb:to="#end_c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_d" cb:to="#end_d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_e" cb:to="#end_e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_f" cb:to="#end_f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_10" cb:to="#end_10"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_11" cb:to="#end_11"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_12" cb:to="#end_12"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_13" cb:to="#end_13"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_14" cb:to="#end_14"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_15" cb:to="#end_15"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_16" cb:to="#end_16"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_17" cb:to="#end_17"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_18" cb:to="#end_18"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_19" cb:to="#end_19"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1a" cb:to="#end_1a"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1b" cb:to="#end_1b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1c" cb:to="#end_1c"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1d" cb:to="#end_1d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1e" cb:to="#end_1e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_1f" cb:to="#end_1f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_20" cb:to="#end_20"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_21" cb:to="#end_21"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_22" cb:to="#end_22"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_23" cb:to="#end_23"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_24" cb:to="#end_24"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_25" cb:to="#end_25"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_26" cb:to="#end_26"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_27" cb:to="#end_27"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_28" cb:to="#end_28"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_29" cb:to="#end_29"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2a" cb:to="#end_2a"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2b" cb:to="#end_2b"><corr>但</corr><sic>伹</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2c" cb:to="#end_2c"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2d" cb:to="#end_2d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_2e" cb:to="#end_2e"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+<cb:div type="xuzang-notes">
+<head>卍續藏 校勘記</head>
+<p>
+</p>
+</cb:div>
+</back></text></TEI>

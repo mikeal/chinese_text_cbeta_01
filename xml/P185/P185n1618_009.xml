@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="P185n1618">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Northern Yongle Edition of the Canon, Electronic version, No. 1618 大佛頂萬行首楞嚴經會解</title>
+			<author>唐宋 九師釋　元 惟則會解</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.2 $<date>$Date: 2011/08/30 06:58:53 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>20卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/08/30 06:58:53 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Northern Yongle Edition of the Canon Vol. 185, No. 1618 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00331">
+	<charName>CBETA CHARACTER CB00331</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[束*束]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>棘</value>
+	</charProp>
+	<mapping type="unicode">U+235E5</mapping>
+	<mapping cb:dec="983371" type="PUA">U+F014B</mapping>
+</char>
+<char xml:id="CB01184">
+	<charName>CBETA CHARACTER CB01184</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[瘧-虍+雨]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>瘧</value>
+	</charProp>
+	<mapping cb:dec="984224" type="PUA">U+F04A0</mapping>
+</char>
+<char xml:id="CB02494">
+	<charName>CBETA CHARACTER CB02494</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+(乏-之+友)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>跋</value>
+	</charProp>
+	<mapping type="unicode">U+47E6</mapping>
+	<mapping cb:dec="985534" type="PUA">U+F09BE</mapping>
+</char>
+<char xml:id="CB02598">
+	<charName>CBETA CHARACTER CB02598</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[夕/火]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>炙</value>
+	</charProp>
+	<mapping cb:dec="985638" type="PUA">U+F0A26</mapping>
+</char>
+<char xml:id="CB10881">
+	<charName>CBETA CHARACTER CB10881</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[聽-王]</value>
+	</charProp>
+	<mapping type="unicode">U+265DF</mapping>
+	<mapping cb:dec="993921" type="PUA">U+F2A81</mapping>
+</char>
+<char xml:id="CB13251">
+	<charName>CBETA CHARACTER CB13251</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[玝-十+小]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>珍</value>
+	</charProp>
+	<mapping type="normal_unicode">U+73CE</mapping>
+	<mapping cb:dec="996291" type="PUA">U+F33C3</mapping>
+</char>
+<char xml:id="CB14081">
+	<charName>CBETA CHARACTER CB14081</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[木*豆*寸]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>樹</value>
+	</charProp>
+	<mapping type="unicode">U+235F3</mapping>
+	<mapping cb:dec="997121" type="PUA">U+F3701</mapping>
+</char>
+<char xml:id="CB15072">
+	<charName>CBETA CHARACTER CB15072</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[托-七+友]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>拔</value>
+	</charProp>
+	<mapping type="normal_unicode">U+39DE</mapping>
+	<mapping cb:dec="998112" type="PUA">U+F3AE0</mapping>
+</char>
+<char xml:id="CB30246">
+	<charName>CBETA CHARACTER CB30246</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(冰-水+〡)*ㄆ]</value>
+	</charProp>
+	<mapping cb:dec="1013286" type="PUA">U+F7626</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-09-03T11:17:04">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">首楞嚴經會解</cb:mulu><cb:div type="other">
+<pb ed="P" xml:id="P185.1618.0381a" n="0381a"/>
+<lb ed="P" n="0381a01"/><milestone unit="juan" n="9"/><cb:mulu type="卷" n="9"></cb:mulu><cb:juan fun="open" n="9"><cb:jhead>大佛頂如來密因脩證了義諸菩薩萬行首
+<lb ed="P" n="0381a02"/>楞嚴經會解卷第九　　　　　　　綿九</cb:jhead></cb:juan>
+<lb ed="P" n="0381a03"/><byline cb:type="translator">天竺沙門般剌密帝譯</byline>
+<lb ed="P" n="0381a04"/><byline cb:type="other">烏萇國沙門彌伽釋迦譯語</byline>
+<lb ed="P" n="0381a05"/><byline cb:type="other">菩薩戒弟子前正議大夫同中書門下平
+<lb ed="P" n="0381a06"/>章事房融筆受</byline>
+<lb ed="P" n="0381a07"/><byline cb:type="author">師子林沙門　惟則　會解</byline>
+<lb ed="P" n="0381a08"/><cb:div type="orig"><p xml:id="pP185p0381a0801">阿難白佛言世尊如來雖說第二義門今觀
+<lb ed="P" n="0381a09"/>世間解結之人若不知其所結之元我信是
+<lb ed="P" n="0381a10"/>人終不能解世尊我及會中有學聲聞亦復
+<pb ed="P" xml:id="P185.1618.0381b" n="0381b"/>
+<lb ed="P" n="0381b01"/>如是從無始際與諸無明俱滅俱生雖得如
+<lb ed="P" n="0381b02"/>是多聞菩提名為出家猶隔日<g ref="#CB01184">󰒠</g>惟願大慈
+<lb ed="P" n="0381b03"/>哀愍淪溺今日身心云何是結從何名解亦
+<lb ed="P" n="0381b04"/>令未來苦難眾生得免輪廻不落三有作是
+<lb ed="P" n="0381b05"/>語<anchor xml:id="beg_52" type="cb-app"/>已<anchor xml:id="end_52"/>普及大眾五體投地雨淚翹誠佇佛如
+<lb ed="P" n="0381b06"/>來無上開示。</p></cb:div>
+<lb ed="P" n="0381b07"/><cb:div type="commentary"><p xml:id="pP185p0381b0701" rend="margin-left:1em">溫陵曰前第二義文云不見所結云何知
+<lb ed="P" n="0381b08"/>解故此牒之而請也孤山曰同體無明品
+<lb ed="P" n="0381b09"/>數至多又迷境不一故曰諸生滅去來常
+<lb ed="P" n="0381b10"/>在妄中故曰俱補註曰世之<g ref="#CB01184">󰒠</g>病隔日而
+<pb ed="P" xml:id="P185.1618.0382a" n="0382a"/>
+<lb ed="P" n="0382a01"/>發為其病根未除故爾喻有學聲聞通惑
+<lb ed="P" n="0382a02"/>雖破而別惑病根未除也。</p></cb:div>
+<lb ed="P" n="0382a03"/><cb:div type="orig"><p xml:id="pP185p0382a0301">爾時世尊憐愍阿難及諸會中諸有學者亦
+<lb ed="P" n="0382a04"/>為未來一切眾生為出世因作將來眼以閻
+<lb ed="P" n="0382a05"/>浮檀紫金光手摩阿難頂即時十方普佛世
+<lb ed="P" n="0382a06"/>界六種震動微塵如來住世界者各有寶光
+<lb ed="P" n="0382a07"/>從其頂出其光同時於彼世界來祗陀林灌
+<lb ed="P" n="0382a08"/>如來頂是諸大眾得未曾有於是阿難及諸
+<lb ed="P" n="0382a09"/>大眾俱聞十方微塵如來異口同音告阿難
+<lb ed="P" n="0382a10"/>言善哉阿難汝欲識知俱生無明使汝輪轉
+<pb ed="P" xml:id="P185.1618.0382b" n="0382b"/>
+<lb ed="P" n="0382b01"/>生死結根惟汝六根更無他物汝復欲知無
+<lb ed="P" n="0382b02"/>上菩提令汝速證安樂解脫寂靜妙常亦汝
+<lb ed="P" n="0382b03"/>六根更無他物。</p></cb:div>
+<lb ed="P" n="0382b04"/><cb:div type="commentary"><p xml:id="pP185p0382b0401" rend="margin-left:1em">溫陵曰先摩其頂者表無上開示也六震
+<lb ed="P" n="0382b05"/>者動起踊吼震擊表破六根妄結也諸佛
+<lb ed="P" n="0382b06"/>頂光灌釋迦頂者示同發明無上頂法異
+<lb ed="P" n="0382b07"/>口同告者示諸佛脫生死證菩提皆由斯
+<lb ed="P" n="0382b08"/>要也俱生即根本無明也生死妙常同因
+<lb ed="P" n="0382b09"/>六根者知見立知故輪生死知見無見即
+<lb ed="P" n="0382b10"/>證妙常如下所明。</p></cb:div>
+<pb ed="P" xml:id="P185.1618.0383a" n="0383a"/>
+<lb ed="P" n="0383a01"/><cb:div type="orig"><p xml:id="pP185p0383a0101">阿難雖聞如是法音心猶未明稽首白佛云
+<lb ed="P" n="0383a02"/>何令我生死輪廻安樂妙常同是六根更非
+<lb ed="P" n="0383a03"/>他物佛告阿難根塵同源縛脫無二識性虛
+<lb ed="P" n="0383a04"/>妄猶如空華。</p></cb:div>
+<lb ed="P" n="0383a05"/><cb:div type="commentary"><p xml:id="pP185p0383a0501" rend="margin-left:1em">吳興曰根塵識三攝十八界本如來藏妙
+<lb ed="P" n="0383a06"/>真如性故曰同源凡夫迷真故縛聖人悟
+<lb ed="P" n="0383a07"/>真故脫迷悟雖殊始終理一故曰無二同
+<lb ed="P" n="0383a08"/>源必兼識性虛妄必具根塵文綺互也。</p></cb:div>
+<lb ed="P" n="0383a09"/><cb:div type="orig"><p xml:id="pP185p0383a0901">阿難由塵發知因根有相相見無性同於交
+<lb ed="P" n="0383a10"/>蘆。</p></cb:div>
+<pb ed="P" xml:id="P185.1618.0383b" n="0383b"/>
+<lb ed="P" n="0383b01"/><cb:div type="commentary"><p xml:id="pP185p0383b0101" rend="margin-left:1em">吳興曰塵相通指六境知見略示二根根
+<lb ed="P" n="0383b02"/>境對論攝十二處斯皆兩法相涉內無實
+<lb ed="P" n="0383b03"/>性故喻若交蘆有以根境識三釋此喻者
+<lb ed="P" n="0383b04"/>非也而不知經語巧妙從寬至狹上攝界
+<lb ed="P" n="0383b05"/>義故三此攝處義故二下文又略其境單
+<lb ed="P" n="0383b06"/>言其根故言知見立知等。</p></cb:div>
+<lb ed="P" n="0383b07"/><cb:div type="orig"><p xml:id="pP185p0383b0701">是故汝今知見立知即無明本知見無見斯
+<lb ed="P" n="0383b08"/>即涅槃無漏真淨云何是中更容他物。</p></cb:div>
+<lb ed="P" n="0383b09"/><cb:div type="commentary"><p xml:id="pP185p0383b0901" rend="margin-left:1em">孤山曰上言立知而略見下言無見而略
+<lb ed="P" n="0383b10"/>知經文互影也執知見實有名立知見此
+<pb ed="P" xml:id="P185.1618.0384a" n="0384a"/>
+<lb ed="P" n="0384a01"/>即妄心是生死輪廻之本故云即無明本
+<lb ed="P" n="0384a02"/>達知見無性名無知見此即真心安樂妙
+<lb ed="P" n="0384a03"/>常故云斯即涅槃無漏真淨是則惟一真
+<lb ed="P" n="0384a04"/>心更無別法故曰云何是中更容他物又
+<lb ed="P" n="0384a05"/>解知見立知是迷真知見立緣塵等妄知
+<lb ed="P" n="0384a06"/>見故即無明知見無見是達真知見無緣
+<lb ed="P" n="0384a07"/>塵等妄知見故即涅槃故前文云入佛知
+<lb ed="P" n="0384a08"/>見也佛知見外更無別法故不容他物前
+<lb ed="P" n="0384a09"/>釋約常心即寂一切皆泯後釋約常心即
+<lb ed="P" n="0384a10"/>照有真知見故茲兩釋並符佛旨補註曰
+<pb ed="P" xml:id="P185.1618.0384b" n="0384b"/>
+<lb ed="P" n="0384b01"/>云何是中更容他物者由上諸佛告阿難
+<lb ed="P" n="0384b02"/>言輪生死證妙常惟汝六根更非他物阿
+<lb ed="P" n="0384b03"/>難於此有疑舉以問佛佛乃兼引根塵識
+<lb ed="P" n="0384b04"/>三映帶辨釋而復結以知見立知等語知
+<lb ed="P" n="0384b05"/>見二字通攝六根言為無明為涅槃無非
+<lb ed="P" n="0384b06"/>六根而<anchor xml:id="beg_53" type="cb-app"/>已<anchor xml:id="end_53"/>豈更容他物哉此盖釋阿難之
+<lb ed="P" n="0384b07"/>疑而證諸佛之言也又阿難前云若不知
+<lb ed="P" n="0384b08"/>其所結之元我信是人終不能解又云今
+<lb ed="P" n="0384b09"/>日身心云何是結從何名解故如來荅以
+<lb ed="P" n="0384b10"/>知見立知即是結也即是所結之元也知
+<pb ed="P" xml:id="P185.1618.0385a" n="0385a"/>
+<lb ed="P" n="0385a01"/>見無見即名解也。</p></cb:div>
+<lb ed="P" n="0385a02"/><cb:div type="orig"><p xml:id="pP185p0385a0201">爾時世尊欲重宣此義而說偈言。</p>
+<lb ed="P" n="0385a03"/><lg xml:id="lgP185p0385a0301" type="abnormal"><l rend="text-indent:0em">真性有為空</l><l rend="text-indent:1em">緣生故如幻</l><l rend="text-indent:1em">無為無起滅</l>
+<lb ed="P" n="0385a04"/><l rend="text-indent:0em">不實如空華</l></lg></cb:div>
+<lb ed="P" n="0385a05"/><cb:div type="commentary"><p xml:id="pP185p0385a0501" rend="margin-left:1em">吳興曰真性即根塵之源也有為即縛脫
+<lb ed="P" n="0385a06"/>之相也若真性在迷能生九界根塵之相
+<lb ed="P" n="0385a07"/>名之為縛若真性出纏能起十界根塵之
+<lb ed="P" n="0385a08"/>用號之為脫此縛與脫皆即真而俗故曰
+<lb ed="P" n="0385a09"/>有為亦即俗而真故曰空也緣生故如幻
+<lb ed="P" n="0385a10"/>釋成有空義也有為之法皆從緣生凡夫
+<pb ed="P" xml:id="P185.1618.0385b" n="0385b"/>
+<lb ed="P" n="0385b01"/>以惑業為緣聖人以機感為緣二緣所生
+<lb ed="P" n="0385b02"/>俱是假名故云如幻此頌根塵同緣縛脫
+<lb ed="P" n="0385b03"/>無二也無為下頌識性虛妄猶如空華上
+<lb ed="P" n="0385b04"/>言如幻助成空義耳今云空華正顯虛妄
+<lb ed="P" n="0385b05"/>也且識性是有為起滅之法真性反此故
+<lb ed="P" n="0385b06"/>曰無為無起滅既云虛妄即是不實故喻
+<lb ed="P" n="0385b07"/>如空華舊以前二句破有為後二句破無
+<lb ed="P" n="0385b08"/>為出掌<g ref="#CB13251">󳏃</g>論。</p></cb:div>
+<lb ed="P" n="0385b09"/><cb:div type="orig"><lg xml:id="lgP185p0385b0901" type="abnormal"><l rend="text-indent:0em">言妄顯諸真</l><l rend="text-indent:1em">妄真同二妄</l><l rend="text-indent:1em">猶非真非真</l>
+<lb ed="P" n="0385b10"/><l rend="text-indent:0em">云何見所見</l><l rend="text-indent:1em">中間無實性</l><l rend="text-indent:1em">是故若交蘆</l></lg></cb:div>
+<pb ed="P" xml:id="P185.1618.0386a" n="0386a"/>
+<lb ed="P" n="0386a01"/><cb:div type="commentary"><p xml:id="pP185p0386a0101" rend="margin-left:1em">吳興曰前長行但破於妄今復恐捨妄取
+<lb ed="P" n="0386a02"/>真故重遣之孤山曰諸之也語助耳言根
+<lb ed="P" n="0386a03"/>塵虛妄則顯涅槃真實對妄說真待對不
+<lb ed="P" n="0386a04"/>絕真亦成妄故云二妄龍<g ref="#CB14081">𣗳</g>云若法為待
+<lb ed="P" n="0386a05"/>成是法還成待猶非能遣也真非真所遣
+<lb ed="P" n="0386a06"/>也非真即妄見即是根所見即境對妄說
+<lb ed="P" n="0386a07"/>真猶皆遣蕩云何更有妄中根境乎中間
+<lb ed="P" n="0386a08"/>謂根境二法體中無性此頌相見無性同
+<lb ed="P" n="0386a09"/>於交蘆。</p></cb:div>
+<lb ed="P" n="0386a10"/><cb:div type="orig"><lg xml:id="lgP185p0386a1001" type="abnormal"><l rend="text-indent:0em">結解同所因</l><l rend="text-indent:1em">聖凡無二路</l><l rend="text-indent:1em">汝觀交中性</l>
+<pb ed="P" xml:id="P185.1618.0386b" n="0386b"/>
+<lb ed="P" n="0386b01"/><l rend="text-indent:0em">空有二俱非</l><l rend="text-indent:1em">迷晦即無明</l><l rend="text-indent:1em">發明便解脫</l></lg></cb:div>
+<lb ed="P" n="0386b02"/><cb:div type="commentary"><p xml:id="pP185p0386b0201" rend="margin-left:1em">吳興曰欲明解結泛舉所因所因者六根
+<lb ed="P" n="0386b03"/>也前諸佛同告云汝欲識知生死結根乃
+<lb ed="P" n="0386b04"/>至速證安樂解脫惟汝六根更非他物正
+<lb ed="P" n="0386b05"/>同此義孤山曰汝觀下重牒前喻令審觀
+<lb ed="P" n="0386b06"/>也言空則蘆有外相言有則蘆中本空以
+<lb ed="P" n="0386b07"/>喻根境妄執似有其體元空迷晦下頌知
+<lb ed="P" n="0386b08"/>見立知及知見無見等。</p></cb:div>
+<lb ed="P" n="0386b09"/><cb:div type="orig"><lg xml:id="lgP185p0386b0901" type="abnormal"><l rend="text-indent:0em">解結因次第</l><l rend="text-indent:1em">六解一亦亡</l><l rend="text-indent:1em">根選擇圓通</l>
+<lb ed="P" n="0386b10"/><l rend="text-indent:0em">入流成正覺</l></lg></cb:div>
+<pb ed="P" xml:id="P185.1618.0387a" n="0387a"/>
+<lb ed="P" n="0387a01"/><cb:div type="commentary"><p xml:id="pP185p0387a0101" rend="margin-left:1em">溫陵曰躡前結解之義起後圓通之文也
+<lb ed="P" n="0387a02"/>六解則根<g ref="#CB15072">󳫠</g>一亡則湛圓選得圓根則入
+<lb ed="P" n="0387a03"/>聖流證聖果矣。</p></cb:div>
+<lb ed="P" n="0387a04"/><cb:div type="orig"><lg xml:id="lgP185p0387a0401" type="abnormal"><l rend="text-indent:0em">陀那微細識</l><l rend="text-indent:1em">習氣成暴流</l><l rend="text-indent:1em">真非真恐迷</l>
+<lb ed="P" n="0387a05"/><l rend="text-indent:0em">我常不開演</l></lg></cb:div>
+<lb ed="P" n="0387a06"/><cb:div type="commentary"><p xml:id="pP185p0387a0601" rend="margin-left:1em">溫陵曰陀那下頌根結初起之由也陀那
+<lb ed="P" n="0387a07"/>此翻執持執持種子發起現行即第八梨
+<lb ed="P" n="0387a08"/>耶含藏種子為習氣積生識浪為暴流湛
+<lb ed="P" n="0387a09"/>由是分結由是起也此識依真如合生滅
+<lb ed="P" n="0387a10"/>雜乎真妄之間故曰真非真也若以為真
+<pb ed="P" xml:id="P185.1618.0387b" n="0387b"/>
+<lb ed="P" n="0387b01"/>恐迷妄習而自誤以為非真恐迷自性而
+<lb ed="P" n="0387b02"/>外求故權小教中皆不開演也深密經曰
+<lb ed="P" n="0387b03"/>阿陀那識甚微細一切種子成暴流我於
+<lb ed="P" n="0387b04"/>凡愚不開演恐彼分別執為我外道所執
+<lb ed="P" n="0387b05"/>神我即此識也。</p></cb:div>
+<lb ed="P" n="0387b06"/><cb:div type="orig"><lg xml:id="lgP185p0387b0601" type="abnormal"><l rend="text-indent:0em">自心取自心</l><l rend="text-indent:1em">非幻成幻法</l><l rend="text-indent:1em">不取無非幻</l>
+<lb ed="P" n="0387b07"/><l rend="text-indent:0em">非幻尚不生</l><l rend="text-indent:1em">幻法云何立</l></lg></cb:div>
+<lb ed="P" n="0387b08"/><cb:div type="commentary"><p xml:id="pP185p0387b0801" rend="margin-left:1em">溫陵曰頌解結入圓之要也一切諸法惟
+<lb ed="P" n="0387b09"/>心所現而於中取著妄成根結是自心取
+<lb ed="P" n="0387b10"/>自心非幻成幻法也由妄取故有幻非幻
+<pb ed="P" xml:id="P185.1618.0388a" n="0388a"/>
+<lb ed="P" n="0388a01"/>若不妄取非幻亦無非幻尚無幻法何有
+<lb ed="P" n="0388a02"/>幻法不立則根塵頓淨圓通現前矣。</p></cb:div>
+<lb ed="P" n="0388a03"/><cb:div type="orig"><lg xml:id="lgP185p0388a0301" type="abnormal"><l rend="text-indent:0em">是名妙蓮華</l><l rend="text-indent:1em">金剛王寶覺</l><l rend="text-indent:1em">如幻三摩提</l>
+<lb ed="P" n="0388a04"/><l rend="text-indent:0em">彈指超無學</l><l rend="text-indent:1em">此阿毗達磨</l><l rend="text-indent:1em">十方薄伽梵</l>
+<lb ed="P" n="0388a05"/><l rend="text-indent:0em">一路涅槃門</l></lg></cb:div>
+<lb ed="P" n="0388a06"/><cb:div type="commentary"><p xml:id="pP185p0388a0601" rend="margin-left:1em">溫陵曰此結頌也此之法門於淨不著於
+<lb ed="P" n="0388a07"/>染不汙名妙蓮華根境結惑擬之則銷名
+<lb ed="P" n="0388a08"/>金剛王覺即為無為亡情絕解名如幻正
+<lb ed="P" n="0388a09"/>受依此脩進一彈指間可超無學而入圓
+<lb ed="P" n="0388a10"/>位也阿毗達磨云無比法十方如來逈出
+<pb ed="P" xml:id="P185.1618.0388b" n="0388b"/>
+<lb ed="P" n="0388b01"/>生死速證寂常莫不由斯故曰十方薄伽
+<lb ed="P" n="0388b02"/>梵一路涅槃門薄伽尊號具六義謂自在
+<lb ed="P" n="0388b03"/>熾盛端嚴名稱吉祥尊貴孤山曰彈指超
+<lb ed="P" n="0388b04"/>無學顯三止之功也若入地住則超小乘
+<lb ed="P" n="0388b05"/>阿羅漢位縱入相似亦超無學以同除四
+<lb ed="P" n="0388b06"/>住此處為齊若伏無明三藏則劣又縱在
+<lb ed="P" n="0388b07"/>觀行亦超無學如太子處胎貴壓群臣頻
+<lb ed="P" n="0388b08"/>伽在鷇聲逾眾鳥。</p></cb:div>
+<lb ed="P" n="0388b09"/><cb:div type="orig"><p xml:id="pP185p0388b0901">於是阿難及諸大眾聞佛如來無上慈誨祗
+<lb ed="P" n="0388b10"/>夜伽陀雜糅精瑩妙理清徹心目開明歎未
+<pb ed="P" xml:id="P185.1618.0389a" n="0389a"/>
+<lb ed="P" n="0389a01"/>曾有阿難合掌頂禮白佛我今聞佛無遮大
+<lb ed="P" n="0389a02"/>悲性淨妙常真實法句心猶未達六解一亡
+<lb ed="P" n="0389a03"/>舒結倫次惟垂大悲再愍斯會及與將來施
+<lb ed="P" n="0389a04"/>以法音洗滌沉垢。</p></cb:div>
+<lb ed="P" n="0389a05"/><cb:div type="commentary"><p xml:id="pP185p0389a0501" rend="margin-left:1em">吳興曰祗夜云應頌又云重頌即頌上長
+<lb ed="P" n="0389a06"/>行也伽陀云諷頌亦畧云偈不因長行但
+<lb ed="P" n="0389a07"/>諷羙而頌之二頌合明故云雜糅精瑩此
+<lb ed="P" n="0389a08"/>指能詮也妙理清徹此謂所詮也溫陵曰
+<lb ed="P" n="0389a09"/>無遮大悲言其愽濟也性淨妙常真實法
+<lb ed="P" n="0389a10"/>句則真妄兩忘稱性之談也沉垢微細結
+<pb ed="P" xml:id="P185.1618.0389b" n="0389b"/>
+<lb ed="P" n="0389b01"/>惑也長水曰由前偈云解結因次第六解
+<lb ed="P" n="0389b02"/>一亦亡故此疑之。</p></cb:div>
+<lb ed="P" n="0389b03"/><cb:div type="orig"><p xml:id="pP185p0389b0301">即時如來於師子座整涅槃僧<anchor xml:id="beg_54" type="cb-app"/>斂<anchor xml:id="end_54"/>僧伽梨攬
+<lb ed="P" n="0389b04"/>七寶几引手於几取劫波羅天所奉華巾於
+<lb ed="P" n="0389b05"/>大眾前綰成一結示阿難言此名何等阿難
+<lb ed="P" n="0389b06"/>大眾俱白佛言此名為結於是如來綰疊華
+<lb ed="P" n="0389b07"/>巾又成一結重問阿難此名何等阿難大眾
+<lb ed="P" n="0389b08"/>又白佛言此亦名結如是倫次綰疊華巾總
+<lb ed="P" n="0389b09"/>成六結一一結成皆取手中所成之結持問
+<lb ed="P" n="0389b10"/>阿難此名何等阿難大眾亦復如是次第酬
+<pb ed="P" xml:id="P185.1618.0390a" n="0390a"/>
+<lb ed="P" n="0390a01"/>佛此名為結。</p></cb:div>
+<lb ed="P" n="0390a02"/><cb:div type="commentary"><p xml:id="pP185p0390a0201" rend="margin-left:1em">溫陵曰涅槃僧裏衣也僧伽梨大衣也劫
+<lb ed="P" n="0390a03"/>波羅云時分即夜摩天也補註曰由阿難
+<lb ed="P" n="0390a04"/>未達六解一亡舒結倫次故如來示一巾
+<lb ed="P" n="0390a05"/>成六結令悟六解則一亡示綰結之有次
+<lb ed="P" n="0390a06"/>第令悟舒結之有倫次也。</p></cb:div>
+<lb ed="P" n="0390a07"/><cb:div type="orig"><p xml:id="pP185p0390a0701">佛告阿難我初綰巾汝名為結此疊華巾先
+<lb ed="P" n="0390a08"/>實一條第二第三云何汝曹復名為結阿難
+<lb ed="P" n="0390a09"/>白佛言世尊此寶疊華緝績成巾雖本一體
+<lb ed="P" n="0390a10"/>如我思惟如來一綰得一結名若百綰成終
+<pb ed="P" xml:id="P185.1618.0390b" n="0390b"/>
+<lb ed="P" n="0390b01"/>名百結何况此巾秖有六結終不至七亦不
+<lb ed="P" n="0390b02"/>停五云何如來只許初時第二第三不名為
+<lb ed="P" n="0390b03"/>結佛告阿難此寶華巾汝知此巾元止一條
+<lb ed="P" n="0390b04"/>我六綰時名有六結汝審觀察巾體是同因
+<lb ed="P" n="0390b05"/>結有異於意云何初綰結成名為第一如是
+<lb ed="P" n="0390b06"/>乃至第六結生吾今欲將第六結名成第一
+<lb ed="P" n="0390b07"/>不不也世尊六結若存斯第六名終非第一
+<lb ed="P" n="0390b08"/>縱我歷生盡其明辨如何令是六結亂名佛
+<lb ed="P" n="0390b09"/>言如是六結不同循顧本因一巾所造令其
+<lb ed="P" n="0390b10"/>雜亂終不得成則汝六根亦復如是畢竟同
+<pb ed="P" xml:id="P185.1618.0391a" n="0391a"/>
+<lb ed="P" n="0391a01"/>中生畢境異。</p></cb:div>
+<lb ed="P" n="0391a02"/><cb:div type="commentary"><p xml:id="pP185p0391a0201" rend="margin-left:1em">吳興曰同謂一真之性理本無差譬巾之
+<lb ed="P" n="0391a03"/>體也異謂六根之精事用有別如巾之結
+<lb ed="P" n="0391a04"/>也補註曰此謂六結若存則倫次不容雜
+<lb ed="P" n="0391a05"/>亂下言六結若解則一六俱亡。</p></cb:div>
+<lb ed="P" n="0391a06"/><cb:div type="orig"><p xml:id="pP185p0391a0601">佛告阿難汝必嫌此六結不成願樂一成復
+<lb ed="P" n="0391a07"/>云何得阿難言此結若存是非鋒起於中自
+<lb ed="P" n="0391a08"/>生此結非彼彼結非此如來今日若總解除
+<lb ed="P" n="0391a09"/>結若不生則無彼此尚不名一六云何成佛
+<lb ed="P" n="0391a10"/>言六解一亡亦復如是。</p></cb:div>
+<pb ed="P" xml:id="P185.1618.0391b" n="0391b"/>
+<lb ed="P" n="0391b01"/><cb:div type="commentary"><p xml:id="pP185p0391b0101" rend="margin-left:1em">溫陵曰不成謂是非鋒起不成一體也願
+<lb ed="P" n="0391b02"/>樂一成莫非解除結惑不生則同異圓泯
+<lb ed="P" n="0391b03"/>故曰尚不名一六云何成吳興曰六根之
+<lb ed="P" n="0391b04"/>精元是一真之性以隨緣故在眼曰見精
+<lb ed="P" n="0391b05"/>在耳曰<g ref="#CB10881">𦗟</g>精等此皆如第二月捏所成故
+<lb ed="P" n="0391b06"/>若能隨根脫粘內伏六既融一一亦斯亡
+<lb ed="P" n="0391b07"/>如解結<anchor xml:id="beg_55" type="cb-app"/>已<anchor xml:id="end_55"/>巾亦無用。</p></cb:div>
+<lb ed="P" n="0391b08"/><cb:div type="orig"><p xml:id="pP185p0391b0801">由汝無始心性狂亂知見妄發發妄不息勞
+<lb ed="P" n="0391b09"/>見發塵如勞目睛則有狂華於湛精明無因
+<lb ed="P" n="0391b10"/>亂起一切世間山河大地生死涅槃皆即狂
+<pb ed="P" xml:id="P185.1618.0392a" n="0392a"/>
+<lb ed="P" n="0392a01"/>勞顛倒華相。</p></cb:div>
+<lb ed="P" n="0392a02"/><cb:div type="commentary"><p xml:id="pP185p0392a0201" rend="margin-left:1em">吳興曰知見發妄此屬能見之相勞見發
+<lb ed="P" n="0392a03"/>塵即對所見之境惟妄與勞五住備矣如
+<lb ed="P" n="0392a04"/>勞目精下雙喻其義一切世間下示塵勞
+<lb ed="P" n="0392a05"/>之相。</p></cb:div>
+<lb ed="P" n="0392a06"/><cb:div type="orig"><p xml:id="pP185p0392a0601">阿難言此勞同結云何解除如來以手將所
+<lb ed="P" n="0392a07"/>結巾偏掣其左問阿難言如是解不不也世
+<lb ed="P" n="0392a08"/>尊旋復以手偏牽右邊又問阿難如是解不
+<lb ed="P" n="0392a09"/>不也世尊佛告阿難吾今以手左右各牽竟
+<lb ed="P" n="0392a10"/>不能解汝設方便云何解成阿難白佛言世
+<pb ed="P" xml:id="P185.1618.0392b" n="0392b"/>
+<lb ed="P" n="0392b01"/>尊當於結心解即分散佛告阿難如是如是
+<lb ed="P" n="0392b02"/>若欲除結當於結心。</p></cb:div>
+<lb ed="P" n="0392b03"/><cb:div type="commentary"><p xml:id="pP185p0392b0301" rend="margin-left:1em">吳興曰左右牽掣俱不能解喻觀二邊皆
+<lb ed="P" n="0392b04"/>不能破根本無明凡夫外道以斷常為二
+<lb ed="P" n="0392b05"/>邊二乘菩薩以空有為二邊雖曰伏斷猶
+<lb ed="P" n="0392b06"/>存巾結若欲除結當於結心者知見立知
+<lb ed="P" n="0392b07"/>即名為結觀知中道是謂結心結不離巾
+<lb ed="P" n="0392b08"/>解之則一知不異道亡之則中補註曰上
+<lb ed="P" n="0392b09"/>心性狂亂等示其根結之由展轉虛妄此
+<lb ed="P" n="0392b10"/>掣巾等示其解結之方也。</p></cb:div>
+<pb ed="P" xml:id="P185.1618.0393a" n="0393a"/>
+<lb ed="P" n="0393a01"/><cb:div type="orig"><p xml:id="pP185p0393a0101">阿難我說佛法從因緣生非取世間和合麄
+<lb ed="P" n="0393a02"/>相。</p></cb:div>
+<lb ed="P" n="0393a03"/><cb:div type="commentary"><p xml:id="pP185p0393a0301" rend="margin-left:1em">吳興曰既令解結當於結心欲使選根而
+<lb ed="P" n="0393a04"/>修圓行故示佛法從因緣生反顯若無因
+<lb ed="P" n="0393a05"/>緣佛法無由而生也如前文云譬如琴瑟
+<lb ed="P" n="0393a06"/>雖有妙音若無妙指終不能發是則圓修
+<lb ed="P" n="0393a07"/>定慧是今因緣若三藏中事六度等皆是
+<lb ed="P" n="0393a08"/>世間和合麄相。</p></cb:div>
+<lb ed="P" n="0393a09"/><cb:div type="orig"><p xml:id="pP185p0393a0901">如來發明世出世法知其本因隨所緣出如
+<lb ed="P" n="0393a10"/>是乃至恒沙界外一滴之雨亦知頭數現前
+<pb ed="P" xml:id="P185.1618.0393b" n="0393b"/>
+<lb ed="P" n="0393b01"/>種種松直<g ref="#CB00331">𣗥</g>曲鵠白烏玄皆了元由是故阿
+<lb ed="P" n="0393b02"/>難隨汝心中選擇六根根結若除塵相自滅
+<lb ed="P" n="0393b03"/>諸妄銷亡不真何待。</p></cb:div>
+<lb ed="P" n="0393b04"/><cb:div type="commentary"><p xml:id="pP185p0393b0401" rend="margin-left:1em">孤山曰世謂六凢出世謂四聖知此十界
+<lb ed="P" n="0393b05"/>皆因於心隨無明之染緣則出九界隨教
+<lb ed="P" n="0393b06"/>行之淨緣則出佛界故法華云佛種從緣
+<lb ed="P" n="0393b07"/>起涅槃云亦有因緣因滅無明則得熾然
+<lb ed="P" n="0393b08"/>三菩提燈吳興曰佛有權實二智實智冥
+<lb ed="P" n="0393b09"/>理權智鑑物發明世出世法乃至知其種
+<lb ed="P" n="0393b10"/>種元由者皆權智所鑑也既於情無情照
+<pb ed="P" xml:id="P185.1618.0394a" n="0394a"/>
+<lb ed="P" n="0394a01"/>了不昧顯今所說解結之法及選根之義
+<lb ed="P" n="0394a02"/>悉是鑑物冝然固無差謬矣長水曰選擇
+<lb ed="P" n="0394a03"/>六根者前文云若能於此悟圓通根與不
+<lb ed="P" n="0394a04"/>圓根日劫相倍故令選擇。</p></cb:div>
+<lb ed="P" n="0394a05"/><cb:div type="orig"><p xml:id="pP185p0394a0501">阿難吾今問汝此劫波羅巾六結現前同時
+<lb ed="P" n="0394a06"/>解縈得同除不不也世尊是結本以次第綰
+<lb ed="P" n="0394a07"/>生今日當須次第而解六結同體結不同時
+<lb ed="P" n="0394a08"/>則結解時云何同除。</p></cb:div>
+<lb ed="P" n="0394a09"/><cb:div type="commentary"><p xml:id="pP185p0394a0901" rend="margin-left:1em">吳興曰綰巾成結雖有次第粘湛成根必
+<lb ed="P" n="0394a10"/>無倫緒故不可以喻而難於法也盖言見
+<pb ed="P" xml:id="P185.1618.0394b" n="0394b"/>
+<lb ed="P" n="0394b01"/>聞覺知六用差別如次第綰生也選擇六
+<lb ed="P" n="0394b02"/>根隨於一根發觀如次第而解也慤師云
+<lb ed="P" n="0394b03"/>意明六根不可齊觀但依一根入證自然
+<lb ed="P" n="0394b04"/>銷六斯會經意焉。</p></cb:div>
+<lb ed="P" n="0394b05"/><cb:div type="orig"><p xml:id="pP185p0394b0501">佛言六根解除亦復如是此根初解先得入
+<lb ed="P" n="0394b06"/>空空性圓明成法解脫解脫法已俱空不生
+<lb ed="P" n="0394b07"/>是名菩薩從三摩地得無生忍。</p></cb:div>
+<lb ed="P" n="0394b08"/><cb:div type="commentary"><p xml:id="pP185p0394b0801" rend="margin-left:1em">吳興曰小乘析觀乃是作意先破人執次
+<lb ed="P" n="0394b09"/>破法執然後會入空平等理大乘體觀人
+<lb ed="P" n="0394b10"/>法無殊空非前後今言此根初解先得人
+<pb ed="P" xml:id="P185.1618.0395a" n="0395a"/>
+<lb ed="P" n="0395a01"/>空者亦猶前文如澄濁水沙土自沉盖任
+<lb ed="P" n="0395a02"/>運而然也沇師以天台別教釋之孤山斥
+<lb ed="P" n="0395a03"/>云其失非小應知人空是破五陰假名即
+<lb ed="P" n="0395a04"/>見惑也法空是破五陰實法即思惑也乃
+<lb ed="P" n="0395a05"/>至破涅槃淨法即無明也俱空不生即平
+<lb ed="P" n="0395a06"/>等空所空既盡能空亦滅如前火木然諸
+<lb ed="P" n="0395a07"/>薪<anchor xml:id="beg_56" type="cb-app"/>已<anchor xml:id="end_56"/>亦復自然如是三空皆以中道而為
+<lb ed="P" n="0395a08"/>觀體苟非此者何異解巾左右牽掣乎。</p></cb:div>
+<lb ed="P" n="0395a09"/><cb:div type="orig"><p xml:id="pP185p0395a0901">阿難及諸大眾蒙佛開示慧覺圓通得無疑
+<lb ed="P" n="0395a10"/>惑一時合掌頂禮雙足而白佛言我等今日
+<pb ed="P" xml:id="P185.1618.0395b" n="0395b"/>
+<lb ed="P" n="0395b01"/>身心皎然快得無礙雖復悟知一六亡義然
+<lb ed="P" n="0395b02"/>猶未達圓通本根世尊我輩飄零積劫孤露
+<lb ed="P" n="0395b03"/>何心何慮預佛天倫如失乳兒忽遇慈母若
+<lb ed="P" n="0395b04"/>復因此際會道成所得密言還同本悟則與
+<lb ed="P" n="0395b05"/>未聞無有差別惟垂大悲惠我祕嚴成就如
+<lb ed="P" n="0395b06"/>來最後開示作是語<anchor xml:id="beg_57" type="cb-app"/>已<anchor xml:id="end_57"/>五體投地退藏密機
+<lb ed="P" n="0395b07"/>冀佛冥授。</p></cb:div>
+<lb ed="P" n="0395b08"/><cb:div type="commentary"><p xml:id="pP185p0395b0801" rend="margin-left:1em">溫陵曰慧覺圓通存乎一心<anchor xml:id="beg_58" type="cb-app"/>已<anchor xml:id="end_58"/>蒙開示故
+<lb ed="P" n="0395b09"/>身心皎然圓通本根冥乎萬法猶未通達
+<lb ed="P" n="0395b10"/>故冀佛冥授也密言即發明慧覺之言
+<pb ed="P" xml:id="P185.1618.0396a" n="0396a"/>
+<lb ed="P" n="0396a01"/>祕嚴即圓通本根祕要也慧覺圓通我固
+<lb ed="P" n="0396a02"/>有之故雖因密言還同本悟若不開祕嚴
+<lb ed="P" n="0396a03"/>則與未聞無異故別求開示也二十五聖
+<lb ed="P" n="0396a04"/>於根塵七大各悟圓通是知本根冥乎萬
+<lb ed="P" n="0396a05"/>法也佛不顯說而因眾敷陳是謂冥授也
+<lb ed="P" n="0396a06"/>退藏密機即息慮凝心也。</p></cb:div>
+<lb ed="P" n="0396a07"/><cb:div type="orig"><p xml:id="pP185p0396a0701">爾時世尊普告眾中諸大菩薩及諸無漏大
+<lb ed="P" n="0396a08"/>阿羅漢汝等菩薩及阿羅漢生我法中得成
+<lb ed="P" n="0396a09"/>無學吾今問汝最初發心悟十八界誰為圓
+<lb ed="P" n="0396a10"/>通從何方便入三摩地。</p></cb:div>
+<pb ed="P" xml:id="P185.1618.0396b" n="0396b"/>
+<lb ed="P" n="0396b01"/><cb:div type="commentary"><p xml:id="pP185p0396b0101" rend="margin-left:1em">孤山曰此下二十五聖觀十八界及以七
+<lb ed="P" n="0396b02"/>大乃是開合之殊耳識大則合於六識根
+<lb ed="P" n="0396b03"/>大則合於六根餘之五大則總<g ref="#CB30246">󷘦</g>六境以
+<lb ed="P" n="0396b04"/>六境之體不出地水火風及空故也但言
+<lb ed="P" n="0396b05"/>十八則<anchor xml:id="beg_59" type="cb-app"/>已<anchor xml:id="end_59"/>攝七故前文云十方如來於十
+<lb ed="P" n="0396b06"/>八界一一脩行皆得圓滿無上菩提又此
+<lb ed="P" n="0396b07"/>十八只是六根以各開根境識三故是則
+<lb ed="P" n="0396b08"/>言六其義亦周故前文云令汝生死輪轉
+<lb ed="P" n="0396b09"/>安樂妙常同是六根更非他物。</p></cb:div>
+<lb ed="P" n="0396b10"/><cb:div type="orig"><p xml:id="pP185p0396b1001">憍陳那五比丘即從座起頂禮佛足而白佛
+<pb ed="P" xml:id="P185.1618.0397a" n="0397a"/>
+<lb ed="P" n="0397a01"/>言我在鹿苑及於雞園觀見如來最初成道
+<lb ed="P" n="0397a02"/>於佛音聲悟明四諦佛問比丘我初稱解如
+<lb ed="P" n="0397a03"/>來印我名阿若多妙音密圓我於音聲得阿
+<lb ed="P" n="0397a04"/>羅漢佛問圓通如我所證音聲為上。</p></cb:div>
+<lb ed="P" n="0397a05"/><cb:div type="commentary"><p xml:id="pP185p0397a0501" rend="margin-left:1em">孤山曰妙音密圓者密悟圓理也或曰涅
+<lb ed="P" n="0397a06"/>槃說身因而皆小聖淨名入不二則俱大
+<lb ed="P" n="0397a07"/>士惟茲二十五聖大小相叅而云方便多
+<lb ed="P" n="0397a08"/>門歸元不二且陳那身子近悟偏空普賢
+<lb ed="P" n="0397a09"/>彌勒久證圓理久近兩異偏圓二殊安得
+<lb ed="P" n="0397a10"/>圓通其歸一揆對曰涅槃敘昔則小無大
+<pb ed="P" xml:id="P185.1618.0397b" n="0397b"/>
+<lb ed="P" n="0397b01"/>分淨名方等則大隔小乘其談所證豈得
+<lb ed="P" n="0397b02"/>相混至若今經二乘作佛與法華同塗闡
+<lb ed="P" n="0397b03"/>提有性將涅槃共轍教<anchor xml:id="beg_5a" type="cb-app"/>已<anchor xml:id="end_5a"/>開顯偏即圓融
+<lb ed="P" n="0397b04"/>故使鹿苑之所證同成一乘之頓理均乎
+<lb ed="P" n="0397b05"/>普賢諒無慙德此約實行聲聞也若乃內
+<lb ed="P" n="0397b06"/>祕大道外現小乘則鹿苑以來何甞非大
+<lb ed="P" n="0397b07"/>既經發迹一揆何疑此約權行聲聞也悟
+<lb ed="P" n="0397b08"/>理既同誰拘遠近以此觀之則大小相叅
+<lb ed="P" n="0397b09"/>之說怡然理順遠近偏圓之惑渙然氷釋
+<lb ed="P" n="0397b10"/>吳興曰夫開權顯實之說惟諸佛祕要之
+<pb ed="P" xml:id="P185.1618.0398a" n="0398a"/>
+<lb ed="P" n="0398a01"/>事非諸菩薩羅漢所能顯示其猶禮樂征
+<lb ed="P" n="0398a02"/>伐自天子出非諸侯之事今佛所問最初
+<lb ed="P" n="0398a03"/>發心悟十八界誰為圓通者且欲諸聖各
+<lb ed="P" n="0398a04"/>述本根權實之道耳在昔方便未會真實
+<lb ed="P" n="0398a05"/>諸聲聞人言與菩薩同入法性孰不自謂
+<lb ed="P" n="0398a06"/>悟入圓通如陳那等雖曰妙音密圓但是
+<lb ed="P" n="0398a07"/>聞生滅四諦微密圓悟未可混同如來藏
+<lb ed="P" n="0398a08"/>理故中阿含云我至波羅柰擊妙甘露鼓
+<lb ed="P" n="0398a09"/>又云如來說法初中後妙豈彼妙名便同
+<lb ed="P" n="0398a10"/>法華之妙乎只如下文說緣覺聲聞云勝
+<pb ed="P" xml:id="P185.1618.0398b" n="0398b"/>
+<lb ed="P" n="0398b01"/>妙現圓及勝性現圓又說大梵善見身心
+<lb ed="P" n="0398b02"/>妙圓及妙見圓澄豈此妙圓亦同圓覺妙
+<lb ed="P" n="0398b03"/>明之性乎應知如來先令諸聖次第說竟
+<lb ed="P" n="0398b04"/>後告文殊言此二十五無學諸大菩薩及
+<lb ed="P" n="0398b05"/>阿羅漢各說最初成道方便皆言脩習真
+<lb ed="P" n="0398b06"/>實圓通彼等脩行實無優劣前後差別斯
+<lb ed="P" n="0398b07"/>則開權會實之正文也文殊偈云聖性無
+<lb ed="P" n="0398b08"/>不通順逆皆方便盖演如來之旨也主伴
+<lb ed="P" n="0398b09"/>相濟雅合其冝又若陳那等本大迹小鹿
+<lb ed="P" n="0398b10"/>苑所證不亦小乎豈顯本後翻令漸初密
+<pb ed="P" xml:id="P185.1618.0399a" n="0399a"/>
+<lb ed="P" n="0399a01"/>悟圓理天台化儀四教龍<g ref="#CB14081">𣗳</g>二種法輪顯
+<lb ed="P" n="0399a02"/>露祕密俱無此說吾宗義學請熟思之。</p></cb:div>
+<lb ed="P" n="0399a03"/><cb:div type="orig"><p xml:id="pP185p0399a0301">優波尼沙陀即從座起頂禮佛足而白佛言
+<lb ed="P" n="0399a04"/>我亦觀佛最初成道觀不淨相生大厭離悟
+<lb ed="P" n="0399a05"/>諸色性以從不淨白骨微塵歸於虛空空色
+<lb ed="P" n="0399a06"/>二無成無學道如來印我名尼沙陀塵色既
+<lb ed="P" n="0399a07"/>盡妙色密圓我從色相得阿羅漢佛問圓通
+<lb ed="P" n="0399a08"/>如我所證色因為上。</p></cb:div>
+<lb ed="P" n="0399a09"/><cb:div type="commentary"><p xml:id="pP185p0399a0901" rend="margin-left:1em">溫陵曰優波尼沙陀此翻近少亦云塵性
+<lb ed="P" n="0399a10"/>謂微塵是色之少分也因塵悟解故得此
+<pb ed="P" xml:id="P185.1618.0399b" n="0399b"/>
+<lb ed="P" n="0399b01"/>名昔多貪欲佛令作不淨觀長水曰因觀
+<lb ed="P" n="0399b02"/>色塵本如來藏故曰悟諸色性吳興曰不
+<lb ed="P" n="0399b03"/>然既云觀佛最初成道正是小乘無漏行
+<lb ed="P" n="0399b04"/>法言悟諸色性者斯乃聲聞悟性念處也
+<lb ed="P" n="0399b05"/>南嶽師云觀五陰理性名性念處故雜心
+<lb ed="P" n="0399b06"/>論偈云是身不淨相真實性常定諸受及
+<lb ed="P" n="0399b07"/>心法亦復如是說以從不淨白骨微塵歸
+<lb ed="P" n="0399b08"/>於虛空者由多貪欲脩對治法成就九想
+<lb ed="P" n="0399b09"/>發真破惑即壞法羅漢也九想成時得慧
+<lb ed="P" n="0399b10"/>解脫於諸色相發明無漏故云妙色密圓。</p></cb:div>
+<pb ed="P" xml:id="P185.1618.0400a" n="0400a"/>
+<lb ed="P" n="0400a01"/><cb:div type="orig"><p xml:id="pP185p0400a0101">香嚴童子即從座起頂禮佛足而白佛言我
+<lb ed="P" n="0400a02"/>聞如來教我諦觀諸有為相我時辭佛宴晦
+<lb ed="P" n="0400a03"/>清齋見諸比丘燒沉水香香氣寂然來入鼻
+<lb ed="P" n="0400a04"/>中我觀此氣非木非空非烟非火去無所著
+<lb ed="P" n="0400a05"/>來無所從由是意銷發明無漏如來印我得
+<lb ed="P" n="0400a06"/>香嚴號塵氣倐滅妙香密圓我從香嚴得阿
+<lb ed="P" n="0400a07"/>羅漢佛問圓通如我所證香嚴為上。</p></cb:div>
+<lb ed="P" n="0400a08"/><cb:div type="commentary"><p xml:id="pP185p0400a0801" rend="margin-left:1em">檇李曰宴安息也晦冥寂也清靜之室謂
+<lb ed="P" n="0400a09"/>之清齋資中曰非木等者觀性空也吳興
+<lb ed="P" n="0400a10"/>曰凡言性空必推四性今當以木為自烟
+<pb ed="P" xml:id="P185.1618.0400b" n="0400b"/>
+<lb ed="P" n="0400b01"/>火為他和合為共空為無因此似衍門觀
+<lb ed="P" n="0400b02"/>幻有即空之相下諸聲聞亦多是小乘觀
+<lb ed="P" n="0400b03"/>實有滅空之義小衍雖殊所證圓通同一
+<lb ed="P" n="0400b04"/>真諦耳若諸菩薩所悟湏約中道第一義
+<lb ed="P" n="0400b05"/>諦言之應有歷別圓融之異經雖隱畧理
+<lb ed="P" n="0400b06"/>合該通如淨名室內三十二大士說入不
+<lb ed="P" n="0400b07"/>二之法門天台所解亦分圓別豈以不二
+<lb ed="P" n="0400b08"/>混同諸入乎先云香嚴童子則從菩薩受
+<lb ed="P" n="0400b09"/>稱復云得阿羅漢盖敘昔日所證如下文
+<lb ed="P" n="0400b10"/>月光童子初得小果後於佛所得童真名
+<pb ed="P" xml:id="P185.1618.0401a" n="0401a"/>
+<lb ed="P" n="0401a01"/>預菩薩會以彼驗此名實可知。</p></cb:div>
+<lb ed="P" n="0401a02"/><cb:div type="orig"><p xml:id="pP185p0401a0201">藥王藥上二法王子并在會中五百梵天即
+<lb ed="P" n="0401a03"/>從座起頂禮佛足而白佛言我無始劫為世
+<lb ed="P" n="0401a04"/>良醫口中甞此娑婆世界草木金石名數凡
+<lb ed="P" n="0401a05"/>有十萬八千如是悉知苦酢醎淡甘辛等味
+<lb ed="P" n="0401a06"/>并諸和合俱生變異是冷是熱有毒無毒悉
+<lb ed="P" n="0401a07"/>能徧知承事如來了知味性非空非有非即
+<lb ed="P" n="0401a08"/>身心非離身心分別味因從是開悟蒙佛如
+<lb ed="P" n="0401a09"/>來印我昆季藥王藥上二菩薩名今於會中
+<lb ed="P" n="0401a10"/>為法王子因味覺明位登菩薩佛問圓通如
+<pb ed="P" xml:id="P185.1618.0401b" n="0401b"/>
+<lb ed="P" n="0401b01"/>我所證味因為上。</p></cb:div>
+<lb ed="P" n="0401b02"/><cb:div type="commentary"><p xml:id="pP185p0401b0201" rend="margin-left:1em">孤山曰苦酢等六味也眾味共成名和合
+<lb ed="P" n="0401b03"/>味直爾采用名俱生味脩鍊炮<g ref="#CB02598">󰨦</g>名變異
+<lb ed="P" n="0401b04"/>味吳興曰由事佛故必聞正法即於味性
+<lb ed="P" n="0401b05"/>了生無生空有謂味塵也身心謂舌識也
+<lb ed="P" n="0401b06"/>以味從合中知故相對言之味非空故非
+<lb ed="P" n="0401b07"/>離身心味非有故非即身心中道之性於
+<lb ed="P" n="0401b08"/>是乎顯。</p></cb:div>
+<lb ed="P" n="0401b09"/><cb:div type="orig"><p xml:id="pP185p0401b0901"><g ref="#CB02494">䟦</g>陀婆羅并其同伴十六開士即從座起頂
+<lb ed="P" n="0401b10"/>禮佛足而白佛言我等先於威音王佛聞法
+<pb ed="P" xml:id="P185.1618.0402a" n="0402a"/>
+<lb ed="P" n="0402a01"/>出家於浴僧時隨例入室忽悟水因既不洗
+<lb ed="P" n="0402a02"/>塵亦不洗體中間安然得無所有宿習無忘
+<lb ed="P" n="0402a03"/>乃至今時從佛出家令得無學彼佛名我<g ref="#CB02494">䟦</g>
+<lb ed="P" n="0402a04"/>陀婆羅妙觸宣明成佛子住佛問圓通如我
+<lb ed="P" n="0402a05"/>所證觸因為上。</p></cb:div>
+<lb ed="P" n="0402a06"/><cb:div type="commentary"><p xml:id="pP185p0402a0601" rend="margin-left:1em">孤山曰<g ref="#CB02494">䟦</g>陀婆羅此云賢守亦云賢護自
+<lb ed="P" n="0402a07"/>守護賢德亦守護眾生資中曰凖法華經
+<lb ed="P" n="0402a08"/>有二萬億威音王佛前後出世最初佛像
+<lb ed="P" n="0402a09"/>法中此<g ref="#CB02494">䟦</g>陀等為增上慢毀常不輕故千
+<lb ed="P" n="0402a10"/>劫墮阿鼻獄罪畢值後佛出家吳興曰水
+<pb ed="P" xml:id="P185.1618.0402b" n="0402b"/>
+<lb ed="P" n="0402b01"/>因謂所觸之因也塵體即能觸之緣也塵
+<lb ed="P" n="0402b02"/>既無染體亦常淨能所如幻二邊俱空故
+<lb ed="P" n="0402b03"/>中間覺觸之心安然契性矣泐潭曰觸具
+<lb ed="P" n="0402b04"/>三和今翻為三德祕藏故名妙觸宣明也。</p></cb:div>
+<lb ed="P" n="0402b05"/>
+<lb ed="P" n="0402b06"/>
+<lb ed="P" n="0402b07"/>
+<lb ed="P" n="0402b08"/>
+<lb ed="P" n="0402b09"/><cb:juan fun="close" n="9"><cb:jhead>大佛頂如來密因脩證了義諸菩薩萬行首
+<lb ed="P" n="0402b10"/>楞嚴經會解卷第九</cb:jhead></cb:juan>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_52" cb:to="#end_52"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_53" cb:to="#end_53"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_54" cb:to="#end_54"><corr>斂</corr><sic>歛</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_55" cb:to="#end_55"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_56" cb:to="#end_56"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_57" cb:to="#end_57"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_58" cb:to="#end_58"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_59" cb:to="#end_59"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5a" cb:to="#end_5a"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>

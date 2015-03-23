@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="P184n1617">
+<teiHeader>
+<fileDesc>
+		<titleStmt>
+			<title>Northern Yongle Edition of the Canon, Electronic version, No. 1617 妙法蓮華經要解（選錄「要解」本文）(第1卷-第12卷)</title>
+			<author>宋 戒環解</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+	<editionStmt>
+		<edition>$Revision: 1.3 $<date>$Date: 2011/04/18 11:33:44 $</date></edition>
+		<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+	</editionStmt>
+	<extent>12卷</extent>
+	<publicationStmt>
+		<distributor>
+			<name>中華電子佛典協會 (CBETA)</name>
+			<address>
+				<addrLine>service@cbeta.org</addrLine>
+			</address>
+		</distributor>
+		<availability>
+			<p>Available for non-commercial use when distributed with this header intact.</p>
+		</availability>
+		<date>$Date: 2011/04/18 11:33:44 $</date>
+	</publicationStmt>
+	<sourceDesc>
+		<bibl>Northern Yongle Edition of the Canon Vol. 184, No. 1617 </bibl>
+	</sourceDesc>
+</fileDesc>
+<encodingDesc>
+	<projectDesc>
+		<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version)</p>
+		<p xml:lang="zh" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二）</p>
+	</projectDesc>
+<charDecl>
+<char xml:id="CB00562">
+	<charName>CBETA CHARACTER CB00562</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[跳-兆+(梳-木)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>疏</value>
+	</charProp>
+	<mapping type="unicode">U+47FD</mapping>
+	<mapping cb:dec="983602" type="PUA">U+F0232</mapping>
+</char>
+<char xml:id="CB05841">
+	<charName>CBETA CHARACTER CB05841</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[挈-刀+力]</value>
+	</charProp>
+	<mapping cb:dec="988881" type="PUA">U+F16D1</mapping>
+</char>
+<char xml:id="CB07153">
+	<charName>CBETA CHARACTER CB07153</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[凶/月]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>胸</value>
+	</charProp>
+	<mapping type="unicode">U+26644</mapping>
+	<mapping cb:dec="990193" type="PUA">U+F1BF1</mapping>
+</char>
+<char xml:id="CB07536">
+	<charName>CBETA CHARACTER CB07536</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[銳-兄+允]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>銳</value>
+	</charProp>
+	<mapping type="unicode">U+289A3</mapping>
+	<mapping cb:dec="990576" type="PUA">U+F1D70</mapping>
+</char>
+<char xml:id="CB11276">
+	<charName>CBETA CHARACTER CB11276</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[(厂@巳)*頁]</value>
+	</charProp>
+	<mapping type="normal_unicode">U+980B</mapping>
+	<mapping cb:dec="994316" type="PUA">U+F2C0C</mapping>
+</char>
+<char xml:id="CB14081">
+	<charName>CBETA CHARACTER CB14081</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[木*豆*寸]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>樹</value>
+	</charProp>
+	<mapping type="unicode">U+235F3</mapping>
+	<mapping cb:dec="997121" type="PUA">U+F3701</mapping>
+</char>
+<char xml:id="CB14245">
+	<charName>CBETA CHARACTER CB14245</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[〦/失/衣]</value>
+	</charProp>
+	<mapping cb:dec="997285" type="PUA">U+F37A5</mapping>
+</char>
+<char xml:id="CB15072">
+	<charName>CBETA CHARACTER CB15072</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[托-七+友]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>拔</value>
+	</charProp>
+	<mapping type="normal_unicode">U+39DE</mapping>
+	<mapping cb:dec="998112" type="PUA">U+F3AE0</mapping>
+</char>
+<char xml:id="CB15081">
+	<charName>CBETA CHARACTER CB15081</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[竺-二+束]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>策</value>
+	</charProp>
+	<mapping type="unicode">U+41FF</mapping>
+	<mapping cb:dec="998121" type="PUA">U+F3AE9</mapping>
+</char>
+<char xml:id="CB15924">
+	<charName>CBETA CHARACTER CB15924</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[托-七+(友-又+乂)]</value>
+	</charProp>
+	<charProp>
+		<localName>normalized form</localName>
+		<value>拔</value>
+	</charProp>
+	<mapping type="unicode">U+39DE</mapping>
+	<mapping cb:dec="998964" type="PUA">U+F3E34</mapping>
+</char>
+<char xml:id="CB16487">
+	<charName>CBETA CHARACTER CB16487</charName>
+	<charProp>
+		<localName>composition</localName>
+		<value>[書-曰+皿]</value>
+	</charProp>
+	<mapping type="unicode">U+2505E</mapping>
+	<mapping cb:dec="999527" type="PUA">U+F4067</mapping>
+</char>
+</charDecl>
+</encodingDesc>
+<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+	<change when="2010-09-07T13:44:29">Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT</change>
+
+</revisionDesc>
+</teiHeader>
+<text><body>
+<cb:mulu type="其他" level="1">方便品第二</cb:mulu>
+<pb ed="P" xml:id="P184.1617.0639a" n="0639a"/>
+<lb ed="P" n="0639a01"/><milestone unit="juan" n="4"/><cb:mulu type="卷" n="4"></cb:mulu><cb:juan fun="open" n="4"><cb:jhead>妙法蓮華經要觧卷第四　　　　　曠五</cb:jhead></cb:juan>
+<lb ed="P" n="0639a02"/><byline cb:type="author">溫陵開元蓮寺比丘　戒環　觧</byline>
+<lb ed="P" n="0639a03"/><cb:div type="other"><cb:mulu type="其他" level="1">譬喻品第三</cb:mulu><cb:div type="orig"><p xml:id="pP184p0639a0301">譬喻品第三</p></cb:div>
+<lb ed="P" n="0639a04"/><cb:div type="commentary"><p xml:id="pP184p0639a0401" rend="margin-left:1em">譬者引淺况深喻者托言訓曉由前法說
+<lb ed="P" n="0639a05"/>示多方便皆為一乘上智<anchor xml:id="beg_48" type="cb-app"/>已<anchor xml:id="end_48"/>悟中根未觧
+<lb ed="P" n="0639a06"/>故引三車一門之淺以况三乘一道之深
+<lb ed="P" n="0639a07"/>而訓曉焉故名譬喻品經有九喻謂火宅
+<lb ed="P" n="0639a08"/>窮子藥草化城繫珠鑿井王髻父少醫師
+<lb ed="P" n="0639a09"/>舊唯言七喻遺却鑿井父少二喻謂是旁
+<lb ed="P" n="0639a10"/>出實非旁也喻說文二初法說緒餘二喻
+<pb ed="P" xml:id="P184.1617.0639b" n="0639b"/>
+<lb ed="P" n="0639b01"/>說正文然法說緒餘合聮前品之末喻說
+<lb ed="P" n="0639b02"/>名題合標緒餘之後而分品似濫者身子
+<lb ed="P" n="0639b03"/>既自領悟法說欲以悟人故陳悟喜之意
+<lb ed="P" n="0639b04"/>而為機起疑發茲喻說然則悟喜等意乃
+<lb ed="P" n="0639b05"/>為喻說之由宜属此品文不為濫。</p></cb:div>
+<lb ed="P" n="0639b06"/><cb:div type="orig"><p xml:id="pP184p0639b0601">爾時舍利弗踊躍歡喜即起合掌瞻仰尊
+<lb ed="P" n="0639b07"/>顏而白佛言今從世尊聞此法音心懷踊躍
+<lb ed="P" n="0639b08"/>得未曾有。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0639b0805" rend="margin-left:1em;inline">身子既悟法說自知作佛故踊
+<lb ed="P" n="0639b09"/>躍而作慶所未聞。</p></cb:div>
+<lb ed="P" n="0639b10"/><cb:div type="orig"><p xml:id="pP184p0639b1001">所以者何我昔從佛聞如是法見諸菩薩授
+<pb ed="P" xml:id="P184.1617.0640a" n="0640a"/>
+<lb ed="P" n="0640a01"/>記作佛而我等不預斯事甚自感傷失於如
+<lb ed="P" n="0640a02"/>來無量知見。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0640a0206" rend="margin-left:1em;inline">釋上也謂昔者方等會上共
+<lb ed="P" n="0640a03"/>聞是法然彼得授記我乃不預是失如來
+<lb ed="P" n="0640a04"/>無量知見今既得之所以踊喜無量知見
+<lb ed="P" n="0640a05"/>即一乘正智也。</p></cb:div>
+<lb ed="P" n="0640a06"/><cb:div type="orig"><p xml:id="pP184p0640a0601">世尊我常獨處山林<g ref="#CB14081">𣗳</g>下若坐若行每作
+<lb ed="P" n="0640a07"/>是念我等同入法性云何如來以小乘法而
+<lb ed="P" n="0640a08"/>見濟度是我等咎非世尊也。</p></cb:div>
+<lb ed="P" n="0640a09"/><cb:div type="commentary"><p xml:id="pP184p0640a0901" rend="margin-left:1em">居常推尅聞同記異非佛所私咎實在我
+<lb ed="P" n="0640a10"/>同入法性謂同證真理。</p></cb:div>
+<pb ed="P" xml:id="P184.1617.0640b" n="0640b"/>
+<lb ed="P" n="0640b01"/><cb:div type="orig"><p xml:id="pP184p0640b0101">所以者何若我等待說所因成就阿耨多羅
+<lb ed="P" n="0640b02"/>三藐三菩提者必以大乘而得度脫然我等
+<lb ed="P" n="0640b03"/>不觧方便隨宜所說初聞佛法遇便信受思
+<lb ed="P" n="0640b04"/>惟取證。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0640b0404" rend="margin-left:1em;inline">釋自咎也所因即般若實智為菩
+<lb ed="P" n="0640b05"/>提正因也佛固將說而我不欵待但初聞
+<lb ed="P" n="0640b06"/>四諦即便信受速取小果盖自誤也。</p></cb:div>
+<lb ed="P" n="0640b07"/><cb:div type="orig"><p xml:id="pP184p0640b0701">世尊我從昔來終日竟夜每自尅責而今
+<lb ed="P" n="0640b08"/>從佛聞所未聞未曾有法斷諸疑悔身意泰
+<lb ed="P" n="0640b09"/>然快得安隱今日乃知真是佛子從佛口生
+<lb ed="P" n="0640b10"/>從法化生得佛法分。</p></cb:div>
+<pb ed="P" xml:id="P184.1617.0641a" n="0641a"/>
+<lb ed="P" n="0641a01"/><cb:div type="commentary"><p xml:id="pP184p0641a0101" rend="margin-left:1em">自慶所悟也口生者因聞一音法生者悟
+<lb ed="P" n="0641a02"/>如是法法分者得如來知見寶藏之分也。</p></cb:div>
+<lb ed="P" n="0641a03"/><cb:div type="orig"><p xml:id="pP184p0641a0301">爾時舍利弗欲重宣此義而說偈言。</p>
+<lb ed="P" n="0641a04"/><lg xml:id="lgP184p0641a0401" type="abnormal"><l rend="text-indent:0em">我聞是法音</l><l rend="text-indent:1em">得所未曾有</l><l rend="text-indent:1em">心懷大歡喜</l>
+<lb ed="P" n="0641a05"/><l rend="text-indent:0em">疑網皆<anchor xml:id="beg_49" type="cb-app"/>已<anchor xml:id="end_49"/>除</l><l rend="text-indent:1em">昔來蒙佛教</l><l rend="text-indent:1em">不失於大乘</l>
+<lb ed="P" n="0641a06"/><l rend="text-indent:0em">佛音甚希有</l><l rend="text-indent:1em">能除眾生惱</l><l rend="text-indent:1em">我已得漏<g ref="#CB16487">𥁞</g></l>
+<lb ed="P" n="0641a07"/><l rend="text-indent:0em">聞亦除憂惱</l></lg></cb:div><cb:div type="commentary"><p xml:id="pP184p0641a0706" rend="margin-left:1em;inline">法音指法說也漏<g ref="#CB16487">𥁞</g>宜無
+<lb ed="P" n="0641a08"/>憂惱而云亦除者向雖漏<g ref="#CB16487">𥁞</g>餘習未<g ref="#CB16487">𥁞</g>今
+<lb ed="P" n="0641a09"/>得極證則除失大乘之憂及餘習未<g ref="#CB16487">𥁞</g>之惱。</p></cb:div>
+<lb ed="P" n="0641a10"/><cb:div type="orig"><lg xml:id="lgP184p0641a1001" type="abnormal"><l rend="text-indent:0em">我處於山谷</l><l rend="text-indent:1em">或在林<g ref="#CB14081">𣗳</g>下</l><l rend="text-indent:1em">若坐若經行</l>
+<pb ed="P" xml:id="P184.1617.0641b" n="0641b"/>
+<lb ed="P" n="0641b01"/><l rend="text-indent:0em">常思惟是事</l><l rend="text-indent:1em">嗚呼深自責</l><l rend="text-indent:1em">云何而自欺</l></lg></cb:div>
+<lb ed="P" n="0641b02"/><cb:div type="commentary"><p xml:id="pP184p0641b0201" rend="margin-left:1em">頌居常自咎也。</p></cb:div>
+<lb ed="P" n="0641b03"/><cb:div type="orig"><lg xml:id="lgP184p0641b0301" type="abnormal"><l rend="text-indent:0em">我等亦佛子</l><l rend="text-indent:1em">同入無漏法</l><l rend="text-indent:1em">不能於未來</l>
+<lb ed="P" n="0641b04"/><l rend="text-indent:0em">演說無上道</l><l rend="text-indent:1em">金色三十二</l><l rend="text-indent:1em">十力諸觧脫</l>
+<lb ed="P" n="0641b05"/><l rend="text-indent:0em">同共一法中</l><l rend="text-indent:1em">而不得此事</l><l rend="text-indent:1em">八十種妙好</l>
+<lb ed="P" n="0641b06"/><l rend="text-indent:0em">十八不共法</l><l rend="text-indent:1em">如是等功德</l><l rend="text-indent:1em">而我皆已失</l>
+<lb ed="P" n="0641b07"/><l rend="text-indent:0em">我獨經行時</l><l rend="text-indent:1em">見佛在大眾</l><l rend="text-indent:1em">名聞滿十方</l>
+<lb ed="P" n="0641b08"/><l rend="text-indent:0em">廣饒益眾生</l><l rend="text-indent:1em">自惟失此利</l><l rend="text-indent:1em">我為自欺誑</l></lg></cb:div>
+<lb ed="P" n="0641b09"/><cb:div type="commentary"><p xml:id="pP184p0641b0901" rend="margin-left:1em">頌不預授記失佛功德也三十二相初自
+<lb ed="P" n="0641b10"/>足下安平終至頂相高圓猶如天盖十力
+<pb ed="P" xml:id="P184.1617.0642a" n="0642a"/>
+<lb ed="P" n="0642a01"/>初自處非處智力終至永斷習氣智力八
+<lb ed="P" n="0642a02"/>十種好初自指爪狹長終至<g ref="#CB07153">𦙄</g>萬字相十
+<lb ed="P" n="0642a03"/>八不共謂不與二乘共也初自無過失終
+<lb ed="P" n="0642a04"/>至知過現未事無著無礙。</p></cb:div>
+<lb ed="P" n="0642a05"/><cb:div type="orig"><lg xml:id="lgP184p0642a0501" type="abnormal"><l rend="text-indent:0em">我常於日夜</l><l rend="text-indent:1em">每思惟是事</l><l rend="text-indent:1em">欲以問世尊</l>
+<lb ed="P" n="0642a06"/><l rend="text-indent:0em">為失為不失</l><l rend="text-indent:1em">我常見世尊</l><l rend="text-indent:1em">稱讚諸菩薩</l>
+<lb ed="P" n="0642a07"/><l rend="text-indent:0em">以是於日夜</l><l rend="text-indent:1em">籌量如此事</l></lg></cb:div>
+<lb ed="P" n="0642a08"/><cb:div type="commentary"><p xml:id="pP184p0642a0801" rend="margin-left:1em">見讚菩薩知我之非故籌量其失。</p></cb:div>
+<lb ed="P" n="0642a09"/><cb:div type="orig"><lg xml:id="lgP184p0642a0901" type="abnormal"><l rend="text-indent:0em">今聞佛音聲</l><l rend="text-indent:1em">隨宜而說法</l><l rend="text-indent:1em">無漏難思議</l>
+<lb ed="P" n="0642a10"/><l rend="text-indent:0em">令眾至道塲</l></lg></cb:div><cb:div type="commentary"><p xml:id="pP184p0642a1006" rend="margin-left:1em;inline">而今乃知隨宜之說皆無漏
+<pb ed="P" xml:id="P184.1617.0642b" n="0642b"/>
+<lb ed="P" n="0642b01"/>法真可以證道也。</p></cb:div>
+<lb ed="P" n="0642b02"/><cb:div type="orig"><lg xml:id="lgP184p0642b0201" type="abnormal"><l rend="text-indent:0em">我本著邪見</l><l rend="text-indent:1em">為諸梵志師</l><l rend="text-indent:1em">世尊知我心</l>
+<lb ed="P" n="0642b03"/><l rend="text-indent:0em"><g ref="#CB15072">󳫠</g>邪說涅槃</l><l rend="text-indent:1em">我悉除邪見</l><l rend="text-indent:1em">於空法得證</l>
+<lb ed="P" n="0642b04"/><l rend="text-indent:0em">爾時心自謂</l><l rend="text-indent:1em">得至於滅度</l><l rend="text-indent:1em">而今乃自覺</l>
+<lb ed="P" n="0642b05"/><l rend="text-indent:0em">非是實滅度</l></lg></cb:div><cb:div type="commentary"><p xml:id="pP184p0642b0506" rend="margin-left:1em;inline">感悟自慶也身子昔事珊
+<lb ed="P" n="0642b06"/>闍耶為外道梵志之師因佛為之<g ref="#CB15072">󳫠</g>邪說
+<lb ed="P" n="0642b07"/>法乃入佛道。</p></cb:div>
+<lb ed="P" n="0642b08"/><cb:div type="orig"><lg xml:id="lgP184p0642b0801" type="abnormal"><l rend="text-indent:0em">若得作佛時</l><l rend="text-indent:1em">具三十二相</l><l rend="text-indent:1em">天人夜义眾</l>
+<lb ed="P" n="0642b09"/><l rend="text-indent:0em">龍神等恭敬</l><l rend="text-indent:1em">是時乃可謂</l><l rend="text-indent:1em">永<g ref="#CB16487">𥁞</g>滅無餘</l></lg></cb:div>
+<lb ed="P" n="0642b10"/><cb:div type="commentary"><p xml:id="pP184p0642b1001" rend="margin-left:1em">於空偏證非是實滅即相圓證始謂無餘
+<pb ed="P" xml:id="P184.1617.0643a" n="0643a"/>
+<lb ed="P" n="0643a01"/>永<g ref="#CB16487">𥁞</g>滅即無餘涅槃也。</p></cb:div>
+<lb ed="P" n="0643a02"/><cb:div type="orig"><lg xml:id="lgP184p0643a0201" type="abnormal"><l rend="text-indent:0em">佛於大眾中</l><l rend="text-indent:1em">說我當作佛</l><l rend="text-indent:1em">聞如是法音</l>
+<lb ed="P" n="0643a03"/><l rend="text-indent:0em">疑悔悉<anchor xml:id="beg_4a" type="cb-app"/>已<anchor xml:id="end_4a"/>除</l></lg></cb:div>
+<lb ed="P" n="0643a04"/><cb:div type="commentary"><p xml:id="pP184p0643a0401" rend="margin-left:1em">牒偈首之詞通結也上頌長行<anchor xml:id="beg_4b" type="cb-app"/>已<anchor xml:id="end_4b"/>終。</p></cb:div>
+<lb ed="P" n="0643a05"/><cb:div type="orig"><lg xml:id="lgP184p0643a0501" type="abnormal"><l rend="text-indent:0em">初聞佛所說</l><l rend="text-indent:1em">心中大驚疑</l><l rend="text-indent:1em">將非魔作佛</l>
+<lb ed="P" n="0643a06"/><l rend="text-indent:0em">惱亂我心耶</l><l rend="text-indent:1em">佛以種種緣</l><l rend="text-indent:1em">譬喻巧言說</l>
+<lb ed="P" n="0643a07"/><l rend="text-indent:0em">其心安如海</l><l rend="text-indent:1em">我聞疑網斷</l></lg></cb:div>
+<lb ed="P" n="0643a08"/><cb:div type="commentary"><p xml:id="pP184p0643a0801" rend="margin-left:1em">初聞會三歸一聲聞得佛以非<anchor xml:id="beg_4c" type="cb-app"/>己<anchor xml:id="end_4c"/>智分故
+<lb ed="P" n="0643a09"/>疑之及詳觀佛說其心如海窮之益深測
+<lb ed="P" n="0643a10"/>之益遠乃信為實道無復疑也。</p></cb:div>
+<pb ed="P" xml:id="P184.1617.0643b" n="0643b"/>
+<lb ed="P" n="0643b01"/><cb:div type="orig"><lg xml:id="lgP184p0643b0101" type="abnormal"><l rend="text-indent:0em">佛說過去世</l><l rend="text-indent:1em">無量滅度佛</l><l rend="text-indent:1em">安住方便中</l>
+<lb ed="P" n="0643b02"/><l rend="text-indent:0em">亦皆說是法</l><l rend="text-indent:1em">現在未來佛</l><l rend="text-indent:1em">其數無有量</l>
+<lb ed="P" n="0643b03"/><l rend="text-indent:0em">亦以諸方便</l><l rend="text-indent:1em">演說如是法</l><l rend="text-indent:1em">如今者世尊</l>
+<lb ed="P" n="0643b04"/><l rend="text-indent:0em">從生及出家</l><l rend="text-indent:1em">得道轉法輪</l><l rend="text-indent:1em">亦以方便說</l>
+<lb ed="P" n="0643b05"/><l rend="text-indent:0em">世尊說實道</l><l rend="text-indent:1em">波旬無此事</l></lg></cb:div>
+<lb ed="P" n="0643b06"/><cb:div type="commentary"><p xml:id="pP184p0643b0601" rend="margin-left:1em">此引方便品三世道同及自行道同之文
+<lb ed="P" n="0643b07"/>以自釋也波旬魔名。</p></cb:div>
+<lb ed="P" n="0643b08"/><cb:div type="orig"><lg xml:id="lgP184p0643b0801" type="abnormal"><l rend="text-indent:0em">以是我定知</l><l rend="text-indent:1em">非是魔作佛</l><l rend="text-indent:1em">我墮疑網故</l>
+<lb ed="P" n="0643b09"/><l rend="text-indent:0em">謂是魔所為</l><l rend="text-indent:1em">聞佛柔輭音</l><l rend="text-indent:1em">深遠甚微妙</l>
+<lb ed="P" n="0643b10"/><l rend="text-indent:0em">演暢清淨法</l><l rend="text-indent:1em">我心大歡喜</l><l rend="text-indent:1em">疑悔永<anchor xml:id="beg_4d" type="cb-app"/>已<anchor xml:id="end_4d"/><g ref="#CB16487">𥁞</g></l>
+<pb ed="P" xml:id="P184.1617.0644a" n="0644a"/>
+<lb ed="P" n="0644a01"/><l rend="text-indent:0em">安住實智中</l><l rend="text-indent:1em">我定當作佛</l><l rend="text-indent:1em">為天人所敬</l>
+<lb ed="P" n="0644a02"/><l rend="text-indent:0em">轉無上法輪</l><l rend="text-indent:1em">教化諸菩薩</l></lg></cb:div>
+<lb ed="P" n="0644a03"/><cb:div type="commentary"><p xml:id="pP184p0644a0301" rend="margin-left:1em">牒釋前疑以由領悟也實智即一乘正智
+<lb ed="P" n="0644a04"/>也夫身子大智於佛聞法宜不言而諭乃
+<lb ed="P" n="0644a05"/>綢繆疑慮至於以佛為魔者盖道大機小
+<lb ed="P" n="0644a06"/>乍聞其言鮮不悖戰眩亂而非毀交謫譬
+<lb ed="P" n="0644a07"/>聞姑射之說以為狂而不信望哀駘之風
+<lb ed="P" n="0644a08"/>以為惡駭天下盖後世末俗聞佛道者類
+<lb ed="P" n="0644a09"/>多如此則大智疑慮有所為而設矣。</p></cb:div>
+<lb ed="P" n="0644a10"/><cb:div type="orig"><p xml:id="pP184p0644a1001">爾時佛告舍利弗吾今於天人沙門婆羅
+<pb ed="P" xml:id="P184.1617.0644b" n="0644b"/>
+<lb ed="P" n="0644b01"/>門等大眾中說我昔曾於二萬億佛所為無
+<lb ed="P" n="0644b02"/>上道故常教化汝汝亦長夜隨我受學我以
+<lb ed="P" n="0644b03"/>方便引導汝故生我法中。</p></cb:div>
+<lb ed="P" n="0644b04"/><cb:div type="commentary"><p xml:id="pP184p0644b0401" rend="margin-left:1em">述其本因以明領悟得記之由也言於天
+<lb ed="P" n="0644b05"/>人眾中說者將明遠因遠記示不妄也戒
+<lb ed="P" n="0644b06"/>經云舍利弗曾於六十劫修菩薩道今云
+<lb ed="P" n="0644b07"/>二萬億佛所指彼時也長夜隨學言正智未明。</p></cb:div>
+<lb ed="P" n="0644b08"/><cb:div type="orig"><p xml:id="pP184p0644b0801">舍利弗我昔教汝志願佛道汝今悉忘而便
+<lb ed="P" n="0644b09"/>自謂已得滅度我今還欲令汝憶念本願所
+<lb ed="P" n="0644b10"/>行道故為諸聲聞說是大乘經名妙法蓮華
+<pb ed="P" xml:id="P184.1617.0645a" n="0645a"/>
+<lb ed="P" n="0645a01"/>教菩薩法佛所護念。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0645a0109" rend="margin-left:1em;inline">昔已繫珠今復示珠。</p></cb:div>
+<lb ed="P" n="0645a02"/><cb:div type="orig"><p xml:id="pP184p0645a0201">舍利弗汝於未來世過無量無邊不可思
+<lb ed="P" n="0645a03"/>議劫供養若干千萬億佛奉持正法具足菩
+<lb ed="P" n="0645a04"/>薩所行之道當得作佛號曰華光如來應供
+<lb ed="P" n="0645a05"/>正遍知明行足善逝世間觧無上士調御丈
+<lb ed="P" n="0645a06"/>夫天人師佛世尊。</p></cb:div>
+<lb ed="P" n="0645a07"/><cb:div type="commentary"><p xml:id="pP184p0645a0701" rend="margin-left:1em">既悟妙法當成佛道故得記作佛也諸授
+<lb ed="P" n="0645a08"/>記文皆二初供佛行道因記也次十號劫
+<lb ed="P" n="0645a09"/>國果記也此記大因大果以<g ref="#CB15081">䇿</g>進小乘也
+<lb ed="P" n="0645a10"/>號華光者華表因行光能發明由最初領
+<pb ed="P" xml:id="P184.1617.0645b" n="0645b"/>
+<lb ed="P" n="0645b01"/>悟發明是道故也既受佛記猶過多劫然
+<lb ed="P" n="0645b02"/>後得果者成佛由智得果由行小乘雖悟
+<lb ed="P" n="0645b03"/>實智未修大行是謂素法身佛未有莊嚴
+<lb ed="P" n="0645b04"/>故須經劫供佛行菩薩道所以廓其大心
+<lb ed="P" n="0645b05"/>成就萬德萬德圓備乃成十號具足之佛
+<lb ed="P" n="0645b06"/>非自性天真之佛比矣若此頓教所謂過無
+<lb ed="P" n="0645b07"/>量不思議劫者直約正智頓斷無明頓圓種
+<lb ed="P" n="0645b08"/>智則無邊劫迷一時頓滅是謂過無邊劫成佛。</p></cb:div>
+<lb ed="P" n="0645b09"/><cb:div type="orig"><p xml:id="pP184p0645b0901">國名離垢其土平正清淨嚴飾安隱豐樂天
+<lb ed="P" n="0645b10"/>人熾盛琉璃為地有八交道黃金為繩以界
+<pb ed="P" xml:id="P184.1617.0646a" n="0646a"/>
+<lb ed="P" n="0646a01"/>其側其傍各有七寶行<g ref="#CB14081">𣗳</g>常有華果華光如
+<lb ed="P" n="0646a02"/>來亦以三乘教化眾生舍利弗彼佛出時雖
+<lb ed="P" n="0646a03"/>非惡世以本願故說三乘法其劫名大寶莊
+<lb ed="P" n="0646a04"/>嚴何故名曰大寶莊嚴其國中以菩薩為大
+<lb ed="P" n="0646a05"/>寶故。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0646a0503" rend="margin-left:1em;inline">劫國莊嚴皆因行依報也身子因行
+<lb ed="P" n="0646a06"/>以大智為本故國名離垢因行發明教菩
+<lb ed="P" n="0646a07"/>薩法故劫名大寶莊嚴而以菩薩為大寶
+<lb ed="P" n="0646a08"/>清淨嚴飾則無諸穢土安隱豐樂則無三
+<lb ed="P" n="0646a09"/>災苦天人熾盛則無三惡道有八交道等
+<lb ed="P" n="0646a10"/>者八正道之所會也七寶行<g ref="#CB14081">𣗳</g>等者七覺
+<pb ed="P" xml:id="P184.1617.0646b" n="0646b"/>
+<lb ed="P" n="0646b01"/>支之所生也凡諸佛依報皆然盖因行所
+<lb ed="P" n="0646b02"/>同也若眾生依報則國名堪忍劫名五濁
+<lb ed="P" n="0646b03"/>其土坑坎沙礫為地亦因行所同也反而
+<lb ed="P" n="0646b04"/>求之離垢清淨之相皆即心地安隱豐樂
+<lb ed="P" n="0646b05"/>之事無非性德染淨轉變常存乎人使眾
+<lb ed="P" n="0646b06"/>生不為堪忍苦不起五濁業不行邪謟行
+<lb ed="P" n="0646b07"/>則真離垢平正安隱豐樂之國矣。</p></cb:div>
+<lb ed="P" n="0646b08"/><cb:div type="orig"><p xml:id="pP184p0646b0801">彼諸菩薩無量無邊不可思議筭數譬喻所
+<lb ed="P" n="0646b09"/>不能及非佛智力無能知者若欲行時寶華
+<lb ed="P" n="0646b10"/>承足此諸菩薩非初發意皆久植德本於無
+<pb ed="P" xml:id="P184.1617.0647a" n="0647a"/>
+<lb ed="P" n="0647a01"/>量百千萬億佛所淨修梵行恒為諸佛之所
+<lb ed="P" n="0647a02"/>稱歎常修佛慧具大神通善知一切諸法之
+<lb ed="P" n="0647a03"/>門質直無偽志念堅固如是菩薩充滿其國
+<lb ed="P" n="0647a04"/>舍利弗華光佛壽十二小劫除為王子未作
+<lb ed="P" n="0647a05"/>佛時其國人民壽八小劫。</p></cb:div>
+<lb ed="P" n="0647a06"/><cb:div type="commentary"><p xml:id="pP184p0647a0601" rend="margin-left:1em">除為王子時獨記作佛後壽十二劫。</p></cb:div>
+<lb ed="P" n="0647a07"/><cb:div type="orig"><p xml:id="pP184p0647a0701">華光如來過十二小劫授堅滿菩薩阿耨多
+<lb ed="P" n="0647a08"/>羅三藐三菩提記告諸比丘是堅滿菩薩次
+<lb ed="P" n="0647a09"/>當作佛號曰華足安行多陁阿伽度阿羅訶
+<lb ed="P" n="0647a10"/>三藐三佛陁其佛國土亦復如是。</p></cb:div>
+<pb ed="P" xml:id="P184.1617.0647b" n="0647b"/>
+<lb ed="P" n="0647b01"/><cb:div type="commentary"><p xml:id="pP184p0647b0101" rend="margin-left:1em">此身子轉記堅滿使傳續妙道也過十二
+<lb ed="P" n="0647b02"/>小劫即臨滅時也法華妙道本於燈明傳
+<lb ed="P" n="0647b03"/>於妙光繼於然燈佛佛授手光光相續故
+<lb ed="P" n="0647b04"/>身子得之而記號華光盖發明是道使有
+<lb ed="P" n="0647b05"/>目者共覩也堅滿得之又號華足安行則
+<lb ed="P" n="0647b06"/>率循是道使有趾者共由也至於其國菩
+<lb ed="P" n="0647b07"/>薩行則寶華承足則從其化者莫不由是
+<lb ed="P" n="0647b08"/>道也抑記號華足安行取其帶果行因也
+<lb ed="P" n="0647b09"/>菩薩寶華承足取其藉因趨果也因果互
+<lb ed="P" n="0647b10"/>為始終展轉不離是道欲續而不泯故有
+<pb ed="P" xml:id="P184.1617.0648a" n="0648a"/>
+<lb ed="P" n="0648a01"/>轉記。</p></cb:div>
+<lb ed="P" n="0648a02"/><cb:div type="orig"><p xml:id="pP184p0648a0201">舍利弗是華光佛滅度之後正法住世三十
+<lb ed="P" n="0648a03"/>二小劫像法住世亦三十二小劫。</p></cb:div>
+<lb ed="P" n="0648a04"/><cb:div type="commentary"><p xml:id="pP184p0648a0401" rend="margin-left:1em">法初盛行人能以現量體悟為正去聖逾
+<lb ed="P" n="0648a05"/>遠人惟以比量倣觧為像正法教理行果
+<lb ed="P" n="0648a06"/>僃具像法有教理行而無果故古多聖賢
+<lb ed="P" n="0648a07"/>得道今乃蔑聞此正像異效也及乎末法
+<lb ed="P" n="0648a08"/>則空騰似量荒唐無實雖有教理無行果矣。</p></cb:div>
+<lb ed="P" n="0648a09"/><cb:div type="orig"><p xml:id="pP184p0648a0901">爾時世尊欲重宣此義而說偈言。</p>
+<lb ed="P" n="0648a10"/><lg xml:id="lgP184p0648a1001" type="abnormal"><l rend="text-indent:0em">舍利弗來世</l><l rend="text-indent:1em">成佛普智尊</l><l rend="text-indent:1em">號名曰華光</l>
+<pb ed="P" xml:id="P184.1617.0648b" n="0648b"/>
+<lb ed="P" n="0648b01"/><l rend="text-indent:0em">當度無量眾</l><l rend="text-indent:1em">供養無數佛</l><l rend="text-indent:1em">具足菩薩行</l>
+<lb ed="P" n="0648b02"/><l rend="text-indent:0em">十力等功德</l><l rend="text-indent:1em">證於無上道</l><l rend="text-indent:1em">過無量劫已</l>
+<lb ed="P" n="0648b03"/><l rend="text-indent:0em">劫名大寶嚴</l><l rend="text-indent:1em">世界名離垢</l><l rend="text-indent:1em">清淨無瑕穢</l>
+<lb ed="P" n="0648b04"/><l rend="text-indent:0em">以琉璃為地</l><l rend="text-indent:1em">金繩界其道</l><l rend="text-indent:1em">七寶雜色<g ref="#CB14081">𣗳</g></l>
+<lb ed="P" n="0648b05"/><l rend="text-indent:0em">常有華果實</l><l rend="text-indent:1em">彼國諸菩薩</l><l rend="text-indent:1em">志念常堅固</l>
+<lb ed="P" n="0648b06"/><l rend="text-indent:0em">神通波羅蜜</l><l rend="text-indent:1em">皆<anchor xml:id="beg_4e" type="cb-app"/>已<anchor xml:id="end_4e"/>悉具足</l><l rend="text-indent:1em">於無數佛所</l>
+<lb ed="P" n="0648b07"/><l rend="text-indent:0em">善學菩薩道</l><l rend="text-indent:1em">如是等大士</l><l rend="text-indent:1em">華光佛所化</l>
+<lb ed="P" n="0648b08"/><l rend="text-indent:0em">佛為王子時</l><l rend="text-indent:1em">棄國捨世榮</l><l rend="text-indent:1em">於最末後身</l>
+<lb ed="P" n="0648b09"/><l rend="text-indent:0em">出家成佛道</l></lg></cb:div><cb:div type="commentary"><p xml:id="pP184p0648b0906" rend="margin-left:1em;inline">此偈全頌與記皆即前意
+<lb ed="P" n="0648b10"/>普智即遍知也佛為王子時者諸佛皆示
+<pb ed="P" xml:id="P184.1617.0649a" n="0649a"/>
+<lb ed="P" n="0649a01"/>為王子棄國捨榮警諸貪著如八意之於
+<lb ed="P" n="0649a02"/>燈明十六之於智勝是也生分<anchor xml:id="beg_4f" type="cb-app"/>已<anchor xml:id="end_4f"/><g ref="#CB16487">𥁞</g>梵行
+<lb ed="P" n="0649a03"/><anchor xml:id="beg_50" type="cb-app"/>已<anchor xml:id="end_50"/>立所作<anchor xml:id="beg_51" type="cb-app"/>已<anchor xml:id="end_51"/>辦不受後有名最後身。</p></cb:div>
+<lb ed="P" n="0649a04"/><cb:div type="orig"><lg xml:id="lgP184p0649a0401" type="abnormal"><l rend="text-indent:0em">華光佛住世</l><l rend="text-indent:1em">壽十二小劫</l><l rend="text-indent:1em">其國人民眾</l>
+<lb ed="P" n="0649a05"/><l rend="text-indent:0em">壽命八小劫</l><l rend="text-indent:1em">佛滅度之後</l><l rend="text-indent:1em">正法住於世</l>
+<lb ed="P" n="0649a06"/><l rend="text-indent:0em">三十二小劫</l><l rend="text-indent:1em">廣度諸眾生</l><l rend="text-indent:1em">正法滅<g ref="#CB16487">𥁞</g><anchor xml:id="beg_52" type="cb-app"/>已<anchor xml:id="end_52"/></l>
+<lb ed="P" n="0649a07"/><l rend="text-indent:0em">像法三十二</l><l rend="text-indent:1em">舍利廣流布</l><l rend="text-indent:1em">天人普供養</l>
+<lb ed="P" n="0649a08"/><l rend="text-indent:0em">華光佛所為</l><l rend="text-indent:1em">其事皆如是</l><l rend="text-indent:1em">其兩足聖尊</l>
+<lb ed="P" n="0649a09"/><l rend="text-indent:0em">最勝無倫匹</l><l rend="text-indent:1em">彼即是汝身</l><l rend="text-indent:1em">宜應自欣慶</l></lg>
+<lb ed="P" n="0649a10"/><p xml:id="pP184p0649a1001">爾時四部眾比丘比丘尼優婆塞優婆夷
+<pb ed="P" xml:id="P184.1617.0649b" n="0649b"/>
+<lb ed="P" n="0649b01"/>天龍夜义乾闥婆阿修羅迦樓羅緊那羅摩
+<lb ed="P" n="0649b02"/>睺羅伽等大眾見舍利弗於佛前受阿耨多
+<lb ed="P" n="0649b03"/>羅三藐三菩提記心大歡喜踊躍無量。</p></cb:div>
+<lb ed="P" n="0649b04"/><cb:div type="commentary"><p xml:id="pP184p0649b0401" rend="margin-left:1em">踊喜以謂我等亦如是必當得作佛。</p></cb:div>
+<lb ed="P" n="0649b05"/><cb:div type="orig"><p xml:id="pP184p0649b0501">各各脫身所著上衣以供養佛釋提桓因
+<lb ed="P" n="0649b06"/>梵天王等與無數天子亦以天妙衣天曼陁
+<lb ed="P" n="0649b07"/>羅花摩訶曼陁羅華等供養於佛所散天衣
+<lb ed="P" n="0649b08"/>住虛空中而自廻轉諸天伎樂百千萬種於
+<lb ed="P" n="0649b09"/>虛空中一時俱作雨眾天華。</p></cb:div>
+<lb ed="P" n="0649b10"/><cb:div type="commentary"><p xml:id="pP184p0649b1001" rend="margin-left:1em">衣服人之弢<g ref="#CB14245">󳞥</g>也性障天之弢<g ref="#CB14245">󳞥</g>也廻轉
+<pb ed="P" xml:id="P184.1617.0650a" n="0650a"/>
+<lb ed="P" n="0650a01"/>即廻向意也諸天因聞妙法得離性障遂
+<lb ed="P" n="0650a02"/>回小向大是以脫衣供佛以藉其誠表觧
+<lb ed="P" n="0650a03"/>天弢隳天<g ref="#CB14245">󳞥</g>也衣住空中而自廻轉乃廻
+<lb ed="P" n="0650a04"/>向精誠所感也。</p></cb:div>
+<lb ed="P" n="0650a05"/><cb:div type="orig"><p xml:id="pP184p0650a0501">而作是言佛昔於波羅柰初轉法輪今乃
+<lb ed="P" n="0650a06"/>復轉無上最大法輪。</p></cb:div>
+<lb ed="P" n="0650a07"/><cb:div type="commentary"><p xml:id="pP184p0650a0701" rend="margin-left:1em">昔轉四諦為最小今轉一乘為最大。</p></cb:div>
+<lb ed="P" n="0650a08"/><cb:div type="orig"><p xml:id="pP184p0650a0801">爾時諸天子欲重宣此義而說偈言。</p>
+<lb ed="P" n="0650a09"/><lg xml:id="lgP184p0650a0901" type="abnormal"><l rend="text-indent:0em">昔於波羅柰</l><l rend="text-indent:1em">轉四諦法輪</l><l rend="text-indent:1em">分別說諸法</l>
+<lb ed="P" n="0650a10"/><l rend="text-indent:0em">五眾之生滅</l><l rend="text-indent:1em">今復轉最妙</l><l rend="text-indent:1em">無上大法輪</l>
+<pb ed="P" xml:id="P184.1617.0650b" n="0650b"/>
+<lb ed="P" n="0650b01"/><l rend="text-indent:0em">是法甚深奧</l><l rend="text-indent:1em">少有能信者</l></lg></cb:div>
+<lb ed="P" n="0650b02"/><cb:div type="commentary"><p xml:id="pP184p0650b0201" rend="margin-left:1em">鹿苑分別五趣眾生生滅麄相容有能信
+<lb ed="P" n="0650b03"/>今茲一乘旨妙義奧故少能信者。</p></cb:div>
+<lb ed="P" n="0650b04"/><cb:div type="orig"><lg xml:id="lgP184p0650b0401" type="abnormal"><l rend="text-indent:0em">我等從昔來</l><l rend="text-indent:1em">數聞世尊說</l><l rend="text-indent:1em">未曾聞如是</l>
+<lb ed="P" n="0650b05"/><l rend="text-indent:0em">深妙之上法</l><l rend="text-indent:1em">世尊說是法</l><l rend="text-indent:1em">我等皆隨喜</l>
+<lb ed="P" n="0650b06"/><l rend="text-indent:0em">大智舍利弗</l><l rend="text-indent:1em">今得受尊記</l><l rend="text-indent:1em">我等亦如是</l>
+<lb ed="P" n="0650b07"/><l rend="text-indent:0em">必當得作佛</l><l rend="text-indent:1em">於一切世間</l><l rend="text-indent:1em">最尊無有上</l>
+<lb ed="P" n="0650b08"/><l rend="text-indent:0em">佛道叵思議</l><l rend="text-indent:1em">方便隨宜說</l><l rend="text-indent:1em">我所有福業</l>
+<lb ed="P" n="0650b09"/><l rend="text-indent:0em">今世若過世</l><l rend="text-indent:1em">及見佛功德</l><l rend="text-indent:1em"><g ref="#CB16487">𥁞</g>廻向佛道</l></lg></cb:div>
+<lb ed="P" n="0650b10"/><cb:div type="commentary"><p xml:id="pP184p0650b1001" rend="margin-left:1em">結讚自誓廻小向大也謂今世前世之福
+<pb ed="P" xml:id="P184.1617.0651a" n="0651a"/>
+<lb ed="P" n="0651a01"/>業及值佛所作之功德皆誓捨小果廻向
+<lb ed="P" n="0651a02"/>佛道叵從反可謂不可也。</p></cb:div>
+<lb ed="P" n="0651a03"/><cb:div type="orig"><p xml:id="pP184p0651a0301">爾時舍利弗白佛言世尊我今無復疑悔
+<lb ed="P" n="0651a04"/>親於佛前得受阿耨多羅三藐三菩提記。</p>
+<lb ed="P" n="0651a05"/><p xml:id="pP184p0651a0501">是諸千二百心自在者昔住學地佛常教
+<lb ed="P" n="0651a06"/>化言我法能離生老病死究竟涅槃是學無
+<lb ed="P" n="0651a07"/>學人亦各自以離我見及有無見等謂得涅
+<lb ed="P" n="0651a08"/>槃而今於世尊前聞所未聞皆墮疑惑。</p></cb:div>
+<lb ed="P" n="0651a09"/><cb:div type="commentary"><p xml:id="pP184p0651a0901" rend="margin-left:1em">心自在即無學羅漢學無學即小聲聞昔
+<lb ed="P" n="0651a10"/>蒙佛教自謂究竟而息見趣寂今聞雖說
+<pb ed="P" xml:id="P184.1617.0651b" n="0651b"/>
+<lb ed="P" n="0651b01"/>涅槃亦非真滅是以疑惑也。</p></cb:div>
+<lb ed="P" n="0651b02"/><cb:div type="orig"><p xml:id="pP184p0651b0201">善哉世尊願為四眾說其因緣令離疑惑
+<lb ed="P" n="0651b03"/>爾時佛告舍利弗我先不言諸佛世尊以
+<lb ed="P" n="0651b04"/>種種因緣譬喻言詞方便說法皆為阿耨多
+<lb ed="P" n="0651b05"/>羅三藐三菩提耶是諸所說皆為化菩薩故
+<lb ed="P" n="0651b06"/>然舍利弗今當復以譬喻更明此義諸有智
+<lb ed="P" n="0651b07"/>者以譬喻得觧。</p></cb:div>
+<lb ed="P" n="0651b08"/><cb:div type="commentary"><p xml:id="pP184p0651b0801" rend="margin-left:1em">上皆發起喻說下文正演喻說。</p>
+<lb ed="P" n="0651b09"/><p xml:id="pP184p0651b0901" rend="margin-left:1em">二引火宅喻明昔權教皆為化迷也。</p></cb:div>
+<lb ed="P" n="0651b10"/><cb:div type="orig"><p xml:id="pP184p0651b1001">舍利弗若國邑聚落有大長者其年衰邁
+<pb ed="P" xml:id="P184.1617.0652a" n="0652a"/>
+<lb ed="P" n="0652a01"/>財富無量多有田宅及諸僮僕。</p></cb:div>
+<lb ed="P" n="0652a02"/><cb:div type="commentary"><p xml:id="pP184p0652a0201" rend="margin-left:1em">譬佛王化三界也國有邑邑有聚落譬大
+<lb ed="P" n="0652a03"/>千有三界三界有六道四生大長者譬如
+<lb ed="P" n="0652a04"/>來為一切世間之父其年衰邁譬應緣<anchor xml:id="beg_53" type="cb-app"/>已<anchor xml:id="end_53"/>
+<lb ed="P" n="0652a05"/>久欲般涅槃也財富無量譬無量知見之
+<lb ed="P" n="0652a06"/>法財多有田宅譬方便智慧之福田僮僕
+<lb ed="P" n="0652a07"/>譬慈悲無倦以佑助正道從事群機。</p></cb:div>
+<lb ed="P" n="0652a08"/><cb:div type="orig"><p xml:id="pP184p0652a0801">其家廣大唯有一門多諸人眾一百二百
+<lb ed="P" n="0652a09"/>乃至五百人止住其中。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0652a0910" rend="margin-left:1em;inline">譬五趣苦聚也家
+<lb ed="P" n="0652a10"/>譬三界一門譬一乘出離之道五百人譬
+<pb ed="P" xml:id="P184.1617.0652b" n="0652b"/>
+<lb ed="P" n="0652b01"/>五趣眾生言一百二百者自人天次第而
+<lb ed="P" n="0652b02"/>數也。</p></cb:div>
+<lb ed="P" n="0652b03"/><cb:div type="orig"><p xml:id="pP184p0652b0301">堂閣<anchor xml:id="beg_54" type="cb-app"/>朽<anchor xml:id="end_54"/>故墻壁隤落柱根腐敗梁棟傾危
+<lb ed="P" n="0652b04"/>周帀俱時欻然火起焚燒舍宅。</p></cb:div>
+<lb ed="P" n="0652b05"/><cb:div type="commentary"><p xml:id="pP184p0652b0501" rend="margin-left:1em">譬身老苦逼也家有堂閣舍宅舍宅有墻
+<lb ed="P" n="0652b06"/>壁柱根梁棟皆<anchor xml:id="beg_55" type="cb-app"/>朽<anchor xml:id="end_55"/>腐將傾而不可居譬三
+<lb ed="P" n="0652b07"/>界有五陰眾生眾生有四大命根支體皆
+<lb ed="P" n="0652b08"/>變異速壞而不可保然且於中競造惡業
+<lb ed="P" n="0652b09"/>為五欲財利生死悲惱之所燒煑天上人
+<lb ed="P" n="0652b10"/>間無能免者故曰周帀俱時欻然火起。</p></cb:div>
+<pb ed="P" xml:id="P184.1617.0653a" n="0653a"/>
+<lb ed="P" n="0653a01"/><cb:div type="orig"><p xml:id="pP184p0653a0101">長者諸子若十二十或至三十在此宅中。</p></cb:div>
+<lb ed="P" n="0653a02"/><cb:div type="commentary"><p xml:id="pP184p0653a0201" rend="margin-left:1em">言五百人又言諸子者人則汎舉群生子
+<lb ed="P" n="0653a03"/>則特舉從化者若十指菩薩子二十三十
+<lb ed="P" n="0653a04"/>指二乘子前於五趣言百此於三乘言十
+<lb ed="P" n="0653a05"/>者以五趣眾生從三乘之化者十一而<anchor xml:id="beg_56" type="cb-app"/>已<anchor xml:id="end_56"/>。</p></cb:div>
+<lb ed="P" n="0653a06"/><cb:div type="orig"><p xml:id="pP184p0653a0601">長者見是大火從四靣起即大驚怖。</p></cb:div>
+<lb ed="P" n="0653a07"/><cb:div type="commentary"><p xml:id="pP184p0653a0701" rend="margin-left:1em">譬觀六道苦起大悲心四靣即生老病死
+<lb ed="P" n="0653a08"/>四相為眾苦之本。</p></cb:div>
+<lb ed="P" n="0653a09"/><cb:div type="orig"><p xml:id="pP184p0653a0901">而作是念我雖能於此所燒之門安隱得出
+<lb ed="P" n="0653a10"/>而諸子等於火宅內樂著嬉戲不覺不知不
+<pb ed="P" xml:id="P184.1617.0653b" n="0653b"/>
+<lb ed="P" n="0653b01"/>驚不怖火來逼身苦痛切<anchor xml:id="beg_57" type="cb-app"/>己<anchor xml:id="end_57"/>心不厭患無求
+<lb ed="P" n="0653b02"/>出意。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0653b0203" rend="margin-left:1em;inline">所燒之門安隱得出譬佛於生死苦
+<lb ed="P" n="0653b03"/>永<g ref="#CB16487">𥁞</g>憂患不能襲也諸子樂著不覺不怖
+<lb ed="P" n="0653b04"/>譬深著世樂無有慧心徒見得忘形見利
+<lb ed="P" n="0653b05"/>忘真火宅之人皆如是也。</p></cb:div>
+<lb ed="P" n="0653b06"/><cb:div type="orig"><p xml:id="pP184p0653b0601">舍利弗是長者作是思惟我身手有力當以
+<lb ed="P" n="0653b07"/>衣祴若以几案從舍出之復更思惟是舍唯
+<lb ed="P" n="0653b08"/>有一門而復狹小。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0653b0808" rend="margin-left:1em;inline">沉思救焚之方也謂恃
+<lb ed="P" n="0653b09"/>身手有力<g ref="#CB11276">󲰌</g>幼稚之微欲以衣祴密扶而
+<lb ed="P" n="0653b10"/>出之或以几案憑<g ref="#CB05841">󱛑</g>而出之又思其門狹
+<pb ed="P" xml:id="P184.1617.0654a" n="0654a"/>
+<lb ed="P" n="0654a01"/>小不可用此但以殷勤方便引而出之也
+<lb ed="P" n="0654a02"/>此譬三七思惟設教之意身手全體譬如
+<lb ed="P" n="0654a03"/>來知見力無所畏衣祴密用譬有大神力
+<lb ed="P" n="0654a04"/>几案可憑譬智慧力其門狹小譬二乘心
+<lb ed="P" n="0654a05"/>劣不堪此法故後文云若我但以神力及
+<lb ed="P" n="0654a06"/>智慧力讚如來知見力無所畏者眾生不
+<lb ed="P" n="0654a07"/>能以是得度故但以方便<g ref="#CB15072">󳫠</g>濟之也三藏
+<lb ed="P" n="0654a08"/>法師云衣祴者西國盛華之具貢上貴人
+<lb ed="P" n="0654a09"/>用之。</p></cb:div>
+<lb ed="P" n="0654a10"/><cb:div type="orig"><p xml:id="pP184p0654a1001">諸子幼稚未有所識戀著戲處或當墮落為
+<pb ed="P" xml:id="P184.1617.0654b" n="0654b"/>
+<lb ed="P" n="0654b01"/>火所燒我當為說怖畏之事此舍<anchor xml:id="beg_58" type="cb-app"/>已<anchor xml:id="end_58"/>燒宜時
+<lb ed="P" n="0654b02"/>疾出無令為火之所燒害作是念已如所思
+<lb ed="P" n="0654b03"/>惟具告諸子汝等速出。</p></cb:div>
+<lb ed="P" n="0654b04"/><cb:div type="commentary"><p xml:id="pP184p0654b0401" rend="margin-left:1em">憂其無知明告其害使知趍利。</p></cb:div>
+<lb ed="P" n="0654b05"/><cb:div type="orig"><p xml:id="pP184p0654b0501">父雖憐愍善言誘喻而諸子等樂著嬉戲
+<lb ed="P" n="0654b06"/>不肯信受不驚不畏了無出心亦復不知何
+<lb ed="P" n="0654b07"/>者是火何者為舍云何為失但東西走戲視
+<lb ed="P" n="0654b08"/>父而已。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0654b0804" rend="margin-left:1em;inline">譬眾生為貪欲所迷雖遭大苦不
+<lb ed="P" n="0654b09"/>以為患耽湎既甚不知何者是苦何者是
+<lb ed="P" n="0654b10"/>身云何為貪但迷<anchor xml:id="beg_59" type="cb-app"/>己<anchor xml:id="end_59"/>逐物火馳不返雖值
+<pb ed="P" xml:id="P184.1617.0655a" n="0655a"/>
+<lb ed="P" n="0655a01"/>佛法不從其化特視之而已。</p></cb:div>
+<lb ed="P" n="0655a02"/><cb:div type="orig"><p xml:id="pP184p0655a0201">爾時長者即作是念此舍已為大火所燒
+<lb ed="P" n="0655a03"/>我及諸子若不時出必為所焚我今當設方
+<lb ed="P" n="0655a04"/>便令諸子等得免斯害父知諸子先心各有
+<lb ed="P" n="0655a05"/>所好種種珍玩奇異之物情必樂著而告之
+<lb ed="P" n="0655a06"/>言汝等所可玩好希有難得汝若不取後必
+<lb ed="P" n="0655a07"/>憂悔如此種種羊車鹿車牛車今在門外可
+<lb ed="P" n="0655a08"/>以遊戲汝等於此火宅宜速出來隨汝所欲
+<lb ed="P" n="0655a09"/>皆當與汝。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0655a0905" rend="margin-left:1em;inline">徒令速出則怫其所欲既不能
+<lb ed="P" n="0655a10"/>化故順其所欲而化之長者亦自恐被焚
+<pb ed="P" xml:id="P184.1617.0655b" n="0655b"/>
+<lb ed="P" n="0655b01"/>者譬佛示身三界與民同患也知子所好
+<lb ed="P" n="0655b02"/>等者譬知諸眾生有種種欲隨其本性方
+<lb ed="P" n="0655b03"/>便說三也車表果法不属三界故云今在
+<lb ed="P" n="0655b04"/>門外可以遊戲者喻法樂可以自娛也牛
+<lb ed="P" n="0655b05"/>正服乘之大力者正譬大根以任大乘羊
+<lb ed="P" n="0655b06"/>鹿非可服乘徒以像牛為幼稚玩好之具
+<lb ed="P" n="0655b07"/>權譬小根以任小乘知羊鹿非可服乘徒
+<lb ed="P" n="0655b08"/>為玩好之具則知二乘不足致道徒為戲
+<lb ed="P" n="0655b09"/>論之法而已。</p></cb:div>
+<lb ed="P" n="0655b10"/><cb:div type="orig"><p xml:id="pP184p0655b1001">爾時諸子聞父所說珍玩之物適其願故
+<pb ed="P" xml:id="P184.1617.0656a" n="0656a"/>
+<lb ed="P" n="0656a01"/>心各勇<g ref="#CB07536">𨦣</g>互相推排競共馳走爭出火宅。</p></cb:div>
+<lb ed="P" n="0656a02"/><cb:div type="commentary"><p xml:id="pP184p0656a0201" rend="margin-left:1em">言適其欲故化無不從進之為推退之為
+<lb ed="P" n="0656a03"/>排此爭出之勢也譬隨根利鈍决擇三乘
+<lb ed="P" n="0656a04"/>以求出離。</p></cb:div>
+<lb ed="P" n="0656a05"/><cb:div type="orig"><p xml:id="pP184p0656a0501">是時長者見諸子等安隱得出皆於四衢道
+<lb ed="P" n="0656a06"/>中露地而坐無復障礙其心泰然歡喜踊躍
+<lb ed="P" n="0656a07"/>乍喜諸子脫苦也四衢露坐等譬依四諦
+<lb ed="P" n="0656a08"/>造偏空而不知進也。</p>
+<lb ed="P" n="0656a09"/><p xml:id="pP184p0656a0901">時諸子等各白父言父先所許玩好之具羊
+<lb ed="P" n="0656a10"/>車鹿車牛車願時賜與。</p></cb:div>
+<pb ed="P" xml:id="P184.1617.0656b" n="0656b"/>
+<lb ed="P" n="0656b01"/><cb:div type="commentary"><p xml:id="pP184p0656b0101" rend="margin-left:1em">諸子出宅就父索車譬因獲三乘之利遂
+<lb ed="P" n="0656b02"/>執三乘之果。</p></cb:div>
+<lb ed="P" n="0656b03"/><cb:div type="orig"><p xml:id="pP184p0656b0301">舍利弗爾時長者各賜諸子等一大車。</p></cb:div>
+<lb ed="P" n="0656b04"/><cb:div type="commentary"><p xml:id="pP184p0656b0401" rend="margin-left:1em">譬說三之後等示一乘使知無二無三即
+<lb ed="P" n="0656b05"/>廢權立實也。</p></cb:div>
+<lb ed="P" n="0656b06"/><cb:div type="orig"><p xml:id="pP184p0656b0601">其車高廣眾寶莊校周帀欄楯四面懸鈴又
+<lb ed="P" n="0656b07"/>於其上張設幰盖亦以珍奇雜寶而嚴飾之
+<lb ed="P" n="0656b08"/>寶繩交絡垂諸華瓔重敷婉筵安置円枕駕
+<lb ed="P" n="0656b09"/>以白牛膚色充潔形體姝好有大筋力行步
+<lb ed="P" n="0656b10"/>平正其疾如風又多僕從而侍衛之。</p></cb:div>
+<pb ed="P" xml:id="P184.1617.0657a" n="0657a"/>
+<lb ed="P" n="0657a01"/><cb:div type="commentary"><p xml:id="pP184p0657a0101" rend="margin-left:1em">車譬一乘牛譬大根餘表一乘大根之德
+<lb ed="P" n="0657a02"/>用也其車高廣者高出三乘廣攝九部也
+<lb ed="P" n="0657a03"/>眾寶譬萬行欄楯譬總持懸鈴譬四辯之
+<lb ed="P" n="0657a04"/>下化幰盖譬慈悲之普覆雜寶譬眾善所
+<lb ed="P" n="0657a05"/>以嚴慈悲也寶繩譬四誓所以固慈悲也
+<lb ed="P" n="0657a06"/>垂諸華瓔則外布妙因聮續如瓔重敷婉
+<lb ed="P" n="0657a07"/>筵則內弘忍力柔軟如筵安置円枕者使
+<lb ed="P" n="0657a08"/>心冥覺觀而默處是道也駕以白牛者非
+<lb ed="P" n="0657a09"/>純一大根不堪此乘也膚色充潔得其所
+<lb ed="P" n="0657a10"/>養而無染也形體姝好全其所賦而無惡
+<pb ed="P" xml:id="P184.1617.0657b" n="0657b"/>
+<lb ed="P" n="0657b01"/>也有大筋力譬堪任大事行步平正譬允
+<lb ed="P" n="0657b02"/>蹈大方其疾如風譬一念頓造又多僕從
+<lb ed="P" n="0657b03"/>譬方便利生助道之事總而譬之即後所
+<lb ed="P" n="0657b04"/>謂諸佛禪定觧脫等娛樂之具一相一種
+<lb ed="P" n="0657b05"/>淨妙之樂也。</p></cb:div>
+<lb ed="P" n="0657b06"/><cb:div type="orig"><p xml:id="pP184p0657b0601">所以者何是大長者財富無量種種諸藏悉
+<lb ed="P" n="0657b07"/>皆充溢而作是念我財物無極不應以下劣
+<lb ed="P" n="0657b08"/>小車與諸子等。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0657b0807" rend="margin-left:1em;inline">釋所以賜等一大車之意
+<lb ed="P" n="0657b09"/>譬如來有無量知見力無所畏諸佛法藏
+<lb ed="P" n="0657b10"/>能與眾生大乘之法。</p></cb:div>
+<pb ed="P" xml:id="P184.1617.0658a" n="0658a"/>
+<lb ed="P" n="0658a01"/><cb:div type="orig"><p xml:id="pP184p0658a0101">今此幼童皆是吾子愛無偏黨我有如是七
+<lb ed="P" n="0658a02"/>寶大車其數無量應當等心各各與之不宜
+<lb ed="P" n="0658a03"/>差別。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0658a0303" rend="margin-left:1em;inline">譬諸眾生皆是我子等與大乘不令
+<lb ed="P" n="0658a04"/>有人獨得滅度。</p></cb:div>
+<lb ed="P" n="0658a05"/><cb:div type="orig"><p xml:id="pP184p0658a0501">所以者何以我此物周給一國猶尚不匱何
+<lb ed="P" n="0658a06"/>况諸子。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0658a0604" rend="margin-left:1em;inline">萬物皆徃資焉而不匱此之謂也。</p></cb:div>
+<lb ed="P" n="0658a07"/><cb:div type="orig"><p xml:id="pP184p0658a0701">是時諸子各乘大車得未曾有非本所望。</p></cb:div>
+<lb ed="P" n="0658a08"/><cb:div type="commentary"><p xml:id="pP184p0658a0801" rend="margin-left:1em">譬二乘得佛過其所望。</p></cb:div>
+<lb ed="P" n="0658a09"/><cb:div type="orig"><p xml:id="pP184p0658a0901">舍利弗於汝意云何是長者等與諸子珍
+<lb ed="P" n="0658a10"/>寶大車寧有虛妄不。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0658a1009" rend="margin-left:1em;inline">問許三而賜一猶始
+<pb ed="P" xml:id="P184.1617.0658b" n="0658b"/>
+<lb ed="P" n="0658b01"/>權而終實始終相違涉虛妄不。</p></cb:div>
+<lb ed="P" n="0658b02"/><cb:div type="orig"><p xml:id="pP184p0658b0201">舍利弗言不也世尊是長者但令諸子得免
+<lb ed="P" n="0658b03"/>火難全其軀命非為虛妄何以故若全身命
+<lb ed="P" n="0658b04"/>便為已得玩好之具况復方便於彼火宅而
+<lb ed="P" n="0658b05"/><g ref="#CB15924">㧞</g>濟之。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0658b0504" rend="margin-left:1em;inline">以全身命為得玩好者身之可玩
+<lb ed="P" n="0658b06"/>固甚於物盖身為道本本全則道全所以
+<lb ed="P" n="0658b07"/>至人常遺物抱道以全身養生而火宅之
+<lb ed="P" n="0658b08"/>人唯物之玩不自貴愛故此警之耳。</p></cb:div>
+<lb ed="P" n="0658b09"/><cb:div type="orig"><p xml:id="pP184p0658b0901">世尊若是長者乃至不與最小一車猶不
+<lb ed="P" n="0658b10"/>虛妄何以故是長者先作是意我以方便令
+<pb ed="P" xml:id="P184.1617.0659a" n="0659a"/>
+<lb ed="P" n="0659a01"/>子得出以是因緣無虛妄也何况長者自知
+<lb ed="P" n="0659a02"/>財富無量欲饒益諸子等與大車佛告舍利
+<lb ed="P" n="0659a03"/>弗善哉善哉如汝所言。</p>
+<lb ed="P" n="0659a04"/><p xml:id="pP184p0659a0401">舍利弗如來亦復如是則為一切世間之
+<lb ed="P" n="0659a05"/>父。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0659a0502" rend="margin-left:1em;inline">視四生如一子等三界以同仁。</p></cb:div>
+<lb ed="P" n="0659a06"/><cb:div type="orig"><p xml:id="pP184p0659a0601">於諸怖畏衰惱憂患無明暗蔽永<g ref="#CB16487">𥁞</g>無餘。</p></cb:div>
+<lb ed="P" n="0659a07"/><cb:div type="commentary"><p xml:id="pP184p0659a0701" rend="margin-left:1em">怖畏惱患即三界苦相無明暗蔽即四生
+<lb ed="P" n="0659a08"/>苦本於此永<g ref="#CB16487">𥁞</g>即如如佛。</p></cb:div>
+<lb ed="P" n="0659a09"/><cb:div type="orig"><p xml:id="pP184p0659a0901">而悉成就無量知見力無所畏有大神力及
+<lb ed="P" n="0659a10"/>智慧力具足方便智慧波羅蜜大慈大悲常
+<pb ed="P" xml:id="P184.1617.0659b" n="0659b"/>
+<lb ed="P" n="0659b01"/>無懈倦恒求善事利益一切。</p></cb:div>
+<lb ed="P" n="0659b02"/><cb:div type="commentary"><p xml:id="pP184p0659b0201" rend="margin-left:1em">知見力無畏正智也方便智度權智也神
+<lb ed="P" n="0659b03"/>力智力所以資正智慈悲無倦所以運權智。</p></cb:div>
+<lb ed="P" n="0659b04"/><cb:div type="orig"><p xml:id="pP184p0659b0401">而生三界<anchor xml:id="beg_5a" type="cb-app"/>朽<anchor xml:id="end_5a"/>故火宅為度眾生生老病死
+<lb ed="P" n="0659b05"/>憂悲苦惱愚癡暗蔽三毒之火教化令得阿
+<lb ed="P" n="0659b06"/>耨多羅三藐三菩提。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0659b0609" rend="margin-left:1em;inline">由慈悲故示生三界
+<lb ed="P" n="0659b07"/>之家濟度五趣之眾以自永<g ref="#CB16487">𥁞</g>無明暗蔽
+<lb ed="P" n="0659b08"/>故欲度眾生愚癡暗蔽以自成就無量知
+<lb ed="P" n="0659b09"/>見故欲令眾生得大菩提所謂欲令一切
+<lb ed="P" n="0659b10"/>眾如我等無異也。</p></cb:div>
+<pb ed="P" xml:id="P184.1617.0660a" n="0660a"/>
+<lb ed="P" n="0660a01"/><cb:div type="orig"><p xml:id="pP184p0660a0101">見諸眾生為生老病死憂悲苦惱之所燒
+<lb ed="P" n="0660a02"/>煑亦以五欲財利故受種種苦又以貪著追
+<lb ed="P" n="0660a03"/>求故現受眾苦後受地獄畜生餓鬼之苦若
+<lb ed="P" n="0660a04"/>生天上及在人間貧窮困苦愛別離苦冤憎
+<lb ed="P" n="0660a05"/>會苦如是等種種諸苦眾生沒在其中歡喜
+<lb ed="P" n="0660a06"/>遊戲不覺不知不驚不怖亦不生猒不求觧
+<lb ed="P" n="0660a07"/>脫於此三界火宅東西馳走雖遭大苦不以
+<lb ed="P" n="0660a08"/>為患。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0660a0803" rend="margin-left:1em;inline">此備舉三界火宅苦狀該三世六道
+<lb ed="P" n="0660a09"/>因果也生老病死憂悲苦惱為果業属前
+<lb ed="P" n="0660a10"/>因五欲財利追求等苦為因業属後果畜
+<pb ed="P" xml:id="P184.1617.0660b" n="0660b"/>
+<lb ed="P" n="0660b01"/>生餓鬼天上人間即緣上因果成六道業
+<lb ed="P" n="0660b02"/>化為異類淪替不停實可驚怖彼且喜而
+<lb ed="P" n="0660b03"/>不猒遭而不患實癡暗所蔽也。</p></cb:div>
+<lb ed="P" n="0660b04"/><cb:div type="orig"><p xml:id="pP184p0660b0401">舍利弗佛見此<anchor xml:id="beg_5b" type="cb-app"/>已<anchor xml:id="end_5b"/>便作是念我為眾生之
+<lb ed="P" n="0660b05"/>父應<g ref="#CB15072">󳫠</g>其苦難與無量無邊佛智慧樂令其
+<lb ed="P" n="0660b06"/>遊戲舍利弗如來復作是念若我但以神力
+<lb ed="P" n="0660b07"/>及智慧力捨於方便為諸眾生讚如來知見
+<lb ed="P" n="0660b08"/>力所無畏者眾生不能以是得度。</p></cb:div>
+<lb ed="P" n="0660b09"/><cb:div type="commentary"><p xml:id="pP184p0660b0901" rend="margin-left:1em">無邊佛慧樂即一乘法樂如來知見力無
+<lb ed="P" n="0660b10"/>所畏即一乘法體雖足以<g ref="#CB15072">󳫠</g>苦然非凡夫
+<pb ed="P" xml:id="P184.1617.0661a" n="0661a"/>
+<lb ed="P" n="0661a01"/>事故不能以是得度。</p></cb:div>
+<lb ed="P" n="0661a02"/><cb:div type="orig"><p xml:id="pP184p0661a0201">所以者何是諸眾生未免生老病死憂悲
+<lb ed="P" n="0661a03"/>苦惱而為三界火宅所燒何由能觧佛之智
+<lb ed="P" n="0661a04"/>慧。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0661a0402" rend="margin-left:1em;inline">所以不能以是得度者為眾苦所迷故。</p></cb:div>
+<lb ed="P" n="0661a05"/><cb:div type="orig"><p xml:id="pP184p0661a0501">舍利弗如彼長者雖復身手有力而不用
+<lb ed="P" n="0661a06"/>之但以殷勤方便勉濟諸子火宅之難然後
+<lb ed="P" n="0661a07"/>各與珍寶大車如來亦復如是雖有力無所
+<lb ed="P" n="0661a08"/>畏而不用之但以智慧方便於三界火宅<g ref="#CB15072">󳫠</g>
+<lb ed="P" n="0661a09"/>濟眾生為說三乘聲聞辟支佛佛乘。</p></cb:div>
+<lb ed="P" n="0661a10"/><cb:div type="commentary"><p xml:id="pP184p0661a1001" rend="margin-left:1em">法喻雙明。</p></cb:div>
+<pb ed="P" xml:id="P184.1617.0661b" n="0661b"/>
+<lb ed="P" n="0661b01"/><cb:div type="orig"><p xml:id="pP184p0661b0101">而作是言汝等莫得樂住三界火宅勿貪麄
+<lb ed="P" n="0661b02"/>弊色聲香味觸也若貪著生愛則為所燒。</p></cb:div>
+<lb ed="P" n="0661b03"/><cb:div type="commentary"><p xml:id="pP184p0661b0301" rend="margin-left:1em">此善言誘諭力<g ref="#CB15072">󳫠</g>其苦也色等五欲俗以
+<lb ed="P" n="0661b04"/>為軟羙佛以為麄弊為皆幻惑濁惡能發
+<lb ed="P" n="0661b05"/>業苦實致火之具也故貪著生愛則為所燒
+<lb ed="P" n="0661b06"/>汝速出三界當得三乘聲聞辟支佛佛乘我
+<lb ed="P" n="0661b07"/>今為汝保任此事終不虛也汝等但當勤修
+<lb ed="P" n="0661b08"/>精進如來以是方便誘進眾生復作是言汝
+<lb ed="P" n="0661b09"/>等當知此三乘法皆是聖所稱歎自在無繫
+<lb ed="P" n="0661b10"/>無所依求乘是三乘以無漏根力覺道禪定
+<pb ed="P" xml:id="P184.1617.0662a" n="0662a"/>
+<lb ed="P" n="0662a01"/>觧脫三昧等而自娛樂便得無量安隱快樂
+<lb ed="P" n="0662a02"/>示以三乘而讚其法使向慕也此三乘法
+<lb ed="P" n="0662a03"/>聖所稱歎者諸佛共尊也能離生死故自
+<lb ed="P" n="0662a04"/>在無繫異有為法故無所依求得是乘者
+<lb ed="P" n="0662a05"/>斯得無漏五根五力七覺支八正道四禪
+<lb ed="P" n="0662a06"/>九次第定八觧脫諸三昧法足以娛樂脫
+<lb ed="P" n="0662a07"/>三界苦。</p></cb:div>
+<lb ed="P" n="0662a08"/><cb:div type="orig"><p xml:id="pP184p0662a0801">舍利弗若有眾生內有智性從佛世尊聞
+<lb ed="P" n="0662a09"/>法信受殷勤精進欲速出三界自求涅槃是
+<lb ed="P" n="0662a10"/>名聲聞乘如彼諸子為求羊車出於火宅。</p></cb:div>
+<pb ed="P" xml:id="P184.1617.0662b" n="0662b"/>
+<lb ed="P" n="0662b01"/><cb:div type="commentary"><p xml:id="pP184p0662b0101" rend="margin-left:1em">此辯三乘根性不等取果有異如彼諸子
+<lb ed="P" n="0662b02"/>玩好不同內有智性者謂正因信種揀非
+<lb ed="P" n="0662b03"/>闡提也內有是因故從佛為緣觀四諦理
+<lb ed="P" n="0662b04"/>聞聲悟道名聲聞乘欲速機小故譬羊車。</p></cb:div>
+<lb ed="P" n="0662b05"/><cb:div type="orig"><p xml:id="pP184p0662b0501">若有眾生從佛世尊聞法信受殷勤精進
+<lb ed="P" n="0662b06"/>求自然慧樂獨善寂深知諸法因緣是名辟
+<lb ed="P" n="0662b07"/>支佛乘如彼諸子為求鹿車出於火宅。</p></cb:div>
+<lb ed="P" n="0662b08"/><cb:div type="commentary"><p xml:id="pP184p0662b0801" rend="margin-left:1em">辟支此云獨覺亦通緣覺出無佛世觀物
+<lb ed="P" n="0662b09"/>變易自覺無生故號獨覺觀十二緣覺真
+<lb ed="P" n="0662b10"/>諦理故號緣覺求自然慧樂獨善寂即獨
+<pb ed="P" xml:id="P184.1617.0663a" n="0663a"/>
+<lb ed="P" n="0663a01"/>覺也深知諸法因緣即緣覺也此乘斷三
+<lb ed="P" n="0663a02"/>界見思與聲聞同更侵斷習氣根性猛利
+<lb ed="P" n="0663a03"/>故居聲聞上其機稍大故譬鹿車。</p></cb:div>
+<lb ed="P" n="0663a04"/><cb:div type="orig"><p xml:id="pP184p0663a0401">若有眾生從佛世尊聞法信受勤修精進
+<lb ed="P" n="0663a05"/>求一切智佛智自然智無師智如來知見力
+<lb ed="P" n="0663a06"/>無所畏愍念安樂無量眾生利益天人度脫
+<lb ed="P" n="0663a07"/>一切是名大乘菩薩求此乘故名為摩訶薩
+<lb ed="P" n="0663a08"/>如彼諸子為求牛車出於火宅。</p></cb:div>
+<lb ed="P" n="0663a09"/><cb:div type="commentary"><p xml:id="pP184p0663a0901" rend="margin-left:1em">此兼三乘集眾智之大根也一切智即菩
+<lb ed="P" n="0663a10"/>薩智也佛智即一切種智也自然即離諸
+<pb ed="P" xml:id="P184.1617.0663b" n="0663b"/>
+<lb ed="P" n="0663b01"/>證取者無師即不由他悟者能求眾智及
+<lb ed="P" n="0663b02"/>如來知見廣大德用而愍安利度所以為
+<lb ed="P" n="0663b03"/>大菩薩其機為最故譬牛車。</p></cb:div>
+<lb ed="P" n="0663b04"/><cb:div type="orig"><p xml:id="pP184p0663b0401">舍利弗如彼長者見諸子等安隱得出火
+<lb ed="P" n="0663b05"/>宅到無畏處自惟財富無量等以大車而賜
+<lb ed="P" n="0663b06"/>諸子。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0663b0603" rend="margin-left:1em;inline">此牒見子得出露地而坐自念財物
+<lb ed="P" n="0663b07"/>無極不與小車等文。</p></cb:div>
+<lb ed="P" n="0663b08"/><cb:div type="orig"><p xml:id="pP184p0663b0801">如來亦復。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0663b0805" rend="margin-left:1em;inline">如是為一切眾生之父若見無
+<lb ed="P" n="0663b09"/>量億千眾生以佛教門出三界苦怖畏險道
+<lb ed="P" n="0663b10"/>得涅槃樂如來爾時便作是念我有無量無
+<pb ed="P" xml:id="P184.1617.0664a" n="0664a"/>
+<lb ed="P" n="0664a01"/>邊智慧力無畏等諸佛法藏是諸眾生皆是
+<lb ed="P" n="0664a02"/>我子等與大乘不令有人獨得滅度皆以如
+<lb ed="P" n="0664a03"/>來滅度而滅度之。</p>
+<lb ed="P" n="0664a04"/><p xml:id="pP184p0664a0401" rend="margin-left:1em">合上可明出三界苦得涅槃樂即權乘小
+<lb ed="P" n="0664a05"/>果如來滅度而滅度之即大乘極果。</p></cb:div>
+<lb ed="P" n="0664a06"/><cb:div type="orig"><p xml:id="pP184p0664a0601">是諸眾生脫三界者悉與諸佛禪定觧脫等
+<lb ed="P" n="0664a07"/>娛樂之具皆是一相一種聖所稱歎能生淨
+<lb ed="P" n="0664a08"/>妙第一之樂。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0664a0806" rend="margin-left:1em;inline"><g ref="#CB00562">䟽</g>上等與大乘之意也謂彼
+<lb ed="P" n="0664a09"/>脫三界者雖得小乘禪定觧脫然猶猒有
+<lb ed="P" n="0664a10"/>著空非一相也裂為二乘非一種也執著
+<pb ed="P" xml:id="P184.1617.0664b" n="0664b"/>
+<lb ed="P" n="0664b01"/>未除非淨也空有未融非妙也故與之諸
+<lb ed="P" n="0664b02"/>佛禪定觧脫娛樂之具一相一種淨妙之
+<lb ed="P" n="0664b03"/>樂如彼大車眾羙具僃。</p></cb:div>
+<lb ed="P" n="0664b04"/><cb:div type="orig"><p xml:id="pP184p0664b0401">舍利弗如彼長者初以三車誘引諸子然
+<lb ed="P" n="0664b05"/>後但與大車寶物莊嚴安隱第一然彼長者
+<lb ed="P" n="0664b06"/>無虛妄之咎。</p></cb:div><cb:div type="commentary"><p xml:id="pP184p0664b0606" rend="margin-left:1em;inline">先牒次結。</p></cb:div>
+<lb ed="P" n="0664b07"/><cb:div type="orig"><p xml:id="pP184p0664b0701">如來亦復如是無有虛妄初說三乘引導
+<lb ed="P" n="0664b08"/>眾生然後但以大乘而度脫之何以故如來
+<lb ed="P" n="0664b09"/>有無量智慧力無所畏諸法之藏能與一切
+<lb ed="P" n="0664b10"/>眾生大乘之法但不<g ref="#CB16487">𥁞</g>能受舍利弗以是因
+<pb ed="P" xml:id="P184.1617.0665a" n="0665a"/>
+<lb ed="P" n="0665a01"/>緣當知諸佛方便力故於一佛乘分別說三
+<lb ed="P" n="0665a02"/>總結前文也不<g ref="#CB16487">𥁞</g>能受者機不齊故。</p></cb:div>
+<lb ed="P" n="0665a03"/>
+<lb ed="P" n="0665a04"/>
+<lb ed="P" n="0665a05"/><cb:juan fun="close" n="4"><cb:jhead>妙法蓮華經要觧卷第四終</cb:jhead></cb:juan>
+</cb:div></body>
+<back>
+<cb:div type="apparatus">
+<head>校勘記</head>
+<p>
+<choice cb:resp="#resp1" cb:from="#beg_48" cb:to="#end_48"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_49" cb:to="#end_49"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4a" cb:to="#end_4a"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4b" cb:to="#end_4b"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4c" cb:to="#end_4c"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4d" cb:to="#end_4d"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4e" cb:to="#end_4e"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_4f" cb:to="#end_4f"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_50" cb:to="#end_50"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_51" cb:to="#end_51"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_52" cb:to="#end_52"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_53" cb:to="#end_53"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_54" cb:to="#end_54"><corr>朽</corr><sic>杇</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_55" cb:to="#end_55"><corr>朽</corr><sic>杇</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_56" cb:to="#end_56"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_57" cb:to="#end_57"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_58" cb:to="#end_58"><corr>已</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_59" cb:to="#end_59"><corr>己</corr><sic>巳</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5a" cb:to="#end_5a"><corr>朽</corr><sic>杇</sic></choice>
+<choice cb:resp="#resp1" cb:from="#beg_5b" cb:to="#end_5b"><corr>已</corr><sic>巳</sic></choice>
+</p>
+</cb:div>
+</back></text></TEI>
